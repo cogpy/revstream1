@@ -1,13 +1,39 @@
 {
   "metadata": {
-    "version": "1.0",
+    "version": "2.0",
     "created_date": "2025-11-10",
     "description": "Event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "total_events": 20,
-    "extended_evidence": "incorporated_from_knowledge_base"
+    "total_events": 26,
+    "extended_evidence": "incorporated_from_knowledge_base",
+    "last_updated": "2025-11-10",
+    "changes": "Added critical events: Bantjies audit dismissal, stock adjustment fraud, R900K transfers, Gee email, historical events"
   },
   "events": [
+    {
+      "event_id": "EVENT_022",
+      "date": "2025-02-14",
+      "title": "R900,000 Unauthorized Transfers from RegimA SA",
+      "category": "financial_manipulation",
+      "event_type": "unauthorized_transfer",
+      "perpetrators": [
+        "PERSON_001"
+      ],
+      "victims": [
+        "PERSON_005"
+      ],
+      "entities_involved": [
+        "ORG_006"
+      ],
+      "description": "Peter made unauthorized transfers of R900,000 from RegimA SA without Daniel's authority as co-director",
+      "financial_impact": "R900,000",
+      "legal_significance": "unauthorized_transfer_without_co_director_authority",
+      "evidence": [
+        "bank_transfer_records",
+        "authorization_absence"
+      ],
+      "pattern": "foundation_phase"
+    },
     {
       "event_id": "EVENT_001",
       "date": "2025-03-01",
@@ -34,6 +60,37 @@
       "pattern": "foundation_phase"
     },
     {
+      "event_id": "EVENT_024",
+      "date": "2025-03-01",
+      "title": "R5.4M Stock Disappears from Strategic Logistics",
+      "category": "transfer_pricing_fraud",
+      "event_type": "stock_theft",
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_002",
+        "PERSON_007",
+        "PERSON_003"
+      ],
+      "victims": [
+        "ORG_004",
+        "TRUST_001"
+      ],
+      "entities_involved": [
+        "ORG_004",
+        "PERSON_003"
+      ],
+      "description": "R5.4M worth of stock physically disappears from Strategic Logistics warehouse. Represents 46% of annual sales, 10x historical adjustment rate. Same stock type later supplied by Adderory (Rynette's son's company) to RegimA.",
+      "financial_impact": "R5,400,000",
+      "legal_significance": "largest_single_identifiable_theft_transfer_pricing_fraud",
+      "evidence": [
+        "stock_reconciliation_reports",
+        "warehouse_records",
+        "adderory_supply_documentation"
+      ],
+      "pattern": "foundation_phase",
+      "critical": true
+    },
+    {
       "event_id": "EVENT_002",
       "date": "2025-03-15",
       "title": "Trust Structure Establishment",
@@ -55,6 +112,32 @@
       "evidence": [
         "trust_documentation",
         "beneficiary_records"
+      ],
+      "pattern": "foundation_phase"
+    },
+    {
+      "event_id": "EVENT_025",
+      "date": "2025-03-15",
+      "title": "R5.4M Stock Adjustment Processed Without Investigation",
+      "category": "accounting_fraud",
+      "event_type": "fraudulent_accounting_entry",
+      "perpetrators": [
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "victims": [
+        "ORG_004",
+        "TRUST_001"
+      ],
+      "entities_involved": [
+        "ORG_004"
+      ],
+      "description": "R5.4M written off as simple 'stock adjustment' without investigation, supporting documentation, or proper authorization. Bantjies as accountant should have investigated 46% loss but did not, demonstrating complicity.",
+      "financial_impact": "R5,400,000",
+      "legal_significance": "accounting_fraud_breach_of_professional_duty",
+      "evidence": [
+        "general_ledger_entries",
+        "lack_of_investigation_documentation"
       ],
       "pattern": "foundation_phase"
     },
@@ -239,7 +322,7 @@
       "entities_involved": [
         "PLATFORM_001"
       ],
-      "description": "CRITICAL EVENT: R1M+ monthly revenue → R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
+      "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
       "financial_impact": "R1,000,000+ monthly",
       "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
       "evidence": [
@@ -322,6 +405,37 @@
         "card_cancellation_logs"
       ],
       "pattern": "consolidation_phase"
+    },
+    {
+      "event_id": "EVENT_023",
+      "date": "2025-06-10",
+      "title": "Bantjies Dismisses Audit Request",
+      "category": "fraud_concealment",
+      "event_type": "audit_blocking",
+      "perpetrators": [
+        "PERSON_007"
+      ],
+      "victims": [
+        "PERSON_005",
+        "PERSON_004",
+        "TRUST_001"
+      ],
+      "entities_involved": [
+        "ORG_001",
+        "ORG_002",
+        "ORG_004"
+      ],
+      "description": "CRITICAL EVENT: Bantjies dismisses Daniel's audit request 4 days after Daniel exposed Villa Via fraud. Audit would have discovered R5.4M stock adjustment fraud and systematic inter-company manipulation. Demonstrates consciousness of guilt and protection of fraud scheme.",
+      "financial_impact": "R5,400,000+ concealed",
+      "legal_significance": "consciousness_of_guilt_audit_blocking_breach_of_fiduciary_duty",
+      "evidence": [
+        "audit_request_documentation",
+        "dismissal_correspondence",
+        "timeline_correlation"
+      ],
+      "pattern": "consolidation_phase",
+      "critical": true,
+      "temporal_significance": "4_days_after_fraud_exposure"
     },
     {
       "event_id": "EVENT_013",
@@ -512,6 +626,26 @@
       "pattern": "cover_up_phase"
     },
     {
+      "event_id": "EVENT_026",
+      "date": "2025-08-15",
+      "title": "Gee Email Explaining Domain Switch Instruction",
+      "category": "revenue_theft",
+      "event_type": "witness_testimony",
+      "perpetrators": [],
+      "victims": [],
+      "entities_involved": [
+        "PERSON_009",
+        "DOMAIN_002"
+      ],
+      "description": "Email from Gee to Jax explaining that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email' on June 20, 2025. Confirms customer hijacking scheme.",
+      "financial_impact": "unknown_amount",
+      "legal_significance": "witness_testimony_confirming_customer_hijacking",
+      "evidence": [
+        "gee_email_to_jax"
+      ],
+      "pattern": "cover_up_phase"
+    },
+    {
       "event_id": "EVENT_020",
       "date": "2025-08-20",
       "title": "Financial Evidence Concealment",
@@ -615,6 +749,26 @@
       "events": [
         "EVENT_007"
       ]
+    },
+    "fraud_concealment": {
+      "count": 1,
+      "events": [
+        "EVENT_023"
+      ]
+    },
+    "transfer_pricing_fraud": {
+      "count": 1,
+      "total_amount": "R5,400,000",
+      "events": [
+        "EVENT_024"
+      ]
+    },
+    "accounting_fraud": {
+      "count": 1,
+      "total_amount": "R5,400,000",
+      "events": [
+        "EVENT_025"
+      ]
     }
   },
   "shopify_related_events": {
@@ -635,10 +789,12 @@
     "significance": "Central fraud: RWD ZA has no independent revenue stream"
   },
   "critical_events": {
-    "count": 2,
+    "count": 4,
     "events": [
       "EVENT_009",
-      "EVENT_020"
+      "EVENT_020",
+      "EVENT_023",
+      "EVENT_024"
     ],
     "significance": "Evidence destruction demonstrating consciousness of guilt"
   }
