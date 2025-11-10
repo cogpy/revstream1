@@ -1,10 +1,12 @@
 {
   "metadata": {
-    "version": "1.0",
+    "version": "2.0",
     "created_date": "2025-11-10",
     "description": "Entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "modeling_approach": "agentic_entity_modeling"
+    "modeling_approach": "agentic_entity_modeling",
+    "last_updated": "2025-11-10",
+    "changes": "Added Bantjies, Kayla, ReZonance, Gee, Bernadine Wright; Enhanced Adderory, SLG, Villa Via"
   },
   "entities": {
     "persons": [
@@ -69,25 +71,36 @@
       },
       {
         "entity_id": "PERSON_003",
-        "name": "Addarory",
+        "name": "Adderory (Company)",
         "relationship_to_PERSON_002": "son",
         "role": "domain_registrant",
         "agent_type": "accomplice",
-        "involvement_events": 1,
+        "involvement_events": 3,
         "primary_actions": [
-          "domain_registration_for_identity_fraud"
+          "domain_registration_for_identity_fraud",
+          "stock_supply_fraud",
+          "transfer_pricing_manipulation",
+          "stock_supply_fraud",
+          "transfer_pricing_manipulation"
         ],
         "relationships": [
           "son_of_PERSON_002",
-          "domain_owner_regimaskin_co_za"
+          "domain_owner_regimaskin_co_za",
+          "stock_supplier_to_regima",
+          "beneficiary_of_slg_stock_disappearance",
+          "stock_supplier_to_regima",
+          "beneficiary_of_slg_stock_disappearance"
         ],
         "financial_impact": {
           "direct_involvement": "indirect_via_customer_hijacking",
           "primary_categories": [
             "identity_fraud",
             "revenue_theft"
-          ]
-        }
+          ],
+          "stock_fraud_connection": "R5,400,000"
+        },
+        "entity_type": "company_owned_by_rynettes_son",
+        "additional_notes": "Company owned by Rynette's son, supplied same type of stock that disappeared from SLG (R5.4M), registered fraudulent domain regimaskin.co.za"
       },
       {
         "entity_id": "PERSON_004",
@@ -137,6 +150,162 @@
           "employed_bookkeeper"
         ],
         "additional_notes": "Employed to do books while Rynette controlled accounts system"
+      },
+      {
+        "entity_id": "PERSON_007",
+        "name": "Danie Bantjies",
+        "role": "accountant_and_unknown_trustee",
+        "agent_type": "antagonist",
+        "involvement_events": 5,
+        "primary_actions": [
+          "accounting_system_control_with_rynette",
+          "audit_request_dismissal",
+          "stock_adjustment_fraud_concealment",
+          "trust_violations_as_unknown_trustee",
+          "sars_audit_payment_instructions"
+        ],
+        "relationships": [
+          "co_conspirator_with_PERSON_001",
+          "co_conspirator_with_PERSON_002",
+          "unknown_trustee_of_TRUST_001",
+          "accountant_for_regima_group",
+          "creditor_with_motive"
+        ],
+        "financial_impact": {
+          "debt_motive": "R18,685,000",
+          "stock_fraud_concealment": "R5,400,000",
+          "primary_categories": [
+            "fraud_concealment",
+            "breach_of_fiduciary_duty",
+            "accounting_fraud"
+          ]
+        },
+        "legal_status": "co_conspirator_and_fiduciary_violator",
+        "additional_notes": "Unknown trustee status, dismissed audit request June 10, 2025 (4 days after fraud exposure), controlled accounting system with Rynette using Peter's email"
+      },
+      {
+        "entity_id": "PERSON_008",
+        "name": "Kayla",
+        "status": "deceased",
+        "role": "estate_creditor",
+        "agent_type": "victim",
+        "involvement_events": 2,
+        "relationships": [
+          "estate_creditor_of_ORG_002",
+          "email_account_subject_to_court_order"
+        ],
+        "financial_impact": {
+          "estate_debt_owed": "R1,035,000",
+          "since": "Feb 2023",
+          "primary_categories": [
+            "unpaid_debt",
+            "estate_fraud"
+          ]
+        },
+        "additional_notes": "Court order obtained to seize account from Kayla's email, interfering with law enforcement investigation that had instructed freeze"
+      },
+      {
+        "entity_id": "PERSON_009",
+        "name": "Gee",
+        "role": "email_sender_witness",
+        "agent_type": "neutral",
+        "involvement_events": 1,
+        "primary_actions": [
+          "sent_domain_switch_instruction_email"
+        ],
+        "relationships": [
+          "witness_to_domain_hijacking"
+        ],
+        "additional_notes": "Sent email to Jax in August explaining instruction to send 'don't use regima.zone only use regimaskin.co.za email' on June 20, 2025"
+      },
+      {
+        "entity_id": "PERSON_010",
+        "name": "Bernadine Wright",
+        "role": "financial_professional",
+        "agent_type": "neutral",
+        "involvement_events": 1,
+        "relationships": [
+          "recipient_of_trial_balance_email"
+        ],
+        "additional_notes": "Recipient of trial balance email from Bantjies on August 13, 2020"
+      },
+      {
+        "entity_id": "PERSON_007",
+        "name": "Danie Bantjies",
+        "role": "accountant_and_unknown_trustee",
+        "agent_type": "antagonist",
+        "involvement_events": 5,
+        "primary_actions": [
+          "accounting_system_control_with_rynette",
+          "audit_request_dismissal",
+          "stock_adjustment_fraud_concealment",
+          "trust_violations_as_unknown_trustee",
+          "sars_audit_payment_instructions"
+        ],
+        "relationships": [
+          "co_conspirator_with_PERSON_001",
+          "co_conspirator_with_PERSON_002",
+          "unknown_trustee_of_TRUST_001",
+          "accountant_for_regima_group",
+          "creditor_with_motive"
+        ],
+        "financial_impact": {
+          "debt_motive": "R18,685,000",
+          "stock_fraud_concealment": "R5,400,000",
+          "primary_categories": [
+            "fraud_concealment",
+            "breach_of_fiduciary_duty",
+            "accounting_fraud"
+          ]
+        },
+        "legal_status": "co_conspirator_and_fiduciary_violator",
+        "additional_notes": "Unknown trustee status, dismissed audit request June 10, 2025 (4 days after fraud exposure), controlled accounting system with Rynette using Peter's email"
+      },
+      {
+        "entity_id": "PERSON_008",
+        "name": "Kayla",
+        "status": "deceased",
+        "role": "estate_creditor",
+        "agent_type": "victim",
+        "involvement_events": 2,
+        "relationships": [
+          "estate_creditor_of_ORG_002",
+          "email_account_subject_to_court_order"
+        ],
+        "financial_impact": {
+          "estate_debt_owed": "R1,035,000",
+          "since": "Feb 2023",
+          "primary_categories": [
+            "unpaid_debt",
+            "estate_fraud"
+          ]
+        },
+        "additional_notes": "Court order obtained to seize account from Kayla's email, interfering with law enforcement investigation that had instructed freeze"
+      },
+      {
+        "entity_id": "PERSON_009",
+        "name": "Gee",
+        "role": "email_sender_witness",
+        "agent_type": "neutral",
+        "involvement_events": 1,
+        "primary_actions": [
+          "sent_domain_switch_instruction_email"
+        ],
+        "relationships": [
+          "witness_to_domain_hijacking"
+        ],
+        "additional_notes": "Sent email to Jax in August explaining instruction to send 'don't use regima.zone only use regimaskin.co.za email' on June 20, 2025"
+      },
+      {
+        "entity_id": "PERSON_010",
+        "name": "Bernadine Wright",
+        "role": "financial_professional",
+        "agent_type": "neutral",
+        "involvement_events": 1,
+        "relationships": [
+          "recipient_of_trial_balance_email"
+        ],
+        "additional_notes": "Recipient of trial balance email from Bantjies on August 13, 2020"
       }
     ],
     "organizations": [
@@ -227,12 +396,22 @@
         },
         "financial_impact": {
           "stock_loss": "R5,400,000",
-          "loss_type": "stock_adjustment_disappeared_stock"
+          "loss_type": "stock_adjustment_disappeared_stock",
+          "slg_rst_debt": "R13,000,000",
+          "interest_payment_to_rst": "R414,334.09",
+          "interest_payment_date": "2020-02-28"
         },
         "relationships": [
           "related_to_ORG_001",
-          "supplier_relationship_with_PERSON_003_company"
-        ]
+          "supplier_relationship_with_PERSON_003_company",
+          "debtor_to_ORG_002_R13M",
+          "interest_payer_to_ORG_002",
+          "loss_entity_in_inter_company_manipulation",
+          "debtor_to_ORG_002_R13M",
+          "interest_payer_to_ORG_002",
+          "loss_entity_in_inter_company_manipulation"
+        ],
+        "additional_notes": "Positioned as loss entity with R13M debt to RST, paid R414K interest Feb 2020, pattern consistent with R5.4M stock lossPositioned as loss entity with R13M debt to RST, paid R414K interest Feb 2020, pattern consistent with R5.4M stock loss"
       },
       {
         "entity_id": "ORG_005",
@@ -247,7 +426,22 @@
           "rent_charged_to_director_owner",
           "related_to_ORG_002"
         ],
-        "additional_notes": "Director owns half and charges rent to himself"
+        "additional_notes": "Director owns half and charges rent to himself; R4.4M monthly rental income, R3.7M profit, R22.8M members loan indicates systematic capital extraction; 86% profit margin on rent",
+        "financial_impact": {
+          "monthly_rental_income": "R4,400,000",
+          "net_profit": "R3,700,000",
+          "members_loan_account": "R22,800,000",
+          "profit_margin_on_rent": "86%"
+        },
+        "key_characteristics": [
+          "rental_income_vehicle",
+          "capital_extraction_mechanism",
+          "different_financial_year_may_to_april"
+        ],
+        "financial_year": {
+          "start": "May 1",
+          "end": "April 30"
+        }
       },
       {
         "entity_id": "ORG_006",
@@ -259,6 +453,60 @@
         ],
         "timeline_events": [
           "diversion_started_2025_03_01"
+        ]
+      },
+      {
+        "entity_id": "ORG_007",
+        "name": "ReZonance",
+        "entity_type": "service_provider",
+        "agent_type": "victim",
+        "role": "creditor_and_service_provider",
+        "key_characteristics": [
+          "long_term_business_relationship_since_2017",
+          "victim_of_false_payment_claims",
+          "systematic_non_payment"
+        ],
+        "relationships": [
+          "service_provider_to_regima_group",
+          "creditor_of_ORG_002"
+        ],
+        "financial_impact": {
+          "debt_owed": "R1,035,361.34",
+          "false_payment_claims": "R1,235,361.34",
+          "business_relationship_start": "2017-06-30"
+        },
+        "timeline_events": [
+          "first_invoice_2017_06_30",
+          "service_expansion_2017_09_30",
+          "debt_accumulation_2022_03_01",
+          "false_payment_claims_2023"
+        ]
+      },
+      {
+        "entity_id": "ORG_007",
+        "name": "ReZonance",
+        "entity_type": "service_provider",
+        "agent_type": "victim",
+        "role": "creditor_and_service_provider",
+        "key_characteristics": [
+          "long_term_business_relationship_since_2017",
+          "victim_of_false_payment_claims",
+          "systematic_non_payment"
+        ],
+        "relationships": [
+          "service_provider_to_regima_group",
+          "creditor_of_ORG_002"
+        ],
+        "financial_impact": {
+          "debt_owed": "R1,035,361.34",
+          "false_payment_claims": "R1,235,361.34",
+          "business_relationship_start": "2017-06-30"
+        },
+        "timeline_events": [
+          "first_invoice_2017_06_30",
+          "service_expansion_2017_09_30",
+          "debt_accumulation_2022_03_01",
+          "false_payment_claims_2023"
         ]
       }
     ],
