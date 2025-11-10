@@ -1,0 +1,549 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created_date": "2025-11-10",
+    "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
+    "case_number": "2025-137857",
+    "period_start": "2025-03-01",
+    "period_end": "2025-09-11",
+    "duration_days": 194,
+    "total_events": 21
+  },
+  "timeline_phases": {
+    "phase_1_foundation": {
+      "phase_id": "PHASE_001",
+      "phase_name": "Foundation Phase",
+      "start_date": "2025-03-01",
+      "end_date": "2025-03-30",
+      "duration_days": 30,
+      "events": [
+        "EVENT_001",
+        "EVENT_002",
+        "EVENT_003"
+      ],
+      "primary_objectives": [
+        "establish_trust_manipulation_framework",
+        "initiate_revenue_diversion",
+        "dump_unallocated_expenses"
+      ],
+      "key_characteristics": [
+        "trust_structure_establishment",
+        "initial_revenue_diversion",
+        "expense_dumping_pressure_tactics"
+      ],
+      "financial_impact": "R2,851,247.35+",
+      "legal_significance": "foundation_for_systematic_fraud",
+      "pattern_analysis": "Establishment of infrastructure for fraud execution"
+    },
+    "phase_2_initial_theft": {
+      "phase_id": "PHASE_002",
+      "phase_name": "Initial Theft Phase",
+      "start_date": "2025-04-01",
+      "end_date": "2025-04-14",
+      "duration_days": 14,
+      "events": [
+        "EVENT_004",
+        "EVENT_005"
+      ],
+      "primary_objectives": [
+        "redirect_payments",
+        "change_bank_accounts",
+        "setup_revenue_theft_infrastructure"
+      ],
+      "key_characteristics": [
+        "payment_redirection_scheme",
+        "bank_account_manipulation",
+        "shopify_platform_targeting"
+      ],
+      "financial_impact": "R7,418,480.55",
+      "legal_significance": "first_documented_acts_in_coordinated_scheme",
+      "pattern_analysis": "Direct implementation of revenue theft mechanisms"
+    },
+    "phase_3_escalation": {
+      "phase_id": "PHASE_003",
+      "phase_name": "Escalation Phase",
+      "start_date": "2025-05-02",
+      "end_date": "2025-05-29",
+      "duration_days": 28,
+      "events": [
+        "EVENT_006",
+        "EVENT_007",
+        "EVENT_008",
+        "EVENT_009",
+        "EVENT_010"
+      ],
+      "primary_objectives": [
+        "exclude_beneficiaries",
+        "execute_unauthorized_transfers",
+        "destroy_audit_trails",
+        "register_fraudulent_domain"
+      ],
+      "key_characteristics": [
+        "beneficiary_manipulation",
+        "confrontation_triggering_retaliation",
+        "R850K_unauthorized_transfers",
+        "shopify_audit_trail_destruction",
+        "identity_fraud_domain_registration"
+      ],
+      "financial_impact": "R1,850,000+",
+      "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
+      "pattern_analysis": "Dramatic escalation following confrontation, including critical evidence destruction",
+      "critical_events": [
+        "EVENT_007",
+        "EVENT_009"
+      ],
+      "trigger_event": "Jacqui's confrontation about R1,035,000 debt"
+    },
+    "phase_4_consolidation": {
+      "phase_id": "PHASE_004",
+      "phase_name": "Consolidation Phase",
+      "start_date": "2025-06-06",
+      "end_date": "2025-06-30",
+      "duration_days": 25,
+      "events": [
+        "EVENT_011",
+        "EVENT_012",
+        "EVENT_013",
+        "EVENT_014",
+        "EVENT_015"
+      ],
+      "primary_objectives": [
+        "sabotage_payment_capability",
+        "consolidate_email_control",
+        "execute_fund_diversions",
+        "continue_trust_violations"
+      ],
+      "key_characteristics": [
+        "fraud_discovery_by_daniel",
+        "secret_card_cancellations",
+        "trustee_misconduct",
+        "email_impersonation_pattern",
+        "coordinated_fund_diversions"
+      ],
+      "financial_impact": "R3,141,647.70+",
+      "legal_significance": "sophisticated_financial_crime_coordination",
+      "pattern_analysis": "Consolidation of control and sabotage of victim's ability to respond",
+      "victim_response": "Daniel finalized fraud reports"
+    },
+    "phase_5_control_seizure": {
+      "phase_id": "PHASE_005",
+      "phase_name": "Control Seizure Phase",
+      "start_date": "2025-07-08",
+      "end_date": "2025-07-25",
+      "duration_days": 18,
+      "events": [
+        "EVENT_016",
+        "EVENT_017",
+        "EVENT_018"
+      ],
+      "primary_objectives": [
+        "shutdown_operations",
+        "seize_account_control",
+        "misappropriate_trust_assets"
+      ],
+      "key_characteristics": [
+        "warehouse_popi_violations",
+        "operational_shutdown",
+        "account_manipulation",
+        "trust_asset_misappropriation"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "systematic_business_destruction_and_asset_theft",
+      "pattern_analysis": "Complete seizure of operational and financial control"
+    },
+    "phase_6_cover_up": {
+      "phase_id": "PHASE_006",
+      "phase_name": "Cover-up Phase",
+      "start_date": "2025-08-10",
+      "end_date": "2025-09-11",
+      "duration_days": 33,
+      "events": [
+        "EVENT_019",
+        "EVENT_020",
+        "EVENT_021"
+      ],
+      "primary_objectives": [
+        "conceal_evidence",
+        "empty_accounts",
+        "demonstrate_ongoing_violations"
+      ],
+      "key_characteristics": [
+        "trust_breach_evidence",
+        "financial_evidence_concealment",
+        "account_draining"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "consciousness_of_guilt_through_cover_up_operations",
+      "pattern_analysis": "Systematic cover-up and final financial destruction",
+      "critical_events": [
+        "EVENT_020"
+      ]
+    }
+  },
+  "temporal_patterns": {
+    "escalation_triggers": [
+      {
+        "trigger_event": "EVENT_007",
+        "trigger_date": "2025-05-15",
+        "trigger_description": "Jacqui confronts Rynette about R1,035,000 debt",
+        "subsequent_events": [
+          "EVENT_009",
+          "EVENT_010"
+        ],
+        "retaliation_window_days": 14,
+        "pattern": "confrontation_triggers_retaliation"
+      },
+      {
+        "trigger_event": "EVENT_011",
+        "trigger_date": "2025-06-06",
+        "trigger_description": "Daniel finalizes fraud reports",
+        "subsequent_events": [
+          "EVENT_012",
+          "EVENT_013",
+          "EVENT_014",
+          "EVENT_015"
+        ],
+        "retaliation_window_days": 24,
+        "pattern": "fraud_discovery_triggers_intensified_sabotage"
+      }
+    ],
+    "evidence_destruction_sequence": [
+      {
+        "event": "EVENT_009",
+        "date": "2025-05-22",
+        "type": "audit_trail_destruction",
+        "target": "shopify_platform",
+        "significance": "primary_evidence_destruction"
+      },
+      {
+        "event": "EVENT_020",
+        "date": "2025-08-20",
+        "type": "financial_evidence_concealment",
+        "target": "financial_records",
+        "significance": "secondary_cover_up"
+      }
+    ],
+    "coordination_patterns": [
+      {
+        "pattern_name": "peter_rynette_coordination",
+        "participants": [
+          "PERSON_001",
+          "PERSON_002"
+        ],
+        "shared_events": [
+          "EVENT_003",
+          "EVENT_004",
+          "EVENT_006",
+          "EVENT_012",
+          "EVENT_015",
+          "EVENT_021"
+        ],
+        "coordination_strength": "strong",
+        "pattern_type": "systematic_coordination"
+      },
+      {
+        "pattern_name": "family_conspiracy",
+        "participants": [
+          "PERSON_002",
+          "PERSON_003"
+        ],
+        "shared_events": [
+          "EVENT_010"
+        ],
+        "coordination_strength": "moderate",
+        "pattern_type": "mother_son_collusion"
+      }
+    ],
+    "financial_flow_timeline": {
+      "march_2025": {
+        "phase": "foundation",
+        "primary_activity": "trust_establishment_and_revenue_diversion",
+        "financial_impact": "R2,851,247.35+"
+      },
+      "april_2025": {
+        "phase": "initial_theft",
+        "primary_activity": "payment_redirection_and_bank_changes",
+        "financial_impact": "R7,418,480.55"
+      },
+      "may_2025": {
+        "phase": "escalation",
+        "primary_activity": "R850K_transfers_and_audit_trail_destruction",
+        "financial_impact": "R1,850,000+"
+      },
+      "june_2025": {
+        "phase": "consolidation",
+        "primary_activity": "email_control_and_fund_diversions",
+        "financial_impact": "R3,141,647.70+"
+      },
+      "july_2025": {
+        "phase": "control_seizure",
+        "primary_activity": "operational_shutdown_and_account_manipulation",
+        "financial_impact": "unknown"
+      },
+      "august_september_2025": {
+        "phase": "cover_up",
+        "primary_activity": "evidence_concealment_and_account_draining",
+        "financial_impact": "unknown"
+      }
+    }
+  },
+  "shopify_centrality_analysis": {
+    "total_events": 21,
+    "shopify_related_events": 10,
+    "percentage": "47.6%",
+    "critical_implication": "RWD_ZA_has_no_independent_revenue_stream",
+    "platform_ownership": {
+      "owner": "ORG_003",
+      "payer": "PERSON_005",
+      "start_date": "2023-07",
+      "duration_months": 28,
+      "total_investment": "R140,000 - R280,000"
+    },
+    "shopify_event_timeline": [
+      {
+        "event": "EVENT_004",
+        "date": "2025-04-01",
+        "type": "payment_redirection"
+      },
+      {
+        "event": "EVENT_005",
+        "date": "2025-04-14",
+        "type": "bank_account_change"
+      },
+      {
+        "event": "EVENT_008",
+        "date": "2025-05-15",
+        "type": "unauthorized_transfers"
+      },
+      {
+        "event": "EVENT_009",
+        "date": "2025-05-22",
+        "type": "audit_trail_destruction",
+        "critical": true
+      },
+      {
+        "event": "EVENT_010",
+        "date": "2025-05-29",
+        "type": "identity_fraud_domain"
+      },
+      {
+        "event": "EVENT_014",
+        "date": "2025-06-20",
+        "type": "email_impersonation"
+      },
+      {
+        "event": "EVENT_015",
+        "date": "2025-06-30",
+        "type": "fund_diversions"
+      },
+      {
+        "event": "EVENT_016",
+        "date": "2025-07-08",
+        "type": "operational_shutdown"
+      },
+      {
+        "event": "EVENT_017",
+        "date": "2025-07-12",
+        "type": "account_manipulation"
+      },
+      {
+        "event": "EVENT_020",
+        "date": "2025-08-20",
+        "type": "evidence_concealment",
+        "critical": true
+      }
+    ]
+  },
+  "legal_framework_timeline": {
+    "criminal_charges_supported": {
+      "organized_crime_racketeering": {
+        "statute": "POCA_Section_2_3",
+        "supporting_events": [
+          "EVENT_001",
+          "EVENT_002",
+          "EVENT_003",
+          "EVENT_004",
+          "EVENT_005",
+          "EVENT_006",
+          "EVENT_008",
+          "EVENT_009",
+          "EVENT_010",
+          "EVENT_012",
+          "EVENT_013",
+          "EVENT_014",
+          "EVENT_015",
+          "EVENT_016",
+          "EVENT_017",
+          "EVENT_018",
+          "EVENT_019",
+          "EVENT_020",
+          "EVENT_021"
+        ],
+        "evidence_strength": "strong"
+      },
+      "computer_fraud": {
+        "statute": "ECTA_Sections_86_88",
+        "supporting_events": [
+          "EVENT_009",
+          "EVENT_010",
+          "EVENT_014",
+          "EVENT_017"
+        ],
+        "evidence_strength": "strong"
+      },
+      "identity_fraud": {
+        "statute": "ECTA_Section_87_88",
+        "supporting_events": [
+          "EVENT_010",
+          "EVENT_014"
+        ],
+        "evidence_strength": "strong"
+      },
+      "theft_and_fraud": {
+        "statute": "Common_Law",
+        "supporting_events": [
+          "EVENT_001",
+          "EVENT_004",
+          "EVENT_005",
+          "EVENT_008",
+          "EVENT_012",
+          "EVENT_015",
+          "EVENT_018",
+          "EVENT_021"
+        ],
+        "evidence_strength": "strong"
+      },
+      "money_laundering": {
+        "statute": "FIC_Act",
+        "supporting_events": [
+          "EVENT_004",
+          "EVENT_005",
+          "EVENT_008",
+          "EVENT_015"
+        ],
+        "evidence_strength": "moderate"
+      },
+      "trust_law_violations": {
+        "statute": "Trust_Property_Control_Act",
+        "supporting_events": [
+          "EVENT_002",
+          "EVENT_006",
+          "EVENT_013",
+          "EVENT_018",
+          "EVENT_019"
+        ],
+        "evidence_strength": "strong"
+      }
+    },
+    "consciousness_of_guilt_events": [
+      {
+        "event": "EVENT_009",
+        "date": "2025-05-22",
+        "type": "evidence_destruction",
+        "significance": "primary_consciousness_of_guilt"
+      },
+      {
+        "event": "EVENT_020",
+        "date": "2025-08-20",
+        "type": "evidence_concealment",
+        "significance": "secondary_consciousness_of_guilt"
+      }
+    ]
+  },
+  "victim_impact_timeline": {
+    "daniel_faucitt": {
+      "entity_id": "PERSON_005",
+      "total_loss": "R10,269,727.90+",
+      "platform_investment_lost": "R140,000 - R280,000",
+      "timeline_of_impact": [
+        {
+          "date": "2025-03-01",
+          "impact": "revenue_diversion_started"
+        },
+        {
+          "date": "2025-03-30",
+          "impact": "pressured_to_sign_off_unallocated_expenses"
+        },
+        {
+          "date": "2025-04-01",
+          "impact": "payment_redirection_initiated"
+        },
+        {
+          "date": "2025-04-14",
+          "impact": "bank_account_changes_attempted"
+        },
+        {
+          "date": "2025-05-15",
+          "impact": "R850K_unauthorized_transfers"
+        },
+        {
+          "date": "2025-05-22",
+          "impact": "shopify_platform_destroyed_R1M_monthly_revenue_to_R0"
+        },
+        {
+          "date": "2025-06-06",
+          "impact": "fraud_reports_finalized"
+        },
+        {
+          "date": "2025-06-07",
+          "impact": "cards_secretly_cancelled_payment_capability_sabotaged"
+        },
+        {
+          "date": "2025-06-20",
+          "impact": "email_control_lost"
+        },
+        {
+          "date": "2025-07-08",
+          "impact": "warehouse_operations_shutdown"
+        },
+        {
+          "date": "2025-07-12",
+          "impact": "account_control_seized"
+        },
+        {
+          "date": "2025-09-11",
+          "impact": "accounts_emptied"
+        }
+      ]
+    },
+    "jacqueline_faucitt": {
+      "entity_id": "PERSON_004",
+      "timeline_of_impact": [
+        {
+          "date": "2025-05-15",
+          "impact": "confronted_rynette_about_R1_035_000_debt"
+        },
+        {
+          "date": "2025-05-22",
+          "impact": "shopify_platform_destroyed_following_confrontation"
+        }
+      ]
+    },
+    "trust_beneficiaries": {
+      "entity_id": "TRUST_001",
+      "total_loss": "R2,851,247.35",
+      "timeline_of_impact": [
+        {
+          "date": "2025-03-15",
+          "impact": "trust_structure_manipulated"
+        },
+        {
+          "date": "2025-05-02",
+          "impact": "beneficiaries_excluded"
+        },
+        {
+          "date": "2025-06-18",
+          "impact": "systematic_trust_violations"
+        },
+        {
+          "date": "2025-07-25",
+          "impact": "trust_assets_misappropriated"
+        },
+        {
+          "date": "2025-08-10",
+          "impact": "trust_integrity_completely_compromised"
+        }
+      ]
+    }
+  }
+}
