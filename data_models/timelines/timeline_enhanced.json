@@ -1,13 +1,15 @@
 {
   "metadata": {
-    "version": "1.0",
+    "version": "2.0",
     "created_date": "2025-11-10",
     "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "period_start": "2025-03-01",
+    "period_start": "2017-06-30",
     "period_end": "2025-09-11",
     "duration_days": 194,
-    "total_events": 21
+    "total_events": 41,
+    "last_updated": "2025-11-11",
+    "changes": "Added Phase 0 (Historical Foundation 2017-2021), Phase 0.5 (Debt Accumulation 2022-2023), updated all phases with new events"
   },
   "timeline_phases": {
     "phase_1_foundation": {
@@ -19,7 +21,10 @@
       "events": [
         "EVENT_001",
         "EVENT_002",
-        "EVENT_003"
+        "EVENT_003",
+        "EVENT_022",
+        "EVENT_024",
+        "EVENT_025"
       ],
       "primary_objectives": [
         "establish_trust_manipulation_framework",
@@ -29,9 +34,12 @@
       "key_characteristics": [
         "trust_structure_establishment",
         "initial_revenue_diversion",
-        "expense_dumping_pressure_tactics"
+        "expense_dumping_pressure_tactics",
+        "R900K_unauthorized_transfers",
+        "R5.4M_stock_disappearance",
+        "R5.4M_stock_adjustment_fraud"
       ],
-      "financial_impact": "R2,851,247.35+",
+      "financial_impact": "R8,751,247.35+",
       "legal_significance": "foundation_for_systematic_fraud",
       "pattern_analysis": "Establishment of infrastructure for fraud execution"
     },
@@ -105,7 +113,9 @@
         "EVENT_012",
         "EVENT_013",
         "EVENT_014",
-        "EVENT_015"
+        "EVENT_015",
+        "EVENT_026",
+        "EVENT_027"
       ],
       "primary_objectives": [
         "sabotage_payment_capability",
@@ -118,11 +128,13 @@
         "secret_card_cancellations",
         "trustee_misconduct",
         "email_impersonation_pattern",
-        "coordinated_fund_diversions"
+        "coordinated_fund_diversions",
+        "bantjies_audit_dismissal",
+        "domain_switch_email_instruction"
       ],
       "financial_impact": "R3,141,647.70+",
       "legal_significance": "sophisticated_financial_crime_coordination",
-      "pattern_analysis": "Consolidation of control and sabotage of victim's ability to respond",
+      "pattern_analysis": "Consolidation of control and sabotage of victim's ability to respond, Bantjies dismisses audit due to R18.685M debt conflict, active customer diversion to fraudulent domain",
       "victim_response": "Daniel finalized fraud reports"
     },
     "phase_5_control_seizure": {
@@ -178,6 +190,65 @@
       "critical_events": [
         "EVENT_020"
       ]
+    },
+    "phase_0_historical_foundation": {
+      "phase_id": "PHASE_000",
+      "phase_name": "Historical Foundation Phase",
+      "start_date": "2017-06-30",
+      "end_date": "2021-12-31",
+      "duration_days": 1645,
+      "events": [
+        "EVENT_H001",
+        "EVENT_H002",
+        "EVENT_H003",
+        "EVENT_H004",
+        "EVENT_H005",
+        "EVENT_H006",
+        "EVENT_H007",
+        "EVENT_H008"
+      ],
+      "primary_objectives": [
+        "establish_business_relationships",
+        "create_inter_company_financial_structures",
+        "establish_profit_extraction_mechanisms",
+        "document_financial_system_control"
+      ],
+      "key_characteristics": [
+        "rezonance_business_relationship_establishment",
+        "inter_company_financial_manipulation",
+        "villa_via_capital_extraction_R22.8M",
+        "bantjies_financial_system_control"
+      ],
+      "financial_impact": "R22,800,000+ (Villa Via members loan)",
+      "legal_significance": "foundation_for_systematic_fraud_infrastructure",
+      "pattern_analysis": "Establishment of complex inter-company structures enabling later fraud, Villa Via profit extraction mechanism, Bantjies control over financial systems"
+    },
+    "phase_0_5_debt_accumulation": {
+      "phase_id": "PHASE_005",
+      "phase_name": "Debt Accumulation Phase",
+      "start_date": "2022-03-01",
+      "end_date": "2023-09-20",
+      "duration_days": 568,
+      "events": [
+        "EVENT_D001",
+        "EVENT_D002",
+        "EVENT_D003",
+        "EVENT_D004",
+        "EVENT_D005"
+      ],
+      "primary_objectives": [
+        "accumulate_unpaid_debts",
+        "create_false_payment_claims",
+        "conceal_debt_through_fraud"
+      ],
+      "key_characteristics": [
+        "rezonance_debt_accumulation_R1.035M",
+        "false_payment_claims_R1.235M",
+        "systematic_non_payment_pattern"
+      ],
+      "financial_impact": "R1,035,361.34 debt + R1,235,361.34 false claims",
+      "legal_significance": "systematic_fraud_pattern_establishment",
+      "pattern_analysis": "Escalation from debt accumulation to outright fraud through false payment claims"
     }
   },
   "temporal_patterns": {
@@ -205,6 +276,17 @@
         ],
         "retaliation_window_days": 24,
         "pattern": "fraud_discovery_triggers_intensified_sabotage"
+      },
+      {
+        "trigger_event": "EVENT_026",
+        "trigger_date": "2025-06-10",
+        "trigger_description": "Bantjies dismisses audit request (4 days after fraud exposure)",
+        "subsequent_events": [
+          "EVENT_027"
+        ],
+        "retaliation_window_days": 10,
+        "pattern": "audit_dismissal_triggers_customer_diversion",
+        "motive": "R18,685,000_debt_concealment"
       }
     ],
     "evidence_destruction_sequence": [
@@ -545,5 +627,95 @@
         }
       ]
     }
+  },
+  "bantjies_centrality_analysis": {
+    "total_events_involving_bantjies": 7,
+    "percentage_of_total": "17.1%",
+    "critical_implication": "bantjies_triple_conflict_drives_fraud_concealment",
+    "conflict_structure": {
+      "role_1": "trustee_of_TRUST_001",
+      "role_2": "debtor_to_TRUST_001_R18685000",
+      "role_3": "accountant_for_regima_group",
+      "role_4": "commissioner_of_oaths"
+    },
+    "motive": "prevent_discovery_of_R18685000_debt",
+    "bantjies_event_timeline": [
+      {
+        "event": "EVENT_H005",
+        "date": "2020-02-20",
+        "type": "inter_company_adjustments",
+        "role": "accountant"
+      },
+      {
+        "event": "EVENT_H006",
+        "date": "2020-02-28",
+        "type": "profit_concentration",
+        "role": "accountant"
+      },
+      {
+        "event": "EVENT_H008",
+        "date": "2020-08-13",
+        "type": "trial_balance_distribution",
+        "role": "financial_system_controller"
+      },
+      {
+        "event": "EVENT_025",
+        "date": "2025-03-15",
+        "type": "stock_adjustment_fraud",
+        "role": "fraud_concealment"
+      },
+      {
+        "event": "EVENT_011",
+        "date": "2025-06-06",
+        "type": "fraud_report_received",
+        "role": "unknown_trustee"
+      },
+      {
+        "event": "EVENT_026",
+        "date": "2025-06-10",
+        "type": "audit_dismissal",
+        "role": "conflict_of_interest",
+        "critical": true
+      }
+    ]
+  },
+  "rezonance_debt_trigger_analysis": {
+    "debt_amount": "R1,035,361.34",
+    "part_of_estate": "Kayla",
+    "confrontation_date": "2025-05-15",
+    "confrontation_statement": "keeping_funds_would_be_profiting_from_proceeds_of_murder",
+    "retaliation_sequence": [
+      {
+        "event": "EVENT_009",
+        "date": "2025-05-22",
+        "days_after_confrontation": 7,
+        "type": "shopify_audit_trail_destruction"
+      },
+      {
+        "event": "EVENT_010",
+        "date": "2025-05-29",
+        "days_after_confrontation": 14,
+        "type": "fraudulent_domain_registration"
+      },
+      {
+        "event": "EVENT_012",
+        "date": "2025-06-07",
+        "days_after_confrontation": 23,
+        "type": "secret_card_cancellations"
+      },
+      {
+        "event": "EVENT_026",
+        "date": "2025-06-10",
+        "days_after_confrontation": 26,
+        "type": "bantjies_audit_dismissal"
+      },
+      {
+        "event": "EVENT_027",
+        "date": "2025-06-20",
+        "days_after_confrontation": 36,
+        "type": "domain_switch_email_instruction"
+      }
+    ],
+    "pattern": "systematic_retaliation_following_confrontation_about_kayla_estate_debt"
   }
 }

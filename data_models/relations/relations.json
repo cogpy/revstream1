@@ -1,10 +1,12 @@
 {
   "metadata": {
-    "version": "1.0",
+    "version": "2.0",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "modeling_approach": "hypergraph_compatible_relations"
+    "modeling_approach": "hypergraph_compatible_relations",
+    "last_updated": "2025-11-11",
+    "changes": "Added debt relations, estate relations, witness relations, conflict of interest relations"
   },
   "relations": {
     "ownership_relations": [
@@ -190,6 +192,27 @@
           "coordinated_fund_diversions_2025_06_30",
           "financial_evidence_concealment_2025_08_20"
         ]
+      },
+      {
+        "relation_id": "REL_CONSP_004",
+        "relation_type": "co_conspirator",
+        "source_entity": "PERSON_007",
+        "target_entity": "PERSON_001",
+        "conspiracy_type": "coordinated_fraud_concealment",
+        "evidence_strength": "strong",
+        "shared_events": [
+          "EVENT_H005",
+          "EVENT_H006",
+          "EVENT_025",
+          "EVENT_026"
+        ],
+        "evidence": [
+          "trial_balance_manipulation_2020",
+          "stock_adjustment_fraud_concealment_2025",
+          "audit_dismissal_2025_06_10"
+        ],
+        "pattern": "systematic_coordination",
+        "motive": "R18,685,000_debt_concealment"
       }
     ],
     "dependency_relations": [
@@ -387,6 +410,130 @@
         "target_entity": "financial_evidence_concealment",
         "temporal_gap_days": 90,
         "pattern": "evidence_destruction_sequence"
+      },
+      {
+        "relation_id": "REL_TEMP_004",
+        "relation_type": "trigger_response",
+        "source_entity": "EVENT_007",
+        "target_entity": "EVENT_026",
+        "temporal_gap_days": 26,
+        "pattern": "confrontation_triggers_audit_dismissal",
+        "significance": "jax_confrontation_about_rezonance_debt_triggers_bantjies_to_dismiss_audit"
+      },
+      {
+        "relation_id": "REL_TEMP_005",
+        "relation_type": "escalation_sequence",
+        "source_entity": "EVENT_026",
+        "target_entity": "EVENT_027",
+        "temporal_gap_days": 10,
+        "pattern": "audit_dismissal_followed_by_customer_diversion",
+        "significance": "systematic_evidence_destruction_and_revenue_hijacking_sequence"
+      },
+      {
+        "relation_id": "REL_TEMP_006",
+        "relation_type": "historical_foundation",
+        "source_entity": "EVENT_H007",
+        "target_entity": "EVENT_001",
+        "temporal_gap_days": 1766,
+        "pattern": "villa_via_profit_extraction_precedes_revenue_diversion",
+        "significance": "established_profit_extraction_mechanism_before_2025_fraud"
+      }
+    ],
+    "debt_relations": [
+      {
+        "relation_id": "REL_DEBT_001",
+        "relation_type": "debtor_to_trust",
+        "source_entity": "PERSON_007",
+        "target_entity": "TRUST_001",
+        "debt_amount": "R18,685,000",
+        "legal_status": "massive_conflict_of_interest",
+        "evidence": [
+          "trust_financial_statements",
+          "loan_agreements"
+        ],
+        "significance": "creates_motive_for_fraud_concealment",
+        "triple_conflict": "trustee_debtor_accountant"
+      },
+      {
+        "relation_id": "REL_DEBT_002",
+        "relation_type": "creditor_relationship",
+        "source_entity": "ORG_008",
+        "target_entity": "regima_group",
+        "debt_amount": "R1,035,361.34",
+        "since": "Feb 2023",
+        "legal_status": "unpaid_legitimate_debt",
+        "false_payment_claims": "R1,235,361.34",
+        "evidence": [
+          "rezonance_account_statements",
+          "payment_reconciliation"
+        ],
+        "significance": "trigger_for_jax_confrontation_and_retaliation"
+      }
+    ],
+    "estate_relations": [
+      {
+        "relation_id": "REL_ESTATE_001",
+        "relation_type": "estate_ownership",
+        "source_entity": "ORG_008",
+        "target_entity": "PERSON_008",
+        "relationship": "part_of_kayla_estate",
+        "debt_involved": "R1,035,361.34",
+        "legal_status": "estate_asset",
+        "evidence": [
+          "estate_documentation"
+        ],
+        "significance": "jax_confrontation_about_profiting_from_murder_proceeds"
+      }
+    ],
+    "witness_relations": [
+      {
+        "relation_id": "REL_WITNESS_001",
+        "relation_type": "witness_to_fraud",
+        "source_entity": "PERSON_009",
+        "target_entity": "DOMAIN_002",
+        "witness_type": "direct_participant",
+        "evidence_provided": "domain_switch_email_instruction",
+        "date": "2025-06-20",
+        "legal_status": "material_witness",
+        "significance": "direct_evidence_of_customer_diversion_scheme"
+      },
+      {
+        "relation_id": "REL_WITNESS_002",
+        "relation_type": "witness_to_financial_control",
+        "source_entity": "PERSON_010",
+        "target_entity": "PERSON_007",
+        "witness_type": "email_recipient",
+        "evidence_provided": "trial_balance_email_2020_08_13",
+        "date": "2020-08-13",
+        "legal_status": "material_witness",
+        "significance": "evidence_of_bantjies_control_over_financial_systems"
+      }
+    ],
+    "conflict_relations": [
+      {
+        "relation_id": "REL_CONFLICT_001",
+        "relation_type": "triple_conflict_of_interest",
+        "source_entity": "PERSON_007",
+        "conflict_roles": [
+          "trustee_of_TRUST_001",
+          "debtor_to_TRUST_001_R18685000",
+          "accountant_for_regima_group",
+          "commissioner_of_oaths"
+        ],
+        "legal_status": "severe_conflict_of_interest",
+        "evidence": [
+          "trust_deed_trustee_appointment",
+          "debt_documentation_R18685000",
+          "accounting_engagement_letters",
+          "commissioner_certification_peters_affidavit"
+        ],
+        "motive": "prevent_discovery_of_debt_and_fraud",
+        "actions_taken": [
+          "dismissed_audit_request_2025_06_10",
+          "certified_affidavit_with_material_omissions",
+          "controlled_financial_systems_with_rynette"
+        ],
+        "significance": "explains_systematic_fraud_concealment_and_retaliation"
       }
     ]
   }
