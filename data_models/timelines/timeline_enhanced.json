@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "version": "2.0",
+    "version": "3.0",
     "created_date": "2025-11-10",
     "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "period_start": "2017-06-30",
     "period_end": "2025-09-11",
     "duration_days": 194,
-    "total_events": 41,
-    "last_updated": "2025-11-11",
-    "changes": "Added Phase 0 (Historical Foundation 2017-2021), Phase 0.5 (Debt Accumulation 2022-2023), updated all phases with new events"
+    "total_events": 48,
+    "last_updated": "2025-11-13",
+    "changes": "Added new events to phases, enhanced with ad-res-j7 evidence"
   },
   "timeline_phases": {
     "phase_1_foundation": {
@@ -78,7 +78,9 @@
         "EVENT_007",
         "EVENT_008",
         "EVENT_009",
-        "EVENT_010"
+        "EVENT_010",
+        "EVENT_050",
+        "EVENT_050"
       ],
       "primary_objectives": [
         "exclude_beneficiaries",
@@ -146,7 +148,9 @@
       "events": [
         "EVENT_016",
         "EVENT_017",
-        "EVENT_018"
+        "EVENT_018",
+        "EVENT_047",
+        "EVENT_047"
       ],
       "primary_objectives": [
         "shutdown_operations",
@@ -172,7 +176,9 @@
       "events": [
         "EVENT_019",
         "EVENT_020",
-        "EVENT_021"
+        "EVENT_021",
+        "EVENT_049",
+        "EVENT_049"
       ],
       "primary_objectives": [
         "conceal_evidence",
@@ -205,7 +211,15 @@
         "EVENT_H005",
         "EVENT_H006",
         "EVENT_H007",
-        "EVENT_H008"
+        "EVENT_H008",
+        "EVENT_048",
+        "EVENT_051",
+        "EVENT_052",
+        "EVENT_053",
+        "EVENT_048",
+        "EVENT_051",
+        "EVENT_052",
+        "EVENT_053"
       ],
       "primary_objectives": [
         "establish_business_relationships",

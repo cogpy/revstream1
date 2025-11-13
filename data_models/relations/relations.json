@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "2.0",
+    "version": "3.0",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2025-11-11",
-    "changes": "Added debt relations, estate relations, witness relations, conflict of interest relations"
+    "last_updated": "2025-11-13",
+    "changes": "Added email control, trustee, and beneficiary relations based on ad-res-j7 cross-reference"
   },
   "relations": {
     "ownership_relations": [
@@ -534,6 +534,82 @@
           "controlled_financial_systems_with_rynette"
         ],
         "significance": "explains_systematic_fraud_concealment_and_retaliation"
+      }
+    ],
+    "email_control_relations": [
+      {
+        "relation_id": "REL_EMAIL_001",
+        "relation_type": "controls_email",
+        "source_entity": "PERSON_002",
+        "target_entity": "PERSON_001",
+        "email_address": "pete@regima.com",
+        "strength": "complete_control",
+        "legal_status": "unauthorized",
+        "evidence": [
+          "sage_screenshots_june_2025",
+          "sage_screenshots_august_2025",
+          "email_correspondence"
+        ],
+        "significance": "critical_control_mechanism_for_fraud",
+        "additional_notes": "Rynette controlled Peter's email address, allowing her to control accounts system and financial communications"
+      }
+    ],
+    "trustee_relations": [
+      {
+        "relation_id": "REL_TRUSTEE_001",
+        "relation_type": "trustee_of",
+        "source_entity": "PERSON_001",
+        "target_entity": "TRUST_001",
+        "role": "founder_and_trustee",
+        "legal_status": "legitimate",
+        "evidence": [
+          "trust_deed",
+          "court_documents"
+        ]
+      },
+      {
+        "relation_id": "REL_TRUSTEE_002",
+        "relation_type": "trustee_of",
+        "source_entity": "PERSON_007",
+        "target_entity": "TRUST_001",
+        "role": "unknown_trustee",
+        "legal_status": "undisclosed_conflict",
+        "evidence": [
+          "trust_analysis",
+          "financial_documents"
+        ],
+        "conflict_of_interest": {
+          "debt_to_trust": "R18,685,000",
+          "roles": [
+            "trustee",
+            "debtor",
+            "accountant",
+            "commissioner_of_oaths"
+          ]
+        }
+      }
+    ],
+    "beneficiary_relations": [
+      {
+        "relation_id": "REL_BENEF_001",
+        "relation_type": "beneficiary_of",
+        "source_entity": "PERSON_004",
+        "target_entity": "TRUST_001",
+        "legal_status": "legitimate",
+        "evidence": [
+          "trust_deed"
+        ]
+      },
+      {
+        "relation_id": "REL_BENEF_002",
+        "relation_type": "beneficiary_of",
+        "source_entity": "PERSON_005",
+        "target_entity": "TRUST_001",
+        "legal_status": "legitimate",
+        "evidence": [
+          "trust_deed"
+        ],
+        "additional_notes": "Beneficiary being attacked by trustees using trust structure"
       }
     ]
   }

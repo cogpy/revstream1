@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "4.0",
+    "version": "5.0",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 46,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2025-11-12",
-    "changes": "Added 5 new events: Adderory registration (Apr 2021), Kayla murder (2023), Chantal letter (Jan 2025), SLG stock missing (Feb 25 2025), Cloud IT removal (Apr 22 2025)"
+    "last_updated": "2025-11-13",
+    "changes": "Added 7 new events: Bantjies audit dismissal, trial balance email, commissioner misconduct, Jax confrontation, AJE entries, inter-company interest, Villa Via year-end"
   },
   "events": [
     {
@@ -1207,6 +1207,144 @@
       "pattern": "initial_theft_phase",
       "additional_notes": "Infrastructure control seizure between bank letter (Apr 14) and audit trail destruction (May 22)",
       "evidence_location": "ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md"
+    },
+    {
+      "event_id": "EVENT_047",
+      "date": "2025-06-10",
+      "category": "fraud_concealment",
+      "event_type": "audit_dismissal",
+      "description": "Bantjies dismisses Daniel's audit request 4 days after fraud exposure",
+      "entities_involved": [
+        "PERSON_007",
+        "PERSON_005"
+      ],
+      "financial_impact": "unknown",
+      "legal_significance": "consciousness_of_guilt_and_fraud_concealment",
+      "evidence_sources": [
+        "email_correspondence",
+        "timeline_analysis"
+      ],
+      "timeline_phase": "PHASE_005",
+      "additional_notes": "Bantjies dismisses audit with 'I am going away for 2 weeks' on June 10, 2025, just 4 days after Daniel provided comprehensive reports exposing fraud on June 6, 2025"
+    },
+    {
+      "event_id": "EVENT_048",
+      "date": "2020-08-13",
+      "category": "accounting_fraud",
+      "event_type": "financial_control_evidence",
+      "description": "Bantjies sends trial balance email to finalize financial statements",
+      "entities_involved": [
+        "PERSON_007",
+        "PERSON_010",
+        "PERSON_004",
+        "PERSON_001",
+        "PERSON_002",
+        "PERSON_005"
+      ],
+      "financial_impact": "N/A",
+      "legal_significance": "establishes_bantjies_long_term_control_of_financial_systems",
+      "evidence_sources": [
+        "email_body_html",
+        "trial_balance_documents"
+      ],
+      "timeline_phase": "PHASE_000",
+      "additional_notes": "Email from Danie Bantjies to Bernadine Wright, Jacqui, Peter, Rynette, and Daniel with final trial balances for financial statement finalization meeting"
+    },
+    {
+      "event_id": "EVENT_049",
+      "date": "2025-08-13",
+      "category": "trust_violations",
+      "event_type": "commissioner_of_oaths_misconduct",
+      "description": "Bantjies certifies Peter's affidavit as Commissioner of Oaths despite material omissions",
+      "entities_involved": [
+        "PERSON_007",
+        "PERSON_001"
+      ],
+      "financial_impact": "unknown",
+      "legal_significance": "professional_misconduct_and_conflict_of_interest",
+      "evidence_sources": [
+        "court_documents",
+        "affidavit_analysis"
+      ],
+      "timeline_phase": "PHASE_006",
+      "additional_notes": "Bantjies certifies Peter's affidavit despite being unknown trustee with R18.685M debt to trust, demonstrating active participation in fraud concealment"
+    },
+    {
+      "event_id": "EVENT_050",
+      "date": "2025-05-15",
+      "category": "fraud_discovery",
+      "event_type": "confrontation",
+      "description": "Jax confronts Rynette about R1,035,000 owed to ReZonance and Kayla's estate",
+      "entities_involved": [
+        "PERSON_012",
+        "PERSON_002",
+        "ORG_007"
+      ],
+      "financial_impact": "R1,035,000",
+      "legal_significance": "trigger_event_for_coordinated_cover_up",
+      "evidence_sources": [
+        "communication_records",
+        "timeline_analysis"
+      ],
+      "timeline_phase": "PHASE_003",
+      "additional_notes": "Critical trigger event - Jax notifies Rynette that funds need to be paid to ReZonance and Kayla's estate, triggering coordinated cover-up activities within days"
+    },
+    {
+      "event_id": "EVENT_051",
+      "date": "2020-02-20",
+      "category": "financial_manipulation",
+      "event_type": "adjusting_journal_entries",
+      "description": "Multiple adjusting journal entries across entities for inter-company cost reallocations",
+      "entities_involved": [
+        "ORG_001",
+        "ORG_002",
+        "ORG_005"
+      ],
+      "financial_impact": "R1,642,000",
+      "legal_significance": "establishes_pattern_of_financial_manipulation",
+      "evidence_sources": [
+        "trial_balance_documents",
+        "financial_analysis"
+      ],
+      "timeline_phase": "PHASE_000",
+      "additional_notes": "RWW R500K stock provision write-back, RWW R810K admin fee reallocation, SLG R252K admin fee reallocation, SLG R80K production cost transfer to RST"
+    },
+    {
+      "event_id": "EVENT_052",
+      "date": "2020-02-28",
+      "category": "financial_structure",
+      "event_type": "inter_company_interest_payment",
+      "description": "SLG pays R414,334.09 interest to RST per loan agreement",
+      "entities_involved": [
+        "ORG_002",
+        "ORG_005"
+      ],
+      "financial_impact": "R414,334.09",
+      "legal_significance": "establishes_inter_company_financial_relationships",
+      "evidence_sources": [
+        "trial_balance_documents",
+        "loan_agreement"
+      ],
+      "timeline_phase": "PHASE_000",
+      "additional_notes": "Year-end adjustment showing established inter-company loan structure"
+    },
+    {
+      "event_id": "EVENT_053",
+      "date": "2020-04-30",
+      "category": "profit_extraction",
+      "event_type": "villa_via_year_end",
+      "description": "Villa Via financial year-end showing R3.7M profit and R22.8M members loan",
+      "entities_involved": [
+        "ORG_004"
+      ],
+      "financial_impact": "R22,800,000",
+      "legal_significance": "evidence_of_capital_extraction_through_members_loan",
+      "evidence_sources": [
+        "trial_balance_documents",
+        "financial_statements"
+      ],
+      "timeline_phase": "PHASE_000",
+      "additional_notes": "Monthly rental income R4.4M, net profit R3.7M, members loan account R22.8M indicates significant capital extraction"
     }
   ]
 }

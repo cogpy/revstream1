@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "4.0",
+    "version": "5.0",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2025-11-12",
-    "changes": "Fixed ORG_007 duplication (separated ReZonance and Adderory), added PERSON_003 (Rynette's son), added PERSON_011 (Chantal), added ORG_009 and ORG_010 (Adderory companies), enhanced existing entities with ad-res-j7 evidence"
+    "last_updated": "2025-11-13",
+    "changes": "Added PERSON_012 (Jax), TRUST_001 (Faucitt Family Trust), bank accounts, cross-referenced with ad-res-j7 evidence"
   },
   "entities": {
     "persons": [
@@ -269,6 +269,27 @@
           "EVENT_023"
         ],
         "additional_notes": "Delivered letter about Kayla estate finalization in January 2025, potential witness to estate exploitation"
+      },
+      {
+        "entity_id": "PERSON_012",
+        "name": "Jax",
+        "role": "witness_and_victim",
+        "agent_type": "neutral",
+        "involvement_events": 2,
+        "primary_actions": [
+          "received_domain_switch_email",
+          "confronted_rynette_about_missing_money"
+        ],
+        "relationships": [
+          "email_recipient_from_gee",
+          "confronted_PERSON_002",
+          "ceo_of_RST"
+        ],
+        "timeline_events": [
+          "EVENT_H020",
+          "EVENT_H021"
+        ],
+        "additional_notes": "Received email from Gee about domain switch instruction, confronted Rynette on May 15, 2025 about R1,035,000 owed to ReZonance"
       }
     ],
     "organizations": [
@@ -636,6 +657,52 @@
           "trustee_PERSON_001",
           "beneficiaries_excluded_by_PERSON_001"
         ]
+      }
+    ],
+    "trusts": [
+      {
+        "entity_id": "TRUST_001",
+        "name": "Faucitt Family Trust",
+        "entity_type": "family_trust",
+        "agent_type": "instrument_of_fraud",
+        "role": "trust_structure_used_for_control",
+        "trustees": [
+          "PERSON_001",
+          "PERSON_007"
+        ],
+        "beneficiaries": [
+          "PERSON_004",
+          "PERSON_005"
+        ],
+        "founder": "PERSON_001",
+        "owned_entities": [
+          "ORG_001",
+          "ORG_004"
+        ],
+        "key_characteristics": [
+          "unusual_trustee_powers",
+          "absence_of_beneficiary_powers",
+          "founder_additional_powers",
+          "used_for_attacking_beneficiaries"
+        ],
+        "financial_impact": {
+          "debt_owed_by_trustee": "R18,685,000",
+          "debtor": "PERSON_007"
+        },
+        "legal_significance": "trust_structure_manipulation_and_beneficiary_attack",
+        "additional_notes": "Bantjies is unknown trustee with R18.685M debt to trust, creating massive conflict of interest"
+      }
+    ],
+    "bank_accounts": [
+      {
+        "entity_id": "BANK_001",
+        "account_type": "business_account",
+        "bank_name": "ABSA",
+        "entity_type": "bank_account",
+        "agent_type": "instrument_of_fraud",
+        "role": "allegedly_fraudulently_opened",
+        "controlled_by": "PERSON_002",
+        "additional_notes": "One of 8 ABSA accounts allegedly opened by Rynette using Daniel's stolen card"
       }
     ]
   }
