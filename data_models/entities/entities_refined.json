@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "4.0",
+    "version": "5.0",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2025-11-12",
-    "changes": "Fixed ORG_007 duplication (separated ReZonance and Adderory), added PERSON_003 (Rynette's son), added PERSON_011 (Chantal), added ORG_009 and ORG_010 (Adderory companies), enhanced existing entities with ad-res-j7 evidence"
+    "last_updated": "2025-11-14",
+    "changes": "Added missing entities (TRUST_001, PLATFORM_001, DOMAIN_001, DOMAIN_002), fixed timeline duplicates, added orphaned events"
   },
   "entities": {
     "persons": [
@@ -573,6 +573,23 @@
           "used_by_ORG_001_without_ownership",
           "audit_trail_destroyed_by_PERSON_001"
         ]
+      },
+      {
+        "entity_id": "PLATFORM_001",
+        "name": "Shopify Platform (regima.zone)",
+        "entity_type": "digital_platform",
+        "agent_type": "instrument_of_revenue",
+        "role": "revenue_platform",
+        "owner": "ORG_003",
+        "operators": [
+          "PERSON_004",
+          "PERSON_005"
+        ],
+        "financial_details": {
+          "monthly_revenue": "R1,000,000+",
+          "investment": "R140,000 - R280,000",
+          "duration": "28_months"
+        }
       }
     ],
     "domains": [
@@ -612,6 +629,25 @@
           "controlled_by_PERSON_002",
           "used_for_customer_hijacking"
         ]
+      },
+      {
+        "entity_id": "DOMAIN_001",
+        "name": "regima.zone",
+        "entity_type": "domain",
+        "agent_type": "legitimate_asset",
+        "role": "legitimate_domain",
+        "owner": "ORG_003",
+        "registration_date": "2023-07"
+      },
+      {
+        "entity_id": "DOMAIN_002",
+        "name": "regimaskin.co.za",
+        "entity_type": "domain",
+        "agent_type": "instrument_of_fraud",
+        "role": "fraudulent_domain",
+        "owner": "PERSON_003",
+        "registration_date": "2025-05-29",
+        "purpose": "identity_fraud_customer_hijacking"
       }
     ],
     "trust_entities": [
@@ -636,6 +672,26 @@
           "trustee_PERSON_001",
           "beneficiaries_excluded_by_PERSON_001"
         ]
+      }
+    ],
+    "trusts": [
+      {
+        "entity_id": "TRUST_001",
+        "name": "Family Trust",
+        "entity_type": "trust",
+        "agent_type": "victim",
+        "role": "trust_entity",
+        "trustees": [
+          "PERSON_001",
+          "PERSON_007"
+        ],
+        "beneficiaries": [
+          "legitimate_beneficiaries"
+        ],
+        "financial_impact": {
+          "trust_violations": "R2,851,247.35+",
+          "asset_misappropriation": "unknown_amount"
+        }
       }
     ]
   }
