@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": "4.0",
+    "version": "5.0",
     "created_date": "2025-11-10",
     "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
@@ -8,8 +8,17 @@
     "period_end": "2025-09-11",
     "duration_days": 194,
     "total_events": 48,
-    "last_updated": "2025-11-14",
-    "changes": "Removed duplicate events, added orphaned events to appropriate phases"
+    "last_updated": "2025-11-15",
+    "changes": "Enhanced trigger analysis for escalation phase; added evidence source cross-references to ad-res-j7",
+    "evidence_sources": {
+      "primary_repository": "cogpy/revstream1",
+      "extended_evidence": "cogpy/ad-res-j7",
+      "key_documents": [
+        "COMPREHENSIVE_TIMELINE_2017_2025.md",
+        "FINANCIAL_EXTRACTION_ANALYSIS.md",
+        "KEY_EVENTS_TIMELINE_MARCH_AUGUST_2025.md"
+      ]
+    }
   },
   "timeline_phases": {
     "phase_1_foundation": {
@@ -103,7 +112,27 @@
         "EVENT_007",
         "EVENT_009"
       ],
-      "trigger_event": "Jacqui's confrontation about R1,035,000 debt"
+      "trigger_event": "Jacqui's confrontation about R1,035,000 debt",
+      "trigger_analysis": {
+        "trigger_event": "EVENT_007",
+        "trigger_date": "2025-05-15",
+        "trigger_description": "Jacqui confronts Rynette about R1,035,000 debt to Kayla estate",
+        "retaliation_sequence": [
+          {
+            "event": "EVENT_009",
+            "date": "2025-05-22",
+            "days_after_trigger": 7,
+            "action": "Shopify audit trail destruction"
+          },
+          {
+            "event": "EVENT_010",
+            "date": "2025-05-29",
+            "days_after_trigger": 14,
+            "action": "Fraudulent domain registration by Adderory"
+          }
+        ],
+        "pattern": "confrontation_triggers_systematic_retaliation"
+      }
     },
     "phase_4_consolidation": {
       "phase_id": "PHASE_004",

@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "5.0",
+    "version": "6.0",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2025-11-13",
-    "changes": "Added PERSON_012 (Jax), TRUST_001 (Faucitt Family Trust), bank accounts, cross-referenced with ad-res-j7 evidence"
+    "last_updated": "2025-11-15",
+    "changes": "Added missing roles, names, and agent types for all entities; enhanced entity descriptions based on ad-res-j7 cross-reference"
   },
   "entities": {
     "persons": [
@@ -372,7 +372,7 @@
         "name": "Strategic Logistics Group",
         "abbreviation": "SLG",
         "entity_type": "company",
-        "agent_type": "affected_entity",
+        "agent_type": "victim_entity",
         "ownership_structure": {
           "director_1": "33%",
           "director_2": "33%",
@@ -395,7 +395,8 @@
           "interest_payer_to_ORG_002",
           "loss_entity_in_inter_company_manipulation"
         ],
-        "additional_notes": "Positioned as loss entity with R13M debt to RST, paid R414K interest Feb 2020, pattern consistent with R5.4M stock lossPositioned as loss entity with R13M debt to RST, paid R414K interest Feb 2020, pattern consistent with R5.4M stock loss"
+        "additional_notes": "Positioned as loss entity with R13M debt to RST, paid R414K interest Feb 2020, pattern consistent with R5.4M stock lossPositioned as loss entity with R13M debt to RST, paid R414K interest Feb 2020, pattern consistent with R5.4M stock loss",
+        "role": "trust_owned_warehouse_and_logistics"
       },
       {
         "entity_id": "ORG_005",
@@ -425,19 +426,21 @@
         "financial_year": {
           "start": "May 1",
           "end": "April 30"
-        }
+        },
+        "role": "rental_property_company_wealth_extraction"
       },
       {
         "entity_id": "ORG_006",
         "name": "RegimA SA",
         "entity_type": "company",
-        "agent_type": "affected_entity",
+        "agent_type": "victim_entity",
         "relationships": [
           "related_to_ORG_001"
         ],
         "timeline_events": [
           "diversion_started_2025_03_01"
-        ]
+        ],
+        "role": "revenue_stream_victim"
       },
       {
         "entity_id": "ORG_008",
@@ -593,7 +596,8 @@
           "owned_by_ORG_003",
           "used_by_ORG_001_without_ownership",
           "audit_trail_destroyed_by_PERSON_001"
-        ]
+        ],
+        "role": "shopify_ecommerce_platform"
       }
     ],
     "domains": [
@@ -612,7 +616,8 @@
         "relationships": [
           "owned_by_ORG_003",
           "operated_by_PERSON_005"
-        ]
+        ],
+        "role": "legitimate_domain"
       },
       {
         "entity_id": "DOMAIN_002",
@@ -632,7 +637,8 @@
           "registered_by_PERSON_003",
           "controlled_by_PERSON_002",
           "used_for_customer_hijacking"
-        ]
+        ],
+        "role": "fraudulent_domain_for_customer_hijacking"
       }
     ],
     "trust_entities": [
@@ -656,7 +662,8 @@
         "relationships": [
           "trustee_PERSON_001",
           "beneficiaries_excluded_by_PERSON_001"
-        ]
+        ],
+        "role": "family_trust_structure_manipulated"
       }
     ],
     "trusts": [
@@ -664,8 +671,8 @@
         "entity_id": "TRUST_001",
         "name": "Faucitt Family Trust",
         "entity_type": "family_trust",
-        "agent_type": "instrument_of_fraud",
-        "role": "trust_structure_used_for_control",
+        "agent_type": "victim_entity",
+        "role": "family_trust_structure_manipulated",
         "trustees": [
           "PERSON_001",
           "PERSON_007"
@@ -702,7 +709,8 @@
         "agent_type": "instrument_of_fraud",
         "role": "allegedly_fraudulently_opened",
         "controlled_by": "PERSON_002",
-        "additional_notes": "One of 8 ABSA accounts allegedly opened by Rynette using Daniel's stolen card"
+        "additional_notes": "One of 8 ABSA accounts allegedly opened by Rynette using Daniel's stolen card",
+        "account_description": "Multiple fraudulently opened accounts"
       }
     ]
   }

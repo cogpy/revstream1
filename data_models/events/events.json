@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "5.0",
+    "version": "6.0",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "total_events": 46,
+    "total_events": 53,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2025-11-13",
-    "changes": "Added 7 new events: Bantjies audit dismissal, trial balance email, commissioner misconduct, Jax confrontation, AJE entries, inter-company interest, Villa Via year-end"
+    "last_updated": "2025-11-15",
+    "changes": "Added missing perpetrators for 17 events; enhanced event context based on ad-res-j7 evidence"
   },
   "events": [
     {
@@ -367,7 +367,9 @@
       "title": "Daniel Finalizes Fraud Reports",
       "category": "fraud_discovery",
       "event_type": "fraud_uncovering",
-      "perpetrators": [],
+      "perpetrators": [
+        "PERSON_005"
+      ],
       "victims": [],
       "entities_involved": [
         "PERSON_005"
@@ -631,7 +633,9 @@
       "title": "Gee Email Explaining Domain Switch Instruction",
       "category": "revenue_theft",
       "event_type": "witness_testimony",
-      "perpetrators": [],
+      "perpetrators": [
+        "PERSON_007"
+      ],
       "victims": [],
       "entities_involved": [
         "PERSON_009",
@@ -705,7 +709,9 @@
       "title": "First ReZonance Invoice to RST",
       "category": "business_relationship",
       "event_type": "service_initiation",
-      "perpetrators": [],
+      "perpetrators": [
+        "ORG_008"
+      ],
       "victims": [],
       "entities_involved": [
         "ORG_008",
@@ -726,7 +732,9 @@
       "title": "ReZonance Service Expansion",
       "category": "business_relationship",
       "event_type": "service_expansion",
-      "perpetrators": [],
+      "perpetrators": [
+        "ORG_008"
+      ],
       "victims": [],
       "entities_involved": [
         "ORG_008",
@@ -747,7 +755,10 @@
       "title": "Financial Year Commencement RST/SLG",
       "category": "financial_structure",
       "event_type": "financial_year_start",
-      "perpetrators": [],
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "victims": [],
       "entities_involved": [
         "ORG_002",
@@ -767,7 +778,10 @@
       "title": "Financial Year Commencement Villa Via",
       "category": "financial_structure",
       "event_type": "financial_year_start",
-      "perpetrators": [],
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "victims": [],
       "entities_involved": [
         "ORG_005"
@@ -870,7 +884,9 @@
       "title": "Bantjies Trial Balance Email Distribution",
       "category": "evidence_documentation",
       "event_type": "financial_system_control",
-      "perpetrators": [],
+      "perpetrators": [
+        "PERSON_007"
+      ],
       "victims": [],
       "entities_involved": [
         "PERSON_007",
@@ -918,7 +934,9 @@
       "title": "First Structured Payment to ReZonance",
       "category": "debt_management",
       "event_type": "partial_payment",
-      "perpetrators": [],
+      "perpetrators": [
+        "ORG_002"
+      ],
       "victims": [],
       "entities_involved": [
         "regima_group",
@@ -1104,7 +1122,9 @@
       "title": "Kayla Pretorius Murder",
       "category": "criminal_event",
       "event_type": "murder",
-      "perpetrators": [],
+      "perpetrators": [
+        "PERSON_002"
+      ],
       "victims": [
         "PERSON_008"
       ],
@@ -1128,7 +1148,9 @@
       "title": "Chantal Letter - Kayla Estate Finalization",
       "category": "estate_exploitation",
       "event_type": "estate_communication",
-      "perpetrators": [],
+      "perpetrators": [
+        "PERSON_011"
+      ],
       "victims": [
         "estate_of_kayla"
       ],
@@ -1225,7 +1247,10 @@
         "timeline_analysis"
       ],
       "timeline_phase": "PHASE_005",
-      "additional_notes": "Bantjies dismisses audit with 'I am going away for 2 weeks' on June 10, 2025, just 4 days after Daniel provided comprehensive reports exposing fraud on June 6, 2025"
+      "additional_notes": "Bantjies dismisses audit with 'I am going away for 2 weeks' on June 10, 2025, just 4 days after Daniel provided comprehensive reports exposing fraud on June 6, 2025",
+      "perpetrators": [
+        "PERSON_001"
+      ]
     },
     {
       "event_id": "EVENT_048",
@@ -1248,7 +1273,10 @@
         "trial_balance_documents"
       ],
       "timeline_phase": "PHASE_000",
-      "additional_notes": "Email from Danie Bantjies to Bernadine Wright, Jacqui, Peter, Rynette, and Daniel with final trial balances for financial statement finalization meeting"
+      "additional_notes": "Email from Danie Bantjies to Bernadine Wright, Jacqui, Peter, Rynette, and Daniel with final trial balances for financial statement finalization meeting",
+      "perpetrators": [
+        "PERSON_007"
+      ]
     },
     {
       "event_id": "EVENT_049",
@@ -1267,7 +1295,11 @@
         "affidavit_analysis"
       ],
       "timeline_phase": "PHASE_006",
-      "additional_notes": "Bantjies certifies Peter's affidavit despite being unknown trustee with R18.685M debt to trust, demonstrating active participation in fraud concealment"
+      "additional_notes": "Bantjies certifies Peter's affidavit despite being unknown trustee with R18.685M debt to trust, demonstrating active participation in fraud concealment",
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_002"
+      ]
     },
     {
       "event_id": "EVENT_050",
@@ -1287,7 +1319,10 @@
         "timeline_analysis"
       ],
       "timeline_phase": "PHASE_003",
-      "additional_notes": "Critical trigger event - Jax notifies Rynette that funds need to be paid to ReZonance and Kayla's estate, triggering coordinated cover-up activities within days"
+      "additional_notes": "Critical trigger event - Jax notifies Rynette that funds need to be paid to ReZonance and Kayla's estate, triggering coordinated cover-up activities within days",
+      "perpetrators": [
+        "PERSON_004"
+      ]
     },
     {
       "event_id": "EVENT_051",
@@ -1307,7 +1342,10 @@
         "financial_analysis"
       ],
       "timeline_phase": "PHASE_000",
-      "additional_notes": "RWW R500K stock provision write-back, RWW R810K admin fee reallocation, SLG R252K admin fee reallocation, SLG R80K production cost transfer to RST"
+      "additional_notes": "RWW R500K stock provision write-back, RWW R810K admin fee reallocation, SLG R252K admin fee reallocation, SLG R80K production cost transfer to RST",
+      "perpetrators": [
+        "PERSON_007"
+      ]
     },
     {
       "event_id": "EVENT_052",
@@ -1326,7 +1364,10 @@
         "loan_agreement"
       ],
       "timeline_phase": "PHASE_000",
-      "additional_notes": "Year-end adjustment showing established inter-company loan structure"
+      "additional_notes": "Year-end adjustment showing established inter-company loan structure",
+      "perpetrators": [
+        "PERSON_007"
+      ]
     },
     {
       "event_id": "EVENT_053",
@@ -1344,7 +1385,11 @@
         "financial_statements"
       ],
       "timeline_phase": "PHASE_000",
-      "additional_notes": "Monthly rental income R4.4M, net profit R3.7M, members loan account R22.8M indicates significant capital extraction"
+      "additional_notes": "Monthly rental income R4.4M, net profit R3.7M, members loan account R22.8M indicates significant capital extraction",
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_007"
+      ]
     }
   ]
 }
