@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "version": "4.0",
+    "version": "5.0",
     "created_date": "2025-11-10",
     "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "period_start": "2017-06-30",
     "period_end": "2025-09-11",
     "duration_days": 194,
-    "total_events": 48,
+    "total_events": 53,
     "last_updated": "2025-11-14",
-    "changes": "Removed duplicate events, added orphaned events to appropriate phases"
+    "changes": "Added 7 new historical events to Historical Foundation Phase, updated financial impact calculations"
   },
   "timeline_phases": {
     "phase_1_foundation": {
@@ -216,7 +216,14 @@
         "EVENT_052",
         "EVENT_053",
         "EVENT_H009",
-        "EVENT_H010"
+        "EVENT_H010",
+        "EVENT_H011",
+        "EVENT_H012",
+        "EVENT_H013",
+        "EVENT_H014",
+        "EVENT_H015",
+        "EVENT_H016",
+        "EVENT_H017"
       ],
       "primary_objectives": [
         "establish_business_relationships",
@@ -228,9 +235,14 @@
         "rezonance_business_relationship_establishment",
         "inter_company_financial_manipulation",
         "villa_via_capital_extraction_R22.8M",
-        "bantjies_financial_system_control"
+        "bantjies_financial_system_control",
+        "inter_company_cost_reallocations",
+        "inter_company_loan_structure",
+        "capital_extraction_mechanism",
+        "financial_system_control_documentation",
+        "business_relationship_establishment"
       ],
-      "financial_impact": "R22,800,000+ (Villa Via members loan)",
+      "financial_impact": "R25,106,584.89+ (Villa Via R22.8M + inter-company R2.3M+)",
       "legal_significance": "foundation_for_systematic_fraud_infrastructure",
       "pattern_analysis": "Establishment of complex inter-company structures enabling later fraud, Villa Via profit extraction mechanism, Bantjies control over financial systems"
     },

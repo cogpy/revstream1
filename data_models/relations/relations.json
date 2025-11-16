@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "3.0",
+    "version": "4.0",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2025-11-13",
-    "changes": "Added email control, trustee, and beneficiary relations based on ad-res-j7 cross-reference"
+    "last_updated": "2025-11-16",
+    "changes": "Added 3 new relation categories: professional_correspondence_relations, capital_extraction_relations, inter_company_loan_relations"
   },
   "relations": {
     "ownership_relations": [
@@ -610,6 +610,68 @@
           "trust_deed"
         ],
         "additional_notes": "Beneficiary being attacked by trustees using trust structure"
+      }
+    ],
+    "professional_correspondence_relations": [
+      {
+        "relation_id": "REL_PROF_001",
+        "relation_type": "professional_correspondence",
+        "source_entity": "PERSON_007",
+        "target_entity": "PERSON_010",
+        "correspondence_type": "financial_reporting",
+        "date": "2020-08-13",
+        "evidence": [
+          "trial_balance_email_2020_08_13"
+        ],
+        "significance": "witness_to_financial_control",
+        "additional_notes": "Bernadine Wright received trial balance from Bantjes, witness to his control over financial systems"
+      }
+    ],
+    "capital_extraction_relations": [
+      {
+        "relation_id": "REL_EXTRACT_001",
+        "relation_type": "capital_extraction",
+        "source_entity": "ORG_005",
+        "target_entity": "members",
+        "extraction_mechanism": "members_loan_account",
+        "amount": "R22,800,000",
+        "date": "2020-04-30",
+        "significance": "profit_extraction_infrastructure",
+        "evidence": [
+          "villa_via_trial_balance_apr_2020"
+        ],
+        "additional_notes": "Villa Via members loan account showing R22.8M capital extraction, monthly rental income R4.4M"
+      }
+    ],
+    "inter_company_loan_relations": [
+      {
+        "relation_id": "REL_LOAN_001",
+        "relation_type": "inter_company_loan",
+        "lender": "ORG_002",
+        "borrower": "ORG_004",
+        "loan_type": "interest_bearing",
+        "interest_payment": "R414,334.09",
+        "payment_date": "2020-02-28",
+        "significance": "financial_interdependency",
+        "evidence": [
+          "trial_balance_2020",
+          "loan_agreement"
+        ],
+        "additional_notes": "SLG pays interest to RST per loan agreement"
+      },
+      {
+        "relation_id": "REL_LOAN_002",
+        "relation_type": "inter_company_loan",
+        "lender": "ORG_002",
+        "borrower": "ORG_001",
+        "loan_type": "production_financing",
+        "loan_amount": "R750,000",
+        "advance_date": "2020-02-28",
+        "significance": "financial_dependency_creation",
+        "evidence": [
+          "trial_balance_2020"
+        ],
+        "additional_notes": "RST advances R750K to RWW for production costs"
       }
     ]
   }
