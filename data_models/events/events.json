@@ -1,15 +1,557 @@
 {
   "metadata": {
-    "version": "6.0",
+    "version": "7.0",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "total_events": 53,
+    "total_events": 62,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2025-11-15",
-    "changes": "Added missing perpetrators for 17 events; enhanced event context based on ad-res-j7 evidence"
+    "last_updated": "2025-11-16",
+    "changes": "Integrated ad-res-j7 evidence: added 9 new critical events including Bantjies knowledge acquisition, settlement timing, and perjury events"
   },
   "events": [
+    {
+      "event_id": "EVENT_H001",
+      "date": "2017-06-30",
+      "title": "First ReZonance Invoice to RST",
+      "category": "business_relationship",
+      "event_type": "service_initiation",
+      "perpetrators": [
+        "ORG_008"
+      ],
+      "victims": [],
+      "entities_involved": [
+        "ORG_008",
+        "ORG_002"
+      ],
+      "description": "First invoice from ReZonance to RegimA Skin Treatments for Google GSuite services (R250.80), marking the beginning of business relationship",
+      "financial_impact": "R250.80",
+      "legal_significance": "establishment_of_business_relationship_and_trust",
+      "evidence": [
+        "invoice_2017_06_30",
+        "service_agreement"
+      ],
+      "pattern": "historical_foundation"
+    },
+    {
+      "event_id": "EVENT_H002",
+      "date": "2017-09-30",
+      "title": "ReZonance Service Expansion",
+      "category": "business_relationship",
+      "event_type": "service_expansion",
+      "perpetrators": [
+        "ORG_008"
+      ],
+      "victims": [],
+      "entities_involved": [
+        "ORG_008",
+        "regima_group"
+      ],
+      "description": "Major service expansion with multiple enterprise services (R100,000+), substantial increase in service provision and financial exposure",
+      "financial_impact": "R100,000+",
+      "legal_significance": "establishment_of_operational_dependency",
+      "evidence": [
+        "invoices_2017_09_30",
+        "service_expansion_documentation"
+      ],
+      "pattern": "historical_foundation"
+    },
+    {
+      "event_id": "EVENT_H003",
+      "date": "2019-03-01",
+      "title": "Financial Year Commencement RST/SLG",
+      "category": "financial_structure",
+      "event_type": "financial_year_start",
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "victims": [],
+      "entities_involved": [
+        "ORG_002",
+        "ORG_004"
+      ],
+      "description": "Financial year commencement for RegimA Skin Treatments and Strategic Logistics, beginning of period covered by trial balance evidence",
+      "financial_impact": "unknown",
+      "legal_significance": "foundation_for_inter_company_financial_manipulation",
+      "evidence": [
+        "trial_balance_documentation"
+      ],
+      "pattern": "historical_foundation"
+    },
+    {
+      "event_id": "EVENT_H004",
+      "date": "2019-05-01",
+      "title": "Financial Year Commencement Villa Via",
+      "category": "financial_structure",
+      "event_type": "financial_year_start",
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "victims": [],
+      "entities_involved": [
+        "ORG_005"
+      ],
+      "description": "Villa Via operates on different financial year, creating complexity in group reporting and enabling profit extraction concealment",
+      "financial_impact": "unknown",
+      "legal_significance": "structural_complexity_enabling_fraud",
+      "evidence": [
+        "VV-TRIALBALANCEAPR20202.xlsx"
+      ],
+      "pattern": "historical_foundation"
+    },
+    {
+      "event_id": "EVENT_H005",
+      "date": "2020-02-20",
+      "title": "Multiple Adjusting Journal Entries",
+      "category": "financial_manipulation",
+      "event_type": "inter_company_adjustments",
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "victims": [
+        "ORG_001",
+        "ORG_004"
+      ],
+      "entities_involved": [
+        "ORG_001",
+        "ORG_004",
+        "ORG_002"
+      ],
+      "description": "Significant inter-company cost reallocations: RWW R500K stock provision write-back, RWW R810K admin fee reallocation, SLG R252K admin fee reallocation, SLG R80K production cost transfer to RST",
+      "financial_impact": "R1,642,000",
+      "legal_significance": "evidence_of_systematic_inter_company_manipulation",
+      "evidence": [
+        "trial_balance_AJEs",
+        "general_ledger_entries"
+      ],
+      "pattern": "historical_foundation"
+    },
+    {
+      "event_id": "EVENT_051",
+      "date": "2020-02-20",
+      "category": "financial_manipulation",
+      "event_type": "adjusting_journal_entries",
+      "description": "Multiple adjusting journal entries across entities for inter-company cost reallocations",
+      "entities_involved": [
+        "ORG_001",
+        "ORG_002",
+        "ORG_005"
+      ],
+      "financial_impact": "R1,642,000",
+      "legal_significance": "establishes_pattern_of_financial_manipulation",
+      "evidence_sources": [
+        "trial_balance_documents",
+        "financial_analysis"
+      ],
+      "timeline_phase": "PHASE_000",
+      "additional_notes": "RWW R500K stock provision write-back, RWW R810K admin fee reallocation, SLG R252K admin fee reallocation, SLG R80K production cost transfer to RST",
+      "perpetrators": [
+        "PERSON_007"
+      ]
+    },
+    {
+      "event_id": "EVENT_H006",
+      "date": "2020-02-28",
+      "title": "Year-End Adjustments and Interest Payment",
+      "category": "financial_manipulation",
+      "event_type": "profit_concentration",
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "victims": [
+        "ORG_004",
+        "ORG_001"
+      ],
+      "entities_involved": [
+        "ORG_004",
+        "ORG_002",
+        "ORG_001"
+      ],
+      "description": "SLG pays R414,334.09 interest to RST per loan agreement, RST advances R750K loan to RWW for production costs, Directors' fee adjustment R784K in RST",
+      "financial_impact": "R1,948,334.09",
+      "legal_significance": "profit_concentration_in_director_controlled_entity",
+      "evidence": [
+        "REG-TRIALBALANCE.xlsx",
+        "SL-TRIALBALANCE2020.xlsx"
+      ],
+      "pattern": "historical_foundation"
+    },
+    {
+      "event_id": "EVENT_052",
+      "date": "2020-02-28",
+      "category": "financial_structure",
+      "event_type": "inter_company_interest_payment",
+      "description": "SLG pays R414,334.09 interest to RST per loan agreement",
+      "entities_involved": [
+        "ORG_002",
+        "ORG_005"
+      ],
+      "financial_impact": "R414,334.09",
+      "legal_significance": "establishes_inter_company_financial_relationships",
+      "evidence_sources": [
+        "trial_balance_documents",
+        "loan_agreement"
+      ],
+      "timeline_phase": "PHASE_000",
+      "additional_notes": "Year-end adjustment showing established inter-company loan structure",
+      "perpetrators": [
+        "PERSON_007"
+      ]
+    },
+    {
+      "event_id": "EVENT_H007",
+      "date": "2020-04-30",
+      "title": "Villa Via Year-End Profit Extraction",
+      "category": "profit_extraction",
+      "event_type": "capital_extraction",
+      "perpetrators": [
+        "PERSON_001"
+      ],
+      "victims": [
+        "ORG_004",
+        "ORG_001",
+        "TRUST_001"
+      ],
+      "entities_involved": [
+        "ORG_005"
+      ],
+      "description": "Villa Via generates R4.4M monthly rental income with R3.7M profit, Members loan account R22.8M indicating systematic capital extraction",
+      "financial_impact": "R22,800,000",
+      "legal_significance": "evidence_of_capital_extraction_mechanism",
+      "evidence": [
+        "VV-TRIALBALANCEAPR20202.xlsx"
+      ],
+      "pattern": "historical_foundation",
+      "critical": true
+    },
+    {
+      "event_id": "EVENT_053",
+      "date": "2020-04-30",
+      "category": "profit_extraction",
+      "event_type": "villa_via_year_end",
+      "description": "Villa Via financial year-end showing R3.7M profit and R22.8M members loan",
+      "entities_involved": [
+        "ORG_004"
+      ],
+      "financial_impact": "R22,800,000",
+      "legal_significance": "evidence_of_capital_extraction_through_members_loan",
+      "evidence_sources": [
+        "trial_balance_documents",
+        "financial_statements"
+      ],
+      "timeline_phase": "PHASE_000",
+      "additional_notes": "Monthly rental income R4.4M, net profit R3.7M, members loan account R22.8M indicates significant capital extraction",
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_007"
+      ]
+    },
+    {
+      "event_id": "EVENT_H008",
+      "date": "2020-08-13",
+      "title": "Bantjies Trial Balance Email Distribution",
+      "category": "evidence_documentation",
+      "event_type": "financial_system_control",
+      "perpetrators": [
+        "PERSON_007"
+      ],
+      "victims": [],
+      "entities_involved": [
+        "PERSON_007",
+        "PERSON_010"
+      ],
+      "description": "Email from Danie Bantjies with final trial balances to Bernadine Wright, Jax, Peter, Rynette, Daniel for financial statement finalization meeting",
+      "financial_impact": "unknown",
+      "legal_significance": "evidence_of_bantjies_control_over_financial_systems",
+      "evidence": [
+        "Email-body.html",
+        "trial_balance_attachments"
+      ],
+      "pattern": "historical_foundation"
+    },
+    {
+      "event_id": "EVENT_048",
+      "date": "2020-08-13",
+      "category": "accounting_fraud",
+      "event_type": "financial_control_evidence",
+      "description": "Bantjies sends trial balance email to finalize financial statements",
+      "entities_involved": [
+        "PERSON_007",
+        "PERSON_010",
+        "PERSON_004",
+        "PERSON_001",
+        "PERSON_002",
+        "PERSON_005"
+      ],
+      "financial_impact": "N/A",
+      "legal_significance": "establishes_bantjies_long_term_control_of_financial_systems",
+      "evidence_sources": [
+        "email_body_html",
+        "trial_balance_documents"
+      ],
+      "timeline_phase": "PHASE_000",
+      "additional_notes": "Email from Danie Bantjies to Bernadine Wright, Jacqui, Peter, Rynette, and Daniel with final trial balances for financial statement finalization meeting",
+      "perpetrators": [
+        "PERSON_007"
+      ]
+    },
+    {
+      "event_id": "EVENT_H018",
+      "date": "2020-08-13",
+      "title": "Bantjies Sends Trial Balance Email to Bernadine Wright",
+      "category": "accounting_fraud",
+      "event_type": "financial_system_control_documentation",
+      "perpetrators": [
+        "PERSON_007"
+      ],
+      "entities_involved": [
+        "PERSON_010",
+        "ORG_001"
+      ],
+      "description": "Bantjies sends trial balance email to Bernadine Wright for financial statement finalization meeting, demonstrating his control over financial systems and accounting records",
+      "legal_significance": "demonstrates_bantjies_control_of_financial_systems",
+      "evidence": [
+        "trial_balance_email_2020_08_13"
+      ],
+      "pattern": "historical_foundation"
+    },
+    {
+      "event_id": "EVENT_H009",
+      "date": "2021-04-01",
+      "title": "Adderory Companies Registration - Pre-Planning Phase",
+      "category": "conspiracy_preparation",
+      "event_type": "company_registration",
+      "perpetrators": [
+        "PERSON_003",
+        "PERSON_002"
+      ],
+      "victims": [],
+      "entities_involved": [
+        "ORG_009",
+        "ORG_010"
+      ],
+      "description": "Rynette's son registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure 4 years before fraud escalation. Demonstrates long-term conspiracy planning.",
+      "financial_impact": "unknown_amount",
+      "legal_significance": "pre_planning_evidence_demonstrates_long_term_conspiracy",
+      "evidence": [
+        "company_registration_records",
+        "cipc_documentation"
+      ],
+      "pattern": "pre_planning_phase",
+      "additional_notes": "Registered April 2021, 4 years before May 2025 fraud escalation, demonstrates systematic pre-planning",
+      "evidence_location": "ad-res-j7/1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md"
+    },
+    {
+      "event_id": "EVENT_D001",
+      "date": "2022-03-01",
+      "title": "ReZonance Opening Balance Debt",
+      "category": "debt_accumulation",
+      "event_type": "unpaid_debt",
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "victims": [
+        "ORG_008",
+        "PERSON_008"
+      ],
+      "entities_involved": [
+        "regima_group",
+        "ORG_008"
+      ],
+      "description": "Opening balance showing substantial accumulated debt to ReZonance (R971,587.93), evidence of unpaid services over extended period",
+      "financial_impact": "R971,587.93",
+      "legal_significance": "systematic_non_payment_of_legitimate_debts",
+      "evidence": [
+        "rezonance_account_statements",
+        "aged_debtor_reports"
+      ],
+      "pattern": "debt_accumulation"
+    },
+    {
+      "event_id": "EVENT_D002",
+      "date": "2022-07-11",
+      "title": "First Structured Payment to ReZonance",
+      "category": "debt_management",
+      "event_type": "partial_payment",
+      "perpetrators": [
+        "ORG_002"
+      ],
+      "victims": [],
+      "entities_involved": [
+        "regima_group",
+        "ORG_008"
+      ],
+      "description": "First structured payment to ReZonance (R40,000), attempt to manage debt through partial payments",
+      "financial_impact": "R40,000",
+      "legal_significance": "acknowledgment_of_debt_through_payment",
+      "evidence": [
+        "payment_records",
+        "bank_statements"
+      ],
+      "pattern": "debt_accumulation"
+    },
+    {
+      "event_id": "EVENT_H010",
+      "date": "2023-01-01",
+      "title": "Kayla Pretorius Murder",
+      "category": "criminal_event",
+      "event_type": "murder",
+      "perpetrators": [
+        "PERSON_002"
+      ],
+      "victims": [
+        "PERSON_008"
+      ],
+      "entities_involved": [
+        "ORG_008"
+      ],
+      "description": "Murder of Kayla Pretorius, creating estate complications, law enforcement investigation, and family trauma. Estate includes ReZonance debt of R1,035,000.",
+      "financial_impact": "R1,035,000",
+      "legal_significance": "estate_complications_law_enforcement_investigation",
+      "evidence": [
+        "police_reports_pending",
+        "estate_documentation_pending"
+      ],
+      "pattern": "historical_foundation_phase",
+      "additional_notes": "Account access complications, law enforcement investigation ongoing, referenced in criminal case documentation",
+      "evidence_location": "ad-res-j7/2-CRIMINAL-CASE/README.md"
+    },
+    {
+      "event_id": "EVENT_D003",
+      "date": "2023-02-28",
+      "title": "ReZonance Final Balance Persistent Debt",
+      "category": "debt_accumulation",
+      "event_type": "unpaid_debt",
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "victims": [
+        "ORG_008",
+        "PERSON_008"
+      ],
+      "entities_involved": [
+        "regima_group",
+        "ORG_008"
+      ],
+      "description": "Final balance showing persistent debt to ReZonance (R1,035,361.34) despite payment claims, debt continues to grow",
+      "financial_impact": "R1,035,361.34",
+      "legal_significance": "ongoing_systematic_non_payment",
+      "evidence": [
+        "rezonance_final_statement",
+        "payment_reconciliation"
+      ],
+      "pattern": "debt_accumulation"
+    },
+    {
+      "event_id": "EVENT_D004",
+      "date": "2023-03-15",
+      "title": "False Payment Claim #1 to ReZonance",
+      "category": "fraud",
+      "event_type": "false_payment_claim",
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "victims": [
+        "ORG_008",
+        "PERSON_008"
+      ],
+      "entities_involved": [
+        "regima_group",
+        "ORG_008"
+      ],
+      "description": "RegimA claims payment of R470,000 to ReZonance not reflected in ReZonance records, first documented false payment claim",
+      "financial_impact": "R470,000",
+      "legal_significance": "fraudulent_payment_claims_to_conceal_debt",
+      "evidence": [
+        "false_payment_documentation",
+        "rezonance_account_reconciliation"
+      ],
+      "pattern": "debt_accumulation",
+      "critical": true
+    },
+    {
+      "event_id": "EVENT_D005",
+      "date": "2023-09-20",
+      "title": "False Payment Claim #2 to ReZonance",
+      "category": "fraud",
+      "event_type": "false_payment_claim",
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "victims": [
+        "ORG_008",
+        "PERSON_008"
+      ],
+      "entities_involved": [
+        "regima_group",
+        "ORG_008"
+      ],
+      "description": "Additional false payment claims totaling R765,361.34 to ReZonance, escalation of fraudulent payment claims",
+      "financial_impact": "R765,361.34",
+      "legal_significance": "systematic_fraud_pattern_escalation",
+      "evidence": [
+        "false_payment_claims_documentation"
+      ],
+      "pattern": "debt_accumulation",
+      "critical": true
+    },
+    {
+      "event_id": "EVENT_023",
+      "date": "2025-01-15",
+      "title": "Chantal Letter - Kayla Estate Finalization",
+      "category": "estate_exploitation",
+      "event_type": "estate_communication",
+      "perpetrators": [
+        "PERSON_011"
+      ],
+      "victims": [
+        "estate_of_kayla"
+      ],
+      "entities_involved": [
+        "PERSON_011",
+        "ORG_008"
+      ],
+      "description": "Chantal delivered letter mentioning Kayla estate finalization, indicating ongoing exploitation of deceased victim's estate.",
+      "financial_impact": "R1,035,000",
+      "legal_significance": "ongoing_estate_exploitation_pattern",
+      "evidence": [
+        "estate_documentation_pending",
+        "letter_from_chantal"
+      ],
+      "pattern": "pre_foundation_phase",
+      "additional_notes": "Estate finalization timing correlates with revenue hijacking timeline, suggests coordination",
+      "evidence_location": "ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md"
+    },
+    {
+      "event_id": "EVENT_054",
+      "date": "2025-01-15",
+      "title": "Chantal Delivers Letter About Kayla Estate Finalization",
+      "category": "estate_fraud",
+      "event_type": "estate_exploitation_communication",
+      "perpetrators": [],
+      "victims": [
+        "PERSON_008"
+      ],
+      "entities_involved": [
+        "PERSON_011"
+      ],
+      "description": "Chantal delivers letter to office regarding Kayla estate finalization, indicating ongoing exploitation of deceased victim's estate",
+      "legal_significance": "continued_exploitation_of_deceased_victims_estate",
+      "evidence": [
+        "chantal_letter_january_2025"
+      ],
+      "pattern": "debt_accumulation"
+    },
     {
       "event_id": "EVENT_022",
       "date": "2025-02-14",
@@ -33,6 +575,40 @@
         "authorization_absence"
       ],
       "pattern": "foundation_phase"
+    },
+    {
+      "event_id": "EVENT_028",
+      "date": "2025-02-25",
+      "title": "R5.2M SLG Stock Missing & Large Invoice",
+      "category": "transfer_pricing_fraud",
+      "event_type": "stock_theft_and_invoice",
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_002",
+        "PERSON_007",
+        "PERSON_003"
+      ],
+      "victims": [
+        "ORG_004",
+        "TRUST_001"
+      ],
+      "entities_involved": [
+        "ORG_004",
+        "ORG_002",
+        "ORG_009"
+      ],
+      "description": "R5.2M SLG stock missing with simultaneous R5.2M invoice from SLG to RST. Stock physically disappeared, same type later supplied by Adderory to RegimA. Systematic asset stripping begins.",
+      "financial_impact": "R5,200,000",
+      "legal_significance": "systematic_asset_stripping_transfer_pricing_fraud",
+      "evidence": [
+        "financial_records",
+        "invoice_documentation",
+        "stock_reconciliation"
+      ],
+      "pattern": "foundation_phase",
+      "critical": true,
+      "additional_notes": "Same stock type supplied by Adderory (Rynette's son), demonstrates coordinated transfer pricing fraud",
+      "evidence_location": "ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md"
     },
     {
       "event_id": "EVENT_001",
@@ -226,6 +802,78 @@
       "pattern": "initial_theft_phase"
     },
     {
+      "event_id": "EVENT_029",
+      "date": "2025-04-22",
+      "title": "Cloud IT Systems Removal Order",
+      "category": "infrastructure_seizure",
+      "event_type": "it_systems_removal",
+      "perpetrators": [
+        "PERSON_001"
+      ],
+      "victims": [
+        "PERSON_005",
+        "ORG_003"
+      ],
+      "entities_involved": [
+        "PLATFORM_001"
+      ],
+      "description": "Peter ordered Cloud IT systems removal, seizing infrastructure control from legitimate operators.",
+      "financial_impact": "unknown_amount",
+      "legal_significance": "infrastructure_control_seizure",
+      "evidence": [
+        "system_access_logs_pending",
+        "it_documentation"
+      ],
+      "pattern": "initial_theft_phase",
+      "additional_notes": "Infrastructure control seizure between bank letter (Apr 14) and audit trail destruction (May 22)",
+      "evidence_location": "ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md"
+    },
+    {
+      "event_id": "EVENT_055",
+      "date": "2025-04-22",
+      "title": "Peter Orders Cloud IT Systems Removal",
+      "category": "evidence_tampering",
+      "event_type": "infrastructure_control_seizure",
+      "perpetrators": [
+        "PERSON_001"
+      ],
+      "victims": [
+        "PERSON_005"
+      ],
+      "entities_involved": [
+        "ORG_001"
+      ],
+      "description": "Peter instructs removal of all cloud IT systems, systematic dismantling of cloud-based infrastructure as preparation for evidence destruction",
+      "financial_impact": "unknown_amount",
+      "legal_significance": "evidence_tampering_preparation_obstruction_of_justice",
+      "evidence": [
+        "it_system_removal_instruction"
+      ],
+      "pattern": "escalation_phase"
+    },
+    {
+      "event_id": "EVENT_056",
+      "date": "2025-04-30",
+      "title": "Server Missing from Office",
+      "category": "evidence_tampering",
+      "event_type": "physical_evidence_removal",
+      "perpetrators": [
+        "PERSON_001"
+      ],
+      "victims": [
+        "PERSON_005"
+      ],
+      "entities_involved": [
+        "ORG_001"
+      ],
+      "description": "Physical server hardware disappears from office premises, potential evidence destruction or data harvesting in preparation for subsequent financial crimes",
+      "legal_significance": "evidence_tampering_obstruction_of_justice",
+      "evidence": [
+        "office_inventory_records"
+      ],
+      "pattern": "escalation_phase"
+    },
+    {
       "event_id": "EVENT_006",
       "date": "2025-05-02",
       "title": "Unauthorized Beneficiary Changes",
@@ -306,6 +954,29 @@
       "pattern": "escalation_phase"
     },
     {
+      "event_id": "EVENT_050",
+      "date": "2025-05-15",
+      "category": "fraud_discovery",
+      "event_type": "confrontation",
+      "description": "Jax confronts Rynette about R1,035,000 owed to ReZonance and Kayla's estate",
+      "entities_involved": [
+        "PERSON_012",
+        "PERSON_002",
+        "ORG_007"
+      ],
+      "financial_impact": "R1,035,000",
+      "legal_significance": "trigger_event_for_coordinated_cover_up",
+      "evidence_sources": [
+        "communication_records",
+        "timeline_analysis"
+      ],
+      "timeline_phase": "PHASE_003",
+      "additional_notes": "Critical trigger event - Jax notifies Rynette that funds need to be paid to ReZonance and Kayla's estate, triggering coordinated cover-up activities within days",
+      "perpetrators": [
+        "PERSON_004"
+      ]
+    },
+    {
       "event_id": "EVENT_009",
       "date": "2025-05-22",
       "title": "Shopify Audit Trail Hijacking",
@@ -384,6 +1055,25 @@
       "pattern": "consolidation_phase"
     },
     {
+      "event_id": "EVENT_057",
+      "date": "2025-06-06",
+      "title": "Daniel Sends Comprehensive Reports to Bantjies",
+      "category": "transparency",
+      "event_type": "full_disclosure",
+      "perpetrators": [],
+      "victims": [],
+      "entities_involved": [
+        "PERSON_005",
+        "PERSON_007"
+      ],
+      "description": "Daniel sends comprehensive documentation to Bantjies including listing of all companies, Shopify store operations, and preliminary reports, demonstrating full transparency",
+      "legal_significance": "evidence_of_full_disclosure_and_transparency",
+      "evidence": [
+        "email_to_bantjies_2025_06_06"
+      ],
+      "pattern": "consolidation_phase"
+    },
+    {
       "event_id": "EVENT_012",
       "date": "2025-06-07",
       "title": "Secret Card Cancellations",
@@ -440,6 +1130,76 @@
       "temporal_significance": "4_days_after_fraud_exposure"
     },
     {
+      "event_id": "EVENT_026",
+      "date": "2025-06-10",
+      "title": "Bantjies Dismisses Audit Request",
+      "category": "fraud_concealment",
+      "event_type": "audit_dismissal",
+      "perpetrators": [
+        "PERSON_007"
+      ],
+      "victims": [
+        "PERSON_005",
+        "TRUST_001"
+      ],
+      "entities_involved": [
+        "PERSON_007",
+        "regima_group"
+      ],
+      "description": "Bantjies dismisses Daniel's audit request 4 days after fraud exposure (June 6), demonstrating consciousness of guilt and conflict of interest given R18.685M debt to trust",
+      "financial_impact": "R18,685,000",
+      "legal_significance": "consciousness_of_guilt_conflict_of_interest_breach_of_fiduciary_duty",
+      "evidence": [
+        "audit_request_dismissal_documentation",
+        "bantjies_debt_records"
+      ],
+      "pattern": "consolidation_phase",
+      "critical": true,
+      "additional_notes": "Bantjies had R18.685M reasons to prevent audit, which would discover debt and conflicts"
+    },
+    {
+      "event_id": "EVENT_047",
+      "date": "2025-06-10",
+      "category": "fraud_concealment",
+      "event_type": "audit_dismissal",
+      "description": "Bantjies dismisses Daniel's audit request 4 days after fraud exposure",
+      "entities_involved": [
+        "PERSON_007",
+        "PERSON_005"
+      ],
+      "financial_impact": "unknown",
+      "legal_significance": "consciousness_of_guilt_and_fraud_concealment",
+      "evidence_sources": [
+        "email_correspondence",
+        "timeline_analysis"
+      ],
+      "timeline_phase": "PHASE_005",
+      "additional_notes": "Bantjies dismisses audit with 'I am going away for 2 weeks' on June 10, 2025, just 4 days after Daniel provided comprehensive reports exposing fraud on June 6, 2025",
+      "perpetrators": [
+        "PERSON_001"
+      ]
+    },
+    {
+      "event_id": "EVENT_058",
+      "date": "2025-06-10",
+      "title": "Bantjies Learns of Criminal Matters",
+      "category": "knowledge_acquisition",
+      "event_type": "fraud_and_murder_disclosure",
+      "perpetrators": [],
+      "victims": [],
+      "entities_involved": [
+        "PERSON_007",
+        "PERSON_005"
+      ],
+      "description": "Daniel reports to Bantjies about Kayla's murder (August 2023) and Peter stealing funds after murder, including over R1.8M owed to Rezonance. Bantjies acquires knowledge of criminal matters before signing confirmatory affidavit.",
+      "legal_significance": "knowledge_before_perjury_confirmatory_affidavit",
+      "evidence": [
+        "email_received_thanks_daniel_2025_08_29"
+      ],
+      "pattern": "consolidation_phase",
+      "critical": true
+    },
+    {
       "event_id": "EVENT_013",
       "date": "2025-06-18",
       "title": "Systematic Trust Violations",
@@ -491,6 +1251,35 @@
       ],
       "shopify_related": true,
       "pattern": "consolidation_phase"
+    },
+    {
+      "event_id": "EVENT_027",
+      "date": "2025-06-20",
+      "title": "Domain Switch Email Instruction",
+      "category": "customer_hijacking",
+      "event_type": "domain_diversion_instruction",
+      "perpetrators": [
+        "PERSON_002"
+      ],
+      "victims": [
+        "PERSON_005",
+        "ORG_003"
+      ],
+      "entities_involved": [
+        "PERSON_009",
+        "DOMAIN_001",
+        "DOMAIN_002"
+      ],
+      "description": "Gee instructed to send email: 'don't use regima.zone only use regimaskin.co.za email', active customer diversion to fraudulent domain owned by Adderory",
+      "financial_impact": "unknown",
+      "legal_significance": "active_customer_hijacking_and_revenue_diversion",
+      "evidence": [
+        "gee_email_instruction",
+        "domain_switch_email"
+      ],
+      "pattern": "consolidation_phase",
+      "critical": true,
+      "additional_notes": "Gee explained to Jax in August about this instruction, direct witness to coordinated customer diversion"
     },
     {
       "event_id": "EVENT_015",
@@ -628,6 +1417,77 @@
       "pattern": "cover_up_phase"
     },
     {
+      "event_id": "EVENT_059",
+      "date": "2025-08-11",
+      "title": "Settlement Agreement Signed",
+      "category": "legal_manipulation",
+      "event_type": "strategic_settlement_timing",
+      "perpetrators": [
+        "PERSON_001"
+      ],
+      "victims": [
+        "PERSON_004",
+        "PERSON_005"
+      ],
+      "entities_involved": [
+        "ORG_001"
+      ],
+      "description": "Settlement agreement signed 2 days before interdict filing, demonstrating strategic coordination and timing to create leverage",
+      "legal_significance": "strategic_litigation_tactic_not_genuine_business_protection",
+      "evidence": [
+        "settlement_agreement_2025_08_11"
+      ],
+      "pattern": "cover_up_phase",
+      "critical": true
+    },
+    {
+      "event_id": "EVENT_049",
+      "date": "2025-08-13",
+      "category": "trust_violations",
+      "event_type": "commissioner_of_oaths_misconduct",
+      "description": "Bantjies certifies Peter's affidavit as Commissioner of Oaths despite material omissions",
+      "entities_involved": [
+        "PERSON_007",
+        "PERSON_001"
+      ],
+      "financial_impact": "unknown",
+      "legal_significance": "professional_misconduct_and_conflict_of_interest",
+      "evidence_sources": [
+        "court_documents",
+        "affidavit_analysis"
+      ],
+      "timeline_phase": "PHASE_006",
+      "additional_notes": "Bantjies certifies Peter's affidavit despite being unknown trustee with R18.685M debt to trust, demonstrating active participation in fraud concealment",
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_002"
+      ]
+    },
+    {
+      "event_id": "EVENT_060",
+      "date": "2025-08-13",
+      "title": "Peter Files Founding Affidavit with Material Non-Disclosures",
+      "category": "perjury",
+      "event_type": "false_court_filing",
+      "perpetrators": [
+        "PERSON_001"
+      ],
+      "victims": [
+        "PERSON_004",
+        "PERSON_005"
+      ],
+      "entities_involved": [
+        "ORG_001"
+      ],
+      "description": "Peter files founding affidavit containing material non-disclosures and perjury regarding email control, filed 2 days after settlement agreement",
+      "legal_significance": "perjury_material_non_disclosure_manufactured_crisis",
+      "evidence": [
+        "founding_affidavit_2025_08_13"
+      ],
+      "pattern": "cover_up_phase",
+      "critical": true
+    },
+    {
       "event_id": "EVENT_026",
       "date": "2025-08-15",
       "title": "Gee Email Explaining Domain Switch Instruction",
@@ -678,6 +1538,28 @@
       "critical": true
     },
     {
+      "event_id": "EVENT_061",
+      "date": "2025-08-29",
+      "title": "ENS Africa Acknowledges Criminal Matters Then Suppresses",
+      "category": "legal_misconduct",
+      "event_type": "evidence_suppression",
+      "perpetrators": [
+        "PERSON_007"
+      ],
+      "victims": [
+        "PERSON_004",
+        "PERSON_005"
+      ],
+      "entities_involved": [],
+      "description": "ENS Africa acknowledges receipt of criminal matters information with 'Received, thanks Daniel' email, then suppresses this information from Court",
+      "legal_significance": "professional_misconduct_evidence_suppression",
+      "evidence": [
+        "email_received_thanks_daniel_2025_08_29"
+      ],
+      "pattern": "cover_up_phase",
+      "critical": true
+    },
+    {
       "event_id": "EVENT_021",
       "date": "2025-09-11",
       "title": "Accounts Emptied",
@@ -702,694 +1584,6 @@
         "account_balance_records"
       ],
       "pattern": "cover_up_phase"
-    },
-    {
-      "event_id": "EVENT_H001",
-      "date": "2017-06-30",
-      "title": "First ReZonance Invoice to RST",
-      "category": "business_relationship",
-      "event_type": "service_initiation",
-      "perpetrators": [
-        "ORG_008"
-      ],
-      "victims": [],
-      "entities_involved": [
-        "ORG_008",
-        "ORG_002"
-      ],
-      "description": "First invoice from ReZonance to RegimA Skin Treatments for Google GSuite services (R250.80), marking the beginning of business relationship",
-      "financial_impact": "R250.80",
-      "legal_significance": "establishment_of_business_relationship_and_trust",
-      "evidence": [
-        "invoice_2017_06_30",
-        "service_agreement"
-      ],
-      "pattern": "historical_foundation"
-    },
-    {
-      "event_id": "EVENT_H002",
-      "date": "2017-09-30",
-      "title": "ReZonance Service Expansion",
-      "category": "business_relationship",
-      "event_type": "service_expansion",
-      "perpetrators": [
-        "ORG_008"
-      ],
-      "victims": [],
-      "entities_involved": [
-        "ORG_008",
-        "regima_group"
-      ],
-      "description": "Major service expansion with multiple enterprise services (R100,000+), substantial increase in service provision and financial exposure",
-      "financial_impact": "R100,000+",
-      "legal_significance": "establishment_of_operational_dependency",
-      "evidence": [
-        "invoices_2017_09_30",
-        "service_expansion_documentation"
-      ],
-      "pattern": "historical_foundation"
-    },
-    {
-      "event_id": "EVENT_H003",
-      "date": "2019-03-01",
-      "title": "Financial Year Commencement RST/SLG",
-      "category": "financial_structure",
-      "event_type": "financial_year_start",
-      "perpetrators": [
-        "PERSON_001",
-        "PERSON_002"
-      ],
-      "victims": [],
-      "entities_involved": [
-        "ORG_002",
-        "ORG_004"
-      ],
-      "description": "Financial year commencement for RegimA Skin Treatments and Strategic Logistics, beginning of period covered by trial balance evidence",
-      "financial_impact": "unknown",
-      "legal_significance": "foundation_for_inter_company_financial_manipulation",
-      "evidence": [
-        "trial_balance_documentation"
-      ],
-      "pattern": "historical_foundation"
-    },
-    {
-      "event_id": "EVENT_H004",
-      "date": "2019-05-01",
-      "title": "Financial Year Commencement Villa Via",
-      "category": "financial_structure",
-      "event_type": "financial_year_start",
-      "perpetrators": [
-        "PERSON_001",
-        "PERSON_002"
-      ],
-      "victims": [],
-      "entities_involved": [
-        "ORG_005"
-      ],
-      "description": "Villa Via operates on different financial year, creating complexity in group reporting and enabling profit extraction concealment",
-      "financial_impact": "unknown",
-      "legal_significance": "structural_complexity_enabling_fraud",
-      "evidence": [
-        "VV-TRIALBALANCEAPR20202.xlsx"
-      ],
-      "pattern": "historical_foundation"
-    },
-    {
-      "event_id": "EVENT_H005",
-      "date": "2020-02-20",
-      "title": "Multiple Adjusting Journal Entries",
-      "category": "financial_manipulation",
-      "event_type": "inter_company_adjustments",
-      "perpetrators": [
-        "PERSON_001",
-        "PERSON_002",
-        "PERSON_007"
-      ],
-      "victims": [
-        "ORG_001",
-        "ORG_004"
-      ],
-      "entities_involved": [
-        "ORG_001",
-        "ORG_004",
-        "ORG_002"
-      ],
-      "description": "Significant inter-company cost reallocations: RWW R500K stock provision write-back, RWW R810K admin fee reallocation, SLG R252K admin fee reallocation, SLG R80K production cost transfer to RST",
-      "financial_impact": "R1,642,000",
-      "legal_significance": "evidence_of_systematic_inter_company_manipulation",
-      "evidence": [
-        "trial_balance_AJEs",
-        "general_ledger_entries"
-      ],
-      "pattern": "historical_foundation"
-    },
-    {
-      "event_id": "EVENT_H006",
-      "date": "2020-02-28",
-      "title": "Year-End Adjustments and Interest Payment",
-      "category": "financial_manipulation",
-      "event_type": "profit_concentration",
-      "perpetrators": [
-        "PERSON_001",
-        "PERSON_002",
-        "PERSON_007"
-      ],
-      "victims": [
-        "ORG_004",
-        "ORG_001"
-      ],
-      "entities_involved": [
-        "ORG_004",
-        "ORG_002",
-        "ORG_001"
-      ],
-      "description": "SLG pays R414,334.09 interest to RST per loan agreement, RST advances R750K loan to RWW for production costs, Directors' fee adjustment R784K in RST",
-      "financial_impact": "R1,948,334.09",
-      "legal_significance": "profit_concentration_in_director_controlled_entity",
-      "evidence": [
-        "REG-TRIALBALANCE.xlsx",
-        "SL-TRIALBALANCE2020.xlsx"
-      ],
-      "pattern": "historical_foundation"
-    },
-    {
-      "event_id": "EVENT_H007",
-      "date": "2020-04-30",
-      "title": "Villa Via Year-End Profit Extraction",
-      "category": "profit_extraction",
-      "event_type": "capital_extraction",
-      "perpetrators": [
-        "PERSON_001"
-      ],
-      "victims": [
-        "ORG_004",
-        "ORG_001",
-        "TRUST_001"
-      ],
-      "entities_involved": [
-        "ORG_005"
-      ],
-      "description": "Villa Via generates R4.4M monthly rental income with R3.7M profit, Members loan account R22.8M indicating systematic capital extraction",
-      "financial_impact": "R22,800,000",
-      "legal_significance": "evidence_of_capital_extraction_mechanism",
-      "evidence": [
-        "VV-TRIALBALANCEAPR20202.xlsx"
-      ],
-      "pattern": "historical_foundation",
-      "critical": true
-    },
-    {
-      "event_id": "EVENT_H008",
-      "date": "2020-08-13",
-      "title": "Bantjies Trial Balance Email Distribution",
-      "category": "evidence_documentation",
-      "event_type": "financial_system_control",
-      "perpetrators": [
-        "PERSON_007"
-      ],
-      "victims": [],
-      "entities_involved": [
-        "PERSON_007",
-        "PERSON_010"
-      ],
-      "description": "Email from Danie Bantjies with final trial balances to Bernadine Wright, Jax, Peter, Rynette, Daniel for financial statement finalization meeting",
-      "financial_impact": "unknown",
-      "legal_significance": "evidence_of_bantjies_control_over_financial_systems",
-      "evidence": [
-        "Email-body.html",
-        "trial_balance_attachments"
-      ],
-      "pattern": "historical_foundation"
-    },
-    {
-      "event_id": "EVENT_D001",
-      "date": "2022-03-01",
-      "title": "ReZonance Opening Balance Debt",
-      "category": "debt_accumulation",
-      "event_type": "unpaid_debt",
-      "perpetrators": [
-        "PERSON_001",
-        "PERSON_002"
-      ],
-      "victims": [
-        "ORG_008",
-        "PERSON_008"
-      ],
-      "entities_involved": [
-        "regima_group",
-        "ORG_008"
-      ],
-      "description": "Opening balance showing substantial accumulated debt to ReZonance (R971,587.93), evidence of unpaid services over extended period",
-      "financial_impact": "R971,587.93",
-      "legal_significance": "systematic_non_payment_of_legitimate_debts",
-      "evidence": [
-        "rezonance_account_statements",
-        "aged_debtor_reports"
-      ],
-      "pattern": "debt_accumulation"
-    },
-    {
-      "event_id": "EVENT_D002",
-      "date": "2022-07-11",
-      "title": "First Structured Payment to ReZonance",
-      "category": "debt_management",
-      "event_type": "partial_payment",
-      "perpetrators": [
-        "ORG_002"
-      ],
-      "victims": [],
-      "entities_involved": [
-        "regima_group",
-        "ORG_008"
-      ],
-      "description": "First structured payment to ReZonance (R40,000), attempt to manage debt through partial payments",
-      "financial_impact": "R40,000",
-      "legal_significance": "acknowledgment_of_debt_through_payment",
-      "evidence": [
-        "payment_records",
-        "bank_statements"
-      ],
-      "pattern": "debt_accumulation"
-    },
-    {
-      "event_id": "EVENT_D003",
-      "date": "2023-02-28",
-      "title": "ReZonance Final Balance Persistent Debt",
-      "category": "debt_accumulation",
-      "event_type": "unpaid_debt",
-      "perpetrators": [
-        "PERSON_001",
-        "PERSON_002"
-      ],
-      "victims": [
-        "ORG_008",
-        "PERSON_008"
-      ],
-      "entities_involved": [
-        "regima_group",
-        "ORG_008"
-      ],
-      "description": "Final balance showing persistent debt to ReZonance (R1,035,361.34) despite payment claims, debt continues to grow",
-      "financial_impact": "R1,035,361.34",
-      "legal_significance": "ongoing_systematic_non_payment",
-      "evidence": [
-        "rezonance_final_statement",
-        "payment_reconciliation"
-      ],
-      "pattern": "debt_accumulation"
-    },
-    {
-      "event_id": "EVENT_D004",
-      "date": "2023-03-15",
-      "title": "False Payment Claim #1 to ReZonance",
-      "category": "fraud",
-      "event_type": "false_payment_claim",
-      "perpetrators": [
-        "PERSON_001",
-        "PERSON_002"
-      ],
-      "victims": [
-        "ORG_008",
-        "PERSON_008"
-      ],
-      "entities_involved": [
-        "regima_group",
-        "ORG_008"
-      ],
-      "description": "RegimA claims payment of R470,000 to ReZonance not reflected in ReZonance records, first documented false payment claim",
-      "financial_impact": "R470,000",
-      "legal_significance": "fraudulent_payment_claims_to_conceal_debt",
-      "evidence": [
-        "false_payment_documentation",
-        "rezonance_account_reconciliation"
-      ],
-      "pattern": "debt_accumulation",
-      "critical": true
-    },
-    {
-      "event_id": "EVENT_D005",
-      "date": "2023-09-20",
-      "title": "False Payment Claim #2 to ReZonance",
-      "category": "fraud",
-      "event_type": "false_payment_claim",
-      "perpetrators": [
-        "PERSON_001",
-        "PERSON_002"
-      ],
-      "victims": [
-        "ORG_008",
-        "PERSON_008"
-      ],
-      "entities_involved": [
-        "regima_group",
-        "ORG_008"
-      ],
-      "description": "Additional false payment claims totaling R765,361.34 to ReZonance, escalation of fraudulent payment claims",
-      "financial_impact": "R765,361.34",
-      "legal_significance": "systematic_fraud_pattern_escalation",
-      "evidence": [
-        "false_payment_claims_documentation"
-      ],
-      "pattern": "debt_accumulation",
-      "critical": true
-    },
-    {
-      "event_id": "EVENT_026",
-      "date": "2025-06-10",
-      "title": "Bantjies Dismisses Audit Request",
-      "category": "fraud_concealment",
-      "event_type": "audit_dismissal",
-      "perpetrators": [
-        "PERSON_007"
-      ],
-      "victims": [
-        "PERSON_005",
-        "TRUST_001"
-      ],
-      "entities_involved": [
-        "PERSON_007",
-        "regima_group"
-      ],
-      "description": "Bantjies dismisses Daniel's audit request 4 days after fraud exposure (June 6), demonstrating consciousness of guilt and conflict of interest given R18.685M debt to trust",
-      "financial_impact": "R18,685,000",
-      "legal_significance": "consciousness_of_guilt_conflict_of_interest_breach_of_fiduciary_duty",
-      "evidence": [
-        "audit_request_dismissal_documentation",
-        "bantjies_debt_records"
-      ],
-      "pattern": "consolidation_phase",
-      "critical": true,
-      "additional_notes": "Bantjies had R18.685M reasons to prevent audit, which would discover debt and conflicts"
-    },
-    {
-      "event_id": "EVENT_027",
-      "date": "2025-06-20",
-      "title": "Domain Switch Email Instruction",
-      "category": "customer_hijacking",
-      "event_type": "domain_diversion_instruction",
-      "perpetrators": [
-        "PERSON_002"
-      ],
-      "victims": [
-        "PERSON_005",
-        "ORG_003"
-      ],
-      "entities_involved": [
-        "PERSON_009",
-        "DOMAIN_001",
-        "DOMAIN_002"
-      ],
-      "description": "Gee instructed to send email: 'don't use regima.zone only use regimaskin.co.za email', active customer diversion to fraudulent domain owned by Adderory",
-      "financial_impact": "unknown",
-      "legal_significance": "active_customer_hijacking_and_revenue_diversion",
-      "evidence": [
-        "gee_email_instruction",
-        "domain_switch_email"
-      ],
-      "pattern": "consolidation_phase",
-      "critical": true,
-      "additional_notes": "Gee explained to Jax in August about this instruction, direct witness to coordinated customer diversion"
-    },
-    {
-      "event_id": "EVENT_H009",
-      "date": "2021-04-01",
-      "title": "Adderory Companies Registration - Pre-Planning Phase",
-      "category": "conspiracy_preparation",
-      "event_type": "company_registration",
-      "perpetrators": [
-        "PERSON_003",
-        "PERSON_002"
-      ],
-      "victims": [],
-      "entities_involved": [
-        "ORG_009",
-        "ORG_010"
-      ],
-      "description": "Rynette's son registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure 4 years before fraud escalation. Demonstrates long-term conspiracy planning.",
-      "financial_impact": "unknown_amount",
-      "legal_significance": "pre_planning_evidence_demonstrates_long_term_conspiracy",
-      "evidence": [
-        "company_registration_records",
-        "cipc_documentation"
-      ],
-      "pattern": "pre_planning_phase",
-      "additional_notes": "Registered April 2021, 4 years before May 2025 fraud escalation, demonstrates systematic pre-planning",
-      "evidence_location": "ad-res-j7/1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md"
-    },
-    {
-      "event_id": "EVENT_H010",
-      "date": "2023-01-01",
-      "title": "Kayla Pretorius Murder",
-      "category": "criminal_event",
-      "event_type": "murder",
-      "perpetrators": [
-        "PERSON_002"
-      ],
-      "victims": [
-        "PERSON_008"
-      ],
-      "entities_involved": [
-        "ORG_008"
-      ],
-      "description": "Murder of Kayla Pretorius, creating estate complications, law enforcement investigation, and family trauma. Estate includes ReZonance debt of R1,035,000.",
-      "financial_impact": "R1,035,000",
-      "legal_significance": "estate_complications_law_enforcement_investigation",
-      "evidence": [
-        "police_reports_pending",
-        "estate_documentation_pending"
-      ],
-      "pattern": "historical_foundation_phase",
-      "additional_notes": "Account access complications, law enforcement investigation ongoing, referenced in criminal case documentation",
-      "evidence_location": "ad-res-j7/2-CRIMINAL-CASE/README.md"
-    },
-    {
-      "event_id": "EVENT_023",
-      "date": "2025-01-15",
-      "title": "Chantal Letter - Kayla Estate Finalization",
-      "category": "estate_exploitation",
-      "event_type": "estate_communication",
-      "perpetrators": [
-        "PERSON_011"
-      ],
-      "victims": [
-        "estate_of_kayla"
-      ],
-      "entities_involved": [
-        "PERSON_011",
-        "ORG_008"
-      ],
-      "description": "Chantal delivered letter mentioning Kayla estate finalization, indicating ongoing exploitation of deceased victim's estate.",
-      "financial_impact": "R1,035,000",
-      "legal_significance": "ongoing_estate_exploitation_pattern",
-      "evidence": [
-        "estate_documentation_pending",
-        "letter_from_chantal"
-      ],
-      "pattern": "pre_foundation_phase",
-      "additional_notes": "Estate finalization timing correlates with revenue hijacking timeline, suggests coordination",
-      "evidence_location": "ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md"
-    },
-    {
-      "event_id": "EVENT_028",
-      "date": "2025-02-25",
-      "title": "R5.2M SLG Stock Missing & Large Invoice",
-      "category": "transfer_pricing_fraud",
-      "event_type": "stock_theft_and_invoice",
-      "perpetrators": [
-        "PERSON_001",
-        "PERSON_002",
-        "PERSON_007",
-        "PERSON_003"
-      ],
-      "victims": [
-        "ORG_004",
-        "TRUST_001"
-      ],
-      "entities_involved": [
-        "ORG_004",
-        "ORG_002",
-        "ORG_009"
-      ],
-      "description": "R5.2M SLG stock missing with simultaneous R5.2M invoice from SLG to RST. Stock physically disappeared, same type later supplied by Adderory to RegimA. Systematic asset stripping begins.",
-      "financial_impact": "R5,200,000",
-      "legal_significance": "systematic_asset_stripping_transfer_pricing_fraud",
-      "evidence": [
-        "financial_records",
-        "invoice_documentation",
-        "stock_reconciliation"
-      ],
-      "pattern": "foundation_phase",
-      "critical": true,
-      "additional_notes": "Same stock type supplied by Adderory (Rynette's son), demonstrates coordinated transfer pricing fraud",
-      "evidence_location": "ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md"
-    },
-    {
-      "event_id": "EVENT_029",
-      "date": "2025-04-22",
-      "title": "Cloud IT Systems Removal Order",
-      "category": "infrastructure_seizure",
-      "event_type": "it_systems_removal",
-      "perpetrators": [
-        "PERSON_001"
-      ],
-      "victims": [
-        "PERSON_005",
-        "ORG_003"
-      ],
-      "entities_involved": [
-        "PLATFORM_001"
-      ],
-      "description": "Peter ordered Cloud IT systems removal, seizing infrastructure control from legitimate operators.",
-      "financial_impact": "unknown_amount",
-      "legal_significance": "infrastructure_control_seizure",
-      "evidence": [
-        "system_access_logs_pending",
-        "it_documentation"
-      ],
-      "pattern": "initial_theft_phase",
-      "additional_notes": "Infrastructure control seizure between bank letter (Apr 14) and audit trail destruction (May 22)",
-      "evidence_location": "ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md"
-    },
-    {
-      "event_id": "EVENT_047",
-      "date": "2025-06-10",
-      "category": "fraud_concealment",
-      "event_type": "audit_dismissal",
-      "description": "Bantjies dismisses Daniel's audit request 4 days after fraud exposure",
-      "entities_involved": [
-        "PERSON_007",
-        "PERSON_005"
-      ],
-      "financial_impact": "unknown",
-      "legal_significance": "consciousness_of_guilt_and_fraud_concealment",
-      "evidence_sources": [
-        "email_correspondence",
-        "timeline_analysis"
-      ],
-      "timeline_phase": "PHASE_005",
-      "additional_notes": "Bantjies dismisses audit with 'I am going away for 2 weeks' on June 10, 2025, just 4 days after Daniel provided comprehensive reports exposing fraud on June 6, 2025",
-      "perpetrators": [
-        "PERSON_001"
-      ]
-    },
-    {
-      "event_id": "EVENT_048",
-      "date": "2020-08-13",
-      "category": "accounting_fraud",
-      "event_type": "financial_control_evidence",
-      "description": "Bantjies sends trial balance email to finalize financial statements",
-      "entities_involved": [
-        "PERSON_007",
-        "PERSON_010",
-        "PERSON_004",
-        "PERSON_001",
-        "PERSON_002",
-        "PERSON_005"
-      ],
-      "financial_impact": "N/A",
-      "legal_significance": "establishes_bantjies_long_term_control_of_financial_systems",
-      "evidence_sources": [
-        "email_body_html",
-        "trial_balance_documents"
-      ],
-      "timeline_phase": "PHASE_000",
-      "additional_notes": "Email from Danie Bantjies to Bernadine Wright, Jacqui, Peter, Rynette, and Daniel with final trial balances for financial statement finalization meeting",
-      "perpetrators": [
-        "PERSON_007"
-      ]
-    },
-    {
-      "event_id": "EVENT_049",
-      "date": "2025-08-13",
-      "category": "trust_violations",
-      "event_type": "commissioner_of_oaths_misconduct",
-      "description": "Bantjies certifies Peter's affidavit as Commissioner of Oaths despite material omissions",
-      "entities_involved": [
-        "PERSON_007",
-        "PERSON_001"
-      ],
-      "financial_impact": "unknown",
-      "legal_significance": "professional_misconduct_and_conflict_of_interest",
-      "evidence_sources": [
-        "court_documents",
-        "affidavit_analysis"
-      ],
-      "timeline_phase": "PHASE_006",
-      "additional_notes": "Bantjies certifies Peter's affidavit despite being unknown trustee with R18.685M debt to trust, demonstrating active participation in fraud concealment",
-      "perpetrators": [
-        "PERSON_001",
-        "PERSON_002"
-      ]
-    },
-    {
-      "event_id": "EVENT_050",
-      "date": "2025-05-15",
-      "category": "fraud_discovery",
-      "event_type": "confrontation",
-      "description": "Jax confronts Rynette about R1,035,000 owed to ReZonance and Kayla's estate",
-      "entities_involved": [
-        "PERSON_012",
-        "PERSON_002",
-        "ORG_007"
-      ],
-      "financial_impact": "R1,035,000",
-      "legal_significance": "trigger_event_for_coordinated_cover_up",
-      "evidence_sources": [
-        "communication_records",
-        "timeline_analysis"
-      ],
-      "timeline_phase": "PHASE_003",
-      "additional_notes": "Critical trigger event - Jax notifies Rynette that funds need to be paid to ReZonance and Kayla's estate, triggering coordinated cover-up activities within days",
-      "perpetrators": [
-        "PERSON_004"
-      ]
-    },
-    {
-      "event_id": "EVENT_051",
-      "date": "2020-02-20",
-      "category": "financial_manipulation",
-      "event_type": "adjusting_journal_entries",
-      "description": "Multiple adjusting journal entries across entities for inter-company cost reallocations",
-      "entities_involved": [
-        "ORG_001",
-        "ORG_002",
-        "ORG_005"
-      ],
-      "financial_impact": "R1,642,000",
-      "legal_significance": "establishes_pattern_of_financial_manipulation",
-      "evidence_sources": [
-        "trial_balance_documents",
-        "financial_analysis"
-      ],
-      "timeline_phase": "PHASE_000",
-      "additional_notes": "RWW R500K stock provision write-back, RWW R810K admin fee reallocation, SLG R252K admin fee reallocation, SLG R80K production cost transfer to RST",
-      "perpetrators": [
-        "PERSON_007"
-      ]
-    },
-    {
-      "event_id": "EVENT_052",
-      "date": "2020-02-28",
-      "category": "financial_structure",
-      "event_type": "inter_company_interest_payment",
-      "description": "SLG pays R414,334.09 interest to RST per loan agreement",
-      "entities_involved": [
-        "ORG_002",
-        "ORG_005"
-      ],
-      "financial_impact": "R414,334.09",
-      "legal_significance": "establishes_inter_company_financial_relationships",
-      "evidence_sources": [
-        "trial_balance_documents",
-        "loan_agreement"
-      ],
-      "timeline_phase": "PHASE_000",
-      "additional_notes": "Year-end adjustment showing established inter-company loan structure",
-      "perpetrators": [
-        "PERSON_007"
-      ]
-    },
-    {
-      "event_id": "EVENT_053",
-      "date": "2020-04-30",
-      "category": "profit_extraction",
-      "event_type": "villa_via_year_end",
-      "description": "Villa Via financial year-end showing R3.7M profit and R22.8M members loan",
-      "entities_involved": [
-        "ORG_004"
-      ],
-      "financial_impact": "R22,800,000",
-      "legal_significance": "evidence_of_capital_extraction_through_members_loan",
-      "evidence_sources": [
-        "trial_balance_documents",
-        "financial_statements"
-      ],
-      "timeline_phase": "PHASE_000",
-      "additional_notes": "Monthly rental income R4.4M, net profit R3.7M, members loan account R22.8M indicates significant capital extraction",
-      "perpetrators": [
-        "PERSON_001",
-        "PERSON_007"
-      ]
     }
   ]
 }
