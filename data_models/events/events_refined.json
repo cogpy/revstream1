@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "5.0",
+    "version": "6.0",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 53,
     "extended_evidence": "incorporated_from_ad_res_j7",
     "last_updated": "2025-11-16",
-    "changes": "Added 7 new historical events (EVENT_H011-H017) from ad-res-j7 evidence, added evidence_files schema to all new events"
+    "changes": "Converted all financial_impact fields to structured schema v1.0"
   },
   "events": [
     {
@@ -26,7 +26,20 @@
         "ORG_006"
       ],
       "description": "Peter made unauthorized transfers of R900,000 from RegimA SA without Daniel's authority as co-director",
-      "financial_impact": "R900,000",
+      "financial_impact": {
+        "total_amount": {
+          "value": 900000.0,
+          "currency": "ZAR",
+          "formatted": "R900,000.00",
+          "precision": "rounded"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "misappropriation",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R900,000.00 - R900,000 Unauthorized Transfers from RegimA SA"
+      },
       "legal_significance": "unauthorized_transfer_without_co_director_authority",
       "evidence": [
         "bank_transfer_records",
@@ -51,7 +64,20 @@
         "ORG_006"
       ],
       "description": "Diversion of revenue streams from RegimA SA initiated, marking the beginning of systematic revenue hijacking",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "revenue_theft",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "RegimA SA Revenue Diversion Started - financial impact not quantified"
+      },
       "legal_significance": "initial_implementation_of_systematic_financial_fraud",
       "evidence": [
         "financial_records",
@@ -80,7 +106,20 @@
         "PERSON_003"
       ],
       "description": "R5.4M worth of stock physically disappears from Strategic Logistics warehouse. Represents 46% of annual sales, 10x historical adjustment rate. Same stock type later supplied by Adderory (Rynette's son's company) to RegimA.",
-      "financial_impact": "R5,400,000",
+      "financial_impact": {
+        "total_amount": {
+          "value": 5400000.0,
+          "currency": "ZAR",
+          "formatted": "R5,400,000.00",
+          "precision": "rounded"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "transfer_pricing_fraud",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R5,400,000.00 - R5.4M Stock Disappears from Strategic Logistics"
+      },
       "legal_significance": "largest_single_identifiable_theft_transfer_pricing_fraud",
       "evidence": [
         "stock_reconciliation_reports",
@@ -107,7 +146,20 @@
         "TRUST_001"
       ],
       "description": "Foundation for R2.85M+ trust violations established through trust structure manipulation",
-      "financial_impact": "R2,851,247.35",
+      "financial_impact": {
+        "total_amount": {
+          "value": 2851247.35,
+          "currency": "ZAR",
+          "formatted": "R2,851,247.35",
+          "precision": "exact"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R2,851,247.35 - Trust Structure Establishment"
+      },
       "legal_significance": "initial_documentation_of_trust_structure_manipulation",
       "evidence": [
         "trust_documentation",
@@ -133,7 +185,20 @@
         "ORG_004"
       ],
       "description": "R5.4M written off as simple 'stock adjustment' without investigation, supporting documentation, or proper authorization. Bantjies as accountant should have investigated 46% loss but did not, demonstrating complicity.",
-      "financial_impact": "R5,400,000",
+      "financial_impact": {
+        "total_amount": {
+          "value": 5400000.0,
+          "currency": "ZAR",
+          "formatted": "R5,400,000.00",
+          "precision": "rounded"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "accounting_fraud",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R5,400,000.00 - R5.4M Stock Adjustment Processed Without Investigation"
+      },
       "legal_significance": "accounting_fraud_breach_of_professional_duty",
       "evidence": [
         "general_ledger_entries",
@@ -160,7 +225,20 @@
         "all_companies"
       ],
       "description": "Rynette and Peter dumped two years' worth of unallocated expenses from all companies into RegimA Worldwide and pressured Daniel to sign off within 12 hours for SARS VAT & Annual Accounts. Daniel used time until June 6th to finalize reports and uncover fraud.",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "unknown",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Two Years Unallocated Expenses Dumped - financial impact not quantified"
+      },
       "legal_significance": "systematic_financial_manipulation_and_pressure_tactics",
       "evidence": [
         "email_records",
@@ -189,7 +267,20 @@
         "bank_accounts"
       ],
       "description": "Part of R4.28M+ financial diversions. Payments redirected from platform owned/paid by RegimA Zone Ltd (UK)",
-      "financial_impact": "R4,276,832.85",
+      "financial_impact": {
+        "total_amount": {
+          "value": 4276832.85,
+          "currency": "ZAR",
+          "formatted": "R4,276,832.85",
+          "precision": "exact"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R4,276,832.85 - Payment Redirection Scheme"
+      },
       "legal_significance": "initial_implementation_of_systematic_financial_fraud",
       "evidence": [
         "bank_records",
@@ -216,7 +307,20 @@
         "PLATFORM_001"
       ],
       "description": "Setup for R3.14M+ revenue theft. First documented act in coordinated scheme. Attempted redirect of payments from Dan's UK-funded infrastructure",
-      "financial_impact": "R3,141,647.70",
+      "financial_impact": {
+        "total_amount": {
+          "value": 3141647.7,
+          "currency": "ZAR",
+          "formatted": "R3,141,647.70",
+          "precision": "exact"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "revenue_theft",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R3,141,647.70 - Bank Account Change Letter for RegimA Worldwide"
+      },
       "legal_significance": "first_documented_act_in_coordinated_scheme",
       "evidence": [
         "bank_letter",
@@ -243,7 +347,20 @@
         "TRUST_001"
       ],
       "description": "Exclusion of legitimate beneficiaries. Direct violation of trust obligations and beneficiary rights",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "unknown",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Unauthorized Beneficiary Changes - financial impact not quantified"
+      },
       "legal_significance": "direct_violation_of_trust_obligations_and_beneficiary_rights",
       "evidence": [
         "trust_amendment_documents",
@@ -269,7 +386,20 @@
         "rezonance"
       ],
       "description": "Jacqui confronted Rynette regarding R1,035,000 owed by RegimA Skin Treatments to Rezonance since Feb 2023. Jacqui stated these funds were part of Kayla's estate and keeping them would be profiting from proceeds of murder.",
-      "financial_impact": "R1,035,000",
+      "financial_impact": {
+        "total_amount": {
+          "value": 1035000.0,
+          "currency": "ZAR",
+          "formatted": "R1,035,000.00",
+          "precision": "rounded"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R1,035,000.00 - Jacqui Confronts Rynette About R1,035,000 Debt"
+      },
       "legal_significance": "confrontation_triggering_subsequent_retaliation",
       "evidence": [
         "confrontation_records",
@@ -296,7 +426,20 @@
         "bank_accounts"
       ],
       "description": "R850,000+ unauthorized transfers. Direct evidence of financial authority abuse and theft. R850K+ included revenue from platform paid by UK company (28 months)",
-      "financial_impact": "R850,000",
+      "financial_impact": {
+        "total_amount": {
+          "value": 850000.0,
+          "currency": "ZAR",
+          "formatted": "R850,000.00",
+          "precision": "rounded"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "misappropriation",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R850,000.00 - Unauthorized Transfers (R850K+)"
+      },
       "legal_significance": "direct_evidence_of_financial_authority_abuse_and_theft",
       "evidence": [
         "bank_transfer_records",
@@ -323,7 +466,20 @@
         "PLATFORM_001"
       ],
       "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
-      "financial_impact": "R1,000,000+ monthly",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "R1,000,000+ monthly",
+          "precision": "estimated"
+        },
+        "evidence_strength": "estimated",
+        "transaction_type": "other",
+        "impact_category": "revenue_theft",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Shopify Audit Trail Hijacking - financial impact not quantified"
+      },
       "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
       "evidence": [
         "platform_access_logs",
@@ -352,7 +508,20 @@
         "DOMAIN_002"
       ],
       "description": "Customer hijacking platform. Family conspiracy escalation and digital impersonation. Domain registered to impersonate business on Dan's UK-funded platform. New domain regimaskin.co.za registered by Adderory (Rynette's son's company) following Shopify shutdown.",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "unknown",
+        "transaction_type": "other",
+        "impact_category": "revenue_theft",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Domain Registration (Identity Fraud) - financial impact not quantified"
+      },
       "legal_significance": "family_conspiracy_escalation_and_digital_impersonation",
       "evidence": [
         "domain_registration_records",
@@ -373,7 +542,20 @@
         "PERSON_005"
       ],
       "description": "Daniel finalized reports uncovering fraud after using time from March 30 deadline extension",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "unknown",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Daniel Finalizes Fraud Reports - financial impact not quantified"
+      },
       "legal_significance": "fraud_discovery_and_documentation",
       "evidence": [
         "fraud_reports",
@@ -398,7 +580,20 @@
         "bank_accounts"
       ],
       "description": "Secret cancellation of cards to sabotage Daniel's ability to pay creditors. Rynette may have opened 8 ABSA accounts using Daniel's stolen card.",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "unknown",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Secret Card Cancellations - financial impact not quantified"
+      },
       "legal_significance": "sabotage_of_payment_capability",
       "evidence": [
         "bank_records",
@@ -426,7 +621,20 @@
         "ORG_004"
       ],
       "description": "CRITICAL EVENT: Bantjies dismisses Daniel's audit request 4 days after Daniel exposed Villa Via fraud. Audit would have discovered R5.4M stock adjustment fraud and systematic inter-company manipulation. Demonstrates consciousness of guilt and protection of fraud scheme.",
-      "financial_impact": "R5,400,000+ concealed",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "R5,400,000+ concealed",
+          "precision": "estimated"
+        },
+        "evidence_strength": "estimated",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Bantjies Dismisses Audit Request - financial impact not quantified"
+      },
       "legal_significance": "consciousness_of_guilt_audit_blocking_breach_of_fiduciary_duty",
       "evidence": [
         "audit_request_documentation",
@@ -454,7 +662,20 @@
         "TRUST_001"
       ],
       "description": "Trustee misconduct and self-dealing. Clear evidence of trustee misconduct and self-dealing",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "unknown",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Systematic Trust Violations - financial impact not quantified"
+      },
       "legal_significance": "clear_evidence_of_trustee_misconduct_and_self_dealing",
       "evidence": [
         "trust_transaction_records",
@@ -480,7 +701,20 @@
         "DOMAIN_002"
       ],
       "description": "R3.1M+ losses enabled by email control. Pattern of impersonation supporting criminal conspiracy charges. Email control facilitated fraud related to platform paid by Dan's UK company since July 2023. Email from Gee in Aug explained to Jax that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email'.",
-      "financial_impact": "R3,141,647.70",
+      "financial_impact": {
+        "total_amount": {
+          "value": 3141647.7,
+          "currency": "ZAR",
+          "formatted": "R3,141,647.70",
+          "precision": "exact"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "revenue_theft",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R3,141,647.70 - Email Impersonation Pattern and Domain Switch Instruction"
+      },
       "legal_significance": "pattern_of_impersonation_supporting_criminal_conspiracy_charges",
       "evidence": [
         "email_records",
@@ -510,7 +744,20 @@
         "multiple_accounts"
       ],
       "description": "Complex financial flow manipulation. Evidence of sophisticated financial crime coordination. Fund diversions targeted revenue from infrastructure continuously funded by RegimA Zone Ltd",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "misappropriation",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Coordinated Fund Diversions - financial impact not quantified"
+      },
       "legal_significance": "evidence_of_sophisticated_financial_crime_coordination",
       "evidence": [
         "bank_transfer_records",
@@ -538,7 +785,20 @@
         "warehouse_operations"
       ],
       "description": "Complete operational shutdown. Documented evidence of systematic business destruction. Shutdown of operations for platform continuously funded by RegimA Zone Ltd (28 months)",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "unknown",
+        "transaction_type": "other",
+        "impact_category": "revenue_theft",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Warehouse POPI Violations - financial impact not quantified"
+      },
       "legal_significance": "documented_evidence_of_systematic_business_destruction",
       "evidence": [
         "warehouse_records",
@@ -565,7 +825,20 @@
         "bank_accounts"
       ],
       "description": "Financial control seizure. Documented evidence of financial system abuse and unauthorized control. Control seized over accounts receiving Shopify revenue from Dan's UK-paid platform",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "unknown",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Account Manipulation - financial impact not quantified"
+      },
       "legal_significance": "documented_evidence_of_financial_system_abuse_and_unauthorized_control",
       "evidence": [
         "account_access_logs",
@@ -592,7 +865,20 @@
         "trust_assets"
       ],
       "description": "Trust property theft. Documented theft of trust property and breach of fiduciary duty",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "unknown",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Trust Asset Misappropriation - financial impact not quantified"
+      },
       "legal_significance": "documented_theft_of_trust_property_and_breach_of_fiduciary_duty",
       "evidence": [
         "asset_transfer_records",
@@ -617,7 +903,20 @@
         "TRUST_001"
       ],
       "description": "Complete compromise of trust integrity. Systematic evidence of ongoing trust law violations",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "unknown",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Trust Breach Evidence - financial impact not quantified"
+      },
       "legal_significance": "systematic_evidence_of_ongoing_trust_law_violations",
       "evidence": [
         "trust_violation_documentation",
@@ -638,7 +937,20 @@
         "DOMAIN_002"
       ],
       "description": "Email from Gee to Jax explaining that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email' on June 20, 2025. Confirms customer hijacking scheme.",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "unknown",
+        "transaction_type": "other",
+        "impact_category": "revenue_theft",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Gee Email Explaining Domain Switch Instruction - financial impact not quantified"
+      },
       "legal_significance": "witness_testimony_confirming_customer_hijacking",
       "evidence": [
         "gee_email_to_jax"
@@ -663,7 +975,20 @@
         "financial_records"
       ],
       "description": "Cover-up operations demonstrating guilt. Consciousness of guilt through evidence destruction attempts. Cover-up attempt to conceal fact that RWD ZA has no independent revenue stream - all revenue from Dan's UK-funded Shopify platform",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "unknown",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Financial Evidence Concealment - financial impact not quantified"
+      },
       "legal_significance": "consciousness_of_guilt_through_evidence_destruction_attempts",
       "evidence": [
         "concealment_documentation",
@@ -691,7 +1016,20 @@
         "bank_accounts"
       ],
       "description": "Accounts emptied, potentially because Daniel was still managing to pay creditors despite 6 months of sabotage",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "unknown",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Accounts Emptied - financial impact not quantified"
+      },
       "legal_significance": "final_stage_of_financial_destruction",
       "evidence": [
         "bank_statements",
@@ -712,7 +1050,20 @@
         "ORG_002"
       ],
       "description": "First invoice from ReZonance to RegimA Skin Treatments for Google GSuite services (R250.80), marking the beginning of business relationship",
-      "financial_impact": "R250.80",
+      "financial_impact": {
+        "total_amount": {
+          "value": 250.8,
+          "currency": "ZAR",
+          "formatted": "R250.80",
+          "precision": "exact"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "business_relationship",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R250.80 - First ReZonance Invoice to RST"
+      },
       "legal_significance": "establishment_of_business_relationship_and_trust",
       "evidence": [
         "invoice_2017_06_30",
@@ -733,7 +1084,20 @@
         "regima_group"
       ],
       "description": "Major service expansion with multiple enterprise services (R100,000+), substantial increase in service provision and financial exposure",
-      "financial_impact": "R100,000+",
+      "financial_impact": {
+        "total_amount": {
+          "value": 100000.0,
+          "currency": "ZAR",
+          "formatted": "R100,000+",
+          "precision": "estimated"
+        },
+        "evidence_strength": "estimated",
+        "transaction_type": "service_fee",
+        "impact_category": "business_relationship",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R100,000+ - ReZonance Service Expansion"
+      },
       "legal_significance": "establishment_of_operational_dependency",
       "evidence": [
         "invoices_2017_09_30",
@@ -754,7 +1118,20 @@
         "ORG_004"
       ],
       "description": "Financial year commencement for RegimA Skin Treatments and Strategic Logistics, beginning of period covered by trial balance evidence",
-      "financial_impact": "unknown",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "Amount not quantified",
+          "precision": "unknown"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Financial Year Commencement RST/SLG - financial impact not quantified"
+      },
       "legal_significance": "foundation_for_inter_company_financial_manipulation",
       "evidence": [
         "trial_balance_documentation"
@@ -773,7 +1150,20 @@
         "ORG_005"
       ],
       "description": "Villa Via operates on different financial year, creating complexity in group reporting and enabling profit extraction concealment",
-      "financial_impact": "unknown",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "Amount not quantified",
+          "precision": "unknown"
+        },
+        "evidence_strength": "unknown",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Financial Year Commencement Villa Via - financial impact not quantified"
+      },
       "legal_significance": "structural_complexity_enabling_fraud",
       "evidence": [
         "VV-TRIALBALANCEAPR20202.xlsx"
@@ -801,7 +1191,20 @@
         "ORG_002"
       ],
       "description": "Significant inter-company cost reallocations: RWW R500K stock provision write-back, RWW R810K admin fee reallocation, SLG R252K admin fee reallocation, SLG R80K production cost transfer to RST",
-      "financial_impact": "R1,642,000",
+      "financial_impact": {
+        "total_amount": {
+          "value": 1642000.0,
+          "currency": "ZAR",
+          "formatted": "R1,642,000.00",
+          "precision": "rounded"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R1,642,000.00 - Multiple Adjusting Journal Entries"
+      },
       "legal_significance": "evidence_of_systematic_inter_company_manipulation",
       "evidence": [
         "trial_balance_AJEs",
@@ -830,7 +1233,20 @@
         "ORG_001"
       ],
       "description": "SLG pays R414,334.09 interest to RST per loan agreement, RST advances R750K loan to RWW for production costs, Directors' fee adjustment R784K in RST",
-      "financial_impact": "R1,948,334.09",
+      "financial_impact": {
+        "total_amount": {
+          "value": 1948334.09,
+          "currency": "ZAR",
+          "formatted": "R1,948,334.09",
+          "precision": "exact"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R1,948,334.09 - Year-End Adjustments and Interest Payment"
+      },
       "legal_significance": "profit_concentration_in_director_controlled_entity",
       "evidence": [
         "REG-TRIALBALANCE.xlsx",
@@ -856,7 +1272,20 @@
         "ORG_005"
       ],
       "description": "Villa Via generates R4.4M monthly rental income with R3.7M profit, Members loan account R22.8M indicating systematic capital extraction",
-      "financial_impact": "R22,800,000",
+      "financial_impact": {
+        "total_amount": {
+          "value": 22800000.0,
+          "currency": "ZAR",
+          "formatted": "R22,800,000.00",
+          "precision": "rounded"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "capital_extraction",
+        "impact_category": "profit_extraction",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R22,800,000.00 - Villa Via Year-End Profit Extraction"
+      },
       "legal_significance": "evidence_of_capital_extraction_mechanism",
       "evidence": [
         "VV-TRIALBALANCEAPR20202.xlsx"
@@ -877,7 +1306,20 @@
         "PERSON_010"
       ],
       "description": "Email from Danie Bantjies with final trial balances to Bernadine Wright, Jax, Peter, Rynette, Daniel for financial statement finalization meeting",
-      "financial_impact": "unknown",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "Amount not quantified",
+          "precision": "unknown"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Bantjies Trial Balance Email Distribution - financial impact not quantified"
+      },
       "legal_significance": "evidence_of_bantjies_control_over_financial_systems",
       "evidence": [
         "Email-body.html",
@@ -904,7 +1346,20 @@
         "ORG_008"
       ],
       "description": "Opening balance showing substantial accumulated debt to ReZonance (R971,587.93), evidence of unpaid services over extended period",
-      "financial_impact": "R971,587.93",
+      "financial_impact": {
+        "total_amount": {
+          "value": 971587.93,
+          "currency": "ZAR",
+          "formatted": "R971,587.93",
+          "precision": "exact"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R971,587.93 - ReZonance Opening Balance Debt"
+      },
       "legal_significance": "systematic_non_payment_of_legitimate_debts",
       "evidence": [
         "rezonance_account_statements",
@@ -925,7 +1380,20 @@
         "ORG_008"
       ],
       "description": "First structured payment to ReZonance (R40,000), attempt to manage debt through partial payments",
-      "financial_impact": "R40,000",
+      "financial_impact": {
+        "total_amount": {
+          "value": 40000.0,
+          "currency": "ZAR",
+          "formatted": "R40,000.00",
+          "precision": "rounded"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R40,000.00 - First Structured Payment to ReZonance"
+      },
       "legal_significance": "acknowledgment_of_debt_through_payment",
       "evidence": [
         "payment_records",
@@ -952,7 +1420,20 @@
         "ORG_008"
       ],
       "description": "Final balance showing persistent debt to ReZonance (R1,035,361.34) despite payment claims, debt continues to grow",
-      "financial_impact": "R1,035,361.34",
+      "financial_impact": {
+        "total_amount": {
+          "value": 1035361.34,
+          "currency": "ZAR",
+          "formatted": "R1,035,361.34",
+          "precision": "exact"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R1,035,361.34 - ReZonance Final Balance Persistent Debt"
+      },
       "legal_significance": "ongoing_systematic_non_payment",
       "evidence": [
         "rezonance_final_statement",
@@ -979,7 +1460,20 @@
         "ORG_008"
       ],
       "description": "RegimA claims payment of R470,000 to ReZonance not reflected in ReZonance records, first documented false payment claim",
-      "financial_impact": "R470,000",
+      "financial_impact": {
+        "total_amount": {
+          "value": 470000.0,
+          "currency": "ZAR",
+          "formatted": "R470,000.00",
+          "precision": "rounded"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R470,000.00 - False Payment Claim #1 to ReZonance"
+      },
       "legal_significance": "fraudulent_payment_claims_to_conceal_debt",
       "evidence": [
         "false_payment_documentation",
@@ -1007,7 +1501,20 @@
         "ORG_008"
       ],
       "description": "Additional false payment claims totaling R765,361.34 to ReZonance, escalation of fraudulent payment claims",
-      "financial_impact": "R765,361.34",
+      "financial_impact": {
+        "total_amount": {
+          "value": 765361.34,
+          "currency": "ZAR",
+          "formatted": "R765,361.34",
+          "precision": "exact"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R765,361.34 - False Payment Claim #2 to ReZonance"
+      },
       "legal_significance": "systematic_fraud_pattern_escalation",
       "evidence": [
         "false_payment_claims_documentation"
@@ -1033,7 +1540,20 @@
         "regima_group"
       ],
       "description": "Bantjies dismisses Daniel's audit request 4 days after fraud exposure (June 6), demonstrating consciousness of guilt and conflict of interest given R18.685M debt to trust",
-      "financial_impact": "R18,685,000",
+      "financial_impact": {
+        "total_amount": {
+          "value": 18685000.0,
+          "currency": "ZAR",
+          "formatted": "R18,685,000.00",
+          "precision": "rounded"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R18,685,000.00 - Bantjies Dismisses Audit Request"
+      },
       "legal_significance": "consciousness_of_guilt_conflict_of_interest_breach_of_fiduciary_duty",
       "evidence": [
         "audit_request_dismissal_documentation",
@@ -1062,7 +1582,20 @@
         "DOMAIN_002"
       ],
       "description": "Gee instructed to send email: 'don't use regima.zone only use regimaskin.co.za email', active customer diversion to fraudulent domain owned by Adderory",
-      "financial_impact": "unknown",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "Amount not quantified",
+          "precision": "unknown"
+        },
+        "evidence_strength": "unknown",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Domain Switch Email Instruction - financial impact not quantified"
+      },
       "legal_significance": "active_customer_hijacking_and_revenue_diversion",
       "evidence": [
         "gee_email_instruction",
@@ -1088,7 +1621,20 @@
         "ORG_010"
       ],
       "description": "Rynette's son registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure 4 years before fraud escalation. Demonstrates long-term conspiracy planning.",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "unknown",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Adderory Companies Registration - Pre-Planning Phase - financial impact not quantified"
+      },
       "legal_significance": "pre_planning_evidence_demonstrates_long_term_conspiracy",
       "evidence": [
         "company_registration_records",
@@ -1112,7 +1658,20 @@
         "ORG_008"
       ],
       "description": "Murder of Kayla Pretorius, creating estate complications, law enforcement investigation, and family trauma. Estate includes ReZonance debt of R1,035,000.",
-      "financial_impact": "R1,035,000",
+      "financial_impact": {
+        "total_amount": {
+          "value": 1035000.0,
+          "currency": "ZAR",
+          "formatted": "R1,035,000.00",
+          "precision": "rounded"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R1,035,000.00 - Kayla Pretorius Murder"
+      },
       "legal_significance": "estate_complications_law_enforcement_investigation",
       "evidence": [
         "police_reports_pending",
@@ -1137,7 +1696,20 @@
         "ORG_008"
       ],
       "description": "Chantal delivered letter mentioning Kayla estate finalization, indicating ongoing exploitation of deceased victim's estate.",
-      "financial_impact": "R1,035,000",
+      "financial_impact": {
+        "total_amount": {
+          "value": 1035000.0,
+          "currency": "ZAR",
+          "formatted": "R1,035,000.00",
+          "precision": "rounded"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R1,035,000.00 - Chantal Letter - Kayla Estate Finalization"
+      },
       "legal_significance": "ongoing_estate_exploitation_pattern",
       "evidence": [
         "estate_documentation_pending",
@@ -1169,7 +1741,20 @@
         "ORG_009"
       ],
       "description": "R5.2M SLG stock missing with simultaneous R5.2M invoice from SLG to RST. Stock physically disappeared, same type later supplied by Adderory to RegimA. Systematic asset stripping begins.",
-      "financial_impact": "R5,200,000",
+      "financial_impact": {
+        "total_amount": {
+          "value": 5200000.0,
+          "currency": "ZAR",
+          "formatted": "R5,200,000.00",
+          "precision": "rounded"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "transfer_pricing_fraud",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R5,200,000.00 - R5.2M SLG Stock Missing & Large Invoice"
+      },
       "legal_significance": "systematic_asset_stripping_transfer_pricing_fraud",
       "evidence": [
         "financial_records",
@@ -1198,7 +1783,20 @@
         "PLATFORM_001"
       ],
       "description": "Peter ordered Cloud IT systems removal, seizing infrastructure control from legitimate operators.",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "unknown",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Cloud IT Systems Removal Order - financial impact not quantified"
+      },
       "legal_significance": "infrastructure_control_seizure",
       "evidence": [
         "system_access_logs_pending",
@@ -1229,7 +1827,20 @@
         "ORG_004"
       ],
       "description": "Multiple adjusting journal entries across entities: RWW R500K stock provision write-back, RWW R810K admin fee reallocation to production costs, SLG R252K admin fee reallocation to production costs, SLG R80K production cost transfer to RST",
-      "financial_impact": "R1,642,000",
+      "financial_impact": {
+        "total_amount": {
+          "value": 1642000.0,
+          "currency": "ZAR",
+          "formatted": "R1,642,000.00",
+          "precision": "rounded"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "cost_manipulation",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R1,642,000.00 - Inter-company Cost Reallocations"
+      },
       "legal_significance": "establishment_of_cost_manipulation_infrastructure",
       "evidence": [
         "trial_balance_documentation",
@@ -1258,7 +1869,20 @@
         "ORG_002"
       ],
       "description": "SLG pays R414,334.09 interest to RST per loan agreement, documenting inter-company financial interdependencies",
-      "financial_impact": "R414,334.09",
+      "financial_impact": {
+        "total_amount": {
+          "value": 414334.09,
+          "currency": "ZAR",
+          "formatted": "R414,334.09",
+          "precision": "exact"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "interest_payment",
+        "impact_category": "infrastructure",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R414,334.09 - SLG Interest Payment to RST"
+      },
       "legal_significance": "evidence_of_inter_company_loan_structure",
       "evidence": [
         "trial_balance_records",
@@ -1293,7 +1917,20 @@
         "ORG_001"
       ],
       "description": "RST advances R750,000 loan to RWW for production costs, creating financial dependency structure",
-      "financial_impact": "R750,000",
+      "financial_impact": {
+        "total_amount": {
+          "value": 750000.0,
+          "currency": "ZAR",
+          "formatted": "R750,000.00",
+          "precision": "rounded"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "infrastructure",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R750,000.00 - RST Loan to RWW"
+      },
       "legal_significance": "financial_dependency_creation",
       "evidence": [
         "trial_balance_records",
@@ -1325,7 +1962,20 @@
         "ORG_005"
       ],
       "description": "Villa Via financial year-end showing R22.8M members loan account, indicating major capital extraction mechanism. Monthly rental income R4.4M, net profit R3.7M",
-      "financial_impact": "R22,800,000",
+      "financial_impact": {
+        "total_amount": {
+          "value": 22800000.0,
+          "currency": "ZAR",
+          "formatted": "R22,800,000.00",
+          "precision": "rounded"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "capital_extraction",
+        "impact_category": "profit_extraction",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R22,800,000.00 - Villa Via Capital Extraction"
+      },
       "legal_significance": "major_profit_extraction_mechanism",
       "evidence": [
         "villa_via_trial_balance",
@@ -1360,7 +2010,20 @@
         "PERSON_005"
       ],
       "description": "Email from Danie Bantjes with final trial balances to Bernadine Wright, Jacqui, Peter, Rynette, and Daniel. Preparation for financial statement finalization meeting, demonstrating Bantjes' control over financial systems",
-      "financial_impact": "unknown_amount",
+      "financial_impact": {
+        "total_amount": {
+          "value": null,
+          "currency": "ZAR",
+          "formatted": "No direct financial impact",
+          "precision": "unknown"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "other",
+        "impact_category": "financial_manipulation",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "Bantjes Trial Balance Distribution - financial impact not quantified"
+      },
       "legal_significance": "evidence_of_financial_system_control",
       "evidence": [
         "email_correspondence",
@@ -1389,7 +2052,20 @@
         "ORG_002"
       ],
       "description": "First invoice to RegimA Skin Treatments for Google GSuite services (R250.80), marking beginning of business relationship between ReZonance and RegimA Group",
-      "financial_impact": "R250.80",
+      "financial_impact": {
+        "total_amount": {
+          "value": 250.8,
+          "currency": "ZAR",
+          "formatted": "R250.80",
+          "precision": "exact"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "service_fee",
+        "impact_category": "business_relationship",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R250.80 - First ReZonance Invoice"
+      },
       "legal_significance": "beginning_of_business_relationship",
       "evidence": [
         "invoice_records",
@@ -1419,7 +2095,20 @@
         "ORG_001"
       ],
       "description": "Major service expansion with multiple enterprise services (R100,000+), substantial increase in service provision and financial exposure establishing trust and operational dependency",
-      "financial_impact": "R100,000",
+      "financial_impact": {
+        "total_amount": {
+          "value": 100000.0,
+          "currency": "ZAR",
+          "formatted": "R100,000.00",
+          "precision": "rounded"
+        },
+        "evidence_strength": "documented",
+        "transaction_type": "service_fee",
+        "impact_category": "business_relationship",
+        "breakdown": [],
+        "aggregation_notes": "Converted from legacy format",
+        "court_presentation": "R100,000.00 - Major Service Expansion"
+      },
       "legal_significance": "trust_establishment_phase",
       "evidence": [
         "service_contracts",

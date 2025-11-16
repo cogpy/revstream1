@@ -1,0 +1,588 @@
+{
+  "generated": "2025-11-16 04:07:47",
+  "total_events": 53,
+  "summary": {
+    "total_documented": 108330855.99,
+    "total_estimated": 100000.0,
+    "combined_total": 108430855.99,
+    "unknown_count": 24
+  },
+  "by_evidence_strength": {
+    "documented": {
+      "count": 33,
+      "total": 108330855.99,
+      "events": [
+        "EVENT_022",
+        "EVENT_001",
+        "EVENT_024",
+        "EVENT_002",
+        "EVENT_025",
+        "EVENT_004",
+        "EVENT_005",
+        "EVENT_007",
+        "EVENT_008",
+        "EVENT_014",
+        "EVENT_015",
+        "EVENT_H001",
+        "EVENT_H003",
+        "EVENT_H005",
+        "EVENT_H006",
+        "EVENT_H007",
+        "EVENT_H008",
+        "EVENT_D001",
+        "EVENT_D002",
+        "EVENT_D003",
+        "EVENT_D004",
+        "EVENT_D005",
+        "EVENT_026",
+        "EVENT_H010",
+        "EVENT_023",
+        "EVENT_028",
+        "EVENT_H011",
+        "EVENT_H012",
+        "EVENT_H013",
+        "EVENT_H014",
+        "EVENT_H015",
+        "EVENT_H016",
+        "EVENT_H017"
+      ]
+    },
+    "unknown": {
+      "count": 17,
+      "total": 0,
+      "events": [
+        "EVENT_003",
+        "EVENT_006",
+        "EVENT_010",
+        "EVENT_011",
+        "EVENT_012",
+        "EVENT_013",
+        "EVENT_016",
+        "EVENT_017",
+        "EVENT_018",
+        "EVENT_019",
+        "EVENT_026",
+        "EVENT_020",
+        "EVENT_021",
+        "EVENT_H004",
+        "EVENT_027",
+        "EVENT_H009",
+        "EVENT_029"
+      ]
+    },
+    "estimated": {
+      "count": 3,
+      "total": 100000.0,
+      "events": [
+        "EVENT_009",
+        "EVENT_023",
+        "EVENT_H002"
+      ]
+    }
+  },
+  "by_transaction_type": {
+    "misappropriation": {
+      "count": 3,
+      "total": 1750000.0,
+      "events": [
+        "EVENT_022",
+        "EVENT_008",
+        "EVENT_015"
+      ]
+    },
+    "other": {
+      "count": 43,
+      "total": 58824271.099999994,
+      "events": [
+        "EVENT_001",
+        "EVENT_024",
+        "EVENT_002",
+        "EVENT_025",
+        "EVENT_003",
+        "EVENT_004",
+        "EVENT_005",
+        "EVENT_006",
+        "EVENT_007",
+        "EVENT_009",
+        "EVENT_010",
+        "EVENT_011",
+        "EVENT_012",
+        "EVENT_023",
+        "EVENT_013",
+        "EVENT_014",
+        "EVENT_016",
+        "EVENT_017",
+        "EVENT_018",
+        "EVENT_019",
+        "EVENT_026",
+        "EVENT_020",
+        "EVENT_021",
+        "EVENT_H001",
+        "EVENT_H003",
+        "EVENT_H004",
+        "EVENT_H005",
+        "EVENT_H006",
+        "EVENT_H008",
+        "EVENT_D001",
+        "EVENT_D002",
+        "EVENT_D003",
+        "EVENT_D004",
+        "EVENT_D005",
+        "EVENT_026",
+        "EVENT_027",
+        "EVENT_H009",
+        "EVENT_H010",
+        "EVENT_023",
+        "EVENT_028",
+        "EVENT_029",
+        "EVENT_H013",
+        "EVENT_H015"
+      ]
+    },
+    "service_fee": {
+      "count": 3,
+      "total": 200250.8,
+      "events": [
+        "EVENT_H002",
+        "EVENT_H016",
+        "EVENT_H017"
+      ]
+    },
+    "capital_extraction": {
+      "count": 2,
+      "total": 45600000.0,
+      "events": [
+        "EVENT_H007",
+        "EVENT_H014"
+      ]
+    },
+    "cost_manipulation": {
+      "count": 1,
+      "total": 1642000.0,
+      "events": [
+        "EVENT_H011"
+      ]
+    },
+    "interest_payment": {
+      "count": 1,
+      "total": 414334.09,
+      "events": [
+        "EVENT_H012"
+      ]
+    }
+  },
+  "by_impact_category": {
+    "financial_manipulation": {
+      "count": 35,
+      "total": 39182724.9,
+      "events": [
+        "EVENT_022",
+        "EVENT_002",
+        "EVENT_003",
+        "EVENT_004",
+        "EVENT_006",
+        "EVENT_007",
+        "EVENT_008",
+        "EVENT_011",
+        "EVENT_012",
+        "EVENT_023",
+        "EVENT_013",
+        "EVENT_015",
+        "EVENT_017",
+        "EVENT_018",
+        "EVENT_019",
+        "EVENT_020",
+        "EVENT_021",
+        "EVENT_H003",
+        "EVENT_H004",
+        "EVENT_H005",
+        "EVENT_H006",
+        "EVENT_H008",
+        "EVENT_D001",
+        "EVENT_D002",
+        "EVENT_D003",
+        "EVENT_D004",
+        "EVENT_D005",
+        "EVENT_026",
+        "EVENT_027",
+        "EVENT_H009",
+        "EVENT_H010",
+        "EVENT_023",
+        "EVENT_029",
+        "EVENT_H011",
+        "EVENT_H015"
+      ]
+    },
+    "revenue_theft": {
+      "count": 7,
+      "total": 6283295.4,
+      "events": [
+        "EVENT_001",
+        "EVENT_005",
+        "EVENT_009",
+        "EVENT_010",
+        "EVENT_014",
+        "EVENT_016",
+        "EVENT_026"
+      ]
+    },
+    "transfer_pricing_fraud": {
+      "count": 2,
+      "total": 10600000.0,
+      "events": [
+        "EVENT_024",
+        "EVENT_028"
+      ]
+    },
+    "accounting_fraud": {
+      "count": 1,
+      "total": 5400000.0,
+      "events": [
+        "EVENT_025"
+      ]
+    },
+    "business_relationship": {
+      "count": 4,
+      "total": 200501.6,
+      "events": [
+        "EVENT_H001",
+        "EVENT_H002",
+        "EVENT_H016",
+        "EVENT_H017"
+      ]
+    },
+    "profit_extraction": {
+      "count": 2,
+      "total": 45600000.0,
+      "events": [
+        "EVENT_H007",
+        "EVENT_H014"
+      ]
+    },
+    "infrastructure": {
+      "count": 2,
+      "total": 1164334.09,
+      "events": [
+        "EVENT_H012",
+        "EVENT_H013"
+      ]
+    }
+  },
+  "by_precision": {
+    "rounded": {
+      "count": 17,
+      "total": 89784000.0,
+      "events": [
+        "EVENT_022",
+        "EVENT_024",
+        "EVENT_025",
+        "EVENT_007",
+        "EVENT_008",
+        "EVENT_H005",
+        "EVENT_H007",
+        "EVENT_D002",
+        "EVENT_D004",
+        "EVENT_026",
+        "EVENT_H010",
+        "EVENT_023",
+        "EVENT_028",
+        "EVENT_H011",
+        "EVENT_H013",
+        "EVENT_H014",
+        "EVENT_H017"
+      ]
+    },
+    "unknown": {
+      "count": 22,
+      "total": 0,
+      "events": [
+        "EVENT_001",
+        "EVENT_003",
+        "EVENT_006",
+        "EVENT_010",
+        "EVENT_011",
+        "EVENT_012",
+        "EVENT_013",
+        "EVENT_015",
+        "EVENT_016",
+        "EVENT_017",
+        "EVENT_018",
+        "EVENT_019",
+        "EVENT_026",
+        "EVENT_020",
+        "EVENT_021",
+        "EVENT_H003",
+        "EVENT_H004",
+        "EVENT_H008",
+        "EVENT_027",
+        "EVENT_H009",
+        "EVENT_029",
+        "EVENT_H015"
+      ]
+    },
+    "exact": {
+      "count": 11,
+      "total": 18546855.99,
+      "events": [
+        "EVENT_002",
+        "EVENT_004",
+        "EVENT_005",
+        "EVENT_014",
+        "EVENT_H001",
+        "EVENT_H006",
+        "EVENT_D001",
+        "EVENT_D003",
+        "EVENT_D005",
+        "EVENT_H012",
+        "EVENT_H016"
+      ]
+    },
+    "estimated": {
+      "count": 3,
+      "total": 100000.0,
+      "events": [
+        "EVENT_009",
+        "EVENT_023",
+        "EVENT_H002"
+      ]
+    }
+  },
+  "top_10_events": [
+    {
+      "event_id": "EVENT_H007",
+      "title": "Villa Via Year-End Profit Extraction",
+      "amount": 22800000.0,
+      "formatted": "R22,800,000.00"
+    },
+    {
+      "event_id": "EVENT_H014",
+      "title": "Villa Via Capital Extraction",
+      "amount": 22800000.0,
+      "formatted": "R22,800,000.00"
+    },
+    {
+      "event_id": "EVENT_026",
+      "title": "Bantjies Dismisses Audit Request",
+      "amount": 18685000.0,
+      "formatted": "R18,685,000.00"
+    },
+    {
+      "event_id": "EVENT_024",
+      "title": "R5.4M Stock Disappears from Strategic Logistics",
+      "amount": 5400000.0,
+      "formatted": "R5,400,000.00"
+    },
+    {
+      "event_id": "EVENT_025",
+      "title": "R5.4M Stock Adjustment Processed Without Investigation",
+      "amount": 5400000.0,
+      "formatted": "R5,400,000.00"
+    },
+    {
+      "event_id": "EVENT_028",
+      "title": "R5.2M SLG Stock Missing & Large Invoice",
+      "amount": 5200000.0,
+      "formatted": "R5,200,000.00"
+    },
+    {
+      "event_id": "EVENT_004",
+      "title": "Payment Redirection Scheme",
+      "amount": 4276832.85,
+      "formatted": "R4,276,832.85"
+    },
+    {
+      "event_id": "EVENT_005",
+      "title": "Bank Account Change Letter for RegimA Worldwide",
+      "amount": 3141647.7,
+      "formatted": "R3,141,647.70"
+    },
+    {
+      "event_id": "EVENT_014",
+      "title": "Email Impersonation Pattern and Domain Switch Instruction",
+      "amount": 3141647.7,
+      "formatted": "R3,141,647.70"
+    },
+    {
+      "event_id": "EVENT_002",
+      "title": "Trust Structure Establishment",
+      "amount": 2851247.35,
+      "formatted": "R2,851,247.35"
+    }
+  ],
+  "timeline_flow": [
+    {
+      "date": "2017-06-30",
+      "event_id": "EVENT_H001",
+      "amount": 250.8,
+      "formatted": "R250.80"
+    },
+    {
+      "date": "2017-06-30",
+      "event_id": "EVENT_H016",
+      "amount": 250.8,
+      "formatted": "R250.80"
+    },
+    {
+      "date": "2017-09-30",
+      "event_id": "EVENT_H002",
+      "amount": 100000.0,
+      "formatted": "R100,000+"
+    },
+    {
+      "date": "2017-09-30",
+      "event_id": "EVENT_H017",
+      "amount": 100000.0,
+      "formatted": "R100,000.00"
+    },
+    {
+      "date": "2020-02-20",
+      "event_id": "EVENT_H005",
+      "amount": 1642000.0,
+      "formatted": "R1,642,000.00"
+    },
+    {
+      "date": "2020-02-20",
+      "event_id": "EVENT_H011",
+      "amount": 1642000.0,
+      "formatted": "R1,642,000.00"
+    },
+    {
+      "date": "2020-02-28",
+      "event_id": "EVENT_H006",
+      "amount": 1948334.09,
+      "formatted": "R1,948,334.09"
+    },
+    {
+      "date": "2020-02-28",
+      "event_id": "EVENT_H012",
+      "amount": 414334.09,
+      "formatted": "R414,334.09"
+    },
+    {
+      "date": "2020-02-28",
+      "event_id": "EVENT_H013",
+      "amount": 750000.0,
+      "formatted": "R750,000.00"
+    },
+    {
+      "date": "2020-04-30",
+      "event_id": "EVENT_H007",
+      "amount": 22800000.0,
+      "formatted": "R22,800,000.00"
+    },
+    {
+      "date": "2020-04-30",
+      "event_id": "EVENT_H014",
+      "amount": 22800000.0,
+      "formatted": "R22,800,000.00"
+    },
+    {
+      "date": "2022-03-01",
+      "event_id": "EVENT_D001",
+      "amount": 971587.93,
+      "formatted": "R971,587.93"
+    },
+    {
+      "date": "2022-07-11",
+      "event_id": "EVENT_D002",
+      "amount": 40000.0,
+      "formatted": "R40,000.00"
+    },
+    {
+      "date": "2023-01-01",
+      "event_id": "EVENT_H010",
+      "amount": 1035000.0,
+      "formatted": "R1,035,000.00"
+    },
+    {
+      "date": "2023-02-28",
+      "event_id": "EVENT_D003",
+      "amount": 1035361.34,
+      "formatted": "R1,035,361.34"
+    },
+    {
+      "date": "2023-03-15",
+      "event_id": "EVENT_D004",
+      "amount": 470000.0,
+      "formatted": "R470,000.00"
+    },
+    {
+      "date": "2023-09-20",
+      "event_id": "EVENT_D005",
+      "amount": 765361.34,
+      "formatted": "R765,361.34"
+    },
+    {
+      "date": "2025-01-15",
+      "event_id": "EVENT_023",
+      "amount": 1035000.0,
+      "formatted": "R1,035,000.00"
+    },
+    {
+      "date": "2025-02-14",
+      "event_id": "EVENT_022",
+      "amount": 900000.0,
+      "formatted": "R900,000.00"
+    },
+    {
+      "date": "2025-02-25",
+      "event_id": "EVENT_028",
+      "amount": 5200000.0,
+      "formatted": "R5,200,000.00"
+    },
+    {
+      "date": "2025-03-01",
+      "event_id": "EVENT_024",
+      "amount": 5400000.0,
+      "formatted": "R5,400,000.00"
+    },
+    {
+      "date": "2025-03-15",
+      "event_id": "EVENT_002",
+      "amount": 2851247.35,
+      "formatted": "R2,851,247.35"
+    },
+    {
+      "date": "2025-03-15",
+      "event_id": "EVENT_025",
+      "amount": 5400000.0,
+      "formatted": "R5,400,000.00"
+    },
+    {
+      "date": "2025-04-01",
+      "event_id": "EVENT_004",
+      "amount": 4276832.85,
+      "formatted": "R4,276,832.85"
+    },
+    {
+      "date": "2025-04-14",
+      "event_id": "EVENT_005",
+      "amount": 3141647.7,
+      "formatted": "R3,141,647.70"
+    },
+    {
+      "date": "2025-05-15",
+      "event_id": "EVENT_007",
+      "amount": 1035000.0,
+      "formatted": "R1,035,000.00"
+    },
+    {
+      "date": "2025-05-15",
+      "event_id": "EVENT_008",
+      "amount": 850000.0,
+      "formatted": "R850,000.00"
+    },
+    {
+      "date": "2025-06-10",
+      "event_id": "EVENT_026",
+      "amount": 18685000.0,
+      "formatted": "R18,685,000.00"
+    },
+    {
+      "date": "2025-06-20",
+      "event_id": "EVENT_014",
+      "amount": 3141647.7,
+      "formatted": "R3,141,647.70"
+    }
+  ]
+}
