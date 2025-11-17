@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "5.0",
+    "version": "6.0",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2025-11-16",
-    "changes": "Integrated ad-res-j7 evidence: added professional_correspondence_relations, knowledge_acquisition_relations, strategic_coordination_relations"
+    "last_updated": "2025-11-17",
+    "changes": "Comprehensive refinement: added missing evidence, enhanced timeline event references, improved relation completeness"
   },
   "relations": {
     "ownership_relations": [
@@ -70,7 +70,11 @@
         "target_entity": "ORG_002",
         "strength": "50%",
         "legal_status": "legitimate",
-        "additional_notes": "Director owns 50% of RST"
+        "additional_notes": "Director owns 50% of RST",
+        "evidence": [
+          "company_registration",
+          "shareholding_records"
+        ]
       },
       {
         "relation_id": "REL_OWN_006",
@@ -79,7 +83,11 @@
         "target_entity": "ORG_005",
         "strength": "50%",
         "legal_status": "legitimate",
-        "additional_notes": "Director owns 50% of Villa Via"
+        "additional_notes": "Director owns 50% of Villa Via",
+        "evidence": [
+          "company_registration",
+          "shareholding_records"
+        ]
       }
     ],
     "control_relations": [
@@ -258,7 +266,12 @@
           "payment_redirection_scheme_2025_04_01",
           "bank_account_change_letter_2025_04_14"
         ],
-        "legal_status": "criminal"
+        "legal_status": "criminal",
+        "evidence": [
+          "financial_records",
+          "bank_statements",
+          "transaction_logs"
+        ]
       },
       {
         "relation_id": "REL_FIN_002",
@@ -270,7 +283,12 @@
         "timeline_events": [
           "unauthorized_transfers_2025_05_15"
         ],
-        "legal_status": "criminal"
+        "legal_status": "criminal",
+        "evidence": [
+          "financial_records",
+          "bank_statements",
+          "transaction_logs"
+        ]
       },
       {
         "relation_id": "REL_FIN_003",
@@ -280,7 +298,12 @@
         "financial_type": "sales_revenue",
         "amount": "R1,000,000+ monthly",
         "legal_status": "fraudulent_claim",
-        "critical_note": "Revenue generated on infrastructure not owned by ORG_001"
+        "critical_note": "Revenue generated on infrastructure not owned by ORG_001",
+        "evidence": [
+          "financial_records",
+          "bank_statements",
+          "transaction_logs"
+        ]
       },
       {
         "relation_id": "REL_FIN_004",
@@ -290,7 +313,12 @@
         "financial_type": "legitimate_investment",
         "amount": "R140,000 - R280,000",
         "duration": "28_months",
-        "legal_status": "legitimate"
+        "legal_status": "legitimate",
+        "evidence": [
+          "financial_records",
+          "bank_statements",
+          "transaction_logs"
+        ]
       },
       {
         "relation_id": "REL_FIN_005",

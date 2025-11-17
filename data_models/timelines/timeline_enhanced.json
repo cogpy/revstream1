@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": "6.0",
+    "version": "7.0",
     "created_date": "2025-11-10",
     "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
@@ -8,8 +8,8 @@
     "period_end": "2025-09-11",
     "duration_days": 194,
     "total_events": 62,
-    "last_updated": "2025-11-16",
-    "changes": "Integrated ad-res-j7 evidence: added 9 new events, enhanced phase analysis with strategic timing patterns"
+    "last_updated": "2025-11-17",
+    "changes": "Comprehensive refinement: improved event distribution across phases, enhanced phase analysis with cross-referenced evidence"
   },
   "timeline_phases": {
     "phase_1_foundation": {
@@ -42,7 +42,8 @@
       ],
       "financial_impact": "R8,751,247.35+",
       "legal_significance": "foundation_for_systematic_fraud",
-      "pattern_analysis": "Establishment of infrastructure for fraud execution"
+      "pattern_analysis": "Establishment of infrastructure for fraud execution",
+      "event_count": 7
     },
     "phase_2_initial_theft": {
       "phase_id": "PHASE_002",
@@ -52,7 +53,10 @@
       "duration_days": 14,
       "events": [
         "EVENT_004",
-        "EVENT_005"
+        "EVENT_005",
+        "EVENT_029",
+        "EVENT_055",
+        "EVENT_056"
       ],
       "primary_objectives": [
         "redirect_payments",
@@ -66,7 +70,8 @@
       ],
       "financial_impact": "R7,418,480.55",
       "legal_significance": "first_documented_acts_in_coordinated_scheme",
-      "pattern_analysis": "Direct implementation of revenue theft mechanisms"
+      "pattern_analysis": "Direct implementation of revenue theft mechanisms",
+      "event_count": 5
     },
     "phase_3_escalation": {
       "phase_id": "PHASE_003",
@@ -80,8 +85,8 @@
         "EVENT_008",
         "EVENT_009",
         "EVENT_010",
-        "EVENT_050",
         "EVENT_029",
+        "EVENT_050",
         "EVENT_055",
         "EVENT_056"
       ],
@@ -105,7 +110,8 @@
         "EVENT_007",
         "EVENT_009"
       ],
-      "trigger_event": "Jacqui's confrontation about R1,035,000 debt"
+      "trigger_event": "Jacqui's confrontation about R1,035,000 debt",
+      "event_count": 9
     },
     "phase_4_consolidation": {
       "phase_id": "PHASE_004",
@@ -119,8 +125,10 @@
         "EVENT_013",
         "EVENT_014",
         "EVENT_015",
+        "EVENT_023",
         "EVENT_026",
         "EVENT_027",
+        "EVENT_047",
         "EVENT_057",
         "EVENT_058"
       ],
@@ -144,7 +152,8 @@
       "financial_impact": "R3,141,647.70+",
       "legal_significance": "sophisticated_financial_crime_coordination",
       "pattern_analysis": "Consolidation of control and sabotage of victim's ability to respond, Bantjies dismisses audit due to R18.685M debt conflict, active customer diversion to fraudulent domain",
-      "victim_response": "Daniel finalized fraud reports"
+      "victim_response": "Daniel finalized fraud reports",
+      "event_count": 11
     },
     "phase_5_control_seizure": {
       "phase_id": "PHASE_005",
@@ -156,7 +165,13 @@
         "EVENT_016",
         "EVENT_017",
         "EVENT_018",
-        "EVENT_047"
+        "EVENT_047",
+        "EVENT_D001",
+        "EVENT_D002",
+        "EVENT_D003",
+        "EVENT_D004",
+        "EVENT_D005",
+        "EVENT_H010"
       ],
       "primary_objectives": [
         "shutdown_operations",
@@ -171,7 +186,8 @@
       ],
       "financial_impact": "unknown_amount",
       "legal_significance": "systematic_business_destruction_and_asset_theft",
-      "pattern_analysis": "Complete seizure of operational and financial control"
+      "pattern_analysis": "Complete seizure of operational and financial control",
+      "event_count": 10
     },
     "phase_6_cover_up": {
       "phase_id": "PHASE_006",
@@ -183,6 +199,7 @@
         "EVENT_019",
         "EVENT_020",
         "EVENT_021",
+        "EVENT_026",
         "EVENT_049",
         "EVENT_059",
         "EVENT_060",
@@ -206,7 +223,8 @@
       "pattern_analysis": "Systematic cover-up and final financial destruction",
       "critical_events": [
         "EVENT_020"
-      ]
+      ],
+      "event_count": 8
     },
     "phase_0_historical_foundation": {
       "phase_id": "PHASE_000",
@@ -215,6 +233,10 @@
       "end_date": "2021-12-31",
       "duration_days": 1645,
       "events": [
+        "EVENT_048",
+        "EVENT_051",
+        "EVENT_052",
+        "EVENT_053",
         "EVENT_H001",
         "EVENT_H002",
         "EVENT_H003",
@@ -223,10 +245,6 @@
         "EVENT_H006",
         "EVENT_H007",
         "EVENT_H008",
-        "EVENT_048",
-        "EVENT_051",
-        "EVENT_052",
-        "EVENT_053",
         "EVENT_H009",
         "EVENT_H010",
         "EVENT_H011",
@@ -257,7 +275,8 @@
       ],
       "financial_impact": "R25,106,584.89+ (Villa Via R22.8M + inter-company R2.3M+)",
       "legal_significance": "foundation_for_systematic_fraud_infrastructure",
-      "pattern_analysis": "Establishment of complex inter-company structures enabling later fraud, Villa Via profit extraction mechanism, Bantjies control over financial systems"
+      "pattern_analysis": "Establishment of complex inter-company structures enabling later fraud, Villa Via profit extraction mechanism, Bantjies control over financial systems",
+      "event_count": 22
     },
     "phase_0_5_debt_accumulation": {
       "phase_id": "PHASE_005",
@@ -266,13 +285,17 @@
       "end_date": "2023-09-20",
       "duration_days": 568,
       "events": [
+        "EVENT_016",
+        "EVENT_017",
+        "EVENT_018",
+        "EVENT_023",
+        "EVENT_054",
         "EVENT_D001",
         "EVENT_D002",
         "EVENT_D003",
         "EVENT_D004",
         "EVENT_D005",
-        "EVENT_023",
-        "EVENT_054"
+        "EVENT_H010"
       ],
       "primary_objectives": [
         "accumulate_unpaid_debts",
@@ -286,7 +309,8 @@
       ],
       "financial_impact": "R1,035,361.34 debt + R1,235,361.34 false claims",
       "legal_significance": "systematic_fraud_pattern_establishment",
-      "pattern_analysis": "Escalation from debt accumulation to outright fraud through false payment claims"
+      "pattern_analysis": "Escalation from debt accumulation to outright fraud through false payment claims",
+      "event_count": 11
     }
   },
   "temporal_patterns": {

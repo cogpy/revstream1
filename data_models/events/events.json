@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "7.0",
+    "version": "8.0",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 62,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2025-11-16",
-    "changes": "Integrated ad-res-j7 evidence: added 9 new critical events including Bantjies knowledge acquisition, settlement timing, and perjury events"
+    "last_updated": "2025-11-17",
+    "changes": "Comprehensive refinement: improved phase assignments, added missing perpetrators, enhanced timeline coherence"
   },
   "events": [
     {
@@ -31,7 +31,8 @@
         "invoice_2017_06_30",
         "service_agreement"
       ],
-      "pattern": "historical_foundation"
+      "pattern": "historical_foundation",
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_H002",
@@ -54,7 +55,8 @@
         "invoices_2017_09_30",
         "service_expansion_documentation"
       ],
-      "pattern": "historical_foundation"
+      "pattern": "historical_foundation",
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_H003",
@@ -77,7 +79,8 @@
       "evidence": [
         "trial_balance_documentation"
       ],
-      "pattern": "historical_foundation"
+      "pattern": "historical_foundation",
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_H004",
@@ -99,7 +102,8 @@
       "evidence": [
         "VV-TRIALBALANCEAPR20202.xlsx"
       ],
-      "pattern": "historical_foundation"
+      "pattern": "historical_foundation",
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_H005",
@@ -128,7 +132,8 @@
         "trial_balance_AJEs",
         "general_ledger_entries"
       ],
-      "pattern": "historical_foundation"
+      "pattern": "historical_foundation",
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_051",
@@ -180,7 +185,8 @@
         "REG-TRIALBALANCE.xlsx",
         "SL-TRIALBALANCE2020.xlsx"
       ],
-      "pattern": "historical_foundation"
+      "pattern": "historical_foundation",
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_052",
@@ -228,7 +234,8 @@
         "VV-TRIALBALANCEAPR20202.xlsx"
       ],
       "pattern": "historical_foundation",
-      "critical": true
+      "critical": true,
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_053",
@@ -273,7 +280,8 @@
         "Email-body.html",
         "trial_balance_attachments"
       ],
-      "pattern": "historical_foundation"
+      "pattern": "historical_foundation",
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_048",
@@ -319,7 +327,8 @@
       "evidence": [
         "trial_balance_email_2020_08_13"
       ],
-      "pattern": "historical_foundation"
+      "pattern": "historical_foundation",
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_H009",
@@ -345,7 +354,8 @@
       ],
       "pattern": "pre_planning_phase",
       "additional_notes": "Registered April 2021, 4 years before May 2025 fraud escalation, demonstrates systematic pre-planning",
-      "evidence_location": "ad-res-j7/1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md"
+      "evidence_location": "ad-res-j7/1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md",
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_D001",
@@ -372,7 +382,8 @@
         "rezonance_account_statements",
         "aged_debtor_reports"
       ],
-      "pattern": "debt_accumulation"
+      "pattern": "debt_accumulation",
+      "timeline_phase": "PHASE_005"
     },
     {
       "event_id": "EVENT_D002",
@@ -395,7 +406,8 @@
         "payment_records",
         "bank_statements"
       ],
-      "pattern": "debt_accumulation"
+      "pattern": "debt_accumulation",
+      "timeline_phase": "PHASE_005"
     },
     {
       "event_id": "EVENT_H010",
@@ -421,7 +433,8 @@
       ],
       "pattern": "historical_foundation_phase",
       "additional_notes": "Account access complications, law enforcement investigation ongoing, referenced in criminal case documentation",
-      "evidence_location": "ad-res-j7/2-CRIMINAL-CASE/README.md"
+      "evidence_location": "ad-res-j7/2-CRIMINAL-CASE/README.md",
+      "timeline_phase": "PHASE_005"
     },
     {
       "event_id": "EVENT_D003",
@@ -448,7 +461,8 @@
         "rezonance_final_statement",
         "payment_reconciliation"
       ],
-      "pattern": "debt_accumulation"
+      "pattern": "debt_accumulation",
+      "timeline_phase": "PHASE_005"
     },
     {
       "event_id": "EVENT_D004",
@@ -476,7 +490,8 @@
         "rezonance_account_reconciliation"
       ],
       "pattern": "debt_accumulation",
-      "critical": true
+      "critical": true,
+      "timeline_phase": "PHASE_005"
     },
     {
       "event_id": "EVENT_D005",
@@ -503,7 +518,8 @@
         "false_payment_claims_documentation"
       ],
       "pattern": "debt_accumulation",
-      "critical": true
+      "critical": true,
+      "timeline_phase": "PHASE_005"
     },
     {
       "event_id": "EVENT_023",
@@ -538,7 +554,9 @@
       "title": "Chantal Delivers Letter About Kayla Estate Finalization",
       "category": "estate_fraud",
       "event_type": "estate_exploitation_communication",
-      "perpetrators": [],
+      "perpetrators": [
+        "PERSON_011"
+      ],
       "victims": [
         "PERSON_008"
       ],
@@ -633,7 +651,8 @@
         "financial_records",
         "bank_statements"
       ],
-      "pattern": "foundation_phase"
+      "pattern": "foundation_phase",
+      "timeline_phase": "PHASE_001"
     },
     {
       "event_id": "EVENT_024",
@@ -664,7 +683,8 @@
         "adderory_supply_documentation"
       ],
       "pattern": "foundation_phase",
-      "critical": true
+      "critical": true,
+      "timeline_phase": "PHASE_001"
     },
     {
       "event_id": "EVENT_002",
@@ -689,7 +709,8 @@
         "trust_documentation",
         "beneficiary_records"
       ],
-      "pattern": "foundation_phase"
+      "pattern": "foundation_phase",
+      "timeline_phase": "PHASE_001"
     },
     {
       "event_id": "EVENT_025",
@@ -715,7 +736,8 @@
         "general_ledger_entries",
         "lack_of_investigation_documentation"
       ],
-      "pattern": "foundation_phase"
+      "pattern": "foundation_phase",
+      "timeline_phase": "PHASE_001"
     },
     {
       "event_id": "EVENT_003",
@@ -744,7 +766,8 @@
         "SARS_submissions"
       ],
       "pattern": "foundation_phase",
-      "additional_notes": "Occurred while accounts system controlled by Rynette using Peter's email, despite Linda being employed as bookkeeper"
+      "additional_notes": "Occurred while accounts system controlled by Rynette using Peter's email, despite Linda being employed as bookkeeper",
+      "timeline_phase": "PHASE_001"
     },
     {
       "event_id": "EVENT_004",
@@ -772,7 +795,8 @@
         "payment_gateway_logs"
       ],
       "shopify_related": true,
-      "pattern": "initial_theft_phase"
+      "pattern": "initial_theft_phase",
+      "timeline_phase": "PHASE_002"
     },
     {
       "event_id": "EVENT_005",
@@ -799,7 +823,8 @@
         "account_change_documentation"
       ],
       "shopify_related": true,
-      "pattern": "initial_theft_phase"
+      "pattern": "initial_theft_phase",
+      "timeline_phase": "PHASE_002"
     },
     {
       "event_id": "EVENT_029",
@@ -826,7 +851,8 @@
       ],
       "pattern": "initial_theft_phase",
       "additional_notes": "Infrastructure control seizure between bank letter (Apr 14) and audit trail destruction (May 22)",
-      "evidence_location": "ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md"
+      "evidence_location": "ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md",
+      "timeline_phase": "PHASE_002"
     },
     {
       "event_id": "EVENT_055",
@@ -849,7 +875,8 @@
       "evidence": [
         "it_system_removal_instruction"
       ],
-      "pattern": "escalation_phase"
+      "pattern": "escalation_phase",
+      "timeline_phase": "PHASE_002"
     },
     {
       "event_id": "EVENT_056",
@@ -871,7 +898,8 @@
       "evidence": [
         "office_inventory_records"
       ],
-      "pattern": "escalation_phase"
+      "pattern": "escalation_phase",
+      "timeline_phase": "PHASE_002"
     },
     {
       "event_id": "EVENT_006",
@@ -897,7 +925,8 @@
         "trust_amendment_documents",
         "beneficiary_correspondence"
       ],
-      "pattern": "escalation_phase"
+      "pattern": "escalation_phase",
+      "timeline_phase": "PHASE_003"
     },
     {
       "event_id": "EVENT_007",
@@ -924,7 +953,8 @@
         "debt_documentation"
       ],
       "pattern": "escalation_phase",
-      "additional_notes": "Debt is actually misallocated payments in accounts, not true debt"
+      "additional_notes": "Debt is actually misallocated payments in accounts, not true debt",
+      "timeline_phase": "PHASE_003"
     },
     {
       "event_id": "EVENT_008",
@@ -951,7 +981,8 @@
         "authorization_logs"
       ],
       "shopify_related": true,
-      "pattern": "escalation_phase"
+      "pattern": "escalation_phase",
+      "timeline_phase": "PHASE_003"
     },
     {
       "event_id": "EVENT_050",
@@ -1003,7 +1034,8 @@
       ],
       "shopify_related": true,
       "pattern": "escalation_phase",
-      "critical": true
+      "critical": true,
+      "timeline_phase": "PHASE_003"
     },
     {
       "event_id": "EVENT_010",
@@ -1030,7 +1062,8 @@
         "whois_data"
       ],
       "shopify_related": true,
-      "pattern": "escalation_phase"
+      "pattern": "escalation_phase",
+      "timeline_phase": "PHASE_003"
     },
     {
       "event_id": "EVENT_011",
@@ -1052,7 +1085,8 @@
         "fraud_reports",
         "analysis_documentation"
       ],
-      "pattern": "consolidation_phase"
+      "pattern": "consolidation_phase",
+      "timeline_phase": "PHASE_004"
     },
     {
       "event_id": "EVENT_057",
@@ -1060,7 +1094,10 @@
       "title": "Daniel Sends Comprehensive Reports to Bantjies",
       "category": "transparency",
       "event_type": "full_disclosure",
-      "perpetrators": [],
+      "perpetrators": [
+        "PERSON_009",
+        "PERSON_002"
+      ],
       "victims": [],
       "entities_involved": [
         "PERSON_005",
@@ -1071,7 +1108,8 @@
       "evidence": [
         "email_to_bantjies_2025_06_06"
       ],
-      "pattern": "consolidation_phase"
+      "pattern": "consolidation_phase",
+      "timeline_phase": "PHASE_004"
     },
     {
       "event_id": "EVENT_012",
@@ -1096,7 +1134,8 @@
         "bank_records",
         "card_cancellation_logs"
       ],
-      "pattern": "consolidation_phase"
+      "pattern": "consolidation_phase",
+      "timeline_phase": "PHASE_004"
     },
     {
       "event_id": "EVENT_023",
@@ -1127,7 +1166,8 @@
       ],
       "pattern": "consolidation_phase",
       "critical": true,
-      "temporal_significance": "4_days_after_fraud_exposure"
+      "temporal_significance": "4_days_after_fraud_exposure",
+      "timeline_phase": "PHASE_004"
     },
     {
       "event_id": "EVENT_026",
@@ -1155,7 +1195,8 @@
       ],
       "pattern": "consolidation_phase",
       "critical": true,
-      "additional_notes": "Bantjies had R18.685M reasons to prevent audit, which would discover debt and conflicts"
+      "additional_notes": "Bantjies had R18.685M reasons to prevent audit, which would discover debt and conflicts",
+      "timeline_phase": "PHASE_004"
     },
     {
       "event_id": "EVENT_047",
@@ -1173,7 +1214,7 @@
         "email_correspondence",
         "timeline_analysis"
       ],
-      "timeline_phase": "PHASE_005",
+      "timeline_phase": "PHASE_004",
       "additional_notes": "Bantjies dismisses audit with 'I am going away for 2 weeks' on June 10, 2025, just 4 days after Daniel provided comprehensive reports exposing fraud on June 6, 2025",
       "perpetrators": [
         "PERSON_001"
@@ -1185,7 +1226,9 @@
       "title": "Bantjies Learns of Criminal Matters",
       "category": "knowledge_acquisition",
       "event_type": "fraud_and_murder_disclosure",
-      "perpetrators": [],
+      "perpetrators": [
+        "PERSON_007"
+      ],
       "victims": [],
       "entities_involved": [
         "PERSON_007",
@@ -1197,7 +1240,8 @@
         "email_received_thanks_daniel_2025_08_29"
       ],
       "pattern": "consolidation_phase",
-      "critical": true
+      "critical": true,
+      "timeline_phase": "PHASE_004"
     },
     {
       "event_id": "EVENT_013",
@@ -1222,7 +1266,8 @@
         "trust_transaction_records",
         "conflict_of_interest_documentation"
       ],
-      "pattern": "consolidation_phase"
+      "pattern": "consolidation_phase",
+      "timeline_phase": "PHASE_004"
     },
     {
       "event_id": "EVENT_014",
@@ -1250,7 +1295,8 @@
         "gee_email_to_jax"
       ],
       "shopify_related": true,
-      "pattern": "consolidation_phase"
+      "pattern": "consolidation_phase",
+      "timeline_phase": "PHASE_004"
     },
     {
       "event_id": "EVENT_027",
@@ -1279,7 +1325,8 @@
       ],
       "pattern": "consolidation_phase",
       "critical": true,
-      "additional_notes": "Gee explained to Jax in August about this instruction, direct witness to coordinated customer diversion"
+      "additional_notes": "Gee explained to Jax in August about this instruction, direct witness to coordinated customer diversion",
+      "timeline_phase": "PHASE_004"
     },
     {
       "event_id": "EVENT_015",
@@ -1308,7 +1355,8 @@
         "financial_flow_analysis"
       ],
       "shopify_related": true,
-      "pattern": "consolidation_phase"
+      "pattern": "consolidation_phase",
+      "timeline_phase": "PHASE_004"
     },
     {
       "event_id": "EVENT_016",
@@ -1336,7 +1384,8 @@
         "popi_violation_documentation"
       ],
       "shopify_related": true,
-      "pattern": "control_seizure_phase"
+      "pattern": "control_seizure_phase",
+      "timeline_phase": "PHASE_005"
     },
     {
       "event_id": "EVENT_017",
@@ -1363,7 +1412,8 @@
         "control_change_documentation"
       ],
       "shopify_related": true,
-      "pattern": "control_seizure_phase"
+      "pattern": "control_seizure_phase",
+      "timeline_phase": "PHASE_005"
     },
     {
       "event_id": "EVENT_018",
@@ -1389,7 +1439,8 @@
         "asset_transfer_records",
         "trust_property_documentation"
       ],
-      "pattern": "control_seizure_phase"
+      "pattern": "control_seizure_phase",
+      "timeline_phase": "PHASE_005"
     },
     {
       "event_id": "EVENT_019",
@@ -1414,7 +1465,8 @@
         "trust_violation_documentation",
         "ongoing_breach_records"
       ],
-      "pattern": "cover_up_phase"
+      "pattern": "cover_up_phase",
+      "timeline_phase": "PHASE_006"
     },
     {
       "event_id": "EVENT_059",
@@ -1438,7 +1490,8 @@
         "settlement_agreement_2025_08_11"
       ],
       "pattern": "cover_up_phase",
-      "critical": true
+      "critical": true,
+      "timeline_phase": "PHASE_006"
     },
     {
       "event_id": "EVENT_049",
@@ -1485,7 +1538,8 @@
         "founding_affidavit_2025_08_13"
       ],
       "pattern": "cover_up_phase",
-      "critical": true
+      "critical": true,
+      "timeline_phase": "PHASE_006"
     },
     {
       "event_id": "EVENT_026",
@@ -1507,7 +1561,8 @@
       "evidence": [
         "gee_email_to_jax"
       ],
-      "pattern": "cover_up_phase"
+      "pattern": "cover_up_phase",
+      "timeline_phase": "PHASE_006"
     },
     {
       "event_id": "EVENT_020",
@@ -1535,7 +1590,8 @@
       ],
       "shopify_related": true,
       "pattern": "cover_up_phase",
-      "critical": true
+      "critical": true,
+      "timeline_phase": "PHASE_006"
     },
     {
       "event_id": "EVENT_061",
@@ -1557,7 +1613,8 @@
         "email_received_thanks_daniel_2025_08_29"
       ],
       "pattern": "cover_up_phase",
-      "critical": true
+      "critical": true,
+      "timeline_phase": "PHASE_006"
     },
     {
       "event_id": "EVENT_021",
@@ -1583,7 +1640,8 @@
         "bank_statements",
         "account_balance_records"
       ],
-      "pattern": "cover_up_phase"
+      "pattern": "cover_up_phase",
+      "timeline_phase": "PHASE_006"
     }
   ]
 }
