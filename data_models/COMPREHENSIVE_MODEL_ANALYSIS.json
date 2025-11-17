@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "analysis_date": "2025-11-17",
+    "entities_version": "7.0",
+    "events_version": "7.0",
+    "relations_version": "5.0",
+    "timeline_version": "6.0"
+  },
+  "entities_analysis": {
+    "total_entities": 27,
+    "by_type": {
+      "persons": 12,
+      "organizations": 9,
+      "platforms": 1,
+      "domains": 2,
+      "trust_entities": 1,
+      "trusts": 1,
+      "bank_accounts": 1
+    },
+    "missing_timeline_events": [
+      "PERSON_001",
+      "PERSON_002",
+      "PERSON_008",
+      "PERSON_009"
+    ],
+    "missing_financial_impact": [],
+    "entities_with_events": 9,
+    "entities_without_events": 4
+  },
+  "events_analysis": {
+    "total_events": 62,
+    "by_category": {
+      "business_relationship": 2,
+      "financial_structure": 3,
+      "financial_manipulation": 12,
+      "profit_extraction": 2,
+      "evidence_documentation": 1,
+      "accounting_fraud": 3,
+      "conspiracy_preparation": 1,
+      "debt_accumulation": 2,
+      "debt_management": 1,
+      "criminal_event": 1,
+      "fraud": 2,
+      "estate_exploitation": 1,
+      "estate_fraud": 1,
+      "transfer_pricing_fraud": 2,
+      "revenue_theft": 7,
+      "trust_violations": 6,
+      "infrastructure_seizure": 1,
+      "evidence_tampering": 2,
+      "financial_dispute": 1,
+      "fraud_discovery": 2,
+      "transparency": 1,
+      "fraud_concealment": 3,
+      "knowledge_acquisition": 1,
+      "customer_hijacking": 1,
+      "legal_manipulation": 1,
+      "perjury": 1,
+      "legal_misconduct": 1
+    },
+    "by_phase": {
+      "PHASE_UNKNOWN": 55,
+      "PHASE_000": 4,
+      "PHASE_003": 1,
+      "PHASE_005": 1,
+      "PHASE_006": 1
+    },
+    "events_with_financial_impact": 29,
+    "events_without_financial_impact": 33,
+    "missing_perpetrators": [
+      "EVENT_054",
+      "EVENT_057",
+      "EVENT_058"
+    ],
+    "missing_evidence": [],
+    "date_coverage": {
+      "earliest": "2017-06-30",
+      "latest": "2025-09-11"
+    }
+  },
+  "relations_analysis": {
+    "total_relations": 54,
+    "by_type": {
+      "ownership_relations": 6,
+      "control_relations": 5,
+      "conspiracy_relations": 4,
+      "dependency_relations": 2,
+      "financial_relations": 6,
+      "victim_perpetrator_relations": 3,
+      "employment_relations": 2,
+      "evidence_destruction_relations": 2,
+      "temporal_relations": 6,
+      "debt_relations": 2,
+      "estate_relations": 1,
+      "witness_relations": 2,
+      "conflict_relations": 1,
+      "email_control_relations": 1,
+      "trustee_relations": 2,
+      "beneficiary_relations": 2,
+      "professional_correspondence_relations": 2,
+      "capital_extraction_relations": 1,
+      "inter_company_loan_relations": 2,
+      "knowledge_acquisition_relations": 1,
+      "strategic_coordination_relations": 1
+    },
+    "missing_evidence": [
+      "REL_OWN_005",
+      "REL_OWN_006",
+      "REL_FIN_001",
+      "REL_FIN_002",
+      "REL_FIN_003",
+      "REL_FIN_004",
+      "REL_FIN_005",
+      "REL_FIN_006",
+      "REL_VP_001",
+      "REL_VP_002",
+      "REL_VP_003",
+      "REL_EMP_001",
+      "REL_EMP_002",
+      "REL_EVID_001",
+      "REL_EVID_002",
+      "REL_TEMP_001",
+      "REL_TEMP_002",
+      "REL_TEMP_003",
+      "REL_TEMP_004",
+      "REL_TEMP_005",
+      "REL_TEMP_006",
+      "REL_WITNESS_001",
+      "REL_WITNESS_002"
+    ],
+    "relations_with_timeline": 3,
+    "relations_without_timeline": 51
+  },
+  "timeline_analysis": {
+    "total_phases": 8,
+    "phases": {
+      "PHASE_001": {
+        "name": "Foundation Phase",
+        "event_count": 7,
+        "duration_days": 30,
+        "financial_impact": "R8,751,247.35+"
+      },
+      "PHASE_002": {
+        "name": "Initial Theft Phase",
+        "event_count": 2,
+        "duration_days": 14,
+        "financial_impact": "R7,418,480.55"
+      },
+      "PHASE_003": {
+        "name": "Escalation Phase",
+        "event_count": 9,
+        "duration_days": 28,
+        "financial_impact": "R1,850,000+"
+      },
+      "PHASE_004": {
+        "name": "Consolidation Phase",
+        "event_count": 9,
+        "duration_days": 25,
+        "financial_impact": "R3,141,647.70+"
+      },
+      "PHASE_005": {
+        "name": "Debt Accumulation Phase",
+        "event_count": 7,
+        "duration_days": 568,
+        "financial_impact": "R1,035,361.34 debt + R1,235,361.34 false claims"
+      },
+      "PHASE_006": {
+        "name": "Cover-up Phase",
+        "event_count": 7,
+        "duration_days": 33,
+        "financial_impact": "unknown_amount"
+      },
+      "PHASE_000": {
+        "name": "Historical Foundation Phase",
+        "event_count": 22,
+        "duration_days": 1645,
+        "financial_impact": "R25,106,584.89+ (Villa Via R22.8M + inter-company R2.3M+)"
+      }
+    },
+    "total_events_in_phases": 67,
+    "orphaned_events": [],
+    "phase_coverage": {}
+  },
+  "data_quality_issues": {
+    "entities_missing_timeline_events": [
+      "PERSON_001",
+      "PERSON_002",
+      "PERSON_008",
+      "PERSON_009"
+    ],
+    "entities_missing_financial_impact": [],
+    "events_missing_perpetrators": [
+      "EVENT_054",
+      "EVENT_057",
+      "EVENT_058"
+    ],
+    "events_missing_evidence": [],
+    "relations_missing_evidence": [
+      "REL_OWN_005",
+      "REL_OWN_006",
+      "REL_FIN_001",
+      "REL_FIN_002",
+      "REL_FIN_003",
+      "REL_FIN_004",
+      "REL_FIN_005",
+      "REL_FIN_006",
+      "REL_VP_001",
+      "REL_VP_002",
+      "REL_VP_003",
+      "REL_EMP_001",
+      "REL_EMP_002",
+      "REL_EVID_001",
+      "REL_EVID_002",
+      "REL_TEMP_001",
+      "REL_TEMP_002",
+      "REL_TEMP_003",
+      "REL_TEMP_004",
+      "REL_TEMP_005",
+      "REL_TEMP_006",
+      "REL_WITNESS_001",
+      "REL_WITNESS_002"
+    ]
+  }
+}

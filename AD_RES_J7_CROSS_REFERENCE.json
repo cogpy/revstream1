@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "extraction_date": "2025-11-17",
+    "source_repository": "ad-res-j7",
+    "target_repository": "revstream1"
+  },
+  "timeline_events_extracted": 22,
+  "timeline_events": [
+    {
+      "date": "March 1, 2019",
+      "event": "Financial year commencement for RegimA Skin Treatments (RST) and Strategic Logistics (SLG)  ",
+      "significance": "Beginning of the period covered by the trial balance evidence  "
+    },
+    {
+      "date": "May 1, 2019",
+      "event": "Financial year commencement for Villa Via  ",
+      "significance": "Villa Via operates on different financial year, creating complexity in group reporting  "
+    },
+    {
+      "date": "February 20, 2020",
+      "event": "Multiple adjusting journal entries across entities  ",
+      "significance": "Significant inter-company cost reallocations and adjustments  "
+    },
+    {
+      "date": "February 28, 2020",
+      "event": "Year-end adjustments and inter-company interest payment  ",
+      "significance": "Final adjustments including critical R414K interest payment from SLG to RST  "
+    },
+    {
+      "date": "April 30, 2020",
+      "event": "Villa Via financial year-end  ",
+      "significance": "Completion of Villa Via's financial year showing R3.7M profit from rental income  "
+    },
+    {
+      "date": "August 13, 2020",
+      "event": "Email from Danie Bantjes with final trial balances  ",
+      "significance": "Preparation for financial statement finalization meeting with Bernadine Wright  "
+    },
+    {
+      "date": "June 30, 2017",
+      "event": "First invoice to RegimA Skin Treatments for Google GSuite services (R250.80)  ",
+      "significance": "Beginning of business relationship between ReZonance and RegimA Group  "
+    },
+    {
+      "date": "September 30, 2017",
+      "event": "Major service expansion with multiple enterprise services (R100,000+)  ",
+      "significance": "Substantial increase in service provision and financial exposure  "
+    },
+    {
+      "date": "March 1, 2022",
+      "event": "Opening balance showing substantial accumulated debt (R971,587.93)  ",
+      "significance": "Evidence of unpaid services over extended period  "
+    },
+    {
+      "date": "July 11, 2022",
+      "event": "First structured payments begin (R40,000)  ",
+      "significance": "Attempt to manage debt through partial payments  "
+    },
+    {
+      "date": "February 28, 2023",
+      "event": "Final balance showing persistent debt despite payments (R1,035,361.34)  ",
+      "significance": "Debt continues to grow despite payment claims  "
+    },
+    {
+      "date": "March 15, 2023",
+      "event": "RegimA claims payment of R470,000 not reflected in ReZonance records  ",
+      "significance": "First documented false payment claim  "
+    },
+    {
+      "date": "September 20, 2023",
+      "event": "Additional false payment claims totaling R765,361.34  ",
+      "significance": "Escalation of fraudulent payment claims  "
+    },
+    {
+      "date": "April 15, 2025",
+      "event": "Bank accounts redirected (precursor to subsequent events)  ",
+      "significance": "Beginning of systematic control consolidation  "
+    },
+    {
+      "date": "May 15, 2025",
+      "event": "**CRITICAL EVENT** - Jax confronts Rynette about missing money, notifies that funds need to be paid to ReZonance & Kayla's estate  ",
+      "significance": "Confrontation triggers coordinated cover-up activities  "
+    },
+    {
+      "date": "May 22, 2025",
+      "event": "**CRITICAL EVENT** - Disappearance of all orders & audit trails from Shopify  ",
+      "significance": "Systematic destruction of digital evidence (7 days after confrontation)  "
+    },
+    {
+      "date": "May 29, 2025",
+      "event": "**CRITICAL EVENT** - Adderory (Rynette's son) purchases domain regimaskin.co.za  ",
+      "significance": "Digital infrastructure control consolidation (14 days after confrontation)  "
+    },
+    {
+      "date": "June 7, 2025",
+      "event": "**CRITICAL EVENT** - Cards cancelled secretly  ",
+      "significance": "Financial control consolidation (23 days after confrontation)  "
+    },
+    {
+      "date": "July 2, 2025",
+      "event": "CIPC Warning - Annual return reminder for Unicorn Dynamics  ",
+      "significance": "Regulatory compliance issues emerge  "
+    },
+    {
+      "date": "July 7, 2025",
+      "event": "Daniel Faucitt clarifies company status and payment disputes  ",
+      "significance": "Attempt to manage regulatory and financial disputes  "
+    }
+  ],
+  "entity_updates_extracted": 1,
+  "entity_updates": [
+    {
+      "title": "Summary\n\nThis document updates entity profiles and relationships based on the trustee appointment letter and August 2025 email evidence package. The new evidence reveals **The Faucitt Family Trust** as a critical asset protection vehicle, documents **Rynette's role as information gatekeeper to Bantjies**, and exposes **Bantjies' false impartiality** claims despite coordinating with Peter/Rynette.\n\n---\n\n## New Entity: The Faucitt Family Trust",
+      "content": "The Faucitt Family Trust emerges as a critical component of Peter's asset protection and control strategy. Established with registration number IT 3651/2013 and tax number 9132219271, the trust serves as a legal vehicle for consolidating control over business assets while creating barriers to claims from Dan and Jax.\n\nThe trustee appointment letter reveals a **41-day backdating scheme**, with the stated appointment date of July\n"
+    }
+  ],
+  "key_events_extracted": 0,
+  "key_events": [],
+  "key_files_found": [
+    "/home/ubuntu/ad-res-j7/COMPREHENSIVE_EVIDENCE_INDEX.json",
+    "/home/ubuntu/ad-res-j7/KEY_EVENTS_TIMELINE_MARCH_AUGUST_2025.md",
+    "/home/ubuntu/ad-res-j7/backups/pre-consolidation/jax-response/AD/1-Critical/FINANCIAL_HYPERGRAPH_TIMELINE_LINKS.md",
+    "/home/ubuntu/ad-res-j7/UPDATED_DRAFTS/MASTER_CONSPIRACY_TIMELINE_2021_2025.md",
+    "/home/ubuntu/ad-res-j7/jax-response/AD/1-Critical/FINANCIAL_HYPERGRAPH_TIMELINE_LINKS.md"
+  ],
+  "recommendations": {
+    "new_events_to_add": [],
+    "entities_to_update": [],
+    "relations_to_add": []
+  }
+}
