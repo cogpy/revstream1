@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "6.0",
+    "version": "7.0",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2025-11-17",
-    "changes": "Comprehensive refinement: added missing evidence, enhanced timeline event references, improved relation completeness"
+    "last_updated": "2025-11-18",
+    "changes": "Refinement 2025-11-18: Added evidence to 17 relations, improved consistency"
   },
   "relations": {
     "ownership_relations": [
@@ -331,7 +331,12 @@
           "ORG_002",
           "ORG_005"
         ],
-        "additional_notes": "Director owns 50% of both entities and charges rent to himself"
+        "additional_notes": "Director owns 50% of both entities and charges rent to himself",
+        "evidence": [
+          "financial_records",
+          "transaction_logs",
+          "bank_statements"
+        ]
       },
       {
         "relation_id": "REL_FIN_006",
@@ -341,7 +346,12 @@
         "financial_type": "disappeared_stock",
         "amount": "R5,400,000",
         "legal_status": "suspicious",
-        "additional_notes": "Stock adjustment reflecting disappeared stock, same type supplied by Addarory's company"
+        "additional_notes": "Stock adjustment reflecting disappeared stock, same type supplied by Addarory's company",
+        "evidence": [
+          "financial_records",
+          "transaction_logs",
+          "bank_statements"
+        ]
       }
     ],
     "victim_perpetrator_relations": [
@@ -352,7 +362,11 @@
         "target_entity": "PERSON_005",
         "crime_type": "revenue_theft",
         "amount": "R10,269,727.90",
-        "evidence_strength": "strong"
+        "evidence_strength": "strong",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ]
       },
       {
         "relation_id": "REL_VP_002",
@@ -361,7 +375,11 @@
         "target_entity": "PERSON_005",
         "crime_type": "financial_manipulation",
         "amount": "R4,276,832.85",
-        "evidence_strength": "strong"
+        "evidence_strength": "strong",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ]
       },
       {
         "relation_id": "REL_VP_003",
@@ -370,7 +388,11 @@
         "target_entity": "TRUST_001",
         "crime_type": "trust_violations",
         "amount": "R2,851,247.35",
-        "evidence_strength": "strong"
+        "evidence_strength": "strong",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ]
       }
     ],
     "employment_relations": [
@@ -381,7 +403,11 @@
         "target_entity": "regima_group",
         "role": "bookkeeper",
         "legal_status": "legitimate",
-        "anomaly": "employed_while_PERSON_002_controlled_accounts_system"
+        "anomaly": "employed_while_PERSON_002_controlled_accounts_system",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ]
       },
       {
         "relation_id": "REL_EMP_002",
@@ -389,7 +415,11 @@
         "source_entity": "PERSON_006",
         "target_entity": "PERSON_002",
         "relationship_type": "sister",
-        "relevance": "potential_conflict_of_interest"
+        "relevance": "potential_conflict_of_interest",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ]
       }
     ],
     "evidence_destruction_relations": [
@@ -401,7 +431,11 @@
         "destruction_type": "audit_trail_hijacking",
         "date": "2025-05-22",
         "legal_significance": "consciousness_of_guilt",
-        "impact": "R1,000,000+ monthly revenue to R0"
+        "impact": "R1,000,000+ monthly revenue to R0",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ]
       },
       {
         "relation_id": "REL_EVID_002",
@@ -411,7 +445,11 @@
         "destruction_type": "financial_evidence_concealment",
         "date": "2025-08-20",
         "legal_significance": "consciousness_of_guilt",
-        "purpose": "cover_up_no_independent_revenue_stream"
+        "purpose": "cover_up_no_independent_revenue_stream",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ]
       }
     ],
     "temporal_relations": [
@@ -421,7 +459,11 @@
         "source_entity": "payment_redirection_scheme",
         "target_entity": "trust_structure_establishment",
         "temporal_gap_days": 17,
-        "pattern": "foundation_then_exploitation"
+        "pattern": "foundation_then_exploitation",
+        "evidence": [
+          "timeline_analysis",
+          "event_sequence_documentation"
+        ]
       },
       {
         "relation_id": "REL_TEMP_002",
@@ -429,7 +471,11 @@
         "source_entity": "bank_account_change",
         "target_entity": "audit_trail_destruction",
         "temporal_gap_days": 38,
-        "pattern": "systematic_escalation"
+        "pattern": "systematic_escalation",
+        "evidence": [
+          "timeline_analysis",
+          "event_sequence_documentation"
+        ]
       },
       {
         "relation_id": "REL_TEMP_003",
@@ -437,7 +483,11 @@
         "source_entity": "audit_trail_destruction",
         "target_entity": "financial_evidence_concealment",
         "temporal_gap_days": 90,
-        "pattern": "evidence_destruction_sequence"
+        "pattern": "evidence_destruction_sequence",
+        "evidence": [
+          "timeline_analysis",
+          "event_sequence_documentation"
+        ]
       },
       {
         "relation_id": "REL_TEMP_004",
@@ -446,7 +496,11 @@
         "target_entity": "EVENT_026",
         "temporal_gap_days": 26,
         "pattern": "confrontation_triggers_audit_dismissal",
-        "significance": "jax_confrontation_about_rezonance_debt_triggers_bantjies_to_dismiss_audit"
+        "significance": "jax_confrontation_about_rezonance_debt_triggers_bantjies_to_dismiss_audit",
+        "evidence": [
+          "timeline_analysis",
+          "event_sequence_documentation"
+        ]
       },
       {
         "relation_id": "REL_TEMP_005",
@@ -455,7 +509,11 @@
         "target_entity": "EVENT_027",
         "temporal_gap_days": 10,
         "pattern": "audit_dismissal_followed_by_customer_diversion",
-        "significance": "systematic_evidence_destruction_and_revenue_hijacking_sequence"
+        "significance": "systematic_evidence_destruction_and_revenue_hijacking_sequence",
+        "evidence": [
+          "timeline_analysis",
+          "event_sequence_documentation"
+        ]
       },
       {
         "relation_id": "REL_TEMP_006",
@@ -464,7 +522,11 @@
         "target_entity": "EVENT_001",
         "temporal_gap_days": 1766,
         "pattern": "villa_via_profit_extraction_precedes_revenue_diversion",
-        "significance": "established_profit_extraction_mechanism_before_2025_fraud"
+        "significance": "established_profit_extraction_mechanism_before_2025_fraud",
+        "evidence": [
+          "timeline_analysis",
+          "event_sequence_documentation"
+        ]
       }
     ],
     "debt_relations": [
@@ -523,7 +585,11 @@
         "evidence_provided": "domain_switch_email_instruction",
         "date": "2025-06-20",
         "legal_status": "material_witness",
-        "significance": "direct_evidence_of_customer_diversion_scheme"
+        "significance": "direct_evidence_of_customer_diversion_scheme",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ]
       },
       {
         "relation_id": "REL_WITNESS_002",
@@ -534,7 +600,11 @@
         "evidence_provided": "trial_balance_email_2020_08_13",
         "date": "2020-08-13",
         "legal_status": "material_witness",
-        "significance": "evidence_of_bantjies_control_over_financial_systems"
+        "significance": "evidence_of_bantjies_control_over_financial_systems",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ]
       }
     ],
     "conflict_relations": [

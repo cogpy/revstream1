@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": "7.0",
+    "version": "8.0",
     "created_date": "2025-11-10",
     "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
@@ -8,8 +8,8 @@
     "period_end": "2025-09-11",
     "duration_days": 194,
     "total_events": 62,
-    "last_updated": "2025-11-17",
-    "changes": "Comprehensive refinement: improved event distribution across phases, enhanced phase analysis with cross-referenced evidence"
+    "last_updated": "2025-11-18",
+    "changes": "Refinement 2025-11-18: Verified event-phase consistency, updated event counts"
   },
   "timeline_phases": {
     "phase_1_foundation": {
@@ -247,13 +247,6 @@
         "EVENT_H008",
         "EVENT_H009",
         "EVENT_H010",
-        "EVENT_H011",
-        "EVENT_H012",
-        "EVENT_H013",
-        "EVENT_H014",
-        "EVENT_H015",
-        "EVENT_H016",
-        "EVENT_H017",
         "EVENT_H018"
       ],
       "primary_objectives": [
@@ -276,7 +269,7 @@
       "financial_impact": "R25,106,584.89+ (Villa Via R22.8M + inter-company R2.3M+)",
       "legal_significance": "foundation_for_systematic_fraud_infrastructure",
       "pattern_analysis": "Establishment of complex inter-company structures enabling later fraud, Villa Via profit extraction mechanism, Bantjies control over financial systems",
-      "event_count": 22
+      "event_count": 15
     },
     "phase_0_5_debt_accumulation": {
       "phase_id": "PHASE_005",

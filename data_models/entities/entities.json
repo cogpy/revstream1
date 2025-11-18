@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "8.0",
+    "version": "9.0",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2025-11-17",
-    "changes": "Comprehensive refinement: added missing timeline events to key entities, enhanced cross-references with ad-res-j7 evidence"
+    "last_updated": "2025-11-18",
+    "changes": "Refinement 2025-11-18: Added missing relationships, fixed entity-event inconsistencies, enhanced cross-references"
   },
   "entities": {
     "persons": [
@@ -737,7 +737,13 @@
           "debtor": "PERSON_007"
         },
         "legal_significance": "trust_structure_manipulation_and_beneficiary_attack",
-        "additional_notes": "Bantjies is unknown trustee with R18.685M debt to trust, creating massive conflict of interest"
+        "additional_notes": "Bantjies is unknown trustee with R18.685M debt to trust, creating massive conflict of interest",
+        "relationships": [
+          "trustee_PERSON_001",
+          "beneficiary_PERSON_004",
+          "beneficiary_PERSON_005",
+          "asset_holder_for_regima_group"
+        ]
       }
     ],
     "bank_accounts": [
@@ -750,7 +756,12 @@
         "role": "allegedly_fraudulently_opened",
         "controlled_by": "PERSON_002",
         "additional_notes": "One of 8 ABSA accounts allegedly opened by Rynette using Daniel's stolen card",
-        "account_description": "Multiple fraudulently opened accounts"
+        "account_description": "Multiple fraudulently opened accounts",
+        "relationships": [
+          "controlled_by_PERSON_002",
+          "used_for_payment_redirection",
+          "linked_to_fraud_scheme"
+        ]
       }
     ]
   }

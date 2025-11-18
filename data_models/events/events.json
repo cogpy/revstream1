@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "8.0",
+    "version": "9.0",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 62,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2025-11-17",
-    "changes": "Comprehensive refinement: improved phase assignments, added missing perpetrators, enhanced timeline coherence"
+    "last_updated": "2025-11-18",
+    "changes": "Refinement 2025-11-18: Enhanced with forensic events data from ad-res-j7, added Shopify connections, improved evidence references"
   },
   "events": [
     {
@@ -710,7 +710,8 @@
         "beneficiary_records"
       ],
       "pattern": "foundation_phase",
-      "timeline_phase": "PHASE_001"
+      "timeline_phase": "PHASE_001",
+      "crime_type": "Fraudulent trust establishment, fiduciary duty violations"
     },
     {
       "event_id": "EVENT_025",
@@ -737,7 +738,8 @@
         "lack_of_investigation_documentation"
       ],
       "pattern": "foundation_phase",
-      "timeline_phase": "PHASE_001"
+      "timeline_phase": "PHASE_001",
+      "crime_type": "Fraudulent trust establishment, fiduciary duty violations"
     },
     {
       "event_id": "EVENT_003",
@@ -796,7 +798,13 @@
       ],
       "shopify_related": true,
       "pattern": "initial_theft_phase",
-      "timeline_phase": "PHASE_002"
+      "timeline_phase": "PHASE_002",
+      "shopify_connection": {
+        "connected": true,
+        "note": "Payments redirected from platform owned and paid for by RegimA Zone Ltd (UK)",
+        "revelation": "Customer payments were for sales on a Shopify platform continuously funded by Dan's UK company, not RWD ZA"
+      },
+      "crime_type": "Payment fraud, unauthorized fund redirection"
     },
     {
       "event_id": "EVENT_005",
@@ -824,7 +832,13 @@
       ],
       "shopify_related": true,
       "pattern": "initial_theft_phase",
-      "timeline_phase": "PHASE_002"
+      "timeline_phase": "PHASE_002",
+      "shopify_connection": {
+        "connected": true,
+        "note": "Bank changes targeted revenue from Shopify platform paid by Dan's UK company",
+        "revelation": "Attempted to redirect payments for sales on infrastructure owned and paid by RegimA Zone Ltd"
+      },
+      "crime_type": "Fraudulent redirection of funds, theft by conversion"
     },
     {
       "event_id": "EVENT_029",
@@ -926,7 +940,8 @@
         "beneficiary_correspondence"
       ],
       "pattern": "escalation_phase",
-      "timeline_phase": "PHASE_003"
+      "timeline_phase": "PHASE_003",
+      "crime_type": "Trust deed violations, unauthorized beneficiary amendments"
     },
     {
       "event_id": "EVENT_007",
@@ -954,7 +969,13 @@
       ],
       "pattern": "escalation_phase",
       "additional_notes": "Debt is actually misallocated payments in accounts, not true debt",
-      "timeline_phase": "PHASE_003"
+      "timeline_phase": "PHASE_003",
+      "shopify_connection": {
+        "connected": true,
+        "note": "Transfers included revenue from Shopify platform funded by RegimA Zone Ltd",
+        "revelation": "R850K+ transferred included revenue from platform paid by Dan's UK company over 28 months"
+      },
+      "crime_type": "Unauthorized fund transfers, breach of fiduciary duty"
     },
     {
       "event_id": "EVENT_008",
@@ -982,7 +1003,13 @@
       ],
       "shopify_related": true,
       "pattern": "escalation_phase",
-      "timeline_phase": "PHASE_003"
+      "timeline_phase": "PHASE_003",
+      "shopify_connection": {
+        "connected": true,
+        "note": "Transfers included revenue from Shopify platform funded by RegimA Zone Ltd",
+        "revelation": "R850K+ transferred included revenue from platform paid by Dan's UK company over 28 months"
+      },
+      "crime_type": "Unauthorized fund transfers, breach of fiduciary duty"
     },
     {
       "event_id": "EVENT_050",
@@ -1005,7 +1032,13 @@
       "additional_notes": "Critical trigger event - Jax notifies Rynette that funds need to be paid to ReZonance and Kayla's estate, triggering coordinated cover-up activities within days",
       "perpetrators": [
         "PERSON_004"
-      ]
+      ],
+      "shopify_connection": {
+        "connected": true,
+        "note": "Transfers included revenue from Shopify platform funded by RegimA Zone Ltd",
+        "revelation": "R850K+ transferred included revenue from platform paid by Dan's UK company over 28 months"
+      },
+      "crime_type": "Unauthorized fund transfers, breach of fiduciary duty"
     },
     {
       "event_id": "EVENT_009",
@@ -1035,7 +1068,13 @@
       "shopify_related": true,
       "pattern": "escalation_phase",
       "critical": true,
-      "timeline_phase": "PHASE_003"
+      "timeline_phase": "PHASE_003",
+      "shopify_connection": {
+        "connected": true,
+        "note": "CRITICAL: Audit trail destroyed for platform continuously paid by Dan & Jax UK company (RegimA Zone Ltd) - evidence that RWD ZA has no independent revenue stream",
+        "revelation": "Destruction of audit trails for platform owned, paid for, and operated by RegimA Zone Ltd (UK) since July 2023, proving RWD ZA generated no independent revenue"
+      },
+      "crime_type": "Evidence destruction, computer fraud, business sabotage"
     },
     {
       "event_id": "EVENT_010",
@@ -1063,7 +1102,13 @@
       ],
       "shopify_related": true,
       "pattern": "escalation_phase",
-      "timeline_phase": "PHASE_003"
+      "timeline_phase": "PHASE_003",
+      "shopify_connection": {
+        "connected": true,
+        "note": "Domain registered to impersonate platform owned by RegimA Zone Ltd (UK)",
+        "revelation": "Identity fraud to impersonate legitimate business operating on Dan's UK-funded infrastructure"
+      },
+      "crime_type": "Identity fraud, family criminal conspiracy"
     },
     {
       "event_id": "EVENT_011",
@@ -1267,7 +1312,8 @@
         "conflict_of_interest_documentation"
       ],
       "pattern": "consolidation_phase",
-      "timeline_phase": "PHASE_004"
+      "timeline_phase": "PHASE_004",
+      "crime_type": "Fiduciary duty breach, trust asset mismanagement"
     },
     {
       "event_id": "EVENT_014",
@@ -1296,7 +1342,13 @@
       ],
       "shopify_related": true,
       "pattern": "consolidation_phase",
-      "timeline_phase": "PHASE_004"
+      "timeline_phase": "PHASE_004",
+      "shopify_connection": {
+        "connected": true,
+        "note": "Email control used to issue directives about platform paid by RegimA Zone Ltd",
+        "revelation": "Email impersonation facilitated fraud related to Shopify platform Dan's UK company had been paying for since July 2023"
+      },
+      "crime_type": "Email hijacking, identity theft, business impersonation, computer fraud"
     },
     {
       "event_id": "EVENT_027",
@@ -1326,7 +1378,13 @@
       "pattern": "consolidation_phase",
       "critical": true,
       "additional_notes": "Gee explained to Jax in August about this instruction, direct witness to coordinated customer diversion",
-      "timeline_phase": "PHASE_004"
+      "timeline_phase": "PHASE_004",
+      "shopify_connection": {
+        "connected": true,
+        "note": "Email control used to issue directives about platform paid by RegimA Zone Ltd",
+        "revelation": "Email impersonation facilitated fraud related to Shopify platform Dan's UK company had been paying for since July 2023"
+      },
+      "crime_type": "Email hijacking, identity theft, business impersonation, computer fraud"
     },
     {
       "event_id": "EVENT_015",
@@ -1356,7 +1414,13 @@
       ],
       "shopify_related": true,
       "pattern": "consolidation_phase",
-      "timeline_phase": "PHASE_004"
+      "timeline_phase": "PHASE_004",
+      "shopify_connection": {
+        "connected": true,
+        "note": "Diverted funds from Shopify sales on platform owned by Dan's UK entity",
+        "revelation": "Fund diversions targeted revenue generated on infrastructure continuously funded by RegimA Zone Ltd"
+      },
+      "crime_type": "Systematic fund diversion, money laundering indicators"
     },
     {
       "event_id": "EVENT_016",
@@ -1385,7 +1449,13 @@
       ],
       "shopify_related": true,
       "pattern": "control_seizure_phase",
-      "timeline_phase": "PHASE_005"
+      "timeline_phase": "PHASE_005",
+      "shopify_connection": {
+        "connected": true,
+        "note": "Shutdown of operations for platform continuously funded by RegimA Zone Ltd (28 months)",
+        "revelation": "Business sabotage of operations running on platform paid by Dan & Jax UK company since July 2023"
+      },
+      "crime_type": "Business sabotage, POPI violations, employee endangerment"
     },
     {
       "event_id": "EVENT_017",
@@ -1413,7 +1483,13 @@
       ],
       "shopify_related": true,
       "pattern": "control_seizure_phase",
-      "timeline_phase": "PHASE_005"
+      "timeline_phase": "PHASE_005",
+      "shopify_connection": {
+        "connected": true,
+        "note": "Control seized over accounts receiving Shopify revenue from Dan's UK-paid platform",
+        "revelation": "Seized control of accounts receiving revenue from Shopify platform owned and funded by RegimA Zone Ltd"
+      },
+      "crime_type": "Bank account manipulation, unauthorized control seizure"
     },
     {
       "event_id": "EVENT_018",
@@ -1440,7 +1516,8 @@
         "trust_property_documentation"
       ],
       "pattern": "control_seizure_phase",
-      "timeline_phase": "PHASE_005"
+      "timeline_phase": "PHASE_005",
+      "crime_type": "Trust asset theft, breach of fiduciary duty"
     },
     {
       "event_id": "EVENT_019",
@@ -1466,7 +1543,8 @@
         "ongoing_breach_records"
       ],
       "pattern": "cover_up_phase",
-      "timeline_phase": "PHASE_006"
+      "timeline_phase": "PHASE_006",
+      "crime_type": "Continuing trust violations, evidence concealment"
     },
     {
       "event_id": "EVENT_059",
@@ -1591,7 +1669,13 @@
       "shopify_related": true,
       "pattern": "cover_up_phase",
       "critical": true,
-      "timeline_phase": "PHASE_006"
+      "timeline_phase": "PHASE_006",
+      "shopify_connection": {
+        "connected": true,
+        "note": "Concealment of evidence showing Shopify platform paid by RegimA Zone Ltd, not RWD ZA",
+        "revelation": "Cover-up attempt to conceal fact that RWD ZA has no independent revenue stream - all revenue from Dan's UK-funded Shopify platform"
+      },
+      "crime_type": "Evidence destruction, financial record manipulation"
     },
     {
       "event_id": "EVENT_061",
