@@ -1,0 +1,30 @@
+%%{init: {"theme":"base", "themeVariables": { "primaryColor":"#ff6b6b", "primaryTextColor":"#fff", "primaryBorderColor":"#c92a2a", "lineColor":"#495057", "secondaryColor":"#f8f9fa", "tertiaryColor":"#fff"}}}%%
+graph TD
+    subgraph "The False Foundation"
+        A["<b>Proven Falsehood</b><br><i>Peter's Speculation:</i><br>Jacqueline gave Daniel R500k as a birthday gift"]:::falsehood
+    end
+
+    subgraph "The Cascade of Consequences"
+        B["<b>Bank Account Freezes</b><br><i>Financial Strangulation</i><br>Cruel, Inhuman, Degrading Treatment"]:::violation
+        C["<b>CEO Removal</b><br><i>33 Years of Work Destroyed</i><br>Unlawful Deprivation of Property"]:::violation
+        D["<b>Forced Medical Experiments</b><br><i>Bodily Autonomy Violation</i><br>Torture & Assault"]:::violation
+        E["<b>Communication Bans</b><br><i>Isolation from Own Business</i><br>Unlawful Restraint of Trade"]:::violation
+        F["<b>Weaponization of Suffering</b><br><i>Protracted Torture</i><br>Gaslighting & Psychological Abuse"]:::violation
+    end
+
+    subgraph "The Legal System as a Weapon"
+        G["<b>Ex Parte Interdict</b><br><i>August 13, 2025</i><br>Court misled by false claim"]:::legal
+        H["<b>3rd Urgent Application</b><br><i>November 4, 2025</i><br>Jacqueline's suffering used as 'evidence' of harassment"]:::legal
+    end
+
+    A -- "Justified by" --> G
+    G -- "Led to" --> B
+    B -- "Led to" --> C
+    C -- "Led to" --> D
+    D -- "Led to" --> E
+    E -- "Led to" --> H
+    H -- "Perpetuates" --> F
+
+    classDef falsehood fill:#ffe3e3,stroke:#c92a2a,stroke-width:2px,color:#c92a2a
+    classDef violation fill:#fff9db,stroke:#fcc419,stroke-width:2px,color:#c92a2a
+    classDef legal fill:#e7f5ff,stroke:#339af0,stroke-width:2px,color:#1864ab
