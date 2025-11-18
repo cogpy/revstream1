@@ -1,0 +1,600 @@
+{
+  "metadata": {
+    "created": "2025-11-18T13:07:04.811933",
+    "case_id": "2025-137857",
+    "framework_version": "1.0"
+  },
+  "legal_theories": {
+    "THEORY_001": {
+      "id": "THEORY_001",
+      "name": "Abuse of Ex Parte Procedure",
+      "legal_foundation": [
+        "Schlesinger v Schlesinger 1979 (4) SA 342 (W)",
+        "NDPP v Basson",
+        "Powell v Van der Merwe",
+        "Uniform Rule 6(4)"
+      ],
+      "elements": [
+        "Duty of utmost good faith (uberrima fides)",
+        "Material non-disclosure",
+        "Suppression of adverse facts",
+        "Facts discoverable with minimal diligence"
+      ],
+      "narrative_omissions": [
+        "Actual control structure (Bantjies financial control)",
+        "Jacqui reacting to debt owed to Kayla's estate",
+        "Retaliation chronology (card cancellations, sabotage)",
+        "UK \u2192 SA payment flows (not SA \u2192 UK)",
+        "Revenues outweighed IT expenses",
+        "Daniel's role in UK compliance, logistics, operations"
+      ]
+    },
+    "THEORY_002": {
+      "id": "THEORY_002",
+      "name": "Retaliatory Motive (Malice)",
+      "legal_foundation": [
+        "Beinash v Wixley 1997 (3) SA 721 (SCA)",
+        "Phillips v Botha",
+        "Abuse of process doctrine",
+        "Interim interdict requirements"
+      ],
+      "elements": [
+        "Litigation for ulterior purpose",
+        "Temporal proximity as evidence",
+        "Chronological inference of malice",
+        "Retaliation not bona fide corporate protection"
+      ],
+      "temporal_patterns": [
+        {
+          "trigger": "Confrontation re debt",
+          "response": "Data wiped",
+          "days_later": 5
+        },
+        {
+          "trigger": "Daniel's fraud report",
+          "response": "Cards cancelled",
+          "days_later": 1
+        },
+        {
+          "trigger": "Exposing Villa Via",
+          "response": "Audit blocked",
+          "days_later": 5
+        },
+        {
+          "trigger": "Signing Main Trustee document",
+          "response": "Interdict launched",
+          "days_later": 2
+        }
+      ]
+    },
+    "THEORY_003": {
+      "id": "THEORY_003",
+      "name": "Corporate Misconduct (Companies Act)",
+      "legal_foundation": [
+        "Companies Act s 76(3) - Duty to act with care, good faith, proper purpose",
+        "Companies Act s 162 - Delinquency of directors"
+      ],
+      "elements": [
+        "Duty to act with care",
+        "Duty to act in good faith",
+        "Duty to act for proper purpose",
+        "Duty to act in best interests of company",
+        "Gross abuse",
+        "Dishonesty",
+        "Wilful misconduct"
+      ],
+      "misconduct_types": [
+        "Sabotage",
+        "Unauthorised payments",
+        "Asset dissipation",
+        "Operational destruction",
+        "Misrepresentations in affidavits"
+      ]
+    },
+    "THEORY_004": {
+      "id": "THEORY_004",
+      "name": "Trustee Misconduct (Trust Property Control Act)",
+      "legal_foundation": [
+        "Trust Property Control Act",
+        "Common law fiduciary duties"
+      ],
+      "elements": [
+        "Utmost good faith",
+        "Duty to avoid conflicts",
+        "Duty to act impartially",
+        "Duty to account",
+        "Duty not to profit improperly",
+        "Duty to preserve trust assets",
+        "Duty to disclose material facts"
+      ],
+      "misconduct_types": [
+        "Trustee deception",
+        "Hidden trustee roles",
+        "Debts owed to trust",
+        "Actions harming beneficiaries",
+        "Retaliation against accountability demands"
+      ]
+    }
+  },
+  "theory_event_mapping": {
+    "THEORY_001": [
+      "EVENT_H004",
+      "EVENT_017",
+      "EVENT_049"
+    ],
+    "THEORY_002": [
+      "EVENT_055",
+      "EVENT_056",
+      "EVENT_009",
+      "EVENT_010",
+      "EVENT_012",
+      "EVENT_016",
+      "EVENT_020",
+      "EVENT_021"
+    ],
+    "THEORY_003": [
+      "EVENT_022",
+      "EVENT_008"
+    ],
+    "THEORY_004": [
+      "EVENT_002",
+      "EVENT_006",
+      "EVENT_026",
+      "EVENT_013",
+      "EVENT_018",
+      "EVENT_019"
+    ]
+  },
+  "juristic_timeline_matrix": [
+    {
+      "event_id": "EVENT_H004",
+      "date": "2019-05-01",
+      "event_type": "financial_year_start",
+      "description": "Villa Via operates on different financial year, creating complexity in group reporting and enabling profit extraction concealment",
+      "financial_impact": "unknown",
+      "crime_type": null,
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_001",
+          "theory_name": "Abuse of Ex Parte Procedure"
+        }
+      ],
+      "evidence_references": [
+        "VV-TRIALBALANCEAPR20202.xlsx"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_022",
+      "date": "2025-02-14",
+      "event_type": "unauthorized_transfer",
+      "description": "Peter made unauthorized transfers of R900,000 from RegimA SA without Daniel's authority as co-director",
+      "financial_impact": "R900,000",
+      "crime_type": null,
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_003",
+          "theory_name": "Corporate Misconduct (Companies Act)"
+        }
+      ],
+      "evidence_references": [
+        "bank_transfer_records",
+        "authorization_absence"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_002",
+      "date": "2025-03-15",
+      "event_type": "trust_manipulation",
+      "description": "Foundation for R2.85M+ trust violations established through trust structure manipulation",
+      "financial_impact": "R2,851,247.35",
+      "crime_type": "Fraudulent trust establishment, fiduciary duty violations",
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_004",
+          "theory_name": "Trustee Misconduct (Trust Property Control Act)"
+        }
+      ],
+      "evidence_references": [
+        "trust_documentation",
+        "beneficiary_records"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_055",
+      "date": "2025-04-22",
+      "event_type": "infrastructure_control_seizure",
+      "description": "Peter instructs removal of all cloud IT systems, systematic dismantling of cloud-based infrastructure as preparation for evidence destruction",
+      "financial_impact": "unknown_amount",
+      "crime_type": null,
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_002",
+          "theory_name": "Retaliatory Motive (Malice)"
+        }
+      ],
+      "evidence_references": [
+        "it_system_removal_instruction"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_056",
+      "date": "2025-04-30",
+      "event_type": "physical_evidence_removal",
+      "description": "Physical server hardware disappears from office premises, potential evidence destruction or data harvesting in preparation for subsequent financial crimes",
+      "financial_impact": null,
+      "crime_type": null,
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_002",
+          "theory_name": "Retaliatory Motive (Malice)"
+        }
+      ],
+      "evidence_references": [
+        "office_inventory_records"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_006",
+      "date": "2025-05-02",
+      "event_type": "beneficiary_manipulation",
+      "description": "Exclusion of legitimate beneficiaries. Direct violation of trust obligations and beneficiary rights",
+      "financial_impact": "unknown_amount",
+      "crime_type": "Trust deed violations, unauthorized beneficiary amendments",
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_004",
+          "theory_name": "Trustee Misconduct (Trust Property Control Act)"
+        }
+      ],
+      "evidence_references": [
+        "trust_amendment_documents",
+        "beneficiary_correspondence"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_008",
+      "date": "2025-05-15",
+      "event_type": "unauthorized_transfer",
+      "description": "R850,000+ unauthorized transfers. Direct evidence of financial authority abuse and theft. R850K+ included revenue from platform paid by UK company (28 months)",
+      "financial_impact": "R850,000",
+      "crime_type": "Unauthorized fund transfers, breach of fiduciary duty",
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_003",
+          "theory_name": "Corporate Misconduct (Companies Act)"
+        }
+      ],
+      "evidence_references": [
+        "bank_transfer_records",
+        "authorization_logs"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_009",
+      "date": "2025-05-22",
+      "event_type": "evidence_destruction",
+      "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
+      "financial_impact": "R1,000,000+ monthly",
+      "crime_type": "Evidence destruction, computer fraud, business sabotage",
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_002",
+          "theory_name": "Retaliatory Motive (Malice)"
+        }
+      ],
+      "evidence_references": [
+        "platform_access_logs",
+        "audit_trail_records",
+        "business_shutdown_documentation"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_010",
+      "date": "2025-05-29",
+      "event_type": "identity_fraud",
+      "description": "Customer hijacking platform. Family conspiracy escalation and digital impersonation. Domain registered to impersonate business on Dan's UK-funded platform. New domain regimaskin.co.za registered by Adderory (Rynette's son's company) following Shopify shutdown.",
+      "financial_impact": "unknown_amount",
+      "crime_type": "Identity fraud, family criminal conspiracy",
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_002",
+          "theory_name": "Retaliatory Motive (Malice)"
+        }
+      ],
+      "evidence_references": [
+        "domain_registration_records",
+        "whois_data"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_012",
+      "date": "2025-06-07",
+      "event_type": "payment_sabotage",
+      "description": "Secret cancellation of cards to sabotage Daniel's ability to pay creditors. Rynette may have opened 8 ABSA accounts using Daniel's stolen card.",
+      "financial_impact": "unknown_amount",
+      "crime_type": null,
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_002",
+          "theory_name": "Retaliatory Motive (Malice)"
+        }
+      ],
+      "evidence_references": [
+        "bank_records",
+        "card_cancellation_logs"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_026",
+      "date": "2025-06-10",
+      "event_type": "audit_dismissal",
+      "description": "Bantjies dismisses Daniel's audit request 4 days after fraud exposure (June 6), demonstrating consciousness of guilt and conflict of interest given R18.685M debt to trust",
+      "financial_impact": "R18,685,000",
+      "crime_type": null,
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_004",
+          "theory_name": "Trustee Misconduct (Trust Property Control Act)"
+        }
+      ],
+      "evidence_references": [
+        "audit_request_dismissal_documentation",
+        "bantjies_debt_records"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_013",
+      "date": "2025-06-18",
+      "event_type": "trustee_misconduct",
+      "description": "Trustee misconduct and self-dealing. Clear evidence of trustee misconduct and self-dealing",
+      "financial_impact": "unknown_amount",
+      "crime_type": "Fiduciary duty breach, trust asset mismanagement",
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_004",
+          "theory_name": "Trustee Misconduct (Trust Property Control Act)"
+        }
+      ],
+      "evidence_references": [
+        "trust_transaction_records",
+        "conflict_of_interest_documentation"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_016",
+      "date": "2025-07-08",
+      "event_type": "operational_shutdown",
+      "description": "Complete operational shutdown. Documented evidence of systematic business destruction. Shutdown of operations for platform continuously funded by RegimA Zone Ltd (28 months)",
+      "financial_impact": "unknown_amount",
+      "crime_type": "Business sabotage, POPI violations, employee endangerment",
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_002",
+          "theory_name": "Retaliatory Motive (Malice)"
+        }
+      ],
+      "evidence_references": [
+        "warehouse_records",
+        "popi_violation_documentation"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_017",
+      "date": "2025-07-12",
+      "event_type": "account_control_seizure",
+      "description": "Financial control seizure. Documented evidence of financial system abuse and unauthorized control. Control seized over accounts receiving Shopify revenue from Dan's UK-paid platform",
+      "financial_impact": "unknown_amount",
+      "crime_type": "Bank account manipulation, unauthorized control seizure",
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_001",
+          "theory_name": "Abuse of Ex Parte Procedure"
+        }
+      ],
+      "evidence_references": [
+        "account_access_logs",
+        "control_change_documentation"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_018",
+      "date": "2025-07-25",
+      "event_type": "asset_theft",
+      "description": "Trust property theft. Documented theft of trust property and breach of fiduciary duty",
+      "financial_impact": "unknown_amount",
+      "crime_type": "Trust asset theft, breach of fiduciary duty",
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_004",
+          "theory_name": "Trustee Misconduct (Trust Property Control Act)"
+        }
+      ],
+      "evidence_references": [
+        "asset_transfer_records",
+        "trust_property_documentation"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_019",
+      "date": "2025-08-10",
+      "event_type": "ongoing_violations",
+      "description": "Complete compromise of trust integrity. Systematic evidence of ongoing trust law violations",
+      "financial_impact": "unknown_amount",
+      "crime_type": "Continuing trust violations, evidence concealment",
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_004",
+          "theory_name": "Trustee Misconduct (Trust Property Control Act)"
+        }
+      ],
+      "evidence_references": [
+        "trust_violation_documentation",
+        "ongoing_breach_records"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_049",
+      "date": "2025-08-13",
+      "event_type": "commissioner_of_oaths_misconduct",
+      "description": "Bantjies certifies Peter's affidavit as Commissioner of Oaths despite material omissions",
+      "financial_impact": "unknown",
+      "crime_type": null,
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_001",
+          "theory_name": "Abuse of Ex Parte Procedure"
+        }
+      ],
+      "evidence_references": [],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_026",
+      "date": "2025-08-15",
+      "event_type": "witness_testimony",
+      "description": "Email from Gee to Jax explaining that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email' on June 20, 2025. Confirms customer hijacking scheme.",
+      "financial_impact": "unknown_amount",
+      "crime_type": null,
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_004",
+          "theory_name": "Trustee Misconduct (Trust Property Control Act)"
+        }
+      ],
+      "evidence_references": [
+        "gee_email_to_jax"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_020",
+      "date": "2025-08-20",
+      "event_type": "evidence_concealment",
+      "description": "Cover-up operations demonstrating guilt. Consciousness of guilt through evidence destruction attempts. Cover-up attempt to conceal fact that RWD ZA has no independent revenue stream - all revenue from Dan's UK-funded Shopify platform",
+      "financial_impact": "unknown_amount",
+      "crime_type": "Evidence destruction, financial record manipulation",
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_002",
+          "theory_name": "Retaliatory Motive (Malice)"
+        }
+      ],
+      "evidence_references": [
+        "concealment_documentation",
+        "evidence_destruction_records"
+      ],
+      "involved_entities": []
+    },
+    {
+      "event_id": "EVENT_021",
+      "date": "2025-09-11",
+      "event_type": "account_draining",
+      "description": "Accounts emptied, potentially because Daniel was still managing to pay creditors despite 6 months of sabotage",
+      "financial_impact": "unknown_amount",
+      "crime_type": null,
+      "legal_theories_supported": [
+        {
+          "theory_id": "THEORY_002",
+          "theory_name": "Retaliatory Motive (Malice)"
+        }
+      ],
+      "evidence_references": [
+        "bank_statements",
+        "account_balance_records"
+      ],
+      "involved_entities": []
+    }
+  ],
+  "interim_interdict_test_mapping": {
+    "prima_facie_right": {
+      "element": "Prima facie right",
+      "counter_argument": "Applicant had no operational role; systems controlled by third parties",
+      "supporting_events": [
+        "EVENT_H008",
+        "EVENT_048",
+        "EVENT_H018",
+        "EVENT_H009",
+        "EVENT_024",
+        "EVENT_025",
+        "EVENT_003",
+        "EVENT_029",
+        "EVENT_007",
+        "EVENT_050",
+        "EVENT_010",
+        "EVENT_057",
+        "EVENT_012",
+        "EVENT_023",
+        "EVENT_026",
+        "EVENT_047",
+        "EVENT_058",
+        "EVENT_014",
+        "EVENT_017",
+        "EVENT_049",
+        "EVENT_060"
+      ],
+      "supporting_entities": [],
+      "supporting_relations": []
+    },
+    "irreparable_harm": {
+      "element": "Reasonable apprehension of irreparable harm",
+      "counter_argument": "Harm flowed from applicant's side; applicant manufactured harm",
+      "supporting_events": [],
+      "supporting_entities": [],
+      "supporting_relations": []
+    },
+    "balance_of_convenience": {
+      "element": "Balance of convenience",
+      "counter_argument": "Jacqui is only Responsible Person for EU compliance; interdict caused greater harm",
+      "supporting_events": [
+        "EVENT_001",
+        "EVENT_005",
+        "EVENT_008",
+        "EVENT_009",
+        "EVENT_010",
+        "EVENT_057",
+        "EVENT_015",
+        "EVENT_017",
+        "EVENT_020"
+      ],
+      "supporting_entities": [],
+      "supporting_relations": []
+    },
+    "no_alternative_remedy": {
+      "element": "No adequate alternative remedy",
+      "counter_argument": "Internal remedies available; mediation underway",
+      "supporting_events": [
+        "EVENT_H004",
+        "EVENT_003",
+        "EVENT_009",
+        "EVENT_011",
+        "EVENT_057",
+        "EVENT_058"
+      ],
+      "supporting_entities": [],
+      "supporting_relations": []
+    }
+  },
+  "summary": {
+    "total_legally_significant_events": 20,
+    "theory_001_events": 3,
+    "theory_002_events": 8,
+    "theory_003_events": 2,
+    "theory_004_events": 6
+  }
+}
