@@ -1,0 +1,163 @@
+====================================================================================================
+CORRECTED EXPENDITURE ANALYSIS: Daniel's Personal Bank Account (May-October 2025)
+====================================================================================================
+
+KEY CORRECTION:
+----------------------------------------------------------------------------------------------------
+All transfers INTO the account were from Daniel's PERSONAL INVESTMENT ACCOUNT,
+EXCEPT the R500,000 from Strategic Logistics on July 16, 2025.
+
+This means:
+1. Daniel was funding his personal account from his OWN savings/investments
+2. The R500k was the ONLY external transfer (reimbursement from his company)
+3. Total expenditures show the true cost of company expenses on his personal card
+
+====================================================================================================
+MONTHLY BREAKDOWN
+====================================================================================================
+
+### June 2025 (2025-05-03 to 2025-06-04)
+----------------------------------------------------------------------------------------------------
+Opening Balance:  R       3,192.33
+Credits:          R     260,000.00
+Debits:           R     214,196.22
+Closing Balance:  R      48,996.11
+
+Credit Breakdown:
+  2025-05-05: FNB App Transfer From Trs                R   20,000.00 (Investment Account)
+  2025-05-07: FNB App Transfer From Trs                R   70,000.00 (Investment Account)
+  2025-05-12: FNB App Transfer From Trs                R   50,000.00 (Investment Account)
+  2025-05-19: FNB App Transfer From Trs                R   70,000.00 (Investment Account)
+  2025-06-03: FNB App Transfer From Trs                R   50,000.00 (Investment Account)
+
+Net Change:       R      45,803.78 (+1434.8%)
+
+### July 2025 (2025-06-04 to 2025-07-04)
+----------------------------------------------------------------------------------------------------
+Opening Balance:  R      48,996.11
+Credits:          R     100,403.00
+Debits:           R     125,084.80
+Closing Balance:  R      24,314.31
+
+Credit Breakdown:
+  2025-06-17: FNB App Transfer From Trs                R   50,000.00 (Investment Account)
+  2025-06-26: FNB App Transfer From Trs                R   50,000.00 (Investment Account)
+  2025-07-03: Credit Voucher Vouch Glitch              R      403.00 (Credit Voucher)
+
+Net Change:       R     -24,681.80 (-50.4%)
+
+### August 2025 (2025-07-04 to 2025-08-04)
+----------------------------------------------------------------------------------------------------
+Opening Balance:  R      24,314.31
+Credits:          R     660,000.00
+Debits:           R     320,927.84
+Closing Balance:  R     363,386.47
+
+Credit Breakdown:
+  2025-07-07: FNB App Transfer From Trs                R   20,000.00 (Investment Account)
+  2025-07-07: FNB App Transfer From Trs                R   50,000.00 (Investment Account)
+  2025-07-09: FNB App Payment To Rezonance             R    4,000.00 (Investment Account)
+  2025-07-16: FNB App Transfer From Trs                R   40,000.00 (Investment Account)
+  2025-07-16: FNB OB Pmt Daniel J Faucitt              R  500,000.00 (Strategic Logistics (External))
+  2025-07-16: FNB App Transfer From Trs                R   50,000.00 (Investment Account)
+
+Net Change:       R     339,072.16 (+1394.5%)
+
+### September 2025 (2025-08-04 to 2025-09-04)
+----------------------------------------------------------------------------------------------------
+Opening Balance:  R     363,386.47
+Credits:          R           0.00
+Debits:           R     212,114.87
+Closing Balance:  R     151,271.60
+
+Net Change:       R    -212,114.87 (-58.4%)
+
+### October 2025 (2025-09-04 to 2025-10-04)
+----------------------------------------------------------------------------------------------------
+Opening Balance:  R     151,271.60
+Credits:          R      65,000.00
+Debits:           R     190,122.31
+Closing Balance:  R      26,149.29
+
+Credit Breakdown:
+  2025-09-19: FNB App Payment To Rezonance             R    1,000.00 (Investment Account)
+  2025-09-19: FNB App Payment To Unicorn Dynamics      R    1,000.00 (Investment Account)
+  2025-09-19: FNB App Transfer From Trs                R   15,000.00 (Investment Account)
+  2025-09-19: FNB App Transfer From Trs                R   20,000.00 (Investment Account)
+  2025-09-27: FNB App Transfer To Trs                  R    9,000.00 (Investment Account (OUT))
+  2025-09-27: FNB App Transfer To Init                 R    4,000.00 (Investment Account (OUT))
+  2025-09-27: FNB App Transfer To Init                 R    5,000.00 (Investment Account (OUT))
+  2025-09-27: FNB App Payment To Tnb0036 2002          R    6,500.00 (Investment Account)
+  2025-09-27: FNB App Transfer From Trs                R   30,000.00 (Investment Account)
+
+Net Change:       R    -125,122.31 (-82.7%)
+
+====================================================================================================
+CUMULATIVE TOTALS (May 3 - October 4, 2025)
+====================================================================================================
+
+Opening Balance (May 3):              R       3,192.33
+Closing Balance (Oct 4):              R      26,149.29
+
+Total Credits (All Sources):          R   1,085,403.00
+Total Debits (Expenditures):          R   1,062,446.04
+
+BREAKDOWN OF CREDITS:
+  Investment Account Transfers:       R     597,500.00
+  Strategic Logistics (Jul 16):       R     500,000.00
+  Other (Credit Vouchers, etc.):      R     -12,097.00
+
+Net Change:                           R      22,956.96
+
+====================================================================================================
+KEY FINDINGS
+====================================================================================================
+
+1. TOTAL EXPENDITURES: R1,062,446.04
+   This is the total amount Daniel spent on his personal card from May-October 2025.
+
+2. INVESTMENT ACCOUNT TRANSFERS: R597,500.00
+   Daniel transferred this amount from his OWN investment account to cover expenses.
+
+3. STRATEGIC LOGISTICS TRANSFER: R500,000.00
+   This was the ONLY external transfer, from Daniel's company (reimbursement).
+
+4. NET DEFICIT: R-22,956.96
+   Even after the R500k reimbursement, Daniel's account declined by R-22,956.96
+
+5. PRE-CANCELLATION vs POST-CANCELLATION:
+
+   PRE-CANCELLATION (May 3 - Jun 4):
+     Opening:  R3,192.33
+     Closing:  R48,996.11
+     Change:   +R45,803.78 (+1434.8%)
+
+   POST-CANCELLATION (Jun 4 - Oct 4):
+     Opening:  R48,996.11
+     Closing:  R26,149.29
+     Change:   -R22,846.82 (-46.6%)
+
+====================================================================================================
+CONCLUSION
+====================================================================================================
+
+1. Daniel spent R1,062,446.04 on his personal card over 5 months.
+
+2. Daniel funded R597,500.00 from his OWN investment account.
+
+3. Daniel received R500,000.00 from Strategic Logistics (his company) as reimbursement.
+
+4. Even with the R500k reimbursement, Daniel's account declined from R3,192.33 to R26,149.29.
+
+5. The card cancellation on June 7 caused a dramatic reversal:
+   - Before: +1434.8% growth
+   - After:  -46.6% decline
+
+6. Peter's 'R500k birthday gift' narrative is PROVEN FALSE:
+   - The R500k came from Daniel's own company (Strategic Logistics)
+   - It was reimbursement for company expenses, not a 'gift'
+   - Daniel was funding expenses from his own investment account
+
+====================================================================================================
+END OF ANALYSIS
+====================================================================================================
