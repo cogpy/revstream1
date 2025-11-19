@@ -155,9 +155,9 @@ Jacqueline is the **CEO and co-founder** with 33 years in position. Evidence sho
 **Respondent's Context:**
 What Jacqueline would tell employees:
 1. [Shopify platform owned by Daniel's UK company](Revenue_Stream/02_Hijacking/SHOPIFY_REVENUE_REVELATION_ANALYSIS.md) since July 2023
-2. [RWD ZA has no independent revenue stream](#shopify-evidence)
-3. [Peter and Rynette seized ReZonance payment system](#rezonance-evidence)
-4. [Peter and Rynette took control of Sage accounting](#sage-evidence)
+2. [RWD ZA has no independent revenue stream](evidence-index.html#shopify)
+3. [Peter and Rynette seized ReZonance payment system](evidence/rezonance/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf)
+4. [Peter and Rynette took control of Sage accounting](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf)
 5. [R10.27M in documented fraud](#revenue-hijacking)
 
 **Legal Significance:** Applicant seeks to prevent exposure of his own misconduct by characterizing legitimate CEO communication as "harassment."
@@ -347,7 +347,7 @@ This application represents the **final preparatory step** before curatorship ap
 ### Theory 002: Retaliatory Motive - *Beinash v Wixley*
 
 **Pattern of Sequential Applications:**
-1. [July 8, 2025: POPIA violation notice](#popia-evidence) → Aug 13: Application 1 (36 days)
+1. [July 8, 2025: POPIA violation notice](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf) → Aug 13: Application 1 (36 days)
 2. [Sept 22: Withdrawal from settlement](#) → Oct: Application 2
 3. Sept 30: Undertaking given → Nov 4: Application 3 (35 days)
 
@@ -358,13 +358,13 @@ This application represents the **final preparatory step** before curatorship ap
 ### Theory 003: Suppression of Truth
 
 **What Jacqueline Would Tell Employees:**
-1. [Shopify platform owned by Daniel](#shopify-evidence), not RWD ZA
-2. [RWD ZA has no independent revenue stream](#shopify-evidence)
-3. [ReZonance payment system seized](#rezonance-evidence) by Peter and Rynette
-4. [Sage accounting seized](#sage-evidence) by Peter and Rynette
+1. [Shopify platform owned by Daniel](evidence-index.html#shopify), not RWD ZA
+2. [RWD ZA has no independent revenue stream](evidence-index.html#shopify)
+3. [ReZonance payment system seized](evidence/rezonance/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf) by Peter and Rynette
+4. [Sage accounting seized](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf) by Peter and Rynette
 5. [R10.27M documented fraud](#revenue-hijacking)
-6. [POPIA violations](#popia-evidence) by Peter
-7. [Trademark ownership](#trademark-evidence) misrepresented
+6. [POPIA violations](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf) by Peter
+7. [Trademark ownership](evidence/trademark/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf) misrepresented
 
 **Conclusion:** Application seeks to prevent exposure of applicant's own misconduct.
 
@@ -386,12 +386,12 @@ This application represents the **final preparatory step** before curatorship ap
 
 | Evidence Category | Files | Key Facts | Legal Theories |
 |------------------|-------|-----------|----------------|
-| [Shopify Platform](#shopify-evidence) | Multiple | Owned by Daniel's UK company since July 2023; RWD ZA has no revenue | Theory 003 (Suppression) |
-| [Email/Corporate](#email-evidence) | 4 | Jacqueline's legitimate CEO role, operating structures | Theory 001, 003 |
-| [ReZonance](#rezonance-evidence) | 2 | Payment system seizure by Peter and Rynette | Theory 003 |
-| [Sage](#sage-evidence) | 1 | Accounting system seizure, locked out legitimate directors | Theory 003 |
-| [POPIA](#popia-evidence) | 2 | July 8 violation notice; warehouse violations | Theory 002 (Retaliatory), Theory 003 |
-| [Trademark](#trademark-evidence) | 1 | RegimA Zone owned by Daniel's entities | Theory 003 |
+| [Shopify Platform](evidence-index.html#shopify) | Multiple | Owned by Daniel's UK company since July 2023; RWD ZA has no revenue | Theory 003 (Suppression) |
+| [Email/Corporate](evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf) | 4 | Jacqueline's legitimate CEO role, operating structures | Theory 001, 003 |
+| [ReZonance](evidence/rezonance/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf) | 2 | Payment system seizure by Peter and Rynette | Theory 003 |
+| [Sage](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf) | 1 | Accounting system seizure, locked out legitimate directors | Theory 003 |
+| [POPIA](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf) | 2 | July 8 violation notice; warehouse violations | Theory 002 (Retaliatory), Theory 003 |
+| [Trademark](evidence/trademark/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf) | 1 | RegimA Zone owned by Daniel's entities | Theory 003 |
 | Revenue Hijacking | Multiple | R10.27M documented losses, 15 events | Theory 003, 004 |
 
 ---

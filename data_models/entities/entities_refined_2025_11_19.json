@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "9.0",
+    "version": "9.1",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
     "last_updated": "2025-11-18",
-    "changes": "Refinement 2025-11-18: Added missing relationships, fixed entity-event inconsistencies, enhanced cross-references"
+    "changes": "Refinement 2025-11-18: Added missing evidence references, fixed cross-references, enhanced data quality"
   },
   "entities": {
     "persons": [

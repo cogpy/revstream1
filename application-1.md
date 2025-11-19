@@ -28,7 +28,7 @@ title: Application 1 - Ex Parte Interdict
 This rapid response (48 hours) suggests the application was **pre-planned** and waiting for a trigger event.
 
 ### Key Preceding Event - Retaliatory Motive
-**July 8, 2025:** [POPIA violation notice sent to Peter](evidence-index.html#popia) 📄  
+**July 8, 2025:** [POPIA violation notice sent to Peter](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf) 📄  
 **August 13, 2025:** First interdict filed (**36 days later**)
 
 **Evidence File:** [POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf)
@@ -166,11 +166,11 @@ The accounting evidence from February 2023 (before Kayla's death) shows normal b
 **Standard:** Any misrepresentation in an ex parte application is grounds for rescission.
 
 **Evidence of Material Non-Disclosure:**
-1. [POPIA violation context](#popia-evidence) - Retaliatory motive concealed
-2. [Shopify ownership](#shopify-evidence) - True business structure concealed
-3. [Trustee misconduct](#email-evidence) - Applicant's violations concealed
-4. [Sage control](#sage-evidence) - Already had operational control
-5. [Trademark ownership](#trademark-evidence) - IP rights misrepresented
+1. [POPIA violation context](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf) - Retaliatory motive concealed
+2. [Shopify ownership](evidence-index.html#shopify) - True business structure concealed
+3. [Trustee misconduct](evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf) - Applicant's violations concealed
+4. [Sage control](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf) - Already had operational control
+5. [Trademark ownership](evidence/trademark/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf) - IP rights misrepresented
 
 **Conclusion:** Multiple material facts were concealed from the court, warranting rescission of the ex parte order.
 
@@ -188,20 +188,20 @@ The accounting evidence from February 2023 (before Kayla's death) shows normal b
 ### Theory 003: Corporate Misconduct
 
 **Evidence:**
-1. [Accounting records](#accounting-evidence) showing pre/post disruption
-2. [ReZonance seizure](#rezonance-evidence) 
-3. [Sage control takeover](#sage-evidence)
-4. [CIPC timeline](#cipc-evidence) showing suspicious directorship changes
-5. [Operating entity structures](#email-evidence) concealing true relationships
+1. [Accounting records](evidence/accounting/Rez-WWDBooks2023-02.pdf) showing pre/post disruption
+2. [ReZonance seizure](evidence/rezonance/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf) 
+3. [Sage control takeover](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf)
+4. [CIPC timeline](evidence/cipc/347975701_REGIMA_SA_K201708793507.Pdf) showing suspicious directorship changes
+5. [Operating entity structures](evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf) concealing true relationships
 
 **Conclusion:** Systematic corporate misconduct by applicant, not disclosed to court.
 
 ### Theory 004: Trustee Misconduct
 
 **Evidence:**
-1. [Trustee correspondence](#email-evidence) showing violations
-2. [Operating entity manipulation](#email-evidence)
-3. Financial control seizure ([ReZonance](#rezonance-evidence), [Sage](#sage-evidence))
+1. [Trustee correspondence](evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf) showing violations
+2. [Operating entity manipulation](evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf)
+3. Financial control seizure ([ReZonance](evidence/rezonance/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf), [Sage](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf))
 
 **Conclusion:** Applicant's own trustee misconduct was concealed while seeking relief based on alleged respondent misconduct.
 
@@ -221,7 +221,7 @@ This application was filed at the end of a **6-month campaign** of systematic re
 
 **Critical Events Leading to Application:**
 - **May 22, 2025:** [Shopify audit trail hijacking](Revenue_Stream/02_Hijacking/KEY_EVENTS_TIMELINE_MARCH_AUGUST_2025.md) - R1M+ monthly revenue → R0
-- **July 8, 2025:** [POPIA violation notice](#popia-evidence) triggers retaliatory response
+- **July 8, 2025:** [POPIA violation notice](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf) triggers retaliatory response
 - **August 13, 2025:** Ex parte interdict filed to consolidate control
 
 **Documentation:** See [Revenue Stream Timeline](Revenue_Stream/02_Hijacking/KEY_EVENTS_TIMELINE_MARCH_AUGUST_2025.md) for complete analysis.
@@ -232,13 +232,13 @@ This application was filed at the end of a **6-month campaign** of systematic re
 
 | Evidence Category | Files | Key Facts | Legal Theories |
 |------------------|-------|-----------|----------------|
-| [POPIA](#popia-evidence) | 2 | Violation notice July 8 → Interdict Aug 13 (36 days) | Theory 002 (Retaliatory Motive) |
-| [Email](#email-evidence) | 4 | Trustee correspondence, operating entities, corporate structure | Theory 001, 003, 004 |
-| [ReZonance](#rezonance-evidence) | 2 | Payment system seizure, disruption after Kayla's death | Theory 003, Shell Company Fraud |
-| [Sage](#sage-evidence) | 1 | Accounting system control seizure | Theory 001, 003 |
-| [CIPC](#cipc-evidence) | 2 | Suspicious directorship timeline (2021-03-08/09) | Theory 003 (backdating fraud) |
-| [Trademark](#trademark-evidence) | 1 | RegimA Zone UK00914297063 ownership | Theory 001 |
-| [Accounting](#accounting-evidence) | 2 | Pre-disruption records (Feb 2023) | Theory 003, 004 |
+| [POPIA](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf) | 2 | Violation notice July 8 → Interdict Aug 13 (36 days) | Theory 002 (Retaliatory Motive) |
+| [Email](evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf) | 4 | Trustee correspondence, operating entities, corporate structure | Theory 001, 003, 004 |
+| [ReZonance](evidence/rezonance/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf) | 2 | Payment system seizure, disruption after Kayla's death | Theory 003, Shell Company Fraud |
+| [Sage](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf) | 1 | Accounting system control seizure | Theory 001, 003 |
+| [CIPC](evidence/cipc/347975701_REGIMA_SA_K201708793507.Pdf) | 2 | Suspicious directorship timeline (2021-03-08/09) | Theory 003 (backdating fraud) |
+| [Trademark](evidence/trademark/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf) | 1 | RegimA Zone UK00914297063 ownership | Theory 001 |
+| [Accounting](evidence/accounting/Rez-WWDBooks2023-02.pdf) | 2 | Pre-disruption records (Feb 2023) | Theory 003, 004 |
 
 ---
 

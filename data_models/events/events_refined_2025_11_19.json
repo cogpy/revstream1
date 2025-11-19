@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "9.0",
+    "version": "9.1",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 69,
     "extended_evidence": "incorporated_from_ad_res_j7",
     "last_updated": "2025-11-18",
-    "changes": "Refinement 2025-11-18: Enhanced with forensic events data from ad-res-j7, added Shopify connections, improved evidence references"
+    "changes": "Refinement 2025-11-18: Added missing evidence references, fixed cross-references, enhanced data quality"
   },
   "events": [
     {
@@ -156,6 +156,11 @@
       "additional_notes": "RWW R500K stock provision write-back, RWW R810K admin fee reallocation, SLG R252K admin fee reallocation, SLG R80K production cost transfer to RST",
       "perpetrators": [
         "PERSON_007"
+      ],
+      "evidence": [
+        "trial_balance_AJEs",
+        "general_ledger_entries",
+        "REG-TRIALBALANCE.xlsx"
       ]
     },
     {
@@ -208,6 +213,11 @@
       "additional_notes": "Year-end adjustment showing established inter-company loan structure",
       "perpetrators": [
         "PERSON_007"
+      ],
+      "evidence": [
+        "trial_balance_documents",
+        "loan_agreement",
+        "SL-TRIALBALANCE2020.xlsx"
       ]
     },
     {
@@ -257,6 +267,11 @@
       "perpetrators": [
         "PERSON_001",
         "PERSON_007"
+      ],
+      "evidence": [
+        "trial_balance_documents",
+        "financial_statements",
+        "VV-TRIALBALANCEAPR20202.xlsx"
       ]
     },
     {
@@ -307,6 +322,11 @@
       "additional_notes": "Email from Danie Bantjies to Bernadine Wright, Jacqui, Peter, Rynette, and Daniel with final trial balances for financial statement finalization meeting",
       "perpetrators": [
         "PERSON_007"
+      ],
+      "evidence": [
+        "Email-body.html",
+        "trial_balance_attachments",
+        "financial_statement_finalization"
       ]
     },
     {
@@ -1038,7 +1058,11 @@
         "note": "Transfers included revenue from Shopify platform funded by RegimA Zone Ltd",
         "revelation": "R850K+ transferred included revenue from platform paid by Dan's UK company over 28 months"
       },
-      "crime_type": "Unauthorized fund transfers, breach of fiduciary duty"
+      "crime_type": "Unauthorized fund transfers, breach of fiduciary duty",
+      "evidence": [
+        "shopify_platform_records",
+        "payment_invoices_28_months"
+      ]
     },
     {
       "event_id": "EVENT_009",
@@ -1263,6 +1287,10 @@
       "additional_notes": "Bantjies dismisses audit with 'I am going away for 2 weeks' on June 10, 2025, just 4 days after Daniel provided comprehensive reports exposing fraud on June 6, 2025",
       "perpetrators": [
         "PERSON_001"
+      ],
+      "evidence": [
+        "shopify_platform_access",
+        "revenue_generation_records"
       ]
     },
     {
@@ -1592,6 +1620,11 @@
       "perpetrators": [
         "PERSON_001",
         "PERSON_002"
+      ],
+      "evidence": [
+        "financial_records",
+        "account_statements",
+        "transaction_logs"
       ]
     },
     {

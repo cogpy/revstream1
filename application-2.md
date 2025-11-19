@@ -95,7 +95,7 @@ The psychiatric evaluation requirement aligns with known "curatorship setup" pat
 The forensic investigation would have exposed the very fraud the applicant was trying to conceal:
 
 1. **Fabricated Financial Statements**
-   - [CIPC evidence](#cipc-evidence) shows backdating fraud
+   - [CIPC evidence](evidence/cipc/347975701_REGIMA_SA_K201708793507.Pdf) shows backdating fraud
    - 2019 financial statements fabricated for K OZ CREATIVE (renamed REGIMA SA on 2021-03-09)
    - Kayla resigned 2021-03-08, Peter added 2021-03-09
 
@@ -242,9 +242,9 @@ Peter presented 2019 financial statements for "REGIMA SA" to court, but CIPC rec
 **Standard:** Settlement agreements obtained through misrepresentation or under duress are unenforceable.
 
 **Evidence:**
-1. [CIPC evidence](#cipc-evidence) - Backdating fraud not disclosed before mediation
-2. [Financial fabrication](#financial-evidence) - R500K fabrication concealed
-3. [Sage control](#sage-evidence) - Applicant already controlled records to be "investigated"
+1. [CIPC evidence](evidence/cipc/347975701_REGIMA_SA_K201708793507.Pdf) - Backdating fraud not disclosed before mediation
+2. [Financial fabrication](evidence-index.html#financial) - R500K fabrication concealed
+3. [Sage control](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf) - Applicant already controlled records to be "investigated"
 4. Respondents withdrew within 4 days of discovering full extent of fraud
 
 **Conclusion:** Agreements were obtained without full disclosure and are unenforceable.
@@ -266,7 +266,7 @@ Peter presented 2019 financial statements for "REGIMA SA" to court, but CIPC rec
 **Standard:** CIPC records are authoritative for corporate timeline.
 
 **Evidence:**
-1. [CIPC WinDeed Report](#cipc-evidence) shows name change 2021-03-09
+1. [CIPC WinDeed Report](evidence/cipc/347975701_REGIMA_SA_K201708793507.Pdf) shows name change 2021-03-09
 2. Peter presented 2019 financial statements for "REGIMA SA"
 3. Entity was "K OZ CREATIVE" in 2019
 4. **Conclusion:** 2019 statements are fabricated/backdated
@@ -278,9 +278,9 @@ Peter presented 2019 financial statements for "REGIMA SA" to court, but CIPC rec
 **Evidence:**
 1. [Fraudulent Shell Company Analysis](FRAUDULENT_SHELL_COMPANY_ANALYSIS.md)
 2. [Fraud Evidence Report - 2019 Accounts](FRAUD_EVIDENCE_REPORT_2019_ACCOUNTS.md)
-3. [Accounting records](#accounting-evidence) showing disruption
-4. [ReZonance seizure](#rezonance-evidence)
-5. [Sage control](#sage-evidence)
+3. [Accounting records](evidence/accounting/Rez-WWDBooks2023-02.pdf) showing disruption
+4. [ReZonance seizure](evidence/rezonance/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf)
+5. [Sage control](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf)
 
 **Conclusion:** Forensic investigation would expose applicant's own shell company fraud, explaining his control requirements.
 
@@ -290,13 +290,13 @@ Peter presented 2019 financial statements for "REGIMA SA" to court, but CIPC rec
 
 | Evidence Category | Files | Key Facts | Legal Theories |
 |------------------|-------|-----------|----------------|
-| [Mediation](#mediation-evidence) | 1 | Sept 18 mediation → Sept 22 withdrawal (4 days) | Theory 001 (Duress/Misrepresentation) |
-| [CIPC](#cipc-evidence) | 2 | **CRITICAL:** Name change 2021-03-09 proves backdating fraud | Theory 003 (Backdating Fraud) |
-| [Accounting](#accounting-evidence) | 2 | Pre-disruption records (Feb 2023) show normal operations | Theory 004 (Shell Company Fraud) |
-| [ReZonance](#rezonance-evidence) | 2 | Payment system seizure, disruption timeline | Theory 004 |
-| [Sage](#sage-evidence) | 1 | Applicant controls records to be "investigated" | Theory 001, 003, 004 |
-| [Email](#email-evidence) | 4 | Corporate structure complexity, operating entities | Theory 003, 004 |
-| [Financial](#financial-evidence) | Multiple | R500K fabrication, expenditure manipulation | Theory 003, 004 |
+| [Mediation](evidence/mediation/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf) | 1 | Sept 18 mediation → Sept 22 withdrawal (4 days) | Theory 001 (Duress/Misrepresentation) |
+| [CIPC](evidence/cipc/347975701_REGIMA_SA_K201708793507.Pdf) | 2 | **CRITICAL:** Name change 2021-03-09 proves backdating fraud | Theory 003 (Backdating Fraud) |
+| [Accounting](evidence/accounting/Rez-WWDBooks2023-02.pdf) | 2 | Pre-disruption records (Feb 2023) show normal operations | Theory 004 (Shell Company Fraud) |
+| [ReZonance](evidence/rezonance/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf) | 2 | Payment system seizure, disruption timeline | Theory 004 |
+| [Sage](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf) | 1 | Applicant controls records to be "investigated" | Theory 001, 003, 004 |
+| [Email](evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf) | 4 | Corporate structure complexity, operating entities | Theory 003, 004 |
+| [Financial](evidence-index.html#financial) | Multiple | R500K fabrication, expenditure manipulation | Theory 003, 004 |
 
 ---
 

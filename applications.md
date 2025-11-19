@@ -426,7 +426,7 @@ All three applications built on foundation of **158-day revenue hijacking campai
 
 | **Evidence** | **App 1** | **App 2** | **App 3** | **Significance** |
 |--------------|-----------|-----------|-----------|------------------|
-| [POPIA](evidence-index.html#popia) | ✓✓✓ Trigger | ✓ Context | ✓✓ Violations | Retaliatory motive |
+| [POPIA](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf) | ✓✓✓ Trigger | ✓ Context | ✓✓ Violations | Retaliatory motive |
 | [CIPC](evidence-index.html#cipc) | ✓ Timeline | ✓✓✓ Fraud | ✓ Control | Backdating fraud proof |
 | [Shopify Platform](Revenue_Stream/02_Hijacking/SHOPIFY_REVENUE_REVELATION_ANALYSIS.md) | ✓✓✓ Concealed | ✓✓ Context | ✓✓✓ Suppressed | Central fraud |
 | [ReZonance](evidence-index.html#rezonance) | ✓✓ Seizure | ✓ Forensics | ✓✓ Suppression | Payment system takeover |

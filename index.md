@@ -46,7 +46,7 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 - August 13, 2025: Interdict launched (2 days later)
 
 **Primary Evidence Categories:**
-- [POPIA Violations](evidence-index.html#popia)
+- [POPIA Violations](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf)
 - [Trustee Misconduct](evidence-index.html#emails)
 - [ReZonance Payment System](evidence-index.html#rezonance)
 
@@ -172,7 +172,7 @@ Browse all evidence files organized by category with direct links to source docu
 - [Accounting Evidence (2 files)](evidence-index.html#accounting)
 - [Email Evidence (4 files)](evidence-index.html#emails)
 - [Mediation Evidence (1 file)](evidence-index.html#mediation)
-- [POPIA Evidence (2 files)](evidence-index.html#popia)
+- [POPIA Evidence (2 files)](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf)
 - [ReZonance Evidence (2 files)](evidence-index.html#rezonance)
 - [Sage Evidence (1 file)](evidence-index.html#sage)
 - [CIPC Evidence (2 files)](evidence-index.html#cipc)
