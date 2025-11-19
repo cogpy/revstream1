@@ -74,7 +74,18 @@
 
 ---
 
-### 7. Trademark Evidence (1 file)
+### 7. CIPC Evidence (2 files)
+
+| File | Format | Description |
+|------|--------|-------------|
+| 347975701_REGIMA_SA_K201708793507.Pdf | PDF | CIPC WinDeed Report for RegimA SA |
+| 347975701_REGIMA_SA_K201708793507.Rtf | RTF | CIPC WinDeed Report (text format) |
+
+**Key Evidence:** Name change timeline (K OZ CREATIVE → REGIMA SA on 2021-03-09), Peter added as director (2021-03-09), Kayla resigned (2021-03-08). Proves backdated financial statements fraud.
+
+---
+
+### 8. Trademark Evidence (1 file)
 
 | File | Format | Description |
 |------|--------|-------------|
@@ -158,6 +169,9 @@ evidence/
 ├── sage/
 │   ├── SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf
 │   └── SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.md
+├── cipc/
+│   ├── 347975701_REGIMA_SA_K201708793507.Pdf
+│   └── 347975701_REGIMA_SA_K201708793507.Rtf
 ├── trademark/
 │   ├── FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf
 │   └── FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.md

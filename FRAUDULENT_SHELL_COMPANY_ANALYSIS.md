@@ -19,9 +19,36 @@ This evidence **destroys Peter's entire narrative** and refutes all remaining cl
 
 ---
 
-## 2. The Smoking Gun: Shopify Invoices
+## 2. VERIFIED: CIPC Timeline Proves Accounting Fraud
 
-### 2.1. Platform Ownership
+**Source:** CIPC WinDeed Report (Search Date: 2025-10-03)
+
+### Critical Dates
+
+| Date | Event | Significance |
+|------|-------|-------------|
+| **2017-02-24** | Company registered as **K OZ CREATIVE** | Original company (Dan & Kayla) |
+| **2021-03-08** | Kayla Pretorius resigned as director | 1 day before Peter added |
+| **2021-03-09** | **NAME CHANGE: K OZ CREATIVE → REGIMA SA** | **CRITICAL DATE** |
+| **2021-03-09** | **Peter Faucitt added as director** | **CRITICAL DATE** |
+| **2023-07-13** | Kayla Pretorius died | 2 years 4 months after resignation |
+
+### Fraud Proof
+
+**Any financial statements for "RegimA SA" dated 2019, 2020, or 2021 (before March 9) are FRAUDULENT.**
+
+**Why:**
+1. The company was called **"K OZ CREATIVE"** until March 9, 2021
+2. Peter was **NOT a director** until March 9, 2021
+3. The name **"RegimA SA"** did not exist before March 9, 2021
+
+**Rynette's instruction to De Novo to create "RegimA SA" accounts for 2019-2021 was CRIMINAL FRAUD (Companies Act s 214 - 10 years imprisonment).**
+
+---
+
+## 3. The Smoking Gun: Shopify Invoices
+
+### 3.1. Platform Ownership
 
 The Shopify invoices consistently show:
 
@@ -31,7 +58,7 @@ The Shopify invoices consistently show:
 
 **Conclusion:** The Shopify platform is **owned and paid for by RegimA Zone Ltd (UK)**, not RWD ZA.
 
-### 2.2. Store Fees Breakdown
+### 3.2. Store Fees Breakdown
 
 A sample invoice (Bill #182424713) shows:
 
@@ -45,11 +72,11 @@ A sample invoice (Bill #182424713) shows:
 
 ---
 
-## 3. The Timeline of Fraud
+## 4. The Timeline of Fraud
 
 ![Revenue Stream Fraud Timeline](revenue_stream_fraud_timeline.png)
 
-### 3.1. Pre-Kayla's Death (Legitimate Operation)
+### 4.1. Pre-Kayla's Death (Legitimate Operation)
 
 - **Before July 13, 2023:**
     - Shopify platform owned by RegimA Zone Ltd (UK)
@@ -57,20 +84,20 @@ A sample invoice (Bill #182424713) shows:
     - Platform fees were legitimately transferred from UK to ZA
     - RWD ZA had a legitimate revenue stream
 
-### 3.2. The Trigger: Kayla's Murder (July 13, 2023)
+### 4.2. The Trigger: Kayla's Death (July 13, 2023)
 
 - Kayla was murdered, disrupting the entire financial system.
 - Sage accounting admin access was lost.
 - ReZonance payment system was disrupted.
 
-### 3.3. The Seizure: Peter & Rynette Take Control
+### 4.3. The Seizure: Peter & Rynette Take Control
 
 - **Post-July 13, 2023:**
     - Peter obtained a mandate to seize Kayla's Sage admin account.
     - Rynette Farrar Bantjies took control of Sage accounting.
     - **Platform fee transfers from UK to ZA were blocked.**
 
-### 3.4. The Fraud (July 2023 - Present)
+### 4.4. The Fraud (July 2023 - Present)
 
 - **For 2+ years:**
     - RWD ZA continued producing invoices based on a platform it did not own.
@@ -80,9 +107,9 @@ A sample invoice (Bill #182424713) shows:
 
 ---
 
-## 4. The Projection of Guilt
+## 5. The Projection of Guilt
 
-### 4.1. Peter's False Claims
+### 5.1. Peter's False Claims
 
 In the original interdict, Peter claimed:
 
@@ -90,7 +117,7 @@ In the original interdict, Peter claimed:
 - The IT expenses were not legitimate
 - Daniel was misappropriating funds
 
-### 4.2. The Reality
+### 5.2. The Reality
 
 - **The "mismanagement" was Peter and Rynette's own fraud:**
     - Trading while insolvent
@@ -106,9 +133,9 @@ In the original interdict, Peter claimed:
 
 ---
 
-## 5. Legal Implications
+## 6. Legal Implications
 
-### 5.1. Criminal Charges
+### 6.1. Criminal Charges
 
 | Charge | Statute | Maximum Penalty |
 |---|---|---|
@@ -117,7 +144,7 @@ In the original interdict, Peter claimed:
 | **Fraud** | Common law + POCA s 4 | 15 years imprisonment |
 | **Money Laundering** | POCA s 4 | 15 years imprisonment |
 
-### 5.2. Refutation of Interdict Claims
+### 6.2. Refutation of Interdict Claims
 
 This evidence **completely refutes all remaining claims** in the original interdict:
 
@@ -127,7 +154,7 @@ This evidence **completely refutes all remaining claims** in the original interd
 
 ---
 
-## 6. Conclusion: The Final Nail in the Coffin
+## 7. Conclusion: The Final Nail in the Coffin
 
 This evidence is the **final nail in the coffin** of Peter Faucitt's narrative. It proves that:
 
