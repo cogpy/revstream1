@@ -1,0 +1,124 @@
+================================================================================
+REVSTREAM1 DATA MODEL ANALYSIS
+================================================================================
+
+### ENTITIES ANALYSIS ###
+Total Persons: 12
+Total Organizations: 9
+Total Platforms: 1
+Total Domains: 2
+Total Trusts: 1
+
+Agent Types Distribution:
+  - antagonist: 3
+  - victim: 4
+  - neutral: 5
+  - accomplice: 3
+  - instrument_of_fraud: 2
+  - affected_entity: 1
+  - legitimate_business: 1
+  - victim_entity: 3
+  - instrument_of_wealth_transfer: 1
+  - central_infrastructure: 1
+  - legitimate_asset: 1
+
+ReZonance entries found: 1
+Adderory entries found: 2
+
+### RELATIONS ANALYSIS ###
+Total Relations: 54
+
+Relation Types:
+  - ownership_relations: 6
+  - control_relations: 5
+  - conspiracy_relations: 4
+  - dependency_relations: 2
+  - financial_relations: 6
+  - victim_perpetrator_relations: 3
+  - employment_relations: 2
+  - evidence_destruction_relations: 2
+  - temporal_relations: 6
+  - debt_relations: 2
+  - estate_relations: 1
+  - witness_relations: 2
+  - conflict_relations: 1
+  - email_control_relations: 1
+  - trustee_relations: 2
+  - beneficiary_relations: 2
+  - professional_correspondence_relations: 2
+  - capital_extraction_relations: 1
+  - inter_company_loan_relations: 2
+  - knowledge_acquisition_relations: 1
+  - strategic_coordination_relations: 1
+
+### EVENTS ANALYSIS ###
+Total Events: 62
+
+Events by Year:
+  - 2017: 2
+  - 2019: 2
+  - 2020: 9
+  - 2021: 1
+  - 2022: 2
+  - 2023: 4
+  - 2025: 42
+
+Event Categories:
+  - accounting_fraud: 3
+  - business_relationship: 2
+  - conspiracy_preparation: 1
+  - criminal_event: 1
+  - customer_hijacking: 1
+  - debt_accumulation: 2
+  - debt_management: 1
+  - estate_exploitation: 1
+  - estate_fraud: 1
+  - evidence_documentation: 1
+  - evidence_tampering: 2
+  - financial_dispute: 1
+  - financial_manipulation: 12
+  - financial_structure: 3
+  - fraud: 2
+  - fraud_concealment: 3
+  - fraud_discovery: 2
+  - infrastructure_seizure: 1
+  - knowledge_acquisition: 1
+  - legal_manipulation: 1
+  - legal_misconduct: 1
+  - perjury: 1
+  - profit_extraction: 2
+  - revenue_theft: 7
+  - transfer_pricing_fraud: 2
+  - transparency: 1
+  - trust_violations: 6
+
+### TIMELINE ANALYSIS ###
+Total Phases: 8
+
+Phases:
+  - Foundation Phase:
+    Events: 7, Duration: 30 days
+    Financial Impact: R8,751,247.35+
+  - Initial Theft Phase:
+    Events: 5, Duration: 14 days
+    Financial Impact: R7,418,480.55
+  - Escalation Phase:
+    Events: 9, Duration: 28 days
+    Financial Impact: R1,850,000+
+  - Consolidation Phase:
+    Events: 11, Duration: 25 days
+    Financial Impact: R3,141,647.70+
+  - Control Seizure Phase:
+    Events: 10, Duration: 18 days
+    Financial Impact: unknown_amount
+  - Cover-up Phase:
+    Events: 8, Duration: 33 days
+    Financial Impact: unknown_amount
+  - Historical Foundation Phase:
+    Events: 15, Duration: 1645 days
+    Financial Impact: R25,106,584.89+ (Villa Via R22.8M + inter-company R2.3M+)
+  - Debt Accumulation Phase:
+    Events: 11, Duration: 568 days
+    Financial Impact: R1,035,361.34 debt + R1,235,361.34 false claims
+
+================================================================================

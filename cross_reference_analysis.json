@@ -1,0 +1,263 @@
+{
+  "cross_reference": {
+    "matches": [
+      {
+        "date": "2019-03-01",
+        "evidence_event": "Financial year commencement for RegimA Skin Treatments (RST) and Strategic Logistics (SLG)",
+        "revstream_events": [
+          "Financial Year Commencement RST/SLG"
+        ],
+        "match_count": 1
+      },
+      {
+        "date": "2019-05-01",
+        "evidence_event": "Financial year commencement for Villa Via",
+        "revstream_events": [
+          "Financial Year Commencement Villa Via"
+        ],
+        "match_count": 1
+      },
+      {
+        "date": "2020-02-20",
+        "evidence_event": "Multiple adjusting journal entries across entities",
+        "revstream_events": [
+          "Multiple Adjusting Journal Entries",
+          "EVENT_051"
+        ],
+        "match_count": 2
+      },
+      {
+        "date": "2020-02-28",
+        "evidence_event": "Year-end adjustments and inter-company interest payment",
+        "revstream_events": [
+          "Year-End Adjustments and Interest Payment",
+          "EVENT_052"
+        ],
+        "match_count": 2
+      },
+      {
+        "date": "2020-04-30",
+        "evidence_event": "Villa Via financial year-end",
+        "revstream_events": [
+          "Villa Via Year-End Profit Extraction",
+          "EVENT_053"
+        ],
+        "match_count": 2
+      },
+      {
+        "date": "2020-08-13",
+        "evidence_event": "Email from Danie Bantjes with final trial balances",
+        "revstream_events": [
+          "Bantjies Trial Balance Email Distribution",
+          "EVENT_048",
+          "Bantjies Sends Trial Balance Email to Bernadine Wright"
+        ],
+        "match_count": 3
+      },
+      {
+        "date": "2017-06-30",
+        "evidence_event": "First invoice to RegimA Skin Treatments for Google GSuite services (R250.80)",
+        "revstream_events": [
+          "First ReZonance Invoice to RST"
+        ],
+        "match_count": 1
+      },
+      {
+        "date": "2017-09-30",
+        "evidence_event": "Ongoing business relationship with regular service provision",
+        "revstream_events": [
+          "ReZonance Service Expansion"
+        ],
+        "match_count": 1
+      },
+      {
+        "date": "2022-03-01",
+        "evidence_event": "Opening balance showing substantial accumulated debt (R971,587.93)",
+        "revstream_events": [
+          "ReZonance Opening Balance Debt"
+        ],
+        "match_count": 1
+      },
+      {
+        "date": "2022-07-11",
+        "evidence_event": "First structured payments begin (R40,000)",
+        "revstream_events": [
+          "First Structured Payment to ReZonance"
+        ],
+        "match_count": 1
+      },
+      {
+        "date": "2023-02-28",
+        "evidence_event": "Final balance showing persistent debt despite payments (R1,035,361.34)",
+        "revstream_events": [
+          "ReZonance Final Balance Persistent Debt"
+        ],
+        "match_count": 1
+      },
+      {
+        "date": "2023-03-15",
+        "evidence_event": "RegimA claims payment of R470,000 not reflected in ReZonance records",
+        "revstream_events": [
+          "False Payment Claim #1 to ReZonance"
+        ],
+        "match_count": 1
+      },
+      {
+        "date": "2023-09-20",
+        "evidence_event": "Additional false payment claims totaling R765,361.34",
+        "revstream_events": [
+          "False Payment Claim #2 to ReZonance"
+        ],
+        "match_count": 1
+      },
+      {
+        "date": "2025-05-15",
+        "evidence_event": "**CRITICAL EVENT** - Jax confronts Rynette about missing money, notifies that funds need to be paid to ReZonance & Kayla's estate",
+        "revstream_events": [
+          "Jacqui Confronts Rynette About R1,035,000 Debt",
+          "Unauthorized Transfers (R850K+)",
+          "EVENT_050"
+        ],
+        "match_count": 3
+      },
+      {
+        "date": "2025-05-22",
+        "evidence_event": "**CRITICAL EVENT** - Disappearance of all orders & audit trails from Shopify",
+        "revstream_events": [
+          "Shopify Audit Trail Hijacking"
+        ],
+        "match_count": 1
+      },
+      {
+        "date": "2025-05-29",
+        "evidence_event": "**CRITICAL EVENT** - Adderory (Rynette's son) purchases domain regimaskin.co.za",
+        "revstream_events": [
+          "Domain Registration (Identity Fraud)"
+        ],
+        "match_count": 1
+      },
+      {
+        "date": "2025-06-07",
+        "evidence_event": "**CRITICAL EVENT** - Cards cancelled secretly",
+        "revstream_events": [
+          "Secret Card Cancellations"
+        ],
+        "match_count": 1
+      }
+    ],
+    "missing_in_revstream": [
+      {
+        "date": "2025-10-09",
+        "event": "Payment fraud scheme discovered through financial analysis (R1,235,361.34)",
+        "significance": "Full extent of fraud documented and analyzed",
+        "entities": "All RegimA Group entities"
+      },
+      {
+        "date": "2025-10-12",
+        "event": "UK transaction evidence integrated showing R11.9M extraction pattern",
+        "significance": "International dimension of financial extraction revealed",
+        "entities": "RegimA UK, Peter Faucitt, Daniel Faucitt"
+      }
+    ],
+    "date_mismatches": [
+      {
+        "evidence_date": "2025-04-15",
+        "revstream_date": "2025-04-14",
+        "evidence_event": "Bank accounts redirected (precursor to subsequent events)",
+        "revstream_events": [
+          "Bank Account Change Letter for RegimA Worldwide"
+        ]
+      },
+      {
+        "evidence_date": "2025-07-02",
+        "revstream_date": "2025-06-30",
+        "evidence_event": "CIPC Warning - Annual return reminder for Unicorn Dynamics",
+        "revstream_events": [
+          "Coordinated Fund Diversions"
+        ]
+      },
+      {
+        "evidence_date": "2025-07-07",
+        "revstream_date": "2025-06-30",
+        "evidence_event": "Daniel Faucitt clarifies company status and payment disputes",
+        "revstream_events": [
+          "Coordinated Fund Diversions"
+        ]
+      }
+    ]
+  },
+  "missing_entities": [
+    "regima group",
+    "slg",
+    "daniel faucitt (cio",
+    "rst",
+    "regima group e-commerce operations",
+    "peter faucitt",
+    "daniel faucitt",
+    "all regima group entities",
+    "unicorn dynamics",
+    "regima uk",
+    "rww)",
+    "rww",
+    "rynette's family"
+  ],
+  "temporal_coverage": {
+    "earliest_event": "2017-06-30",
+    "latest_event": "2025-09-11",
+    "total_span_days": 2995,
+    "total_events": 62,
+    "significant_gaps": [
+      {
+        "start_date": "2017-06-30",
+        "end_date": "2017-09-30",
+        "gap_days": 92
+      },
+      {
+        "start_date": "2017-09-30",
+        "end_date": "2019-03-01",
+        "gap_days": 517
+      },
+      {
+        "start_date": "2019-05-01",
+        "end_date": "2020-02-20",
+        "gap_days": 295
+      },
+      {
+        "start_date": "2020-04-30",
+        "end_date": "2020-08-13",
+        "gap_days": 105
+      },
+      {
+        "start_date": "2020-08-13",
+        "end_date": "2021-04-01",
+        "gap_days": 231
+      },
+      {
+        "start_date": "2021-04-01",
+        "end_date": "2022-03-01",
+        "gap_days": 334
+      },
+      {
+        "start_date": "2022-03-01",
+        "end_date": "2022-07-11",
+        "gap_days": 132
+      },
+      {
+        "start_date": "2022-07-11",
+        "end_date": "2023-01-01",
+        "gap_days": 174
+      },
+      {
+        "start_date": "2023-03-15",
+        "end_date": "2023-09-20",
+        "gap_days": 189
+      },
+      {
+        "start_date": "2023-09-20",
+        "end_date": "2025-01-15",
+        "gap_days": 483
+      }
+    ]
+  },
+  "timestamp": "2025-11-18T22:00:16.905289"
+}
