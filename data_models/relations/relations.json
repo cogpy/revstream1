@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "4.0",
+    "version": "5.0",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
     "last_updated": "2025-11-18",
-    "changes": "Added email control, trustee, and beneficiary relations based on ad-res-j7 cross-reference; enhanced conflict of interest documentation"
+    "changes": "Integration 2025-11-19: Added RegimaSA (Pty) Ltd 2019 financial statements findings"
   },
   "relations": {
     "ownership_relations": [
@@ -88,6 +88,17 @@
           "company_registration",
           "shareholding_records"
         ]
+      },
+      {
+        "relation_id": "REL_OWN_007",
+        "from_entity": "PERSON_001,PERSON_005",
+        "to_entity": "ORG_012",
+        "relation_type": "owns",
+        "description": "Peter and Daniel Faucitt own RegimaSA (Pty) Ltd",
+        "evidence": [
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors and shareholders"
+        ],
+        "significance": "Joint ownership establishes both Peter and Daniel's control and fiduciary duties"
       }
     ],
     "control_relations": [
@@ -159,6 +170,28 @@
           "trust_asset_misappropriation",
           "systematic_trust_violations"
         ]
+      },
+      {
+        "relation_id": "REL_CTRL_006",
+        "from_entity": "PERSON_001",
+        "to_entity": "ORG_012",
+        "relation_type": "controls_as_director",
+        "description": "Peter Faucitt (P.A. Faucitt) is director of RegimaSA",
+        "evidence": [
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors' Report page 4"
+        ],
+        "significance": "Establishes Peter's control and fiduciary duties; contradicts claims of separation from Regima entities"
+      },
+      {
+        "relation_id": "REL_CTRL_007",
+        "from_entity": "PERSON_005",
+        "to_entity": "ORG_012",
+        "relation_type": "controls_as_director",
+        "description": "Daniel Faucitt (D.J. Faucitt) is director of RegimaSA",
+        "evidence": [
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors' Report page 4"
+        ],
+        "significance": "Establishes Daniel's control and fiduciary duties"
       }
     ],
     "conspiracy_relations": [
@@ -352,6 +385,51 @@
           "transaction_logs",
           "bank_statements"
         ]
+      },
+      {
+        "relation_id": "REL_FIN_007",
+        "from_entity": "ORG_012",
+        "to_entity": "ORG_008",
+        "relation_type": "loan_receivable",
+        "description": "RegimaSA has R1,853 loan receivable from ReZonance (Pty) Ltd",
+        "amount": 1853,
+        "currency": "ZAR",
+        "date": "2019-02-28",
+        "terms": "Unsecured, no fixed repayment terms, interest at rates agreed upon from time to time",
+        "evidence": [
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 2, page 11"
+        ],
+        "significance": "Establishes financial relationship between RegimaSA and ReZonance during debt accumulation period"
+      },
+      {
+        "relation_id": "REL_FIN_008",
+        "from_entity": "ORG_012",
+        "to_entity": "PERSON_005",
+        "relation_type": "loan_payable_shareholder",
+        "description": "RegimaSA owes R6,000 to Daniel Faucitt (D.A. Faucitt) as shareholder loan",
+        "amount": 6000,
+        "currency": "ZAR",
+        "date": "2019-02-28",
+        "terms": "Unsecured, no fixed repayment terms, interest at rates agreed upon from time to time",
+        "evidence": [
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 4, page 11"
+        ],
+        "significance": "Establishes Daniel's financial investment and interest in RegimaSA"
+      },
+      {
+        "relation_id": "REL_FIN_009",
+        "from_entity": "ORG_012",
+        "to_entity": "ORG_013",
+        "relation_type": "loan_payable",
+        "description": "RegimaSA owes R500 to Unicorn Dynamics (Pty) Ltd",
+        "amount": 500,
+        "currency": "ZAR",
+        "date": "2019-02-28",
+        "terms": "Unsecured, no fixed repayment terms, interest at rates agreed upon from time to time",
+        "evidence": [
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 5, page 11"
+        ],
+        "significance": "Establishes financial relationship with Unicorn Dynamics, another related party entity"
       }
     ],
     "victim_perpetrator_relations": [
@@ -888,6 +966,19 @@
         ],
         "legal_status": "strategic_litigation_tactic",
         "critical_significance": "Settlement signed 2 days before interdict filing demonstrates premeditation"
+      }
+    ],
+    "professional_relations": [
+      {
+        "relation_id": "REL_PROF_003",
+        "from_entity": "PERSON_012",
+        "to_entity": "ORG_012",
+        "relation_type": "prepared_financial_statements",
+        "description": "Marisca Meyer prepared RegimaSA 2019 financial statements (issued 25 June 2025)",
+        "evidence": [
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Preparer, page 1"
+        ],
+        "significance": "Retrospective preparation 6+ years after period end; timing coincides with legal proceedings"
       }
     ]
   }

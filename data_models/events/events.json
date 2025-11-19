@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "6.0",
+    "version": "7.0",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 62,
     "extended_evidence": "incorporated_from_ad_res_j7",
     "last_updated": "2025-11-18",
-    "changes": "Added missing perpetrators for 17 events; enhanced event context based on ad-res-j7 evidence"
+    "changes": "Integration 2025-11-19: Added RegimaSA (Pty) Ltd 2019 financial statements findings"
   },
   "events": [
     {
@@ -1726,6 +1726,100 @@
       ],
       "pattern": "cover_up_phase",
       "timeline_phase": "PHASE_006"
+    },
+    {
+      "event_id": "EVENT_H011",
+      "date": "2017-02-24",
+      "event_type": "Company incorporation",
+      "category": "Business structure",
+      "description": "RegimaSA (Pty) Ltd incorporated as Collections Agent",
+      "entities_involved": [
+        "ORG_012",
+        "PERSON_001",
+        "PERSON_005"
+      ],
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_005"
+      ],
+      "victims": [],
+      "location": "South Africa",
+      "financial_impact": 0,
+      "significance": "Establishment of shell company structure with no legitimate business operations",
+      "evidence": [
+        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
+        "CIPC registration 2017/087935/07"
+      ],
+      "timeline_phase": "PHASE_000",
+      "related_events": [
+        "EVENT_H012"
+      ]
+    },
+    {
+      "event_id": "EVENT_H012",
+      "date": "2019-02-28",
+      "event_type": "Financial year end",
+      "category": "Financial structure",
+      "description": "RegimaSA first financial year end (15 months) showing zero revenue, R1,589 loss, minimal activity",
+      "entities_involved": [
+        "ORG_012",
+        "ORG_008",
+        "ORG_013",
+        "PERSON_001",
+        "PERSON_005"
+      ],
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_005"
+      ],
+      "victims": [],
+      "location": "South Africa",
+      "financial_impact": -1589,
+      "related_party_transactions": {
+        "loan_to_rezonance": 1853,
+        "loan_from_daniel_faucitt": 6000,
+        "loan_from_unicorn_dynamics": 500
+      },
+      "significance": "Evidence of shell company with no operations; related party loans to ReZonance during debt accumulation period",
+      "evidence": [
+        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
+      ],
+      "timeline_phase": "PHASE_000",
+      "related_events": [
+        "EVENT_H011",
+        "EVENT_064"
+      ]
+    },
+    {
+      "event_id": "EVENT_064",
+      "date": "2025-06-25",
+      "event_type": "Retrospective financial statement preparation",
+      "category": "Evidence documentation",
+      "description": "RegimaSA 2019 financial statements prepared and issued by Marisca Meyer, 6+ years after period end",
+      "entities_involved": [
+        "ORG_012",
+        "PERSON_001",
+        "PERSON_005",
+        "PERSON_012"
+      ],
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_005",
+        "PERSON_012"
+      ],
+      "victims": [],
+      "location": "South Africa",
+      "financial_impact": 0,
+      "significance": "Retrospective preparation timing coincides with legal proceedings in case 2025-137857; suggests strategic document preparation for legal defense",
+      "evidence": [
+        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
+      ],
+      "timeline_phase": "PHASE_006",
+      "related_events": [
+        "EVENT_H011",
+        "EVENT_H012"
+      ],
+      "legal_significance": "Document preparation timing suggests response to legal proceedings; establishes Peter's directorship and control"
     }
   ]
 }

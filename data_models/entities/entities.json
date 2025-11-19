@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "6.0",
+    "version": "7.0",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
     "last_updated": "2025-11-18",
-    "changes": "Added missing roles, names, and agent types for all entities; enhanced entity descriptions based on ad-res-j7 cross-reference"
+    "changes": "Integration 2025-11-19: Added RegimaSA (Pty) Ltd 2019 financial statements findings"
   },
   "entities": {
     "persons": [
@@ -330,6 +330,24 @@
           "EVENT_H021"
         ],
         "additional_notes": "Received email from Gee about domain switch instruction, confronted Rynette on May 15, 2025 about R1,035,000 owed to ReZonance"
+      },
+      {
+        "entity_id": "PERSON_012",
+        "name": "Marisca Meyer",
+        "full_name": "Marisca Meyer",
+        "role": "Professional Accountant (SA)",
+        "agent_type": "neutral",
+        "profession": "Professional Accountant",
+        "relationships": [
+          "prepared_financials_for:ORG_012"
+        ],
+        "actions": [
+          "Prepared RegimaSA 2019 financial statements (issued 25 June 2025)"
+        ],
+        "significance": "Prepared 6-year-old financial statements retrospectively in June 2025, timing coincides with legal proceedings",
+        "evidence": [
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
+        ]
       }
     ],
     "organizations": [
@@ -600,6 +618,66 @@
           "EVENT_027"
         ],
         "additional_notes": "Registered April 2021 alongside Adderory (Pty) Ltd, part of Adderory group for customer hijacking, used RegimA brand for fraud"
+      },
+      {
+        "entity_id": "ORG_012",
+        "name": "RegimaSA (Pty) Ltd",
+        "registration_number": "2017/087935/07",
+        "tax_reference": "9746755165",
+        "incorporation_date": "2017-02-24",
+        "nature_of_business": "Collections Agent",
+        "industry": "Financial Services",
+        "role": "Shell company / Related party entity",
+        "agent_type": "instrument",
+        "directors": [
+          "PERSON_001",
+          "PERSON_005"
+        ],
+        "registered_office": "50 Van Buuren Road, Bedfordview, Johannesburg, 2008",
+        "bankers": "First National Bank",
+        "secretary": "De Novo Business Services (Pty) Ltd",
+        "financial_year_end": "2019-02-28",
+        "total_assets_2019": 4912,
+        "accumulated_loss_2019": -1589,
+        "shareholder_loan_2019": 6000,
+        "related_parties": [
+          "ORG_008",
+          "ORG_013",
+          "PERSON_001",
+          "PERSON_005"
+        ],
+        "relationships": [
+          "owned_by:PERSON_001,PERSON_005",
+          "controlled_by:PERSON_001",
+          "controlled_by:PERSON_005",
+          "loan_to:ORG_008",
+          "loan_from:PERSON_005",
+          "loan_from:ORG_013"
+        ],
+        "significance": "Shell company with no revenue or operations; related party loans to ReZonance; financial statements prepared retrospectively in June 2025 (6+ years late)",
+        "evidence": [
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
+          "CIPC registration 2017/087935/07"
+        ]
+      },
+      {
+        "entity_id": "ORG_013",
+        "name": "Unicorn Dynamics (Pty) Ltd",
+        "role": "Related party entity",
+        "agent_type": "unknown",
+        "nature_of_business": "Unknown",
+        "related_parties": [
+          "ORG_012"
+        ],
+        "relationships": [
+          "loan_to:ORG_012"
+        ],
+        "financial_relationship_2019": "R500 loan to RegimaSA",
+        "significance": "Related party entity in Regima network; mentioned in CIPC warning July 2, 2025",
+        "evidence": [
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
+          "ad-res-j7 CIPC warning reference"
+        ]
       }
     ],
     "platforms": [
