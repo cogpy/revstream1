@@ -1,0 +1,349 @@
+﻿From:	"Daniel Faucitt" <dan@regima.com>
+Sent:	18/10/2025 09:22:54
+To:	"Natan Back" <Natan@ianlevitt.co.za>; "Jacqui Faucitt" <jax@regima.zone>
+Subject:	Re: EU-1223/2009 REGULATORY OFFICE DESIGNATION: "RESPONSIBLE PERSON" AS STATUTORY POSITION
+
+Dear Natan
+To put things in perspective, let me generalise it in practical terms as follows:
+
+*	
+	None of the companies included in the interdict are really necessary for RegimA to operate
+*	
+	None of the companies excluded from the interdict are really necessary for RegimA to operate
+*	
+	All functions related to formulation, procurement, production & packaging are outsourced
+*	
+	Jacqui and Daniel own all formulations and related IP in their personal capacities by design
+*	
+	All PIF regulatory filings for international markets were submitted by Jacqui as Responsible Person
+*	
+	All packaging cites "RegimA International Skin Treatments" which is an actual separate entity
+*	
+	"RegimA Skin Treatments" is not the same legal entity as "RegimA International Skin Treatments"
+*	
+	"Strategic Logistics" is a procurement aggregator that coordinates with outsourced procurement agents
+*	
+	"RegimA Worldwide Distribution" holds no stock and has no revenue stream of its own
+*	
+	"RegimA Worldwide Distributions" [note the 's'] is a Shopify platform owned by UK entity "RegimA Zone Ltd"
+*	
+	"RegimA Zone Ltd" (independent of RegimA UK Ltd) is wholly owned by Daniel Faucitt
+
+The issue is that the interdict is being abused in order to circumvent regulatory compliance and ship stock to customers without performing the necessary quality control & safety protocols.
+The fact that the responsible person has been denied access for over 2 months already implies that fraudulent material safety data documentation may have been produced without the safety officer actually inspecting the manufacturing process or performing toxicology and stability testing. This adds another layer of liability.
+Basically I (Daniel) am quite happy to let the interdict remain in place indefinitely as it has absolutely no effect on me in the long term. The businesses in question are for all practical purposes an office building (Villa Via) where without Jacqui the only thing left is a fulfilment warehouse for picking & packing (RegimA Skin Treatments) of customer orders placed through distributors (RegimA Worldwide Distribution). All other functions are outsourced.
+In contrast, every day and every hour where Jacqui is prevented from fulfilling the duties of her regulatory office is another day and another hour that the business is being allowed to operate without mandatory regulatory oversight.
+** IMPORTANT:
+The regulatory obligations on Jacqui relate to consumer safety and broader health & safety in many jurisdictions as she holds a regulatory office that supersedes any and all commercial or personal disputes. Daniel is registered as the "Responsible Person" for market compliance related to information and trading standards in each region but these obligations are not concerned with safety but more administrative duties not requiring the physical inspection of facilities or laboratory studies of physical products.
+It is necessary to urgently resolve Jacqui's ability to perform her regulatory functions related to product safety and manufacturing standards. Only Jacqui can approve each batch of products for distribution to the various markets and file the necessary material safety data reports to clear the products for export.
+We must therefore focus only on resolving the material non-disclosure of Jacqui's regulatory office separately and deal with claims against Daniel at a later time. Jacqui and Daniel cannot be treated as the same entity in the interdict since the interdict applied to Jacqui represents a criminal breach of international regulatory compliance and an obstruction of mandatory consumer safety procedures.
+
+________________________________
+From: Daniel Faucitt <dan@regima.com>
+Sent: Saturday, 18 October 2025 08:10
+To: Natan Back <Natan@ianlevitt.co.za>; Jacqui Faucitt <jax@regima.zone>
+Cc: d@rzo.io <d@rzo.io>; Ian Levitt <ian@ianlevitt.co.za>; Doron Block <block@rivoniaadvocates.co.za>
+Subject: EU-1223/2009 REGULATORY OFFICE DESIGNATION: "RESPONSIBLE PERSON" AS STATUTORY POSITION 
+REGULATORY OFFICE DESIGNATION:
+
+"RESPONSIBLE PERSON" AS STATUTORY POSITION
+The "Responsible Person" under EU Regulation 1223/2009 is a mandatory regulatory office, not a descriptive term.
+This is a legally designated position with statutory authority and personal liability, analogous to a Data Protection Officer under GDPR or a Money Laundering Reporting Officer under AML directives.
+Legal Architecture of the Position
+Article 4(1) of Regulation 1223/2009 states categorically:
+	"Only cosmetic products for which a legal or natural person is designated within the Community as 'responsible person' shall be placed on the market."
+This creates an absolute market access requirement.
+Without a designated Responsible Person, products are legally prohibited from EU/EEA markets across 31 jurisdictions.
+Statutory Duties (Non-Delegable)
+The Responsible Person holds personal regulatory liability for:
+*	Product safety assessments (Article 10)
+*	Maintaining Product Information Files (Article 11)
+*	CPNP notifications to competent authorities (Article 13)
+*	Serious Undesirable Effects reporting within 20 days (Article 23)
+*	Immediate corrective actions when products present risks (Article 5)
+*	Good Manufacturing Practice compliance (Article 8)
+These are non-delegable duties - the RP cannot transfer liability to subordinates or contractors.
+The designation creates personal criminal and civil exposure.
+Interference with Regulatory Oversight
+The interdict constitutes unlawful interference with regulatory functions because:
+1.	
+	Blocks Mandatory Reporting: The RP must report SUEs to competent authorities within 20 days. The interdict prevents access to reporting systems, creating immediate violations.
+2.	
+	Prevents Safety Corrections: Article 5(2) requires the RP to "immediately" inform authorities of products presenting human health risks. The word "immediately" admits no exceptions for court orders.
+3.	
+	Obstructs Market Surveillance: Article 22 requires competent authorities to monitor compliance through the RP. The interdict severs this regulatory link, blinding authorities to safety issues.
+4.	
+	Creates Regulatory Vacuum: Products remain on market without legally required oversight, analogous to operating a nuclear facility without a licensed safety officer.
+
+International Regulatory Equivalence
+The Responsible Person parallels:
+*	FDA's "Responsible Person" under MoCRA (US - 21 USC 364)
+*	UK's "Responsible Person" under Schedule 34 (post-Brexit continuation)
+*	Health Canada's "Regulatory Correspondent" under Cosmetic Regulations
+*	ASEAN's "Safety Assessor" under ACD Guidelines
+Each creates a designated regulatory interface with enforcement authorities.
+Blocking this position obstructs governmental safety oversight.
+Criminal Implications
+UK Regulation 12(2)(a) Cosmetic Products Enforcement Regulations 2013:
+	"A person is guilty of an offence if that person intentionally obstructs any person acting in the execution or enforcement of these Regulations."
+The interdict preventing RP functions constitutes intentional obstruction of regulatory enforcement, exposing Peter to criminal prosecution in each affected jurisdiction.
+The Core Issue
+This is not about private commercial dispute resolution.
+The interdict attempts to prevent a designated safety officer from performing mandatory governmental oversight functions.
+It is legally equivalent to obtaining a court order preventing:
+*	An air traffic controller from directing planes
+*	A pharmacist from verifying prescriptions
+*	A building inspector from examining structures
+The regulatory framework contains zero provisions allowing suspension of RP duties for any reason - bankruptcy, litigation, force majeure, or court orders.
+Consumer safety obligations are absolute and continuous.
+Bottom line:
+The interdict interferes with a statutory regulatory office carrying governmental oversight responsibilities, not merely a private employee performing commercial functions.
+This transforms a civil dispute into obstruction of regulatory enforcement across 31 jurisdictions and potentially 6 others.
+________________________________
+From: Natan Back <Natan@ianlevitt.co.za>
+Sent: Friday, 17 October 2025 17:57
+To: Daniel Faucitt <dan@regima.com>; Jacqui Faucitt <jax@regima.zone>
+Cc: d@rzo.io <d@rzo.io>; Ian Levitt <ian@ianlevitt.co.za>; Doron Block <block@rivoniaadvocates.co.za>
+Subject: Re: FAUCITT - URGENT FEEDBACK 
+Can we please consult urgently next week. Please let me know what time and date suits you 
+
+Kind regards,
+
+NATAN BACK
+CANDIDATE ATTORNEY
+
+IAN LEVITT ATTORNEYS
+THE LEONARDO, OFFICE LEVEL 12,
+75 ON MAUDE STREET
+SANDTON, 2196
+DX 54 SANDTON SQUARE
+TEL:     011 784 3310 
+FAX TO EMAIL :   086 579 5368
+www.ianlevitt.co.za <https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ianlevitt.co.za_&d=DwMFIw&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=PGuHxWxiVs4EOBxhxsz28I_a6mDRqUxNsTg5Uxy_W8B7iYgEnjoxLkWYYrxk-Ino&s=ecGEX2UsYyevsIWgtsvHuq-vFYpaC-vRXX4xm3BNTTs&e=> 
+CONFIDENTIALITY NOTICE: 
+This email is intended solely for the recipient(s) to whom this email is addressed. This email is confidential in nature and may also contain information and / or attachments which may be legally privileged and exempt from disclosure. Any unauthorised access, disclosure, copying, or distribution of its contents is strictly prohibited. If you are not the intended recipient, please notify the sender immediately and delete this email from your system. 
+
+Ian Levitt Attorneys (“ILA”) will never send you an email about a change of the ILA banking details and/or information. This applies to emails and letters received on the company letterhead. Any email mentioning a change of the banking details is false, fraudulent and likely a scam. Kindly contact Linda Guyo at ILA immediately should you receive an email requiring you to effect payment to different account details as that is likely false, fraudulent, or an online phishing scam.
+
+________________________________
+From: Daniel Faucitt <dan@regima.com>
+Sent: Friday, October 17, 2025 5:55:47 PM
+To: Natan Back <Natan@ianlevitt.co.za>; Jacqui Faucitt <jax@regima.zone>
+Cc: d@rzo.io <d@rzo.io>; Ian Levitt <ian@ianlevitt.co.za>; Doron Block <block@rivoniaadvocates.co.za>
+Subject: Re: FAUCITT - URGENT FEEDBACK 
+Hi Natan
+The problem was that 80% to 90% of the statements were a complete misunderstanding of the situation or some important factor was misrepresented. If I comment it would say on nearly every paragraph that it is untrue or misleading. That was why I drafted new documents as there was too much to change. Also I want to ensure only the facts relevant to the claims in Peter's interdict are presented without entering into arbitrary speculation about interpersonal issues or statements about opinions of competency. Documented financial transactions prove the claims of the interdict false so I wish to say absolutely nothing else than to present the documents, explain how they refute the claims and request that the interdict be set aside as there are also ongoing criminal cases which need urgent attention as crimes are still ongoing. 
+Warm Regards,
+Dan
+________________________________
+From: Natan Back <Natan@ianlevitt.co.za>
+Sent: Friday, 17 October 2025 17:44
+To: Daniel Faucitt <dan@regima.com>; Jacqui Faucitt <jax@regima.zone>
+Cc: d@rzo.io <d@rzo.io>; Ian Levitt <ian@ianlevitt.co.za>; Doron Block <block@rivoniaadvocates.co.za>
+Subject: Re: FAUCITT - URGENT FEEDBACK 
+Hi Daniel,
+Please can we get the comments on the document Doron and I drafted. This is urgent an we have lost valuable time. Please can we urgently consult next week. 
+
+Kind regards,
+
+NATAN BACK
+CANDIDATE ATTORNEY
+
+IAN LEVITT ATTORNEYS
+THE LEONARDO, OFFICE LEVEL 12,
+75 ON MAUDE STREET
+SANDTON, 2196
+DX 54 SANDTON SQUARE
+TEL:     011 784 3310 
+FAX TO EMAIL :   086 579 5368
+www.ianlevitt.co.za <https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ianlevitt.co.za_&d=DwMFIw&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=pLafAQP5FP_Tnccy4sroOlmI_Ahsj_8JwWBIVLShx9NxFLzPqQi2ViWiRBGnGtAU&s=dIxLLwsQzsdXpunqnEyAJwmFZWFY_uVtN_3isxiTZ4U&e=> 
+CONFIDENTIALITY NOTICE: 
+This email is intended solely for the recipient(s) to whom this email is addressed. This email is confidential in nature and may also contain information and / or attachments which may be legally privileged and exempt from disclosure. Any unauthorised access, disclosure, copying, or distribution of its contents is strictly prohibited. If you are not the intended recipient, please notify the sender immediately and delete this email from your system. 
+
+Ian Levitt Attorneys (“ILA”) will never send you an email about a change of the ILA banking details and/or information. This applies to emails and letters received on the company letterhead. Any email mentioning a change of the banking details is false, fraudulent and likely a scam. Kindly contact Linda Guyo at ILA immediately should you receive an email requiring you to effect payment to different account details as that is likely false, fraudulent, or an online phishing scam.
+
+________________________________
+From: Daniel Faucitt <dan@regima.com>
+Sent: Friday, October 17, 2025 4:56:55 PM
+To: Natan Back <Natan@ianlevitt.co.za>; Jacqui Faucitt <jax@regima.zone>; Daniel Faucitt <dan@regima.com>
+Cc: d@rzo.io <d@rzo.io>; Ian Levitt <ian@ianlevitt.co.za>; Doron Block <block@rivoniaadvocates.co.za>
+Subject: Re: FAUCITT - URGENT FEEDBACK
+Dear Natan
+I have just finished going over the various pieces of evidence to determine which are the most relevant to this civil matter. The challenge is mainly that the primary evidence base I have is 3 years worth of forensic evidence prepared for two parallel criminal cases and a third that I am preparing to file in the near future. As such there is a mountain of evidence from up to 7 different sources arranged specifically to meet the "beyond reasonable doubt" requirement along with aggressive language and claims. I think I have managed to select the most relevant pieces of evidence to refute the mistaken claims of Peter's interdict without compromising the integrity of the criminal case by exposing it to those involved.
+My personal bank statements refute the 500k claim and the Shopify invoices demonstrate that the RegimA Worldwide revenue is actually owned and paid for by my IK entity RegimA Zone Ltd which shows how "Worldwide" is not a single entity but many with various international expenses all paid for by me anyway. I do not wish to attack Peter or make any derogatory statements, only to prove his mistake and ask that the interdict be set aside so that we can continue with a voluntary and collaborative forensic audit with transparency so that all checks and balances are done in the open to everyone's satisfaction.
+My primary concerns follow as parts 2 and 3..
+The second is the hijacking of the revenue streams by Rynette Farrar resulting in audit trails also being removed. For this matter my request is simply that the court order the reinstatement of the POPIA compliant Shopify plaforms we have used for over a decade as it was before the interference. The stores are still being paid for and awaiting order to resume. As for any damages in this regard I request only that we need to gather more evidence as this forms part of a much larger criminal case.
+The third and final point of current concern is the covert appointment of accountant Bantjies (by Rynette Farrar who controls Peter's email address in July 2024)as a Trustee of our family trust. Mr Bantjies is the accountant, trustee, commissioner of oaths and principal debtor to both Pete and Jacqui with a sum of over R18 million coming due in May 2026. This is an extreme conflict of interests as if Mr Bantjies were to find that the entire family was declared incapacitated by dishonest medical professionals before May 2026 they would fall under the curatorship of Mr Bantjies who would no longer need to pay the debt and would also control the entire estate forever. Thus if all parties still feel it necessary given the interdict claims are disproven, regardless it must be stated - No medical testing can take place prior to the May 2026 payout and for that matter cannot take place while he is a trustee on our family trust!
+Please see attached and below a summary of what I think is necessary for us to submit below:
+---------
+Response Affidavit & Annexures
+Overview
+Implemented complete legal affidavits for the rescission application to set aside the ex parte interdict granted on 19 August 2025 in Case No: 2025-137857 (Dan & Jax v. Peter Faucitt).
+Implementation Summary
+Three comprehensive legal affidavits organized in  /case_2025_137857/01_court_documents/rescission_application/:
+1. Main Responding Affidavit
+Establishes three independent grounds for setting aside the interdict (any one sufficient):
+·       Ground 1: Material Non-Disclosure - Documents 8 categories of facts Peter concealed from the Court, rendering the interdict void ab initio under the uberrima fides principle:
+	1.	Responsible Person regulatory crisis (R50M+ exposure, 37 jurisdictions)
+	2.	Settlement agreement timing (signed 8 days before interdict)
+	3.	Investment payout timing (R18M due May 2026, 9 months after interdict)
+	4.	Peter's own disruptive actions (card cancellation, system lockout)
+	5.	Director loan account structure (R500K was repayment, not gift)
+	6.	Historical collaborative business model (20+ years established practice)
+	7.	Disproportionate harm (136:1 ratio - R68M harm vs R500K concern)
+	8.	Transfer of control to non-director (Rynette Farrar)
+·       Ground 2: False Factual Premises - Proves core allegations are factually incorrect:
+o   R500K "unauthorized gift" is FALSE (was authorized director loan repayment)
+o   "UK owes SA" claim is FALSE (UK is creditor, paid USD150,000+ for platform)
+o   Third-party evidence (26+ Shopify invoices) proves payment direction: UK → SA
+·       Ground 3: Gross Disproportionality - Constitutional violation:
+	*	136:1 harm ratio (R68,141,648+ harm vs R500,000 concern)
+	*	Violates proportionality principle
+	*	Peter derives NO benefit (exposed to R110M+ liability)
+
+2. Supporting Affidavit - Shopify/Rynette Evidence
+Documents platform ownership and criminal revenue hijacking:
+*	Platform Ownership: Third-party evidence (Shopify email 26 July 2017, 26+ invoices) proves UK entity owns and funded platform with R677,288+ investment
+*	Revenue Hijacking: Criminal enterprise timeline showing Rynette Farrar's systematic theft:
+	*	Company registration (Adderory - April 2021)
+	*	Bank account hijacking (14 April 2025)
+	*	Evidence destruction (22 May 2025 - 7 days after confrontation)
+	*	Domain takeover, customer theft
+	*	Total theft: R14,500,000+ (R97,000/day ongoing)
+*	Urgent Relief: 48-hour platform restoration order, audit trail recovery, Adderory account freeze, forensic investigation
+
+3. Supporting Affidavit - Bantjies/Medical Testing (642 lines)
+Addresses trustee conflicts and medical testing manipulation risks:
+*	Multiple Conflicting Roles: Bantjies serves as Accountant + Trustee + Commissioner of Oaths (unacceptable concentration)
+*	False Sworn Statements: Already provided false confirmatory affidavit (JF-BANTJIES1 contradicts JF-BANTJIES2)
+*	R18M Payout at Risk: Investment due May 2026, medical testing scheduled October 2025 (7 months before payout)
+*	Manipulation Scenario: 8-step analysis showing how role concentration enables manipulation of medical testing to control R18M
+*	Cui Bono Analysis: Peter derives NO benefit; only Rynette (R97K/day theft) and Bantjies (R18M control) benefit
+*	Relief Required: Suspend Bantjies, appoint independent trustee, delay testing until AFTER May 2026 payout, protect R18M with independent oversight
+
+Key Metrics Documented
+Metric
+Amount
+Context
+Harm Ratio
+136:1
+R68M+ harm vs R500K concern
+Revenue Theft
+R14.5M+
+Rynette Farrar criminal enterprise
+Daily Theft
+R97,000
+Ongoing while interdict in place
+Personal Bleeding
+R100K/month
+Dan & Jax paying from personal funds
+Regulatory Exposure
+R50M+
+37 jurisdictions, Responsible Person
+Platform Investment
+USD150,000+
+UK entity paid since 2023
+Evidence References
+All evidence from the problem statement properly cited with 100+ references including:
+·       Third-party evidence: JF1 (Shopify email), DF4/DF5/DF6 (26+ invoices)
+·       Financial evidence: JF-BS1 (bank statement), JF-DLA1/2/3 (director loans), JF-PA1-4 (Peter's withdrawals)
+·       Timeline evidence: JF5 (settlement 11 Aug), JF-INVESTMENT1 (R18M May 2026), JF9 (evidence destruction 22 May)
+·       Regulatory evidence: JF-RP1/2 (37 jurisdictions, R50M+ exposure)
+·       Criminal evidence: JF-CIPC-ADDERORY, JF-BANK-CHANGE, JF-AUDIT-DESTRUCTION
+·       Trustee evidence: JF-TRUST1, JF-BANTJIES1/2, JF5-DRAFT/FINAL/COMPARISON
+
+Relief Sought
+Primary:
+*	Set aside ex parte interdict (19 August 2025)
+*	Costs on attorney-and-client scale (including two counsel)
+*	Criminal referral to NPA (perjury, fraud, theft)
+Platform Restoration (Urgent):
+*	48-hour order for Shopify access restoration
+*	Audit trail recovery from Shopify backups
+*	Adderory account freeze
+*	Forensic investigation appointment
+Trustee Protection:
+*	Bantjies suspended pending investigation
+*	Independent interim trustee appointed
+*	Medical testing stayed until AFTER May 2026 payout
+*	R18M payout protected with beneficiary consent required
+ ----
+Warm Regards
+Dan
+
+________________________________
+From: Natan Back <Natan@ianlevitt.co.za>
+Sent: Friday, October 17, 2025 16:25
+To: Daniel Faucitt <dan@regima.com>; Jacqui Faucitt <jax@regima.zone>
+Cc: Doron Block <block@rivoniaadvocates.co.za>
+Subject: Re: FAUCITT - URGENT FEEDBACK
+Dear Daniel,
+The documents are quite difficult to follow, as they appear to have been AI-generated. I understand that you don’t typically work in Microsoft Word, but the affidavit was prepared in Word specifically so that you could insert your comments and amendments directly into the document using track changes.
+This matter has become increasingly urgent, and I am growing quite concerned. Would it be possible for you to meet with Doron and me sometime next week to go through everything together?
+
+Kind regards,
+
+NATAN BACK
+CANDIDATE ATTORNEY
+
+IAN LEVITT ATTORNEYS
+THE LEONARDO, OFFICE LEVEL 12,
+75 ON MAUDE STREET
+SANDTON, 2196
+DX 54 SANDTON SQUARE
+TEL:     011 784 3310 
+FAX TO EMAIL :   086 579 5368
+www.ianlevitt.co.za <https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ianlevitt.co.za_&d=DwMF-g&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=wD-k21ETaCsEozw-5c-fy3pVbH9rpZs18vDbgA95GhGgDt1jKqlzzbV2HBQF857W&s=xAWpsPgX7cg0YwGjLDBo-Ax47kG2X24-ZvhAazZ8Owc&e=> 
+CONFIDENTIALITY NOTICE: 
+This email is intended solely for the recipient(s) to whom this email is addressed. This email is confidential in nature and may also contain information and / or attachments which may be legally privileged and exempt from disclosure. Any unauthorised access, disclosure, copying, or distribution of its contents is strictly prohibited. If you are not the intended recipient, please notify the sender immediately and delete this email from your system. 
+
+Ian Levitt Attorneys (“ILA”) will never send you an email about a change of the ILA banking details and/or information. This applies to emails and letters received on the company letterhead. Any email mentioning a change of the banking details is false, fraudulent and likely a scam. Kindly contact Linda Guyo at ILA immediately should you receive an email requiring you to effect payment to different account details as that is likely false, fraudulent, or an online phishing scam.
+
+________________________________
+From: Daniel Faucitt <dan@regima.com>
+Sent: Thursday, October 16, 2025 12:23:51 PM
+To: Natan Back <Natan@ianlevitt.co.za>; Jacqui Faucitt <jax@regima.zone>
+Cc: Ian Levitt <ian@ianlevitt.co.za>; Doron Block <block@rivoniaadvocates.co.za>
+Subject: Re: FAUCITT - URGENT FEEDBACK
+Dear Natan
+I don't use Word or anything outside of coding so I did the content and i've been struggling for 24 hours to try and render the markdown into your original document with algorithmic processors.. If I spend any longer on the formatting there will be nothing so it seems we need someone who is able to help with formatting documents how you need them. I can generate markdown and convert to pdf & docx but to actually recover the original formatting requires using the actual word program.
+Anyway the best I can do is send the docx versions I have with the AD headers. Please let me know if you can open this then I will format the others similarly and send.
+Warm Regards
+Dan
+________________________________
+From: Daniel Faucitt <dan@regima.com>
+Sent: Wednesday, 15 October 2025 19:34
+To: Natan Back <Natan@ianlevitt.co.za>; Jacqui Faucitt <jax@regima.zone>
+Cc: Ian Levitt <ian@ianlevitt.co.za>; Doron Block <block@rivoniaadvocates.co.za>
+Subject: Re: FAUCITT - URGENT FEEDBACK
+It's nearly done with each AD processed and a series of notes 90% there i'm just cross-referencing the response paras with the notes and annexures will send through soon.
+Warm Regards,
+Dan 
+________________________________
+From: Natan Back <Natan@ianlevitt.co.za>
+Sent: Wednesday, 15 October 2025 18:38
+To: Daniel Faucitt <dan@regima.com>; Jacqui Faucitt <jax@regima.zone>
+Cc: Ian Levitt <ian@ianlevitt.co.za>; Doron Block <block@rivoniaadvocates.co.za>
+Subject: FAUCITT - URGENT FEEDBACK
+Dear Jacqui and Daniel,
+We have sent our draft for consideration over a week ago. We have not received the draft back with comments and we are very concerned as this is getting further delayed.  
+Please urgently send the draft with comments and accompanying annexures as originally requested, along with the detailed note requested on the relevance of documents provided. We will not be in a position to assist unless this is sent. 
+Please treat this as urgent.
+
+Kind regards,
+
+NATAN BACK
+CANDIDATE ATTORNEY
+
+IAN LEVITT ATTORNEYS
+THE LEONARDO, OFFICE LEVEL 12,
+75 ON MAUDE STREET
+SANDTON, 2196
+DX 54 SANDTON SQUARE
+TEL:     011 784 3310 
+FAX TO EMAIL :   086 579 5368
+www.ianlevitt.co.za <https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ianlevitt.co.za_&d=DwMF-g&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=JJknZ6BPRlbTmp7wSu9T-lW6a7RBhfklZE606roCZQMt0H92Mqd1ZDz3MTA842lw&s=nxjutmhbE0tQRSuveKrEoTMs5e68WRv4dtwCK3mNwhw&e=> 
+CONFIDENTIALITY NOTICE: 
+This email is intended solely for the recipient(s) to whom this email is addressed. This email is confidential in nature and may also contain information and / or attachments which may be legally privileged and exempt from disclosure. Any unauthorised access, disclosure, copying, or distribution of its contents is strictly prohibited. If you are not the intended recipient, please notify the sender immediately and delete this email from your system. 
+
+Ian Levitt Attorneys (“ILA”) will never send you an email about a change of the ILA banking details and/or information. This applies to emails and letters received on the company letterhead. Any email mentioning a change of the banking details is false, fraudulent and likely a scam. Kindly contact Linda Guyo at ILA immediately should you receive an email requiring you to effect payment to different account details as that is likely false, fraudulent, or an online phishing scam.

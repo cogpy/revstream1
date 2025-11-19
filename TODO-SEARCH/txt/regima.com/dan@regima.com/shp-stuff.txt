@@ -1,0 +1,23 @@
+﻿From:	"Daniel Faucitt" <dan@regima.com>
+Sent:	25/08/2025 18:22:43
+To:	"Daniel Faucitt" <dan@regima.com>
+Subject:	shp-stuff
+
+Download recovery codes
+You’ve set up your SMS delivery method.
+The next time you log in, you'll receive a text message containing an authentication code.
+Secure your recovery codes
+To secure your codes, you’ll need to download them. Once downloaded, it’s recommended that you save your codes in a password manager like Lastpass <https://www.lastpass.com/> or 1Password <https://1password.com/> .
+Recovery codes
+You can use your codes to log in if you lose access to your device.
+*	5184-4613-C5F3
+*	 95DE-AD15-54D2
+*	 C613-7AF8-5543
+*	 78E8-E900-BB8B
+*	 A372-2C9D-138B
+*	 DC92-DB49-79EC
+*	 6EE2-9331-101A
+*	 3816-7ED7-502F
+*	 DAA2-964D-4E26
+*	 8631-337D-AA66
+Each code can only be used once. Learn more about recovery codes <https://help.shopify.com/en/manual/your-account/account-security/two-step-authentication/recovery-codes> .

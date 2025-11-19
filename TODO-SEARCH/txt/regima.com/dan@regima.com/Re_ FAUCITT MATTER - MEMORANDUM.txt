@@ -1,0 +1,73 @@
+﻿From:	"Daniel Faucitt" <dan@regima.com>
+Sent:	09/11/2025 16:41:03
+To:	"Natan Back" <Natan@ianlevitt.co.za>; "Jacqui Faucitt" <jax@regima.zone>
+Subject:	Re: FAUCITT MATTER - MEMORANDUM 
+Attachments:	Uniform Rules of Court [F].pdf
+
+Dear Natan and All
+
+I will take a look but in the meantime here are some clarifying points regarding terms of art from my industry (Engineering) as distinct from Marketing jargon:
+
+The term "AI" (Artificial Intelligence) is a meaningless marketing term usually referring to anything shiny with an API key that permits Client-side rendering by the host.
+
+The real Engineering disciplines are forms of "ML" (Machine Learning) with two broad subcategories:
+1.	Training Models for structuring entity attributes as Data, Information, Knowledge graphs to reduce the loss function
+2.	
+	Inference Engines for processing logical relations as Deduction, Induction, Abduction operations to reduce the search space
+
+Your reference indicates my use of "Engine" may have caused some confusion. It basically means a "lookup database" eg.
+*	When you type keywords into Google and it returns results filtered by those keywords, the type of service provided is called a "Search Engine".
+*	
+	When you type keywords into Legal Databases like Searching Help | SAFLII <https://www.saflii.org/content/searching-help.html>  its the same concept (see excerpt below):
+
+    Searching Help
+SAFLII uses an Open Source search engine called SINO, developed by AustLII.
+If you have never used an Internet search engine before you can have SINO do most of the work for you.
+A search engine is a computer program that presents you with a list of documents  that match the criteria which you specify. 
+You specify the criteria in the form of 'show me all documents that have the words X, Y and Z in them'.
+You can narrow the criteria, for example: 'show me documents from Botswana High Court with the words X, Y and Z in them'.
+The important thing to note is that the SINO search engine will return to you a list of documents that contain the words (or phrases) that you specify.
+
+Where Rule 42 can be found:
+Please find attached the Uniform Rules of Court (where Rule 42 is elucidated) and below inline a screenshot of the rule:
+From the conditional statements it is clear that (a) refers to ex parte scenarios and the  is desire relief and make application.
+
+1.	    "The court may ... upon the application of any party affected, rescing or vary -"
+1.	     "an order or judgement erroneously sought or erroneously granted in the absence of any party affected thereby ;"
+        ... 
+2.	     "Any party desiring any relief under this rule shall make application therefor ..."
+
+So I don't see why there would be any problem with filing such an application given the stated requirements.
+My frustration mostly arises from what I perceive as an extreme reluctance on your part to make an application for relief under rule 42 when it looks to me like a fairly standard uniform rule of the court like any other.
+As for the burden of proof, it requires evidence of material non-disclosure by the applicant, not the actual proof of criminal conduct itself as that would be dealt with once it is referred to the commercial crimes court.
+
+Anyway I hope that clarifies at least a few general points.
+Warm Regards
+Dan
+
+________________________________
+From: Natan Back <Natan@ianlevitt.co.za>
+Sent: Sunday, 09 November 2025 14:12
+To: Jacqui Faucitt <jax@regima.zone>; Daniel Faucitt <dan@regima.com>
+Cc: Ian Levitt <ian@ianlevitt.co.za>; Doron Block <block@rivoniaadvocates.co.za>
+Subject: FAUCITT MATTER - MEMORANDUM
+Dear Jacqui and Daniel, 
+Please find a memorandum for your consideration. 
+
+Kind regards,
+
+NATAN BACK
+CANDIDATE ATTORNEY
+
+IAN LEVITT ATTORNEYS
+THE LEONARDO, OFFICE LEVEL 12,
+75 ON MAUDE STREET
+SANDTON, 2196
+DX 54 SANDTON SQUARE
+TEL:     011 784 3310 
+FAX TO EMAIL :   086 579 5368
+www.ianlevitt.co.za <https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ianlevitt.co.za_&d=DwMF-g&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=5gHv4MuIQ_KPjbavvhyHlGFzn4EsrNcluVcFQI0CrsP33ayebvWJyMHPSc4RdT5l&s=7C0fHZ3vN0i4WBYaJ_8A4XyaeXZ-WQKtRYIfxUnWgMM&e=> 
+CONFIDENTIALITY NOTICE: 
+This email is intended solely for the recipient(s) to whom this email is addressed. This email is confidential in nature and may also contain information and / or attachments which may be legally privileged and exempt from disclosure. Any unauthorised access, disclosure, copying, or distribution of its contents is strictly prohibited. If you are not the intended recipient, please notify the sender immediately and delete this email from your system. 
+
+Ian Levitt Attorneys (“ILA”) will never send you an email about a change of the ILA banking details and/or information. This applies to emails and letters received on the company letterhead. Any email mentioning a change of the banking details is false, fraudulent and likely a scam. Kindly contact Linda Guyo at ILA immediately should you receive an email requiring you to effect payment to different account details as that is likely false, fraudulent, or an online phishing scam.

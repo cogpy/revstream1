@@ -1,0 +1,178 @@
+﻿From:	"Daniel Faucitt" <d@rzo.io>
+Sent:	17/10/2025 00:22:40
+To:	"Manus" <d538@manus.bot>
+Subject:	Fw: Finally a Solution to the Tech Scaling Problem for Diagnostics - Re: General Catch Up!
+Attachments:	Perfect-Company-Presentation-Q3-2023.pdfThe Diagnostic Phase - RégimA Medic Concept - April 2020 X.pdf
+
+hey man look at all this stuff.. we should research it and devise a plan for how to integrate it with skin-twin formulation engine, prime-vessel automixer IoT, skin-zone marketplace & hypergnn platform.. we could use an app on therapist phones to provide skintwin intelligence like an opencog atomspace of measurable results with ml image recognition etc
+________________________________
+From: Daniel Faucitt <dan@regima.zone>
+Sent: 18 February 2024 12:40 PM
+To: John Knowlton <john@cosmeticsolutions.co.za>
+Cc: Daniel Faucitt <d@rzo.io>; admin@zone.enterprises <admin@zone.enterprises>; Jacqui Faucitt <jax@regima.zone>; PETE@REGIMA.COM <pete@regima.com>
+Subject: Finally a Solution to the Tech Scaling Problem for Diagnostics - Re: General Catch Up! 
+Hi John
+As you may recall, our project relating to the personalised solutions aspect of RegimA Medic was brought to a temporary halt when we ran the numbers on the rollout of the technology component and discovered that while the ROI on the imaging equipment was viable for individual locations, it had no capacity to scale to the network at any point due to the constraints of co-location placed on the diagnostic phase by all high-tech, embedded hardware solutions.
+
+Please find attached a presentation of the technology I recently proposed as a scalable alternative to the tech aspect of the Diagnostics function.
+Hopefully this will be able to get us back on track 🙂 the specific solutions I am looking at for our Diagnostic requirements are:
+
+*	
+	Skincare Pro - Skin Scanner with CRM for iOS - (to test proof of concept and evaluate quality & granularity of metrics)
+*	
+	Skincare Pro | Best Skin Scanner App on iOS for AI Skin Analysis (perfectcorp.com) <https://urldefense.proofpoint.com/v2/url?u=https-3A__www.perfectcorp.com_business_solutions_online-2Dservice_skincare-2Dpro&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=nTupr4WNrlaB8Qkbfbuesl-P16JGCzuzreMccKW2fU04GyEmON5x2Vl3-V_6_7oF&s=p7Wu0_iUknUvt_vHCXxdn8JSSXmbe7GlksJ8POt6NeA&e=> 
+
+*	
+	Beauty Tech Services for Enterprise with a complete suite of AI & AR solutions - (multiple sets of apps integrated on platform)
+*	
+	Beauty Tech, AI Skin Tech, and Fashion Tech | PERFECT (perfectcorp.com) <https://urldefense.proofpoint.com/v2/url?u=https-3A__www.perfectcorp.com_business_solutions_enterprise&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=nTupr4WNrlaB8Qkbfbuesl-P16JGCzuzreMccKW2fU04GyEmON5x2Vl3-V_6_7oF&s=HI7VQ9sF0YCMHIPUj7eDbX-8LgHVWa9toEK-VfQuA3Y&e=> 
+
+Before I lay out the foundations for the broader strategy of what I mentioned on a few prior occasions: -
+Please find attached a presentation of the technology I recently proposed as a scalable alternative to the tech aspect of the Diagnostics function.
+
+The Diagnostic phase has 3 main feature sets:
+1.	 Techne space to design & implement our effectiveness metrics (enabling constraint for optimisation space)
+2.	
+	 Problem space to characterise target boundaries, methodologies, indicators, metrics & map to Solution space
+3.	 Base space to configure host environments & transport media for preservation, delivery system, active deployment, stability ect
+
+The challenge could be characterised as: - Given a Fractal bootstrap with space at Zoom level N - Action follows gradient
+*	
+	A - Medium integrated with emergent tensions (fertile R&D market innovation opening - expansion)  ~ Peace > Pioneers > Frontiers & Discoveries
+*	B - Medium within normal operating conditions (niche market landscape of specialisation dynamic - transaction) ~ Variable > Town Planners > Opportunities & Risks
+*	
+	C - Medium approaching terminal differentiation (mass market commoditisation narrowing - contraction) ~ War > Bureaucracies > Acquisitions & Consolidations
+*	
+	If A - Seed Innovation - Zoom to level N-1 & repair B(N-1) framework from A(N) [i.e. transform Companies into Marketplaces & create Niches from Departments]
+*	
+	If B - So Far So Good... 🙂 
+*	
+	If C - Level Transition - Zoom out to level N+1 & establish B(N+1) framework from C(N) [i.e. transform Marketplaces into Companies & create Niches from Cartels]
+
+The Diagnostics phase Mathematical Side Notes:
+Pattern of perennial problem of combinatorial explosion arising from nested complexity as cascade of symmetry-breaking partitions 
+Pattern of parallel computation is analogous to replication of differentials over elementary field of cardinal units (many of a kind)
+Pattern of serial computation is analogous to nested time-step integration over evolutionary field of ordinal levels (one of a kind)
+Unconstrained Optimisation - More on this later...
+
+I will put together a framework of Processes and map them to the Market Sector level (O2C etc) and demonstrate with a catalogue of exemplars in each case how what appears to be so-called "Digital Transformation" is in fact the same dynamic of aggregation & consolidation seen in commoditisation, cartels & monopoly formation. Once I can point to the specific context of each case study and relate that to the corresponding business process at the Market Sector level (N+1), hopefully it will make the unusual trends I am detecting more transparent to everyone and it will be easy to discuss the strategy moving forward.
+
+Essentially, my view is that based on the ostensible vs actual activity, the various large players in each industry are viewing each market sector as one would view a company, and taking actions as a market-level or industry-level company one level above the actual business layer. If we adjust our models and develop appropriate strategies it should be relatively easy to compete in this new landscape. At this point its just that nobody told the small business owners they were being incorporated as vassal entities :-p 
+
+From the pure hardware perspective, both expenditure and maintenance costs as well as vulnerability to changes implemented by hardware vendors, when we considered maximum reach over our SA network of approx. 1200 salons / clinics / doctors and estimated 4,000 therapists working within those outlets - given that the diagnostic equipment was already 6 figures at the low end, we worked out that to deploy the equipment to less than 5% of outlets would cost more than an in-house engineering project to design, prototype and manufacture our own purpose-specific machines.
+
+I suspect that if we provision the various features of the Enterprise platform through our sales channels alongside the products, many salons and therapists will be interested in offering the different services to their retail and treatment customers. This means that this aspect of our diagnostic requirements also presents the characteristic of an adjacent market revenue stream, which in time would hopefully subsidise the diagnostics overhead, directly providing the diagnostics we require as well as diagnostics our B2B clients need. In contrast to hardware-only, the software-only solution provisions on-demand, network scale deployment architecture, unconstrained by composition or flexibility.   
+
+________________________________
+From: John Knowlton <john@cosmeticsolutions.co.za>
+Sent: 07 February 2022 18:28
+To: Jacqui Faucitt <jax@regima.zone>
+Cc: Daniel Faucitt <d@rzo.io>; Daniel Faucitt <dan@regima.zone>; WOLF - SLACK (q7c4b8h9b9w0i1a3@rzone.slack.com) <q7c4b8h9b9w0i1a3@rzone.slack.com>; PETE@REGIMA.COM <pete@regima.com>
+Subject: Re: General Catch Up! 
+
+Dearest Jacqui,
+
+Well, I have had quite a day and only just poured a cold one – as you say, a lot going on again at the moment!  I have made some comments below, highlighted in red.  Have a wonderful evening Jacqui and give my love to Danny & Pete!
+
+Lots of love,
+
+John
+xx
+
+John Knowlton  C.Chem, MRSC, Dip. Cos. Sci. (GB)
+Cosmetic Solutions,
+9 Maletsatsi,
+North Road,
+Edenburg,
+Rivonia,
+Sandton
+2128
+PO Box 5646
+Rivonia
+2128
+Tel:   +27 11 234 2603
+Fax:  +27 11 507 5857
+Cell:  +27 82 451 3422
+E-Mail:  john@cosmeticsolutions.co.za <mailto:john@cosmeticsolutions.co.za> 
+Skype Name:  johnknow
+VAT No:  4780216356
+Company Reg. No:  2000/065972/23
+
+From: Jacqui Faucitt <jax@regima.zone>
+Date: Monday, 7 February 2022 at 17:45
+To: John Knowlton <john@cosmeticsolutions.co.za>
+Cc: Daniel Faucitt <d@rzo.io>, Daniel Faucitt <dan@regima.zone>, "WOLF - SLACK (q7c4b8h9b9w0i1a3@rzone.slack.com)" <q7c4b8h9b9w0i1a3@rzone.slack.com>, Peter Faucitt <pete@regima.com>
+Subject: RE: General Catch Up!
+
+OMG John, just got back in.  I cannot believe it all.
+
+First of all, don’t worry about the Medic CIPC Return I will let Rynette know.  Not sure sure why they send to you and not to all 4 of us, as they did last time.  We have someone who sorts all this stuff out for us, ha ha.  I thought as much Jacqui but I just wanted to check.
+
+Lumiere news sounds good initially, fingers crossed.  If we have to take something out, I am not sure what could replace, and whether we should replace the alpha-arbutin, if that is the cause.  Maybe the other ingredients with the tranexamic Acid, could carry it from the marketing point of view, particularly if it is proven to have a good lightening effect without it??  If there is a compatibly problem between tranexamic acid and alpha-arbutin (which I am hoping isn’t the case and it is the emulsifier that’s causing the problem) then I think that we should remove the latter and keep the tranexamic acid in, probably at a concentration of between 3% and 5%.  I will find another nice active ingredient for us to include!
+
+I have just been googling AMKA, as I have to admit, I don’t know them.  AMKA are quite big clients of mine, not on formulation but rather on regulatory and advertising compliance.  I don’t think this acquisition will affect my relationship with AMKA in any way?
+
+However, Jackie Swart may get what she deserves.  Eish, they have really hit the skids.  Remember they had that meeting with you, and a meeting with Danny, and both of you turned them down.  Thank goodness.  Yes, they wanted to employ me as their “Global R & D Director” – thank goodness I said no!  I had heard, even at that time, that Ascendis were in financial difficulty (one of the many reasons I said “no” to the job) and so it came to pass….  The irony here, is it was me that developed the many of the initial Nimue products between 1998 and 2003, when the company was owned by Johan Franck.
+
+It all seems to be happening.  We are awaiting our attorney regarding Karen.  She has turned really bad, evil in fact.  How sad and disappointing this is Jacqui, especially after so many years of friendship and all that you have done for Karen over those years.  The older I get, the more disappointed I become with the state of the human race and here is a case in point….The story is long and I will give you a call once it has been sorted out, but we have to get her out of the business as she is doing so many things, working with Tracey, the other renegade and a couple of others.  They don’t deserve to do business as most of it seems to be fraudulent.
+
+John, thank you so much for the update.  We will chat very soon.
+
+Lots of love
+
+Xx Jacqui
+
+From: John Knowlton <john@cosmeticsolutions.co.za>
+Sent: Monday, 07 February 2022 3:47 PM
+To: Jacqui Faucitt <jax@regima.zone>
+Cc: Daniel Faucitt <d@rzo.io>; Daniel Faucitt <dan@regima.zone>
+Subject: General Catch Up!
+
+Dearest Jacqui,
+
+It seems like a lifetime since we have been in touch, so I hope that all is well with you, Pete and Danny.  Jacqui, there are several things that I wanted to update you on:
+
+RégimA Medic CIPC Return
+
+I received the attached mail from the CIPC over the weekend and I just wanted to make sure that there is nothing I have to do in assisting the filing of the CIPC return?  If there is, then perhaps you or Danny could let me know?
+
+Lumiére de Monaco Formulation Challenges
+
+Some good news at last!  We have been investigating the possible causes of the current formulation going brown and it looks like it is one of the following:
+
+*	An incompatibility between tranexamic acid and the current emulsifier
+*	An incompatibility between tranexamic acid and alpha-arbutin
+
+Lizette, is going to look at the above to see if we can get to the bottom of things?  If it transpires that the problem is the alpha-arbutin not being compatible with the tranexamic acid, then I think that we should add another skin lightening active – do you perhaps have any preferences you would like us to look at, given the “medical” positioning of the range?
+
+AMKA Acquire Nimue
+
+Yes, you read that correctly!  I may be wrong, but this is going to become a case-study in the future of “how not to make an acquisition” and will probably be even more disastrous than when L’Oreal acquired the Body Shop some years ago.
+
+I cannot think of two companies that are further apart that Nimue and AMKA in the context of culture, management style and product offering,  never mind their respective head offices in Sandton and Sunderland Ridge!  My prediction here is “tears aplenty” and then some….the some people sitting in the Nimue offices in Sandton right now who haven’t got a clue what is about to hit them! 🙈🙈🙈  Jackie Swart will not be a “happy camper” working for AMKA! 
+
+Jacqui, I think that’s all for now and we’ll let you know as soon as possible what the outcomes of the further work on Lumiére de Monaco – fingers crossed that we sort it soon!
+
+Lots of love,
+
+John
+xx
+
+John Knowlton  C.Chem, MRSC, Dip. Cos. Sci. (GB)
+Cosmetic Solutions,
+9 Maletsatsi,
+North Road,
+Edenburg,
+Rivonia,
+Sandton
+2128
+PO Box 5646
+Rivonia
+2128
+Tel:   +27 11 234 2603
+Fax:  +27 11 507 5857
+Cell:  +27 82 451 3422
+E-Mail:  john@cosmeticsolutions.co.za <mailto:john@cosmeticsolutions.co.za> 
+Skype Name:  johnknow
+VAT No:  4780216356
+Company Reg. No:  2000/065972/23

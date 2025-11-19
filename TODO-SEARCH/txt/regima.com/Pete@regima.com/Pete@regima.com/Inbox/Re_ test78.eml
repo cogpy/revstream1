@@ -1,0 +1,130 @@
+Received: from JN3P275MB2599.ZAFP275.PROD.OUTLOOK.COM
+ ([fe80::76d9:c24:4491:10aa]) by JN3P275MB2599.ZAFP275.PROD.OUTLOOK.COM
+ ([fe80::76d9:c24:4491:10aa%5]) with mapi id 15.20.8901.024; Sun, 6 Jul 2025
+ 10:34:01 +0000
+Received: from JNZP275MB1418.ZAFP275.PROD.OUTLOOK.COM (2603:1086:0:4b::11) by
+ CP7P275MB1318.ZAFP275.PROD.OUTLOOK.COM with HTTPS; Sun, 6 Jul 2025 10:34:04
+ +0000
+Received: from JN3P275MB2599.ZAFP275.PROD.OUTLOOK.COM (2603:1086:0:b0::13) by
+ JNZP275MB1418.ZAFP275.PROD.OUTLOOK.COM (2603:1086:0:4b::11) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.8901.26; Sun, 6 Jul 2025 10:34:02 +0000
+Return-Path: Pete@regima.com
+References: <JNZP275MB1321EE6AB97F2F22791AE6D9CB4CA@JNZP275MB1321.ZAFP275.PROD.OUTLOOK.COM>
+From: "Peter Faucitt" <Pete@regima.com>
+Sender: "Peter Faucitt" <Pete@regima.com>
+To: "Daniel Faucitt" <dan@regima.com>
+Cc: "Org RegimA" <org@regima.com>
+In-Reply-To: <JNZP275MB1321EE6AB97F2F22791AE6D9CB4CA@JNZP275MB1321.ZAFP275.PROD.OUTLOOK.COM>
+Subject: Re: test78
+Date: Sun, 6 Jul 2025 12:34:01 +0200
+Message-ID: <JN3P275MB2599B40A4DD39AC97EB78890A44CA@JN3P275MB2599.ZAFP275.PROD.OUTLOOK.COM>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_02A8_01DC570D.6F902020"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQHb7l1TXn9ys359b0OHaYKbSV5RK7Qk5hFT
+Content-Language: en-us
+msip_labels: 
+X-MS-PublicTrafficType: Email
+X-Mozilla-Status: 0011
+X-MimeOLE: Produced By Microsoft MimeOLE
+X-MS-Exchange-Organization-AuthSource: JN3P275MB2599.ZAFP275.PROD.OUTLOOK.COM
+Authentication-Results: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=regima.com;
+Thread-Topic: test78
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator: <JN3P275MB2599B40A4DD39AC97EB78890A44CA@JN3P275MB2599.ZAFP275.PROD.OUTLOOK.COM>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-Network-Message-Id: 4eda96fc-6e4b-4c6f-d83b-08ddbc789fb9
+X-MS-TrafficTypeDiagnostic: JN3P275MB2599:EE_|JNZP275MB1418:EE_|CP7P275MB1318:EE_
+X-MS-Exchange-Organization-ExpirationStartTime: 06 Jul 2025 10:34:02.8253
+ (UTC)
+x-ms-exchange-organization-originalclientipaddress: 41.76.96.174
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Office365-Filtering-Correlation-Id: 4eda96fc-6e4b-4c6f-d83b-08ddbc789fb9
+X-Microsoft-Antispam: BCL:0;ARA:13230040|366016|8096899003|41050700001;
+x-ms-exchange-organization-originalserveripaddress: 2603:1086:0:b0::13
+X-Forefront-Antispam-Report: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:JN3P275MB2599.ZAFP275.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(366016)(8096899003)(41050700001);DIR:INT;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 06 Jul 2025 10:34:01.7722
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: afbfb300-576b-4e53-ad7b-258cc55f3642
+X-MS-Exchange-CrossTenant-AuthSource: JN3P275MB2599.ZAFP275.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-Network-Message-Id: 4eda96fc-6e4b-4c6f-d83b-08ddbc789fb9
+acceptlanguage: en-US
+X-MS-Exchange-CrossTenant-MailboxType: HOSTED
+X-MS-Exchange-CrossTenant-UserPrincipalName: 0aA9H1UEk85O8wIRJ1uD+MGQQeaGN9Y8AIowM6ZqJiEGBP3IA32IIvTe29wb3UQN
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: JNZP275MB1418
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.9140632
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.8901.023
+X-Microsoft-Antispam-Mailbox-Delivery: ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(920097)(425001)(930097)(140003);
+X-Microsoft-Antispam-Message-Info: lCJlC4pVnT2tLdv9v6VT/fBQzg5teki48/T5b0ufsA0lh1F9vMBsNbzU0Op4ZVi+K1Y/oe4T4zFvFE8Jx6HaXpAAB4rgKlXxr8eWzIej8lDF9rE0TvUIcqUSgZc6yfIPCNh7Pv/71yUgmHBAermrdAFWnXnGN6QHLOOToZRZJQ3T0PUXI7dtQfZ/Q3NBWbPQWCd259OEGJnTRAcgsFPuj//cp7jju+W2olxJHLaB/CygGvCIK+c+jKPmw/IstuPDCdFYSuFKS5gLpCabJpRzrDncUKenZWyhzxFblvvrAbnL1TCSl9nSn6/5Fkw6ke54MPvUXP6SsHVGUmv9Zpoh8o69uBI4uIRgulmQSp91M0wnXC2fMC5e0ChVaY9LY/CHamILNF5DQkBYFYp9/JeBLibdPyF3TVRehwO5VWTyRFDIpTEB3fAH2zYd1l1+8dwi94brJoOcN56kAk9VcX3wz6BQ89D4qSg3d+OeFRi1SnNhUG9a57FrIs44f8u1MBcqLjg4tuUJUEXPvQYztQPe68JGLenHoniGu2Iw28vdDZsB4qQtbJoDVVvhggS6vucACktVgN90UqOIc5OwQbhLuibk4JdETcVhcRYdcSTWR2ZaZ7ZVuIMXZ/LBiInLyWAUsXrqF00j6SAJBm56Sc+vZENyvDajMNnibQh98qS+cQdjg7gXE9TBDeLZamjFlPtoykpLMxQ0jhay0RjtIP8NozQvrpvujdhashODdxv+NsjFokTDgC3DpaVE207Sd1AGNvG72bKH75A8c5tUVmGamPLwpobOxIGX0dDeGH4t3aU=
+x-ms-exchange-organization-authmechanism: 04
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_02A8_01DC570D.6F902020
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+test99
+  _____  
+
+From: Daniel Faucitt <dan@regima.com>
+Sent: Sunday, July 6, 2025 12:04 PM
+To: Peter Faucitt <Pete@regima.com>
+Subject: test78 
+ 
+test78
+
+------=_NextPart_000_02A8_01DC570D.6F902020
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dus-ascii">
+<style type=3D"text/css" style=3D"display:none;"> P =
+{margin-top:0;margin-bottom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div class=3D"elementToProof" style=3D"font-family: Aptos, =
+Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; =
+font-size: 12pt; color: rgb(0, 0, 0);">
+test99</div>
+<div id=3D"appendonsend"></div>
+<hr style=3D"display:inline-block;width:98%" tabindex=3D"-1">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" =
+style=3D"font-size:11pt" color=3D"#000000"><b>From:</b> Daniel Faucitt =
+&lt;dan@regima.com&gt;<br>
+<b>Sent:</b> Sunday, July 6, 2025 12:04 PM<br>
+<b>To:</b> Peter Faucitt &lt;Pete@regima.com&gt;<br>
+<b>Subject:</b> test78</font>
+<div>&nbsp;</div>
+</div>
+<style type=3D"text/css" style=3D"display:none">
+<!--
+p
+	{margin-top:0;
+	margin-bottom:0}
+-->
+</style>
+<div dir=3D"ltr">
+<div class=3D"x_elementToProof" =
+style=3D"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri=
+,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+test78</div>
+</div>
+</body>
+</html>
+
+------=_NextPart_000_02A8_01DC570D.6F902020--

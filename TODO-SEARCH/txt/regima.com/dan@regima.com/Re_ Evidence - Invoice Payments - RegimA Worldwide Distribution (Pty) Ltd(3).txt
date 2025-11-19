@@ -1,0 +1,370 @@
+﻿From:	"Daniel Faucitt" <dan@regima.com>
+Sent:	13/10/2025 19:48:08
+To:	"Natan Back" <Natan@ianlevitt.co.za>; "Doron Block" <block@rivoniaadvocates.co.za>
+Subject:	Re: Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd
+Attachments:	Post-Murder_Systematic_Takeover_and_Audit_Trail_Hijacking_Timeline.docxPost-Murder_Systematic_Takeover_and_Audit_Trail_Hijacking.docxForum_Strategy_Analysis_Civil_vs._Criminal_Evidence.docx
+
+These are quite important to both cases but I can't admit anything commercial that may compromise the murder investigation
+________________________________
+From: Daniel Faucitt <dan@regima.com>
+Sent: Monday, 13 October 2025 18:56
+To: Natan Back <Natan@ianlevitt.co.za>; Doron Block <block@rivoniaadvocates.co.za>
+Cc: Jacqui Faucitt <jax@regima.zone>; Ian Levitt <ian@ianlevitt.co.za>
+Subject: Re: Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd
+
+https://github.com/cogpy/ad-res-j7 <https://urldefense.proofpoint.com/v2/url?u=https-3A__github.com_cogpy_ad-2Dres-2Dj7&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=u1dW4-JS03WVDX-qi5Bh2eQrX76LtgyC-T1Psvn5qICqkCojrPnmjc4PH7IxwhvE&s=qvHOkbR-EEOyPr60wj9Fj_ptHx-NMQEunqQHRxSFsK8&e=> 
+
+I'm going to load the full file directory there and the document you worked on with the required changes and the partly updated version..
+The important thing is that the situation is completely different from how it was represented.. 
+It's nothing like a family business.. Its about 30-40 companies, many of which are 100% mine for a decade after pete threw us out of the office in 2016.
+Now nthey are successfull and he is trying to use the family trust to steal everything and threaten us with forced medical experiments..
+So everything needed to be rewritten to represent the actual situation..
+All of it will be in that repo as it develops the main processing tree looks something like below so it will be a smaller version of that as it develops:
+ubuntu@sandbox:~ $ cd /home/ubuntu/analysss && tree -L 2 -d 
+| head -100 . 
+├── affidavit_work 
+│   ├── analysis 
+│   ├── corrections 
+│   ├── recommendations 
+│   └── versions 
+├── alembic 
+├── analysis 
+├── analysis-frontend 
+│   ├── node_modules 
+│   ├── public 
+│   └── src 
+├── analysis_outputs 
+├── case_2025_137857 
+│   ├── 01_court_documents 
+│   ├── 02_evidence 
+│   ├── 03_analysis 
+│   ├── 05_medical_records 
+│   ├── 06_financial_fraud 
+│   ├── 07_legal_research 
+│   ├── 08_case_notes 
+│   ├── analysis 
+│   ├── case_draft_docs 
+│   ├── document_significance_analysis 
+│   ├── forensic_analysis 
+│   ├── legal_analysis 
+│   ├── legal_briefs 
+│   └── legal_templates 
+├── case_2025_137857_professional_court_docs 
+│   ├── 01_Case_Summary 
+│   ├── 02_Evidence_Index 
+│   ├── 03_Timeline 
+│   ├── 04_Court_Documents 
+│   └── 06_Legal_Analysis 
+├── config 
+├── crim 
+│   ├── case_files 
+│   ├── evidence 
+│   ├── frameworks 
+│   ├── prosecution 
+│   └── timelines 
+├── docs 
+│   ├── analysis 
+│   ├── evidence 
+│   ├── jacqui-faucitt-draft-response 
+│   ├── legal 
+│   ├── models 
+│   ├── peter-faucitt-interdict 
+│   └── technical 
+├── entities 
+├── evidence 
+│   ├── formal_notice_july_2025 
+│   ├── formal_notice_july_2025_automated 
+│   ├── regima_financial_2025 
+│   ├── rezonance 
+│   ├── sa_ai_legislation_compliance 
+│   └── trial_balances_2020 
+├── evidence_md 
+├── examples 
+├── frameworks 
+├── hypergraph_visualizations 
+├── jax-response 
+│   ├── AD 
+│   ├── analysis-output 
+│   ├── evidence-attachments 
+│   ├── family-trust 
+│   ├── financial-flows 
+│   ├── peter-interdict 
+│   ├── revenue-theft 
+│   └── source-documents 
+├── models 
+│   └── frameworks 
+├── murder-theft 
+│   ├── bantjies-letters 
+│   ├── kayla-murder 
+│   ├── missing-funds 
+│   ├── nuclear-evidence 
+│   └── rezonance-evidence 
+├── scripts 
+├── sims 
+├── src 
+│   ├── affidavit_enhancement 
+│   ├── api 
+│   ├── cases 
+│   ├── data_processing 
+│   ├── database_sync 
+│   ├── evidence_automation 
+│   ├── fraud_analysis 
+│   ├── models 
+│   ├── simulations 
+│   └── utils 
+├── tests 
+│   ├── api 
+│   ├── integration 
+│   └── unit 
+├── tools 
+└── utils 96 directories
+
+________________________________
+From: Natan Back <Natan@ianlevitt.co.za>
+Sent: Monday, October 13, 2025 18:37
+To: Daniel Faucitt <dan@regima.com>; Doron Block <block@rivoniaadvocates.co.za>
+Cc: Jacqui Faucitt <jax@regima.zone>; Ian Levitt <ian@ianlevitt.co.za>
+Subject: Re: Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd
+Hi Daniel, 
+Where is the MS Word document with the affidavit that Doron and I worked on with yours and Jacqui's comments? This is not enough and I need the annexures as proof in connection to the paragraphs of our draft. 
+This is urgent, please. 
+
+Kind regards,
+
+NATAN BACK
+CANDIDATE ATTORNEY
+
+IAN LEVITT ATTORNEYS
+THE LEONARDO, OFFICE LEVEL 12,
+75 ON MAUDE STREET
+SANDTON, 2196
+DX 54 SANDTON SQUARE
+TEL:     011 784 3310 
+FAX TO EMAIL :   086 579 5368
+www.ianlevitt.co.za <https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ianlevitt.co.za_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=u1dW4-JS03WVDX-qi5Bh2eQrX76LtgyC-T1Psvn5qICqkCojrPnmjc4PH7IxwhvE&s=WjTmhuIVk4AAaqfVGdrmJZqXB3SsCZ0K_at81Yip0PI&e=> 
+CONFIDENTIALITY NOTICE: 
+This email is intended solely for the recipient(s) to whom this email is addressed. This email is confidential in nature and may also contain information and / or attachments which may be legally privileged and exempt from disclosure. Any unauthorised access, disclosure, copying, or distribution of its contents is strictly prohibited. If you are not the intended recipient, please notify the sender immediately and delete this email from your system. 
+
+Ian Levitt Attorneys (“ILA”) will never send you an email about a change of the ILA banking details and/or information. This applies to emails and letters received on the company letterhead. Any email mentioning a change of the banking details is false, fraudulent and likely a scam. Kindly contact Linda Guyo at ILA immediately should you receive an email requiring you to effect payment to different account details as that is likely false, fraudulent, or an online phishing scam.
+
+________________________________
+From: Daniel Faucitt <dan@regima.com>
+Sent: Monday, 13 October 2025 18:33
+To: Natan Back <Natan@ianlevitt.co.za>; Doron Block <block@rivoniaadvocates.co.za>
+Cc: Jacqui Faucitt <jax@regima.zone>; Ian Levitt <ian@ianlevitt.co.za>
+Subject: Re: Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd
+Ok let me do it like this..
+
+Are you able to see this repo:
+
+https://github.com/cogpy/ad-res-j7 <https://urldefense.proofpoint.com/v2/url?u=https-3A__github.com_cogpy_ad-2Dres-2Dj7&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=u1dW4-JS03WVDX-qi5Bh2eQrX76LtgyC-T1Psvn5qICqkCojrPnmjc4PH7IxwhvE&s=qvHOkbR-EEOyPr60wj9Fj_ptHx-NMQEunqQHRxSFsK8&e=> 
+
+---
+
+# AD Response J7 - Case 2025-137857 Analysis
+
+This repository contains a comprehensive analysis of Case 2025-137857, involving Peter Andrew Faucitt (Applicant) vs. Jacqueline Faucitt and Daniel James Faucitt (Respondents).
+It is structured to mirror the analytical framework while providing a clear and organized view of the case materials.
+
+## Case Overview
+
+- **Case Number:** 2025-137857
+- **Court:** High Court of South Africa, Gauteng Division, Pretoria
+- **Applicant:** Peter Andrew Faucitt
+- **Respondents:** Jacqueline Faucitt, Daniel James Faucitt, and associated corporate entities.
+
+This case involves a dispute between the applicant and the respondents concerning the management and financial affairs of several interconnected companies.
+The applicant has made numerous allegations of financial misconduct, which the respondents refute. This repository contains the evidence and analysis to support the respondents' case.
+
+## Repository Structure
+
+The repository is organized into the following key directories:
+
+- **`case_2025_137857/`**: Contains all documents directly related to the court case, including court filings, evidence, and legal analysis.
+- **`affidavit_work/`**: Contains the analysis and drafts of the affidavits.
+- **`evidence/`**: Contains raw evidence, such as bank records, Shopify reports, and invoices.
+- **`jax-dan-response/`**: Contains the specific response of Jacqueline and Daniel Faucitt, including their analysis and evidence.
+- **`docs/`**: Contains additional documentation, including technical and legal analysis.
+- **`tools/`**: Contains scripts and tools used for analysis.
+- **`config/`**: Contains configuration files for the tools.
+
+## Getting Started
+
+To understand the case, it is recommended to start with the following documents:
+
+1.  **Court Application:** `case_2025_137857/01_court_documents/KF0019-SecondApplication-03.10.2025.pdf`
+2.  **Draft Response:** `jax-dan-response/source-documents/DRAFTOFMAINPOINTS-RESPONSE.docx`
+3.  **Affidavit Analysis Summary:** `affidavit_work/analysis/Affidavit_Analysis_-_Summary_of_Three-Part_Classification.docx`
+
+This repository is an ongoing project and will be updated as more information becomes available.
+
+________________________________
+From: Daniel Faucitt <dan@regima.com>
+Sent: Monday, October 13, 2025 17:39
+To: Natan Back <Natan@ianlevitt.co.za>; Doron Block <block@rivoniaadvocates.co.za>
+Cc: Jacqui Faucitt <jax@regima.zone>; Ian Levitt <ian@ianlevitt.co.za>
+Subject: Re: Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd
+Ok will send shortly its just taking a long time to make sure there are no speculative claims or potentially defamatory opinions that are not substantiated by material evidence etc.. If we make one arbitrary comment that isn't irrefutable he will use it against us in every case for the next 10 years.. I'll send what I have so far in the next few minutes and we just need to double check it before finalizing.
+Also attached is a character reference our formulation chemist gave me 🙂
+Will send soon.
+Warm Regards
+Dan
+
+________________________________
+From: Natan Back <Natan@ianlevitt.co.za>
+Sent: Monday, October 13, 2025 17:18
+To: Daniel Faucitt <dan@regima.com>; Doron Block <block@rivoniaadvocates.co.za>
+Cc: Jacqui Faucitt <jax@regima.zone>; Ian Levitt <ian@ianlevitt.co.za>
+Subject: Re: Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd
+Daniel, please urgently get us the draft back - we’re losing valuable time. 
+
+Kind regards,
+
+NATAN BACK
+CANDIDATE ATTORNEY
+
+IAN LEVITT ATTORNEYS
+THE LEONARDO, OFFICE LEVEL 12,
+75 ON MAUDE STREET
+SANDTON, 2196
+DX 54 SANDTON SQUARE
+TEL:     011 784 3310 
+FAX TO EMAIL :   086 579 5368
+www.ianlevitt.co.za <https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ianlevitt.co.za_&d=DwMF-g&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=kfZKOpCTL5i7BC5_3poOkzDv3XDT2M5NzN3rbFgPB2ZVc3B_Ly86iPzD2sGA1A5F&s=VBm5UVg4t5Ej8JRBe7_4TF-jqMfq9xmJQT0epbT6FNE&e=> 
+CONFIDENTIALITY NOTICE: 
+This email is intended solely for the recipient(s) to whom this email is addressed. This email is confidential in nature and may also contain information and / or attachments which may be legally privileged and exempt from disclosure. Any unauthorised access, disclosure, copying, or distribution of its contents is strictly prohibited. If you are not the intended recipient, please notify the sender immediately and delete this email from your system. 
+
+Ian Levitt Attorneys (“ILA”) will never send you an email about a change of the ILA banking details and/or information. This applies to emails and letters received on the company letterhead. Any email mentioning a change of the banking details is false, fraudulent and likely a scam. Kindly contact Linda Guyo at ILA immediately should you receive an email requiring you to effect payment to different account details as that is likely false, fraudulent, or an online phishing scam.
+
+________________________________
+From: Daniel Faucitt <dan@regima.com>
+Sent: Monday, October 13, 2025 3:57:39 PM
+To: Doron Block <block@rivoniaadvocates.co.za>
+Cc: Natan Back <Natan@ianlevitt.co.za>; Jacqui Faucitt <jax@regima.zone>; Ian Levitt <ian@ianlevitt.co.za>
+Subject: Re: Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd
+By the way I forgot to ask last week. Do you know what the correct procedure is for this:
+"I hereby irrevocably renounce ALL rights as beneficiary of the Faucitt Family Trust effective immediately. I want nothing from this trust. Any attempts to use trust mechanisms to control me are therefore legally void."
+These trustees must be in debt or something.. these people are nuts..
+Warm Regards
+Dan
+________________________________
+From: Doron Block <block@rivoniaadvocates.co.za>
+Sent: Monday, 13 October 2025 09:53
+To: Daniel Faucitt <dan@regima.com>
+Cc: Natan Back <Natan@ianlevitt.co.za>; Doron Block <block@rivoniaadvocates.co.za>; Jacqui Faucitt <jax@regima.zone>; Ian Levitt <ian@ianlevitt.co.za>
+Subject: Re: Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd
+Thank you, 
+What we require is a detailed note explaining the relevance and importance of the documents.
+In the absence of this note, we cannot contextualise the documents. We need this is order to explain the fraud.  
+Kind regards
+Doron Block
+Advocate of the High Court of South Africa, 
+Member of the Johannesburg Society of Advocates
+
+RIVONIA GROUP OF ADVOCATES  
+7th Floor, 2 Pybus
+2 Pybus Road (Corner Rivonia Road)
+Sandton
+Johannesburg
+Tel: +2710-020-6100
+Cell: +2776-902-0152
+Email: block@rivoniaadvocates.co.za 
+
+	On 13 Oct 2025, at 09:42, Daniel Faucitt <dan@regima.com> wrote:
+	Perhaps the most important discovery is that Danie Bantjies was appointed as a trustee in July last year without my knowledge as detailed in an email from Rynette. He is the accountant for all the companies, commissioner of oaths on all company and trust documents and also a Debtor to Peter and Jacqui with over R18 million in call options becoming due in May 2026.. This is a significant conflict of interests. Given that I informed him (in what I understood to be his capacity as our accountant) in June 2025 of the financial fraud within the companies and furnished him with all the reports after which I requested an urgent forensic audit twice.. He said he was going away for 2 weeks. Iit now explains why he signed a supporting affidavit for Peter as we have been informed that the large transactions exceeding R5 million each was under his instruction whiole acting in his capacity as a trustee making restructuring decisions and reinvesting capital reserves. That is what SARS was actually auditing while the narrative was "IT expenses"..
+________________________________
+	From: Daniel Faucitt <dan@regima.com>
+	Sent: Monday, 13 October 2025 09:23
+	To: Natan Back <Natan@ianlevitt.co.za>; Doron Block <block@rivoniaadvocates.co.za>
+	Cc: Jacqui Faucitt <jax@regima.zone>; Ian Levitt <ian@ianlevitt.co.za>
+	Subject: Re: Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd
+	Hi Natan
+	I'll add the material to the document you prepared now. The main thing I was trying to do is remove speculative claims, unfounded assumptions, potentially defamatory statements of a personal or private nature, medical diagnoses, emotionally charged assertions etc. so that the content remains focused on the evidence related to the business matters in question and behaviour as observed with motivating inference where necessary.
+	Warm Regards
+	Dan
+
+________________________________
+	From: Natan Back <Natan@ianlevitt.co.za>
+	Sent: Monday, October 13, 2025 09:09
+	To: Daniel Faucitt <dan@regima.com>; Doron Block <block@rivoniaadvocates.co.za>
+	Cc: Jacqui Faucitt <jax@regima.zone>; Ian Levitt <ian@ianlevitt.co.za>
+	Subject: Re: Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd
+	Hi Daniel,
+	Where is the draft that Doron and I prepared? The document has to be in line with a format that a Court uses as per our draft. I appreciate this document for context, but we need it amplified with your documents as annexures. Please get this done urgently as we are losing valuable time. 
+	Kind regards,
+
+	NATAN BACK
+	CANDIDATE ATTORNEY
+	 <Image.jpeg>
+	IAN LEVITT ATTORNEYS
+	THE LEONARDO, OFFICE LEVEL 12,
+	75 ON MAUDE STREET
+	SANDTON, 2196
+	DX 54 SANDTON SQUARE
+	TEL:     011 784 3310 
+	FAX TO EMAIL :   086 579 5368
+	www.ianlevitt.co.za <https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ianlevitt.co.za_&d=DwMF-g&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=XoDc_WV3K7fhXG9X_ximmpGzPlZeSTxVYOMxqTJshXbPsrfVb_1yd-oofG-ZARMa&s=6lYYNKJjov-NZdPj5U3tDTKV58JzDg7tSCSLSGk9Gko&e=> 
+	CONFIDENTIALITY NOTICE: 
+	This email is intended solely for the recipient(s) to whom this email is addressed. This email is confidential in nature and may also contain information and / or attachments which may be legally privileged and exempt from disclosure. Any unauthorised access, disclosure, copying, or distribution of its contents is strictly prohibited. If you are not the intended recipient, please notify the sender immediately and delete this email from your system. 
+
+	Ian Levitt Attorneys (“ILA”) will never send you an email about a change of the ILA banking details and/or information. This applies to emails and letters received on the company letterhead. Any email mentioning a change of the banking details is false, fraudulent and likely a scam. Kindly contact Linda Guyo at ILA immediately should you receive an email requiring you to effect payment to different account details as that is likely false, fraudulent, or an online phishing scam.
+________________________________
+	From: Daniel Faucitt <dan@regima.com>
+	Sent: Monday, October 13, 2025 8:42:12 AM
+	To: Doron Block <block@rivoniaadvocates.co.za>
+	Cc: Natan Back <Natan@ianlevitt.co.za>; Jacqui Faucitt <jax@regima.zone>; Ian Levitt <ian@ianlevitt.co.za>
+	Subject: Re: Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd
+
+	I have restructured many aspects to reference evidence directly rather than speculative claims now we just need Jacqui to review and provide final instructions for which evidence is immediately available and if anything needs correction.
+	I will send my response with Shopify & Trust elements ASAP.
+	Warm Regards
+	Dan
+________________________________
+	From: Daniel Faucitt <dan@regima.com>
+	Sent: Sunday, October 12, 2025 18:34
+	To: Doron Block <block@rivoniaadvocates.co.za>
+	Cc: Natan Back <Natan@ianlevitt.co.za>; Jacqui Faucitt <jax@regima.zone>; Ian Levitt <ian@ianlevitt.co.za>
+	Subject: Re: Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd
+
+	Here is a major addition to the note
+________________________________
+	From: Daniel Faucitt <dan@regima.com>
+	Sent: Sunday, October 12, 2025 16:02
+	To: Doron Block <block@rivoniaadvocates.co.za>
+	Cc: Natan Back <Natan@ianlevitt.co.za>; Jacqui Faucitt <jax@regima.zone>; Ian Levitt <ian@ianlevitt.co.za>
+	Subject: Re: Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd
+	Hi Doron
+	Indeed I'm just ensuring I send the "hard evidence" as the points made in connection with supporting documents will be distinct from opinion-based assertions. That way we can clearly establish proven fact from disputed claim. I will send through the various parts as and when I can i'm going as fast as I can while still verifying different statements with our records.
+	Warm Regards
+	Dan & Jax
+
+________________________________
+	From: Doron Block <block@rivoniaadvocates.co.za>
+	Sent: Sunday, October 12, 2025 15:57
+	To: Daniel Faucitt <dan@regima.com>
+	Cc: Natan Back <Natan@ianlevitt.co.za>; Jacqui Faucitt <jax@regima.zone>; Ian Levitt <ian@ianlevitt.co.za>; Doron Block <block@rivoniaadvocates.co.za>
+	Subject: Re: Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd
+	Hi Daniel and Jacqui 
+	Have you had a chance to prepare the note that natan and I had requested on Friday? When can we expect the note? 
+	We need to explain the relevance of the documents to the Court - otherwise we do not have a substantive basis to anticipate / reconsider the ex Arte order. 
+	Kind regards
+	Doron Block
+	Advocate of the High Court of South Africa, 
+	Member of the Johannesburg Society of Advocates
+	<image005.jpg>
+
+	RIVONIA GROUP OF ADVOCATES  
+	7th Floor, 2 Pybus
+	2 Pybus Road (Corner Rivonia Road)
+	Sandton
+	Johannesburg
+	Tel: +2710-020-6100
+	Cell: +2776-902-0152
+	Email: block@rivoniaadvocates.co.za 
+
+		On 12 Oct 2025, at 15:52, Daniel Faucitt <dan@regima.com> wrote:
+		Please find attached invoices I have going back to June 2023 as proof that the company RegimA Worldwide Distribution (Pty) Ltd owned by Faucitt Family Trust is entirely dependent on the Shopify platform paid for by independent UK company RegimA Zone Ltd owned 100% by Daniel Faucitt and funded entirely by Daniel Faucitt.
+		Thus the sole source of revenue for all income to the trust owned entity is dependent on the Shopify platform owned by Daniel Faucitt's company. Without this it would have zero revenue since 2023.
+		This is relevant to why it appears that Trustees hijacked their own revenue stream, extracted PII in violation of ZA POPIA and UK GDPR and instructed customers to use a new email address and "order direct" from now on. This is because it was never their revenue stream to begin with. The entire operation and all funds flowing through the account were always owned by Daniel Faucitt's UK company RegimA Zone Ltd.
+		So the characterization of Daniel being dependent on the company is false. In fact all revenue for all companies was dependent on Daniel Faucitt's infrastructure.
+		<RegimA_WWD_182424713.pdf><RegimA_WWD_186164902.pdf><RegimA_WWD_190122857.pdf><RegimA_WWD_194025599.pdf><RegimA_WWD_194025833.pdf><RegimA_WWD_194170220.pdf><RegimA_WWD_198314119.pdf><RegimA_WWD_202577874.pdf><RegimA_WWD_206815428.pdf><RegimA_WWD_211145467.pdf><RegimA_WWD_215654830.pdf><RegimA_WWD_219919459.pdf><RegimA_WWD_219921131.pdf><RegimA_WWD_219952542.pdf><RegimA_WWD_219971512.pdf><RegimA_WWD_224432061.pdf><RegimA_WWD_229995998.pdf><RegimA_WWD_238981832.pdf><RegimA_WWD_248400093.pdf><RegimA_WWD_259560227.pdf>

@@ -1,0 +1,12 @@
+﻿From:	"Daniel Faucitt" <d@rzo.io>
+Sent:	03/10/2025 07:48:04
+To:	"Daniel Faucitt" <dan@regima.com>
+Subject:	Fw: json to csv script
+Attachments:	json_to_csv.py
+
+________________________________
+From: Rudolf Moehrke <wiltedfirerdi@gmail.com>
+Sent: 20 July 2023 9:13 AM
+To: Daniel Faucitt <d@rzo.io>
+Subject: json to csv script 
+Herewith attached

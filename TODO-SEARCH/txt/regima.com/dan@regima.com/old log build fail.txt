@@ -1,0 +1,6 @@
+﻿From:	"Daniel Faucitt" <dan@regima.com>
+Sent:	11/09/2025 17:40:24
+To:	"regizone" <regizone@proton.me>
+Subject:	old log build fail
+
+Failed session "build_70112284105864101012321.json"

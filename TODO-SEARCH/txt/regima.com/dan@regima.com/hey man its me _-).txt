@@ -1,0 +1,15 @@
+﻿From:	"Daniel Faucitt" <dan@regima.com>
+Sent:	08/10/2025 23:32:56
+To:	 <d538@manus.bot>
+Subject:	hey man its me :-)
+
+We need your help to clone these 3 repos into a single project & integrate the functionality:
+
+https://github.com/LayeredStudio/whoiser
+https://github.com/LayeredStudio/dns-records
+https://github.com/LayeredStudio/domain-info-extension
+
+Can you help us?
+
+Warm Regards,
+Dan

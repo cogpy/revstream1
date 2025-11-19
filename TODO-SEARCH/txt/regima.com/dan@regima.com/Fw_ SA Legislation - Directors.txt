@@ -1,0 +1,139 @@
+﻿From:	"Daniel Faucitt" <dan@regima.com>
+Sent:	01/10/2025 08:31:03
+To:	"Natan Back" <Natan@ianlevitt.co.za>
+Subject:	Fw: SA Legislation - Directors
+
+** 12th August 2025 - I think this mail I was about to take action on is what caused the panic and pre-emptive strike with the interdict..
+________________________________
+From: Daniel Faucitt <dan@regima.com>
+Sent: Tuesday, 12 August 2025 13:18
+To: Jacqui Faucitt <jax@regima.com>
+Subject: SA Legislation - Directors
+Under South African law, this scenario triggers multiple severe legal consequences across criminal, corporate, and regulatory frameworks:
+Criminal Charges - South African Legislation
+Primary Criminal Offences:
+*	Theft - Common law crime, redirecting company revenue
+*	Fraud - Common law, systemic misrepresentation
+*	Forgery and Uttering - Falsifying company records (common law)
+*	Money Laundering - Prevention of Organised Crime Act (POCA) sections 4-6
+*	Racketeering - POCA section 2 - pattern of criminal activity
+*	Corruption - Prevention and Combating of Corrupt Activities Act if any bribes involved
+Companies Act 71 of 2008 Criminal Provisions:
+*	Section 214 - False statements, reckless conduct (fine or 10 years imprisonment)
+*	Section 216 - Hindering administration/liquidation
+*	Section 22(1) - Unauthorized company activities
+De Facto Director Under SA Law
+Section 1 Companies Act Definition: "Director" includes de facto directors - anyone occupying the position regardless of designation
+Probandt Test (Fisheries Development Corporation v Jorgensen):
+*	Whether person assumed director functions
+*	Directed company affairs
+*	Participated in central management decisions
+Key SA Case Law:
+*	Burnstein v Bester - control of finances indicates directorship
+*	Howard v Herrigel - acting as director creates director duties
+*	Ex parte Lebowa Development Corporation - brief control sufficient
+By hijacking revenues and audit trails, they've clearly assumed director functions.
+Fiduciary Duties Breach - Section 76 Companies Act
+Once deemed de facto director, breached:
+*	Section 76(2) - act in good faith and for proper purpose
+*	Section 76(3)(a) - not use position for personal advantage
+*	Section 76(3)(b) - not misuse company information
+*	Section 77 - Personal liability for losses from breach
+Delinquency Application - Section 162:
+*	Lifetime director disqualification
+*	Grossly abused director position
+*	Intentionally harmed company
+Reckless Trading - Section 22 & Section 424 (1973 Act)
+Section 22 Prohibition:
+*	Cannot carry on business recklessly
+*	Personal liability attaches
+*	Criminal sanctions apply
+Section 218(2) - Personal liability for company debts during reckless period
+FICA and Banking Violations
+Financial Intelligence Centre Act (FICA):
+*	Secret accounts violate KYC requirements
+*	Banks must file Suspicious Transaction Reports (STRs)
+*	Financial Intelligence Centre investigates
+Reserve Bank Act:
+*	Unauthorized money transfers
+*	Exchange control violations if funds moved offshore
+Asset Recovery Under SA Law
+Prevention of Organised Crime Act (POCA):
+*	Chapter 5 - Civil forfeiture of proceeds
+*	Chapter 6 - Criminal forfeiture upon conviction
+*	Preservation orders - immediate freezing of assets
+*	Confiscation orders - permanent forfeiture
+National Prosecuting Authority Powers:
+*	Asset Forfeiture Unit can act immediately
+*	No conviction needed for civil forfeiture
+*	Can recover from third parties holding criminal proceeds
+Insolvency Act Implications
+Act 24 of 1936:
+*	Section 29 - Voidable dispositions
+*	Section 30 - Undue preferences reversed
+*	Section 31 - Collusive dealings set aside
+*	Section 135-137 - Criminal offences in insolvency
+If company enters business rescue/liquidation:
+*	Transactions reversed up to 2 years back
+*	Personal liability for disposition of assets
+Directors' Liability for Tax
+Tax Administration Act:
+*	Section 180 - Personal liability for company tax debts
+*	Section 183 - Representative taxpayer liability
+*	SARS can hold de facto director personally liable for:
+	*	PAYE
+	*	VAT
+	*	Company income tax during their control period
+Regulatory Response
+CIPC (Companies and Intellectual Property Commission):
+*	Can apply for delinquency order
+*	Investigate directorship breaches
+*	Refer criminal matters to NPA
+SARS:
+*	Criminal prosecution for tax evasion
+*	Lifestyle audits
+*	Jeopardy assessments
+FSB/FSCA (if applicable):
+*	Financial sector conduct violations
+*	Market abuse if listed company
+Practical Enforcement
+NPA Priority:
+*	Commercial crimes unit handles
+*	Asset Forfeiture Unit runs parallel process
+*	Hawks investigate if amount exceeds thresholds
+Private Prosecution:
+*	Section 7 Criminal Procedure Act
+*	Company/directors can pursue if NPA declines
+Civil Claims:
+*	Delictual damages claim
+*	Actio Pauliana (setting aside fraudulent transactions)
+*	Mandament van spolie for immediate restoration
+Sentencing Under SA Law
+Likely Sentences:
+*	Theft/Fraud over R500,000 - 15 years maximum
+*	Money laundering - 30 years maximum (POCA)
+*	Companies Act breaches - 10 years
+*	Sentences likely concurrent but substantial
+Prescribed Assets Recovery:
+*	No prescription while outside SA
+*	20-year prescription for criminal proceedings
+*	Civil claims may prescribe in 3 years unless fraud
+Key SA-Specific Elements
+Ubuntu Considerations:
+*	Courts consider breach of trust in business community
+*	Collective harm to stakeholders emphasized
+King IV Governance:
+*	Violated every principle
+*	Affects future corporate participation
+BEE Impact:
+*	May affect company's BEE status
+*	Fronting implications if BEE credentials involved
+Bottom Line for South Africa
+This conduct would trigger:
+1.	Immediate Asset Forfeiture Unit action
+2.	Criminal prosecution by Commercial Crimes Unit
+3.	Delinquency proceedings - lifetime ban
+4.	Personal liability for all company debts
+5.	SARS pursuing personal tax liability
+6.	Civil recovery through POCA
+The South African legal system treats this as extremely serious economic crime, with the perpetrator facing both lengthy imprisonment and complete financial ruin through asset forfeiture - even before conviction through civil forfeiture proceedings.

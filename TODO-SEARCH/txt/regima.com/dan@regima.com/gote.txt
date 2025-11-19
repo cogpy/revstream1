@@ -1,0 +1,15 @@
+﻿From:	"Daniel Faucitt" <dan@regima.com>
+Sent:	01/11/2025 07:12:54
+To:	 <d@rzo.io>
+Subject:	gote
+
+*	
+	Environment
+*	
+	API Key Details
+Copy the secret now.
+We won't display it again.
+Key
+3mM44YwfE6kABA_HHMvvez32DuJmnDjCMgdrJ
+Secret
+UXXwxtrBu3ca5AirVE1fvQ

@@ -1,0 +1,115 @@
+﻿From:	"Daniel Faucitt" <dan@regima.com>
+Sent:	16/10/2025 13:52:52
+To:	"Natan Back" <Natan@ianlevitt.co.za>; "Jacqui Faucitt" <jax@regima.zone>
+Subject:	Re: FAUCITT - URGENT FEEDBACK 
+
+## Categories of Problematic Content Removed
+
+### 1. Medical Diagnoses Without Evidence
+**Removed:** Claims about dementia and cognitive decline
+- "early-onset dementia"
+- "His memory, reasoning, and judgment have deteriorated"
+- Speculation about cognitive capacity based on age
+**Rationale:** These are medical diagnoses that require professional evaluation. Making such claims without medical evidence is both speculative and potentially defamatory.
+**Example Removal:**
+- **Original:** "His memory, reasoning, and judgment have, in my opinion, noticeably deteriorated over time (the Applicant is currently 72 years old), and I believe that he may be exhibiting signs consistent with early-onset dementia."
+- **Action:** Entire paragraph removed (Paragraph 60)
+
+### 2. Extra-Marital Affair Allegations
+**Removed:** Unsubstantiated claims about personal relationships
+- "I believe that the Applicant has started an extra-marital affair with Rynette"
+- Related conspiracy theories
+**Rationale:** These are serious personal allegations without evidentiary foundation. They are inflammatory, speculative, and irrelevant to the business matters at hand.
+**Example Removal:**
+- **Original:** "To make things worse, I believe that the Applicant has started an extra-marital affair with Rynette and that she has been manipulating him to gain access to the businesses..."
+- **Action:** Entire paragraph removed (Paragraph 65)
+
+### 3. Conspiracy Claims
+**Removed:** Speculation about coordinated actions
+- "conspiring together to exclude me and the Second Respondent"
+- Manipulation theories
+**Rationale:** Claims of conspiracy require concrete evidence. Speculation undermines credibility.
+**Example Modification:**
+- **Original:** "It bears mentioning that the Applicant is very impressionable and can be manipulated easily. His memory, reasoning, and judgment have deteriorated, and I believe he may be exhibiting signs consistent with early-onset dementia. Furthermore, I believe that he is having an extra-marital affair with Rynette and that they are conspiring together to exclude me and the Second Respondent from the businesses."
+- **Action:** Entire paragraph removed (Paragraph 18)
+
+### 4. Inflammatory Characterizations
+**Removed/Modified:** Subjective characterizations without factual basis
+- "very impressionable and can be manipulated easily"
+- "manipulating him"
+- "manipulative conduct"
+**Rationale:** These are subjective opinions that do not advance the legal arguments and may prejudice the court.
+**Example Modification:**
+- **Original:** "The Applicant's conduct during this period was menacing, volatile, and manipulative."
+- **Cleaned:** "The Applicant's conduct during this period was menacing and volatile."
+### 5. Speculative Language
+**Modified:** Converted speculation to factual statements or removed
+- "I believe that" → Removed or converted to factual statement
+- "possibly" → Removed or replaced with neutral language
+- "likely" → Changed to "could"
+- "may be" → Removed where speculative
+**Example Modification:**
+- **Original:** "I believe that Rynette has sought to mislead the Applicant..."
+- **Cleaned:** "Rynette has sought to mislead the Applicant..."
+**Example Modification:**
+- **Original:** "The Second Respondent and I believe that Rynette will do everything in her power..."
+- **Cleaned:** "The Second Respondent and I are concerned that Rynette will do everything in her power..."
+
+### 6. Unverifiable Consequences
+**Modified:** Changed absolute predictions to possibilities
+- "possibly fatal consequences" → "serious consequences"
+- "it would likely heighten" → "it could heighten"
+
+**Rationale:** Future predictions should be presented as possibilities, not certainties.
+
+## Key Paragraphs Completely Removed
+### Paragraph 18 (Index 18)
+**Content:** Claims about Peter being impressionable, dementia speculation, affair allegations, and conspiracy theories.
+**Reason:** Entirely speculative and inflammatory without evidentiary foundation.
+### Paragraph 60 (Index 57)
+**Content:** Medical diagnosis of cognitive decline and dementia based on personal observations.
+**Reason:** Medical diagnosis without professional evaluation; speculative and potentially defamatory.
+### Paragraph 65 (Index 62)
+**Content:** Allegations of extra-marital affair and manipulation.
+**Reason:** Unsubstantiated personal allegations irrelevant to business matters.
+
+## Substantive Content Preserved
+- Regulatory Responsible Person role and obligations
+- Business structure and directorship details
+- Operational responsibilities and division of labour
+- Factual timeline of events
+- Documentary evidence references
+- Legal arguments regarding the interdict
+- Settlement agreement details
+- Evidence of Rynette's access and control
+- Financial transaction details
+- Procedural arguments
+
+________________________________
+From: Natan Back <Natan@ianlevitt.co.za>
+Sent: Wednesday, October 15, 2025 18:38
+To: Daniel Faucitt <dan@regima.com>; Jacqui Faucitt <jax@regima.zone>
+Cc: Ian Levitt <ian@ianlevitt.co.za>; Doron Block <block@rivoniaadvocates.co.za>
+Subject: FAUCITT - URGENT FEEDBACK 
+Dear Jacqui and Daniel,
+We have sent our draft for consideration over a week ago. We have not received the draft back with comments and we are very concerned as this is getting further delayed.  
+Please urgently send the draft with comments and accompanying annexures as originally requested, along with the detailed note requested on the relevance of documents provided. We will not be in a position to assist unless this is sent. 
+Please treat this as urgent.
+
+Kind regards,
+
+NATAN BACK
+CANDIDATE ATTORNEY
+
+IAN LEVITT ATTORNEYS
+THE LEONARDO, OFFICE LEVEL 12,
+75 ON MAUDE STREET
+SANDTON, 2196
+DX 54 SANDTON SQUARE
+TEL:     011 784 3310 
+FAX TO EMAIL :   086 579 5368
+www.ianlevitt.co.za <https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ianlevitt.co.za_&d=DwMF-g&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=JJknZ6BPRlbTmp7wSu9T-lW6a7RBhfklZE606roCZQMt0H92Mqd1ZDz3MTA842lw&s=nxjutmhbE0tQRSuveKrEoTMs5e68WRv4dtwCK3mNwhw&e=> 
+CONFIDENTIALITY NOTICE: 
+This email is intended solely for the recipient(s) to whom this email is addressed. This email is confidential in nature and may also contain information and / or attachments which may be legally privileged and exempt from disclosure. Any unauthorised access, disclosure, copying, or distribution of its contents is strictly prohibited. If you are not the intended recipient, please notify the sender immediately and delete this email from your system. 
+
+Ian Levitt Attorneys (“ILA”) will never send you an email about a change of the ILA banking details and/or information. This applies to emails and letters received on the company letterhead. Any email mentioning a change of the banking details is false, fraudulent and likely a scam. Kindly contact Linda Guyo at ILA immediately should you receive an email requiring you to effect payment to different account details as that is likely false, fraudulent, or an online phishing scam.

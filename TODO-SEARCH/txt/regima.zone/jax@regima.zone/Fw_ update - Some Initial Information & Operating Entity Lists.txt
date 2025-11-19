@@ -1,0 +1,170 @@
+﻿From:	"Jacqui Faucitt" <jax@regima.zone>
+Sent:	02/10/2025 19:30:38
+To:	"Natan Back" <natan@ianlevitt.co.za>
+Subject:	Fw: update - Some Initial Information & Operating Entity Lists
+Attachments:	AccountTransactionsReport.pdfComputer Expenses Categorization Report (Corrected).pdfProfitAndLossReport (RWD).pdfmonthly_spending_trend.pngProfitandLoss.pdfRezonance Febr 2023.PDF
+
+________________________________
+From: Daniel Faucitt <d@rzo.io>
+Sent: Wednesday, 01 October 2025 20:45
+To: Jacqui Faucitt <jax@regima.zone>
+Cc: Daniel J. Faucitt <dan@regima.com>
+Subject: Fw: update - Some Initial Information & Operating Entity Lists 
+
+________________________________
+From: Danie Bantjes <danie.bantjes@gmail.com>
+Sent: 06 June 2025 2:30 PM
+To: Danie Bantjes <danieb@quatro.co.za>
+Subject: Fwd: update - Some Initial Information & Operating Entity Lists 
+
+Kind regards, 
+Danie Bantjes
+
+---------- Forwarded message ---------
+From: Daniel Faucitt <d@rzo.io <mailto:d@rzo.io> >
+Date: Fri, 6 Jun 2025 at 13:00
+Subject: Re: update - Some Initial Information & Operating Entity Lists
+To: Danie Bantjes <danie.bantjes@gmail.com <mailto:danie.bantjes@gmail.com> >, Jacqui Faucitt <jax@regima.zone>
+Cc: Daniel Faucitt (dan@regima.zone) <dan@regima.zone>, Daniel Faucitt <d@rzo.io <mailto:d@rzo.io> >
+
+Hi Danie
+I have been going over the figures you sent and trying to make sense of the current perceived view as compared with the actual situation in order to converge on an accurate representation of how the companies work together over the span of supply chain activities. Most notably that since I las did the accounts myself in July 2023 it appears everything is just showing up as supplier "FNB" in Worldwide (default for the bank feed) indicating that nobody has actually processed any of those accounts since Aug 2023. As a result, everything is in the wrong companies and nothing has been reconciled..
+!!! Important !!! I notice that from the one account detail I can see in RegimA Skin Treatments, a minimum of just over a million has been misallocated resulting in vanishing debt. This and likely other issues needs to be urgently rectified as if submitted as is it may be viewed as fraudulent by the receiver since it misreports forex transactions by the same amount.
+There are many other issues which I will address in order of urgency in follow-up mails but had to send you something in the meantime. Below I list the companies as Legal Entities as well as the registry for Quickbooks and 2 ZA Shopify hubs.. there are more for UK and EU.. but for now I need to try and give you an idea of the broader perspective.
+There is a great deal missing from the full picture including the context of the 2 Marketplaces, 4 Distribution platforms with 36 Shopify Stores and over 1100 B2B Salon Tenants.
+Also the 4 Companies that operate these Distribution hubs are generating sales figures and populating acounts which you have never seen as far as i know..
+Firstly, I added a whole reference library of supporting documents, templates and analyses that will be useful for refining a relevant operating framework.
+For the moment there is a temporary site here with detailed info related to computer related categorization:    https://lsdhynli.manus.space/ <https://urldefense.proofpoint.com/v2/url?u=https-3A__lsdhynli.manus.space_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=pfbcV9lQ2mCTKyhOD2QKtERakQMpey_BCiaRn-y0y6A&e=> 
+In addition here is a work-in-progress dashboard of the whole supply chain with its 3 primary systems:    Hypergraph B2B Integration System Simulation <https://urldefense.proofpoint.com/v2/url?u=https-3A__hypergraph-2Db-2D2-2Db-2Dintegration-2Dsystem-2Dsimulation-2Ddrzo.replit.app_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=CgeIcZm6qn4J5BECcww9be2JjBQykSE-QW94-MoblCA&e=> 
+Below D, J, P are Dan, Jax & Pete Director / Shareholder indicators.. so there are 4 Legally distinct groups between which simple intercompany transactions require additional transactions in order to justify asset transfer etc.
+------------------------------
+# LEGAL ENTITIES
+------------------------------
+ - J P Company: CORPCLO 2065, 2003/086391/23
+ - J P Company: CORPCLO 2304, 2005/014378/23
+ - J P Company: VILLA VIA ARCADIA NO 2, 1996/004451/23
+ - J P Company: REGIMA SKIN TREATMENTS, 1992/005371/23
+ - J P Company: REGIMA INTERNATIONAL SKIN TREATMENTS, 2008/127748/23
+ D J P Company: AYMAC INTERNATIONAL, 1999/061687/23
+ D J P Company: STRATEGIC LOGISTICS, 2008/136496/23
+ D J P Company: REGIMA MEDIC, 2017/087877/07
+ D J P Company: REGIMA SPAZONE, 2017/081833/07
+ D J P Company: REGIMA WORLDWIDE DISTRIBUTION, 2011/005722/07
+ D - P Company: REGIMA SA, 2017/087935/07
+ D - - Company: REGIMA ZONE, 2017/110437/07
+ D - - Company: REGIMA ZONE ACADEMY, 2017/113134/07
+ D - - Company: REGIMA ZONE IMPACT, 2017/109415/07
+ D - - Company: REZONANCE, 2017/081396/07
+ D - - Company: UNICORN DYNAMICS, 2016/307425/07
+ D - - Company: JOZI WAY TRADING, 2016/240702/07
+ D - - Company: PANDAMANIA, 2021/306676/07
+ D - - Company: VILLA PALMER HOMEOWNERS ASSOCIATION, 2003/030388/08
+
+------------------------------
+# QUICKBOOKS
+------------------------------
+ZA:
+RegimA Worldwide Distribution (Pty) Ltd   QuickBooks Online Advanced
+RegimA Medic (Pty) Ltd                  QuickBooks Online Plus
+RegimA Zone Academy (Pty) Ltd          QuickBooks Online Plus
+RegimA Zone Impact (Pty) Ltd            QuickBooks Online Plus
+ReZonance (Pty) Ltd                    QuickBooks Online Plus
+Unicorn Dynamics (Pty) Ltd              QuickBooks Online Plus
+K-Oz Creative (Pty) Ltd                  QuickBooks Online Plus
+Pandamania (Pty) Ltd                   QuickBooks Online Plus
+UK:
+K-Oz Creative Ltd                      QuickBooks Online Plus, QuickBooks Online Payroll Enhanced
+RegimA Dr H Wandsworth Town Ltd        QuickBooks Online Plus, QuickBooks Online Payroll Enhanced
+Regima Medic Ltd                       QuickBooks Online Plus, QuickBooks Online Payroll Enhanced
+Rezonance Ltd                         QuickBooks Online Plus, QuickBooks Online Payroll Enhanced
+Regima Zone Ltd                        QuickBooks Online Advanced, QuickBooks Online Payroll Enhanced, QuickBooks Online Payments
+RegimA Zone Academy Ltd                QuickBooks Online Plus, QuickBooks Online Payroll Enhanced
+Regima @ Dr H Ltd                           QuickBooks Online Plus, QuickBooks Online Payroll Enhanced
+ReZ                                         QuickBooks Online Plus
+R-Zone GP-BH (Brenda)                 QuickBooks Online Simple Start
+RegimA Europe Ltd                     QuickBooks Online Plus
+
+------------------------------
+# SHOPIFY
+------------------------------
+RegimA SA (Pty) Ltd                 25 Stores
+|
+RegimA SA Org                       rz-za.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__rz-2Dza.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=EnYKiOy2gltzo4C8Tmysk4TDgNrQfBXbEkB1Y4GU3mE&e=> 
+RegimA ZA Western Cape            za-wc.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__za-2Dwc.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=q6BmDKhUr89d2j7k35ppw7INHwJAWmDQMgUwFpCqVWY&e=> 
+RegimA ZA Eastern Cape            za-ec.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__za-2Dec.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=UrIjc4PGtFH8b_t690qPe3xNzSf3iVuv0FRCF00ki7c&e=> 
+RegimA ZA KwaZulu-Natal           regima-za-nl.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__regima-2Dza-2Dnl.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=1yXlIwQQbF7YjP05uy55-0LLOrtPIMNDQRThEmq11sI&e=> 
+RegimA Zone Cape Town             za-cpt.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__za-2Dcpt.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=mrY5FOuGNW5_xr4LZTF5BOBR3M6YRIe-yhcc4vvWBLI&e=> 
+RegimA Zone Durban                  za-dbn.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__za-2Ddbn.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=QokG88zXyXP7gNajYq3I1JXTUxAzv0_Hhi5bsm2WLb8&e=> 
+RegimA ZA (Alma)                  rza-as.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__rza-2Das.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=93MVnMWo_AFomeIyxd9aff6ifwI2liThr-Vl6E75y4I&e=> 
+RegimA ZA (Debbie)                  rza-dw.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__rza-2Ddw.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=j3QFmARnQwocGs-Xevu5rpfe6o3q5XDOgPxQdAIc55Q&e=> 
+RegimA ZA (Romy)                  rza-rr.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__rza-2Drr.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=iIzs0KphRoIHHM4X5ysII-WSBp651QYWNSd_1S1WgBM&e=> 
+Dev B2B DST                         dev-b2b-dst.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Db2b-2Ddst.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=ltMlFexFT_kbvBeVlBgUa0UKUW4xuI3Fs2HyC5eRZHI&e=> 
+Dev B2B EC                          dev-b2b-ec.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Db2b-2Dec.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=_paYf8Mje7QpLAlG3QNRvPvkgKnhxu_0JnWyUR-twFY&e=> 
+Dev B2B2C DST                       dev-b2b2c-dst.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Db2b2c-2Ddst.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=i5tO_GWpoOwIHXsU3xmAulyu80Kuvy8JFM5pkvuyfmE&e=> 
+Dev DST CPT                         dev-dst-cpt.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Ddst-2Dcpt.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=n9zJA3MDCFvkkHFIpfAnaEWuSnMcF133-G4Lt_3Rx3Q&e=> 
+Dev DST DBN                         dev-dst-dbn.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Ddst-2Ddbn.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=aDrPXl0HJz65kQyXoAX1OmbWVwC2nlh10pTkbafXaMI&e=> 
+Dev DST EC                          dev-dst-ec.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Ddst-2Dec.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=mjsUd3bmYikLutQyhNr-RyCPypY2nChNVIgXTpNANwo&e=> 
+Dev DST EC v2                       dev-dst-ec-v2.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Ddst-2Dec-2Dv2.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=WaCv5lKaSG_VKP_31qCoXUmaUgUf57kXwQitl9zHGG0&e=> 
+Dev DST Merge                       dev-dst-merge.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Ddst-2Dmerge.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=k6_lDBDFTpNrg8cJnW5VvCfjv26fyYL4y7XYF1k5Zbw&e=> 
+Dev DST NA                          dev-dst-na.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Ddst-2Dna.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=oH1D-SX0AmD_NZvbFV_dKttBv7xu5jWi9LFN94-wKS8&e=> 
+Dev DST NL                          dev-dst-nl.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Ddst-2Dnl.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=Myp6RCGh7OhV-4ZdrFbhoqA0NuSvLFfTFbNbolEi9w0&e=> 
+Dev DST RZA-AS                      dev-dst-rza-as.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Ddst-2Drza-2Das.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=_pTujNkHwrPZhrFXc03mNYLG5HYztbdDrn7sylYkgsE&e=> 
+Dev DST RZA-RR                      dev-dst-rza-rr.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Ddst-2Drza-2Drr.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=H1vKdsnMB11ZaJDIfacnWwlN_REN6STU8dJGBnGvX6s&e=> 
+Dev DST WC                          dev-dst-wc.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Ddst-2Dwc.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=SZrX1PEs2_iQWQhTbEHOtMNj_AowB-i8VEeHfJrxF48&e=> 
+Dev DST ZA                          dev-dst-za.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Ddst-2Dza.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=kwEp4RG-uc_SQg4x1ScUcXgg-nyrdPECBfOgI2TsABc&e=> 
+Dev Sage DST                        dev-sage-dst.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Dsage-2Ddst.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=6qpm9sQNtwE1awjPEWWlzAQ1JELZvWI2LOc3QwWq-rE&e=> 
+ReZ Demo Store                      rez-demo-store.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__rez-2Ddemo-2Dstore.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=whatdcxl8eznrrkEISCh1KKaZrPeJvuhyTT0BI39ptg&e=> 
+
+RegimA Zone (Pty) Ltd         26 Stores
+RegimA W Org                        rz-w.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__rz-2Dw.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=jjz6HU7u-LpQfTOEmxnVu4tQcjuQkeICwUoyLkmzvXQ&e=> 
+RegimA ZA Gauteng                     za-gp.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__za-2Dgp.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=-4l1iDfwRTqFe2tl4US0cwOX2iWipKwznlpy3xVO8sQ&e=> 
+RegimA Zone Joburg                  za-jhb.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__za-2Djhb.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=NRFonNq8yB7J_KNTiQkg42SP7IS3MCpeAbYA3MeUtcw&e=> 
+RegimA ZA (Brenda)                  rza-bh.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__rza-2Dbh.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=7sN_EwwEamUvU5Dc8WybWeEhkllFnWTa5y6f3IaHV2I&e=> 
+RegimA ZA (Cher)                      rza-cd.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__rza-2Dcd.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=4-b7Sgg7cuFhHzsR6Q-B9ZEBQd6DnPr08Wm0Y3Qt_3o&e=> 
+RegimA ZA (Elizabeth)                 rza-ek.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__rza-2Dek.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=Q6c3Rf3Hwvrm78KXvGMcD8QdLgkRJDC0AbK25Tfs47U&e=> 
+Dev Ent RST                         dev-ent-rst.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Dent-2Drst.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=5nQ2w-yPM39KHsGiTPr-YHQx-hfXCCXaAboESp51zgM&e=> 
+Dev KRN FS                          dev-krn-fs.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Dkrn-2Dfs.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=WQ3eRwI65T4N-051WO3ywVdi6HmeANw1DujkzWUZlSA&e=> 
+Dev KRN PTA                         dev-krn-pta.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Dkrn-2Dpta.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=JUjm1RzJpMJNTz9nDhmfIITM5tzkw99QHL3l6zMmE64&e=> 
+Dev My App                          dev-my-app.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Dmy-2Dapp.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=jpUm3OGajqYvF4UW5KNePCGd5dJBH0Os5wQ1-5fynDM&e=> 
+Dev Org KRN                         dev-org-krn.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Dorg-2Dkrn.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=Acho_2GPAntVqx8zYXvM8mgZCY0pHn5FHdWqfh63K0s&e=> 
+Dev Org RWD                         dev-org-rwd.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Dorg-2Drwd.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=yp-cs4BbOFOUaJFHU9DJch2i7isFLdhty705tpDL63g&e=> 
+Dev RWD GP                          dev-rwd-gp.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Drwd-2Dgp.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=AejoaeRI3xl6v7nYgPlaTW9CZNZXaNYMTo8GUM3Knm0&e=> 
+Dev RWD JHB                         dev-rwd-jhb.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Drwd-2Djhb.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=joCX--JRIgxu0JM6zJk3V0FT6lxXULv3wGdig6zdvm0&e=> 
+Dev RWD KRN Merge                   dev-rwd-krn-merge.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Drwd-2Dkrn-2Dmerge.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=Csu1TAMLetO7UZZpsiEgxSXkwU1vTCK99uNRxQ4y2rM&e=> 
+Dev RZA BH                          dev-rza-bh.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Drza-2Dbh.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=Q2LK7QRaJ0PbtcKKgbFPE6M5RSQ4MkLJ3GIiV-8cEZs&e=> 
+Dev RZA CD                          dev-rza-cd.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Drza-2Dcd.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=_hOxDSGkAmGr17Wr2j4Ddh6Qih-wDMpEW_8py_ZXEyY&e=> 
+Dev RZA CR                          dev-rza-cr.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Drza-2Dcr.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=6rv0JaTCsU_dER-f9ErAQr5fx9RiBoxrKgaFhUZkvJM&e=> 
+Dev RZA CS                          dev-rza-cs.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Drza-2Dcs.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=nS_FexL8r2R0JiiR8LBByGZmyux2709vllQAwgL4zAU&e=> 
+Dev RZA EK                          dev-rza-ek.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Drza-2Dek.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=5T76o3yOWGrzgZwTrI3ZZNGnyaZS6IZes_Jt1AdIXk0&e=> 
+Dev RZA JP                          dev-rza-jp.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Drza-2Djp.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=I0a8pLI4fHiAB9piyThRMzv11GMCLr-eDbReUQ70mE4&e=> 
+Dev Sage Sync                       dev-sage-sync.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Dsage-2Dsync.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=XAW9iHip70XNwSu6i8eesFdvnyva7o572RPzxsw42to&e=> 
+Dev Zone Merge                      dev-zone-merge.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Dzone-2Dmerge.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=pniT_GESFftWHE5foQGHKO0Vs_rdiQ2P9hQdP3DNwRk&e=> 
+Dev-VYM-ZA                          dev-vym-za.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__dev-2Dvym-2Dza.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=UCDo5J6NUooR_jzu18YuVSWfuQlUKnYVN6pGeBf4ueg&e=> 
+Geo RZA                             geo-rza.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__geo-2Drza.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=L7GBsUcIcoYC4FzaoN1qQxX7_2rYdXmhwD9Ui_c_qZQ&e=> 
+Staging ZA RWD 2 v1                 staging-za-rwd-2-v1.myshopify.com <https://urldefense.proofpoint.com/v2/url?u=http-3A__staging-2Dza-2Drwd-2D2-2Dv1.myshopify.com_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=7ZULBZmD5L4dM8U3nU-5WA&m=d2iZvqDjpPUIVhSJwSPFDBBEXUtrwMxNj4BN4LCERSxYNh6FPKGqdBeEBVGiSisV&s=ZiCb2yxt07a454_aEeIeGZ3wF-hK0UNeR_js_P1WKeA&e=> 
+
+I will send more shortly but just so you have an initial idea at the actual structure of the business.
+I have attached some of the relevant documents as well (also on the site above with more detail)
+Warm Regards
+Dan
+________________________________
+From: Danie Bantjes <danie.bantjes@gmail.com <mailto:danie.bantjes@gmail.com> >
+Sent: 04 June 2025 11:02
+To: Jacqui Faucitt <jax@regima.zone>
+Cc: Daniel Faucitt <d@rzo.io <mailto:d@rzo.io> >
+Subject: Re: update 
+That's great, thanks for the update Jacqui.
+Kind regards, 
+Danie Bantjes
+
+On Wed, 4 Jun 2025 at 08:35, Jacqui Faucitt <jax@regima.zone> wrote:
+
+	Morning Danie
+
+	Hope you are well.
+
+	Just to give you an update, Danny is almost finished with his report for you.  He was just going through things with me yesterday so he will be in contact with you soon.
+
+	Warm regards
+
+	Jacqui

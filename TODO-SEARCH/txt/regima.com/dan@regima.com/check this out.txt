@@ -1,0 +1,9 @@
+﻿From:	"Daniel Faucitt" <dan@regima.com>
+Sent:	05/11/2025 01:13:32
+To:	"Manus" <d538@manus.bot>
+Subject:	check this out
+
+Hey man
+Check this out:
+Https://copilot.microsoft.com/shares/M5d28iGSCZo79v8pYuazp
+We should make a repo starting with a scheme implementation of the metamodel 

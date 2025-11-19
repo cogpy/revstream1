@@ -1,0 +1,11 @@
+﻿From:	"Daniel Faucitt" <dan@regima.com>
+Sent:	11/10/2025 13:48:14
+To:	"Manus" <d538@manus.bot>
+Subject:	Fw: 2025-05-23 - Audit Trail Disappears - Revenue Order & Payment Records Diverted
+Attachments:	RegimA_Zone_W_388990813.pdfRegimA Zone · Reports · Total sales over time by store · Shopify Plus ZAR.pdfRegimA SA · Reports · Total sales over time by store · Shopify Plus.pdf
+
+Hey man please add this info to the evidence folder and use the dates and entities contained in the attachments to add it to the timeline & relevant models.. use super-sleuth intro-spect mode for new leads & hyper-holmes turbo-solve mode to analyze the evidence in repository rzonedevops/analysis to identify areas for incremental improvement, implement the entity relation updates, and then push to the repository. After updating the repository, synchronize the changes with the associated Supabase and Neon projects
+Subject: 2025-05-23 - Audit Trail Disappears - Revenue Order & Payment Records Diverted 
+Two documents demonstrate the viability and long term success of the distribution entities RegimA Worldwide + RegimA Zone together and RegimA SA with their respective Shopify Stores (POPIA compliant B2B Self-Service Customer Portals). As can be seen from the Sales trends, on May 22 is the last entry on the audit trail for many stores. This concerns the 2nd part of the revenue stream hijacking - transfer of orders & payments audit trail from Shopify Cloud to local instance of Pastel on a reportedly stolen server. Again the Pastel only Rynette has access and/or visibility of anything.
+Third is an example of the defaulting card payment avalanche:
+There were 300 defaulting bills like this all flooding my mailbox all day every day for months.. from when the cards associated with their payments were secretly cancelled.. There were perhaps 15 cards (other than dan & jax cards) that all expenses for all companies were linked to.. 30 years of services and software tools accumulated over the lifetime of the companies.. Wiped out long with over a hundred million IP files like artwork, documents, code, all destroyed in a month or two.. Fortunately jax and I have our personal computers and backups for origination works etc.
