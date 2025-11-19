@@ -3,6 +3,12 @@ layout: default
 title: Data Model Analysis
 ---
 
+**Navigation:** [Home](index.md) → Data Model Analysis
+
+---
+
+
+
 # Data Model Analysis Report
 
 **Date:** 2025-11-19
@@ -109,6 +115,22 @@ The data models are in excellent condition. The following minor refinements are 
 
 1.  **Review Unassigned Events:** Assign the 11 events currently marked as `unknown` to their correct timeline phase to complete the narrative sequence.
 2.  **Review Person Entity:** Review the 1 person entity flagged for having no direct event involvement to confirm their role is accurate or if links are missing.
+
+
+---
+
+## Extended Evidence Repository
+
+For comprehensive supporting documentation, see the [ad-res-j7 repository](https://github.com/cogpy/ad-res-j7) which contains:
+
+- **2,866 evidence files** (226.78 MB total)
+- Complete email archives and correspondence
+- Financial documents and analysis
+- Legal filings and court documents
+- CIPC records and corporate documentation
+- Comprehensive evidence index and catalog
+
+**[View Complete Evidence Catalog →](https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md)**
 
 ---
 

@@ -3,6 +3,12 @@ layout: default
 title: Evidence Index
 ---
 
+**Navigation:** [Home](index.md) → Evidence Index
+
+---
+
+
+
 # Evidence Index
 
 This index provides a structured and comprehensive guide to all evidence used in the **Revenue Stream Hijacking Case 2025-137857**. All evidence is categorized by the legal application it supports, with direct links to key events and the complete evidence repository.
@@ -129,6 +135,6 @@ This evidence is fundamental to the entire case and is referenced across multipl
 
 ## Navigating the Evidence
 
-- **[Home](index.html):** Case overview and statistics.
-- **[Data Model Analysis](data-model-analysis.html):** A deep dive into the integrity of the case data.
-- **[Applications Overview](applications.html):** A side-by-side comparison of the three legal applications.
+- **[Home](index.md):** Case overview and statistics.
+- **[Data Model Analysis](data-model-analysis.md):** A deep dive into the integrity of the case data.
+- **[Applications Overview](applications.md):** A side-by-side comparison of the three legal applications.

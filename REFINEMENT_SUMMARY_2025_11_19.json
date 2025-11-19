@@ -1,0 +1,34 @@
+{
+  "refinement_date": "2025-11-19T05:33:48.919237",
+  "total_improvements": 9,
+  "improvements_by_category": {
+    "entities": [
+      "Updated metadata with ad-res-j7 cross-reference",
+      "Enhanced 12 person entities"
+    ],
+    "events": [
+      "Added perpetrators to 0 events",
+      "Enhanced evidence references for all 69 events"
+    ],
+    "relations": [
+      "Added evidence references to 6 relations",
+      "Enhanced 60 total relations"
+    ],
+    "timeline": [
+      "Enhanced 8 timeline phases",
+      "Added application cross-references to all phases",
+      "Linked all phases to ad-res-j7 evidence repository"
+    ]
+  },
+  "all_improvements": [
+    "Updated metadata with ad-res-j7 cross-reference",
+    "Enhanced 12 person entities",
+    "Added perpetrators to 0 events",
+    "Enhanced evidence references for all 69 events",
+    "Added evidence references to 6 relations",
+    "Enhanced 60 total relations",
+    "Enhanced 8 timeline phases",
+    "Added application cross-references to all phases",
+    "Linked all phases to ad-res-j7 evidence repository"
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "analysis_date": "2025-11-19T05:32:15.335473",
+  "entities": {
+    "total_entities": 27,
+    "by_type": {
+      "persons": 12,
+      "organizations": 9,
+      "platforms": 1,
+      "domains": 2,
+      "trust_entities": 1,
+      "trusts": 1,
+      "bank_accounts": 1
+    },
+    "missing_timeline_events": [],
+    "entities_without_events": [],
+    "financial_impact_summary": {
+      "PERSON_001": {
+        "direct_involvement": "R10,269,727.90",
+        "primary_categories": [
+          "revenue_theft",
+          "trust_violations",
+          "financial_manipulation"
+        ]
+      },
+      "PERSON_002": {
+        "direct_involvement": "R4,276,832.85",
+        "primary_categories": [
+          "financial_manipulation",
+          "revenue_theft"
+        ]
+      },
+      "PERSON_005": {
+        "victim_of_theft": "R10,269,727.90",
+        "platform_investment": "R140,000 - R280,000",
+        "investment_duration": "28_months"
+      },
+      "PERSON_007": {
+        "debt_motive": "R18,685,000",
+        "debt_to_trust": "R18,685,000",
+        "stock_fraud_concealment": "R5,400,000",
+        "primary_categories": [
+          "fraud_concealment",
+          "breach_of_fiduciary_duty",
+          "accounting_fraud",
+          "conflict_of_interest"
+        ]
+      },
+      "PERSON_008": {
+        "estate_debt_owed": "R1,035,000",
+        "since": "Feb 2023",
+        "primary_categories": [
+          "unpaid_debt",
+          "estate_fraud"
+        ]
+      },
+      "PERSON_003": {
+        "direct_involvement": "R5,400,000+",
+        "primary_categories": [
+          "identity_fraud",
+          "revenue_theft",
+          "stock_fraud",
+          "customer_hijacking"
+        ],
+        "stock_fraud_connection": "R5,400,000"
+      },
+      "ORG_001": {
+        "revenue_claims": "R3,141,647.70",
+        "actual_ownership": "zero_infrastructure_ownership"
+      },
+      "ORG_004": {
+        "stock_loss": "R5,400,000",
+        "loss_type": "stock_adjustment_disappeared_stock",
+        "slg_rst_debt": "R13,000,000",
+        "interest_payment_to_rst": "R414,334.09",
+        "interest_payment_date": "2020-02-28"
+      },
+      "ORG_005": {
+        "monthly_rental_income": "R4,400,000",
+        "net_profit": "R3,700,000",
+        "members_loan_account": "R22,800,000",
+        "profit_margin_on_rent": "86%"
+      },
+      "ORG_008": {
+        "debt_owed": "R1,035,361.34",
+        "since": "Feb 2023",
+        "false_payment_claims": "R1,235,361.34",
+        "primary_categories": [
+          "unpaid_debt",
+          "false_payment_fraud"
+        ]
+      },
+      "ORG_009": {
+        "direct_involvement": "R5,400,000+",
+        "primary_categories": [
+          "identity_fraud",
+          "revenue_theft",
+          "stock_fraud",
+          "customer_hijacking"
+        ],
+        "stock_fraud_connection": "R5,400,000"
+      },
+      "ORG_010": {
+        "direct_involvement": "unknown_amount",
+        "primary_categories": [
+          "identity_fraud",
+          "revenue_theft",
+          "customer_hijacking"
+        ]
+      },
+      "PLATFORM_001": {
+        "monthly_revenue": "R1,000,000+",
+        "revenue_shutdown_date": "2025-05-22",
+        "total_investment": "R140,000 - R280,000"
+      },
+      "TRUST_001": {
+        "debt_owed_by_trustee": "R18,685,000",
+        "debtor": "PERSON_007"
+      }
+    }
+  },
+  "events": {
+    "total_events": 69,
+    "by_category": {
+      "business_relationship": 2,
+      "financial_structure": 3,
+      "financial_manipulation": 12,
+      "profit_extraction": 2,
+      "evidence_documentation": 2,
+      "accounting_fraud": 3,
+      "conspiracy_preparation": 1,
+      "debt_accumulation": 2,
+      "debt_management": 1,
+      "criminal_event": 1,
+      "fraud": 2,
+      "estate_exploitation": 1,
+      "estate_fraud": 1,
+      "transfer_pricing_fraud": 2,
+      "revenue_theft": 7,
+      "trust_violations": 6,
+      "infrastructure_seizure": 1,
+      "evidence_tampering": 2,
+      "financial_dispute": 1,
+      "fraud_discovery": 2,
+      "transparency": 1,
+      "fraud_concealment": 3,
+      "knowledge_acquisition": 1,
+      "customer_hijacking": 1,
+      "legal_manipulation": 1,
+      "perjury": 1,
+      "legal_misconduct": 1,
+      "financial_fraud": 3,
+      "legal_action": 2,
+      "system_control": 1
+    },
+    "by_phase": {
+      "PHASE_000": 14,
+      "PHASE_005": 9,
+      "unassigned": 11,
+      "PHASE_001": 5,
+      "PHASE_002": 5,
+      "PHASE_003": 6,
+      "PHASE_004": 11,
+      "PHASE_006": 8
+    },
+    "events_without_evidence": [],
+    "events_without_perpetrators": [
+      {
+        "event_id": "EVT-063",
+        "title": "Bantjes Email: R10M Decline and Computer Expense Analysis"
+      },
+      {
+        "event_id": "EVT-064",
+        "title": "Daniel's Comprehensive 26-Point Response to Bantjes"
+      },
+      {
+        "event_id": "EVT-065",
+        "title": "POPIA Violation Notice Sent to Pete"
+      },
+      {
+        "event_id": "EVT-066",
+        "title": "Sage Accounting System Expires - Rynette Controls Reactivation"
+      },
+      {
+        "event_id": "EVT-067",
+        "title": "Daniel Forwards Sage Evidence to Lawyer"
+      },
+      {
+        "event_id": "EVT-068",
+        "title": "Rynette Makes R1M+ Debt to ReZonance 'Disappear'"
+      },
+      {
+        "event_id": "EVT-069",
+        "title": "Pete and Rynette Attempt Unauthorized Banking Changes"
+      }
+    ],
+    "duplicate_event_ids": [],
+    "financial_impact_total": 0,
+    "events_with_financial_impact": 48
+  },
+  "relations": {
+    "total_relations": 60,
+    "by_type": {
+      "ownership_relations": 6,
+      "control_relations": 5,
+      "conspiracy_relations": 5,
+      "dependency_relations": 2,
+      "financial_relations": 8,
+      "victim_perpetrator_relations": 3,
+      "employment_relations": 3,
+      "evidence_destruction_relations": 2,
+      "temporal_relations": 6,
+      "debt_relations": 2,
+      "estate_relations": 1,
+      "witness_relations": 2,
+      "conflict_relations": 1,
+      "email_control_relations": 2,
+      "trustee_relations": 2,
+      "beneficiary_relations": 2,
+      "professional_correspondence_relations": 2,
+      "capital_extraction_relations": 1,
+      "inter_company_loan_relations": 2,
+      "knowledge_acquisition_relations": 1,
+      "strategic_coordination_relations": 1,
+      "system_control_relations": 1
+    },
+    "relations_without_evidence": [
+      {
+        "relation_id": "UNKNOWN",
+        "type": "previous_theft_victim",
+        "source": "Peter Faucitt",
+        "target": "Kachan"
+      },
+      {
+        "relation_id": "UNKNOWN",
+        "type": "director_loan",
+        "source": "Daniel Faucitt",
+        "target": "ReZonance"
+      },
+      {
+        "relation_id": "UNKNOWN",
+        "type": "owes_debt",
+        "source": "RegimA Skin Treatments",
+        "target": "ReZonance"
+      },
+      {
+        "relation_id": "UNKNOWN",
+        "type": "drafted_employment_contract",
+        "source": "Danie Bantjes",
+        "target": "Rynette Farrar"
+      },
+      {
+        "relation_id": "UNKNOWN",
+        "type": "has_unauthorized_access_to",
+        "source": "Rynette Farrar",
+        "target": "Pete@regima.com"
+      },
+      {
+        "relation_id": "UNKNOWN",
+        "type": "subscription_owner",
+        "source": "Rynette Farrar",
+        "target": "Sage Accounting System"
+      }
+    ],
+    "orphaned_relations": []
+  },
+  "timeline": {
+    "total_phases": 8,
+    "events_per_phase": {
+      "PHASE_001": 7,
+      "PHASE_002": 5,
+      "PHASE_003": 9,
+      "PHASE_004": 13,
+      "PHASE_005": 11,
+      "PHASE_006": 9,
+      "PHASE_000": 17
+    },
+    "phase_durations": {
+      "PHASE_001": 30,
+      "PHASE_002": 14,
+      "PHASE_003": 28,
+      "PHASE_004": 25,
+      "PHASE_005": 568,
+      "PHASE_006": 33,
+      "PHASE_000": 1645
+    },
+    "unassigned_events": [],
+    "phase_financial_impact": {
+      "PHASE_001": "R8,751,247.35+",
+      "PHASE_002": "R7,418,480.55",
+      "PHASE_003": "R1,850,000+",
+      "PHASE_004": "R3,141,647.70+",
+      "PHASE_005": "R1,035,361.34 debt + R1,235,361.34 false claims",
+      "PHASE_006": "unknown_amount",
+      "PHASE_000": "R25,106,584.89+ (Villa Via R22.8M + inter-company R2.3M+)"
+    }
+  }
+}

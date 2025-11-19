@@ -37,7 +37,7 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 
 ## Three Sequential Interdict Applications
 
-### [Application 1: Ex Parte Interdict (August 13, 2025)](application-1.html)
+### [Application 1: Ex Parte Interdict (August 13, 2025)](application-1.md)
 
 **Type:** Ex parte urgent application  
 **Targets:** Both Jacqueline and Daniel Faucitt  
@@ -52,11 +52,11 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 - [Trustee Misconduct](evidence-index.html#emails)
 - [ReZonance Payment System](evidence-index.html#rezonance)
 
-[View Full Application 1 Details →](application-1.html)
+[View Full Application 1 Details →](application-1.md)
 
 ---
 
-### [Application 2: Settlement Agreement Enforcement (October 2025)](application-2.html)
+### [Application 2: Settlement Agreement Enforcement (October 2025)](application-2.md)
 
 **Type:** Application to make settlement agreement an order of court  
 **Context:** Mediation held September 18, 2025
@@ -75,11 +75,11 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 - [Corporate Records](evidence-index.html#cipc)
 - [Accounting Evidence](evidence-index.html#accounting)
 
-[View Full Application 2 Details →](application-2.html)
+[View Full Application 2 Details →](application-2.md)
 
 ---
 
-### [Application 3: Contact Interdict (November 4, 2025)](application-3.html)
+### [Application 3: Contact Interdict (November 4, 2025)](application-3.md)
 
 **Type:** Urgent application  
 **Target:** Jacqueline only (First Respondent)  
@@ -100,7 +100,7 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 - [Sage Control Analysis](evidence-index.html#sage)
 - [Trademark Documentation](evidence-index.html#trademark)
 
-[View Full Application 3 Details →](application-3.html)
+[View Full Application 3 Details →](application-3.md)
 
 ---
 
@@ -169,13 +169,13 @@ November 2025: Application 3 filed (contact interdict)
 
 This case is supported by a robust and comprehensive data model. A full analysis of the data integrity, structure, and completeness is available for review.
 
-**[📄 View Full Data Model Analysis Report](data-model-analysis.html)**
+**[📄 View Full Data Model Analysis Report](data-model-analysis.md)**
 
 ---
 
 ## Evidence Resources
 
-### [📁 Complete Evidence Index](evidence-index.html)
+### [📁 Complete Evidence Index](evidence-index.md)
 Browse all evidence files organized by category with direct links to source documents.
 
 ### Evidence Categories
@@ -195,11 +195,11 @@ Browse all evidence files organized by category with direct links to source docu
 
 ## Navigation
 
-- **[View All Applications Side-by-Side](applications.html)** - Comparative analysis of all three applications
-- **[Application 1 Details](application-1.html)** - Ex Parte Interdict (August 2025)
-- **[Application 2 Details](application-2.html)** - Settlement Enforcement (October 2025)
-- **[Application 3 Details](application-3.html)** - Contact Interdict (November 2025)
-- **[Evidence Index](evidence-index.html)** - Complete evidence catalog with links
+- **[View All Applications Side-by-Side](applications.md)** - Comparative analysis of all three applications
+- **[Application 1 Details](application-1.md)** - Ex Parte Interdict (August 2025)
+- **[Application 2 Details](application-2.md)** - Settlement Enforcement (October 2025)
+- **[Application 3 Details](application-3.md)** - Contact Interdict (November 2025)
+- **[Evidence Index](evidence-index.md)** - Complete evidence catalog with links
 
 ---
 

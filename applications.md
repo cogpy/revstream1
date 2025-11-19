@@ -3,9 +3,15 @@ layout: default
 title: All Applications - Comparative Analysis
 ---
 
+**Navigation:** [Home](index.md) → All Applications
+
+---
+
+
+
 # All Three Applications - Comparative Analysis
 
-[← Back to Home](index.html)
+[← Back to Home](index.md)
 
 ---
 
@@ -70,7 +76,7 @@ MARCH 15 ──────────────────── AUGUST 20,
 
 ## Application 1: Ex Parte Interdict (August 13, 2025)
 
-### [📄 Full Application 1 Details](application-1.html)
+### [📄 Full Application 1 Details](application-1.md)
 
 ### Summary
 - **Filed:** 2 days after Jacqueline signed "Main Trustee" document
@@ -98,7 +104,7 @@ MARCH 15 ──────────────────── AUGUST 20,
 
 ## Application 2: Settlement Enforcement (October 2025)
 
-### [📄 Full Application 2 Details](application-2.html)
+### [📄 Full Application 2 Details](application-2.md)
 
 ### Summary
 - **Context:** Mediation held September 18, 2025
@@ -144,7 +150,7 @@ MARCH 15 ──────────────────── AUGUST 20,
 
 ## Application 3: Contact Interdict (November 4, 2025)
 
-### [📄 Full Application 3 Details](application-3.html)
+### [📄 Full Application 3 Details](application-3.md)
 
 ### Summary
 - **Target:** Jacqueline only (CEO and co-founder, 33 years)
@@ -487,18 +493,34 @@ The evidence demonstrates that these are **not three separate disputes** but rat
 ## Navigation
 
 **Individual Applications:**
-- [Application 1: Ex Parte Interdict (August 13, 2025)](application-1.html)
-- [Application 2: Settlement Enforcement (October 2025)](application-2.html)
-- [Application 3: Contact Interdict (November 4, 2025)](application-3.html)
+- [Application 1: Ex Parte Interdict (August 13, 2025)](application-1.md)
+- [Application 2: Settlement Enforcement (October 2025)](application-2.md)
+- [Application 3: Contact Interdict (November 4, 2025)](application-3.md)
 
 **Evidence & Analysis:**
-- [Complete Evidence Index](evidence-index.html)
+- [Complete Evidence Index](evidence-index.md)
 - [Revenue Stream Timeline](Revenue_Stream/02_Hijacking/KEY_EVENTS_TIMELINE_MARCH_AUGUST_2025.md)
 - [Shopify Platform Analysis](Revenue_Stream/02_Hijacking/SHOPIFY_REVENUE_REVELATION_ANALYSIS.md)
 - [Sequential Interdicts Analysis](SEQUENTIAL_INTERDICTS_PATTERN_ANALYSIS.md)
 - [Curatorship Conspiracy Report](CURATORSHIP_CONSPIRACY_ANALYSIS_REPORT.md)
 
-**[← Back to Home](index.html)**
+**[← Back to Home](index.md)**
+
+
+---
+
+## Extended Evidence Repository
+
+For comprehensive supporting documentation, see the [ad-res-j7 repository](https://github.com/cogpy/ad-res-j7) which contains:
+
+- **2,866 evidence files** (226.78 MB total)
+- Complete email archives and correspondence
+- Financial documents and analysis
+- Legal filings and court documents
+- CIPC records and corporate documentation
+- Comprehensive evidence index and catalog
+
+**[View Complete Evidence Catalog →](https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md)**
 
 ---
 
