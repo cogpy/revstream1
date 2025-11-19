@@ -167,7 +167,7 @@ November 2025: Application 3 filed (contact interdict)
 
 ## Data & Evidence Integrity
 
-This case is supported by a robust and comprehensive data model. A full analysis of the data integrity, structure, and completeness is available for review.
+This case is supported by a robust and comprehensive data model (Version 11.0, updated 2025-11-19). A full analysis of the data integrity, structure, and completeness is available for review.
 
 **[📄 View Full Data Model Analysis Report](data-model-analysis.md)**
 
@@ -176,6 +176,7 @@ This case is supported by a robust and comprehensive data model. A full analysis
 ## Evidence Resources
 
 ### [📁 Complete Evidence Index](evidence-index.md)
+### [📁 Enhanced Evidence Index (NEW)](evidence-index-enhanced.md)
 Browse all evidence files organized by category with direct links to source documents.
 
 ### Evidence Categories
