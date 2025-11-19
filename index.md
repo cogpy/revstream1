@@ -1,0 +1,207 @@
+---
+layout: default
+title: Home
+---
+
+# Revenue Stream Hijacking Case 2025-137857
+
+## Executive Summary
+
+This documentation repository provides comprehensive evidence and analysis of the systematic hijacking of revenue streams in the RegimA business operations case. The case involves **three sequential interdict applications** filed over a 6-month period (March-November 2025), documenting **R10,269,727.90** in total losses.
+
+### Critical Revelation
+
+The **Shopify platform** has been owned and paid for since **July 2023** by Daniel Faucitt's independent UK entity **RegimA Zone Ltd** (28+ months, R140K-R280K total investment).
+
+**Key Implication:** RWD ZA has no independent revenue stream - all revenues were generated through infrastructure owned, paid for, and operated by Daniel's UK company.
+
+---
+
+## Case Overview
+
+| **Metric** | **Value** |
+|------------|-----------|
+| **Case Number** | 2025-137857 |
+| **Case Name** | Peter Faucitt v. Jacqueline Faucitt et al. |
+| **Period** | March 15, 2025 - August 20, 2025 |
+| **Duration** | 158 days of documented criminal activity |
+| **Key Events** | 15 |
+| **Revenue Theft** | R3,141,647.70 |
+| **Trust Violations** | R2,851,247.35 |
+| **Financial Manipulation** | R4,276,832.85 |
+| **Total Documented Losses** | R10,269,727.90 |
+
+---
+
+## Three Sequential Interdict Applications
+
+### [Application 1: Ex Parte Interdict (August 13, 2025)](application-1.html)
+
+**Type:** Ex parte urgent application  
+**Targets:** Both Jacqueline and Daniel Faucitt  
+**Status:** Pending return date; notice of intention to oppose filed September 5, 2025
+
+**Key Trigger Event:**
+- August 11, 2025: Jacqueline signs "Main Trustee" document
+- August 13, 2025: Interdict launched (2 days later)
+
+**Primary Evidence Categories:**
+- [POPIA Violations](evidence-index.html#popia)
+- [Trustee Misconduct](evidence-index.html#emails)
+- [ReZonance Payment System](evidence-index.html#rezonance)
+
+[View Full Application 1 Details →](application-1.html)
+
+---
+
+### [Application 2: Settlement Agreement Enforcement (October 2025)](application-2.html)
+
+**Type:** Application to make settlement agreement an order of court  
+**Context:** Mediation held September 18, 2025
+
+**Key Events:**
+- September 22, 2025: Respondents withdraw from agreements
+- September 23, 2025: ENS Attorneys (respondents' counsel) withdraw
+- October 2025: Applicant files enforcement application
+
+**Agreements Reached at Mediation:**
+1. Medical assessments (drug screening, psychiatric evaluation)
+2. Forensic investigations into entity affairs
+
+**Primary Evidence Categories:**
+- [Mediation Documentation](evidence-index.html#mediation)
+- [Corporate Records](evidence-index.html#cipc)
+- [Accounting Evidence](evidence-index.html#accounting)
+
+[View Full Application 2 Details →](application-2.html)
+
+---
+
+### [Application 3: Contact Interdict (November 4, 2025)](application-3.html)
+
+**Type:** Urgent application  
+**Target:** Jacqueline only (First Respondent)  
+**Hearing Date:** November 18, 2025
+
+**Relief Sought:**
+1. Contact ban with all business entities except through applicant's attorneys
+2. Costs on attorney-client scale if opposed
+3. Further/alternative relief
+
+**Key Allegations Timeline:**
+- End of September 2025: Harassment allegations
+- September 30, 2025: Training session dispute
+- October 1, 2025: Correspondence demanding desistance
+
+**Primary Evidence Categories:**
+- [Email Correspondence](evidence-index.html#emails)
+- [Sage Control Analysis](evidence-index.html#sage)
+- [Trademark Documentation](evidence-index.html#trademark)
+
+[View Full Application 3 Details →](application-3.html)
+
+---
+
+## Key Patterns Across All Three Applications
+
+### 1. **Systematic Coordination** 
+Timeline reveals coordinated action across three distinct crime categories:
+- **Revenue Theft:** 5 events targeting business operations
+- **Trust Violations:** 5 events manipulating family trust structure
+- **Financial Manipulation:** 5 events diverting and concealing funds
+
+### 2. **Shopify Platform Centrality**
+**10 out of 15 events** (67%) directly involve the Shopify platform:
+- Platform owned and paid for by RegimA Zone Ltd (UK) since July 2023
+- 28+ months of continuous funding (R140K-R280K total investment)
+- **Critical implication:** RWD ZA has no independent revenue stream
+
+### 3. **Evidence Destruction Pattern**
+Two critical evidence destruction events demonstrating consciousness of guilt:
+- **May 22, 2025:** Shopify audit trail hijacking (platform destruction)
+- **August 20, 2025:** Financial evidence concealment (cover-up operations)
+
+### 4. **Family Conspiracy Elements**
+Multiple family members involved in coordinated criminal activity:
+- **Peter Faucitt:** Primary perpetrator (11 events)
+- **Rynette Farrar:** Co-conspirator (8 events)
+- **Addarory (Rynette's son):** Domain registration for identity fraud
+
+---
+
+## Timeline Progression
+
+```
+March 2025:   Foundation phase (trust establishment)
+April 2025:   Initial theft phase (payment redirection, bank changes)
+May 2025:     Escalation phase (R850K transfers, audit trail destruction)
+June 2025:    Consolidation phase (email control, fund diversions)
+July 2025:    Control seizure phase (operational shutdown, account manipulation)
+August 2025:  Cover-up phase & Application 1 filed
+October 2025: Application 2 filed (settlement enforcement)
+November 2025: Application 3 filed (contact interdict)
+```
+
+---
+
+## Legal Framework
+
+### Criminal Charges Supported
+1. **Organized Crime/Racketeering** (POCA Section 2-3)
+2. **Computer Fraud** (ECTA Sections 86-88)
+3. **Identity Fraud** (ECTA Section 87-88)
+4. **Theft and Fraud** (Common Law)
+5. **Money Laundering** (FIC Act)
+6. **Trust Law Violations** (Trust Property Control Act)
+
+### Civil Remedies Available
+1. Asset forfeiture under POCA
+2. Delictual damages
+3. Trust asset recovery
+4. Constructive trust
+5. Account of profits
+
+---
+
+## Evidence Resources
+
+### [📁 Complete Evidence Index](evidence-index.html)
+Browse all evidence files organized by category with direct links to source documents.
+
+### Evidence Categories
+- [Accounting Evidence (2 files)](evidence-index.html#accounting)
+- [Email Evidence (4 files)](evidence-index.html#emails)
+- [Mediation Evidence (1 file)](evidence-index.html#mediation)
+- [POPIA Evidence (2 files)](evidence-index.html#popia)
+- [ReZonance Evidence (2 files)](evidence-index.html#rezonance)
+- [Sage Evidence (1 file)](evidence-index.html#sage)
+- [CIPC Evidence (2 files)](evidence-index.html#cipc)
+- [Trademark Evidence (1 file)](evidence-index.html#trademark)
+- [Fabricated Accounts Evidence](evidence-index.html#fabricated)
+- [Financial Evidence](evidence-index.html#financial)
+- [Critical Analysis](evidence-index.html#critical)
+
+---
+
+## Navigation
+
+- **[View All Applications Side-by-Side](applications.html)** - Comparative analysis of all three applications
+- **[Application 1 Details](application-1.html)** - Ex Parte Interdict (August 2025)
+- **[Application 2 Details](application-2.html)** - Settlement Enforcement (October 2025)
+- **[Application 3 Details](application-3.html)** - Contact Interdict (November 2025)
+- **[Evidence Index](evidence-index.html)** - Complete evidence catalog with links
+
+---
+
+## Significance
+
+This documentation demonstrates **systematic coordination** across multiple crime categories over a 6-month period, with particular emphasis on the critical Shopify platform revelation showing RWD ZA generated no independent revenue.
+
+The concentration of Shopify-related events (67% of timeline) underscores the **central fraud:** RWD ZA's business model was entirely dependent on infrastructure owned, paid for, and operated by a third party (RegimA Zone Ltd - UK), undermining any claims of independent business operations or legitimate revenue streams.
+
+The pattern of events supports charges of organized criminal enterprise, systematic fraud and theft, evidence destruction (consciousness of guilt), family conspiracy, trust law violations, and financial crimes.
+
+---
+
+**Repository:** [github.com/cogpy/revstream1](https://github.com/cogpy/revstream1)  
+**License:** See LICENSE file for details

@@ -1,0 +1,47 @@
+# Site settings
+title: "Revenue Stream Hijacking Case 2025-137857"
+description: "Comprehensive documentation of systematic revenue stream hijacking with full evidence linkage"
+baseurl: "/revstream1"
+url: "https://cogpy.github.io"
+
+# Theme
+theme: minima
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Collections
+collections:
+  evidence:
+    output: true
+    permalink: /evidence/:path/
+
+# Navigation
+header_pages:
+  - index.md
+  - applications.md
+  - application-1.md
+  - application-2.md
+  - application-3.md
+  - evidence-index.md
+
+# Exclude from processing
+exclude:
+  - .git
+  - .github
+  - "*.py"
+  - "*.json"
+  - "*.txt"
+  - data_models
+  - Revenue_Stream
+  - LICENSE
+  - "*.png"
+  - "*.mmd"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
