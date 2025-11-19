@@ -1,0 +1,96 @@
+{
+  "timestamp": "2025-11-18T23:44:14.446459",
+  "issues": {
+    "critical": [
+      {
+        "type": "duplicate_event_ids",
+        "count": 2,
+        "details": [
+          "EVENT_023",
+          "EVENT_026"
+        ]
+      }
+    ],
+    "high": [
+      {
+        "type": "missing_evidence",
+        "count": 7,
+        "events": [
+          "EVT-063",
+          "EVT-064",
+          "EVT-065",
+          "EVT-066",
+          "EVT-067",
+          "EVT-068",
+          "EVT-069"
+        ]
+      }
+    ],
+    "medium": [
+      {
+        "type": "timeline_event_count_mismatch",
+        "timeline_says": 62,
+        "actual_count": 69
+      },
+      {
+        "type": "invalid_entity_event_refs",
+        "count": 8,
+        "entities": 3
+      },
+      {
+        "type": "events_not_in_timeline",
+        "count": 7,
+        "event_ids": [
+          "EVT-066",
+          "EVT-064",
+          "EVT-067",
+          "EVT-063",
+          "EVT-065",
+          "EVT-069",
+          "EVT-068"
+        ]
+      }
+    ],
+    "low": []
+  },
+  "improvements": [
+    {
+      "priority": "critical",
+      "issue": "duplicate_event_ids",
+      "action": "Renumber duplicate event IDs to ensure uniqueness",
+      "affected_ids": [
+        "EVENT_023",
+        "EVENT_026"
+      ]
+    },
+    {
+      "priority": "high",
+      "issue": "missing_evidence",
+      "action": "Add evidence references to all events",
+      "affected_count": 7
+    },
+    {
+      "priority": "medium",
+      "issue": "timeline_event_count_mismatch",
+      "action": "Update timeline metadata total_events from 62 to 69"
+    },
+    {
+      "priority": "medium",
+      "issue": "invalid_entity_event_refs",
+      "action": "Clean up entity timeline_events references to match actual event IDs"
+    },
+    {
+      "priority": "medium",
+      "issue": "events_not_in_timeline",
+      "action": "Assign all events to appropriate timeline phases"
+    }
+  ],
+  "statistics": {
+    "total_entities": 25,
+    "total_events": 69,
+    "total_relations": 60,
+    "timeline_phases": 8,
+    "events_with_evidence": 62,
+    "events_missing_evidence": 7
+  }
+}

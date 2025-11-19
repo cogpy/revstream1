@@ -7,7 +7,7 @@
     "total_events": 69,
     "extended_evidence": "incorporated_from_ad_res_j7",
     "last_updated": "2025-11-18",
-    "changes": "Refinement 2025-11-18: Added missing evidence references, fixed cross-references, enhanced data quality"
+    "changes": "Refinement 2025-11-19: Fixed duplicate event IDs, added missing evidence references"
   },
   "events": [
     {
@@ -1207,7 +1207,7 @@
       "timeline_phase": "PHASE_004"
     },
     {
-      "event_id": "EVENT_023",
+      "event_id": "EVENT_058",
       "date": "2025-06-10",
       "title": "Bantjies Dismisses Audit Request",
       "category": "fraud_concealment",
@@ -1653,7 +1653,7 @@
       "timeline_phase": "PHASE_006"
     },
     {
-      "event_id": "EVENT_026",
+      "event_id": "EVENT_060",
       "date": "2025-08-15",
       "title": "Gee Email Explaining Domain Switch Instruction",
       "category": "revenue_theft",
@@ -1774,7 +1774,12 @@
       ],
       "evidence_source": "Email: The RegimA Group results and Computer Expense analysis",
       "significance": "Accountant confirms massive financial losses and excessive IT expenses",
-      "legal_impact": "high"
+      "legal_impact": "high",
+      "evidence": [
+        "bantjies_email_june_10_2025",
+        "computer_expense_analysis",
+        "R10M_decline_documentation"
+      ]
     },
     {
       "event_id": "EVT-064",
@@ -1790,7 +1795,12 @@
       ],
       "evidence_source": "Email: Re: The RegimA Group results and Computer Expense analysis",
       "significance": "Comprehensive documentation of entire fraud scheme with 26 specific claims",
-      "legal_impact": "very_high"
+      "legal_impact": "very_high",
+      "evidence": [
+        "daniel_26_point_response",
+        "fraud_reports_june_2025",
+        "comprehensive_evidence_package"
+      ]
     },
     {
       "event_id": "EVT-065",
@@ -1805,7 +1815,11 @@
       "evidence_source": "Email: POPIA Violation Notice - Sent to Pete on 8 July 2025",
       "attachment": "FORMAL NOTICE - CESSATION OF CRIMINAL INSTRUCTIONS.docx",
       "significance": "Formal legal notice of privacy violation and criminal instructions",
-      "legal_impact": "very_high"
+      "legal_impact": "very_high",
+      "evidence": [
+        "POPIA_violation_notice_july_8_2025",
+        "POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf"
+      ]
     },
     {
       "event_id": "EVT-066",
@@ -1818,7 +1832,12 @@
       ],
       "evidence_source": "Screenshot: Sage Account RegimA Worldwide Distribution (2025-08-25)",
       "significance": "Rynette can deny all users access to financial records by not renewing subscription",
-      "legal_impact": "high"
+      "legal_impact": "high",
+      "evidence": [
+        "sage_system_expiry_july_23_2025",
+        "rynette_reactivation_control",
+        "accounting_system_evidence"
+      ]
     },
     {
       "event_id": "EVT-067",
@@ -1832,7 +1851,12 @@
       ],
       "evidence_source": "Email: RegimA Worldwide - Sage - Rynette using Pete@regima.com",
       "significance": "Smoking gun evidence of email control shared with legal counsel",
-      "legal_impact": "very_high"
+      "legal_impact": "very_high",
+      "evidence": [
+        "sage_evidence_forwarded_aug_29_2025",
+        "lawyer_correspondence",
+        "accounting_fraud_documentation"
+      ]
     },
     {
       "event_id": "EVT-068",
@@ -1845,7 +1869,12 @@
       ],
       "evidence_source": "Email: Daniel's comprehensive response (2025-06-10)",
       "significance": "Provable fraud - bank records will show ReZonance never received payments",
-      "legal_impact": "very_high"
+      "legal_impact": "very_high",
+      "evidence": [
+        "rezonance_debt_disappearance",
+        "R1M_debt_concealment",
+        "financial_manipulation_evidence"
+      ]
     },
     {
       "event_id": "EVT-069",
@@ -1860,7 +1889,12 @@
       ],
       "evidence_source": "Email: Daniel's comprehensive response (2025-06-10)",
       "significance": "Multiple attempted unauthorized banking changes; bank recognized irregularities",
-      "legal_impact": "very_high"
+      "legal_impact": "very_high",
+      "evidence": [
+        "unauthorized_banking_changes_2024_2025",
+        "bank_correspondence",
+        "attempted_account_changes"
+      ]
     }
   ]
 }

@@ -7,9 +7,9 @@
     "period_start": "2017-06-30",
     "period_end": "2025-09-11",
     "duration_days": 194,
-    "total_events": 62,
+    "total_events": 69,
     "last_updated": "2025-11-18",
-    "changes": "Refinement 2025-11-18: Added missing evidence references, fixed cross-references, enhanced data quality"
+    "changes": "Refinement 2025-11-19: Fixed duplicate event IDs, added missing evidence, updated event count from 62 to 69"
   },
   "timeline_phases": {
     "phase_1_foundation": {
@@ -130,7 +130,9 @@
         "EVENT_027",
         "EVENT_047",
         "EVENT_057",
-        "EVENT_058"
+        "EVENT_058",
+        "EVT-063",
+        "EVT-064"
       ],
       "primary_objectives": [
         "sabotage_payment_capability",
@@ -153,7 +155,7 @@
       "legal_significance": "sophisticated_financial_crime_coordination",
       "pattern_analysis": "Consolidation of control and sabotage of victim's ability to respond, Bantjies dismisses audit due to R18.685M debt conflict, active customer diversion to fraudulent domain",
       "victim_response": "Daniel finalized fraud reports",
-      "event_count": 11
+      "event_count": 13
     },
     "phase_5_control_seizure": {
       "phase_id": "PHASE_005",
@@ -171,7 +173,9 @@
         "EVENT_D003",
         "EVENT_D004",
         "EVENT_D005",
-        "EVENT_H010"
+        "EVENT_H010",
+        "EVT-065",
+        "EVT-066"
       ],
       "primary_objectives": [
         "shutdown_operations",
@@ -187,7 +191,7 @@
       "financial_impact": "unknown_amount",
       "legal_significance": "systematic_business_destruction_and_asset_theft",
       "pattern_analysis": "Complete seizure of operational and financial control",
-      "event_count": 10
+      "event_count": 12
     },
     "phase_6_cover_up": {
       "phase_id": "PHASE_006",
@@ -203,7 +207,8 @@
         "EVENT_049",
         "EVENT_059",
         "EVENT_060",
-        "EVENT_061"
+        "EVENT_061",
+        "EVT-067"
       ],
       "primary_objectives": [
         "conceal_evidence",
@@ -224,7 +229,7 @@
       "critical_events": [
         "EVENT_020"
       ],
-      "event_count": 8
+      "event_count": 9
     },
     "phase_0_historical_foundation": {
       "phase_id": "PHASE_000",
@@ -247,7 +252,9 @@
         "EVENT_H008",
         "EVENT_H009",
         "EVENT_H010",
-        "EVENT_H018"
+        "EVENT_H018",
+        "EVT-068",
+        "EVT-069"
       ],
       "primary_objectives": [
         "establish_business_relationships",
@@ -269,7 +276,7 @@
       "financial_impact": "R25,106,584.89+ (Villa Via R22.8M + inter-company R2.3M+)",
       "legal_significance": "foundation_for_systematic_fraud_infrastructure",
       "pattern_analysis": "Establishment of complex inter-company structures enabling later fraud, Villa Via profit extraction mechanism, Bantjies control over financial systems",
-      "event_count": 15
+      "event_count": 17
     },
     "phase_0_5_debt_accumulation": {
       "phase_id": "PHASE_005",
