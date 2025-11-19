@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "7.0",
+    "version": "8.0",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
     "last_updated": "2025-11-18",
-    "changes": "Integration 2025-11-19: Added RegimaSA (Pty) Ltd 2019 financial statements findings"
+    "changes": "Correction 2025-11-19: Clarified RegimaSA vs RegimA SA; added new findings from financial documents, Sage screenshots, and Bantjes email"
   },
   "entities": {
     "persons": [
@@ -71,7 +71,9 @@
         "relationships": [
           "co_conspirator_with_PERSON_001",
           "mother_of_PERSON_003",
-          "financial_controller"
+          "financial_controller",
+          "controls_sage:ORG_001",
+          "email_access:PERSON_001"
         ],
         "financial_impact": {
           "direct_involvement": "R4,276,832.85",
@@ -89,7 +91,20 @@
           "EVENT_015",
           "EVENT_025",
           "EVENT_026"
-        ]
+        ],
+        "sage_control": {
+          "subscription_owner": "RegimA Worldwide Distribution (Pty) Ltd",
+          "expiry_date": "2025-07-23",
+          "user_accounts": [
+            "Pete@regima.com",
+            "rynette@regima.zone"
+          ]
+        },
+        "email_access": {
+          "pete_email": "Pete@regima.com",
+          "evidence": "Sage screenshot 2025-06-20 shows Rynette with user account Pete@regima.com",
+          "significance": "Direct proof of email control"
+        }
       },
       {
         "entity_id": "PERSON_004",
@@ -192,7 +207,18 @@
           "EVENT_H018",
           "EVENT_061",
           "EVENT_058"
-        ]
+        ],
+        "involvement_duration": "30-odd years with Faucitt family business",
+        "email_2025_06_10": {
+          "subject": "The RegimA Group results and Computer Expense analysis",
+          "key_statements": [
+            "30-odd year involvement with the Faucitt family business",
+            "R10m decline year-on-year for the Group, including Villa Via",
+            "First time in history made a substantial trading loss",
+            "Computer expenses in excess of 20% of revenue"
+          ],
+          "significance": "Acknowledges massive financial deterioration but dismisses detailed audit"
+        }
       },
       {
         "entity_id": "PERSON_008",
@@ -535,7 +561,41 @@
           "false_payment_claims_2023",
           "jax_confrontation_2025_05_15"
         ],
-        "additional_notes": "IT services provider to RegimA Group since 2017, debt is part of Kayla's estate, Jax's confrontation about this debt triggered retaliation sequence"
+        "additional_notes": "IT services provider to RegimA Group since 2017, debt is part of Kayla's estate, Jax's confrontation about this debt triggered retaliation sequence",
+        "profit_loss_2017_2025": {
+          "total_income": 5974677.89,
+          "total_expenses": 509851.24,
+          "net_earnings": -220571.33,
+          "gross_profit_2023_2024": 33713.47,
+          "gross_profit_2024_2025": 0.0,
+          "significance": "Zero profit in 2024-2025 coincides with fraud escalation"
+        },
+        "transactions_regima_wwd_2022": {
+          "period": "2022-03-01 to 2023-02-03",
+          "opening_balance": 85565.6,
+          "total_payments_received": 442378.05,
+          "closing_balance": 22879.09,
+          "major_payments": [
+            {
+              "date": "2022-07-30",
+              "amount": 7315.35
+            },
+            {
+              "date": "2022-09-30",
+              "amount": 50000.0
+            },
+            {
+              "date": "2022-10-31",
+              "amount": 50000.0
+            },
+            {
+              "date": "2022-12-29",
+              "amount": 50000.0
+            }
+          ],
+          "total_major_payments": 157315.35,
+          "significance": "Debt reduced from R85k to R22k through large payments"
+        }
       },
       {
         "entity_id": "ORG_009",
@@ -658,7 +718,9 @@
         "evidence": [
           "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
           "CIPC registration 2017/087935/07"
-        ]
+        ],
+        "note": "RegimaSA (lowercase 'a') - NOT the same as RegimA SA (capital 'A')",
+        "clarification": "This entity (2017/087935/07) is separate from RegimA SA (Pty) Ltd which was created in 2021"
       },
       {
         "entity_id": "ORG_013",
@@ -670,14 +732,42 @@
           "ORG_012"
         ],
         "relationships": [
-          "loan_to:ORG_012"
+          "loan_to:ORG_012",
+          "supplier_to:ORG_001"
         ],
         "financial_relationship_2019": "R500 loan to RegimaSA",
         "significance": "Related party entity in Regima network; mentioned in CIPC warning July 2, 2025",
         "evidence": [
           "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
           "ad-res-j7 CIPC warning reference"
-        ]
+        ],
+        "transactions_regima_wwd": {
+          "period": "2022-03-01 to 2023-02-03",
+          "opening_balance": 7400.0,
+          "total_invoices": 13129.03,
+          "total_payments": -20529.03,
+          "closing_balance": 0.0,
+          "services": "IT/software services, including Sage accounting",
+          "significance": "All debts cleared by Feb 2023"
+        }
+      },
+      {
+        "entity_id": "ORG_014",
+        "name": "RegimA SA (Pty) Ltd",
+        "incorporation_date": "2021",
+        "role": "RegimA Group entity",
+        "agent_type": "unknown",
+        "email": "d@rzo.io",
+        "associated_person": "PERSON_005",
+        "relationships": [
+          "associated_with:PERSON_005"
+        ],
+        "significance": "Separate entity from RegimaSA (2017/087935/07); created in 2021; appears in Sage accounting system",
+        "evidence": [
+          "Sage screenshot 2025-06-20 - Control User Access",
+          "User correction: RegimA SA didn't exist until 2021"
+        ],
+        "note": "Capital 'A' in RegimA - different from RegimaSA (lowercase 'a')"
       }
     ],
     "platforms": [

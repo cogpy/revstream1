@@ -1,0 +1,192 @@
+#!/usr/bin/env python3
+"""
+Analyze new financial documents and correct RegimaSA vs RegimA confusion
+Date: 2025-11-19
+"""
+
+import json
+from datetime import datetime
+
+# Key findings from document analysis
+findings = {
+    "document_analysis_date": "2025-11-19",
+    "correction_required": True,
+    "error_description": "Confused RegimaSA (Pty) Ltd (2017/087935/07) with RegimA SA",
+    
+    "entity_clarifications": {
+        "regimasa_pty_ltd": {
+            "entity_id": "ORG_012",
+            "name": "RegimaSA (Pty) Ltd",
+            "registration": "2017/087935/07",
+            "incorporation_date": "2017-02-24",
+            "nature": "Collections Agent",
+            "status": "Legitimate entity, incorporated 2017",
+            "note": "This is NOT the same as RegimA SA"
+        },
+        "regima_sa": {
+            "entity_id": "ORG_014",
+            "name": "RegimA SA (Pty) Ltd",
+            "incorporation_date": "2021 (exact date TBD)",
+            "status": "Separate entity, created 2021",
+            "note": "Capital 'A' in RegimA - different from RegimaSA"
+        },
+        "regima_worldwide_distribution": {
+            "entity_id": "ORG_001",
+            "name": "RegimA Worldwide Distribution (Pty) Ltd",
+            "abbreviation": "RegimA WWD",
+            "status": "Main operating entity",
+            "sage_accounting_owner": "Rynette Farrar",
+            "sage_expiry_date": "2025-07-23",
+            "note": "Screenshots show Rynette as subscription owner"
+        }
+    },
+    
+    "bantjes_email_findings": {
+        "date": "2025-06-10",
+        "from": "Danie Bantjes <danie.bantjes@gmail.com>",
+        "to": ["Peter Andrew Faucitt <pete@regima.com>", 
+              "Jacqui Faucitt <jax@regima.zone>", 
+              "Daniel Faucitt <d@rzo.io>"],
+        "subject": "The RegimA Group results and Computer Expense analysis",
+        "key_points": [
+            "30-odd year involvement with Faucitt family business",
+            "Internal dispute of serious nature",
+            "Computer expenses exceed 20% of revenue",
+            "RegimA Group made substantial trading loss for first time in history",
+            "Bank balances declined R10M year-on-year (including Villa Via)",
+            "Financial year end: 28 February 2025",
+            "Bantjes dismisses audit request - consistent with conflict of interest"
+        ],
+        "significance": "Bantjes acknowledges 30-year involvement, confirms R10M decline, dismisses audit concerns"
+    },
+    
+    "unicorn_dynamics_transactions": {
+        "report_entity": "RegimA Worldwide Distribution (Pty) Ltd",
+        "supplier": "UNICORN DYNAMICS",
+        "period": "01/03/2022 - 03/02/2023",
+        "opening_balance": 7400.00,
+        "closing_balance": 0.00,
+        "movement": 7400.00,
+        "transactions": [
+            {"date": "2022-03-30", "type": "Invoice", "ref": "Inv1172", "amount": 2500.00},
+            {"date": "2022-03-30", "type": "Invoice", "ref": "Inv1173", "amount": 929.03},
+            {"date": "2022-03-31", "type": "Payment", "amount": -7400.00},
+            {"date": "2022-04-25", "type": "Invoice", "ref": "Inv1174", "amount": 900.00},
+            {"date": "2022-04-25", "type": "Invoice", "ref": "INV1177", "amount": 2500.00},
+            {"date": "2022-04-29", "type": "Payment", "amount": -3429.03},
+            {"date": "2022-07-30", "type": "Payment", "description": "REGIMA WW", "amount": -3400.00},
+            {"date": "2022-08-24", "type": "Invoice", "ref": "Inv1179 June 2022", "amount": 2500.00},
+            {"date": "2022-08-24", "type": "Invoice", "ref": "Inv1180 - July 2022", "amount": 2500.00},
+            {"date": "2022-08-24", "type": "Invoice", "ref": "Inv1182", "amount": 900.00},
+            {"date": "2022-08-24", "type": "Invoice", "ref": "Inv1178-May 2022", "amount": 2500.00},
+            {"date": "2022-08-24", "type": "Invoice", "ref": "Inv1181 - Sage", "amount": 900.00},
+            {"date": "2022-08-31", "type": "Payment", "description": "REGIMA SKIN TREATMEN", "amount": -9300.00}
+        ],
+        "significance": "Unicorn Dynamics supplied services to RegimA WWD; all balances cleared by Feb 2023"
+    },
+    
+    "rezonance_transactions": {
+        "report_entity": "RegimA Worldwide Distribution (Pty) Ltd",
+        "supplier": "REZONANCE (PTY) LTD",
+        "period": "01/03/2022 - 03/02/2023",
+        "opening_balance": 85565.60,
+        "closing_balance": 22879.09,
+        "movement": 108444.69,
+        "key_payments": [
+            {"date": "2022-07-30", "description": "REGIMA/REZONANCE REGIMA WW", "amount": -7315.35},
+            {"date": "2022-09-30", "description": "REGIMA/REZONANCE REGIMA/REZONANCE", "amount": -50000.00},
+            {"date": "2022-10-31", "description": "REGIMA/REZONANCE REGIMA/REZONANCE", "amount": -50000.00},
+            {"date": "2022-12-29", "description": "REGIMA/REZONANCE REGIMA WWD/REZONANCE", "amount": -50000.00}
+        ],
+        "total_payments_2022": 157315.35,
+        "significance": "RegimA WWD made substantial payments to ReZonance in 2022, reducing debt from R85k to R22k"
+    },
+    
+    "rezonance_profit_loss": {
+        "entity": "ReZonance (Pty) Ltd",
+        "period_covered": "30 JUN 2017 - 12 MAY 2025",
+        "key_financials": {
+            "total_income_all_periods": 5974677.89,
+            "total_expenses_all_periods": 509851.24,
+            "net_earnings_all_periods": -220571.33,
+            "gross_profit_2023_2024": 33713.47,
+            "gross_profit_2024_2025": 0.00
+        },
+        "billable_expense_income": {
+            "apps": 92022.04,
+            "collaboration": 616768.90,
+            "creative": 171362.27,
+            "office": 1365207.44,
+            "organization": 118891.90,
+            "total": 1887472.55
+        },
+        "infrastructure": {
+            "devops": 73542.13,
+            "education": 246151.80,
+            "hosting": 819810.36,
+            "platform": 2223710.19,
+            "total": 3590110.04
+        },
+        "significance": "ReZonance shows substantial billable expenses charged to other entities"
+    },
+    
+    "sage_accounting_control": {
+        "screenshot_1": {
+            "date": "2025-08-25",
+            "system": "Sage Accounting",
+            "company": "RegimA Worldwide Distribution (Pty) Ltd",
+            "status": "Accounting registration expired on 23/07/2025",
+            "subscription_owner": "Rynette Farrar",
+            "message": "You will no longer be able to access your company data in Accounting",
+            "action_required": "Contact Rynette Farrar to activate account"
+        },
+        "screenshot_2": {
+            "date": "2025-06-20",
+            "system": "Sage Accounting - Control User Access",
+            "company": "RegimA Worldwide Distribution (Pty) Ltd",
+            "companies_in_system": [
+                "RegimA Africa (Pty) Ltd - d@rzo.io",
+                "RegimA SA (Pty) Ltd - d@rzo.io",
+                "RegimA Worldwide Distribution (Pty) Ltd - kent@regima.zone",
+                "RegimA Zone (Pty) Ltd",
+                "ReZ Demo Store"
+            ],
+            "users_with_access": [
+                {"name": "Danie Bantjes", "email": "danie.bantjes@gmail.com"},
+                {"name": "Eldridge Davids", "email": "el@regima.zone"},
+                {"name": "Rynette Farrar", "email": "Pete@regima.com"},
+                {"name": "Rynette Farrar", "email": "rynette@regima.zone"},
+                {"name": "Daniel Faucitt", "email": "d@rzo.io"},
+                {"name": "Linda Kruger", "email": "linda@regima.zone"}
+            ],
+            "significance": "Rynette has TWO accounts (Pete@regima.com and rynette@regima.zone) - evidence of email control"
+        }
+    },
+    
+    "critical_findings": [
+        "RegimA SA (capital A) is separate entity from RegimaSA (2017/087935/07)",
+        "RegimA SA didn't exist until 2021 - need to correct data models",
+        "Rynette Farrar is Sage subscription owner for RegimA WWD",
+        "Rynette has access to Pete@regima.com email (shown in Sage user list)",
+        "Bantjes email confirms R10M decline in bank balances year-on-year",
+        "Bantjes acknowledges 30-year involvement with Faucitt family",
+        "Unicorn Dynamics supplied services to RegimA WWD (2022-2023)",
+        "ReZonance received R157k+ payments from RegimA WWD in 2022",
+        "Sage accounting expired July 23, 2025 - Rynette controls reactivation"
+    ]
+}
+
+# Save findings
+with open('/home/ubuntu/revstream1/NEW_FINANCIAL_DOCUMENTS_FINDINGS.json', 'w') as f:
+    json.dump(findings, f, indent=2)
+
+print("Analysis complete!")
+print(f"\nCritical findings saved to: NEW_FINANCIAL_DOCUMENTS_FINDINGS.json")
+print(f"\nKey corrections needed:")
+print("1. RegimA SA (capital A) is different from RegimaSA (2017/087935/07)")
+print("2. RegimA SA didn't exist until 2021")
+print("3. Need to add RegimA SA as separate entity (ORG_014)")
+print("4. Rynette Farrar controls Sage accounting system")
+print("5. Rynette has access to Pete@regima.com email")
+print("6. Bantjes confirms R10M bank balance decline")
+

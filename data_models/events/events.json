@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "7.0",
+    "version": "8.0",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 62,
     "extended_evidence": "incorporated_from_ad_res_j7",
     "last_updated": "2025-11-18",
-    "changes": "Integration 2025-11-19: Added RegimaSA (Pty) Ltd 2019 financial statements findings"
+    "changes": "Correction 2025-11-19: Clarified RegimaSA vs RegimA SA; added new findings from financial documents, Sage screenshots, and Bantjes email"
   },
   "events": [
     {
@@ -1820,6 +1820,105 @@
         "EVENT_H012"
       ],
       "legal_significance": "Document preparation timing suggests response to legal proceedings; establishes Peter's directorship and control"
+    },
+    {
+      "event_id": "EVENT_065",
+      "date": "2025-07-23",
+      "event_type": "System control",
+      "category": "Access control",
+      "description": "RegimA WWD Sage accounting registration expired; Rynette Farrar controls reactivation",
+      "entities_involved": [
+        "ORG_001",
+        "PERSON_002"
+      ],
+      "perpetrators": [
+        "PERSON_002"
+      ],
+      "victims": [
+        "PERSON_001",
+        "PERSON_004"
+      ],
+      "location": "South Africa",
+      "financial_impact": 0,
+      "significance": "Rynette can deny access to financial records by not renewing Sage subscription",
+      "evidence": [
+        "Sage screenshot 2025-08-25 - Accounting Registration Expired"
+      ],
+      "timeline_phase": "PHASE_006",
+      "related_events": []
+    },
+    {
+      "event_id": "EVENT_066",
+      "date": "2025-06-10",
+      "event_type": "Financial disclosure",
+      "category": "Evidence documentation",
+      "description": "Bantjes email confirms R10M bank balance decline year-on-year; first-ever substantial trading loss in RegimA Group history",
+      "entities_involved": [
+        "PERSON_007",
+        "PERSON_001",
+        "PERSON_004",
+        "PERSON_005"
+      ],
+      "perpetrators": [],
+      "victims": [
+        "PERSON_001",
+        "PERSON_004"
+      ],
+      "location": "South Africa",
+      "financial_impact": -10000000,
+      "significance": "Massive financial deterioration acknowledged by accountant; Bantjes dismisses detailed audit despite acknowledging losses",
+      "evidence": [
+        "Email: The RegimA Group results and Computer Expense analysis (2025-06-10)"
+      ],
+      "timeline_phase": "PHASE_006",
+      "related_events": [
+        "EVENT_065"
+      ],
+      "key_statements": [
+        "30-odd year involvement with the Faucitt family business",
+        "R10m decline year-on-year for the Group, including Villa Via",
+        "First time in history made a substantial trading loss",
+        "Computer expenses in excess of 20% of revenue"
+      ]
+    },
+    {
+      "event_id": "EVENT_067",
+      "date": "2022-07-30",
+      "event_type": "Debt payment",
+      "category": "Financial transactions",
+      "description": "RegimA WWD paid R157k+ to ReZonance, reducing debt from R85k to R22k (July-December 2022)",
+      "entities_involved": [
+        "ORG_001",
+        "ORG_008"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "location": "South Africa",
+      "financial_impact": -157315.35,
+      "significance": "Large debt payments during pre-fraud period; debt reduction suggests legitimate business relationship or settlement strategy",
+      "evidence": [
+        "Rez-WWD.pdf - Supplier Transactions Report"
+      ],
+      "timeline_phase": "PHASE_000",
+      "related_events": [],
+      "payment_details": [
+        {
+          "date": "2022-07-30",
+          "amount": 7315.35
+        },
+        {
+          "date": "2022-09-30",
+          "amount": 50000.0
+        },
+        {
+          "date": "2022-10-31",
+          "amount": 50000.0
+        },
+        {
+          "date": "2022-12-29",
+          "amount": 50000.0
+        }
+      ]
     }
   ]
 }
