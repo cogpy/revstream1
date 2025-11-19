@@ -25,7 +25,9 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 | **Case Name** | Peter Faucitt v. Jacqueline Faucitt et al. |
 | **Period** | March 15, 2025 - August 20, 2025 |
 | **Duration** | 158 days of documented criminal activity |
-| **Key Events** | 15 |
+| **Total Events** | 69 |
+| **Events with Financial Impact** | 54 |
+| **Estimated Financial Impact** | R115,015,600 |
 | **Revenue Theft** | R3,141,647.70 |
 | **Trust Violations** | R2,851,247.35 |
 | **Financial Manipulation** | R4,276,832.85 |
@@ -160,6 +162,14 @@ November 2025: Application 3 filed (contact interdict)
 3. Trust asset recovery
 4. Constructive trust
 5. Account of profits
+
+---
+
+## Data & Evidence Integrity
+
+This case is supported by a robust and comprehensive data model. A full analysis of the data integrity, structure, and completeness is available for review.
+
+**[📄 View Full Data Model Analysis Report](data-model-analysis.html)**
 
 ---
 

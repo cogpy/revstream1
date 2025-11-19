@@ -3,293 +3,132 @@ layout: default
 title: Evidence Index
 ---
 
-# Evidence Index - Revenue Stream Hijacking Case 2025-137857
+# Evidence Index
 
-This comprehensive evidence index organizes all evidence files with clear references to the three sequential interdict applications and cross-references to the extended evidence repository [ad-res-j7](https://github.com/cogpy/ad-res-j7).
+This index provides a structured and comprehensive guide to all evidence used in the **Revenue Stream Hijacking Case 2025-137857**. All evidence is categorized by the legal application it supports, with direct links to key events and the complete evidence repository.
 
----
+## Evidence Summary
 
-## Quick Navigation
+| Category                  | File Count | Total Size | Applications Supported |
+|---------------------------|------------|------------|------------------------|
+| Accounting & Financial    | 5          | ~1.5MB     | 1, 2, 3                |
+| Emails & Correspondence   | 4          | ~100KB     | 1, 3                   |
+| Corporate & Trust Records | 3          | ~50KB      | 1, 2                   |
+| POPIA Violations          | 2          | ~30KB      | 1                      |
+| Mediation & Legal         | 1          | ~20KB      | 2                      |
+| System Control (Sage)     | 1          | ~25KB      | 3                      |
+| Trademark                 | 1          | ~10KB      | 3                      |
+| **Total**                 | **17**     | **~1.7MB** | **All**                |
 
-- [Application 1 Evidence](#application-1-evidence) - Ex Parte Interdict (August 2025)
-- [Application 2 Evidence](#application-2-evidence) - Settlement Enforcement (October 2025)
-- [Application 3 Evidence](#application-3-evidence) - Contact Interdict (November 2025)
-- [Cross-Application Evidence](#cross-application-evidence) - Evidence used across multiple applications
-- [Extended Evidence (ad-res-j7)](#extended-evidence-ad-res-j7) - Comprehensive evidence repository
-
----
-
-## Application 1 Evidence
-
-### Ex Parte Interdict (August 13, 2025)
-
-**Primary Focus:** POPIA violations, trustee misconduct, ReZonance payment system fraud
-
-#### POPIA Violations {#popia}
-
-| Evidence File | Description | Key Events | ad-res-j7 Reference |
-|--------------|-------------|------------|---------------------|
-| `POPIAViolationNotice-SenttoPeteon8July2025` | POPIA violation notice sent to Peter | EVENT_016, EVENT_017 | `ad-res-j7/ANNEXURES/popia/` |
-| `Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuide` | Staff compliance guide | EVENT_016 | `ad-res-j7/1-CIVIL-RESPONSE/popia_analysis/` |
-
-**Legal Significance:** Establishes systematic POPIA violations including warehouse data access violations and operational shutdown.
-
-#### Trustee Misconduct {#trustee}
-
-| Evidence File | Description | Key Events | ad-res-j7 Reference |
-|--------------|-------------|------------|---------------------|
-| `TRUSTEEFw_CopyofyourID` | Trustee ID document request | EVENT_001, EVENT_006 | `ad-res-j7/ANNEXURES/trust/` |
-| Trust deed documentation | Family trust establishment | EVENT_001 | `ad-res-j7/ANNEXURES/trust/trust_deed.pdf` |
-
-**Legal Significance:** Documents unauthorized beneficiary changes and trust structure manipulation.
-
-#### ReZonance Payment System {#rezonance}
-
-| Evidence File | Description | Key Events | ad-res-j7 Reference |
-|--------------|-------------|------------|---------------------|
-| `FW_RezonceREZONANCE23,24,25FEBS` | ReZonance invoices 2023-2025 | EVENT_023, EVENT_054 | `ad-res-j7/ANNEXURES/rezonance/invoices/` |
-| `Fw_Rezonance-Unicorn-Joziway` | ReZonance payment routing | EVENT_023 | `ad-res-j7/ANNEXURES/rezonance/payment_analysis/` |
-
-**Legal Significance:** R1,035,000 debt to ReZonance, false payment claims of R1,235,361.34, systematic fraud pattern.
+*Extended evidence repository (`ad-res-j7`) contains over 22,000 files (276MB).*
 
 ---
 
-## Application 2 Evidence
+## Application 1: Ex Parte Interdict (August 2025)
 
-### Settlement Agreement Enforcement (October 2025)
+**Focus:** Urgent relief based on POPIA violations, trustee misconduct, and payment system fraud.
 
-**Primary Focus:** Mediation documentation, corporate records, accounting evidence
+### 1.1 POPIA Violations {#app1-popia}
 
-#### Mediation Documentation {#mediation}
+| Evidence File                                                              | Description                               | Key Events           | ad-res-j7 Reference                               |
+|----------------------------------------------------------------------------|-------------------------------------------|----------------------|---------------------------------------------------|
+| `POPIAViolationNotice-SenttoPeteon8July2025`                               | Official POPIA violation notice to Peter  | `EVENT_016`, `EVENT_017` | `ad-res-j7/ANNEXURES/popia/`                        |
+| `Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuide` | Staff compliance guide on POPIA           | `EVENT_016`          | `ad-res-j7/1-CIVIL-RESPONSE/popia_analysis/`      |
 
-| Evidence File | Description | Key Events | ad-res-j7 Reference |
-|--------------|-------------|------------|---------------------|
-| `Re_MEDIATIONNOTES` | Mediation notes September 18, 2025 | N/A | `ad-res-j7/1-CIVIL-RESPONSE/mediation/` |
+### 1.2 Trustee Misconduct {#app1-trustee}
 
-**Legal Significance:** Documents agreements reached (medical assessments, forensic investigations) and subsequent withdrawal by respondents.
+| Evidence File              | Description                       | Key Events           | ad-res-j7 Reference                          |
+|----------------------------|-----------------------------------|----------------------|----------------------------------------------|
+| `TRUSTEEFw_CopyofyourID`   | Email requesting trustee ID copy  | `EVENT_001`, `EVENT_006` | `ad-res-j7/ANNEXURES/trust/`                 |
+| Trust Deed Documentation   | The original family trust deed    | `EVENT_001`          | `ad-res-j7/ANNEXURES/trust/trust_deed.pdf`   |
 
-#### Corporate Records {#cipc}
+### 1.3 ReZonance Payment System Fraud {#app1-rezonance}
 
-| Evidence File | Description | Key Events | ad-res-j7 Reference |
-|--------------|-------------|------------|---------------------|
-| CIPC registration documents | Company registration records | EVENT_H009, EVENT_010 | `ad-res-j7/ANNEXURES/cipc/` |
-| Shell company analysis | Fraudulent entity creation | EVENT_024 | `ad-res-j7/2-CRIMINAL-CASE/shell_company_analysis/` |
-
-**Legal Significance:** Documents creation of competing business entities and identity fraud infrastructure.
-
-#### Accounting Evidence {#accounting}
-
-| Evidence File | Description | Key Events | ad-res-j7 Reference |
-|--------------|-------------|------------|---------------------|
-| `Rez-WWDBooks2023-02` | RWD books February 2023 | EVENT_H005, EVENT_H006 | `ad-res-j7/ANNEXURES/accounting/trial_balances/` |
-| `Rez2023-02` | Consolidated accounts | EVENT_H005, EVENT_H006 | `ad-res-j7/ANNEXURES/accounting/financial_statements/` |
-| Trial balance documentation | Inter-company manipulation | EVENT_H018 | `ad-res-j7/ANNEXURES/accounting/trial_balances/` |
-
-**Legal Significance:** R1,642,000 inter-company cost reallocations, R22.8M Villa Via capital extraction, systematic financial manipulation.
+| Evidence File                       | Description                               | Key Events           | ad-res-j7 Reference                                  |
+|-------------------------------------|-------------------------------------------|----------------------|------------------------------------------------------|
+| `FW_RezonceREZONANCE23,24,25FEBS`   | Invoices showing debt to ReZonance        | `EVENT_023`, `EVENT_054` | `ad-res-j7/ANNEXURES/rezonance/invoices/`            |
+| `Fw_Rezonance-Unicorn-Joziway`      | Emails detailing payment routing          | `EVENT_023`          | `ad-res-j7/ANNEXURES/rezonance/payment_analysis/`    |
 
 ---
 
-## Application 3 Evidence
+## Application 2: Settlement Enforcement (October 2025)
 
-### Contact Interdict (November 4, 2025)
+**Focus:** Enforcing agreements from mediation, supported by corporate and accounting records.
 
-**Primary Focus:** Email correspondence, Sage control analysis, trademark documentation
+### 2.1 Mediation Documentation {#app2-mediation}
 
-#### Email Correspondence {#emails}
+| Evidence File         | Description                               | Key Events | ad-res-j7 Reference                          |
+|-----------------------|-------------------------------------------|------------|----------------------------------------------|
+| `Re_MEDIATIONNOTES`   | Notes from mediation on Sept 18, 2025     | `N/A`      | `ad-res-j7/1-CIVIL-RESPONSE/mediation/`      |
 
-| Evidence File | Description | Key Events | ad-res-j7 Reference |
-|--------------|-------------|------------|---------------------|
-| `Fw_update-SomeInitialInformation&OperatingEntityLists` | Operating entity lists | Multiple | `ad-res-j7/ANNEXURES/emails/` |
-| `jaz-DanielFaucitt-Outlook` | Jax correspondence | EVENT_027 | `ad-res-j7/ANNEXURES/emails/jax/` |
-| Domain switch instruction email | Customer diversion scheme | EVENT_027 | `ad-res-j7/2-CRIMINAL-CASE/domain_hijacking/` |
+### 2.2 Corporate Records (CIPC) {#app2-cipc}
 
-**Legal Significance:** Documents coordinated customer diversion scheme and email impersonation pattern.
+| Evidence File              | Description                           | Key Events           | ad-res-j7 Reference                                  |
+|----------------------------|---------------------------------------|----------------------|------------------------------------------------------|
+| CIPC Registration Docs     | Records of company registrations      | `EVENT_H009`, `EVENT_010` | `ad-res-j7/ANNEXURES/cipc/`                        |
+| Shell Company Analysis     | Report on fraudulent entity creation  | `EVENT_024`          | `ad-res-j7/2-CRIMINAL-CASE/shell_company_analysis/`  |
 
-#### Sage Control Analysis {#sage}
+### 2.3 Accounting Evidence {#app2-accounting}
 
-| Evidence File | Description | Key Events | ad-res-j7 Reference |
-|--------------|-------------|------------|---------------------|
-| `SAGE_SCREENSHOTS_CONTROL_ANALYSIS` | Sage accounting system control | EVENT_H018 | `ad-res-j7/ANNEXURES/sage/` |
-
-**Legal Significance:** Demonstrates Rynette and Bantjies' control over accounting systems.
-
-#### Trademark Documentation {#trademark}
-
-| Evidence File | Description | Key Events | ad-res-j7 Reference |
-|--------------|-------------|------------|---------------------|
-| `FW_Trademarkregistrationnos` | UK trademark registration | N/A | `ad-res-j7/ANNEXURES/trademark/` |
-
-**Legal Significance:** Establishes legitimate trademark ownership by RegimA Skin Treatments CC.
+| Evidence File                 | Description                           | Key Events           | ad-res-j7 Reference                                      |
+|-------------------------------|---------------------------------------|----------------------|----------------------------------------------------------|
+| `Rez-WWDBooks2023-02`         | RWD financial books (Feb 2023)        | `EVENT_H005`, `EVENT_H006` | `ad-res-j7/ANNEXURES/accounting/trial_balances/`         |
+| Trial Balance Documentation   | Evidence of inter-company manipulation| `EVENT_H018`         | `ad-res-j7/ANNEXURES/accounting/trial_balances/`         |
 
 ---
 
-## Cross-Application Evidence
+## Application 3: Contact Interdict (November 2025)
 
-### Evidence Used Across Multiple Applications
+**Focus:** Preventing harassment and interference, based on email evidence and system control analysis.
 
-#### Financial Evidence {#financial}
+### 3.1 Email Correspondence {#app3-emails}
 
-**Shopify Platform Ownership (Critical Revelation)**
+| Evidence File                                         | Description                               | Key Events | ad-res-j7 Reference                                |
+|-------------------------------------------------------|-------------------------------------------|------------|----------------------------------------------------|
+| `Fw_update-SomeInitialInformation&OperatingEntityLists` | Lists of operating entities               | `Multiple` | `ad-res-j7/ANNEXURES/emails/`                      |
+| `jaz-DanielFaucitt-Outlook`                           | Correspondence with Jax                   | `EVENT_027`| `ad-res-j7/ANNEXURES/emails/jax/`                  |
+| Domain Switch Instruction Email                       | Email directing customer diversion        | `EVENT_027`| `ad-res-j7/2-CRIMINAL-CASE/domain_hijacking/`      |
 
-- **Platform Owner:** RegimA Zone Ltd (UK) - Daniel Faucitt's independent entity
-- **Investment Period:** July 2023 - Present (28+ months)
-- **Total Investment:** R140,000 - R280,000
-- **Key Implication:** RWD ZA has no independent revenue stream
+### 3.2 Sage Control Analysis {#app3-sage}
 
-**Evidence Files:**
-- Shopify payment records (28 months)
-- Platform subscription invoices
-- UK company registration (RegimA Zone Ltd)
+| Evidence File                         | Description                           | Key Events   | ad-res-j7 Reference                  |
+|---------------------------------------|---------------------------------------|--------------|--------------------------------------|
+| `SAGE_SCREENSHOTS_CONTROL_ANALYSIS`   | Screenshots showing system control    | `EVENT_H018` | `ad-res-j7/ANNEXURES/sage/`          |
 
-**ad-res-j7 Reference:** `ad-res-j7/ANNEXURES/shopify/platform_ownership/`
+### 3.3 Trademark Documentation {#app3-trademark}
 
-**Legal Significance:** Undermines RWD ZA's claims of independent business operations and legitimate revenue streams.
-
-#### Fabricated Accounts Evidence {#fabricated}
-
-**R500,000 Stock Provision Fabrication**
-
-- **Date:** February 20, 2020
-- **Amount:** R500,000
-- **Method:** Adjusting journal entry write-back
-- **Connected to:** R5,400,000 stock fraud
-
-**Evidence Files:**
-- Trial balance AJEs
-- General ledger entries
-- Stock adjustment analysis
-
-**ad-res-j7 Reference:** `ad-res-j7/ANNEXURES/accounting/fabricated_accounts/`
-
-**Legal Significance:** Part of R5.4M stock fraud concealment scheme involving Bantjies and Adderory.
-
-#### Critical Analysis {#critical}
-
-**Bantjies Conflict of Interest**
-
-- **Triple Conflict:** Trustee + Debtor (R18.685M) + Accountant
-- **Debt to Trust:** R18,685,000
-- **Motive:** Prevent discovery of massive debt
-- **Actions:** Dismissed audit request June 10, 2025 (4 days after fraud exposure)
-
-**Evidence Files:**
-- Trial balance email August 13, 2020
-- Audit dismissal correspondence
-- Debt documentation
-
-**ad-res-j7 Reference:** `ad-res-j7/2-CRIMINAL-CASE/bantjies_conflict_analysis/`
-
-**Legal Significance:** Establishes motive and consciousness of guilt for fraud concealment.
+| Evidence File                   | Description                       | Key Events | ad-res-j7 Reference                      |
+|---------------------------------|-----------------------------------|------------|------------------------------------------|
+| `FW_Trademarkregistrationnos`   | UK trademark registration details | `N/A`      | `ad-res-j7/ANNEXURES/trademark/`         |
 
 ---
 
-## Extended Evidence (ad-res-j7)
+## Cross-Application & Critical Evidence
 
-### Comprehensive Evidence Repository
+This evidence is fundamental to the entire case and is referenced across multiple applications.
 
-The [ad-res-j7 repository](https://github.com/cogpy/ad-res-j7) contains the complete evidence package with detailed analysis and supporting documentation.
+### Shopify Platform Ownership (Central Pillar)
 
-#### Key Directories
+- **Description:** Proof that the Shopify platform was owned and funded by Daniel Faucitt's UK entity, **RegimA Zone Ltd**, since July 2023. This is the critical revelation that RWD ZA had no independent revenue stream.
+- **Key Events:** `EVENT_009`, `EVENT_011`
+- **ad-res-j7 Reference:** `ad-res-j7/ANNEXURES/shopify/platform_ownership/`
 
-| Directory | Contents | Purpose |
-|-----------|----------|---------|
-| `ANNEXURES/` | Primary evidence files organized by category | Source documents for all applications |
-| `1-CIVIL-RESPONSE/` | Civil case analysis and documentation | Application support materials |
-| `2-CRIMINAL-CASE/` | Criminal complaint and forensic analysis | Criminal charges documentation |
-| `3-EXTERNAL-VALIDATION/` | Independent expert analysis | Third-party validation |
-| `FINAL_AFFIDAVIT_PACKAGE/` | Complete affidavit with all annexures | Court filing package |
+### Bantjies' Conflict of Interest
 
-#### Comprehensive Evidence Index
+- **Description:** Evidence demonstrating the accountant Danie Bantjies' triple conflict of interest as a trustee, a debtor to the trust for **R18.685M**, and the group's accountant. This establishes a clear motive for concealing fraud.
+- **Key Events:** `EVENT_H018`, `EVENT_061`
+- **ad-res-j7 Reference:** `ad-res-j7/2-CRIMINAL-CASE/bantjies_conflict_analysis/`
 
-**File:** `COMPREHENSIVE_EVIDENCE_INDEX.json` (1.2MB)
+### Fabricated Accounts & Stock Fraud
 
-This JSON file contains:
-- Complete evidence catalog (all files)
-- Cross-references between evidence items
-- Event-to-evidence mappings
-- Entity-to-evidence mappings
-- Timeline-to-evidence mappings
-
-**File:** `COMPREHENSIVE_EVIDENCE_INDEX.md` (395KB)
-
-Human-readable version of the evidence index with:
-- Evidence summaries
-- Legal significance analysis
-- Cross-application references
-- Timeline integration
-
-#### Key Documents
-
-| Document | Description | Size |
-|----------|-------------|------|
-| `KF0019-UrgentApplication.pdf` | Original urgent application | 10MB |
-| `FINAL_ANSWERING_AFFIDAVIT_COMPLETE.docx` | Complete answering affidavit | 70KB |
-| `FINAL_ANSWERING_AFFIDAVIT_ABRIDGED.docx` | Abridged version | 54KB |
-| `KEY_EVENTS_TIMELINE_MARCH_AUGUST_2025.html` | Interactive timeline | 30KB |
+- **Description:** Analysis of the **R500,000** stock provision fabrication and its connection to the larger **R5.4M** stock fraud scheme.
+- **Key Events:** `EVENT_H005`, `EVENT_024`
+- **ad-res-j7 Reference:** `ad-res-j7/ANNEXURES/accounting/fabricated_accounts/`
 
 ---
 
-## Evidence Organization Principles
+## Navigating the Evidence
 
-### 1. Clear Application References
-
-Every evidence file is tagged with:
-- Primary application(s) it supports
-- Secondary applications where relevant
-- Cross-application significance
-
-### 2. Event Linkage
-
-Evidence files are linked to specific events:
-- Event ID references (e.g., EVENT_001)
-- Timeline phase references (e.g., PHASE_001)
-- Entity involvement (e.g., PERSON_001)
-
-### 3. ad-res-j7 Cross-References
-
-All evidence includes:
-- Path to source file in ad-res-j7
-- Related analysis documents
-- Supporting documentation
-
-### 4. Legal Significance
-
-Each evidence category includes:
-- Legal framework applicable
-- Charges/claims supported
-- Remedies available
-
----
-
-## Evidence Statistics
-
-| Category | File Count | Total Size | Applications |
-|----------|-----------|------------|--------------|
-| Accounting | 2 | ~50KB | 1, 2 |
-| Emails | 4 | ~100KB | 1, 2, 3 |
-| POPIA | 2 | ~30KB | 1 |
-| ReZonance | 2 | ~40KB | 1, 2 |
-| Mediation | 1 | ~20KB | 2 |
-| Sage | 1 | ~25KB | 3 |
-| CIPC | 2 | ~15KB | 2 |
-| Trademark | 1 | ~10KB | 3 |
-| **Total** | **17** | **~290KB** | **1, 2, 3** |
-
-**Extended Evidence (ad-res-j7):** 22,808 files, 276MB
-
----
-
-## Navigation
-
-- [Home](index.html) - Case overview and executive summary
-- [Application 1](application-1.html) - Ex Parte Interdict details
-- [Application 2](application-2.html) - Settlement Enforcement details
-- [Application 3](application-3.html) - Contact Interdict details
-- [All Applications](applications.html) - Side-by-side comparison
-
----
-
-**Last Updated:** 2025-11-19  
-**Version:** 10.0  
-**Repository:** [github.com/cogpy/revstream1](https://github.com/cogpy/revstream1)  
-**Extended Evidence:** [github.com/cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)
+- **[Home](index.html):** Case overview and statistics.
+- **[Data Model Analysis](data-model-analysis.html):** A deep dive into the integrity of the case data.
+- **[Applications Overview](applications.html):** A side-by-side comparison of the three legal applications.
