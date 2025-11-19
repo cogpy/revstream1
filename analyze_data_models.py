@@ -1,186 +1,315 @@
+#!/usr/bin/env python3
+"""
+Comprehensive analysis of entities, relations, events, and timelines
+to identify gaps, inconsistencies, and improvement opportunities.
+"""
+
 import json
-import os
-from collections import defaultdict
+from datetime import datetime
+from collections import defaultdict, Counter
 
-def analyze_entities(entities_file):
-    """Analyze entities.json and extract insights"""
-    with open(entities_file, 'r') as f:
-        data = json.load(f)
+def load_json(filepath):
+    """Load JSON file safely."""
+    try:
+        with open(filepath, 'r') as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"Error loading {filepath}: {e}")
+        return None
+
+def analyze_entities(entities_data):
+    """Analyze entities for completeness and consistency."""
+    print("\n" + "="*80)
+    print("ENTITIES ANALYSIS")
+    print("="*80)
     
-    analysis = {
-        'total_persons': len(data['entities']['persons']),
-        'total_organizations': len(data['entities']['organizations']),
-        'total_platforms': len(data['entities']['platforms']),
-        'total_domains': len(data['entities']['domains']),
-        'total_trusts': len(data['entities']['trust_entities']),
-        'agent_types': defaultdict(int),
-        'issues': []
+    issues = []
+    stats = {
+        'total_persons': 0,
+        'total_organizations': 0,
+        'missing_evidence': [],
+        'missing_ad_res_j7_refs': [],
+        'antagonists': 0,
+        'victims': 0,
+        'total_financial_impact': 0
     }
     
-    # Check for duplicates
-    seen_ids = set()
-    seen_names = set()
+    if not entities_data or 'entities' not in entities_data:
+        return issues, stats
     
-    for category in ['persons', 'organizations', 'platforms', 'domains', 'trust_entities']:
-        if category in data['entities']:
-            for entity in data['entities'][category]:
-                entity_id = entity.get('entity_id')
-                name = entity.get('name')
-                agent_type = entity.get('agent_type')
-                
-                if entity_id in seen_ids:
-                    analysis['issues'].append(f"Duplicate entity_id: {entity_id}")
-                seen_ids.add(entity_id)
-                
-                if agent_type:
-                    analysis['agent_types'][agent_type] += 1
+    # Analyze persons
+    if 'persons' in entities_data['entities']:
+        stats['total_persons'] = len(entities_data['entities']['persons'])
+        for person in entities_data['entities']['persons']:
+            entity_id = person.get('entity_id', 'UNKNOWN')
+            
+            # Check for missing evidence files
+            if not person.get('evidence_files'):
+                issues.append(f"{entity_id}: Missing evidence_files")
+                stats['missing_evidence'].append(entity_id)
+            
+            # Check for missing ad-res-j7 references
+            if not person.get('ad_res_j7_references'):
+                issues.append(f"{entity_id}: Missing ad_res_j7_references")
+                stats['missing_ad_res_j7_refs'].append(entity_id)
+            
+            # Count agent types
+            if person.get('agent_type') == 'antagonist':
+                stats['antagonists'] += 1
+            elif person.get('agent_type') == 'victim':
+                stats['victims'] += 1
     
-    # Check for duplicate ORG_007 entries
-    org_entities = data['entities']['organizations']
-    org_007_count = sum(1 for org in org_entities if org.get('entity_id') == 'ORG_007')
-    if org_007_count > 1:
-        analysis['issues'].append(f"ORG_007 appears {org_007_count} times (duplicate entries)")
+    # Analyze organizations
+    if 'organizations' in entities_data['entities']:
+        stats['total_organizations'] = len(entities_data['entities']['organizations'])
+        for org in entities_data['entities']['organizations']:
+            entity_id = org.get('entity_id', 'UNKNOWN')
+            
+            # Check for missing evidence files
+            if not org.get('evidence_files'):
+                issues.append(f"{entity_id}: Missing evidence_files")
+                stats['missing_evidence'].append(entity_id)
     
-    # Check for ReZonance vs Adderory confusion
-    rezonance_entries = [org for org in org_entities if 'ReZonance' in org.get('name', '') or org.get('entity_id') == 'ORG_007']
-    adderory_entries = [org for org in org_entities if 'Adderory' in org.get('name', '')]
+    print(f"\nTotal Persons: {stats['total_persons']}")
+    print(f"Total Organizations: {stats['total_organizations']}")
+    print(f"Antagonists: {stats['antagonists']}")
+    print(f"Victims: {stats['victims']}")
+    print(f"\nEntities missing evidence_files: {len(stats['missing_evidence'])}")
+    print(f"Entities missing ad_res_j7_references: {len(stats['missing_ad_res_j7_refs'])}")
     
-    analysis['rezonance_entries'] = len(rezonance_entries)
-    analysis['adderory_entries'] = len(adderory_entries)
-    
-    # Check for missing PERSON_003 details
-    person_003 = next((p for p in data['entities']['persons'] if p.get('entity_id') == 'PERSON_003'), None)
-    if not person_003:
-        analysis['issues'].append("PERSON_003 (Adderory/Rynette's son) is missing from persons list")
-    
-    return analysis
+    return issues, stats
 
-def analyze_relations(relations_file):
-    """Analyze relations.json and extract insights"""
-    with open(relations_file, 'r') as f:
-        data = json.load(f)
+def analyze_events(events_data):
+    """Analyze events for completeness and consistency."""
+    print("\n" + "="*80)
+    print("EVENTS ANALYSIS")
+    print("="*80)
     
-    analysis = {
-        'relation_types': {},
+    issues = []
+    stats = {
+        'total_events': 0,
+        'events_by_category': Counter(),
+        'events_by_phase': Counter(),
+        'events_by_application': Counter(),
+        'missing_perpetrators': [],
+        'missing_evidence': [],
+        'missing_application_mapping': [],
+        'events_with_financial_impact': 0,
+        'total_financial_mentions': 0
+    }
+    
+    if not events_data or 'events' not in events_data:
+        return issues, stats
+    
+    events = events_data['events']
+    stats['total_events'] = len(events)
+    
+    for event in events:
+        event_id = event.get('event_id', 'UNKNOWN')
+        
+        # Category analysis
+        category = event.get('category', 'uncategorized')
+        stats['events_by_category'][category] += 1
+        
+        # Phase analysis
+        phase = event.get('timeline_phase', 'unassigned')
+        stats['events_by_phase'][phase] += 1
+        
+        # Application mapping analysis
+        related_apps = event.get('related_applications', [])
+        if not related_apps:
+            issues.append(f"{event_id}: Missing related_applications")
+            stats['missing_application_mapping'].append(event_id)
+        else:
+            for app in related_apps:
+                stats['events_by_application'][app] += 1
+        
+        # Perpetrator analysis
+        perpetrators = event.get('perpetrators', [])
+        if not perpetrators and category not in ['business_relationship', 'financial_structure']:
+            issues.append(f"{event_id}: Missing perpetrators")
+            stats['missing_perpetrators'].append(event_id)
+        
+        # Evidence analysis
+        evidence = event.get('evidence', [])
+        if not evidence:
+            issues.append(f"{event_id}: Missing evidence")
+            stats['missing_evidence'].append(event_id)
+        
+        # Financial impact analysis
+        if event.get('financial_impact'):
+            stats['events_with_financial_impact'] += 1
+            stats['total_financial_mentions'] += 1
+    
+    print(f"\nTotal Events: {stats['total_events']}")
+    print(f"Events with Financial Impact: {stats['events_with_financial_impact']}")
+    print(f"\nEvents by Category:")
+    for cat, count in stats['events_by_category'].most_common():
+        print(f"  {cat}: {count}")
+    
+    print(f"\nEvents by Phase:")
+    for phase, count in sorted(stats['events_by_phase'].items()):
+        print(f"  {phase}: {count}")
+    
+    print(f"\nEvents by Application:")
+    for app, count in sorted(stats['events_by_application'].items()):
+        print(f"  {app}: {count}")
+    
+    print(f"\nEvents missing perpetrators: {len(stats['missing_perpetrators'])}")
+    print(f"Events missing evidence: {len(stats['missing_evidence'])}")
+    print(f"Events missing application mapping: {len(stats['missing_application_mapping'])}")
+    
+    return issues, stats
+
+def analyze_relations(relations_data):
+    """Analyze relations for completeness and consistency."""
+    print("\n" + "="*80)
+    print("RELATIONS ANALYSIS")
+    print("="*80)
+    
+    issues = []
+    stats = {
         'total_relations': 0,
-        'issues': []
+        'relations_by_type': Counter(),
+        'missing_evidence': [],
+        'missing_application_mapping': []
     }
     
-    for rel_type, relations in data['relations'].items():
-        analysis['relation_types'][rel_type] = len(relations)
-        analysis['total_relations'] += len(relations)
+    if not relations_data or 'relations' not in relations_data:
+        return issues, stats
     
-    return analysis
-
-def analyze_events(events_file):
-    """Analyze events.json and extract insights"""
-    with open(events_file, 'r') as f:
-        data = json.load(f)
+    relations = relations_data['relations']
     
-    analysis = {
-        'total_events': len(data['events']),
-        'categories': defaultdict(int),
-        'event_types': defaultdict(int),
-        'events_by_year': defaultdict(int),
-        'financial_impact_total': 0,
-        'issues': []
-    }
-    
-    for event in data['events']:
-        category = event.get('category')
-        event_type = event.get('event_type')
-        date = event.get('date', '')
+    # Count all relation types
+    for rel_type, rel_list in relations.items():
+        stats['total_relations'] += len(rel_list)
+        stats['relations_by_type'][rel_type] = len(rel_list)
         
-        if category:
-            analysis['categories'][category] += 1
-        if event_type:
-            analysis['event_types'][event_type] += 1
-        if date:
-            year = date.split('-')[0]
-            analysis['events_by_year'][year] += 1
+        for rel in rel_list:
+            rel_id = rel.get('relation_id', 'UNKNOWN')
+            
+            # Check for missing evidence
+            if not rel.get('evidence'):
+                issues.append(f"{rel_id}: Missing evidence")
+                stats['missing_evidence'].append(rel_id)
+            
+            # Check for missing application mapping
+            if not rel.get('related_applications'):
+                issues.append(f"{rel_id}: Missing related_applications")
+                stats['missing_application_mapping'].append(rel_id)
     
-    return analysis
+    print(f"\nTotal Relations: {stats['total_relations']}")
+    print(f"\nRelations by Type:")
+    for rel_type, count in sorted(stats['relations_by_type'].items()):
+        print(f"  {rel_type}: {count}")
+    
+    print(f"\nRelations missing evidence: {len(stats['missing_evidence'])}")
+    print(f"Relations missing application mapping: {len(stats['missing_application_mapping'])}")
+    
+    return issues, stats
 
-def analyze_timeline(timeline_file):
-    """Analyze timeline_enhanced.json and extract insights"""
-    with open(timeline_file, 'r') as f:
-        data = json.load(f)
+def analyze_timeline(timeline_data):
+    """Analyze timeline for completeness and consistency."""
+    print("\n" + "="*80)
+    print("TIMELINE ANALYSIS")
+    print("="*80)
     
-    analysis = {
-        'total_phases': len(data['timeline_phases']),
-        'phases': {},
-        'issues': []
+    issues = []
+    stats = {
+        'total_phases': 0,
+        'total_events_in_phases': 0,
+        'events_per_phase': {},
+        'phase_durations': {},
+        'missing_application_mapping': []
     }
     
-    for phase_key, phase_data in data['timeline_phases'].items():
-        phase_id = phase_data.get('phase_id')
-        phase_name = phase_data.get('phase_name')
-        event_count = len(phase_data.get('events', []))
-        
-        analysis['phases'][phase_name] = {
-            'phase_id': phase_id,
-            'event_count': event_count,
-            'duration_days': phase_data.get('duration_days'),
-            'financial_impact': phase_data.get('financial_impact')
-        }
+    if not timeline_data or 'timeline_phases' not in timeline_data:
+        return issues, stats
     
-    return analysis
+    phases = timeline_data['timeline_phases']
+    stats['total_phases'] = len(phases)
+    
+    for phase_key, phase in phases.items():
+        phase_id = phase.get('phase_id', 'UNKNOWN')
+        events = phase.get('events', [])
+        
+        stats['events_per_phase'][phase_id] = len(events)
+        stats['total_events_in_phases'] += len(events)
+        
+        # Calculate duration
+        if phase.get('start_date') and phase.get('end_date'):
+            stats['phase_durations'][phase_id] = phase.get('duration_days', 0)
+        
+        # Check for missing application mapping
+        if not phase.get('related_applications'):
+            issues.append(f"{phase_id}: Missing related_applications")
+            stats['missing_application_mapping'].append(phase_id)
+    
+    print(f"\nTotal Phases: {stats['total_phases']}")
+    print(f"Total Events in Phases: {stats['total_events_in_phases']}")
+    
+    print(f"\nEvents per Phase:")
+    for phase_id, count in sorted(stats['events_per_phase'].items()):
+        duration = stats['phase_durations'].get(phase_id, 0)
+        print(f"  {phase_id}: {count} events ({duration} days)")
+    
+    print(f"\nPhases missing application mapping: {len(stats['missing_application_mapping'])}")
+    
+    return issues, stats
 
 def main():
-    base_path = '/home/ubuntu/revstream1/data_models'
+    """Main analysis function."""
+    print("\n" + "="*80)
+    print("COMPREHENSIVE DATA MODEL ANALYSIS")
+    print("="*80)
     
-    print("=" * 80)
-    print("REVSTREAM1 DATA MODEL ANALYSIS")
-    print("=" * 80)
+    # Load data models
+    entities = load_json('data_models/entities/entities_refined_2025_11_19_v3.json')
+    events = load_json('data_models/events/events_refined_2025_11_19_v3.json')
+    relations = load_json('data_models/relations/relations_refined_2025_11_19_v3.json')
+    timeline = load_json('data_models/timelines/timeline_refined_2025_11_19_v3.json')
     
-    # Analyze entities
-    print("\n### ENTITIES ANALYSIS ###")
-    entities_analysis = analyze_entities(os.path.join(base_path, 'entities/entities.json'))
-    print(f"Total Persons: {entities_analysis['total_persons']}")
-    print(f"Total Organizations: {entities_analysis['total_organizations']}")
-    print(f"Total Platforms: {entities_analysis['total_platforms']}")
-    print(f"Total Domains: {entities_analysis['total_domains']}")
-    print(f"Total Trusts: {entities_analysis['total_trusts']}")
-    print(f"\nAgent Types Distribution:")
-    for agent_type, count in entities_analysis['agent_types'].items():
-        print(f"  - {agent_type}: {count}")
-    print(f"\nReZonance entries found: {entities_analysis['rezonance_entries']}")
-    print(f"Adderory entries found: {entities_analysis['adderory_entries']}")
-    if entities_analysis['issues']:
-        print("\n⚠️  ISSUES FOUND:")
-        for issue in entities_analysis['issues']:
-            print(f"  - {issue}")
+    all_issues = []
     
-    # Analyze relations
-    print("\n### RELATIONS ANALYSIS ###")
-    relations_analysis = analyze_relations(os.path.join(base_path, 'relations/relations.json'))
-    print(f"Total Relations: {relations_analysis['total_relations']}")
-    print(f"\nRelation Types:")
-    for rel_type, count in relations_analysis['relation_types'].items():
-        print(f"  - {rel_type}: {count}")
+    # Analyze each component
+    entity_issues, entity_stats = analyze_entities(entities)
+    all_issues.extend(entity_issues)
     
-    # Analyze events
-    print("\n### EVENTS ANALYSIS ###")
-    events_analysis = analyze_events(os.path.join(base_path, 'events/events.json'))
-    print(f"Total Events: {events_analysis['total_events']}")
-    print(f"\nEvents by Year:")
-    for year, count in sorted(events_analysis['events_by_year'].items()):
-        print(f"  - {year}: {count}")
-    print(f"\nEvent Categories:")
-    for category, count in sorted(events_analysis['categories'].items()):
-        print(f"  - {category}: {count}")
+    event_issues, event_stats = analyze_events(events)
+    all_issues.extend(event_issues)
     
-    # Analyze timeline
-    print("\n### TIMELINE ANALYSIS ###")
-    timeline_analysis = analyze_timeline(os.path.join(base_path, 'timelines/timeline_enhanced.json'))
-    print(f"Total Phases: {timeline_analysis['total_phases']}")
-    print(f"\nPhases:")
-    for phase_name, phase_info in timeline_analysis['phases'].items():
-        print(f"  - {phase_name}:")
-        print(f"    Events: {phase_info['event_count']}, Duration: {phase_info['duration_days']} days")
-        print(f"    Financial Impact: {phase_info['financial_impact']}")
+    relation_issues, relation_stats = analyze_relations(relations)
+    all_issues.extend(relation_issues)
     
-    print("\n" + "=" * 80)
+    timeline_issues, timeline_stats = analyze_timeline(timeline)
+    all_issues.extend(timeline_issues)
+    
+    # Summary
+    print("\n" + "="*80)
+    print("SUMMARY OF ISSUES")
+    print("="*80)
+    print(f"\nTotal Issues Found: {len(all_issues)}")
+    
+    if all_issues:
+        print("\nTop 20 Issues:")
+        for i, issue in enumerate(all_issues[:20], 1):
+            print(f"  {i}. {issue}")
+    
+    # Save analysis report
+    report = {
+        'analysis_date': datetime.now().isoformat(),
+        'entity_stats': entity_stats,
+        'event_stats': dict(event_stats['events_by_category']),
+        'relation_stats': dict(relation_stats['relations_by_type']),
+        'timeline_stats': timeline_stats,
+        'total_issues': len(all_issues),
+        'issues': all_issues
+    }
+    
+    with open('DATA_MODEL_ANALYSIS_REPORT.json', 'w') as f:
+        json.dump(report, f, indent=2, default=str)
+    
+    print(f"\n\nDetailed report saved to: DATA_MODEL_ANALYSIS_REPORT.json")
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

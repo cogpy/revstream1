@@ -1,0 +1,48 @@
+graph TB
+    subgraph "CIPC OFFICIAL RECORDS"
+        A1["Company Name in 2019:<br/><b>K OZ CREATIVE</b><br/>(Registered 2017-02-24)"]
+        A2["Directors in 2019:<br/><b>D.J. Faucitt</b><br/><b>Kayla Pretorius</b><br/>(Peter NOT a director)"]
+        A3["Name Change Date:<br/><b>2021-03-09</b><br/>(K OZ CREATIVE → REGIMA SA)"]
+        A4["Peter Added:<br/><b>2021-03-09</b><br/>(Same day as name change)"]
+    end
+    
+    subgraph "FABRICATED ACCOUNTS (2025-06-25)"
+        B1["Company Name in 2019:<br/><b>Regima SA (Pty) Ltd</b><br/>❌ FALSE - Name didn't exist"]
+        B2["Directors in 2019:<br/><b>D.J. Faucitt</b><br/><b>P.A. Faucitt</b><br/>❌ FALSE - Peter not director until 2021"]
+        B3["Period:<br/><b>15 months ended 28 Feb 2019</b><br/>❌ IMPOSSIBLE - Company was K OZ CREATIVE"]
+        B4["Issued Date:<br/><b>25 June 2025</b><br/>❌ BACKDATED 6 YEARS"]
+        B5["Approved by:<br/><b>P.A. Faucitt (25 June 2025)</b><br/>❌ PERJURY - Claiming 2019 directorship"]
+        B6["Secretary:<br/><b>De Novo Business Services</b><br/>⚠️ Rynette's instruction"]
+    end
+    
+    subgraph "FRAUD PROOF"
+        C1["<b>COMPANIES ACT s 214</b><br/>False Financial Statements<br/>10 years imprisonment"]
+        C2["<b>COMMON LAW FRAUD</b><br/>Misrepresentation + Intent<br/>15 years imprisonment"]
+        C3["<b>PERJURY</b><br/>False statements under oath<br/>15 years imprisonment"]
+        C4["<b>TAX FRAUD</b><br/>False returns to SARS<br/>200% penalty + prosecution"]
+    end
+    
+    A1 -.->|"CONTRADICTS"| B1
+    A2 -.->|"CONTRADICTS"| B2
+    A3 -.->|"PROVES BACKDATING"| B3
+    A4 -.->|"PROVES PERJURY"| B5
+    
+    B1 -->|"PROVES"| C1
+    B2 -->|"PROVES"| C2
+    B5 -->|"PROVES"| C3
+    B3 -->|"PROVES"| C4
+    
+    style A1 fill:#90EE90
+    style A2 fill:#90EE90
+    style A3 fill:#90EE90
+    style A4 fill:#90EE90
+    style B1 fill:#FFB6C1
+    style B2 fill:#FFB6C1
+    style B3 fill:#FFB6C1
+    style B4 fill:#FFB6C1
+    style B5 fill:#FFB6C1
+    style B6 fill:#FFA500
+    style C1 fill:#FF6B6B
+    style C2 fill:#FF6B6B
+    style C3 fill:#FF6B6B
+    style C4 fill:#FF6B6B
