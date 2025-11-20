@@ -1,0 +1,255 @@
+{
+  "entities": {
+    "file": "/home/ubuntu/revstream1/data_models/entities/entities_refined_2025_11_20_v5.json",
+    "metadata": {
+      "version": "12.0",
+      "created_date": "2025-11-10",
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "case_number": "2025-137857",
+      "modeling_approach": "agentic_entity_modeling",
+      "last_updated": "2025-11-19",
+      "changes": "Comprehensive refinement v12: Added all missing evidence_files and ad_res_j7_references",
+      "extended_evidence_repository": "https://github.com/cogpy/ad-res-j7",
+      "extended_evidence_catalog": "COMPREHENSIVE_EVIDENCE_INDEX.md"
+    },
+    "statistics": {
+      "persons": 12,
+      "organizations": 9,
+      "platforms": 1,
+      "domains": 2,
+      "trust_entities": 1,
+      "trusts": 1,
+      "bank_accounts": 1
+    },
+    "issues": [
+      {
+        "type": "missing_evidence_files",
+        "count": 6,
+        "entities": [
+          "platforms/PLATFORM_001",
+          "domains/DOMAIN_001",
+          "domains/DOMAIN_002",
+          "trust_entities/TRUST_001",
+          "trusts/TRUST_001",
+          "bank_accounts/BANK_001"
+        ]
+      },
+      {
+        "type": "missing_ad_res_j7_references",
+        "count": 6,
+        "entities": [
+          "platforms/PLATFORM_001",
+          "domains/DOMAIN_001",
+          "domains/DOMAIN_002",
+          "trust_entities/TRUST_001",
+          "trusts/TRUST_001",
+          "bank_accounts/BANK_001"
+        ]
+      }
+    ],
+    "recommendations": []
+  },
+  "events": {
+    "file": "/home/ubuntu/revstream1/data_models/events/events_refined_2025_11_20_v7.json",
+    "metadata": {
+      "version": "12.0",
+      "created_date": "2025-11-10",
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "case_number": "2025-137857",
+      "total_events": 69,
+      "extended_evidence": "incorporated_from_ad_res_j7",
+      "last_updated": "2025-11-20T06:28:37.539011",
+      "changes": "Updated categorization for 138 fields",
+      "extended_evidence_repository": "https://github.com/cogpy/ad-res-j7",
+      "extended_evidence_files": 2866
+    },
+    "statistics": {
+      "total_events": 69,
+      "categories": {
+        "business_relationship": 2,
+        "financial_structure": 3,
+        "financial_manipulation": 12,
+        "profit_extraction": 2,
+        "evidence_documentation": 2,
+        "accounting_fraud": 3,
+        "conspiracy_preparation": 1,
+        "debt_accumulation": 2,
+        "debt_management": 1,
+        "criminal_event": 1,
+        "fraud": 2,
+        "estate_exploitation": 1,
+        "estate_fraud": 1,
+        "transfer_pricing_fraud": 2,
+        "revenue_theft": 7,
+        "trust_violations": 6,
+        "infrastructure_seizure": 1,
+        "evidence_tampering": 2,
+        "financial_dispute": 1,
+        "fraud_discovery": 2,
+        "transparency": 1,
+        "fraud_concealment": 3,
+        "knowledge_acquisition": 1,
+        "customer_hijacking": 1,
+        "legal_manipulation": 1,
+        "perjury": 1,
+        "legal_misconduct": 1,
+        "financial_fraud": 3,
+        "legal_action": 2,
+        "system_control": 1
+      },
+      "phases": {
+        "PHASE_000": 14,
+        "PHASE_005": 9,
+        "PHASE_001": 5,
+        "PHASE_002": 5,
+        "PHASE_003": 6,
+        "PHASE_004": 11,
+        "PHASE_006": 8
+      },
+      "applications": {
+        "APPLICATION_1": 45,
+        "APPLICATION_2": 50,
+        "APPLICATION_3": 20
+      }
+    },
+    "issues": [],
+    "recommendations": []
+  },
+  "relations": {
+    "file": "/home/ubuntu/revstream1/data_models/relations/relations_refined_2025_11_19_v4.json",
+    "metadata": {
+      "version": "10.0",
+      "created_date": "2025-11-10",
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "case_number": "2025-137857",
+      "modeling_approach": "hypergraph_compatible_relations",
+      "last_updated": "2025-11-19",
+      "changes": "Comprehensive refinement v10: Added all missing application mappings",
+      "total_relations": 60,
+      "extended_evidence_repository": "https://github.com/cogpy/ad-res-j7"
+    },
+    "statistics": {
+      "ownership_relations": 6,
+      "control_relations": 5,
+      "conspiracy_relations": 5,
+      "dependency_relations": 2,
+      "financial_relations": 8,
+      "victim_perpetrator_relations": 3,
+      "employment_relations": 3,
+      "evidence_destruction_relations": 2,
+      "temporal_relations": 6,
+      "debt_relations": 2,
+      "estate_relations": 1,
+      "witness_relations": 2,
+      "conflict_relations": 1,
+      "email_control_relations": 2,
+      "trustee_relations": 2,
+      "beneficiary_relations": 2,
+      "professional_correspondence_relations": 2,
+      "capital_extraction_relations": 1,
+      "inter_company_loan_relations": 2,
+      "knowledge_acquisition_relations": 1,
+      "strategic_coordination_relations": 1,
+      "system_control_relations": 1,
+      "total_relations": 60
+    },
+    "issues": [],
+    "recommendations": []
+  },
+  "timeline": {
+    "file": "/home/ubuntu/revstream1/data_models/timelines/timeline_refined_2025_11_20_v5.json",
+    "metadata": {
+      "version": "11.0",
+      "created_date": "2025-11-10",
+      "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
+      "case_number": "2025-137857",
+      "period_start": "2017-06-30",
+      "period_end": "2025-09-11",
+      "duration_days": 194,
+      "total_events": 69,
+      "last_updated": "2025-11-19",
+      "changes": "Comprehensive refinement v11: Added missing PHASE_000 application mapping",
+      "extended_evidence_repository": "https://github.com/cogpy/ad-res-j7",
+      "extended_evidence_catalog": "COMPREHENSIVE_EVIDENCE_INDEX.md"
+    },
+    "statistics": {
+      "total_phases": 8,
+      "phases": {
+        "PHASE_001": {
+          "name": "Foundation Phase",
+          "event_count": 7,
+          "duration_days": 30,
+          "financial_impact": "R8,751,247.35+",
+          "has_applications": true
+        },
+        "PHASE_002": {
+          "name": "Initial Theft Phase",
+          "event_count": 5,
+          "duration_days": 14,
+          "financial_impact": "R7,418,480.55",
+          "has_applications": true
+        },
+        "PHASE_003": {
+          "name": "Escalation Phase",
+          "event_count": 9,
+          "duration_days": 28,
+          "financial_impact": "R1,850,000+",
+          "has_applications": true
+        },
+        "PHASE_004": {
+          "name": "Consolidation Phase",
+          "event_count": 13,
+          "duration_days": 25,
+          "financial_impact": "R3,141,647.70+",
+          "has_applications": true
+        },
+        "PHASE_005": {
+          "name": "Control Seizure Phase",
+          "event_count": 12,
+          "duration_days": 18,
+          "financial_impact": "unknown_amount",
+          "has_applications": true
+        },
+        "PHASE_006": {
+          "name": "Cover-up Phase",
+          "event_count": 9,
+          "duration_days": 33,
+          "financial_impact": "unknown_amount",
+          "has_applications": true
+        },
+        "PHASE_000": {
+          "name": "Historical Foundation Phase",
+          "event_count": 17,
+          "duration_days": 1645,
+          "financial_impact": "R25,106,584.89+ (Villa Via R22.8M + inter-company R2.3M+)",
+          "has_applications": true
+        },
+        "PHASE_007": {
+          "name": "Debt Accumulation Phase",
+          "event_count": 11,
+          "duration_days": 568,
+          "financial_impact": "R1,035,361.34 debt + R1,235,361.34 false claims",
+          "has_applications": true
+        }
+      }
+    },
+    "issues": [],
+    "recommendations": []
+  },
+  "recommendations": [
+    {
+      "priority": "HIGH",
+      "category": "entities",
+      "issue": "Missing evidence_files references",
+      "affected_count": 6,
+      "action": "Add evidence_files arrays to all entities with references to ad-res-j7 repository"
+    },
+    {
+      "priority": "HIGH",
+      "category": "entities",
+      "issue": "Missing ad_res_j7_references",
+      "affected_count": 6,
+      "action": "Add ad_res_j7_references arrays to all entities with descriptive evidence notes"
+    }
+  ]
+}
