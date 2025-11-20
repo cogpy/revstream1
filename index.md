@@ -196,6 +196,9 @@ Browse all evidence files organized by category with direct links to source docu
 
 ## Navigation
 
+- **[Detailed Timeline](timeline.md)** - Comprehensive timeline with evidence references
+- **[Comprehensive Evidence Index](evidence-index-comprehensive.md)** - All evidence organized by event and entity
+
 - **[View All Applications Side-by-Side](applications.md)** - Comparative analysis of all three applications
 - **[Application 1 Details](application-1.md)** - Ex Parte Interdict (August 2025)
 - **[Application 2 Details](application-2.md)** - Settlement Enforcement (October 2025)
