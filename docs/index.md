@@ -23,11 +23,13 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 |------------|-----------|
 | **Case Number** | 2025-137857 |
 | **Case Name** | Peter Faucitt v. Jacqueline Faucitt et al. |
-| **Period** | March 15, 2025 - August 20, 2025 |
-| **Duration** | 158 days of documented criminal activity |
+| **Data Model Version** | 14.0 |
+| **Last Updated** | 2025-11-20 |
+| **Total Entities** | 27 |
 | **Total Events** | 69 |
+| **Total Timeline Phases** | 8 |
 | **Events with Financial Impact** | 54 |
-| **Estimated Financial Impact** | R115,015,600 |
+| **Estimated Financial Impact** | R115,015,600+ |
 | **Revenue Theft** | R3,141,647.70 |
 | **Trust Violations** | R2,851,247.35 |
 | **Financial Manipulation** | R4,276,832.85 |
@@ -41,16 +43,18 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 
 **Type:** Ex parte urgent application  
 **Targets:** Both Jacqueline and Daniel Faucitt  
-**Status:** Pending return date; notice of intention to oppose filed September 5, 2025
+**Status:** Pending return date; notice of intention to oppose filed September 5, 2025  
+**Events:** 45 events mapped to this application
 
 **Key Trigger Event:**
 - August 11, 2025: Jacqueline signs "Main Trustee" document
 - August 13, 2025: Interdict launched (2 days later)
 
 **Primary Evidence Categories:**
-- [POPIA Violations](evidence-index-enhanced.md)
-- [Trustee Misconduct](evidence-index-enhanced.md#emails)
-- [ReZonance Payment System](evidence-index-enhanced.md#rezonance)
+- [POPIA Violations](application-1-evidence.md#popia-violations)
+- [Trustee Misconduct](application-1-evidence.md#trustee-misconduct)
+- [ReZonance Payment System](application-1-evidence.md#rezonance-evidence)
+- [Shopify Platform Ownership](application-1-evidence.md#shopify-evidence)
 
 [View Full Application 1 Details →](application-1.md)
 
@@ -59,7 +63,8 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 ### [Application 2: Settlement Agreement Enforcement (October 2025)](application-2.md)
 
 **Type:** Application to make settlement agreement an order of court  
-**Context:** Mediation held September 18, 2025
+**Context:** Mediation held September 18, 2025  
+**Events:** 50 events mapped to this application
 
 **Key Events:**
 - September 22, 2025: Respondents withdraw from agreements
@@ -71,9 +76,10 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 2. Forensic investigations into entity affairs
 
 **Primary Evidence Categories:**
-- [Mediation Documentation](evidence-index-enhanced.md#mediation)
-- [Corporate Records](evidence-index-enhanced.md#cipc)
-- [Accounting Evidence](evidence-index-enhanced.md#accounting)
+- [Mediation Documentation](application-2-evidence.md#mediation)
+- [Corporate Records](application-2-evidence.md#cipc)
+- [Accounting Evidence](application-2-evidence.md#accounting)
+- [Debt Accumulation Evidence](application-2-evidence.md#debt)
 
 [View Full Application 2 Details →](application-2.md)
 
@@ -83,7 +89,8 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 
 **Type:** Urgent application  
 **Target:** Jacqueline only (First Respondent)  
-**Hearing Date:** November 18, 2025
+**Hearing Date:** November 18, 2025  
+**Events:** 20 events mapped to this application
 
 **Relief Sought:**
 1. Contact ban with all business entities except through applicant's attorneys
@@ -96,9 +103,10 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 - October 1, 2025: Correspondence demanding desistance
 
 **Primary Evidence Categories:**
-- [Email Correspondence](evidence-index-enhanced.md#emails)
-- [Sage Control Analysis](evidence-index-enhanced.md#sage)
-- [Trademark Documentation](evidence-index-enhanced.md#trademark)
+- [Email Correspondence](application-3-evidence.md#emails)
+- [Sage Control Analysis](application-3-evidence.md#sage)
+- [Trademark Documentation](application-3-evidence.md#trademark)
+- [Ongoing Interference Evidence](application-3-evidence.md#interference)
 
 [View Full Application 3 Details →](application-3.md)
 
@@ -107,42 +115,50 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 ## Key Patterns Across All Three Applications
 
 ### 1. **Systematic Coordination** 
-Timeline reveals coordinated action across three distinct crime categories:
-- **Revenue Theft:** 5 events targeting business operations
-- **Trust Violations:** 5 events manipulating family trust structure
-- **Financial Manipulation:** 5 events diverting and concealing funds
+Timeline reveals coordinated action across multiple crime categories:
+- **Revenue Theft:** 7 events targeting business operations
+- **Trust Violations:** 6 events manipulating family trust structure
+- **Financial Manipulation:** 12 events diverting and concealing funds
+- **Accounting Fraud:** 3 events concealing financial crimes
+- **Evidence Tampering:** 2 events destroying audit trails
 
 ### 2. **Shopify Platform Centrality**
-**10 out of 15 events** (67%) directly involve the Shopify platform:
+**Critical evidence** showing platform ownership:
 - Platform owned and paid for by RegimA Zone Ltd (UK) since July 2023
 - 28+ months of continuous funding (R140K-R280K total investment)
 - **Critical implication:** RWD ZA has no independent revenue stream
 
 ### 3. **Evidence Destruction Pattern**
-Two critical evidence destruction events demonstrating consciousness of guilt:
+Critical evidence destruction events demonstrating consciousness of guilt:
 - **May 22, 2025:** Shopify audit trail hijacking (platform destruction)
 - **August 20, 2025:** Financial evidence concealment (cover-up operations)
+- **June 10, 2025:** Bantjies dismisses audit request (fraud concealment)
 
 ### 4. **Family Conspiracy Elements**
 Multiple family members involved in coordinated criminal activity:
 - **Peter Faucitt:** Primary perpetrator (11 events)
 - **Rynette Farrar:** Co-conspirator (8 events)
 - **Addarory (Rynette's son):** Domain registration for identity fraud
+- **Danie Bantjies:** Accountant with R18.685M conflict of interest (3 events)
 
 ---
 
 ## Timeline Progression
 
-```
-March 2025:   Foundation phase (trust establishment)
-April 2025:   Initial theft phase (payment redirection, bank changes)
-May 2025:     Escalation phase (R850K transfers, audit trail destruction)
-June 2025:    Consolidation phase (email control, fund diversions)
-July 2025:    Control seizure phase (operational shutdown, account manipulation)
-August 2025:  Cover-up phase & Application 1 filed
-October 2025: Application 2 filed (settlement enforcement)
-November 2025: Application 3 filed (contact interdict)
-```
+### 8 Distinct Phases
+
+| Phase | Period | Duration | Events | Financial Impact |
+|-------|--------|----------|--------|------------------|
+| **Phase 0: Historical Foundation** | Jun 2017 - Dec 2021 | 1,645 days | 17 | R25.1M+ |
+| **Phase 1: Foundation** | Mar 2025 | 30 days | 7 | R8.75M+ |
+| **Phase 2: Initial Theft** | Apr 2025 | 14 days | 5 | R7.42M |
+| **Phase 3: Escalation** | May 2025 | 28 days | 9 | R1.85M+ |
+| **Phase 4: Consolidation** | Jun 2025 | 25 days | 13 | R3.14M+ |
+| **Phase 5: Control Seizure** | Jul 2025 | 18 days | 12 | Unknown |
+| **Phase 6: Cover-up** | Aug-Sep 2025 | 33 days | 9 | Unknown |
+| **Phase 7: Debt Accumulation** | 2023-2025 | 568 days | 11 | R1.04M+ |
+
+**[📊 View Detailed Timeline Analysis](TIMELINE_IMPROVEMENTS_2025_11_20.json)**
 
 ---
 
@@ -165,40 +181,45 @@ November 2025: Application 3 filed (contact interdict)
 
 ---
 
-## Timeline Analysis & Recommendations
-
-A detailed analysis of the event timeline has produced several key insights and recommendations for strengthening the case narrative and evidence presentation.
-
-**[📄 View Full Timeline Improvements Report](TIMELINE_IMPROVEMENTS_REPORT.md)**
-
----
-
 ## Data & Evidence Integrity
 
-This case is supported by a robust and comprehensive data model (Version 11.0, updated 2025-11-19). A full analysis of the data integrity, structure, and completeness is available for review.
+This case is supported by a robust and comprehensive data model:
 
-**[📄 View Full Data Model Analysis Report](data-model-analysis.md)**
+- **Version:** 14.0
+- **Last Updated:** 2025-11-20
+- **Total Entities:** 27
+- **Total Events:** 69
+- **Total Relations:** 60
+- **Extended Evidence Repository:** [github.com/cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)
+
+**[📄 View Full Data Model Analysis Report](DATA_MODEL_ANALYSIS_2025_11_20.json)**  
+**[📄 View Timeline Improvements Report](TIMELINE_IMPROVEMENTS_2025_11_20.json)**  
+**[📄 View Refinements Log](REFINEMENTS_LOG_2025_11_20.json)**
 
 ---
 
 ## Evidence Resources
 
-### [**📁 Enhanced Evidence Index (ad-res-j7)**](evidence-index-enhanced.md)
-### [📁 Enhanced Evidence Index (NEW)](evidence-index-enhanced.md)
-Browse all evidence files organized by category with direct links to source documents.
+### Enhanced Evidence Index
 
-### Evidence Categories
-- [Accounting Evidence (2 files)](evidence-index-enhanced.md#accounting)
-- [Email Evidence (4 files)](evidence-index-enhanced.md#emails)
-- [Mediation Evidence (1 file)](evidence-index-enhanced.md#mediation)
-- [POPIA Evidence (2 files)](evidence-index-enhanced.md)
-- [ReZonance Evidence (2 files)](evidence-index-enhanced.md#rezonance)
-- [Sage Evidence (1 file)](evidence-index-enhanced.md#sage)
-- [CIPC Evidence (2 files)](evidence-index-enhanced.md#cipc)
-- [Trademark Evidence (1 file)](evidence-index-enhanced.md#trademark)
+Browse all evidence files organized by category with direct links to source documents in the [ad-res-j7 repository](https://github.com/cogpy/ad-res-j7).
+
+**Application-Specific Evidence:**
+- **[📁 Application 1 Evidence Index](application-1-evidence.md)** - 45 events, POPIA violations, trust misconduct
+- **[📁 Application 2 Evidence Index](application-2-evidence.md)** - 50 events, settlement enforcement, accounting fraud
+- **[📁 Application 3 Evidence Index](application-3-evidence.md)** - 20 events, contact violations, ongoing interference
+
+**General Evidence Categories:**
+- [Accounting Evidence](evidence-index-enhanced.md#accounting)
+- [Email Evidence](evidence-index-enhanced.md#emails)
+- [Mediation Evidence](evidence-index-enhanced.md#mediation)
+- [POPIA Evidence](evidence-index-enhanced.md#popia)
+- [ReZonance Evidence](evidence-index-enhanced.md#rezonance)
+- [Sage Evidence](evidence-index-enhanced.md#sage)
+- [CIPC Evidence](evidence-index-enhanced.md#cipc)
+- [Trademark Evidence](evidence-index-enhanced.md#trademark)
 - [Fabricated Accounts Evidence](evidence-index-enhanced.md#fabricated)
 - [Financial Evidence](evidence-index-enhanced.md#financial)
-- [Critical Analysis](evidence-index-enhanced.md#critical)
 
 ---
 
@@ -208,19 +229,30 @@ Browse all evidence files organized by category with direct links to source docu
 - **[Application 1 Details](application-1.md)** - Ex Parte Interdict (August 2025)
 - **[Application 2 Details](application-2.md)** - Settlement Enforcement (October 2025)
 - **[Application 3 Details](application-3.md)** - Contact Interdict (November 2025)
-- **[Evidence Index](evidence-index-enhanced.md)** - Complete evidence catalog with links
+- **[Complete Evidence Index](evidence-index-enhanced.md)** - All evidence with links to ad-res-j7
 
 ---
 
 ## Significance
 
-This documentation demonstrates **systematic coordination** across multiple crime categories over a 6-month period, with particular emphasis on the critical Shopify platform revelation showing RWD ZA generated no independent revenue.
+This documentation demonstrates **systematic coordination** across multiple crime categories over an 8-year period (2017-2025), with particular emphasis on:
 
-The concentration of Shopify-related events (67% of timeline) underscores the **central fraud:** RWD ZA's business model was entirely dependent on infrastructure owned, paid for, and operated by a third party (RegimA Zone Ltd - UK), undermining any claims of independent business operations or legitimate revenue streams.
+1. **The Shopify Platform Revelation** - RWD ZA generated no independent revenue; all operations dependent on infrastructure owned by RegimA Zone Ltd (UK)
 
-The pattern of events supports charges of organized criminal enterprise, systematic fraud and theft, evidence destruction (consciousness of guilt), family conspiracy, trust law violations, and financial crimes.
+2. **Consciousness of Guilt** - Multiple evidence destruction events showing awareness of criminal conduct
+
+3. **Family Conspiracy** - Coordinated actions across multiple family members and associates
+
+4. **Financial Crimes** - R115M+ in documented financial impact across all phases
+
+5. **Trust Law Violations** - Systematic breach of fiduciary duties by trustee
+
+The pattern of events supports charges of organized criminal enterprise, systematic fraud and theft, evidence destruction, family conspiracy, trust law violations, and financial crimes.
 
 ---
 
 **Repository:** [github.com/cogpy/revstream1](https://github.com/cogpy/revstream1)  
+**Extended Evidence:** [github.com/cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)  
 **License:** See LICENSE file for details
+
+**Last Updated:** 2025-11-20
