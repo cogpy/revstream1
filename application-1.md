@@ -173,7 +173,7 @@ The accounting evidence from February 2023 (before Kayla's death) shows normal b
 
 **Evidence of Material Non-Disclosure:**
 1. [POPIA violation context](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf) - Retaliatory motive concealed
-2. [Shopify ownership](evidence-index.html#shopify) - True business structure concealed
+2. [Shopify ownership](evidence-index-enhanced.md#shopify) - True business structure concealed
 3. [Trustee misconduct](evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf) - Applicant's violations concealed
 4. [Sage control](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf) - Already had operational control
 5. [Trademark ownership](evidence/trademark/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf) - IP rights misrepresented

@@ -249,7 +249,7 @@ Peter presented 2019 financial statements for "REGIMA SA" to court, but CIPC rec
 
 **Evidence:**
 1. [CIPC evidence](evidence/cipc/347975701_REGIMA_SA_K201708793507.Pdf) - Backdating fraud not disclosed before mediation
-2. [Financial fabrication](evidence-index.html#financial) - R500K fabrication concealed
+2. [Financial fabrication](evidence-index-enhanced.md#financial) - R500K fabrication concealed
 3. [Sage control](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf) - Applicant already controlled records to be "investigated"
 4. Respondents withdrew within 4 days of discovering full extent of fraud
 
@@ -302,7 +302,7 @@ Peter presented 2019 financial statements for "REGIMA SA" to court, but CIPC rec
 | [ReZonance](evidence/rezonance/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf) | 2 | Payment system seizure, disruption timeline | Theory 004 |
 | [Sage](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf) | 1 | Applicant controls records to be "investigated" | Theory 001, 003, 004 |
 | [Email](evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf) | 4 | Corporate structure complexity, operating entities | Theory 003, 004 |
-| [Financial](evidence-index.html#financial) | Multiple | R500K fabrication, expenditure manipulation | Theory 003, 004 |
+| [Financial](evidence-index-enhanced.md#financial) | Multiple | R500K fabrication, expenditure manipulation | Theory 003, 004 |
 
 ---
 

@@ -161,7 +161,7 @@ Jacqueline is the **CEO and co-founder** with 33 years in position. Evidence sho
 **Respondent's Context:**
 What Jacqueline would tell employees:
 1. [Shopify platform owned by Daniel's UK company](Revenue_Stream/02_Hijacking/SHOPIFY_REVENUE_REVELATION_ANALYSIS.md) since July 2023
-2. [RWD ZA has no independent revenue stream](evidence-index.html#shopify)
+2. [RWD ZA has no independent revenue stream](evidence-index-enhanced.md#shopify)
 3. [Peter and Rynette seized ReZonance payment system](evidence/rezonance/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf)
 4. [Peter and Rynette took control of Sage accounting](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf)
 5. [R10.27M in documented fraud](#revenue-hijacking)
@@ -364,8 +364,8 @@ This application represents the **final preparatory step** before curatorship ap
 ### Theory 003: Suppression of Truth
 
 **What Jacqueline Would Tell Employees:**
-1. [Shopify platform owned by Daniel](evidence-index.html#shopify), not RWD ZA
-2. [RWD ZA has no independent revenue stream](evidence-index.html#shopify)
+1. [Shopify platform owned by Daniel](evidence-index-enhanced.md#shopify), not RWD ZA
+2. [RWD ZA has no independent revenue stream](evidence-index-enhanced.md#shopify)
 3. [ReZonance payment system seized](evidence/rezonance/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf) by Peter and Rynette
 4. [Sage accounting seized](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf) by Peter and Rynette
 5. [R10.27M documented fraud](#revenue-hijacking)
@@ -392,7 +392,7 @@ This application represents the **final preparatory step** before curatorship ap
 
 | Evidence Category | Files | Key Facts | Legal Theories |
 |------------------|-------|-----------|----------------|
-| [Shopify Platform](evidence-index.html#shopify) | Multiple | Owned by Daniel's UK company since July 2023; RWD ZA has no revenue | Theory 003 (Suppression) |
+| [Shopify Platform](evidence-index-enhanced.md#shopify) | Multiple | Owned by Daniel's UK company since July 2023; RWD ZA has no revenue | Theory 003 (Suppression) |
 | [Email/Corporate](evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf) | 4 | Jacqueline's legitimate CEO role, operating structures | Theory 001, 003 |
 | [ReZonance](evidence/rezonance/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf) | 2 | Payment system seizure by Peter and Rynette | Theory 003 |
 | [Sage](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf) | 1 | Accounting system seizure, locked out legitimate directors | Theory 003 |

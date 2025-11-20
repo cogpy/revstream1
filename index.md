@@ -49,8 +49,8 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 
 **Primary Evidence Categories:**
 - [POPIA Violations](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf)
-- [Trustee Misconduct](evidence-index.html#emails)
-- [ReZonance Payment System](evidence-index.html#rezonance)
+- [Trustee Misconduct](evidence-index-enhanced.md#emails)
+- [ReZonance Payment System](evidence-index-enhanced.md#rezonance)
 
 [View Full Application 1 Details →](application-1.md)
 
@@ -71,9 +71,9 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 2. Forensic investigations into entity affairs
 
 **Primary Evidence Categories:**
-- [Mediation Documentation](evidence-index.html#mediation)
-- [Corporate Records](evidence-index.html#cipc)
-- [Accounting Evidence](evidence-index.html#accounting)
+- [Mediation Documentation](evidence-index-enhanced.md#mediation)
+- [Corporate Records](evidence-index-enhanced.md#cipc)
+- [Accounting Evidence](evidence-index-enhanced.md#accounting)
 
 [View Full Application 2 Details →](application-2.md)
 
@@ -96,9 +96,9 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 - October 1, 2025: Correspondence demanding desistance
 
 **Primary Evidence Categories:**
-- [Email Correspondence](evidence-index.html#emails)
-- [Sage Control Analysis](evidence-index.html#sage)
-- [Trademark Documentation](evidence-index.html#trademark)
+- [Email Correspondence](evidence-index-enhanced.md#emails)
+- [Sage Control Analysis](evidence-index-enhanced.md#sage)
+- [Trademark Documentation](evidence-index-enhanced.md#trademark)
 
 [View Full Application 3 Details →](application-3.md)
 
@@ -180,17 +180,17 @@ This case is supported by a robust and comprehensive data model (Version 11.0, u
 Browse all evidence files organized by category with direct links to source documents.
 
 ### Evidence Categories
-- [Accounting Evidence (2 files)](evidence-index.html#accounting)
-- [Email Evidence (4 files)](evidence-index.html#emails)
-- [Mediation Evidence (1 file)](evidence-index.html#mediation)
+- [Accounting Evidence (2 files)](evidence-index-enhanced.md#accounting)
+- [Email Evidence (4 files)](evidence-index-enhanced.md#emails)
+- [Mediation Evidence (1 file)](evidence-index-enhanced.md#mediation)
 - [POPIA Evidence (2 files)](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf)
-- [ReZonance Evidence (2 files)](evidence-index.html#rezonance)
-- [Sage Evidence (1 file)](evidence-index.html#sage)
-- [CIPC Evidence (2 files)](evidence-index.html#cipc)
-- [Trademark Evidence (1 file)](evidence-index.html#trademark)
-- [Fabricated Accounts Evidence](evidence-index.html#fabricated)
-- [Financial Evidence](evidence-index.html#financial)
-- [Critical Analysis](evidence-index.html#critical)
+- [ReZonance Evidence (2 files)](evidence-index-enhanced.md#rezonance)
+- [Sage Evidence (1 file)](evidence-index-enhanced.md#sage)
+- [CIPC Evidence (2 files)](evidence-index-enhanced.md#cipc)
+- [Trademark Evidence (1 file)](evidence-index-enhanced.md#trademark)
+- [Fabricated Accounts Evidence](evidence-index-enhanced.md#fabricated)
+- [Financial Evidence](evidence-index-enhanced.md#financial)
+- [Critical Analysis](evidence-index-enhanced.md#critical)
 
 ---
 
