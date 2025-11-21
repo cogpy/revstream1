@@ -1,0 +1,1247 @@
+{
+  "metadata": {
+    "version": "12.0",
+    "created_date": "2025-11-10",
+    "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+    "case_number": "2025-137857",
+    "modeling_approach": "hypergraph_compatible_relations",
+    "last_updated": "2025-11-21T05:34:42.873719",
+    "changes": "Refinement 2025-11-21: Fixed relations consistency issues and enhanced evidence references",
+    "total_relations": 60,
+    "extended_evidence_repository": "https://github.com/cogpy/ad-res-j7"
+  },
+  "relations": {
+    "ownership_relations": [
+      {
+        "relation_id": "REL_OWN_001",
+        "relation_type": "owns",
+        "source_entity": "PERSON_005",
+        "target_entity": "ORG_003",
+        "strength": "complete_ownership",
+        "legal_status": "legitimate",
+        "evidence": [
+          "company_registration_uk",
+          "payment_records_28_months"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_OWN_002",
+        "relation_type": "owns",
+        "source_entity": "ORG_003",
+        "target_entity": "PLATFORM_001",
+        "strength": "complete_ownership",
+        "legal_status": "legitimate",
+        "evidence": [
+          "shopify_payment_records",
+          "platform_subscription_invoices"
+        ],
+        "financial_details": {
+          "start_date": "2023-07",
+          "duration_months": 28,
+          "total_investment": "R140,000 - R280,000"
+        },
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_OWN_003",
+        "relation_type": "owns",
+        "source_entity": "ORG_003",
+        "target_entity": "DOMAIN_001",
+        "strength": "complete_ownership",
+        "legal_status": "legitimate",
+        "evidence": [
+          "domain_registration_records",
+          "dns_configuration"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_OWN_004",
+        "relation_type": "owns",
+        "source_entity": "PERSON_003",
+        "target_entity": "DOMAIN_002",
+        "strength": "complete_ownership",
+        "legal_status": "fraudulent",
+        "evidence": [
+          "domain_registration_2025_05_29"
+        ],
+        "purpose": "identity_fraud",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_OWN_005",
+        "relation_type": "partial_ownership",
+        "source_entity": "director",
+        "target_entity": "ORG_002",
+        "strength": "50%",
+        "legal_status": "legitimate",
+        "additional_notes": "Director owns 50% of RST",
+        "evidence": [
+          "company_registration",
+          "shareholding_records"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_OWN_006",
+        "relation_type": "partial_ownership",
+        "source_entity": "director",
+        "target_entity": "ORG_005",
+        "strength": "50%",
+        "legal_status": "legitimate",
+        "additional_notes": "Director owns 50% of Villa Via",
+        "evidence": [
+          "company_registration",
+          "shareholding_records"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "control_relations": [
+      {
+        "relation_id": "REL_CTRL_001",
+        "relation_type": "controls",
+        "source_entity": "PERSON_001",
+        "target_entity": "ORG_001",
+        "control_type": "directorial_control",
+        "legal_status": "disputed",
+        "evidence": [
+          "director_appointment",
+          "operational_decisions"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_CTRL_002",
+        "relation_type": "controls",
+        "source_entity": "PERSON_002",
+        "target_entity": "financial_systems",
+        "control_type": "financial_controller",
+        "legal_status": "disputed",
+        "evidence": [
+          "accounts_system_control",
+          "bank_account_changes"
+        ],
+        "timeline_events": [
+          "payment_redirection_2025_04_01",
+          "bank_account_change_2025_04_14"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_CTRL_003",
+        "relation_type": "operates",
+        "source_entity": "PERSON_005",
+        "target_entity": "PLATFORM_001",
+        "control_type": "platform_operator",
+        "legal_status": "legitimate",
+        "evidence": [
+          "platform_access_logs",
+          "operational_records"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_CTRL_004",
+        "relation_type": "operates",
+        "source_entity": "PERSON_004",
+        "target_entity": "PLATFORM_001",
+        "control_type": "platform_operator",
+        "legal_status": "legitimate",
+        "evidence": [
+          "platform_access_logs",
+          "operational_records"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_CTRL_005",
+        "relation_type": "trustee_of",
+        "source_entity": "PERSON_001",
+        "target_entity": "TRUST_001",
+        "control_type": "fiduciary_control",
+        "legal_status": "violated",
+        "evidence": [
+          "trust_deed",
+          "trustee_appointment"
+        ],
+        "violations": [
+          "unauthorized_beneficiary_changes",
+          "trust_asset_misappropriation",
+          "systematic_trust_violations"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "conspiracy_relations": [
+      {
+        "relation_id": "REL_CONSP_001",
+        "relation_type": "co_conspirator",
+        "source_entity": "PERSON_001",
+        "target_entity": "PERSON_002",
+        "conspiracy_type": "coordinated_criminal_activity",
+        "evidence_strength": "strong",
+        "shared_events": 8,
+        "evidence": [
+          "payment_redirection_scheme_2025_04_01",
+          "unauthorized_beneficiary_changes_2025_05_02",
+          "coordinated_fund_diversions_2025_06_30"
+        ],
+        "pattern": "systematic_coordination",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_CONSP_002",
+        "relation_type": "family_conspiracy",
+        "source_entity": "PERSON_002",
+        "target_entity": "PERSON_003",
+        "conspiracy_type": "mother_son_collusion",
+        "evidence_strength": "strong",
+        "evidence": [
+          "domain_registration_identity_fraud_2025_05_29"
+        ],
+        "relationship": "mother_son",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_CONSP_003",
+        "relation_type": "coordinated_network",
+        "source_entity": "PERSON_001",
+        "target_entity": "associates",
+        "conspiracy_type": "broader_network",
+        "evidence_strength": "moderate",
+        "evidence": [
+          "coordinated_fund_diversions_2025_06_30",
+          "financial_evidence_concealment_2025_08_20"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_CONSP_004",
+        "relation_type": "co_conspirator",
+        "source_entity": "PERSON_007",
+        "target_entity": "PERSON_001",
+        "conspiracy_type": "coordinated_fraud_concealment",
+        "evidence_strength": "strong",
+        "shared_events": [
+          "EVENT_H005",
+          "EVENT_H006",
+          "EVENT_025",
+          "EVENT_026"
+        ],
+        "evidence": [
+          "trial_balance_manipulation_2020",
+          "stock_adjustment_fraud_concealment_2025",
+          "audit_dismissal_2025_06_10"
+        ],
+        "pattern": "systematic_coordination",
+        "motive": "R18,685,000_debt_concealment",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "source_entity": "Peter Faucitt",
+        "target_entity": "Kachan",
+        "relation_type": "previous_theft_victim",
+        "description": "Pete previously took revenue from Kachan by instructing people to pay into another account - same pattern as with Daniel",
+        "evidence_source": "Email: Daniel's comprehensive response (2025-06-10)",
+        "date_established": "2025-06-10",
+        "significance": "Pattern of theft behavior; prior bad acts",
+        "legal_impact": "high",
+        "evidence": [
+          "see_ad_res_j7_comprehensive_evidence"
+        ],
+        "evidence_note": "Detailed evidence available in ad-res-j7 repository",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "dependency_relations": [
+      {
+        "relation_id": "REL_DEP_001",
+        "relation_type": "depends_on",
+        "source_entity": "ORG_001",
+        "target_entity": "ORG_003",
+        "dependency_type": "infrastructure_dependency",
+        "dependency_strength": "complete",
+        "critical_implication": "RWD_ZA_has_no_independent_revenue_stream",
+        "evidence": [
+          "shopify_platform_ownership",
+          "28_months_continuous_funding",
+          "invoice_issuance_without_ownership"
+        ],
+        "financial_impact": "R3,141,647.70",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_DEP_002",
+        "relation_type": "uses_without_ownership",
+        "source_entity": "ORG_001",
+        "target_entity": "PLATFORM_001",
+        "dependency_type": "unauthorized_use",
+        "dependency_strength": "complete",
+        "legal_status": "fraudulent",
+        "evidence": [
+          "platform_owned_by_uk_entity",
+          "invoices_issued_by_rwd_za",
+          "no_payment_for_platform_by_rwd_za"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "financial_relations": [
+      {
+        "relation_id": "REL_FIN_001",
+        "relation_type": "payment_redirection",
+        "source_entity": "PERSON_002",
+        "target_entity": "bank_accounts",
+        "financial_type": "unauthorized_diversion",
+        "amount": "R4,276,832.85",
+        "timeline_events": [
+          "payment_redirection_scheme_2025_04_01",
+          "bank_account_change_letter_2025_04_14"
+        ],
+        "legal_status": "criminal",
+        "evidence": [
+          "financial_records",
+          "bank_statements",
+          "transaction_logs"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_FIN_002",
+        "relation_type": "unauthorized_transfers",
+        "source_entity": "PERSON_001",
+        "target_entity": "accounts",
+        "financial_type": "theft",
+        "amount": "R850,000+",
+        "timeline_events": [
+          "unauthorized_transfers_2025_05_15"
+        ],
+        "legal_status": "criminal",
+        "evidence": [
+          "financial_records",
+          "bank_statements",
+          "transaction_logs"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_FIN_003",
+        "relation_type": "revenue_generation",
+        "source_entity": "PLATFORM_001",
+        "target_entity": "ORG_001",
+        "financial_type": "sales_revenue",
+        "amount": "R1,000,000+ monthly",
+        "legal_status": "fraudulent_claim",
+        "critical_note": "Revenue generated on infrastructure not owned by ORG_001",
+        "evidence": [
+          "financial_records",
+          "bank_statements",
+          "transaction_logs"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_FIN_004",
+        "relation_type": "investment",
+        "source_entity": "PERSON_005",
+        "target_entity": "PLATFORM_001",
+        "financial_type": "legitimate_investment",
+        "amount": "R140,000 - R280,000",
+        "duration": "28_months",
+        "legal_status": "legitimate",
+        "evidence": [
+          "financial_records",
+          "bank_statements",
+          "transaction_logs"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_FIN_005",
+        "relation_type": "self_rent_charge",
+        "source_entity": "director",
+        "target_entity": "director",
+        "financial_type": "wealth_transfer_mechanism",
+        "legal_status": "conflict_of_interest",
+        "entities_involved": [
+          "ORG_002",
+          "ORG_005"
+        ],
+        "additional_notes": "Director owns 50% of both entities and charges rent to himself",
+        "evidence": [
+          "financial_records",
+          "transaction_logs",
+          "bank_statements"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_FIN_006",
+        "relation_type": "stock_loss",
+        "source_entity": "ORG_004",
+        "target_entity": "stock",
+        "financial_type": "disappeared_stock",
+        "amount": "R5,400,000",
+        "legal_status": "suspicious",
+        "additional_notes": "Stock adjustment reflecting disappeared stock, same type supplied by Addarory's company",
+        "evidence": [
+          "financial_records",
+          "transaction_logs",
+          "bank_statements"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "source_entity": "Daniel Faucitt",
+        "target_entity": "ReZonance",
+        "relation_type": "director_loan",
+        "description": "ReZonance owes Daniel R1.8 million as director from his investments over the years",
+        "evidence_source": "Email: Daniel's comprehensive response (2025-06-10)",
+        "amount": "R1,800,000",
+        "date_established": "2025-06-10",
+        "significance": "Substantial director loan; motive to preserve company",
+        "legal_impact": "high",
+        "evidence": [
+          "see_ad_res_j7_comprehensive_evidence"
+        ],
+        "evidence_note": "Detailed evidence available in ad-res-j7 repository",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "source_entity": "RegimA Skin Treatments",
+        "target_entity": "ReZonance",
+        "relation_type": "owes_debt",
+        "description": "RegimA Skin Treatments owes over R1M to ReZonance (as of Feb 2023)",
+        "evidence_source": "Email: Daniel's comprehensive response (2025-06-10); Rezonance Febr 2023.PDF",
+        "amount": "R1,000,000+",
+        "date_established": "2023-02",
+        "significance": "Legitimate unpaid debt",
+        "legal_impact": "high",
+        "evidence": [
+          "see_ad_res_j7_comprehensive_evidence"
+        ],
+        "evidence_note": "Detailed evidence available in ad-res-j7 repository",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "victim_perpetrator_relations": [
+      {
+        "relation_id": "REL_VP_001",
+        "relation_type": "perpetrator_victim",
+        "source_entity": "PERSON_001",
+        "target_entity": "PERSON_005",
+        "crime_type": "revenue_theft",
+        "amount": "R10,269,727.90",
+        "evidence_strength": "strong",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_VP_002",
+        "relation_type": "perpetrator_victim",
+        "source_entity": "PERSON_002",
+        "target_entity": "PERSON_005",
+        "crime_type": "financial_manipulation",
+        "amount": "R4,276,832.85",
+        "evidence_strength": "strong",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_VP_003",
+        "relation_type": "perpetrator_victim",
+        "source_entity": "PERSON_001",
+        "target_entity": "TRUST_001",
+        "crime_type": "trust_violations",
+        "amount": "R2,851,247.35",
+        "evidence_strength": "strong",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "employment_relations": [
+      {
+        "relation_id": "REL_EMP_001",
+        "relation_type": "employed_by",
+        "source_entity": "PERSON_006",
+        "target_entity": "regima_group",
+        "role": "bookkeeper",
+        "legal_status": "legitimate",
+        "anomaly": "employed_while_PERSON_002_controlled_accounts_system",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_EMP_002",
+        "relation_type": "sibling_of",
+        "source_entity": "PERSON_006",
+        "target_entity": "PERSON_002",
+        "relationship_type": "sister",
+        "relevance": "potential_conflict_of_interest",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "source_entity": "Danie Bantjes",
+        "target_entity": "Rynette Farrar",
+        "relation_type": "drafted_employment_contract",
+        "description": "Bantjes drafted Rynette's employment offer letter and advised on notice periods",
+        "evidence_source": "Email: OFFER OF EMPLOYMENT LETTER - RYNETTE FARRAR (2020-03-19)",
+        "date_established": "2020-03-19",
+        "significance": "Bantjes involved in Rynette's employment from the start",
+        "legal_impact": "medium",
+        "evidence": [
+          "see_ad_res_j7_comprehensive_evidence"
+        ],
+        "evidence_note": "Detailed evidence available in ad-res-j7 repository",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "evidence_destruction_relations": [
+      {
+        "relation_id": "REL_EVID_001",
+        "relation_type": "destroyed_evidence",
+        "source_entity": "coordinated_action",
+        "target_entity": "PLATFORM_001",
+        "destruction_type": "audit_trail_hijacking",
+        "date": "2025-05-22",
+        "legal_significance": "consciousness_of_guilt",
+        "impact": "R1,000,000+ monthly revenue to R0",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_EVID_002",
+        "relation_type": "concealed_evidence",
+        "source_entity": "coordinated_network",
+        "target_entity": "financial_records",
+        "destruction_type": "financial_evidence_concealment",
+        "date": "2025-08-20",
+        "legal_significance": "consciousness_of_guilt",
+        "purpose": "cover_up_no_independent_revenue_stream",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "temporal_relations": [
+      {
+        "relation_id": "REL_TEMP_001",
+        "relation_type": "preceded_by",
+        "source_entity": "payment_redirection_scheme",
+        "target_entity": "trust_structure_establishment",
+        "temporal_gap_days": 17,
+        "pattern": "foundation_then_exploitation",
+        "evidence": [
+          "timeline_analysis",
+          "event_sequence_documentation"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_TEMP_002",
+        "relation_type": "escalation_pattern",
+        "source_entity": "bank_account_change",
+        "target_entity": "audit_trail_destruction",
+        "temporal_gap_days": 38,
+        "pattern": "systematic_escalation",
+        "evidence": [
+          "timeline_analysis",
+          "event_sequence_documentation"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_TEMP_003",
+        "relation_type": "followed_by",
+        "source_entity": "audit_trail_destruction",
+        "target_entity": "financial_evidence_concealment",
+        "temporal_gap_days": 90,
+        "pattern": "evidence_destruction_sequence",
+        "evidence": [
+          "timeline_analysis",
+          "event_sequence_documentation"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_TEMP_004",
+        "relation_type": "trigger_response",
+        "source_entity": "EVENT_007",
+        "target_entity": "EVENT_026",
+        "temporal_gap_days": 26,
+        "pattern": "confrontation_triggers_audit_dismissal",
+        "significance": "jax_confrontation_about_rezonance_debt_triggers_bantjies_to_dismiss_audit",
+        "evidence": [
+          "timeline_analysis",
+          "event_sequence_documentation"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_TEMP_005",
+        "relation_type": "escalation_sequence",
+        "source_entity": "EVENT_026",
+        "target_entity": "EVENT_027",
+        "temporal_gap_days": 10,
+        "pattern": "audit_dismissal_followed_by_customer_diversion",
+        "significance": "systematic_evidence_destruction_and_revenue_hijacking_sequence",
+        "evidence": [
+          "timeline_analysis",
+          "event_sequence_documentation"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_TEMP_006",
+        "relation_type": "historical_foundation",
+        "source_entity": "EVENT_H007",
+        "target_entity": "EVENT_001",
+        "temporal_gap_days": 1766,
+        "pattern": "villa_via_profit_extraction_precedes_revenue_diversion",
+        "significance": "established_profit_extraction_mechanism_before_2025_fraud",
+        "evidence": [
+          "timeline_analysis",
+          "event_sequence_documentation"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "debt_relations": [
+      {
+        "relation_id": "REL_DEBT_001",
+        "relation_type": "debtor_to_trust",
+        "source_entity": "PERSON_007",
+        "target_entity": "TRUST_001",
+        "debt_amount": "R18,685,000",
+        "legal_status": "massive_conflict_of_interest",
+        "evidence": [
+          "trust_financial_statements",
+          "loan_agreements"
+        ],
+        "significance": "creates_motive_for_fraud_concealment",
+        "triple_conflict": "trustee_debtor_accountant",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_DEBT_002",
+        "relation_type": "creditor_relationship",
+        "source_entity": "ORG_008",
+        "target_entity": "regima_group",
+        "debt_amount": "R1,035,361.34",
+        "since": "Feb 2023",
+        "legal_status": "unpaid_legitimate_debt",
+        "false_payment_claims": "R1,235,361.34",
+        "evidence": [
+          "rezonance_account_statements",
+          "payment_reconciliation"
+        ],
+        "significance": "trigger_for_jax_confrontation_and_retaliation",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "estate_relations": [
+      {
+        "relation_id": "REL_ESTATE_001",
+        "relation_type": "estate_ownership",
+        "source_entity": "ORG_008",
+        "target_entity": "PERSON_008",
+        "relationship": "part_of_kayla_estate",
+        "debt_involved": "R1,035,361.34",
+        "legal_status": "estate_asset",
+        "evidence": [
+          "estate_documentation"
+        ],
+        "significance": "jax_confrontation_about_profiting_from_murder_proceeds",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "witness_relations": [
+      {
+        "relation_id": "REL_WITNESS_001",
+        "relation_type": "witness_to_fraud",
+        "source_entity": "PERSON_009",
+        "target_entity": "DOMAIN_002",
+        "witness_type": "direct_participant",
+        "evidence_provided": "domain_switch_email_instruction",
+        "date": "2025-06-20",
+        "legal_status": "material_witness",
+        "significance": "direct_evidence_of_customer_diversion_scheme",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_WITNESS_002",
+        "relation_type": "witness_to_financial_control",
+        "source_entity": "PERSON_010",
+        "target_entity": "PERSON_007",
+        "witness_type": "email_recipient",
+        "evidence_provided": "trial_balance_email_2020_08_13",
+        "date": "2020-08-13",
+        "legal_status": "material_witness",
+        "significance": "evidence_of_bantjies_control_over_financial_systems",
+        "evidence": [
+          "documented_evidence",
+          "case_file_records"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "conflict_relations": [
+      {
+        "relation_id": "REL_CONFLICT_001",
+        "relation_type": "triple_conflict_of_interest",
+        "source_entity": "PERSON_007",
+        "conflict_roles": [
+          "trustee_of_TRUST_001",
+          "debtor_to_TRUST_001_R18685000",
+          "accountant_for_regima_group",
+          "commissioner_of_oaths"
+        ],
+        "legal_status": "severe_conflict_of_interest",
+        "evidence": [
+          "trust_deed_trustee_appointment",
+          "debt_documentation_R18685000",
+          "accounting_engagement_letters",
+          "commissioner_certification_peters_affidavit"
+        ],
+        "motive": "prevent_discovery_of_debt_and_fraud",
+        "actions_taken": [
+          "dismissed_audit_request_2025_06_10",
+          "certified_affidavit_with_material_omissions",
+          "controlled_financial_systems_with_rynette"
+        ],
+        "significance": "explains_systematic_fraud_concealment_and_retaliation",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "email_control_relations": [
+      {
+        "relation_id": "REL_EMAIL_001",
+        "relation_type": "controls_email",
+        "source_entity": "PERSON_002",
+        "target_entity": "PERSON_001",
+        "email_address": "pete@regima.com",
+        "strength": "complete_control",
+        "legal_status": "unauthorized",
+        "evidence": [
+          "sage_screenshots_june_2025",
+          "sage_screenshots_august_2025",
+          "email_correspondence"
+        ],
+        "significance": "critical_control_mechanism_for_fraud",
+        "additional_notes": "Rynette controlled Peter's email address, allowing her to control accounts system and financial communications",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "source_entity": "Rynette Farrar",
+        "target_entity": "Pete@regima.com",
+        "relation_type": "has_unauthorized_access_to",
+        "description": "Rynette has access to and uses Pete's email account Pete@regima.com",
+        "evidence_source": "Sage screenshot (2025-06-20)",
+        "date_established": "2025-06-20",
+        "significance": "Smoking gun evidence of email control",
+        "legal_impact": "very_high",
+        "evidence": [
+          "see_ad_res_j7_comprehensive_evidence"
+        ],
+        "evidence_note": "Detailed evidence available in ad-res-j7 repository",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "trustee_relations": [
+      {
+        "relation_id": "REL_TRUSTEE_001",
+        "relation_type": "trustee_of",
+        "source_entity": "PERSON_001",
+        "target_entity": "TRUST_001",
+        "role": "founder_and_trustee",
+        "legal_status": "legitimate",
+        "evidence": [
+          "trust_deed",
+          "court_documents"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_TRUSTEE_002",
+        "relation_type": "trustee_of",
+        "source_entity": "PERSON_007",
+        "target_entity": "TRUST_001",
+        "role": "unknown_trustee",
+        "legal_status": "undisclosed_conflict",
+        "evidence": [
+          "trust_analysis",
+          "financial_documents"
+        ],
+        "conflict_of_interest": {
+          "debt_to_trust": "R18,685,000",
+          "roles": [
+            "trustee",
+            "debtor",
+            "accountant",
+            "commissioner_of_oaths"
+          ]
+        },
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "beneficiary_relations": [
+      {
+        "relation_id": "REL_BENEF_001",
+        "relation_type": "beneficiary_of",
+        "source_entity": "PERSON_004",
+        "target_entity": "TRUST_001",
+        "legal_status": "legitimate",
+        "evidence": [
+          "trust_deed"
+        ],
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_BENEF_002",
+        "relation_type": "beneficiary_of",
+        "source_entity": "PERSON_005",
+        "target_entity": "TRUST_001",
+        "legal_status": "legitimate",
+        "evidence": [
+          "trust_deed"
+        ],
+        "additional_notes": "Beneficiary being attacked by trustees using trust structure",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "professional_correspondence_relations": [
+      {
+        "relation_id": "REL_PROF_001",
+        "relation_type": "professional_correspondence",
+        "source_entity": "PERSON_007",
+        "target_entity": "PERSON_010",
+        "correspondence_type": "financial_reporting",
+        "date": "2020-08-13",
+        "evidence": [
+          "trial_balance_email_2020_08_13"
+        ],
+        "significance": "witness_to_financial_control",
+        "additional_notes": "Bernadine Wright received trial balance from Bantjes, witness to his control over financial systems",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_PROF_001",
+        "relation_type": "professional_correspondence",
+        "source_entity": "PERSON_007",
+        "target_entity": "PERSON_010",
+        "correspondence_type": "financial_statement_finalization",
+        "evidence": [
+          "trial_balance_email_2020_08_13"
+        ],
+        "legal_status": "demonstrates_control",
+        "additional_notes": "Bantjies sent trial balance to Bernadine Wright for financial statement finalization meeting",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "capital_extraction_relations": [
+      {
+        "relation_id": "REL_EXTRACT_001",
+        "relation_type": "capital_extraction",
+        "source_entity": "ORG_005",
+        "target_entity": "members",
+        "extraction_mechanism": "members_loan_account",
+        "amount": "R22,800,000",
+        "date": "2020-04-30",
+        "significance": "profit_extraction_infrastructure",
+        "evidence": [
+          "villa_via_trial_balance_apr_2020"
+        ],
+        "additional_notes": "Villa Via members loan account showing R22.8M capital extraction, monthly rental income R4.4M",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "inter_company_loan_relations": [
+      {
+        "relation_id": "REL_LOAN_001",
+        "relation_type": "inter_company_loan",
+        "lender": "ORG_002",
+        "borrower": "ORG_004",
+        "loan_type": "interest_bearing",
+        "interest_payment": "R414,334.09",
+        "payment_date": "2020-02-28",
+        "significance": "financial_interdependency",
+        "evidence": [
+          "trial_balance_2020",
+          "loan_agreement"
+        ],
+        "additional_notes": "SLG pays interest to RST per loan agreement",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      },
+      {
+        "relation_id": "REL_LOAN_002",
+        "relation_type": "inter_company_loan",
+        "lender": "ORG_002",
+        "borrower": "ORG_001",
+        "loan_type": "production_financing",
+        "loan_amount": "R750,000",
+        "advance_date": "2020-02-28",
+        "significance": "financial_dependency_creation",
+        "evidence": [
+          "trial_balance_2020"
+        ],
+        "additional_notes": "RST advances R750K to RWW for production costs",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "knowledge_acquisition_relations": [
+      {
+        "relation_id": "REL_KNOWLEDGE_001",
+        "relation_type": "knowledge_acquisition",
+        "source_entity": "PERSON_007",
+        "target_entity": "criminal_matters",
+        "knowledge_type": "fraud_and_murder_disclosure",
+        "acquisition_date": "2025-06-10",
+        "evidence": [
+          "email_received_thanks_daniel_2025_08_29"
+        ],
+        "legal_status": "knowledge_before_perjury",
+        "critical_significance": "Bantjies knew of criminal matters before signing confirmatory affidavit",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "strategic_coordination_relations": [
+      {
+        "relation_id": "REL_LEGAL_001",
+        "relation_type": "strategic_coordination",
+        "source_entity": "PERSON_001",
+        "target_entity": "settlement_and_interdict",
+        "coordination_type": "timing_manipulation",
+        "timing_gap_days": 2,
+        "evidence": [
+          "settlement_agreement_2025_08_11",
+          "founding_affidavit_2025_08_13"
+        ],
+        "legal_status": "strategic_litigation_tactic",
+        "critical_significance": "Settlement signed 2 days before interdict filing demonstrates premeditation",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_2",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ],
+    "system_control_relations": [
+      {
+        "source_entity": "Rynette Farrar",
+        "target_entity": "Sage Accounting System",
+        "relation_type": "subscription_owner",
+        "description": "Rynette is the subscription owner for RegimA Worldwide Distribution's Sage accounting system",
+        "evidence_source": "Sage screenshot (2025-08-25)",
+        "date_established": "2025-08-25",
+        "significance": "Controls access to all financial records",
+        "legal_impact": "high",
+        "evidence": [
+          "see_ad_res_j7_comprehensive_evidence"
+        ],
+        "evidence_note": "Detailed evidence available in ad-res-j7 repository",
+        "related_applications": [
+          "APPLICATION_1",
+          "APPLICATION_3"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7"
+      }
+    ]
+  }
+}

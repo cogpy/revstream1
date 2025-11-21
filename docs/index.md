@@ -23,11 +23,12 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 |------------|-----------|
 | **Case Number** | 2025-137857 |
 | **Case Name** | Peter Faucitt v. Jacqueline Faucitt et al. |
-| **Data Model Version** | 14.0 |
-| **Last Updated** | 2025-11-20 |
+| **Data Model Version** | 15.0 |
+| **Last Updated** | 2025-11-21 |
 | **Total Entities** | 27 |
 | **Total Events** | 69 |
 | **Total Timeline Phases** | 8 |
+| **Total Relations** | 60 |
 | **Events with Financial Impact** | 54 |
 | **Estimated Financial Impact** | R115,015,600+ |
 | **Revenue Theft** | R3,141,647.70 |
@@ -149,16 +150,16 @@ Multiple family members involved in coordinated criminal activity:
 
 | Phase | Period | Duration | Events | Financial Impact |
 |-------|--------|----------|--------|------------------|
-| **Phase 0: Historical Foundation** | Jun 2017 - Dec 2021 | 1,645 days | 17 | R25.1M+ |
-| **Phase 1: Foundation** | Mar 2025 | 30 days | 7 | R8.75M+ |
+| **Phase 0: Historical Foundation** | Jun 2017 - Dec 2021 | 1,645 days | 14 | R25.1M+ |
+| **Phase 1: Foundation** | Mar 2025 | 30 days | 5 | R8.75M+ |
 | **Phase 2: Initial Theft** | Apr 2025 | 14 days | 5 | R7.42M |
-| **Phase 3: Escalation** | May 2025 | 28 days | 9 | R1.85M+ |
-| **Phase 4: Consolidation** | Jun 2025 | 25 days | 13 | R3.14M+ |
-| **Phase 5: Control Seizure** | Jul 2025 | 18 days | 12 | Unknown |
-| **Phase 6: Cover-up** | Aug-Sep 2025 | 33 days | 9 | Unknown |
-| **Phase 7: Debt Accumulation** | 2023-2025 | 568 days | 11 | R1.04M+ |
+| **Phase 3: Escalation** | May 2025 | 28 days | 6 | R1.85M+ |
+| **Phase 4: Consolidation** | Jun 2025 | 25 days | 11 | R3.14M+ |
+| **Phase 5: Control Seizure** | Jul 2025 | 18 days | 9 | Unknown |
+| **Phase 6: Cover-up** | Aug-Sep 2025 | 33 days | 8 | Unknown |
+| **Phase 7: Debt Accumulation** | 2023-2025 | 568 days | 0 | R1.04M+ |
 
-**[📊 View Detailed Timeline Analysis](TIMELINE_IMPROVEMENTS_2025_11_20.json)**
+**[📊 View Detailed Timeline Analysis](TIMELINE_IMPROVEMENTS_2025_11_21.json)**
 
 ---
 
@@ -185,16 +186,17 @@ Multiple family members involved in coordinated criminal activity:
 
 This case is supported by a robust and comprehensive data model:
 
-- **Version:** 14.0
-- **Last Updated:** 2025-11-20
+- **Version:** 15.0
+- **Last Updated:** 2025-11-21
 - **Total Entities:** 27
 - **Total Events:** 69
 - **Total Relations:** 60
 - **Extended Evidence Repository:** [github.com/cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)
 
-**[📄 View Full Data Model Analysis Report](DATA_MODEL_ANALYSIS_2025_11_20.json)**  
-**[📄 View Timeline Improvements Report](TIMELINE_IMPROVEMENTS_2025_11_20.json)**  
-**[📄 View Refinements Log](REFINEMENTS_LOG_2025_11_20.json)**
+**[📄 View Full Data Model Analysis Report](DATA_MODEL_ANALYSIS_2025_11_21.json)**  
+**[📄 View Timeline Improvements Report](TIMELINE_IMPROVEMENTS_2025_11_21.json)**  
+**[📄 View Event Patterns Analysis](EVENT_PATTERNS_2025_11_21.json)**  
+**[📄 View Validation Report](VALIDATION_REPORT_2025_11_21.json)**
 
 ---
 
@@ -255,4 +257,4 @@ The pattern of events supports charges of organized criminal enterprise, systema
 **Extended Evidence:** [github.com/cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)  
 **License:** See LICENSE file for details
 
-**Last Updated:** 2025-11-20
+**Last Updated:** 2025-11-21
