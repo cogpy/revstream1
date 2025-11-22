@@ -23,8 +23,8 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 |------------|-----------|
 | **Case Number** | 2025-137857 |
 | **Case Name** | Peter Faucitt v. Jacqueline Faucitt et al. |
-| **Data Model Version** | 15.0 |
-| **Last Updated** | 2025-11-21 |
+| **Data Model Version** | 16.0 |
+| **Last Updated** | 2025-11-22 |
 | **Total Entities** | 27 |
 | **Total Events** | 69 |
 | **Total Timeline Phases** | 8 |
@@ -159,7 +159,7 @@ Multiple family members involved in coordinated criminal activity:
 | **Phase 6: Cover-up** | Aug-Sep 2025 | 33 days | 8 | Unknown |
 | **Phase 7: Debt Accumulation** | 2023-2025 | 568 days | 0 | R1.04M+ |
 
-**[📊 View Detailed Timeline Analysis](TIMELINE_IMPROVEMENTS_2025_11_21.json)**
+**[📊 View Detailed Timeline Analysis](IMPROVEMENTS_REPORT_2025_11_22.json)**
 
 ---
 
@@ -193,10 +193,11 @@ This case is supported by a robust and comprehensive data model:
 - **Total Relations:** 60
 - **Extended Evidence Repository:** [github.com/cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)
 
-**[📄 View Full Data Model Analysis Report](DATA_MODEL_ANALYSIS_2025_11_21.json)**  
-**[📄 View Timeline Improvements Report](TIMELINE_IMPROVEMENTS_2025_11_21.json)**  
-**[📄 View Event Patterns Analysis](EVENT_PATTERNS_2025_11_21.json)**  
-**[📄 View Validation Report](VALIDATION_REPORT_2025_11_21.json)**
+**[📄 View Full Data Model Analysis Report](COMPREHENSIVE_ANALYSIS_2025_11_22.json)**  
+**[📄 View Timeline Improvements Report](IMPROVEMENTS_REPORT_2025_11_22.json)**  
+**[📄 View Event Patterns Analysis](EVENT_PATTERNS_2025_11_22.json)**  
+**[📄 View Improvements Report](IMPROVEMENTS_REPORT_2025_11_22.json)**  
+**[📄 View Validation Report](VALIDATION_REPORT_2025_11_22.json)**
 
 ---
 
