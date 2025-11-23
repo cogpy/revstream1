@@ -23,8 +23,8 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 |------------|-----------|
 | **Case Number** | 2025-137857 |
 | **Case Name** | Peter Faucitt v. Jacqueline Faucitt et al. |
-| **Data Model Version** | 16.0 |
-| **Last Updated** | 2025-11-22 |
+| **Data Model Version** | 17.0 |
+| **Last Updated** | 2025-11-23 |
 | **Total Entities** | 27 |
 | **Total Events** | 69 |
 | **Total Timeline Phases** | 8 |
@@ -35,6 +35,20 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 | **Trust Violations** | R2,851,247.35 |
 | **Financial Manipulation** | R4,276,832.85 |
 | **Total Documented Losses** | R10,269,727.90 |
+
+---
+
+## Data Model Files
+
+Access the latest refined data models:
+
+- **[Entities v17.0](../data_models/entities/entities_refined_2025_11_23_v10.json)** - 27 entities across 7 types
+- **[Events v18.0](../data_models/events/events_refined_2025_11_23_v11.json)** - 69 events across 8 phases
+- **[Relations v14.0](../data_models/relations/relations_refined_2025_11_23_v8.json)** - 60 relations across multiple types
+- **[Timeline v15.0](../data_models/timelines/timeline_refined_2025_11_23_v9.json)** - 8 phases spanning 2017-2025
+
+**Extended Evidence Repository:** [github.com/cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)  
+**Comprehensive Evidence Index:** [COMPREHENSIVE_EVIDENCE_INDEX.md](https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md)
 
 ---
 
@@ -159,7 +173,7 @@ Multiple family members involved in coordinated criminal activity:
 | **Phase 6: Cover-up** | Aug-Sep 2025 | 33 days | 8 | Unknown |
 | **Phase 7: Debt Accumulation** | 2023-2025 | 568 days | 0 | R1.04M+ |
 
-**[📊 View Detailed Timeline Analysis](IMPROVEMENTS_REPORT_2025_11_22.json)**
+**[📊 View Detailed Timeline Analysis](../data_models/timelines/timeline_refined_2025_11_23_v9.json)**
 
 ---
 
@@ -186,18 +200,18 @@ Multiple family members involved in coordinated criminal activity:
 
 This case is supported by a robust and comprehensive data model:
 
-- **Version:** 15.0
-- **Last Updated:** 2025-11-21
+- **Entities Version:** 17.0
+- **Events Version:** 18.0
+- **Relations Version:** 14.0
+- **Timeline Version:** 15.0
+- **Last Updated:** 2025-11-23
 - **Total Entities:** 27
 - **Total Events:** 69
 - **Total Relations:** 60
 - **Extended Evidence Repository:** [github.com/cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)
 
-**[📄 View Full Data Model Analysis Report](COMPREHENSIVE_ANALYSIS_2025_11_22.json)**  
-**[📄 View Timeline Improvements Report](IMPROVEMENTS_REPORT_2025_11_22.json)**  
-**[📄 View Event Patterns Analysis](EVENT_PATTERNS_2025_11_22.json)**  
-**[📄 View Improvements Report](IMPROVEMENTS_REPORT_2025_11_22.json)**  
-**[📄 View Validation Report](VALIDATION_REPORT_2025_11_22.json)**
+**[📄 View Comprehensive Analysis Report](DATA_MODEL_COMPREHENSIVE_ANALYSIS_2025_11_23.json)**  
+**[📄 View Improvements Report](IMPROVEMENTS_REPORT_2025_11_23.json)**
 
 ---
 
@@ -258,4 +272,4 @@ The pattern of events supports charges of organized criminal enterprise, systema
 **Extended Evidence:** [github.com/cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)  
 **License:** See LICENSE file for details
 
-**Last Updated:** 2025-11-21
+**Last Updated:** 2025-11-23
