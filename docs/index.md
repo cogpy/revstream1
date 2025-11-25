@@ -23,12 +23,12 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 |------------|-----------|
 | **Case Number** | 2025-137857 |
 | **Case Name** | Peter Faucitt v. Jacqueline Faucitt et al. |
-| **Data Model Version** | 18.0 (Updated 2025-11-25) |
+| **Data Model Version** | 19.0 (Updated 2025-11-25) |
 | **Last Updated** | 2025-11-25 |
-| **Total Entities** | 27 |
-| **Total Events** | 69 |
+| **Total Entities** | 30 |
+| **Total Events** | 73 |
 | **Total Timeline Phases** | 8 |
-| **Total Relations** | 60 |
+| **Total Relations** | 64 |
 | **Events with Financial Impact** | 54 |
 | **Estimated Financial Impact** | R115,015,600+ |
 | **Revenue Theft** | R3,141,647.70 |
@@ -42,10 +42,16 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 
 Access the latest refined data models:
 
-- **[Entities v18.0](../data_models/entities/entities_refined_2025_11_25_v11.json)** - 27 entities across 7 types
-- **[Events v19.0](../data_models/events/events_refined_2025_11_25_v12.json)** - 69 events across 8 phases
-- **[Relations v15.0](../data_models/relations/relations_refined_2025_11_25_v9.json)** - 60 relations across multiple types
+- **[Entities v19.0](../data_models/entities/entities_refined_2025_11_25_v19.json)** - 30 entities across 7 types
+- **[Events v20.0](../data_models/events/events_refined_2025_11_25_v20.json)** - 73 events across 8 phases
+- **[Relations v16.0](../data_models/relations/relations_refined_2025_11_25_v16.json)** - 64 relations across multiple types
 - **[Timeline v16.0](../data_models/timelines/timeline_refined_2025_11_25_v10.json)** - 8 phases spanning 2017-2025
+
+### Entity Profiles
+
+View comprehensive profiles for each natural and juristic person involved in the case. Each profile includes entity information, summary statistics, complete events timeline, relationship network, financial impact analysis, and evidence references.
+
+**[Browse All Entity Profiles](entity-profiles/index.md)**
 
 **Extended Evidence Repository:** [github.com/cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)  
 **Comprehensive Evidence Index:** [COMPREHENSIVE_EVIDENCE_INDEX.md](https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md)
