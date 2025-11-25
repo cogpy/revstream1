@@ -1,0 +1,50 @@
+{
+  "analysis_date": "2025-11-25T06:55:20.222808",
+  "transfer_date": "2025-09-11",
+  "total_to_savings": 5460000.0,
+  "total_from_operating": 5460000.0,
+  "transfers": [
+    {
+      "account_name": "Regima Skin Savings Account",
+      "account_number": "62134839127",
+      "amount": 3090000.0,
+      "balance_after": 4822294.91
+    },
+    {
+      "account_name": "Villa Via Savings Acc",
+      "account_number": "62812835744",
+      "amount": 1730000.0,
+      "balance_after": 2484289.09
+    },
+    {
+      "account_name": "Villa Via Main Account",
+      "account_number": "62423540807",
+      "amount": -1730000.0,
+      "balance_after": 15329.68
+    },
+    {
+      "account_name": "Strategic Savings Acc",
+      "account_number": "62593375829",
+      "amount": 640000.0,
+      "balance_after": 1210093.45
+    },
+    {
+      "account_name": "Strategic Main Account",
+      "account_number": "62432501494",
+      "amount": -640000.0,
+      "balance_after": 11960.88
+    },
+    {
+      "account_name": "Regima Skin Main Account",
+      "account_number": "55270035642",
+      "amount": -3090000.0,
+      "balance_after": 9140.9
+    }
+  ],
+  "observations": {
+    "systematic_emptying": true,
+    "minimal_balances_left": true,
+    "percentage_moved": 99.33717976354062,
+    "accounts_affected": 6
+  }
+}
