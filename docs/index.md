@@ -224,6 +224,9 @@ This case is supported by a robust and comprehensive data model:
 
 ## Evidence Resources
 
+**[📚 Evidence Quick Reference Guide](evidence-quick-reference.md)** - Fast access to all evidence by category, application, and timeline phase
+
+
 ### Enhanced Evidence Index
 
 Browse all evidence files organized by category with direct links to source documents in the [ad-res-j7 repository](https://github.com/cogpy/ad-res-j7).
