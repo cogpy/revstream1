@@ -23,8 +23,8 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 |------------|-----------|
 | **Case Number** | 2025-137857 |
 | **Case Name** | Peter Faucitt v. Jacqueline Faucitt et al. |
-| **Data Model Version** | 17.0 |
-| **Last Updated** | 2025-11-23 |
+| **Data Model Version** | 18.0 (Updated 2025-11-25) |
+| **Last Updated** | 2025-11-25 |
 | **Total Entities** | 27 |
 | **Total Events** | 69 |
 | **Total Timeline Phases** | 8 |
@@ -42,10 +42,10 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 
 Access the latest refined data models:
 
-- **[Entities v17.0](../data_models/entities/entities_refined_2025_11_23_v10.json)** - 27 entities across 7 types
-- **[Events v18.0](../data_models/events/events_refined_2025_11_23_v11.json)** - 69 events across 8 phases
-- **[Relations v14.0](../data_models/relations/relations_refined_2025_11_23_v8.json)** - 60 relations across multiple types
-- **[Timeline v15.0](../data_models/timelines/timeline_refined_2025_11_23_v9.json)** - 8 phases spanning 2017-2025
+- **[Entities v18.0](../data_models/entities/entities_refined_2025_11_25_v11.json)** - 27 entities across 7 types
+- **[Events v19.0](../data_models/events/events_refined_2025_11_25_v12.json)** - 69 events across 8 phases
+- **[Relations v15.0](../data_models/relations/relations_refined_2025_11_25_v9.json)** - 60 relations across multiple types
+- **[Timeline v16.0](../data_models/timelines/timeline_refined_2025_11_25_v10.json)** - 8 phases spanning 2017-2025
 
 **Extended Evidence Repository:** [github.com/cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)  
 **Comprehensive Evidence Index:** [COMPREHENSIVE_EVIDENCE_INDEX.md](https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md)
@@ -71,6 +71,8 @@ Access the latest refined data models:
 - [ReZonance Payment System](application-1-evidence.md#rezonance-evidence)
 - [Shopify Platform Ownership](application-1-evidence.md#shopify-evidence)
 
+**Evidence Repository:** [View Application 1 Evidence in ad-res-j7](https://github.com/cogpy/ad-res-j7/tree/main/FINAL_AFFIDAVIT_PACKAGE)
+
 [View Full Application 1 Details →](application-1.md)
 
 ---
@@ -95,6 +97,8 @@ Access the latest refined data models:
 - [Corporate Records](application-2-evidence.md#cipc)
 - [Accounting Evidence](application-2-evidence.md#accounting)
 - [Debt Accumulation Evidence](application-2-evidence.md#debt)
+
+**Evidence Repository:** [View Application 2 Evidence in ad-res-j7](https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857)
 
 [View Full Application 2 Details →](application-2.md)
 
@@ -122,6 +126,8 @@ Access the latest refined data models:
 - [Sage Control Analysis](application-3-evidence.md#sage)
 - [Trademark Documentation](application-3-evidence.md#trademark)
 - [Ongoing Interference Evidence](application-3-evidence.md#interference)
+
+**Evidence Repository:** [View Application 3 Evidence in ad-res-j7](https://github.com/cogpy/ad-res-j7/tree/main/evidence)
 
 [View Full Application 3 Details →](application-3.md)
 
@@ -173,7 +179,7 @@ Multiple family members involved in coordinated criminal activity:
 | **Phase 6: Cover-up** | Aug-Sep 2025 | 33 days | 8 | Unknown |
 | **Phase 7: Debt Accumulation** | 2023-2025 | 568 days | 0 | R1.04M+ |
 
-**[📊 View Detailed Timeline Analysis](../data_models/timelines/timeline_refined_2025_11_23_v9.json)**
+**[📊 View Detailed Timeline Analysis](../data_models/timelines/timeline_refined_2025_11_25_v10.json)**
 
 ---
 
@@ -200,18 +206,19 @@ Multiple family members involved in coordinated criminal activity:
 
 This case is supported by a robust and comprehensive data model:
 
-- **Entities Version:** 17.0
-- **Events Version:** 18.0
-- **Relations Version:** 14.0
-- **Timeline Version:** 15.0
-- **Last Updated:** 2025-11-23
+- **Entities Version:** 18.0
+- **Events Version:** 19.0
+- **Relations Version:** 15.0
+- **Timeline Version:** 16.0
+- **Last Updated:** 2025-11-25
 - **Total Entities:** 27
 - **Total Events:** 69
 - **Total Relations:** 60
-- **Extended Evidence Repository:** [github.com/cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)
+- **Extended Evidence Repository:** [github.com/cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7) (2,866 files, 226.78 MB)
 
-**[📄 View Comprehensive Analysis Report](DATA_MODEL_COMPREHENSIVE_ANALYSIS_2025_11_23.json)**  
-**[📄 View Improvements Report](IMPROVEMENTS_REPORT_2025_11_23.json)**
+**[📄 View Latest Analysis Report](DATA_MODEL_ANALYSIS_2025_11_25.md)**  
+**[📄 View Refinement Summary](REFINEMENT_SUMMARY_2025_11_25.md)**  
+**[📄 View Cross-Reference Analysis](AD_RES_J7_CROSS_REFERENCE_2025_11_25.md)**
 
 ---
 
@@ -238,31 +245,41 @@ Browse all evidence files organized by category with direct links to source docu
 - [Fabricated Accounts Evidence](evidence-index-enhanced.md#fabricated)
 - [Financial Evidence](evidence-index-enhanced.md#financial)
 
----
-
+**Direct Evidence Access:**
+- [ANNEXURES Directory](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES) - 266 files
+- [FINAL_AFFIDAVIT_PACKAGE](https://github.com/cogpy/ad-res-j7/tree/main/FINAL_AFFIDAVIT_PACKAGE) - 270 files
+- [case_2025_137857](https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857) - 259 files
+- [evidence](https://github.com/cogpy/ad-res-j7/tree/main/evidence) - 168 files
 
 ---
 
 ## Latest Analysis & Improvements
 
-### [📊 Comprehensive Analysis Summary (2025-11-24)](ANALYSIS_SUMMARY_2025_11_24.md)
+### [📊 Data Model Analysis (2025-11-25)](DATA_MODEL_ANALYSIS_2025_11_25.md)
 
 Complete analysis of all data models with quality metrics, pattern identification, and evidence coverage assessment.
 
 **Key Highlights:**
 - 100% evidence coverage across all entities, events, and relations
 - 8 timeline phases with R115M+ documented financial impact
-- 10 improvement recommendations (5 high priority)
-- Complete ad-res-j7 repository integration
+- Cross-reference validation completed
+- Complete ad-res-j7 repository integration (2,866 files)
 
-### [💡 Improvements & Recommendations (2025-11-24)](IMPROVEMENTS_2025_11_24.md)
+### [💡 Refinement Summary (2025-11-25)](REFINEMENT_SUMMARY_2025_11_25.md)
 
-Detailed improvement proposals based on timeline analysis and evidence patterns.
+Detailed refinement summary showing version updates and improvements applied.
 
-**Priority Breakdown:**
-- High Priority: 5 improvements
-- Medium Priority: 4 improvements
-- Low Priority: 1 improvement
+**Version Updates:**
+- Entities: v17.0 → v18.0
+- Events: v18.0 → v19.0
+- Relations: v14.0 → v15.0
+- Timeline: v15.0 → v16.0
+
+**Improvements:**
+- Enhanced GitHub Pages references
+- Added direct evidence URLs
+- Validated cross-references
+- Enhanced timeline evidence links
 
 ## Navigation
 
@@ -296,4 +313,4 @@ The pattern of events supports charges of organized criminal enterprise, systema
 **Extended Evidence:** [github.com/cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)  
 **License:** See LICENSE file for details
 
-**Last Updated:** 2025-11-23
+**Last Updated:** 2025-11-25

@@ -1,0 +1,1097 @@
+{
+  "timestamp": "2025-11-25T05:34:31.117388",
+  "ad_res_j7_stats": {
+    "repository_path": "/home/ubuntu/ad-res-j7",
+    "evidence_directories": {
+      "ANNEXURES": 274,
+      "FINAL_AFFIDAVIT_PACKAGE": 270,
+      "case_2025_137857": 259,
+      "evidence": 492,
+      "jax-response": 395,
+      "docs": 578
+    },
+    "total_evidence_files": 2268
+  },
+  "evidence_mapping": {
+    "validated_files_count": 56857,
+    "missing_files_count": 106,
+    "validated_files": [
+      {
+        "entity_id": "PERSON_012",
+        "file": "jax-response/",
+        "status": "validated"
+      },
+      {
+        "entity_id": "PLATFORM_001",
+        "file": "./ANNEXURES/JF02/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+        "status": "validated"
+      },
+      {
+        "entity_id": "PLATFORM_001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment_method_evidence_with_the_broad.md",
+        "status": "validated"
+      },
+      {
+        "entity_id": "PLATFORM_001",
+        "file": "./evidence/invoices/RegimA_WWD_182424713.pdf",
+        "status": "validated"
+      },
+      {
+        "entity_id": "DOMAIN_001",
+        "file": "./case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.eml",
+        "status": "validated"
+      },
+      {
+        "entity_id": "DOMAIN_001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_w_organization.md",
+        "status": "validated"
+      },
+      {
+        "entity_id": "DOMAIN_001",
+        "file": "./2DO/x/ensafrica.com/apapadopoulos@ensafrica.com/RE_ Trade mark registration nos. UK00914297063 REGIMA ZONE in classes 03, 05 and.pdf",
+        "status": "validated"
+      },
+      {
+        "entity_id": "DOMAIN_002",
+        "file": "./case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.eml",
+        "status": "validated"
+      },
+      {
+        "entity_id": "TRUST_001",
+        "file": "./ANNEXURES/JF01/Re_ belongs to regimA.eml",
+        "status": "validated"
+      },
+      {
+        "entity_id": "TRUST_001",
+        "file": "./ANNEXURES/JF01/Re_ belongs to regimA.eml",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/financial_relationships.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment_method_evidence_with_the_broad.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./2DO/x/rzo.io/d@rzo.io/Fw_ RegimA SA - zero return to CIPC.pdf",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./2DO/x/ensafrica.com/apapadopoulos@ensafrica.com/RE_ Trade mark registration nos. UK00914297063 REGIMA ZONE in classes 03, 05 and.pdf",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_transactions.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_w_organization.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/business_model_validation.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/docs/RegimA WW+Zone \u00b7 Reports \u00b7 Total sales over time by store \u00b7 Shopify Plus ZAR.pdf",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./2DO/x/regima.zone/jax@regima.zone/ARE YOU ABLE TO OPPOSE PART A OF THE EXPARTE INTERDICT, THE FIRST ONE.pdf",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_to_rezonance.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/core_business_revenue.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_are_no_longer_being_.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/traditional_business.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_as_profit_center.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.eml",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./ANNEXURES/JF02/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/services_covered.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(2).pdf",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/regima_companies.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/entity_relationships.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/regima_ownership_matters.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_evidence_exposes_a.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_account_number.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/regima_europe_ltd_quickbooks_online_plus.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/regima_group_asset.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./evidence/invoices/RegimA_WWD_182424713.pdf",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_with_multiple_development_environments.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/business_intelligence.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_director_sabotaging_his_own_company.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/total_relationships_mapped.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/business_intelligence_opportunities.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./ANNEXURES/JF03/Fw_ The RegimA Group results and Computer Expense analysis.msg",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/business_legitimacy_evidence.md",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./2DO/x/regima.zone/jax@regima.zone/RE_ Trade mark registration nos. UK00914297063 REGIMA ZONE in classes 03, 05 and.pdf",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./2DO/x/proton.me/jfaucitt@proton.me/REGIMA.pdf",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/screenshots/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+        "status": "validated"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "file": "./UPDATED_DRAFTS/analysis-main/entities/quickbooks_online_payroll_enhanced_regima_medic_lt.md",
+        "status": "validated"
+      }
+    ],
+    "missing_files": [
+      {
+        "entity_id": "PERSON_001",
+        "file": "ANNEXURES/JF01/trust_documents/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_001",
+        "file": "ANNEXURES/JF03/popia_violations/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_001",
+        "file": "ANNEXURES/JF05/correspondence/peter_emails/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_001",
+        "file": "case_2025_137857/affidavits/peter_affidavit/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_001",
+        "file": "evidence/trust_violations/trustee_misconduct/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_002",
+        "file": "ANNEXURES/JF05/correspondence/rynette_emails/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_002",
+        "file": "evidence/payment_redirection/bank_account_changes/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_002",
+        "file": "evidence/financial_manipulation/accounts_system_control/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_002",
+        "file": "case_2025_137857/financial_analysis/rynette_control/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_004",
+        "file": "ANNEXURES/JF01/correspondence/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_004",
+        "file": "ANNEXURES/JF02/shopify_operations/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_004",
+        "file": "case_2025_137857/respondent_1/jacqueline_evidence/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_004",
+        "file": "evidence/shopify/platform_operations/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_005",
+        "file": "ANNEXURES/JF02/regima_zone_ltd/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_005",
+        "file": "ANNEXURES/JF03/shopify_ownership/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_005",
+        "file": "case_2025_137857/respondent_2/daniel_evidence/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_005",
+        "file": "evidence/shopify/platform_ownership/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_005",
+        "file": "evidence/popia/violation_notices/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_006",
+        "file": "ANNEXURES/JF05/accounting/bookkeeper_records/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_006",
+        "file": "evidence/accounting/linda_bookkeeping/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_006",
+        "file": "evidence/financial_manipulation/bookkeeper_role/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_007",
+        "file": "evidence/accounting/trial_balances/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_007",
+        "file": "evidence/trust_violations/unknown_trustee/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_007",
+        "file": "evidence/conflict_of_interest/R18_685M_debt/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_007",
+        "file": "ANNEXURES/accounting/bantjies_emails/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_007",
+        "file": "evidence/commissioner_of_oaths/affidavit_certification/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_008",
+        "file": "evidence/estate_fraud/kayla_estate/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_008",
+        "file": "evidence/court_orders/email_account_seizure/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_008",
+        "file": "evidence/debt/R1_035M_unpaid/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_009",
+        "file": "ANNEXURES/JF05/correspondence/domain_switch_emails/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_009",
+        "file": "evidence/customer_diversion/email_instructions/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_010",
+        "file": "evidence/accounting/trial_balance_recipients/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_010",
+        "file": "ANNEXURES/accounting/bernadine_correspondence/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_003",
+        "file": "evidence/domain_registration/regimaskin_co_za/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_003",
+        "file": "evidence/cipc/shell_companies/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_003",
+        "file": "evidence/stock_fraud/R5_4M_scheme/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_003",
+        "file": "ANNEXURES/cipc/company_registrations/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_011",
+        "file": "ANNEXURES/JF06/ens_withdrawal/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_011",
+        "file": "evidence/legal_misconduct/criminal_suppression/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "PERSON_012",
+        "file": "ANNEXURES/JF05/correspondence/jax_emails/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "ORG_001",
+        "file": "ANNEXURES/JF01/rwd_za/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "ORG_001",
+        "file": "evidence/cipc/rwd_za_registration/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "ORG_001",
+        "file": "evidence/financial/rwd_za_accounts/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "ORG_001",
+        "file": "case_2025_137857/entities/rwd_za/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "ORG_002",
+        "file": "ANNEXURES/JF01/rst/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "ORG_002",
+        "file": "evidence/accounting/rst_trial_balances/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "ORG_002",
+        "file": "evidence/financial/rst_accounts/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "ORG_002",
+        "file": "case_2025_137857/entities/rst/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "ORG_003",
+        "file": "ANNEXURES/JF02/regima_zone_ltd/",
+        "status": "not_found"
+      },
+      {
+        "entity_id": "ORG_003",
+        "file": "evidence/shopify/platform_ownership/",
+        "status": "not_found"
+      }
+    ]
+  },
+  "missing_references": [
+    {
+      "entity_id": "PERSON_001",
+      "file": "ANNEXURES/JF01/trust_documents/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_001",
+      "file": "ANNEXURES/JF03/popia_violations/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_001",
+      "file": "ANNEXURES/JF05/correspondence/peter_emails/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_001",
+      "file": "case_2025_137857/affidavits/peter_affidavit/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_001",
+      "file": "evidence/trust_violations/trustee_misconduct/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_002",
+      "file": "ANNEXURES/JF05/correspondence/rynette_emails/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_002",
+      "file": "evidence/payment_redirection/bank_account_changes/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_002",
+      "file": "evidence/financial_manipulation/accounts_system_control/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_002",
+      "file": "case_2025_137857/financial_analysis/rynette_control/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_004",
+      "file": "ANNEXURES/JF01/correspondence/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_004",
+      "file": "ANNEXURES/JF02/shopify_operations/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_004",
+      "file": "case_2025_137857/respondent_1/jacqueline_evidence/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_004",
+      "file": "evidence/shopify/platform_operations/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_005",
+      "file": "ANNEXURES/JF02/regima_zone_ltd/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_005",
+      "file": "ANNEXURES/JF03/shopify_ownership/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_005",
+      "file": "case_2025_137857/respondent_2/daniel_evidence/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_005",
+      "file": "evidence/shopify/platform_ownership/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_005",
+      "file": "evidence/popia/violation_notices/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_006",
+      "file": "ANNEXURES/JF05/accounting/bookkeeper_records/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_006",
+      "file": "evidence/accounting/linda_bookkeeping/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_006",
+      "file": "evidence/financial_manipulation/bookkeeper_role/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_007",
+      "file": "evidence/accounting/trial_balances/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_007",
+      "file": "evidence/trust_violations/unknown_trustee/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_007",
+      "file": "evidence/conflict_of_interest/R18_685M_debt/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_007",
+      "file": "ANNEXURES/accounting/bantjies_emails/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_007",
+      "file": "evidence/commissioner_of_oaths/affidavit_certification/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_008",
+      "file": "evidence/estate_fraud/kayla_estate/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_008",
+      "file": "evidence/court_orders/email_account_seizure/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_008",
+      "file": "evidence/debt/R1_035M_unpaid/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_009",
+      "file": "ANNEXURES/JF05/correspondence/domain_switch_emails/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_009",
+      "file": "evidence/customer_diversion/email_instructions/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_010",
+      "file": "evidence/accounting/trial_balance_recipients/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_010",
+      "file": "ANNEXURES/accounting/bernadine_correspondence/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_003",
+      "file": "evidence/domain_registration/regimaskin_co_za/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_003",
+      "file": "evidence/cipc/shell_companies/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_003",
+      "file": "evidence/stock_fraud/R5_4M_scheme/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_003",
+      "file": "ANNEXURES/cipc/company_registrations/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_011",
+      "file": "ANNEXURES/JF06/ens_withdrawal/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_011",
+      "file": "evidence/legal_misconduct/criminal_suppression/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PERSON_012",
+      "file": "ANNEXURES/JF05/correspondence/jax_emails/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_001",
+      "file": "ANNEXURES/JF01/rwd_za/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_001",
+      "file": "evidence/cipc/rwd_za_registration/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_001",
+      "file": "evidence/financial/rwd_za_accounts/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_001",
+      "file": "case_2025_137857/entities/rwd_za/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_002",
+      "file": "ANNEXURES/JF01/rst/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_002",
+      "file": "evidence/accounting/rst_trial_balances/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_002",
+      "file": "evidence/financial/rst_accounts/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_002",
+      "file": "case_2025_137857/entities/rst/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_003",
+      "file": "ANNEXURES/JF02/regima_zone_ltd/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_003",
+      "file": "evidence/shopify/platform_ownership/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_003",
+      "file": "evidence/uk_company/registration/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_003",
+      "file": "case_2025_137857/entities/regima_zone_ltd/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_004",
+      "file": "ANNEXURES/JF01/slg/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_004",
+      "file": "evidence/accounting/slg_trial_balances/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_004",
+      "file": "evidence/financial/slg_accounts/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_004",
+      "file": "case_2025_137857/entities/slg/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_005",
+      "file": "ANNEXURES/JF01/villa_via/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_005",
+      "file": "evidence/accounting/villa_via_trial_balances/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_005",
+      "file": "evidence/financial/villa_via_accounts/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_005",
+      "file": "case_2025_137857/entities/villa_via/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_006",
+      "file": "ANNEXURES/JF01/trust_documents/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_006",
+      "file": "evidence/trust_violations/trust_deed/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_006",
+      "file": "evidence/trust_violations/trustee_misconduct/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_006",
+      "file": "case_2025_137857/trust/family_trust/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_008",
+      "file": "ANNEXURES/JF04/rezonance/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_008",
+      "file": "evidence/rezonance/invoices/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_008",
+      "file": "evidence/rezonance/payment_analysis/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_008",
+      "file": "case_2025_137857/entities/rezonance/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_009",
+      "file": "ANNEXURES/JF04/unicorn/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_009",
+      "file": "evidence/payment_routing/unicorn/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_009",
+      "file": "case_2025_137857/entities/unicorn/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_010",
+      "file": "ANNEXURES/JF04/joziway/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_010",
+      "file": "evidence/payment_routing/joziway/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "ORG_010",
+      "file": "case_2025_137857/entities/joziway/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PLATFORM_001",
+      "file": "ANNEXURES/JF02/shopify_payment_records/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PLATFORM_001",
+      "file": "evidence/shopify/platform_ownership/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "PLATFORM_001",
+      "file": "evidence/shopify/28_month_payment_history/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "DOMAIN_001",
+      "file": "ANNEXURES/JF02/domain_registration/regima_zone/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "DOMAIN_001",
+      "file": "evidence/domains/regima_zone_ownership/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "DOMAIN_002",
+      "file": "evidence/domains/fraudulent_registration/regima_co_za/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "DOMAIN_002",
+      "file": "evidence/identity_fraud/domain_registration_may_29_2025/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "DOMAIN_002",
+      "file": "./UPDATED_DRAFTS/analysis-main/entities/domain_fraud_analysis.md",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "TRUST_001",
+      "file": "ANNEXURES/JF01/trust_documents/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "TRUST_001",
+      "file": "evidence/trust_violations/trustee_misconduct/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "TRUST_001",
+      "file": "evidence/trust_violations/trust_deed_manipulation/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "TRUST_001",
+      "file": "./UPDATED_DRAFTS/analysis-main/entities/trust_structure_analysis.md",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "TRUST_001",
+      "file": "./evidence/trust_violations/unknown_trustee/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "TRUST_001",
+      "file": "ANNEXURES/JF01/trust_documents/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "TRUST_001",
+      "file": "evidence/trust_violations/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "TRUST_001",
+      "file": "evidence/trust_violations/trustee_misconduct/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "TRUST_001",
+      "file": "evidence/trust_violations/trust_asset_misappropriation/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "TRUST_001",
+      "file": "./evidence/conflict_of_interest/R18_685M_debt/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "BANK_001",
+      "file": "evidence/payment_redirection/bank_account_changes/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "BANK_001",
+      "file": "evidence/financial_manipulation/unauthorized_changes/",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "BANK_001",
+      "file": "./evidence/payment_redirection/bank_account_changes/rynette_letter_april_1.pdf",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "BANK_001",
+      "file": "./ANNEXURES/JF05/correspondence/rynette_emails/payment_system_control.eml",
+      "status": "not_found"
+    },
+    {
+      "entity_id": "BANK_001",
+      "file": "./evidence/financial_manipulation/accounts_system_control/",
+      "status": "not_found"
+    },
+    {
+      "event_id": "EVENT_H008",
+      "file": "./.github/agents/Complete_Gizmo_Classification_FINAL.md",
+      "status": "not_found"
+    },
+    {
+      "event_id": "EVENT_D003",
+      "file": "./.github/agents/Complete_Gizmo_Classification_FINAL.md",
+      "status": "not_found"
+    },
+    {
+      "event_id": "EVENT_058",
+      "file": "./.github/ISSUE_TEMPLATE/feature_request.md",
+      "status": "not_found"
+    },
+    {
+      "event_id": "EVENT_026",
+      "file": "./.github/ISSUE_TEMPLATE/feature_request.md",
+      "status": "not_found"
+    },
+    {
+      "event_id": "EVENT_047",
+      "file": "./.github/ISSUE_TEMPLATE/feature_request.md",
+      "status": "not_found"
+    },
+    {
+      "event_id": "EVENT_016",
+      "file": "./.github/agents/Complete_Gizmo_Classification_FINAL.md",
+      "status": "not_found"
+    },
+    {
+      "event_id": "EVENT_019",
+      "file": "./.github/agents/Complete_Gizmo_Classification_FINAL.md",
+      "status": "not_found"
+    },
+    {
+      "event_id": "EVENT_059",
+      "file": "./.github/workflows/create-issues-from-repository-items.yml.disabled",
+      "status": "not_found"
+    },
+    {
+      "event_id": "EVENT_059",
+      "file": "./.github/workflows/create-issues-from-todo.yml",
+      "status": "not_found"
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "HIGH",
+      "category": "evidence_linking",
+      "title": "Create Direct Evidence Links in GitHub Pages",
+      "description": "Update all GitHub Pages evidence references to include direct links to specific files in ad-res-j7 repository",
+      "implementation": "Add 'evidence_url' field to each evidence reference pointing to https://github.com/cogpy/ad-res-j7/blob/main/[file_path]",
+      "impact": "Enables one-click access to source evidence documents from GitHub Pages"
+    },
+    {
+      "priority": "HIGH",
+      "category": "evidence_organization",
+      "title": "Create Evidence Summary Pages for Each Application",
+      "description": "Generate dedicated evidence summary pages for Application 1, 2, and 3 with categorized evidence links",
+      "implementation": "Create application-1-evidence-detailed.md, application-2-evidence-detailed.md, application-3-evidence-detailed.md",
+      "impact": "Provides clear, organized evidence presentation for legal review"
+    },
+    {
+      "priority": "MEDIUM",
+      "category": "visualization",
+      "title": "Add Evidence Thumbnails for Key Documents",
+      "description": "Include thumbnail previews of key evidence documents in GitHub Pages",
+      "implementation": "Generate thumbnails for PDFs and images, embed in evidence pages",
+      "impact": "Provides visual preview of evidence documents"
+    },
+    {
+      "priority": "HIGH",
+      "category": "timeline_integration",
+      "title": "Create Interactive Evidence Timeline",
+      "description": "Generate an interactive timeline showing events with linked evidence documents",
+      "implementation": "Create timeline.html with event markers linking to evidence files",
+      "impact": "Provides chronological view of evidence with direct access to supporting documents"
+    },
+    {
+      "priority": "HIGH",
+      "category": "data_integrity",
+      "title": "Validate and Update All Evidence File Paths",
+      "description": "Ensure all evidence file paths in data models point to valid files in ad-res-j7",
+      "implementation": "Run validation script and update broken references",
+      "impact": "Ensures all evidence references are valid and accessible"
+    }
+  ]
+}
