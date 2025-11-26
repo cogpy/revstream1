@@ -1,0 +1,910 @@
+{
+  "metadata": {
+    "version": "17.0",
+    "created_date": "2025-11-10",
+    "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
+    "case_number": "2025-137857",
+    "period_start": "2017-06-30",
+    "period_end": "2025-09-11",
+    "duration_days": 194,
+    "total_events": 69,
+    "last_updated": "2025-11-26",
+    "changes": "Refinement 2025-11-26: Enhanced phase evidence links, added interactive timeline URL",
+    "extended_evidence_repository": "https://github.com/cogpy/ad-res-j7",
+    "extended_evidence_catalog": "COMPREHENSIVE_EVIDENCE_INDEX.md",
+    "interactive_timeline_url": "https://cogpy.github.io/revstream1/timeline.html"
+  },
+  "timeline_phases": {
+    "phase_1_foundation": {
+      "phase_id": "PHASE_001",
+      "phase_name": "Foundation Phase",
+      "start_date": "2025-03-01",
+      "end_date": "2025-03-30",
+      "duration_days": 30,
+      "events": [
+        "EVENT_001",
+        "EVENT_002",
+        "EVENT_003",
+        "EVENT_024",
+        "EVENT_025"
+      ],
+      "primary_objectives": [
+        "establish_trust_manipulation_framework",
+        "initiate_revenue_diversion",
+        "dump_unallocated_expenses"
+      ],
+      "key_characteristics": [
+        "trust_structure_establishment",
+        "initial_revenue_diversion",
+        "expense_dumping_pressure_tactics",
+        "R900K_unauthorized_transfers",
+        "R5.4M_stock_disappearance",
+        "R5.4M_stock_adjustment_fraud"
+      ],
+      "financial_impact": "R8,751,247.35+",
+      "legal_significance": "foundation_for_systematic_fraud",
+      "pattern_analysis": "Establishment of infrastructure for fraud execution",
+      "event_count": 5,
+      "evidence_repository": "ad-res-j7",
+      "related_applications": [
+        "APPLICATION_1"
+      ],
+      "github_pages_reference": "https://cogpy.github.io/revstream1/index.md#timeline-progression",
+      "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "github_pages_url": "https://cogpy.github.io/revstream1/timeline.html#PHASE_001",
+      "application_evidence_urls": [
+        {
+          "application": "APPLICATION_1",
+          "url": "https://cogpy.github.io/revstream1/application-1-evidence.html"
+        }
+      ]
+    },
+    "phase_2_initial_theft": {
+      "phase_id": "PHASE_002",
+      "phase_name": "Initial Theft Phase",
+      "start_date": "2025-04-01",
+      "end_date": "2025-04-14",
+      "duration_days": 14,
+      "events": [
+        "EVENT_004",
+        "EVENT_005",
+        "EVENT_029",
+        "EVENT_055",
+        "EVENT_056"
+      ],
+      "primary_objectives": [
+        "redirect_payments",
+        "change_bank_accounts",
+        "setup_revenue_theft_infrastructure"
+      ],
+      "key_characteristics": [
+        "payment_redirection_scheme",
+        "bank_account_manipulation",
+        "shopify_platform_targeting"
+      ],
+      "financial_impact": "R7,418,480.55",
+      "legal_significance": "first_documented_acts_in_coordinated_scheme",
+      "pattern_analysis": "Direct implementation of revenue theft mechanisms",
+      "event_count": 5,
+      "evidence_repository": "ad-res-j7",
+      "related_applications": [
+        "APPLICATION_1"
+      ],
+      "github_pages_reference": "https://cogpy.github.io/revstream1/index.md#timeline-progression",
+      "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "github_pages_url": "https://cogpy.github.io/revstream1/timeline.html#PHASE_002",
+      "application_evidence_urls": [
+        {
+          "application": "APPLICATION_1",
+          "url": "https://cogpy.github.io/revstream1/application-1-evidence.html"
+        }
+      ]
+    },
+    "phase_3_escalation": {
+      "phase_id": "PHASE_003",
+      "phase_name": "Escalation Phase",
+      "start_date": "2025-05-02",
+      "end_date": "2025-05-29",
+      "duration_days": 28,
+      "events": [
+        "EVENT_006",
+        "EVENT_007",
+        "EVENT_008",
+        "EVENT_009",
+        "EVENT_010",
+        "EVENT_050"
+      ],
+      "primary_objectives": [
+        "exclude_beneficiaries",
+        "execute_unauthorized_transfers",
+        "destroy_audit_trails",
+        "register_fraudulent_domain"
+      ],
+      "key_characteristics": [
+        "beneficiary_manipulation",
+        "confrontation_triggering_retaliation",
+        "R850K_unauthorized_transfers",
+        "shopify_audit_trail_destruction",
+        "identity_fraud_domain_registration"
+      ],
+      "financial_impact": "R1,850,000+",
+      "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
+      "pattern_analysis": "Dramatic escalation following confrontation, including critical evidence destruction",
+      "critical_events": [
+        "EVENT_007",
+        "EVENT_009"
+      ],
+      "trigger_event": "Jacqui's confrontation about R1,035,000 debt",
+      "event_count": 6,
+      "evidence_repository": "ad-res-j7",
+      "related_applications": [
+        "APPLICATION_1"
+      ],
+      "github_pages_reference": "https://cogpy.github.io/revstream1/index.md#timeline-progression",
+      "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "github_pages_url": "https://cogpy.github.io/revstream1/timeline.html#PHASE_003",
+      "application_evidence_urls": [
+        {
+          "application": "APPLICATION_1",
+          "url": "https://cogpy.github.io/revstream1/application-1-evidence.html"
+        }
+      ]
+    },
+    "phase_4_consolidation": {
+      "phase_id": "PHASE_004",
+      "phase_name": "Consolidation Phase",
+      "start_date": "2025-06-06",
+      "end_date": "2025-06-30",
+      "duration_days": 25,
+      "events": [
+        "EVENT_011",
+        "EVENT_012",
+        "EVENT_013",
+        "EVENT_014",
+        "EVENT_015",
+        "EVENT_026",
+        "EVENT_027",
+        "EVENT_047",
+        "EVENT_057",
+        "EVENT_058",
+        "EVENT_062"
+      ],
+      "primary_objectives": [
+        "sabotage_payment_capability",
+        "consolidate_email_control",
+        "execute_fund_diversions",
+        "continue_trust_violations"
+      ],
+      "key_characteristics": [
+        "fraud_discovery_by_daniel",
+        "secret_card_cancellations",
+        "trustee_misconduct",
+        "email_impersonation_pattern",
+        "coordinated_fund_diversions",
+        "bantjies_audit_dismissal",
+        "domain_switch_email_instruction",
+        "daniel_provides_comprehensive_reports_to_bantjies",
+        "bantjies_learns_of_criminal_matters_june_10_2025"
+      ],
+      "financial_impact": "R3,141,647.70+",
+      "legal_significance": "sophisticated_financial_crime_coordination",
+      "pattern_analysis": "Consolidation of control and sabotage of victim's ability to respond, Bantjies dismisses audit due to R18.685M debt conflict, active customer diversion to fraudulent domain",
+      "victim_response": "Daniel finalized fraud reports",
+      "event_count": 11,
+      "evidence_repository": "ad-res-j7",
+      "related_applications": [
+        "APPLICATION_2"
+      ],
+      "github_pages_reference": "https://cogpy.github.io/revstream1/index.md#timeline-progression",
+      "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "github_pages_url": "https://cogpy.github.io/revstream1/timeline.html#PHASE_004",
+      "application_evidence_urls": [
+        {
+          "application": "APPLICATION_2",
+          "url": "https://cogpy.github.io/revstream1/application-2-evidence.html"
+        }
+      ]
+    },
+    "phase_5_control_seizure": {
+      "phase_id": "PHASE_005",
+      "phase_name": "Control Seizure Phase",
+      "start_date": "2025-07-08",
+      "end_date": "2025-07-25",
+      "duration_days": 18,
+      "events": [
+        "EVENT_016",
+        "EVENT_017",
+        "EVENT_018",
+        "EVENT_D001",
+        "EVENT_D002",
+        "EVENT_D003",
+        "EVENT_D004",
+        "EVENT_D005",
+        "EVENT_H010"
+      ],
+      "primary_objectives": [
+        "shutdown_operations",
+        "seize_account_control",
+        "misappropriate_trust_assets"
+      ],
+      "key_characteristics": [
+        "warehouse_popi_violations",
+        "operational_shutdown",
+        "account_manipulation",
+        "trust_asset_misappropriation"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "systematic_business_destruction_and_asset_theft",
+      "pattern_analysis": "Complete seizure of operational and financial control",
+      "event_count": 9,
+      "evidence_repository": "ad-res-j7",
+      "related_applications": [
+        "APPLICATION_2"
+      ],
+      "github_pages_reference": "https://cogpy.github.io/revstream1/index.md#timeline-progression",
+      "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "github_pages_url": "https://cogpy.github.io/revstream1/timeline.html#PHASE_005",
+      "application_evidence_urls": [
+        {
+          "application": "APPLICATION_2",
+          "url": "https://cogpy.github.io/revstream1/application-2-evidence.html"
+        }
+      ]
+    },
+    "phase_6_cover_up": {
+      "phase_id": "PHASE_006",
+      "phase_name": "Cover-up Phase",
+      "start_date": "2025-08-10",
+      "end_date": "2025-09-11",
+      "duration_days": 33,
+      "events": [
+        "EVENT_019",
+        "EVENT_020",
+        "EVENT_021",
+        "EVENT_049",
+        "EVENT_059",
+        "EVENT_060",
+        "EVENT_061",
+        "EVENT_063"
+      ],
+      "primary_objectives": [
+        "conceal_evidence",
+        "empty_accounts",
+        "demonstrate_ongoing_violations"
+      ],
+      "key_characteristics": [
+        "trust_breach_evidence",
+        "financial_evidence_concealment",
+        "account_draining",
+        "settlement_agreement_signed_2_days_before_interdict",
+        "peter_files_founding_affidavit_with_material_non_disclosures",
+        "ens_africa_acknowledges_then_suppresses_criminal_matters"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "consciousness_of_guilt_through_cover_up_operations",
+      "pattern_analysis": "Systematic cover-up and final financial destruction",
+      "critical_events": [
+        "EVENT_020"
+      ],
+      "event_count": 8,
+      "evidence_repository": "ad-res-j7",
+      "related_applications": [
+        "APPLICATION_3"
+      ],
+      "github_pages_reference": "https://cogpy.github.io/revstream1/index.md#timeline-progression",
+      "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "github_pages_url": "https://cogpy.github.io/revstream1/timeline.html#PHASE_006",
+      "application_evidence_urls": [
+        {
+          "application": "APPLICATION_3",
+          "url": "https://cogpy.github.io/revstream1/application-3-evidence.html"
+        }
+      ]
+    },
+    "phase_0_historical_foundation": {
+      "phase_id": "PHASE_000",
+      "phase_name": "Historical Foundation Phase",
+      "start_date": "2017-06-30",
+      "end_date": "2021-12-31",
+      "duration_days": 1645,
+      "events": [
+        "EVENT_048",
+        "EVENT_051",
+        "EVENT_052",
+        "EVENT_053",
+        "EVENT_H001",
+        "EVENT_H002",
+        "EVENT_H003",
+        "EVENT_H004",
+        "EVENT_H005",
+        "EVENT_H006",
+        "EVENT_H007",
+        "EVENT_H008",
+        "EVENT_H009",
+        "EVENT_H018"
+      ],
+      "primary_objectives": [
+        "establish_business_relationships",
+        "create_inter_company_financial_structures",
+        "establish_profit_extraction_mechanisms",
+        "document_financial_system_control"
+      ],
+      "key_characteristics": [
+        "rezonance_business_relationship_establishment",
+        "inter_company_financial_manipulation",
+        "villa_via_capital_extraction_R22.8M",
+        "bantjies_financial_system_control",
+        "inter_company_cost_reallocations",
+        "inter_company_loan_structure",
+        "capital_extraction_mechanism",
+        "financial_system_control_documentation",
+        "business_relationship_establishment"
+      ],
+      "financial_impact": "R25,106,584.89+ (Villa Via R22.8M + inter-company R2.3M+)",
+      "legal_significance": "foundation_for_systematic_fraud_infrastructure",
+      "pattern_analysis": "Establishment of complex inter-company structures enabling later fraud, Villa Via profit extraction mechanism, Bantjies control over financial systems",
+      "event_count": 14,
+      "evidence_repository": "ad-res-j7",
+      "related_applications": [
+        "APPLICATION_1",
+        "APPLICATION_2"
+      ],
+      "github_pages_reference": "https://cogpy.github.io/revstream1/index.md#timeline-progression",
+      "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "github_pages_url": "https://cogpy.github.io/revstream1/timeline.html#PHASE_000",
+      "application_evidence_urls": [
+        {
+          "application": "APPLICATION_1",
+          "url": "https://cogpy.github.io/revstream1/application-1-evidence.html"
+        },
+        {
+          "application": "APPLICATION_2",
+          "url": "https://cogpy.github.io/revstream1/application-2-evidence.html"
+        }
+      ]
+    },
+    "phase_7_debt_accumulation": {
+      "phase_id": "PHASE_007",
+      "phase_name": "Debt Accumulation Phase",
+      "start_date": "2022-03-01",
+      "end_date": "2023-09-20",
+      "duration_days": 568,
+      "events": [],
+      "primary_objectives": [
+        "accumulate_unpaid_debts",
+        "create_false_payment_claims",
+        "conceal_debt_through_fraud"
+      ],
+      "key_characteristics": [
+        "rezonance_debt_accumulation_R1.035M",
+        "false_payment_claims_R1.235M",
+        "systematic_non_payment_pattern"
+      ],
+      "financial_impact": "R1,035,361.34 debt + R1,235,361.34 false claims",
+      "legal_significance": "systematic_fraud_pattern_establishment",
+      "pattern_analysis": "Escalation from debt accumulation to outright fraud through false payment claims",
+      "event_count": 0,
+      "evidence_repository": "ad-res-j7",
+      "related_applications": [
+        "APPLICATION_2"
+      ],
+      "github_pages_reference": "https://cogpy.github.io/revstream1/index.md#timeline-progression",
+      "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "github_pages_url": "https://cogpy.github.io/revstream1/timeline.html#PHASE_007",
+      "application_evidence_urls": [
+        {
+          "application": "APPLICATION_2",
+          "url": "https://cogpy.github.io/revstream1/application-2-evidence.html"
+        }
+      ]
+    }
+  },
+  "temporal_patterns": {
+    "escalation_triggers": [
+      {
+        "trigger_event": "EVENT_007",
+        "trigger_date": "2025-05-15",
+        "trigger_description": "Jacqui confronts Rynette about R1,035,000 debt",
+        "subsequent_events": [
+          "EVENT_009",
+          "EVENT_010"
+        ],
+        "retaliation_window_days": 14,
+        "pattern": "confrontation_triggers_retaliation"
+      },
+      {
+        "trigger_event": "EVENT_011",
+        "trigger_date": "2025-06-06",
+        "trigger_description": "Daniel finalizes fraud reports",
+        "subsequent_events": [
+          "EVENT_012",
+          "EVENT_013",
+          "EVENT_014",
+          "EVENT_015"
+        ],
+        "retaliation_window_days": 24,
+        "pattern": "fraud_discovery_triggers_intensified_sabotage"
+      },
+      {
+        "trigger_event": "EVENT_026",
+        "trigger_date": "2025-06-10",
+        "trigger_description": "Bantjies dismisses audit request (4 days after fraud exposure)",
+        "subsequent_events": [
+          "EVENT_027"
+        ],
+        "retaliation_window_days": 10,
+        "pattern": "audit_dismissal_triggers_customer_diversion",
+        "motive": "R18,685,000_debt_concealment"
+      }
+    ],
+    "evidence_destruction_sequence": [
+      {
+        "event": "EVENT_009",
+        "date": "2025-05-22",
+        "type": "audit_trail_destruction",
+        "target": "shopify_platform",
+        "significance": "primary_evidence_destruction"
+      },
+      {
+        "event": "EVENT_020",
+        "date": "2025-08-20",
+        "type": "financial_evidence_concealment",
+        "target": "financial_records",
+        "significance": "secondary_cover_up"
+      }
+    ],
+    "coordination_patterns": [
+      {
+        "pattern_name": "peter_rynette_coordination",
+        "participants": [
+          "PERSON_001",
+          "PERSON_002"
+        ],
+        "shared_events": [
+          "EVENT_003",
+          "EVENT_004",
+          "EVENT_006",
+          "EVENT_012",
+          "EVENT_015",
+          "EVENT_021"
+        ],
+        "coordination_strength": "strong",
+        "pattern_type": "systematic_coordination"
+      },
+      {
+        "pattern_name": "family_conspiracy",
+        "participants": [
+          "PERSON_002",
+          "PERSON_003"
+        ],
+        "shared_events": [
+          "EVENT_010"
+        ],
+        "coordination_strength": "moderate",
+        "pattern_type": "mother_son_collusion"
+      }
+    ],
+    "financial_flow_timeline": {
+      "march_2025": {
+        "phase": "foundation",
+        "primary_activity": "trust_establishment_and_revenue_diversion",
+        "financial_impact": "R2,851,247.35+"
+      },
+      "april_2025": {
+        "phase": "initial_theft",
+        "primary_activity": "payment_redirection_and_bank_changes",
+        "financial_impact": "R7,418,480.55"
+      },
+      "may_2025": {
+        "phase": "escalation",
+        "primary_activity": "R850K_transfers_and_audit_trail_destruction",
+        "financial_impact": "R1,850,000+"
+      },
+      "june_2025": {
+        "phase": "consolidation",
+        "primary_activity": "email_control_and_fund_diversions",
+        "financial_impact": "R3,141,647.70+"
+      },
+      "july_2025": {
+        "phase": "control_seizure",
+        "primary_activity": "operational_shutdown_and_account_manipulation",
+        "financial_impact": "unknown"
+      },
+      "august_september_2025": {
+        "phase": "cover_up",
+        "primary_activity": "evidence_concealment_and_account_draining",
+        "financial_impact": "unknown"
+      }
+    }
+  },
+  "shopify_centrality_analysis": {
+    "total_events": 21,
+    "shopify_related_events": 10,
+    "percentage": "47.6%",
+    "critical_implication": "RWD_ZA_has_no_independent_revenue_stream",
+    "platform_ownership": {
+      "owner": "ORG_003",
+      "payer": "PERSON_005",
+      "start_date": "2023-07",
+      "duration_months": 28,
+      "total_investment": "R140,000 - R280,000"
+    },
+    "shopify_event_timeline": [
+      {
+        "event": "EVENT_004",
+        "date": "2025-04-01",
+        "type": "payment_redirection"
+      },
+      {
+        "event": "EVENT_005",
+        "date": "2025-04-14",
+        "type": "bank_account_change"
+      },
+      {
+        "event": "EVENT_008",
+        "date": "2025-05-15",
+        "type": "unauthorized_transfers"
+      },
+      {
+        "event": "EVENT_009",
+        "date": "2025-05-22",
+        "type": "audit_trail_destruction",
+        "critical": true
+      },
+      {
+        "event": "EVENT_010",
+        "date": "2025-05-29",
+        "type": "identity_fraud_domain"
+      },
+      {
+        "event": "EVENT_014",
+        "date": "2025-06-20",
+        "type": "email_impersonation"
+      },
+      {
+        "event": "EVENT_015",
+        "date": "2025-06-30",
+        "type": "fund_diversions"
+      },
+      {
+        "event": "EVENT_016",
+        "date": "2025-07-08",
+        "type": "operational_shutdown"
+      },
+      {
+        "event": "EVENT_017",
+        "date": "2025-07-12",
+        "type": "account_manipulation"
+      },
+      {
+        "event": "EVENT_020",
+        "date": "2025-08-20",
+        "type": "evidence_concealment",
+        "critical": true
+      }
+    ]
+  },
+  "legal_framework_timeline": {
+    "criminal_charges_supported": {
+      "organized_crime_racketeering": {
+        "statute": "POCA_Section_2_3",
+        "supporting_events": [
+          "EVENT_001",
+          "EVENT_002",
+          "EVENT_003",
+          "EVENT_004",
+          "EVENT_005",
+          "EVENT_006",
+          "EVENT_008",
+          "EVENT_009",
+          "EVENT_010",
+          "EVENT_012",
+          "EVENT_013",
+          "EVENT_014",
+          "EVENT_015",
+          "EVENT_016",
+          "EVENT_017",
+          "EVENT_018",
+          "EVENT_019",
+          "EVENT_020",
+          "EVENT_021"
+        ],
+        "evidence_strength": "strong"
+      },
+      "computer_fraud": {
+        "statute": "ECTA_Sections_86_88",
+        "supporting_events": [
+          "EVENT_009",
+          "EVENT_010",
+          "EVENT_014",
+          "EVENT_017"
+        ],
+        "evidence_strength": "strong"
+      },
+      "identity_fraud": {
+        "statute": "ECTA_Section_87_88",
+        "supporting_events": [
+          "EVENT_010",
+          "EVENT_014"
+        ],
+        "evidence_strength": "strong"
+      },
+      "theft_and_fraud": {
+        "statute": "Common_Law",
+        "supporting_events": [
+          "EVENT_001",
+          "EVENT_004",
+          "EVENT_005",
+          "EVENT_008",
+          "EVENT_012",
+          "EVENT_015",
+          "EVENT_018",
+          "EVENT_021"
+        ],
+        "evidence_strength": "strong"
+      },
+      "money_laundering": {
+        "statute": "FIC_Act",
+        "supporting_events": [
+          "EVENT_004",
+          "EVENT_005",
+          "EVENT_008",
+          "EVENT_015"
+        ],
+        "evidence_strength": "moderate"
+      },
+      "trust_law_violations": {
+        "statute": "Trust_Property_Control_Act",
+        "supporting_events": [
+          "EVENT_002",
+          "EVENT_006",
+          "EVENT_013",
+          "EVENT_018",
+          "EVENT_019"
+        ],
+        "evidence_strength": "strong"
+      }
+    },
+    "consciousness_of_guilt_events": [
+      {
+        "event": "EVENT_009",
+        "date": "2025-05-22",
+        "type": "evidence_destruction",
+        "significance": "primary_consciousness_of_guilt"
+      },
+      {
+        "event": "EVENT_020",
+        "date": "2025-08-20",
+        "type": "evidence_concealment",
+        "significance": "secondary_consciousness_of_guilt"
+      }
+    ]
+  },
+  "victim_impact_timeline": {
+    "daniel_faucitt": {
+      "entity_id": "PERSON_005",
+      "total_loss": "R10,269,727.90+",
+      "platform_investment_lost": "R140,000 - R280,000",
+      "timeline_of_impact": [
+        {
+          "date": "2025-03-01",
+          "impact": "revenue_diversion_started"
+        },
+        {
+          "date": "2025-03-30",
+          "impact": "pressured_to_sign_off_unallocated_expenses"
+        },
+        {
+          "date": "2025-04-01",
+          "impact": "payment_redirection_initiated"
+        },
+        {
+          "date": "2025-04-14",
+          "impact": "bank_account_changes_attempted"
+        },
+        {
+          "date": "2025-05-15",
+          "impact": "R850K_unauthorized_transfers"
+        },
+        {
+          "date": "2025-05-22",
+          "impact": "shopify_platform_destroyed_R1M_monthly_revenue_to_R0"
+        },
+        {
+          "date": "2025-06-06",
+          "impact": "fraud_reports_finalized"
+        },
+        {
+          "date": "2025-06-07",
+          "impact": "cards_secretly_cancelled_payment_capability_sabotaged"
+        },
+        {
+          "date": "2025-06-20",
+          "impact": "email_control_lost"
+        },
+        {
+          "date": "2025-07-08",
+          "impact": "warehouse_operations_shutdown"
+        },
+        {
+          "date": "2025-07-12",
+          "impact": "account_control_seized"
+        },
+        {
+          "date": "2025-09-11",
+          "impact": "accounts_emptied"
+        }
+      ]
+    },
+    "jacqueline_faucitt": {
+      "entity_id": "PERSON_004",
+      "timeline_of_impact": [
+        {
+          "date": "2025-05-15",
+          "impact": "confronted_rynette_about_R1_035_000_debt"
+        },
+        {
+          "date": "2025-05-22",
+          "impact": "shopify_platform_destroyed_following_confrontation"
+        }
+      ]
+    },
+    "trust_beneficiaries": {
+      "entity_id": "TRUST_001",
+      "total_loss": "R2,851,247.35",
+      "timeline_of_impact": [
+        {
+          "date": "2025-03-15",
+          "impact": "trust_structure_manipulated"
+        },
+        {
+          "date": "2025-05-02",
+          "impact": "beneficiaries_excluded"
+        },
+        {
+          "date": "2025-06-18",
+          "impact": "systematic_trust_violations"
+        },
+        {
+          "date": "2025-07-25",
+          "impact": "trust_assets_misappropriated"
+        },
+        {
+          "date": "2025-08-10",
+          "impact": "trust_integrity_completely_compromised"
+        }
+      ]
+    }
+  },
+  "bantjies_centrality_analysis": {
+    "total_events_involving_bantjies": 7,
+    "percentage_of_total": "17.1%",
+    "critical_implication": "bantjies_triple_conflict_drives_fraud_concealment",
+    "conflict_structure": {
+      "role_1": "trustee_of_TRUST_001",
+      "role_2": "debtor_to_TRUST_001_R18685000",
+      "role_3": "accountant_for_regima_group",
+      "role_4": "commissioner_of_oaths"
+    },
+    "motive": "prevent_discovery_of_R18685000_debt",
+    "bantjies_event_timeline": [
+      {
+        "event": "EVENT_H005",
+        "date": "2020-02-20",
+        "type": "inter_company_adjustments",
+        "role": "accountant"
+      },
+      {
+        "event": "EVENT_H006",
+        "date": "2020-02-28",
+        "type": "profit_concentration",
+        "role": "accountant"
+      },
+      {
+        "event": "EVENT_H008",
+        "date": "2020-08-13",
+        "type": "trial_balance_distribution",
+        "role": "financial_system_controller"
+      },
+      {
+        "event": "EVENT_025",
+        "date": "2025-03-15",
+        "type": "stock_adjustment_fraud",
+        "role": "fraud_concealment"
+      },
+      {
+        "event": "EVENT_011",
+        "date": "2025-06-06",
+        "type": "fraud_report_received",
+        "role": "unknown_trustee"
+      },
+      {
+        "event": "EVENT_026",
+        "date": "2025-06-10",
+        "type": "audit_dismissal",
+        "role": "conflict_of_interest",
+        "critical": true
+      }
+    ]
+  },
+  "rezonance_debt_trigger_analysis": {
+    "debt_amount": "R1,035,361.34",
+    "part_of_estate": "Kayla",
+    "confrontation_date": "2025-05-15",
+    "confrontation_statement": "keeping_funds_would_be_profiting_from_proceeds_of_murder",
+    "retaliation_sequence": [
+      {
+        "event": "EVENT_009",
+        "date": "2025-05-22",
+        "days_after_confrontation": 7,
+        "type": "shopify_audit_trail_destruction"
+      },
+      {
+        "event": "EVENT_010",
+        "date": "2025-05-29",
+        "days_after_confrontation": 14,
+        "type": "fraudulent_domain_registration"
+      },
+      {
+        "event": "EVENT_012",
+        "date": "2025-06-07",
+        "days_after_confrontation": 23,
+        "type": "secret_card_cancellations"
+      },
+      {
+        "event": "EVENT_026",
+        "date": "2025-06-10",
+        "days_after_confrontation": 26,
+        "type": "bantjies_audit_dismissal"
+      },
+      {
+        "event": "EVENT_027",
+        "date": "2025-06-20",
+        "days_after_confrontation": 36,
+        "type": "domain_switch_email_instruction"
+      }
+    ],
+    "pattern": "systematic_retaliation_following_confrontation_about_kayla_estate_debt"
+  },
+  "strategic_timing_patterns": [
+    {
+      "pattern_id": "STRATEGIC_001",
+      "pattern_name": "Settlement-Interdict Coordination",
+      "event_sequence": [
+        "EVENT_059",
+        "EVENT_060"
+      ],
+      "timing_gap_days": 2,
+      "significance": "Settlement signed 2 days before interdict filing demonstrates premeditation and strategic litigation tactic",
+      "legal_implication": "Not genuine business protection but control and financial positioning"
+    },
+    {
+      "pattern_id": "STRATEGIC_002",
+      "pattern_name": "Knowledge-Perjury Timeline",
+      "event_sequence": [
+        "EVENT_058",
+        "EVENT_061"
+      ],
+      "timing_gap_days": 80,
+      "significance": "Bantjies learned of criminal matters June 10, then ENS Africa suppressed this information August 29",
+      "legal_implication": "Professional misconduct and evidence suppression"
+    }
+  ],
+  "phases": [
+    {
+      "phase_id": 1,
+      "title": "Email Evidence and Legal Action (2025)",
+      "date_range": "2025-06-10 to 2025-08-29",
+      "description": "Period of comprehensive evidence documentation through emails, formal legal notices, and system lockouts. Includes Bantjes' acknowledgment of R10M decline, Daniel's 26-point fraud documentation, POPIA violation notice, Sage system expiry, and evidence sharing with legal counsel.",
+      "key_events": [
+        "2025-06-10: Bantjes email confirming R10M decline",
+        "2025-06-10: Daniel's comprehensive 26-point response",
+        "2025-07-08: POPIA violation notice sent to Pete",
+        "2025-07-23: Sage accounting system expires (Rynette controls reactivation)",
+        "2025-08-29: Daniel forwards Sage evidence to lawyer"
+      ],
+      "significance": "Smoking gun evidence documented and shared with legal counsel",
+      "legal_impact": "very_high"
+    }
+  ]
+}
