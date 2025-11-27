@@ -23,8 +23,8 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 |------------|-----------|
 | **Case Number** | 2025-137857 |
 | **Case Name** | Peter Faucitt v. Jacqueline Faucitt et al. |
-| **Data Model Version** | 19.0 (Updated 2025-11-25) |
-| **Last Updated** | 2025-11-25 |
+| **Data Model Version** | 19.0 (Updated 2025-11-27) |
+| **Last Updated** | 2025-11-27 |
 | **Total Entities** | 30 |
 | **Total Events** | 73 |
 | **Total Timeline Phases** | 8 |
@@ -42,10 +42,10 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 
 Access the latest refined data models:
 
-- **[Entities v19.0](../data_models/entities/entities_refined_2025_11_25_v19.json)** - 30 entities across 7 types
-- **[Events v20.0](../data_models/events/events_refined_2025_11_25_v20.json)** - 73 events across 8 phases
-- **[Relations v16.0](../data_models/relations/relations_refined_2025_11_25_v16.json)** - 64 relations across multiple types
-- **[Timeline v16.0](../data_models/timelines/timeline_refined_2025_11_25_v10.json)** - 8 phases spanning 2017-2025
+- **[Entities v22.0](../data_models/entities/entities_refined_2025_11_25_v19.json)** - 30 entities across 7 types
+- **[Events v23.0](../data_models/events/events_refined_2025_11_25_v20.json)** - 73 events across 8 phases
+- **[Relations v19.0](../data_models/relations/relations_refined_2025_11_25_v16.json)** - 64 relations across multiple types
+- **[Timeline v19.0](../data_models/timelines/timeline_refined_2025_11_25_v10.json)** - 8 phases spanning 2017-2025
 
 ### Entity Profiles
 
@@ -216,7 +216,7 @@ This case is supported by a robust and comprehensive data model:
 - **Events Version:** 19.0
 - **Relations Version:** 15.0
 - **Timeline Version:** 16.0
-- **Last Updated:** 2025-11-25
+- **Last Updated:** 2025-11-27
 - **Total Entities:** 27
 - **Total Events:** 69
 - **Total Relations:** 60
@@ -264,7 +264,7 @@ Browse all evidence files organized by category with direct links to source docu
 
 ## Latest Analysis & Improvements
 
-### [📊 Data Model Analysis (2025-11-25)](DATA_MODEL_ANALYSIS_2025_11_25.md)
+### [📊 Data Model Analysis (2025-11-27)](DATA_MODEL_ANALYSIS_2025_11_25.md)
 
 Complete analysis of all data models with quality metrics, pattern identification, and evidence coverage assessment.
 
@@ -274,15 +274,15 @@ Complete analysis of all data models with quality metrics, pattern identificatio
 - Cross-reference validation completed
 - Complete ad-res-j7 repository integration (2,866 files)
 
-### [💡 Refinement Summary (2025-11-25)](REFINEMENT_SUMMARY_2025_11_25.md)
+### [💡 Refinement Summary (2025-11-27)](REFINEMENT_SUMMARY_2025_11_25.md)
 
 Detailed refinement summary showing version updates and improvements applied.
 
 **Version Updates:**
 - Entities: v17.0 → v18.0
-- Events: v18.0 → v19.0
+- Events: v18.0 → v22.0
 - Relations: v14.0 → v15.0
-- Timeline: v15.0 → v16.0
+- Timeline: v15.0 → v19.0
 
 **Improvements:**
 - Enhanced GitHub Pages references
@@ -322,4 +322,4 @@ The pattern of events supports charges of organized criminal enterprise, systema
 **Extended Evidence:** [github.com/cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)  
 **License:** See LICENSE file for details
 
-**Last Updated:** 2025-11-25
+**Last Updated:** 2025-11-27
