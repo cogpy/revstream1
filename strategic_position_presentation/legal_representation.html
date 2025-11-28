@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Legal Representation Clarified</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background: linear-gradient(135deg, #0A1628 0%, #0D1F38 100%);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        /* Blueprint grid background */
+        .slide-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: 
+                linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+            background-size: 40px 40px;
+            z-index: 1;
+        }
+        
+        /* Header section */
+        .header {
+            position: relative;
+            z-index: 2;
+            padding-left: 60px;
+            padding-top: 50px;
+            margin-bottom: 30px;
+        }
+        
+        .title {
+            font-family: 'Roboto Slab', serif;
+            font-size: 32px;
+            font-weight: 700;
+            color: #D4AF37;
+            line-height: 1.3;
+            max-width: 1100px;
+            border-left: 4px solid #D4AF37;
+            padding-left: 20px;
+        }
+        
+        /* Image section */
+        .image-section {
+            position: relative;
+            z-index: 2;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .image-section img {
+            width: 600px;
+            height: 200px;
+            object-fit: contain;
+        }
+        
+        /* Content wrapper */
+        .content-wrapper {
+            position: relative;
+            z-index: 2;
+            padding-left: 60px;
+            padding-right: 60px;
+        }
+        
+        /* Two column layout for law firms */
+        .firms-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 25px;
+        }
+        
+        .firm-box {
+            background: rgba(255, 255, 255, 0.05);
+            border-top: 3px solid #C9A961;
+            padding-top: 20px;
+            padding-left: 20px;
+            padding-right: 20px;
+            min-height: 140px;
+        }
+        
+        .firm-box.elliott {
+            border-top-color: #D4AF37;
+        }
+        
+        .firm-box.pottas {
+            border-top-color: #4A90E2;
+        }
+        
+        .firm-name {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 18px;
+            font-weight: 600;
+            color: #D4AF37;
+            margin-bottom: 10px;
+        }
+        
+        .firm-box.pottas .firm-name {
+            color: #4A90E2;
+        }
+        
+        .firm-label {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 14px;
+            font-weight: 600;
+            color: #C9A961;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .client-list {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 16px;
+            font-weight: 400;
+            color: #FFFFFF;
+            line-height: 1.6;
+        }
+        
+        /* Strategic contradiction section */
+        .contradiction-section {
+            background: rgba(231, 76, 60, 0.1);
+            border-top: 2px solid #E74C3C;
+            padding-top: 20px;
+            padding-left: 20px;
+            padding-right: 20px;
+            min-height: 120px;
+        }
+        
+        .contradiction-title {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 18px;
+            font-weight: 600;
+            color: #E74C3C;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .contradiction-text {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 16px;
+            font-weight: 400;
+            color: #FFFFFF;
+            line-height: 1.6;
+        }
+        
+        .highlight {
+            color: #D4AF37;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <!-- Blueprint grid applied via ::before pseudo-element -->
+        
+        <!-- Header -->
+        <div class="header">
+            <h1 class="title">Legal Counsel Clarified - Strategic Implications Revealed</h1>
+        </div>
+        
+        <!-- Image section -->
+        <div class="image-section">
+            <img src="/home/ubuntu/revstream1/slide_images/legal_representation.png" alt="Legal Representation Structure">
+        </div>
+        
+        <!-- Content -->
+        <div class="content-wrapper">
+            <!-- Law firms grid -->
+            <div class="firms-grid">
+                <div class="firm-box elliott">
+                    <div class="firm-name">Elliott Attorneys</div>
+                    <div class="firm-label">Represents:</div>
+                    <div class="client-list">
+                        • Peter Andrew Faucitt (Applicant)<br/>
+                        • Rynette Farrar (Third party claiming defamation)
+                    </div>
+                </div>
+                
+                <div class="firm-box pottas">
+                    <div class="firm-name">Pottas Attorneys</div>
+                    <div class="firm-label">Represents:</div>
+                    <div class="client-list">
+                        • Jacqueline Faucitt (First Respondent)<br/>
+                        • Daniel James Faucitt (Second Respondent)
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Strategic contradiction -->
+            <div class="contradiction-section">
+                <div class="contradiction-title">Strategic Contradiction</div>
+                <div class="contradiction-text">
+                    Rynette claims she was <span class="highlight">"not a party"</span> to the litigation and received no notice or right of reply, yet she shares legal counsel (Elliott Attorneys) with Peter, who initiated the litigation. This undermines her claim of being an uninvolved third party and suggests <span class="highlight">coordinated legal strategy</span> between Peter and Rynette.
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

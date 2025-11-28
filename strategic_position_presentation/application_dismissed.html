@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Application 3 Dismissed</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background: linear-gradient(135deg, #0A1628 0%, #0D1F38 100%);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        /* Blueprint grid background */
+        .slide-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: 
+                linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+            background-size: 40px 40px;
+            z-index: 1;
+        }
+        
+        /* Header section */
+        .header {
+            position: relative;
+            z-index: 2;
+            padding-left: 60px;
+            padding-top: 50px;
+            margin-bottom: 40px;
+        }
+        
+        .title {
+            font-family: 'Roboto Slab', serif;
+            font-size: 32px;
+            font-weight: 700;
+            color: #D4AF37;
+            line-height: 1.3;
+            max-width: 1100px;
+            border-left: 4px solid #D4AF37;
+            padding-left: 20px;
+        }
+        
+        /* Main content area */
+        .content-wrapper {
+            position: relative;
+            z-index: 2;
+            display: grid;
+            grid-template-columns: 480px 1fr;
+            gap: 40px;
+            padding-left: 60px;
+            padding-right: 60px;
+            min-height: 550px;
+        }
+        
+        /* Left column - Image */
+        .image-column {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .image-column img {
+            width: 450px;
+            height: 300px;
+            object-fit: contain;
+        }
+        
+        /* Right column - Content */
+        .text-column {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        
+        .section-title {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 20px;
+            font-weight: 600;
+            color: #4A90E2;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        /* Application track record table */
+        .track-record {
+            margin-bottom: 30px;
+        }
+        
+        .application-item {
+            background: rgba(255, 255, 255, 0.05);
+            border-left: 3px solid #C9A961;
+            padding-left: 15px;
+            padding-top: 12px;
+            padding-right: 15px;
+            margin-bottom: 15px;
+            min-height: 70px;
+        }
+        
+        .application-item.dismissed {
+            border-left-color: #E74C3C;
+        }
+        
+        .application-item.pending {
+            border-left-color: #F39C12;
+        }
+        
+        .app-name {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 16px;
+            font-weight: 600;
+            color: #FFFFFF;
+            margin-bottom: 5px;
+        }
+        
+        .app-status {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 14px;
+            font-weight: 400;
+            color: #C9A961;
+            line-height: 1.4;
+        }
+        
+        .app-status.dismissed {
+            color: #E74C3C;
+        }
+        
+        .app-status.pending {
+            color: #F39C12;
+        }
+        
+        /* Strategic significance */
+        .significance {
+            background: rgba(74, 144, 226, 0.1);
+            border-top: 2px solid #4A90E2;
+            padding-top: 20px;
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+        
+        .significance-text {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 16px;
+            font-weight: 400;
+            color: #FFFFFF;
+            line-height: 1.6;
+        }
+        
+        .highlight {
+            color: #D4AF37;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <!-- Blueprint grid applied via ::before pseudo-element -->
+        
+        <!-- Header -->
+        <div class="header">
+            <h1 class="title">Peter's Third Application Dismissed - Perfect Record of Failures</h1>
+        </div>
+        
+        <!-- Main content -->
+        <div class="content-wrapper">
+            <!-- Left column - Image -->
+            <div class="image-column">
+                <img src="/home/ubuntu/revstream1/slide_images/legal_victory.png" alt="Successful Court Dismissal">
+            </div>
+            
+            <!-- Right column - Content -->
+            <div class="text-column">
+                <div class="track-record">
+                    <h2 class="section-title">Application Track Record</h2>
+                    
+                    <div class="application-item">
+                        <div class="app-name">Application 1: Ex Parte Interdict (August 2025)</div>
+                        <div class="app-status">Granted initially, but based on misrepresentations</div>
+                    </div>
+                    
+                    <div class="application-item pending">
+                        <div class="app-name">Application 2: Settlement Enforcement (October 2025)</div>
+                        <div class="app-status pending">Still pending, no court order issued</div>
+                    </div>
+                    
+                    <div class="application-item dismissed">
+                        <div class="app-name">Application 3: Contact Interdict (November 2025)</div>
+                        <div class="app-status dismissed">DISMISSED (25 November 2025)</div>
+                    </div>
+                </div>
+                
+                <div class="significance">
+                    <p class="significance-text">
+                        <span class="highlight">Strategic Significance:</span> The dismissal strengthens Jacqueline and Daniel's position by demonstrating that the court does not find Peter's allegations credible or legally sound. This pattern of failures can be referenced in future proceedings to establish Peter's lack of good faith.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

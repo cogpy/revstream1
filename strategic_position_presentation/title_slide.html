@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strategic Position Analysis</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background: linear-gradient(135deg, #0A1628 0%, #0D1F38 100%);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        /* Blueprint grid background */
+        .slide-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: 
+                linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+            background-size: 40px 40px;
+            z-index: 1;
+        }
+        
+        /* Decorative corner elements */
+        .corner-tl {
+            position: absolute;
+            top: 40px;
+            left: 40px;
+            width: 120px;
+            height: 120px;
+            border-top: 3px solid #D4AF37;
+            border-left: 3px solid #D4AF37;
+            z-index: 2;
+        }
+        
+        .corner-br {
+            position: absolute;
+            bottom: 40px;
+            right: 40px;
+            width: 120px;
+            height: 120px;
+            border-bottom: 3px solid #D4AF37;
+            border-right: 3px solid #D4AF37;
+            z-index: 2;
+        }
+        
+        /* Accent lines */
+        .accent-line-top {
+            position: absolute;
+            top: 180px;
+            left: 80px;
+            right: 80px;
+            height: 2px;
+            background: linear-gradient(90deg, transparent 0%, #4A90E2 50%, transparent 100%);
+            z-index: 2;
+        }
+        
+        .accent-line-bottom {
+            position: absolute;
+            bottom: 180px;
+            left: 80px;
+            right: 80px;
+            height: 2px;
+            background: linear-gradient(90deg, transparent 0%, #4A90E2 50%, transparent 100%);
+            z-index: 2;
+        }
+        
+        /* Content container */
+        .content {
+            position: relative;
+            z-index: 3;
+            text-align: center;
+            max-width: 1000px;
+            padding-top: 40px;
+        }
+        
+        .title {
+            font-family: 'Roboto Slab', serif;
+            font-size: 64px;
+            font-weight: 700;
+            color: #D4AF37;
+            line-height: 1.2;
+            margin-bottom: 30px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        
+        .subtitle {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 32px;
+            font-weight: 400;
+            color: #FFFFFF;
+            line-height: 1.4;
+            margin-bottom: 50px;
+        }
+        
+        .case-info {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 20px;
+            font-weight: 600;
+            color: #4A90E2;
+            margin-bottom: 15px;
+        }
+        
+        .date {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 20px;
+            font-weight: 400;
+            color: #C9A961;
+        }
+        
+        /* Decorative icon */
+        .icon-scales {
+            font-size: 80px;
+            color: #D4AF37;
+            margin-bottom: 40px;
+            opacity: 0.9;
+        }
+        
+        /* Geometric accent shape */
+        .geometric-accent {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 600px;
+            height: 600px;
+            border: 1px solid rgba(212, 175, 55, 0.1);
+            border-radius: 50%;
+            z-index: 1;
+        }
+        
+        .geometric-accent::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 450px;
+            height: 450px;
+            border: 1px solid rgba(74, 144, 226, 0.1);
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <!-- Blueprint grid applied via ::before pseudo-element -->
+        
+        <!-- Decorative corner elements -->
+        <div class="corner-tl"></div>
+        <div class="corner-br"></div>
+        
+        <!-- Accent lines -->
+        <div class="accent-line-top"></div>
+        <div class="accent-line-bottom"></div>
+        
+        <!-- Geometric accent shape -->
+        <div class="geometric-accent"></div>
+        
+        <!-- Main content -->
+        <div class="content">
+            <i class="fas fa-balance-scale icon-scales"></i>
+            
+            <h1 class="title">Strategic Position<br/>Analysis</h1>
+            
+            <p class="subtitle">Response to Letter of Demand<br/>(48-Hour Deadline)</p>
+            
+            <p class="case-info">Revenue Stream Hijacking Case 2025-137857</p>
+            
+            <p class="date">26 November 2025</p>
+        </div>
+    </div>
+</body>
+</html>

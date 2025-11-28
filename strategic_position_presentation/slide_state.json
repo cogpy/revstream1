@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "title": "Strategic Position Analysis",
+    "created": 1764298653.6125185,
+    "last_updated": 1764299088.8283637,
+    "total_slides": 8
+  },
+  "slides": {
+    "title_slide": "edited",
+    "application_dismissed": "edited",
+    "legal_representation": "edited",
+    "jax_dan_strengths": "edited",
+    "immediate_actions": "edited",
+    "evidence_assessment": "edited",
+    "strategic_recommendations": "edited",
+    "conclusion": "edited"
+  },
+  "outline": [
+    {
+      "id": "title_slide",
+      "title": "Strategic Position Analysis",
+      "summary": "Title slide introducing the strategic position analysis for response to Letter of Demand with 48-hour deadline in Case 2025-137857.",
+      "image_plan": "",
+      "slide_template_key": ""
+    },
+    {
+      "id": "application_dismissed",
+      "title": "Peter's Third Application Dismissed - Perfect Record of Failures",
+      "summary": "Application 3 (Contact Interdict) dismissed by court on 25 November 2025, representing Peter's third consecutive unsuccessful application and establishing pattern of frivolous litigation.",
+      "image_plan": "/home/ubuntu/revstream1/slide_images/legal_victory.png - Image 1 explicitly shows a 'Successful Court Dismissal' which directly relates to the slide content about Application 3 being dismissed.",
+      "slide_template_key": ""
+    },
+    {
+      "id": "legal_representation",
+      "title": "Legal Counsel Clarified - Strategic Implications Revealed",
+      "summary": "Legal representation identified: Elliott Attorneys represents Peter & Rynette, Pottas Attorneys represents Jacqueline & Daniel. Rynette's claim of being 'not a party' undermined by sharing counsel with applicant Peter.",
+      "image_plan": "/home/ubuntu/revstream1/slide_images/legal_representation.png - Image 2 illustrates 'Defense Counsel' and 'Plaintiff Counsel' with their respective 'Clients', which is highly relevant to the slide discussing the clarification of legal representation and the strategic contradiction of shared counsel.",
+      "slide_template_key": ""
+    },
+    {
+      "id": "jax_dan_strengths",
+      "title": "Five Key Strengths Position Jax & Dan for Successful Defense",
+      "summary": "Application 3 dismissal, strong evidence (5 of 7 allegations), qualified privilege protection, ongoing interdict violations, and Elliott's internal contradiction provide strategic advantages.",
+      "image_plan": "/home/ubuntu/revstream1/slide_images/strategic_strengths.png - Image 3, titled 'COMPETITIVE ADVANTAGES: KEY STRENGTHS IN LEGAL PRACTICE', visually represents the five key strengths listed in the slide content.",
+      "slide_template_key": ""
+    },
+    {
+      "id": "immediate_actions",
+      "title": "Critical Response Actions Within 48 Hours of Letter Receipt",
+      "summary": "Four immediate actions required: respond to Letter of Demand, assert qualified privilege, compile evidence dossier, and consult with Pottas Attorneys on defamation defense strategy.",
+      "image_plan": "/home/ubuntu/revstream1/slide_images/strategic_action.png - Image 5 shows a process flow with time-sensitive steps (Discovery, Strategy, Motion, Resolution), which aligns well with the slide's focus on four immediate, time-bound actions required within a 48-hour deadline.",
+      "slide_template_key": ""
+    },
+    {
+      "id": "evidence_assessment",
+      "title": "Seven Allegations Analyzed - Five Supported by Strong Evidence",
+      "summary": "Evidence strength assessment table showing 5 allegations with STRONG evidence, 2 with MEDIUM/WEAK evidence, all defensible through qualified privilege and truth defense.",
+      "image_plan": "/home/ubuntu/revstream1/slide_images/evidence_strength.png - Image 4 is a 'Legal Analytical Assessment: Evidence Strength' chart, which is a perfect visual representation for the slide content detailing the evidence strength for seven different allegations.",
+      "slide_template_key": ""
+    },
+    {
+      "id": "strategic_recommendations",
+      "title": "Three-Tier Response Strategy for Maximum Legal Protection",
+      "summary": "Immediate response (48 hours), short-term actions (1 week), and medium-term strategy (1 month) for comprehensive legal defense and strategic positioning.",
+      "image_plan": "",
+      "slide_template_key": ""
+    },
+    {
+      "id": "conclusion",
+      "title": "Strong Position Supported by Evidence, Court Victories, and Strategic Advantages",
+      "summary": "Summary of position with immediate priority to respond to Letter of Demand, strategic advantage from Elliott's contradiction, and recommended evidence-based defense approach.",
+      "image_plan": "",
+      "slide_template_key": ""
+    }
+  ]
+}
