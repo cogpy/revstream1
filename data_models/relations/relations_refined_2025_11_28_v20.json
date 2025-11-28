@@ -6,9 +6,7 @@
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
     "last_updated": "2025-11-28",
-    "changes": "Fixed missing source/target entities (2025-11-28)",
-    "total_relations": 66,
-    "extended_evidence_repository": "https://github.com/cogpy/ad-res-j7"
+    "changes": "Enhanced ad-res-j7 cross-references (2025-11-28)"
   },
   "relations": {
     "ownership_relations": [
@@ -23,32 +21,10 @@
           "company_registration_uk",
           "payment_records_28_months"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "related_events": [
-          "EVENT_001",
-          "EVENT_009",
-          "EVENT_055",
-          "EVENT_056"
-        ],
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_own_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_OWN_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "ANNEXURES/JF02/",
-            "description": "Ownership and platform evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF02"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -67,31 +43,10 @@
           "duration_months": 28,
           "total_investment": "R140,000 - R280,000"
         },
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "related_events": [
-          "EVENT_009",
-          "EVENT_014",
-          "EVENT_027"
-        ],
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_own_002",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_OWN_002.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "ANNEXURES/JF02/",
-            "description": "Ownership and platform evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF02"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -105,30 +60,10 @@
           "domain_registration_records",
           "dns_configuration"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "related_events": [
-          "EVENT_009",
-          "EVENT_027"
-        ],
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_own_003",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_OWN_003.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "ANNEXURES/JF02/",
-            "description": "Ownership and platform evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF02"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -142,30 +77,10 @@
           "domain_registration_2025_05_29"
         ],
         "purpose": "identity_fraud",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "related_events": [
-          "EVENT_010",
-          "EVENT_027"
-        ],
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_own_004",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_OWN_004.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "ANNEXURES/JF02/",
-            "description": "Ownership and platform evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF02"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -180,26 +95,10 @@
           "company_registration",
           "shareholding_records"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_own_005",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_OWN_005.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "ANNEXURES/JF02/",
-            "description": "Ownership and platform evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF02"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -214,26 +113,26 @@
           "company_registration",
           "shareholding_records"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+        ]
+      },
+      {
+        "relation_id": "REL_OWN_007",
+        "from_entity": "PERSON_001,PERSON_005",
+        "to_entity": "ORG_012",
+        "relation_type": "owns",
+        "description": "Peter and Daniel Faucitt own RegimaSA (Pty) Ltd",
+        "evidence": [
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors and shareholders"
         ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_own_006",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_OWN_006.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "ANNEXURES/JF02/",
-            "description": "Ownership and platform evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF02"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "significance": "Joint ownership establishes both Peter and Daniel's control and fiduciary duties",
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ],
@@ -249,27 +148,10 @@
           "director_appointment",
           "operational_decisions"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "related_events": [
-          "EVENT_004",
-          "EVENT_005",
-          "EVENT_012",
-          "EVENT_014"
-        ],
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_ctrl_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_CTRL_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -287,26 +169,10 @@
           "payment_redirection_2025_04_01",
           "bank_account_change_2025_04_14"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "related_events": [
-          "EVENT_026",
-          "EVENT_047",
-          "EVENT_058"
-        ],
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_ctrl_002",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_CTRL_002.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -320,21 +186,10 @@
           "platform_access_logs",
           "operational_records"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_ctrl_003",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_CTRL_003.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -348,21 +203,10 @@
           "platform_access_logs",
           "operational_records"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_ctrl_004",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_CTRL_004.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -381,100 +225,60 @@
           "trust_asset_misappropriation",
           "systematic_trust_violations"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_ctrl_005",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_CTRL_005.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
-        "relation_id": "REL_061",
+        "relation_id": "REL_CTRL_006",
         "from_entity": "PERSON_001",
-        "to_entity": "BANK_ACCOUNT_001",
-        "relation_type": "CONTROLS",
-        "relation_description": "Peter Faucitt controls Regima Skin Savings Account, used in systematic emptying",
-        "evidence_files": [
-          "CCE20250911_0000.jpg"
-        ],
-        "github_pages_reference": "https://cogpy.github.io/revstream1/application-2-evidence.md#control-relations",
-        "significance": "Control over account emptying operation",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_061.html",
+        "to_entity": "ORG_012",
+        "relation_type": "controls_as_director",
+        "description": "Peter Faucitt (P.A. Faucitt) is director of RegimaSA",
         "evidence": [
-          "relationship_documentation",
-          "cross_reference_analysis"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors' Report page 4"
         ],
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
-        ],
-        "source_entity": "PERSON_002",
-        "target_entity": "ORG_008"
+        "significance": "Establishes Peter's control and fiduciary duties; contradicts claims of separation from Regima entities",
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+        ]
       },
       {
-        "relation_id": "REL_062",
-        "from_entity": "PERSON_001",
-        "to_entity": "BANK_ACCOUNT_002",
-        "relation_type": "CONTROLS",
-        "relation_description": "Peter Faucitt controls Villa Via Savings Account, used in systematic emptying",
-        "evidence_files": [
-          "CCE20250911_0001.jpg"
-        ],
-        "github_pages_reference": "https://cogpy.github.io/revstream1/application-2-evidence.md#control-relations",
-        "significance": "Control over account emptying operation",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_062.html",
+        "relation_id": "REL_CTRL_007",
+        "from_entity": "PERSON_005",
+        "to_entity": "ORG_012",
+        "relation_type": "controls_as_director",
+        "description": "Daniel Faucitt (D.J. Faucitt) is director of RegimaSA",
         "evidence": [
-          "relationship_documentation",
-          "cross_reference_analysis"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors' Report page 4"
         ],
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
-        ],
-        "source_entity": "PERSON_002",
-        "target_entity": "ORG_008"
+        "significance": "Establishes Daniel's control and fiduciary duties",
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+        ]
       },
       {
-        "relation_id": "REL_063",
-        "from_entity": "PERSON_001",
-        "to_entity": "BANK_ACCOUNT_003",
-        "relation_type": "CONTROLS",
-        "relation_description": "Peter Faucitt controls Strategic Savings Account, used in systematic emptying",
-        "evidence_files": [
-          "CCE20250911_0005.jpg"
-        ],
-        "github_pages_reference": "https://cogpy.github.io/revstream1/application-2-evidence.md#control-relations",
-        "significance": "Control over account emptying operation",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_063.html",
+        "relation_id": "REL_CTRL_008",
+        "from_entity": "PERSON_002",
+        "to_entity": "ORG_001",
+        "relation_type": "controls_sage_accounting",
+        "description": "Rynette Farrar is Sage subscription owner for RegimA WWD; controls access to financial records",
         "evidence": [
-          "relationship_documentation",
-          "cross_reference_analysis"
+          "Sage screenshot 2025-08-25 - Accounting Registration Expired",
+          "Subscription owner: Rynette Farrar"
         ],
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
-        ],
-        "source_entity": "PERSON_002",
-        "target_entity": "ORG_008"
+        "significance": "Can deny access to financial records by not renewing subscription; system expired July 23, 2025",
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+        ]
       }
     ],
     "conspiracy_relations": [
@@ -492,33 +296,10 @@
           "coordinated_fund_diversions_2025_06_30"
         ],
         "pattern": "systematic_coordination",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "related_events": [
-          "EVENT_001",
-          "EVENT_003",
-          "EVENT_004",
-          "EVENT_006",
-          "EVENT_012"
-        ],
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_consp_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_CONSP_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "2-CRIMINAL-CASE/",
-            "description": "Criminal conspiracy evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/2-CRIMINAL-CASE"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -532,30 +313,10 @@
           "domain_registration_identity_fraud_2025_05_29"
         ],
         "relationship": "mother_son",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "related_events": [
-          "EVENT_010",
-          "EVENT_027"
-        ],
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_consp_002",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_CONSP_002.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "2-CRIMINAL-CASE/",
-            "description": "Criminal conspiracy evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/2-CRIMINAL-CASE"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -569,26 +330,10 @@
           "coordinated_fund_diversions_2025_06_30",
           "financial_evidence_concealment_2025_08_20"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_consp_003",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_CONSP_003.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "2-CRIMINAL-CASE/",
-            "description": "Criminal conspiracy evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/2-CRIMINAL-CASE"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -611,61 +356,10 @@
         ],
         "pattern": "systematic_coordination",
         "motive": "R18,685,000_debt_concealment",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_consp_004",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_CONSP_004.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "2-CRIMINAL-CASE/",
-            "description": "Criminal conspiracy evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/2-CRIMINAL-CASE"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
-        ]
-      },
-      {
-        "source_entity": "Peter Faucitt",
-        "target_entity": "Kachan",
-        "relation_type": "previous_theft_victim",
-        "description": "Pete previously took revenue from Kachan by instructing people to pay into another account - same pattern as with Daniel",
-        "evidence_source": "Email: Daniel's comprehensive response (2025-06-10)",
-        "date_established": "2025-06-10",
-        "significance": "Pattern of theft behavior; prior bad acts",
-        "legal_impact": "high",
-        "evidence": [
-          "see_ad_res_j7_comprehensive_evidence"
-        ],
-        "evidence_note": "Detailed evidence available in ad-res-j7 repository",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#unknown",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "2-CRIMINAL-CASE/",
-            "description": "Criminal conspiracy evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/2-CRIMINAL-CASE"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ],
@@ -684,20 +378,10 @@
           "invoice_issuance_without_ownership"
         ],
         "financial_impact": "R3,141,647.70",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_dep_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_DEP_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -713,20 +397,10 @@
           "invoices_issued_by_rwd_za",
           "no_payment_for_platform_by_rwd_za"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_dep_002",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_DEP_002.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ],
@@ -748,26 +422,10 @@
           "bank_statements",
           "transaction_logs"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_fin_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_FIN_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "ANNEXURES/JF08/",
-            "description": "Financial relationship evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -786,26 +444,10 @@
           "bank_statements",
           "transaction_logs"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_fin_002",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_FIN_002.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "ANNEXURES/JF08/",
-            "description": "Financial relationship evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -822,26 +464,10 @@
           "bank_statements",
           "transaction_logs"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_fin_003",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_FIN_003.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "ANNEXURES/JF08/",
-            "description": "Financial relationship evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -858,26 +484,10 @@
           "bank_statements",
           "transaction_logs"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_fin_004",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_FIN_004.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "ANNEXURES/JF08/",
-            "description": "Financial relationship evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -897,26 +507,10 @@
           "transaction_logs",
           "bank_statements"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_fin_005",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_FIN_005.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "ANNEXURES/JF08/",
-            "description": "Financial relationship evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -933,130 +527,109 @@
           "transaction_logs",
           "bank_statements"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_fin_006",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_FIN_006.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "ANNEXURES/JF08/",
-            "description": "Financial relationship evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
-        "source_entity": "Daniel Faucitt",
-        "target_entity": "ReZonance",
-        "relation_type": "director_loan",
-        "description": "ReZonance owes Daniel R1.8 million as director from his investments over the years",
-        "evidence_source": "Email: Daniel's comprehensive response (2025-06-10)",
-        "amount": "R1,800,000",
-        "date_established": "2025-06-10",
-        "significance": "Substantial director loan; motive to preserve company",
-        "legal_impact": "high",
+        "relation_id": "REL_FIN_007",
+        "from_entity": "ORG_012",
+        "to_entity": "ORG_008",
+        "relation_type": "loan_receivable",
+        "description": "RegimaSA has R1,853 loan receivable from ReZonance (Pty) Ltd",
+        "amount": 1853,
+        "currency": "ZAR",
+        "date": "2019-02-28",
+        "terms": "Unsecured, no fixed repayment terms, interest at rates agreed upon from time to time",
         "evidence": [
-          "see_ad_res_j7_comprehensive_evidence"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 2, page 11"
         ],
-        "evidence_note": "Detailed evidence available in ad-res-j7 repository",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#unknown",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "ANNEXURES/JF08/",
-            "description": "Financial relationship evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "significance": "Establishes financial relationship between RegimaSA and ReZonance during debt accumulation period",
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
-        "source_entity": "RegimA Skin Treatments",
-        "target_entity": "ReZonance",
-        "relation_type": "owes_debt",
-        "description": "RegimA Skin Treatments owes over R1M to ReZonance (as of Feb 2023)",
-        "evidence_source": "Email: Daniel's comprehensive response (2025-06-10); Rezonance Febr 2023.PDF",
-        "amount": "R1,000,000+",
-        "date_established": "2023-02",
-        "significance": "Legitimate unpaid debt",
-        "legal_impact": "high",
+        "relation_id": "REL_FIN_008",
+        "from_entity": "ORG_012",
+        "to_entity": "PERSON_005",
+        "relation_type": "loan_payable_shareholder",
+        "description": "RegimaSA owes R6,000 to Daniel Faucitt (D.A. Faucitt) as shareholder loan",
+        "amount": 6000,
+        "currency": "ZAR",
+        "date": "2019-02-28",
+        "terms": "Unsecured, no fixed repayment terms, interest at rates agreed upon from time to time",
         "evidence": [
-          "see_ad_res_j7_comprehensive_evidence"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 4, page 11"
         ],
-        "evidence_note": "Detailed evidence available in ad-res-j7 repository",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#unknown",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "ANNEXURES/JF08/",
-            "description": "Financial relationship evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "significance": "Establishes Daniel's financial investment and interest in RegimaSA",
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
-        "relation_id": "REL_064",
-        "from_entity": "PERSON_003",
-        "to_entity": "PERSON_001",
-        "relation_type": "FINANCIAL_OBLIGATION",
-        "relation_description": "Bantjies has R70.58M debt obligation to Peter Faucitt under call option agreement",
-        "evidence_files": [
-          "BantjiesInvestmentPayoutDates2026-05.pdf"
-        ],
-        "github_pages_reference": "https://cogpy.github.io/revstream1/application-2-evidence.md#bantjies-debt",
-        "significance": "Financial motive for curatorship conspiracy",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_064.html",
+        "relation_id": "REL_FIN_009",
+        "from_entity": "ORG_012",
+        "to_entity": "ORG_013",
+        "relation_type": "loan_payable",
+        "description": "RegimaSA owes R500 to Unicorn Dynamics (Pty) Ltd",
+        "amount": 500,
+        "currency": "ZAR",
+        "date": "2019-02-28",
+        "terms": "Unsecured, no fixed repayment terms, interest at rates agreed upon from time to time",
         "evidence": [
-          "relationship_documentation",
-          "cross_reference_analysis"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 5, page 11"
         ],
-        "ad_res_j7_evidence": [
-          {
-            "source": "ANNEXURES/JF08/",
-            "description": "Financial relationship evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "significance": "Establishes financial relationship with Unicorn Dynamics, another related party entity",
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+        ]
+      },
+      {
+        "relation_id": "REL_FIN_010",
+        "from_entity": "ORG_001",
+        "to_entity": "ORG_008",
+        "relation_type": "debt_payment",
+        "description": "RegimA WWD paid R157,315.35 to ReZonance (July-December 2022)",
+        "amount": 157315.35,
+        "currency": "ZAR",
+        "period": "2022-07-30 to 2022-12-29",
+        "evidence": [
+          "Rez-WWD.pdf - Supplier Transactions Report"
         ],
-        "source_entity": "ORG_002",
-        "target_entity": "ORG_008"
+        "significance": "Large debt payments reducing ReZonance debt from R85k to R22k",
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+        ]
+      },
+      {
+        "relation_id": "REL_FIN_011",
+        "from_entity": "ORG_001",
+        "to_entity": "ORG_013",
+        "relation_type": "supplier_payment",
+        "description": "RegimA WWD paid R20,529.03 to Unicorn Dynamics (March 2022 - February 2023)",
+        "amount": 20529.03,
+        "currency": "ZAR",
+        "period": "2022-03-01 to 2023-02-03",
+        "evidence": [
+          "Unicorn-WWD.pdf - Supplier Transactions Report"
+        ],
+        "significance": "Cleared all Unicorn Dynamics debts by Feb 2023",
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+        ]
       }
     ],
     "victim_perpetrator_relations": [
@@ -1072,21 +645,10 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_vp_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_VP_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -1101,21 +663,10 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_vp_002",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_VP_002.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -1130,21 +681,10 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_vp_003",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_VP_003.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ],
@@ -1161,20 +701,10 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_emp_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_EMP_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -1188,49 +718,10 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_emp_002",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_EMP_002.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
-        ]
-      },
-      {
-        "source_entity": "Danie Bantjes",
-        "target_entity": "Rynette Farrar",
-        "relation_type": "drafted_employment_contract",
-        "description": "Bantjes drafted Rynette's employment offer letter and advised on notice periods",
-        "evidence_source": "Email: OFFER OF EMPLOYMENT LETTER - RYNETTE FARRAR (2020-03-19)",
-        "date_established": "2020-03-19",
-        "significance": "Bantjes involved in Rynette's employment from the start",
-        "legal_impact": "medium",
-        "evidence": [
-          "see_ad_res_j7_comprehensive_evidence"
-        ],
-        "evidence_note": "Detailed evidence available in ad-res-j7 repository",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#unknown",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ],
@@ -1248,20 +739,10 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_evid_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_EVID_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -1277,20 +758,10 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_evid_002",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_EVID_002.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ],
@@ -1306,21 +777,10 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_temp_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_TEMP_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -1334,21 +794,10 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_temp_002",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_TEMP_002.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -1362,21 +811,10 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_temp_003",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_TEMP_003.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -1391,21 +829,10 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_temp_004",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_TEMP_004.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -1420,21 +847,10 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_temp_005",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_TEMP_005.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -1449,21 +865,10 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_temp_006",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_TEMP_006.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ],
@@ -1481,25 +886,10 @@
         ],
         "significance": "creates_motive_for_fraud_concealment",
         "triple_conflict": "trustee_debtor_accountant",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_debt_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_DEBT_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "ANNEXURES/JF08/",
-            "description": "Financial relationship evidence",
-            "url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08"
-          },
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -1516,20 +906,10 @@
           "payment_reconciliation"
         ],
         "significance": "trigger_for_jax_confrontation_and_retaliation",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_debt_002",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_DEBT_002.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ],
@@ -1546,20 +926,10 @@
           "estate_documentation"
         ],
         "significance": "jax_confrontation_about_profiting_from_murder_proceeds",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_estate_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_ESTATE_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ],
@@ -1578,21 +948,10 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_witness_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_WITNESS_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -1609,21 +968,10 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_witness_002",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_WITNESS_002.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ],
@@ -1652,22 +1000,11 @@
           "controlled_financial_systems_with_rynette"
         ],
         "significance": "explains_systematic_fraud_concealment_and_retaliation",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_conflict_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_CONFLICT_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
-        ],
-        "target_entity": "PERSON_001"
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+        ]
       }
     ],
     "email_control_relations": [
@@ -1686,49 +1023,63 @@
         ],
         "significance": "critical_control_mechanism_for_fraud",
         "additional_notes": "Rynette controlled Peter's email address, allowing her to control accounts system and financial communications",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_email_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_EMAIL_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
-        "source_entity": "Rynette Farrar",
-        "target_entity": "Pete@regima.com",
-        "relation_type": "has_unauthorized_access_to",
-        "description": "Rynette has access to and uses Pete's email account Pete@regima.com",
-        "evidence_source": "Sage screenshot (2025-06-20)",
-        "date_established": "2025-06-20",
-        "significance": "Smoking gun evidence of email control",
-        "legal_impact": "very_high",
+        "relation_id": "REL_EMAIL_001",
+        "relation_type": "email_control",
+        "source_entity": "PERSON_002",
+        "target_entity": "PERSON_001",
+        "control_type": "email_account_control",
+        "legal_status": "unauthorized",
         "evidence": [
-          "see_ad_res_j7_comprehensive_evidence"
+          "rynette_used_peters_email_for_accounts_system",
+          "trial_balance_email_2020_08_13"
         ],
-        "evidence_note": "Detailed evidence available in ad-res-j7 repository",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_3"
+        "additional_notes": "Rynette controlled accounts system using Peter's email despite Linda being employed as bookkeeper",
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+        ]
+      },
+      {
+        "relation_id": "REL_EMAIL_002",
+        "relation_type": "email_seizure",
+        "source_entity": "PERSON_001",
+        "target_entity": "PERSON_008",
+        "control_type": "court_order_seizure",
+        "legal_status": "disputed",
+        "evidence": [
+          "court_order_to_seize_kayla_email",
+          "interference_with_law_enforcement_freeze"
         ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#unknown",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "additional_notes": "Court order obtained to seize account from Kayla's email, interfering with law enforcement investigation",
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+        ]
+      },
+      {
+        "relation_id": "REL_EMAIL_002",
+        "from_entity": "PERSON_002",
+        "to_entity": "PERSON_001",
+        "relation_type": "email_access",
+        "description": "Rynette Farrar has user account with Pete@regima.com in Sage system",
+        "evidence": [
+          "Sage screenshot 2025-06-20 - Control User Access",
+          "User list shows: Rynette Farrar - Pete@regima.com"
+        ],
+        "significance": "Direct proof of Rynette's access to Peter's email; explains how she could send emails as Peter",
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ],
@@ -1744,20 +1095,10 @@
           "trust_deed",
           "court_documents"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_trustee_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_TRUSTEE_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -1780,20 +1121,37 @@
             "commissioner_of_oaths"
           ]
         },
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+        ]
+      },
+      {
+        "relation_id": "REL_TRUSTEE_001",
+        "relation_type": "unknown_trustee",
+        "source_entity": "PERSON_007",
+        "target_entity": "TRUST_001",
+        "control_type": "fiduciary_control",
+        "legal_status": "undisclosed_conflict",
+        "evidence": [
+          "trustee_appointment_undisclosed",
+          "R18685000_debt_to_trust",
+          "triple_conflict_trustee_debtor_accountant"
         ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_trustee_002",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_TRUSTEE_002.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "conflict_of_interest": {
+          "roles": [
+            "trustee",
+            "debtor_R18685000",
+            "accountant",
+            "commissioner_of_oaths"
+          ],
+          "motive": "prevent_discovery_of_massive_debt"
+        },
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ],
@@ -1807,20 +1165,10 @@
         "evidence": [
           "trust_deed"
         ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_benef_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_BENEF_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -1833,20 +1181,47 @@
           "trust_deed"
         ],
         "additional_notes": "Beneficiary being attacked by trustees using trust structure",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+        ]
+      },
+      {
+        "relation_id": "REL_BENEF_001",
+        "relation_type": "legitimate_beneficiary",
+        "source_entity": "PERSON_005",
+        "target_entity": "TRUST_001",
+        "beneficiary_type": "family_trust_beneficiary",
+        "legal_status": "legitimate",
+        "evidence": [
+          "trust_deed",
+          "beneficiary_documentation"
         ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_benef_002",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_BENEF_002.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+        ]
+      },
+      {
+        "relation_id": "REL_BENEF_002",
+        "relation_type": "excluded_beneficiary",
+        "source_entity": "PERSON_005",
+        "target_entity": "TRUST_001",
+        "beneficiary_type": "unauthorized_exclusion",
+        "legal_status": "fraudulent",
+        "evidence": [
+          "unauthorized_beneficiary_changes_2025_05_02"
+        ],
+        "perpetrators": [
+          "PERSON_001",
+          "PERSON_002"
+        ],
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ],
@@ -1863,21 +1238,10 @@
         ],
         "significance": "witness_to_financial_control",
         "additional_notes": "Bernadine Wright received trial balance from Bantjes, witness to his control over financial systems",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_prof_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_PROF_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       },
       {
@@ -1891,21 +1255,10 @@
         ],
         "legal_status": "demonstrates_control",
         "additional_notes": "Bantjies sent trial balance to Bernadine Wright for financial statement finalization meeting",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_prof_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_PROF_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ],
@@ -1923,20 +1276,10 @@
           "villa_via_trial_balance_apr_2020"
         ],
         "additional_notes": "Villa Via members loan account showing R22.8M capital extraction, monthly rental income R4.4M",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_extract_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_EXTRACT_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ],
@@ -1955,23 +1298,11 @@
           "loan_agreement"
         ],
         "additional_notes": "SLG pays interest to RST per loan agreement",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_loan_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_LOAN_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
-        ],
-        "source_entity": "ORG_002",
-        "target_entity": "ORG_008"
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+        ]
       },
       {
         "relation_id": "REL_LOAN_002",
@@ -1986,23 +1317,11 @@
           "trial_balance_2020"
         ],
         "additional_notes": "RST advances R750K to RWW for production costs",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_loan_002",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_LOAN_002.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
-        ],
-        "source_entity": "ORG_002",
-        "target_entity": "ORG_008"
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+        ]
       }
     ],
     "knowledge_acquisition_relations": [
@@ -2018,20 +1337,10 @@
         ],
         "legal_status": "knowledge_before_perjury",
         "critical_significance": "Bantjies knew of criminal matters before signing confirmatory affidavit",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_knowledge_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_KNOWLEDGE_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ],
@@ -2049,119 +1358,28 @@
         ],
         "legal_status": "strategic_litigation_tactic",
         "critical_significance": "Settlement signed 2 days before interdict filing demonstrates premeditation",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_legal_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_LEGAL_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ],
-    "system_control_relations": [
+    "professional_relations": [
       {
-        "source_entity": "Rynette Farrar",
-        "target_entity": "Sage Accounting System",
-        "relation_type": "subscription_owner",
-        "description": "Rynette is the subscription owner for RegimA Worldwide Distribution's Sage accounting system",
-        "evidence_source": "Sage screenshot (2025-08-25)",
-        "date_established": "2025-08-25",
-        "significance": "Controls access to all financial records",
-        "legal_impact": "high",
+        "relation_id": "REL_PROF_003",
+        "from_entity": "PERSON_012",
+        "to_entity": "ORG_012",
+        "relation_type": "prepared_financial_statements",
+        "description": "Marisca Meyer prepared RegimaSA 2019 financial statements (issued 25 June 2025)",
         "evidence": [
-          "see_ad_res_j7_comprehensive_evidence"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Preparer, page 1"
         ],
-        "evidence_note": "Detailed evidence available in ad-res-j7 repository",
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#unknown",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
-        ]
-      }
-    ],
-    "legal_representation_relations": [
-      {
-        "relation_id": "REL_LEGAL_001",
-        "relation_type": "legal_representation",
-        "source_entity": "ORG_011",
-        "target_entity": "PERSON_002",
-        "strength": "formal_legal_representation",
-        "legal_status": "active",
-        "evidence": [
-          "KL0034_letter_of_demand",
-          "KF0019_letter_to_opposing_attorney"
-        ],
-        "start_date": "2025-11-26",
-        "related_applications": [
-          "APPLICATION_1"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "related_events": [
-          "EVENT_075",
-          "EVENT_076",
-          "EVENT_077"
-        ],
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_legal_001",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_LEGAL_001.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
-        ]
-      },
-      {
-        "relation_id": "REL_LEGAL_002",
-        "relation_type": "legal_representation",
-        "source_entity": "ORG_012",
-        "target_entity": "PERSON_001",
-        "strength": "formal_legal_representation",
-        "legal_status": "active",
-        "evidence": [
-          "KL0034_letter_of_demand",
-          "KF0019_letter_to_opposing_attorney"
-        ],
-        "related_applications": [
-          "APPLICATION_1",
-          "APPLICATION_2",
-          "APPLICATION_3"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "related_events": [
-          "EVENT_074",
-          "EVENT_076",
-          "EVENT_077"
-        ],
-        "github_pages_reference": "https://cogpy.github.io/revstream1/NETWORK_ANALYSIS.md#rel_legal_002",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
-        "github_pages_url": "https://cogpy.github.io/revstream1/relations/REL_LEGAL_002.html",
-        "ad_res_j7_evidence": [
-          {
-            "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
-            "description": "Complete evidence catalog",
-            "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
-          }
+        "significance": "Retrospective preparation 6+ years after period end; timing coincides with legal proceedings",
+        "ad_res_j7_references": [
+          "Relationship evidence in ANNEXURES",
+          "Supporting documentation in case_2025_137857",
+          "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
         ]
       }
     ]

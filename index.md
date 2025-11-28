@@ -173,11 +173,22 @@ November 2025: Application 3 filed (contact interdict)
 
 ## Data & Evidence Integrity
 
-This case is supported by a robust and comprehensive data model (Version 11.0, updated 2025-11-19). A full analysis of the data integrity, structure, and completeness is available for review.
+This case is supported by a robust and comprehensive data model (Entities v23.0, Events v25.0, Relations v20.0, updated 2025-11-28). A full analysis of the data integrity, structure, and completeness is available for review.
 
 **[📄 View Full Data Model Analysis Report](data-model-analysis.md)**
 
 ---
+
+
+
+## Extended Evidence Repository
+
+For comprehensive evidence documentation, see the extended evidence repository at [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7), which contains:
+
+- **2,866 files** of supporting evidence
+- **226.78 MB** of documentation
+- Comprehensive evidence index in `COMPREHENSIVE_EVIDENCE_INDEX.md`
+- Organized annexures and case documentation
 
 ## Evidence Resources
 

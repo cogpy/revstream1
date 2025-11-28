@@ -1,0 +1,545 @@
+{
+  "metadata": {
+    "generated": "2025-11-28T05:35:26.943361",
+    "revstream_version": {
+      "entities": "22.0",
+      "events": "24.0",
+      "relations": "6.0",
+      "timeline": "17.0"
+    }
+  },
+  "entities_analysis": {
+    "total_persons": 12,
+    "total_organizations": 11,
+    "issues": [],
+    "improvements": []
+  },
+  "events_analysis": {
+    "total_events": 77,
+    "events_by_phase": {
+      "PHASE_000": [
+        "EVENT_H001",
+        "EVENT_H002",
+        "EVENT_H003",
+        "EVENT_H004",
+        "EVENT_H005",
+        "EVENT_051",
+        "EVENT_H006",
+        "EVENT_052",
+        "EVENT_H007",
+        "EVENT_053",
+        "EVENT_H008",
+        "EVENT_048",
+        "EVENT_H018",
+        "EVENT_H009"
+      ],
+      "PHASE_005": [
+        "EVENT_D001",
+        "EVENT_D002",
+        "EVENT_H010",
+        "EVENT_D003",
+        "EVENT_D004",
+        "EVENT_D005",
+        "EVENT_016",
+        "EVENT_017",
+        "EVENT_018"
+      ],
+      "PHASE_001": [
+        "EVENT_023",
+        "EVENT_054",
+        "EVENT_022",
+        "EVENT_028",
+        "EVENT_001",
+        "EVENT_024",
+        "EVENT_002",
+        "EVENT_025",
+        "EVENT_003",
+        "EVT-063",
+        "EVT-064",
+        "EVT-065",
+        "EVT-066",
+        "EVT-067",
+        "EVT-068",
+        "EVT-069"
+      ],
+      "PHASE_002": [
+        "EVENT_004",
+        "EVENT_005",
+        "EVENT_029",
+        "EVENT_055",
+        "EVENT_056"
+      ],
+      "PHASE_003": [
+        "EVENT_006",
+        "EVENT_007",
+        "EVENT_008",
+        "EVENT_050",
+        "EVENT_009",
+        "EVENT_010"
+      ],
+      "PHASE_004": [
+        "EVENT_011",
+        "EVENT_057",
+        "EVENT_012",
+        "EVENT_058",
+        "EVENT_026",
+        "EVENT_047",
+        "EVENT_062",
+        "EVENT_013",
+        "EVENT_014",
+        "EVENT_027",
+        "EVENT_015"
+      ],
+      "PHASE_006": [
+        "EVENT_019",
+        "EVENT_059",
+        "EVENT_049",
+        "EVENT_060",
+        "EVENT_063",
+        "EVENT_020",
+        "EVENT_061",
+        "EVENT_021"
+      ]
+    },
+    "events_without_phase": [
+      "EVENT_070",
+      "EVENT_071",
+      "EVENT_072",
+      "EVENT_073",
+      "EVENT_074",
+      "EVENT_075",
+      "EVENT_076",
+      "EVENT_077"
+    ],
+    "issues": [
+      "Event EVENT_070 missing phase classification",
+      "Event EVENT_071 missing phase classification",
+      "Event EVENT_072 missing phase classification",
+      "Event EVENT_073 missing phase classification",
+      "Event EVENT_074 missing phase classification",
+      "Event EVENT_075 missing phase classification",
+      "Event EVENT_076 missing phase classification",
+      "Event EVENT_077 missing phase classification"
+    ],
+    "improvements": []
+  },
+  "relations_analysis": {
+    "total_relations": 70,
+    "relation_categories": [
+      "ownership_relations",
+      "control_relations",
+      "conspiracy_relations",
+      "dependency_relations",
+      "financial_relations",
+      "victim_perpetrator_relations",
+      "employment_relations",
+      "evidence_destruction_relations",
+      "temporal_relations",
+      "debt_relations",
+      "estate_relations",
+      "witness_relations",
+      "conflict_relations",
+      "email_control_relations",
+      "trustee_relations",
+      "beneficiary_relations",
+      "professional_correspondence_relations",
+      "capital_extraction_relations",
+      "inter_company_loan_relations",
+      "knowledge_acquisition_relations",
+      "strategic_coordination_relations",
+      "professional_relations"
+    ],
+    "issues": [],
+    "improvements": [
+      {
+        "relation_id": "REL_OWN_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_OWN_002",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_OWN_003",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_OWN_004",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_OWN_005",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_OWN_006",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_OWN_007",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_CTRL_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_CTRL_002",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_CTRL_003",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_CTRL_004",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_CTRL_005",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_CTRL_006",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_CTRL_007",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_CTRL_008",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_CONSP_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_CONSP_002",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_CONSP_003",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_CONSP_004",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_DEP_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_DEP_002",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_FIN_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_FIN_002",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_FIN_003",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_FIN_004",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_FIN_005",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_FIN_006",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_FIN_007",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_FIN_008",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_FIN_009",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_FIN_010",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_FIN_011",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_VP_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_VP_002",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_VP_003",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_EMP_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_EMP_002",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_EVID_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_EVID_002",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_TEMP_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_TEMP_002",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_TEMP_003",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_TEMP_004",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_TEMP_005",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_TEMP_006",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_DEBT_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_DEBT_002",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_ESTATE_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_WITNESS_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_WITNESS_002",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_CONFLICT_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_EMAIL_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_EMAIL_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_EMAIL_002",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_EMAIL_002",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_TRUSTEE_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_TRUSTEE_002",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_TRUSTEE_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_BENEF_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_BENEF_002",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_BENEF_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_BENEF_002",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_PROF_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_PROF_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_EXTRACT_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_LOAN_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_LOAN_002",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_KNOWLEDGE_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_LEGAL_001",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      },
+      {
+        "relation_id": "REL_PROF_003",
+        "type": "add_ad_res_j7_references",
+        "suggestion": "Add cross-references to ad-res-j7 evidence"
+      }
+    ]
+  },
+  "timeline_analysis": {
+    "total_phases": 1,
+    "issues": [
+      "Phase 1 has no events",
+      "Phase 1 missing date range"
+    ],
+    "improvements": []
+  },
+  "ad_res_j7_cross_reference": {
+    "total_files": 0,
+    "total_size": 0,
+    "categories": {},
+    "key_directories": [
+      "ANNEXURES",
+      "case_2025_137857",
+      "FINAL_AFFIDAVIT_PACKAGE",
+      "evidence"
+    ]
+  },
+  "overall_recommendations": [
+    {
+      "priority": "high",
+      "category": "data_quality",
+      "recommendation": "Address 10 identified data quality issues",
+      "action": "Review and fix all identified issues in entities, events, relations, and timeline"
+    },
+    {
+      "priority": "high",
+      "category": "evidence_integration",
+      "recommendation": "Enhance cross-references to ad-res-j7 evidence repository",
+      "action": "Add ad_res_j7_references to all entities, events, and relations"
+    },
+    {
+      "priority": "medium",
+      "category": "timeline_coherence",
+      "recommendation": "Classify 8 events without phase",
+      "action": "Assign appropriate phase classifications to all events"
+    }
+  ]
+}
