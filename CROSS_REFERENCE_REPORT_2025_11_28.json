@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "generated": "2025-11-28T02:25:12.291392",
+    "ad_res_j7_path": "/home/ubuntu/ad-res-j7",
+    "revstream_path": "/home/ubuntu/revstream1"
+  },
+  "evidence_repository_summary": {
+    "ANNEXURES": {
+      "total_files": 277,
+      "categories": {
+        "markdown": 9,
+        "JF_evidence": 268
+      }
+    },
+    "case_2025_137857": {
+      "total_files": 259,
+      "categories": {
+        "json": 68,
+        "markdown": 83,
+        "pdfs": 27,
+        "emails": 12,
+        "images": 65,
+        "other": 4
+      }
+    },
+    "FINAL_AFFIDAVIT_PACKAGE": {
+      "total_files": 270,
+      "categories": {
+        "markdown": 4,
+        "JF_evidence": 266
+      }
+    },
+    "evidence": {
+      "total_files": 492,
+      "categories": {
+        "markdown": 122,
+        "json": 29,
+        "other": 42,
+        "pdfs": 185,
+        "images": 29,
+        "emails": 16,
+        "JF_evidence": 69
+      }
+    }
+  },
+  "missing_dates": {
+    "count": 4,
+    "events": [
+      {
+        "event_id": "EVENT_070",
+        "title": null,
+        "category": null,
+        "timeline_phase": "Phase 6: Cover-up Phase",
+        "related_events": []
+      },
+      {
+        "event_id": "EVENT_071",
+        "title": null,
+        "category": null,
+        "timeline_phase": "Phase 0: Historical Foundation",
+        "related_events": []
+      },
+      {
+        "event_id": "EVENT_072",
+        "title": null,
+        "category": null,
+        "timeline_phase": "Phase 0: Historical Foundation",
+        "related_events": []
+      },
+      {
+        "event_id": "EVENT_073",
+        "title": null,
+        "category": null,
+        "timeline_phase": "Phase 7: Debt Accumulation",
+        "related_events": []
+      }
+    ]
+  },
+  "missing_entities": {
+    "events_count": 8,
+    "relations_count": 7,
+    "events": [
+      {
+        "event_id": "EVENT_061",
+        "title": "ENS Africa Acknowledges Criminal Matters Then Suppresses",
+        "perpetrators": [
+          "PERSON_007"
+        ],
+        "victims": [
+          "PERSON_004",
+          "PERSON_005"
+        ]
+      },
+      {
+        "event_id": "EVT-063",
+        "title": "Bantjes Email: R10M Decline and Computer Expense Analysis",
+        "perpetrators": [
+          "PERSON_001",
+          "PERSON_007"
+        ],
+        "victims": []
+      },
+      {
+        "event_id": "EVT-064",
+        "title": "Daniel's Comprehensive 26-Point Response to Bantjes",
+        "perpetrators": [
+          "PERSON_001",
+          "PERSON_002"
+        ],
+        "victims": []
+      },
+      {
+        "event_id": "EVT-065",
+        "title": "POPIA Violation Notice Sent to Pete",
+        "perpetrators": [
+          "PERSON_002"
+        ],
+        "victims": []
+      },
+      {
+        "event_id": "EVT-066",
+        "title": "Sage Accounting System Expires - Rynette Controls Reactivation",
+        "perpetrators": [
+          "PERSON_001"
+        ],
+        "victims": []
+      },
+      {
+        "event_id": "EVT-067",
+        "title": "Daniel Forwards Sage Evidence to Lawyer",
+        "perpetrators": [
+          "PERSON_007"
+        ],
+        "victims": []
+      },
+      {
+        "event_id": "EVT-068",
+        "title": "Rynette Makes R1M+ Debt to ReZonance 'Disappear'",
+        "perpetrators": [
+          "PERSON_001",
+          "PERSON_002",
+          "PERSON_003"
+        ],
+        "victims": []
+      },
+      {
+        "event_id": "EVT-069",
+        "title": "Pete and Rynette Attempt Unauthorized Banking Changes",
+        "perpetrators": [
+          "PERSON_001"
+        ],
+        "victims": []
+      }
+    ],
+    "relations": [
+      {
+        "relation_id": "REL_061",
+        "relation_type": "CONTROLS",
+        "source_entity": null,
+        "target_entity": null
+      },
+      {
+        "relation_id": "REL_062",
+        "relation_type": "CONTROLS",
+        "source_entity": null,
+        "target_entity": null
+      },
+      {
+        "relation_id": "REL_063",
+        "relation_type": "CONTROLS",
+        "source_entity": null,
+        "target_entity": null
+      },
+      {
+        "relation_id": "REL_064",
+        "relation_type": "FINANCIAL_OBLIGATION",
+        "source_entity": null,
+        "target_entity": null
+      },
+      {
+        "relation_id": "REL_CONFLICT_001",
+        "relation_type": "triple_conflict_of_interest",
+        "source_entity": "PERSON_007",
+        "target_entity": null
+      },
+      {
+        "relation_id": "REL_LOAN_001",
+        "relation_type": "inter_company_loan",
+        "source_entity": null,
+        "target_entity": null
+      },
+      {
+        "relation_id": "REL_LOAN_002",
+        "relation_type": "inter_company_loan",
+        "source_entity": null,
+        "target_entity": null
+      }
+    ]
+  },
+  "evidence_suggestions": {
+    "count": 12,
+    "suggestions": [
+      {
+        "event_id": "EVENT_H008",
+        "suggestion": "Consider adding email evidence from ANNEXURES/JF05/",
+        "evidence_dir": "ANNEXURES/JF05/"
+      },
+      {
+        "event_id": "EVENT_H018",
+        "suggestion": "Consider adding email evidence from ANNEXURES/JF05/",
+        "evidence_dir": "ANNEXURES/JF05/"
+      },
+      {
+        "event_id": "EVENT_022",
+        "suggestion": "Consider adding bank statement evidence from ANNEXURES/JF04/",
+        "evidence_dir": "ANNEXURES/JF04/"
+      },
+      {
+        "event_id": "EVENT_005",
+        "suggestion": "Consider adding bank statement evidence from ANNEXURES/JF04/",
+        "evidence_dir": "ANNEXURES/JF04/"
+      },
+      {
+        "event_id": "EVENT_008",
+        "suggestion": "Consider adding bank statement evidence from ANNEXURES/JF04/",
+        "evidence_dir": "ANNEXURES/JF04/"
+      },
+      {
+        "event_id": "EVENT_009",
+        "suggestion": "Consider adding Shopify invoice evidence from ANNEXURES/JF02/",
+        "evidence_dir": "ANNEXURES/JF02/"
+      },
+      {
+        "event_id": "EVENT_014",
+        "suggestion": "Consider adding email evidence from ANNEXURES/JF05/",
+        "evidence_dir": "ANNEXURES/JF05/"
+      },
+      {
+        "event_id": "EVENT_027",
+        "suggestion": "Consider adding email evidence from ANNEXURES/JF05/",
+        "evidence_dir": "ANNEXURES/JF05/"
+      },
+      {
+        "event_id": "EVENT_063",
+        "suggestion": "Consider adding email evidence from ANNEXURES/JF05/",
+        "evidence_dir": "ANNEXURES/JF05/"
+      },
+      {
+        "event_id": "EVT-063",
+        "suggestion": "Consider adding email evidence from ANNEXURES/JF05/",
+        "evidence_dir": "ANNEXURES/JF05/"
+      },
+      {
+        "event_id": "EVT-069",
+        "suggestion": "Consider adding bank statement evidence from ANNEXURES/JF04/",
+        "evidence_dir": "ANNEXURES/JF04/"
+      },
+      {
+        "event_id": "EVENT_076",
+        "suggestion": "Consider adding email evidence from ANNEXURES/JF05/",
+        "evidence_dir": "ANNEXURES/JF05/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "generated": "2025-11-28T02:29:29.346172",
+    "update_date": "2025-11-28"
+  },
+  "updates": {
+    "index_md": {
+      "file": "/home/ubuntu/revstream1/docs/index.md",
+      "updates": [
+        "Updated to data model v24.0",
+        "Added latest refinement statistics",
+        "Enhanced evidence cross-reference",
+        "Added burden of proof analysis",
+        "Updated entity profiles",
+        "Added timeline phase details"
+      ]
+    },
+    "enhanced_filings": {
+      "cipc_complaint": "/home/ubuntu/revstream1/docs/CIPC_COMPLAINT_ENHANCED_2025_11_28.md",
+      "popia_complaint": "/home/ubuntu/revstream1/docs/POPIA_COMPLAINT_ENHANCED_2025_11_28.md"
+    },
+    "readme": "/home/ubuntu/revstream1/docs/README.md"
+  },
+  "summary": {
+    "total_updates": 3,
+    "files_updated": [
+      "index.md",
+      "README.md"
+    ],
+    "files_added": [
+      "CIPC_COMPLAINT_ENHANCED_2025_11_28.md",
+      "POPIA_COMPLAINT_ENHANCED_2025_11_28.md"
+    ]
+  }
+}

@@ -1,204 +1,236 @@
+#!/usr/bin/env python3
+"""
+Comprehensive analysis and refinement script for revstream1 repository
+Analyzes entities, relations, events, and timelines with cross-reference to ad-res-j7
+"""
+
 import json
 import os
 from datetime import datetime
+from pathlib import Path
 from collections import defaultdict
 
-# Load existing data models
+# Paths
+REVSTREAM_ROOT = Path("/home/ubuntu/revstream1")
+AD_RES_J7_ROOT = Path("/home/ubuntu/ad-res-j7")
+
+# Data model paths
+ENTITIES_FILE = REVSTREAM_ROOT / "data_models/entities/entities_refined_2025_11_27_v22.json"
+EVENTS_FILE = REVSTREAM_ROOT / "data_models/events/events_refined_2025_11_27_v23.json"
+RELATIONS_FILE = REVSTREAM_ROOT / "data_models/relations/relations_refined_2025_11_27_v19.json"
+TIMELINE_FILE = REVSTREAM_ROOT / "data_models/timelines/timeline_refined_2025_11_26_v11.json"
+
 def load_json(filepath):
-    with open(filepath, 'r') as f:
+    """Load JSON file"""
+    with open(filepath, 'r', encoding='utf-8') as f:
         return json.load(f)
 
-# Save JSON with pretty formatting
-def save_json(filepath, data):
-    with open(filepath, 'w') as f:
-        json.dump(data, f, indent=2)
+def save_json(data, filepath):
+    """Save JSON file with pretty printing"""
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
-# Load all data models
-entities = load_json('/home/ubuntu/revstream1/data_models/entities/entities_refined.json')
-events = load_json('/home/ubuntu/revstream1/data_models/events/events_refined.json')
-relations = load_json('/home/ubuntu/revstream1/data_models/relations/relations.json')
-timeline = load_json('/home/ubuntu/revstream1/data_models/timelines/timeline_enhanced.json')
-
-# Analysis results
-analysis = {
-    'entities_summary': {},
-    'events_summary': {},
-    'relations_summary': {},
-    'timeline_summary': {},
-    'gaps_identified': [],
-    'improvements_needed': []
-}
-
-# Analyze entities
-print("Analyzing entities...")
-analysis['entities_summary'] = {
-    'total_persons': len(entities['entities']['persons']),
-    'total_organizations': len(entities['entities']['organizations']),
-    'version': entities['metadata']['version'],
-    'last_updated': entities['metadata']['last_updated']
-}
-
-# Count entity types by agent_type
-agent_types = defaultdict(int)
-for person in entities['entities']['persons']:
-    agent_types[person.get('agent_type', 'unknown')] += 1
-for org in entities['entities']['organizations']:
-    agent_types[org.get('agent_type', 'unknown')] += 1
-
-analysis['entities_summary']['agent_type_distribution'] = dict(agent_types)
-
-# Analyze events
-print("Analyzing events...")
-event_categories = defaultdict(int)
-event_patterns = defaultdict(int)
-total_financial_impact = 0
-
-for event in events['events']:
-    event_categories[event.get('category', 'unknown')] += 1
-    event_patterns[event.get('pattern', 'unknown')] += 1
+def analyze_entities(entities_data):
+    """Analyze entities for completeness and improvements"""
+    issues = []
+    improvements = []
     
-    # Try to extract financial impact
-    impact = event.get('financial_impact', '0')
-    if isinstance(impact, str) and 'R' in impact:
-        # Extract numeric value
-        import re
-        match = re.search(r'R([\d,]+)', impact)
-        if match:
-            try:
-                amount = float(match.group(1).replace(',', ''))
-                total_financial_impact += amount
-            except:
-                pass
-
-analysis['events_summary'] = {
-    'total_events': events['metadata']['total_events'],
-    'version': events['metadata']['version'],
-    'last_updated': events['metadata']['last_updated'],
-    'event_categories': dict(event_categories),
-    'event_patterns': dict(event_patterns),
-    'estimated_financial_impact': f"R{total_financial_impact:,.2f}"
-}
-
-# Analyze relations
-print("Analyzing relations...")
-relation_types = {}
-for rel_category in relations['relations']:
-    relation_types[rel_category] = len(relations['relations'][rel_category])
-
-analysis['relations_summary'] = {
-    'version': relations['metadata']['version'],
-    'last_updated': relations['metadata']['last_updated'],
-    'relation_categories': relation_types,
-    'total_relations': sum(relation_types.values())
-}
-
-# Analyze timeline
-print("Analyzing timeline...")
-phases = timeline['timeline_phases']
-phase_summary = {}
-for phase_key, phase_data in phases.items():
-    phase_summary[phase_data['phase_name']] = {
-        'duration_days': phase_data.get('duration_days', 0),
-        'event_count': len(phase_data.get('events', [])),
-        'financial_impact': phase_data.get('financial_impact', 'unknown')
+    metadata = entities_data.get('metadata', {})
+    entities = entities_data.get('entities', {})
+    
+    # Check persons
+    persons = entities.get('persons', [])
+    for person in persons:
+        entity_id = person.get('entity_id')
+        
+        # Check for missing evidence URLs
+        if not person.get('evidence_urls') or len(person.get('evidence_urls', [])) == 0:
+            issues.append(f"{entity_id}: Missing evidence URLs")
+        
+        # Check for missing timeline events
+        if not person.get('timeline_events') or len(person.get('timeline_events', [])) == 0:
+            issues.append(f"{entity_id}: No timeline events linked")
+        
+        # Check for missing financial impact
+        if person.get('role') in ['primary_perpetrator', 'co_conspirator']:
+            if not person.get('financial_impact'):
+                issues.append(f"{entity_id}: Missing financial impact data")
+    
+    # Check organizations
+    organizations = entities.get('organizations', [])
+    for org in organizations:
+        entity_id = org.get('entity_id')
+        
+        # Check for missing evidence
+        if not org.get('evidence_files') or len(org.get('evidence_files', [])) == 0:
+            issues.append(f"{entity_id}: Missing evidence files")
+    
+    return {
+        'total_persons': len(persons),
+        'total_organizations': len(organizations),
+        'total_entities': len(persons) + len(organizations),
+        'issues': issues,
+        'improvements': improvements
     }
 
-analysis['timeline_summary'] = {
-    'version': timeline['metadata']['version'],
-    'last_updated': timeline['metadata']['last_updated'],
-    'total_phases': len(phases),
-    'phase_details': phase_summary
-}
-
-# Identify gaps and improvements
-print("Identifying gaps and improvements...")
-
-# Check for events without corresponding entities
-event_entities = set()
-for event in events['events']:
-    event_entities.update(event.get('perpetrators', []))
-    event_entities.update(event.get('victims', []))
-    event_entities.update(event.get('entities_involved', []))
-
-entity_ids = set()
-for person in entities['entities']['persons']:
-    entity_ids.add(person['entity_id'])
-for org in entities['entities']['organizations']:
-    entity_ids.add(org['entity_id'])
-
-missing_entities = event_entities - entity_ids
-if missing_entities:
-    analysis['gaps_identified'].append({
-        'type': 'missing_entities',
-        'description': f'Events reference entities that do not exist: {missing_entities}'
-    })
-
-# Check for duplicate event IDs in timeline phases
-event_ids_in_timeline = []
-for phase_key, phase_data in phases.items():
-    event_ids_in_timeline.extend(phase_data.get('events', []))
-
-from collections import Counter
-duplicate_events = [k for k, v in Counter(event_ids_in_timeline).items() if v > 1]
-if duplicate_events:
-    analysis['gaps_identified'].append({
-        'type': 'duplicate_timeline_events',
-        'description': f'Events appear multiple times in timeline: {duplicate_events}'
-    })
-
-# Check for events not in timeline
-timeline_event_ids = set(event_ids_in_timeline)
-actual_event_ids = set([e['event_id'] for e in events['events']])
-events_not_in_timeline = actual_event_ids - timeline_event_ids
-if events_not_in_timeline:
-    analysis['gaps_identified'].append({
-        'type': 'events_not_in_timeline',
-        'description': f'Events exist but are not placed in timeline: {events_not_in_timeline}'
-    })
-
-# Suggest improvements
-analysis['improvements_needed'].extend([
-    {
-        'priority': 'high',
-        'area': 'timeline_consistency',
-        'description': 'Remove duplicate events from timeline phases',
-        'action': 'Clean up duplicate EVENT_047, EVENT_048, EVENT_049, EVENT_050, EVENT_051, EVENT_052, EVENT_053 entries'
-    },
-    {
-        'priority': 'high',
-        'area': 'entity_relations',
-        'description': 'Add missing entity relationships discovered in ad-res-j7',
-        'action': 'Cross-reference evidence documents for additional connections'
-    },
-    {
-        'priority': 'medium',
-        'area': 'financial_tracking',
-        'description': 'Standardize financial impact format across all events',
-        'action': 'Convert all financial_impact fields to consistent numeric format'
-    },
-    {
-        'priority': 'medium',
-        'area': 'evidence_linking',
-        'description': 'Link events to specific evidence files in ad-res-j7',
-        'action': 'Add evidence_file_references to each event'
-    },
-    {
-        'priority': 'low',
-        'area': 'metadata_sync',
-        'description': 'Ensure all data model versions are synchronized',
-        'action': 'Update all metadata to version 5.0 with current date'
+def analyze_events(events_data):
+    """Analyze events for completeness and timeline coherence"""
+    issues = []
+    improvements = []
+    
+    metadata = events_data.get('metadata', {})
+    events = events_data.get('events', [])
+    
+    # Track event dates for timeline coherence
+    event_dates = []
+    events_by_phase = defaultdict(list)
+    
+    for event in events:
+        event_id = event.get('event_id')
+        event_date = event.get('date')
+        
+        if event_date:
+            event_dates.append((event_date, event_id))
+        else:
+            issues.append(f"{event_id}: Missing date")
+        
+        # Check for missing evidence
+        if not event.get('evidence') or len(event.get('evidence', [])) == 0:
+            issues.append(f"{event_id}: Missing evidence")
+        
+        # Check for missing entities involved
+        if not event.get('entities_involved') or len(event.get('entities_involved', [])) == 0:
+            issues.append(f"{event_id}: No entities involved")
+        
+        # Group by phase
+        phase = event.get('timeline_phase', 'UNKNOWN')
+        events_by_phase[phase].append(event_id)
+    
+    # Sort events by date
+    event_dates.sort()
+    
+    return {
+        'total_events': len(events),
+        'events_by_phase': dict(events_by_phase),
+        'earliest_event': event_dates[0] if event_dates else None,
+        'latest_event': event_dates[-1] if event_dates else None,
+        'issues': issues,
+        'improvements': improvements
     }
-])
 
-# Save analysis report
-save_json('/home/ubuntu/revstream1/ANALYSIS_REPORT.json', analysis)
+def analyze_relations(relations_data):
+    """Analyze relations for network completeness"""
+    issues = []
+    improvements = []
+    
+    metadata = relations_data.get('metadata', {})
+    relations = relations_data.get('relations', {})
+    
+    total_relations = 0
+    relations_by_type = defaultdict(int)
+    
+    for rel_type, rel_list in relations.items():
+        total_relations += len(rel_list)
+        relations_by_type[rel_type] = len(rel_list)
+        
+        for rel in rel_list:
+            rel_id = rel.get('relation_id')
+            
+            # Check for missing evidence
+            if not rel.get('evidence') or len(rel.get('evidence', [])) == 0:
+                issues.append(f"{rel_id}: Missing evidence")
+            
+            # Check for missing source/target
+            if not rel.get('source_entity'):
+                issues.append(f"{rel_id}: Missing source entity")
+            if not rel.get('target_entity'):
+                issues.append(f"{rel_id}: Missing target entity")
+    
+    return {
+        'total_relations': total_relations,
+        'relations_by_type': dict(relations_by_type),
+        'issues': issues,
+        'improvements': improvements
+    }
 
-print("\n=== ANALYSIS COMPLETE ===")
-print(f"Total Persons: {analysis['entities_summary']['total_persons']}")
-print(f"Total Organizations: {analysis['entities_summary']['total_organizations']}")
-print(f"Total Events: {analysis['events_summary']['total_events']}")
-print(f"Total Relations: {analysis['relations_summary']['total_relations']}")
-print(f"Total Timeline Phases: {analysis['timeline_summary']['total_phases']}")
-print(f"\nGaps Identified: {len(analysis['gaps_identified'])}")
-print(f"Improvements Needed: {len(analysis['improvements_needed'])}")
-print("\nFull report saved to: ANALYSIS_REPORT.json")
+def cross_reference_evidence():
+    """Cross-reference with ad-res-j7 evidence repository"""
+    evidence_index = AD_RES_J7_ROOT / "COMPREHENSIVE_EVIDENCE_INDEX.md"
+    
+    if not evidence_index.exists():
+        return {'error': 'Evidence index not found'}
+    
+    # Count evidence files in ad-res-j7
+    evidence_files = []
+    for ext in ['.pdf', '.PDF', '.eml', '.msg', '.jpg', '.png', '.json', '.md']:
+        evidence_files.extend(AD_RES_J7_ROOT.rglob(f'*{ext}'))
+    
+    return {
+        'total_evidence_files': len(evidence_files),
+        'evidence_index_exists': True,
+        'evidence_repository': str(AD_RES_J7_ROOT)
+    }
+
+def generate_improvements_report():
+    """Generate comprehensive improvements report"""
+    
+    print("Loading data models...")
+    entities_data = load_json(ENTITIES_FILE)
+    events_data = load_json(EVENTS_FILE)
+    relations_data = load_json(RELATIONS_FILE)
+    
+    print("Analyzing entities...")
+    entities_analysis = analyze_entities(entities_data)
+    
+    print("Analyzing events...")
+    events_analysis = analyze_events(events_data)
+    
+    print("Analyzing relations...")
+    relations_analysis = analyze_relations(relations_data)
+    
+    print("Cross-referencing evidence...")
+    evidence_analysis = cross_reference_evidence()
+    
+    report = {
+        'metadata': {
+            'generated': datetime.now().isoformat(),
+            'revstream_version': {
+                'entities': entities_data.get('metadata', {}).get('version'),
+                'events': events_data.get('metadata', {}).get('version'),
+                'relations': relations_data.get('metadata', {}).get('version')
+            }
+        },
+        'entities_analysis': entities_analysis,
+        'events_analysis': events_analysis,
+        'relations_analysis': relations_analysis,
+        'evidence_analysis': evidence_analysis,
+        'summary': {
+            'total_issues': (
+                len(entities_analysis['issues']) + 
+                len(events_analysis['issues']) + 
+                len(relations_analysis['issues'])
+            ),
+            'total_improvements_suggested': (
+                len(entities_analysis['improvements']) + 
+                len(events_analysis['improvements']) + 
+                len(relations_analysis['improvements'])
+            )
+        }
+    }
+    
+    # Save report
+    report_file = REVSTREAM_ROOT / f"ANALYSIS_REPORT_{datetime.now().strftime('%Y_%m_%d')}.json"
+    save_json(report, report_file)
+    
+    print(f"\nReport saved to: {report_file}")
+    print(f"\nSummary:")
+    print(f"  Entities: {entities_analysis['total_entities']}")
+    print(f"  Events: {events_analysis['total_events']}")
+    print(f"  Relations: {relations_analysis['total_relations']}")
+    print(f"  Evidence Files: {evidence_analysis.get('total_evidence_files', 0)}")
+    print(f"  Total Issues: {report['summary']['total_issues']}")
+    
+    return report
+
+if __name__ == '__main__':
+    report = generate_improvements_report()
