@@ -23,11 +23,9 @@ collections:
 header_pages:
   - index.md
   - applications.md
-  - application-1.md
-  - application-2.md
-  - application-3.md
+  - letter-of-demand-refutation.md
   - evidence-index.md
-  - data-model-analysis.md
+
 
 # Exclude from processing
 exclude:

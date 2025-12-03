@@ -37,8 +37,7 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 
 ## Three Sequential Interdict Applications
 
-### [Application 1: Ex Parte Interdict (August 13, 2025)](application-1.md)
-[View Evidence for Application 1 →](application-1-evidence.md)
+### Application 1: Ex Parte Interdict (August 13, 2025)
 
 **Type:** Ex parte urgent application  
 **Targets:** Both Jacqueline and Daniel Faucitt  
@@ -49,17 +48,13 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 - August 13, 2025: Interdict launched (2 days later)
 
 **Primary Evidence Categories:**
-- [POPIA Violations](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf)
-- [Trustee Misconduct](evidence-index-enhanced.md#emails)
-- [ReZonance Payment System](evidence-index-enhanced.md#rezonance)
 
-[View Full Application 1 Details →](application-1.md)
-[View Evidence for Application 1 →](application-1-evidence.md)
+
+
 
 ---
 
-### [Application 2: Settlement Agreement Enforcement (October 2025)](application-2.md)
-[View Evidence for Application 2 →](application-2-evidence.md)
+### Application 2: Settlement Agreement Enforcement (October 2025)
 
 **Type:** Application to make settlement agreement an order of court  
 **Context:** Mediation held September 18, 2025
@@ -74,17 +69,13 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 2. Forensic investigations into entity affairs
 
 **Primary Evidence Categories:**
-- [Mediation Documentation](evidence-index-enhanced.md#mediation)
-- [Corporate Records](evidence-index-enhanced.md#cipc)
-- [Accounting Evidence](evidence-index-enhanced.md#accounting)
 
-[View Full Application 2 Details →](application-2.md)
-[View Evidence for Application 2 →](application-2-evidence.md)
+
+
 
 ---
 
-### [Application 3: Contact Interdict (November 4, 2025)](application-3.md)
-[View Evidence for Application 3 →](application-3-evidence.md)
+### Application 3: Contact Interdict (November 4, 2025)
 
 **Type:** Urgent application  
 **Target:** Jacqueline only (First Respondent)  
@@ -101,12 +92,9 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 - October 1, 2025: Correspondence demanding desistance
 
 **Primary Evidence Categories:**
-- [Email Correspondence](evidence-index-enhanced.md#emails)
-- [Sage Control Analysis](evidence-index-enhanced.md#sage)
-- [Trademark Documentation](evidence-index-enhanced.md#trademark)
 
-[View Full Application 3 Details →](application-3.md)
-[View Evidence for Application 3 →](application-3-evidence.md)
+
+
 
 ---
 
@@ -175,7 +163,7 @@ November 2025: Application 3 filed (contact interdict)
 
 This case is supported by a robust and comprehensive data model (Entities v23.0, Events v25.0, Relations v20.0, updated 2025-11-28). A full analysis of the data integrity, structure, and completeness is available for review.
 
-**[📄 View Full Data Model Analysis Report](data-model-analysis.md)**
+
 
 ---
 
@@ -193,36 +181,17 @@ For comprehensive evidence documentation, see the extended evidence repository a
 ## Evidence Resources
 
 ### [📁 Complete Evidence Index](evidence-index.md)
-### [📁 Enhanced Evidence Index (NEW)](evidence-index-enhanced.md)
 Browse all evidence files organized by category with direct links to source documents.
 
-### Evidence Categories
-- [Accounting Evidence (2 files)](evidence-index-enhanced.md#accounting)
-- [Email Evidence (4 files)](evidence-index-enhanced.md#emails)
-- [Mediation Evidence (1 file)](evidence-index-enhanced.md#mediation)
-- [POPIA Evidence (2 files)](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf)
-- [ReZonance Evidence (2 files)](evidence-index-enhanced.md#rezonance)
-- [Sage Evidence (1 file)](evidence-index-enhanced.md#sage)
-- [CIPC Evidence (2 files)](evidence-index-enhanced.md#cipc)
-- [Trademark Evidence (1 file)](evidence-index-enhanced.md#trademark)
-- [Fabricated Accounts Evidence](evidence-index-enhanced.md#fabricated)
-- [Financial Evidence](evidence-index-enhanced.md#financial)
-- [Critical Analysis](evidence-index-enhanced.md#critical)
+
 
 ---
 
 ## Navigation
 
 - **[Interactive Timeline](timeline.html)** - Comprehensive timeline with evidence references
-- **[Comprehensive Evidence Index](evidence-index-comprehensive.md)** - All evidence organized by event and entity
-
 - **[View All Applications Side-by-Side](applications.md)** - Comparative analysis of all three applications
-- **[Application 1 Details](application-1.md)
-[View Evidence for Application 1 →](application-1-evidence.md)** - Ex Parte Interdict (August 2025)
-- **[Application 2 Details](application-2.md)
-[View Evidence for Application 2 →](application-2-evidence.md)** - Settlement Enforcement (October 2025)
-- **[Application 3 Details](application-3.md)
-[View Evidence for Application 3 →](application-3-evidence.md)** - Contact Interdict (November 2025)
+- **[Letter of Demand Refutation](letter-of-demand-refutation.md)** - Refutation of Rynette Farrar's false denials
 - **[Evidence Index](evidence-index.md)** - Complete evidence catalog with links
 
 ---
