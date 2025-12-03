@@ -1,20 +1,22 @@
----
-layout: default
-title: "Chantal"
----
 # Chantal
 
-| Field | Value |
-|---|---|
-| **Entity ID** | `PERSON_011` |
-| **Name** | Chantal |
-| **Role** | estate_related_party |
-| **Agent Type** | neutral |
-| **Involvement Events** | 2 |
+**Entity ID:** `PERSON_011`
 
-## Evidence References
+- **Role:** estate_related_party
+- **Agent Type:** neutral
+- **Involvement Events:** 2
+- **Primary Actions:** 
+  - estate_finalization_communication
+- **Relationships:** 
+  - connected_to_kayla_estate
+  - letter_sender_january_2025
+- **Timeline Events:** 
+  - EVENT_054
+  - EVENT_023
+- **Additional Notes:** Delivered letter about Kayla estate finalization in January 2025, potential witness to estate exploitation
+- **Role Clarification:** Delivered letter about Kayla estate finalization January 2025
 
-- [ANNEXURES/JF06/ens_withdrawal/](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF06/ens_withdrawal/)
-- [evidence/legal_misconduct/criminal_suppression/](https://github.com/cogpy/ad-res-j7/tree/main/evidence/legal_misconduct/criminal_suppression/)
+## Related Events
 
-[View in Comprehensive Evidence Index](https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md)
+- **2025-01-15**: [Chantal Letter - Kayla Estate Finalization](../events/EVENT_023.md)
+- **2025-01-15**: [Chantal Delivers Letter About Kayla Estate Finalization](../events/EVENT_054.md)

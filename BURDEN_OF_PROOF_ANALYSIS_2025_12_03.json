@@ -1,0 +1,1470 @@
+{
+  "timestamp": "2025-12-03T05:40:18.630768",
+  "civil_actions": {
+    "burden_of_proof": "50% - Balance of Probabilities",
+    "events_meeting_standard": [
+      {
+        "event_id": "EVENT_H001",
+        "title": "First ReZonance Invoice to RST",
+        "date": "2017-06-30",
+        "strength": 1.0,
+        "evidence_count": 1032,
+        "financial_impact": "R250.80"
+      },
+      {
+        "event_id": "EVENT_H002",
+        "title": "ReZonance Service Expansion",
+        "date": "2017-09-30",
+        "strength": 1.0,
+        "evidence_count": 551,
+        "financial_impact": "R100,000+"
+      },
+      {
+        "event_id": "EVENT_H003",
+        "title": "Financial Year Commencement RST/SLG",
+        "date": "2019-03-01",
+        "strength": 1.0,
+        "evidence_count": 1973,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_H004",
+        "title": "Financial Year Commencement Villa Via",
+        "date": "2019-05-01",
+        "strength": 0.75,
+        "evidence_count": 588,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_H005",
+        "title": "Multiple Adjusting Journal Entries",
+        "date": "2020-02-20",
+        "strength": 1.0,
+        "evidence_count": 549,
+        "financial_impact": "R1,642,000"
+      },
+      {
+        "event_id": "EVENT_051",
+        "title": "Unknown",
+        "date": "2020-02-20",
+        "strength": 1.0,
+        "evidence_count": 539,
+        "financial_impact": "R1,642,000"
+      },
+      {
+        "event_id": "EVENT_H006",
+        "title": "Year-End Adjustments and Interest Payment",
+        "date": "2020-02-28",
+        "strength": 1.0,
+        "evidence_count": 43,
+        "financial_impact": "R1,948,334.09"
+      },
+      {
+        "event_id": "EVENT_052",
+        "title": "Unknown",
+        "date": "2020-02-28",
+        "strength": 1.0,
+        "evidence_count": 100,
+        "financial_impact": "R414,334.09"
+      },
+      {
+        "event_id": "EVENT_H007",
+        "title": "Villa Via Year-End Profit Extraction",
+        "date": "2020-04-30",
+        "strength": 0.75,
+        "evidence_count": 469,
+        "financial_impact": "R22,800,000"
+      },
+      {
+        "event_id": "EVENT_053",
+        "title": "Unknown",
+        "date": "2020-04-30",
+        "strength": 0.75,
+        "evidence_count": 403,
+        "financial_impact": "R22,800,000"
+      },
+      {
+        "event_id": "EVENT_H008",
+        "title": "Bantjies Trial Balance Email Distribution",
+        "date": "2020-08-13",
+        "strength": 1.0,
+        "evidence_count": 935,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_048",
+        "title": "Unknown",
+        "date": "2020-08-13",
+        "strength": 1.0,
+        "evidence_count": 655,
+        "financial_impact": "N/A"
+      },
+      {
+        "event_id": "EVENT_H018",
+        "title": "Bantjies Sends Trial Balance Email to Bernadine Wright",
+        "date": "2020-08-13",
+        "strength": 0.75,
+        "evidence_count": 1038,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVENT_H009",
+        "title": "Adderory Companies Registration - Pre-Planning Phase",
+        "date": "2021-04-01",
+        "strength": 1.0,
+        "evidence_count": 614,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_D001",
+        "title": "ReZonance Opening Balance Debt",
+        "date": "2022-03-01",
+        "strength": 1.0,
+        "evidence_count": 1004,
+        "financial_impact": "R971,587.93"
+      },
+      {
+        "event_id": "EVENT_D002",
+        "title": "First Structured Payment to ReZonance",
+        "date": "2022-07-11",
+        "strength": 1.0,
+        "evidence_count": 474,
+        "financial_impact": "R40,000"
+      },
+      {
+        "event_id": "EVENT_H010",
+        "title": "Kayla Pretorius Murder",
+        "date": "2023-01-01",
+        "strength": 0.75,
+        "evidence_count": 216,
+        "financial_impact": "R1,035,000"
+      },
+      {
+        "event_id": "EVENT_D003",
+        "title": "ReZonance Final Balance Persistent Debt",
+        "date": "2023-02-28",
+        "strength": 1.0,
+        "evidence_count": 366,
+        "financial_impact": "R1,035,361.34"
+      },
+      {
+        "event_id": "EVENT_D004",
+        "title": "False Payment Claim #1 to ReZonance",
+        "date": "2023-03-15",
+        "strength": 1.0,
+        "evidence_count": 1088,
+        "financial_impact": "R470,000"
+      },
+      {
+        "event_id": "EVENT_D005",
+        "title": "False Payment Claim #2 to ReZonance",
+        "date": "2023-09-20",
+        "strength": 1.0,
+        "evidence_count": 401,
+        "financial_impact": "R765,361.34"
+      },
+      {
+        "event_id": "EVENT_023",
+        "title": "Chantal Letter - Kayla Estate Finalization",
+        "date": "2025-01-15",
+        "strength": 1.0,
+        "evidence_count": 208,
+        "financial_impact": "R1,035,000"
+      },
+      {
+        "event_id": "EVENT_022",
+        "title": "R900,000 Unauthorized Transfers from RegimA SA",
+        "date": "2025-02-14",
+        "strength": 0.75,
+        "evidence_count": 1009,
+        "financial_impact": "R900,000"
+      },
+      {
+        "event_id": "EVENT_028",
+        "title": "R5.2M SLG Stock Missing & Large Invoice",
+        "date": "2025-02-25",
+        "strength": 1.0,
+        "evidence_count": 285,
+        "financial_impact": "R5,200,000"
+      },
+      {
+        "event_id": "EVENT_001",
+        "title": "RegimA SA Revenue Diversion Started",
+        "date": "2025-03-01",
+        "strength": 0.75,
+        "evidence_count": 926,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_024",
+        "title": "R5.4M Stock Disappears from Strategic Logistics",
+        "date": "2025-03-01",
+        "strength": 1.0,
+        "evidence_count": 258,
+        "financial_impact": "R5,400,000"
+      },
+      {
+        "event_id": "EVENT_025",
+        "title": "R5.4M Stock Adjustment Processed Without Investigation",
+        "date": "2025-03-15",
+        "strength": 0.75,
+        "evidence_count": 236,
+        "financial_impact": "R5,400,000"
+      },
+      {
+        "event_id": "EVENT_003",
+        "title": "Two Years Unallocated Expenses Dumped",
+        "date": "2025-03-30",
+        "strength": 1.0,
+        "evidence_count": 1314,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_004",
+        "title": "Payment Redirection Scheme",
+        "date": "2025-04-01",
+        "strength": 1.0,
+        "evidence_count": 1059,
+        "financial_impact": "R4,276,832.85"
+      },
+      {
+        "event_id": "EVENT_005",
+        "title": "Bank Account Change Letter for RegimA Worldwide",
+        "date": "2025-04-14",
+        "strength": 1.0,
+        "evidence_count": 396,
+        "financial_impact": "R3,141,647.70"
+      },
+      {
+        "event_id": "EVENT_029",
+        "title": "Cloud IT Systems Removal Order",
+        "date": "2025-04-22",
+        "strength": 0.75,
+        "evidence_count": 465,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_055",
+        "title": "Peter Orders Cloud IT Systems Removal",
+        "date": "2025-04-22",
+        "strength": 0.75,
+        "evidence_count": 1238,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_007",
+        "title": "Jacqui Confronts Rynette About R1,035,000 Debt",
+        "date": "2025-05-15",
+        "strength": 1.0,
+        "evidence_count": 953,
+        "financial_impact": "R1,035,000"
+      },
+      {
+        "event_id": "EVENT_008",
+        "title": "Unauthorized Transfers (R850K+)",
+        "date": "2025-05-15",
+        "strength": 1.0,
+        "evidence_count": 1668,
+        "financial_impact": "R850,000"
+      },
+      {
+        "event_id": "EVENT_050",
+        "title": "Unknown",
+        "date": "2025-05-15",
+        "strength": 1.0,
+        "evidence_count": 187,
+        "financial_impact": "R1,035,000"
+      },
+      {
+        "event_id": "EVENT_009",
+        "title": "Shopify Audit Trail Hijacking",
+        "date": "2025-05-22",
+        "strength": 0.75,
+        "evidence_count": 2488,
+        "financial_impact": "R1,000,000+ monthly"
+      },
+      {
+        "event_id": "EVENT_010",
+        "title": "Domain Registration (Identity Fraud)",
+        "date": "2025-05-29",
+        "strength": 0.75,
+        "evidence_count": 709,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_011",
+        "title": "Daniel Finalizes Fraud Reports",
+        "date": "2025-06-06",
+        "strength": 0.75,
+        "evidence_count": 609,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_057",
+        "title": "Daniel Sends Comprehensive Reports to Bantjies",
+        "date": "2025-06-06",
+        "strength": 0.75,
+        "evidence_count": 947,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVENT_012",
+        "title": "Secret Card Cancellations",
+        "date": "2025-06-07",
+        "strength": 0.75,
+        "evidence_count": 390,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_058",
+        "title": "Bantjies Dismisses Audit Request",
+        "date": "2025-06-10",
+        "strength": 1.0,
+        "evidence_count": 1480,
+        "financial_impact": "R5,400,000+ concealed"
+      },
+      {
+        "event_id": "EVENT_026",
+        "title": "Bantjies Dismisses Audit Request",
+        "date": "2025-06-10",
+        "strength": 1.0,
+        "evidence_count": 664,
+        "financial_impact": "R18,685,000"
+      },
+      {
+        "event_id": "EVENT_047",
+        "title": "Unknown",
+        "date": "2025-06-10",
+        "strength": 1.0,
+        "evidence_count": 499,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_062",
+        "title": "Bantjies Learns of Criminal Matters",
+        "date": "2025-06-10",
+        "strength": 0.75,
+        "evidence_count": 1034,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVENT_014",
+        "title": "Email Impersonation Pattern and Domain Switch Instruction",
+        "date": "2025-06-20",
+        "strength": 1.0,
+        "evidence_count": 1439,
+        "financial_impact": "R3,141,647.70"
+      },
+      {
+        "event_id": "EVENT_027",
+        "title": "Domain Switch Email Instruction",
+        "date": "2025-06-20",
+        "strength": 1.0,
+        "evidence_count": 138,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_015",
+        "title": "Coordinated Fund Diversions",
+        "date": "2025-06-30",
+        "strength": 1.0,
+        "evidence_count": 2102,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_016",
+        "title": "Warehouse POPI Violations",
+        "date": "2025-07-08",
+        "strength": 1.0,
+        "evidence_count": 1992,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_017",
+        "title": "Account Manipulation",
+        "date": "2025-07-12",
+        "strength": 1.0,
+        "evidence_count": 2053,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_063",
+        "title": "Gee Email Explaining Domain Switch Instruction",
+        "date": "2025-08-15",
+        "strength": 1.0,
+        "evidence_count": 506,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_020",
+        "title": "Financial Evidence Concealment",
+        "date": "2025-08-20",
+        "strength": 1.0,
+        "evidence_count": 1566,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_021",
+        "title": "Accounts Emptied",
+        "date": "2025-09-11",
+        "strength": 0.75,
+        "evidence_count": 268,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVT-063",
+        "title": "Bantjes Email: R10M Decline and Computer Expense Analysis",
+        "date": "2025-06-10",
+        "strength": 0.75,
+        "evidence_count": 1474,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVT-064",
+        "title": "Daniel's Comprehensive 26-Point Response to Bantjes",
+        "date": "2025-06-10",
+        "strength": 0.75,
+        "evidence_count": 1130,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVT-068",
+        "title": "Rynette Makes R1M+ Debt to ReZonance 'Disappear'",
+        "date": "2024",
+        "strength": 0.75,
+        "evidence_count": 924,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVENT_070",
+        "title": "Evidence Suppression Pattern Identified",
+        "date": "2025-09-15",
+        "strength": 0.75,
+        "evidence_count": 8,
+        "financial_impact": "R5,460,000.00"
+      },
+      {
+        "event_id": "EVENT_071",
+        "title": "Early Business Relationship Establishment",
+        "date": "2017-01-01",
+        "strength": 0.75,
+        "evidence_count": 1,
+        "financial_impact": "Unknown"
+      },
+      {
+        "event_id": "EVENT_072",
+        "title": "Initial Service Agreement Framework",
+        "date": "2017-06-01",
+        "strength": 0.75,
+        "evidence_count": 1,
+        "financial_impact": "R13,000,000+ (minimum annual revenue)"
+      },
+      {
+        "event_id": "EVENT_073",
+        "title": "Debt Accumulation Pattern Begins",
+        "date": "2024-01-01",
+        "strength": 0.75,
+        "evidence_count": 1,
+        "financial_impact": "R18,685,000.00"
+      },
+      {
+        "event_id": "EVENT_074",
+        "title": "Application 3 Dismissed by Court",
+        "date": "2025-11-25",
+        "strength": 1.0,
+        "evidence_count": 1,
+        "financial_impact": "N/A"
+      },
+      {
+        "event_id": "EVENT_075",
+        "title": "Rynette Farrar Retains Legal Counsel",
+        "date": "2025-11-26",
+        "strength": 1.0,
+        "evidence_count": 2,
+        "financial_impact": "N/A"
+      },
+      {
+        "event_id": "EVENT_076",
+        "title": "Letter of Demand Issued (Defamation)",
+        "date": "2025-11-26",
+        "strength": 1.0,
+        "evidence_count": 1,
+        "financial_impact": "Potential punitive costs"
+      },
+      {
+        "event_id": "EVENT_077",
+        "title": "Ongoing Interdict Violations Reported",
+        "date": "2025-11-26",
+        "strength": 1.0,
+        "evidence_count": 1,
+        "financial_impact": "Business disruption"
+      }
+    ],
+    "events_approaching_standard": [
+      {
+        "event_id": "EVENT_054",
+        "title": "Chantal Delivers Letter About Kayla Estate Finalization",
+        "date": "2025-01-15",
+        "strength": 0.5,
+        "evidence_count": 235,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVENT_056",
+        "title": "Server Missing from Office",
+        "date": "2025-04-30",
+        "strength": 0.5,
+        "evidence_count": 1319,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVENT_059",
+        "title": "Settlement Agreement Signed",
+        "date": "2025-08-11",
+        "strength": 0.5,
+        "evidence_count": 555,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVENT_060",
+        "title": "Peter Files Founding Affidavit with Material Non-Disclosures",
+        "date": "2025-08-13",
+        "strength": 0.5,
+        "evidence_count": 855,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVT-065",
+        "title": "POPIA Violation Notice Sent to Pete",
+        "date": "2025-07-08",
+        "strength": 0.5,
+        "evidence_count": 1236,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVT-066",
+        "title": "Sage Accounting System Expires - Rynette Controls Reactivation",
+        "date": "2025-07-23",
+        "strength": 0.5,
+        "evidence_count": 1282,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVT-067",
+        "title": "Daniel Forwards Sage Evidence to Lawyer",
+        "date": "2025-08-29",
+        "strength": 0.5,
+        "evidence_count": 687,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVT-069",
+        "title": "Pete and Rynette Attempt Unauthorized Banking Changes",
+        "date": "2024-2025",
+        "strength": 0.5,
+        "evidence_count": 572,
+        "financial_impact": "0"
+      }
+    ],
+    "events_insufficient": [],
+    "strength_assessment": {}
+  },
+  "criminal_actions": {
+    "burden_of_proof": "95%+ - Beyond Reasonable Doubt",
+    "events_meeting_standard": [
+      {
+        "event_id": "EVENT_H003",
+        "title": "Financial Year Commencement RST/SLG",
+        "date": "2019-03-01",
+        "strength": 1.0,
+        "evidence_count": 1973,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_H004",
+        "title": "Financial Year Commencement Villa Via",
+        "date": "2019-05-01",
+        "strength": 0.75,
+        "evidence_count": 588,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_H005",
+        "title": "Multiple Adjusting Journal Entries",
+        "date": "2020-02-20",
+        "strength": 1.0,
+        "evidence_count": 549,
+        "financial_impact": "R1,642,000"
+      },
+      {
+        "event_id": "EVENT_051",
+        "title": "Unknown",
+        "date": "2020-02-20",
+        "strength": 1.0,
+        "evidence_count": 539,
+        "financial_impact": "R1,642,000"
+      },
+      {
+        "event_id": "EVENT_H006",
+        "title": "Year-End Adjustments and Interest Payment",
+        "date": "2020-02-28",
+        "strength": 1.0,
+        "evidence_count": 43,
+        "financial_impact": "R1,948,334.09"
+      },
+      {
+        "event_id": "EVENT_052",
+        "title": "Unknown",
+        "date": "2020-02-28",
+        "strength": 1.0,
+        "evidence_count": 100,
+        "financial_impact": "R414,334.09"
+      },
+      {
+        "event_id": "EVENT_048",
+        "title": "Unknown",
+        "date": "2020-08-13",
+        "strength": 1.0,
+        "evidence_count": 655,
+        "financial_impact": "N/A"
+      },
+      {
+        "event_id": "EVENT_H018",
+        "title": "Bantjies Sends Trial Balance Email to Bernadine Wright",
+        "date": "2020-08-13",
+        "strength": 0.75,
+        "evidence_count": 1038,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVENT_D004",
+        "title": "False Payment Claim #1 to ReZonance",
+        "date": "2023-03-15",
+        "strength": 1.0,
+        "evidence_count": 1088,
+        "financial_impact": "R470,000"
+      },
+      {
+        "event_id": "EVENT_D005",
+        "title": "False Payment Claim #2 to ReZonance",
+        "date": "2023-09-20",
+        "strength": 1.0,
+        "evidence_count": 401,
+        "financial_impact": "R765,361.34"
+      },
+      {
+        "event_id": "EVENT_022",
+        "title": "R900,000 Unauthorized Transfers from RegimA SA",
+        "date": "2025-02-14",
+        "strength": 0.75,
+        "evidence_count": 1009,
+        "financial_impact": "R900,000"
+      },
+      {
+        "event_id": "EVENT_028",
+        "title": "R5.2M SLG Stock Missing & Large Invoice",
+        "date": "2025-02-25",
+        "strength": 1.0,
+        "evidence_count": 285,
+        "financial_impact": "R5,200,000"
+      },
+      {
+        "event_id": "EVENT_001",
+        "title": "RegimA SA Revenue Diversion Started",
+        "date": "2025-03-01",
+        "strength": 0.75,
+        "evidence_count": 926,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_024",
+        "title": "R5.4M Stock Disappears from Strategic Logistics",
+        "date": "2025-03-01",
+        "strength": 1.0,
+        "evidence_count": 258,
+        "financial_impact": "R5,400,000"
+      },
+      {
+        "event_id": "EVENT_025",
+        "title": "R5.4M Stock Adjustment Processed Without Investigation",
+        "date": "2025-03-15",
+        "strength": 0.75,
+        "evidence_count": 236,
+        "financial_impact": "R5,400,000"
+      },
+      {
+        "event_id": "EVENT_003",
+        "title": "Two Years Unallocated Expenses Dumped",
+        "date": "2025-03-30",
+        "strength": 1.0,
+        "evidence_count": 1314,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_004",
+        "title": "Payment Redirection Scheme",
+        "date": "2025-04-01",
+        "strength": 1.0,
+        "evidence_count": 1059,
+        "financial_impact": "R4,276,832.85"
+      },
+      {
+        "event_id": "EVENT_005",
+        "title": "Bank Account Change Letter for RegimA Worldwide",
+        "date": "2025-04-14",
+        "strength": 1.0,
+        "evidence_count": 396,
+        "financial_impact": "R3,141,647.70"
+      },
+      {
+        "event_id": "EVENT_007",
+        "title": "Jacqui Confronts Rynette About R1,035,000 Debt",
+        "date": "2025-05-15",
+        "strength": 1.0,
+        "evidence_count": 953,
+        "financial_impact": "R1,035,000"
+      },
+      {
+        "event_id": "EVENT_008",
+        "title": "Unauthorized Transfers (R850K+)",
+        "date": "2025-05-15",
+        "strength": 1.0,
+        "evidence_count": 1668,
+        "financial_impact": "R850,000"
+      },
+      {
+        "event_id": "EVENT_050",
+        "title": "Unknown",
+        "date": "2025-05-15",
+        "strength": 1.0,
+        "evidence_count": 187,
+        "financial_impact": "R1,035,000"
+      },
+      {
+        "event_id": "EVENT_009",
+        "title": "Shopify Audit Trail Hijacking",
+        "date": "2025-05-22",
+        "strength": 0.75,
+        "evidence_count": 2488,
+        "financial_impact": "R1,000,000+ monthly"
+      },
+      {
+        "event_id": "EVENT_010",
+        "title": "Domain Registration (Identity Fraud)",
+        "date": "2025-05-29",
+        "strength": 0.75,
+        "evidence_count": 709,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_011",
+        "title": "Daniel Finalizes Fraud Reports",
+        "date": "2025-06-06",
+        "strength": 0.75,
+        "evidence_count": 609,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_012",
+        "title": "Secret Card Cancellations",
+        "date": "2025-06-07",
+        "strength": 0.75,
+        "evidence_count": 390,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_058",
+        "title": "Bantjies Dismisses Audit Request",
+        "date": "2025-06-10",
+        "strength": 1.0,
+        "evidence_count": 1480,
+        "financial_impact": "R5,400,000+ concealed"
+      },
+      {
+        "event_id": "EVENT_026",
+        "title": "Bantjies Dismisses Audit Request",
+        "date": "2025-06-10",
+        "strength": 1.0,
+        "evidence_count": 664,
+        "financial_impact": "R18,685,000"
+      },
+      {
+        "event_id": "EVENT_047",
+        "title": "Unknown",
+        "date": "2025-06-10",
+        "strength": 1.0,
+        "evidence_count": 499,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_014",
+        "title": "Email Impersonation Pattern and Domain Switch Instruction",
+        "date": "2025-06-20",
+        "strength": 1.0,
+        "evidence_count": 1439,
+        "financial_impact": "R3,141,647.70"
+      },
+      {
+        "event_id": "EVENT_015",
+        "title": "Coordinated Fund Diversions",
+        "date": "2025-06-30",
+        "strength": 1.0,
+        "evidence_count": 2102,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_016",
+        "title": "Warehouse POPI Violations",
+        "date": "2025-07-08",
+        "strength": 1.0,
+        "evidence_count": 1992,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_017",
+        "title": "Account Manipulation",
+        "date": "2025-07-12",
+        "strength": 1.0,
+        "evidence_count": 2053,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_063",
+        "title": "Gee Email Explaining Domain Switch Instruction",
+        "date": "2025-08-15",
+        "strength": 1.0,
+        "evidence_count": 506,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_020",
+        "title": "Financial Evidence Concealment",
+        "date": "2025-08-20",
+        "strength": 1.0,
+        "evidence_count": 1566,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_021",
+        "title": "Accounts Emptied",
+        "date": "2025-09-11",
+        "strength": 0.75,
+        "evidence_count": 268,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVT-063",
+        "title": "Bantjes Email: R10M Decline and Computer Expense Analysis",
+        "date": "2025-06-10",
+        "strength": 0.75,
+        "evidence_count": 1474,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVT-068",
+        "title": "Rynette Makes R1M+ Debt to ReZonance 'Disappear'",
+        "date": "2024",
+        "strength": 0.75,
+        "evidence_count": 924,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVENT_073",
+        "title": "Debt Accumulation Pattern Begins",
+        "date": "2024-01-01",
+        "strength": 0.75,
+        "evidence_count": 1,
+        "financial_impact": "R18,685,000.00"
+      }
+    ],
+    "events_approaching_standard": [
+      {
+        "event_id": "EVENT_054",
+        "title": "Chantal Delivers Letter About Kayla Estate Finalization",
+        "date": "2025-01-15",
+        "strength": 0.5,
+        "evidence_count": 235,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVT-069",
+        "title": "Pete and Rynette Attempt Unauthorized Banking Changes",
+        "date": "2024-2025",
+        "strength": 0.5,
+        "evidence_count": 572,
+        "financial_impact": "0"
+      }
+    ],
+    "events_insufficient": [],
+    "strength_assessment": {}
+  },
+  "cipc_complaints": {
+    "burden_of_proof": "Reasonable Grounds",
+    "events_meeting_standard": [
+      {
+        "event_id": "EVENT_002",
+        "title": "Trust Structure Establishment",
+        "date": "2025-03-15",
+        "strength": 0.75,
+        "evidence_count": 477,
+        "financial_impact": "R2,851,247.35"
+      },
+      {
+        "event_id": "EVENT_006",
+        "title": "Unauthorized Beneficiary Changes",
+        "date": "2025-05-02",
+        "strength": 0.75,
+        "evidence_count": 426,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_013",
+        "title": "Systematic Trust Violations",
+        "date": "2025-06-18",
+        "strength": 0.75,
+        "evidence_count": 880,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_018",
+        "title": "Trust Asset Misappropriation",
+        "date": "2025-07-25",
+        "strength": 1.0,
+        "evidence_count": 237,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_019",
+        "title": "Trust Breach Evidence",
+        "date": "2025-08-10",
+        "strength": 0.75,
+        "evidence_count": 1252,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_049",
+        "title": "Unknown",
+        "date": "2025-08-13",
+        "strength": 1.0,
+        "evidence_count": 336,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_061",
+        "title": "ENS Africa Acknowledges Criminal Matters Then Suppresses",
+        "date": "2025-08-29",
+        "strength": 0.75,
+        "evidence_count": 866,
+        "financial_impact": "0"
+      }
+    ],
+    "events_approaching_standard": [],
+    "events_insufficient": [],
+    "strength_assessment": {}
+  },
+  "popia_complaints": {
+    "burden_of_proof": "95%+ - Beyond Reasonable Doubt",
+    "events_meeting_standard": [],
+    "events_approaching_standard": [],
+    "events_insufficient": [],
+    "strength_assessment": {}
+  },
+  "commercial_crime": {
+    "burden_of_proof": "95%+ - Beyond Reasonable Doubt",
+    "events_meeting_standard": [
+      {
+        "event_id": "EVENT_H003",
+        "title": "Financial Year Commencement RST/SLG",
+        "date": "2019-03-01",
+        "strength": 1.0,
+        "evidence_count": 1973,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_H004",
+        "title": "Financial Year Commencement Villa Via",
+        "date": "2019-05-01",
+        "strength": 0.75,
+        "evidence_count": 588,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_H005",
+        "title": "Multiple Adjusting Journal Entries",
+        "date": "2020-02-20",
+        "strength": 1.0,
+        "evidence_count": 549,
+        "financial_impact": "R1,642,000"
+      },
+      {
+        "event_id": "EVENT_051",
+        "title": "Unknown",
+        "date": "2020-02-20",
+        "strength": 1.0,
+        "evidence_count": 539,
+        "financial_impact": "R1,642,000"
+      },
+      {
+        "event_id": "EVENT_H006",
+        "title": "Year-End Adjustments and Interest Payment",
+        "date": "2020-02-28",
+        "strength": 1.0,
+        "evidence_count": 43,
+        "financial_impact": "R1,948,334.09"
+      },
+      {
+        "event_id": "EVENT_052",
+        "title": "Unknown",
+        "date": "2020-02-28",
+        "strength": 1.0,
+        "evidence_count": 100,
+        "financial_impact": "R414,334.09"
+      },
+      {
+        "event_id": "EVENT_048",
+        "title": "Unknown",
+        "date": "2020-08-13",
+        "strength": 1.0,
+        "evidence_count": 655,
+        "financial_impact": "N/A"
+      },
+      {
+        "event_id": "EVENT_H018",
+        "title": "Bantjies Sends Trial Balance Email to Bernadine Wright",
+        "date": "2020-08-13",
+        "strength": 0.75,
+        "evidence_count": 1038,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVENT_D004",
+        "title": "False Payment Claim #1 to ReZonance",
+        "date": "2023-03-15",
+        "strength": 1.0,
+        "evidence_count": 1088,
+        "financial_impact": "R470,000"
+      },
+      {
+        "event_id": "EVENT_D005",
+        "title": "False Payment Claim #2 to ReZonance",
+        "date": "2023-09-20",
+        "strength": 1.0,
+        "evidence_count": 401,
+        "financial_impact": "R765,361.34"
+      },
+      {
+        "event_id": "EVENT_022",
+        "title": "R900,000 Unauthorized Transfers from RegimA SA",
+        "date": "2025-02-14",
+        "strength": 0.75,
+        "evidence_count": 1009,
+        "financial_impact": "R900,000"
+      },
+      {
+        "event_id": "EVENT_028",
+        "title": "R5.2M SLG Stock Missing & Large Invoice",
+        "date": "2025-02-25",
+        "strength": 1.0,
+        "evidence_count": 285,
+        "financial_impact": "R5,200,000"
+      },
+      {
+        "event_id": "EVENT_001",
+        "title": "RegimA SA Revenue Diversion Started",
+        "date": "2025-03-01",
+        "strength": 0.75,
+        "evidence_count": 926,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_024",
+        "title": "R5.4M Stock Disappears from Strategic Logistics",
+        "date": "2025-03-01",
+        "strength": 1.0,
+        "evidence_count": 258,
+        "financial_impact": "R5,400,000"
+      },
+      {
+        "event_id": "EVENT_025",
+        "title": "R5.4M Stock Adjustment Processed Without Investigation",
+        "date": "2025-03-15",
+        "strength": 0.75,
+        "evidence_count": 236,
+        "financial_impact": "R5,400,000"
+      },
+      {
+        "event_id": "EVENT_003",
+        "title": "Two Years Unallocated Expenses Dumped",
+        "date": "2025-03-30",
+        "strength": 1.0,
+        "evidence_count": 1314,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_004",
+        "title": "Payment Redirection Scheme",
+        "date": "2025-04-01",
+        "strength": 1.0,
+        "evidence_count": 1059,
+        "financial_impact": "R4,276,832.85"
+      },
+      {
+        "event_id": "EVENT_005",
+        "title": "Bank Account Change Letter for RegimA Worldwide",
+        "date": "2025-04-14",
+        "strength": 1.0,
+        "evidence_count": 396,
+        "financial_impact": "R3,141,647.70"
+      },
+      {
+        "event_id": "EVENT_007",
+        "title": "Jacqui Confronts Rynette About R1,035,000 Debt",
+        "date": "2025-05-15",
+        "strength": 1.0,
+        "evidence_count": 953,
+        "financial_impact": "R1,035,000"
+      },
+      {
+        "event_id": "EVENT_008",
+        "title": "Unauthorized Transfers (R850K+)",
+        "date": "2025-05-15",
+        "strength": 1.0,
+        "evidence_count": 1668,
+        "financial_impact": "R850,000"
+      },
+      {
+        "event_id": "EVENT_050",
+        "title": "Unknown",
+        "date": "2025-05-15",
+        "strength": 1.0,
+        "evidence_count": 187,
+        "financial_impact": "R1,035,000"
+      },
+      {
+        "event_id": "EVENT_009",
+        "title": "Shopify Audit Trail Hijacking",
+        "date": "2025-05-22",
+        "strength": 0.75,
+        "evidence_count": 2488,
+        "financial_impact": "R1,000,000+ monthly"
+      },
+      {
+        "event_id": "EVENT_010",
+        "title": "Domain Registration (Identity Fraud)",
+        "date": "2025-05-29",
+        "strength": 0.75,
+        "evidence_count": 709,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_011",
+        "title": "Daniel Finalizes Fraud Reports",
+        "date": "2025-06-06",
+        "strength": 0.75,
+        "evidence_count": 609,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_012",
+        "title": "Secret Card Cancellations",
+        "date": "2025-06-07",
+        "strength": 0.75,
+        "evidence_count": 390,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_058",
+        "title": "Bantjies Dismisses Audit Request",
+        "date": "2025-06-10",
+        "strength": 1.0,
+        "evidence_count": 1480,
+        "financial_impact": "R5,400,000+ concealed"
+      },
+      {
+        "event_id": "EVENT_026",
+        "title": "Bantjies Dismisses Audit Request",
+        "date": "2025-06-10",
+        "strength": 1.0,
+        "evidence_count": 664,
+        "financial_impact": "R18,685,000"
+      },
+      {
+        "event_id": "EVENT_047",
+        "title": "Unknown",
+        "date": "2025-06-10",
+        "strength": 1.0,
+        "evidence_count": 499,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_014",
+        "title": "Email Impersonation Pattern and Domain Switch Instruction",
+        "date": "2025-06-20",
+        "strength": 1.0,
+        "evidence_count": 1439,
+        "financial_impact": "R3,141,647.70"
+      },
+      {
+        "event_id": "EVENT_015",
+        "title": "Coordinated Fund Diversions",
+        "date": "2025-06-30",
+        "strength": 1.0,
+        "evidence_count": 2102,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_016",
+        "title": "Warehouse POPI Violations",
+        "date": "2025-07-08",
+        "strength": 1.0,
+        "evidence_count": 1992,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_017",
+        "title": "Account Manipulation",
+        "date": "2025-07-12",
+        "strength": 1.0,
+        "evidence_count": 2053,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_063",
+        "title": "Gee Email Explaining Domain Switch Instruction",
+        "date": "2025-08-15",
+        "strength": 1.0,
+        "evidence_count": 506,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_020",
+        "title": "Financial Evidence Concealment",
+        "date": "2025-08-20",
+        "strength": 1.0,
+        "evidence_count": 1566,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_021",
+        "title": "Accounts Emptied",
+        "date": "2025-09-11",
+        "strength": 0.75,
+        "evidence_count": 268,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVT-063",
+        "title": "Bantjes Email: R10M Decline and Computer Expense Analysis",
+        "date": "2025-06-10",
+        "strength": 0.75,
+        "evidence_count": 1474,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVT-068",
+        "title": "Rynette Makes R1M+ Debt to ReZonance 'Disappear'",
+        "date": "2024",
+        "strength": 0.75,
+        "evidence_count": 924,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVENT_073",
+        "title": "Debt Accumulation Pattern Begins",
+        "date": "2024-01-01",
+        "strength": 0.75,
+        "evidence_count": 1,
+        "financial_impact": "R18,685,000.00"
+      }
+    ],
+    "events_approaching_standard": [
+      {
+        "event_id": "EVENT_054",
+        "title": "Chantal Delivers Letter About Kayla Estate Finalization",
+        "date": "2025-01-15",
+        "strength": 0.5,
+        "evidence_count": 235,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVT-069",
+        "title": "Pete and Rynette Attempt Unauthorized Banking Changes",
+        "date": "2024-2025",
+        "strength": 0.5,
+        "evidence_count": 572,
+        "financial_impact": "0"
+      }
+    ],
+    "events_insufficient": [],
+    "strength_assessment": {}
+  },
+  "npa_tax_fraud": {
+    "burden_of_proof": "95%+ - Beyond Reasonable Doubt",
+    "events_meeting_standard": [
+      {
+        "event_id": "EVENT_H003",
+        "title": "Financial Year Commencement RST/SLG",
+        "date": "2019-03-01",
+        "strength": 1.0,
+        "evidence_count": 1973,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_H004",
+        "title": "Financial Year Commencement Villa Via",
+        "date": "2019-05-01",
+        "strength": 0.75,
+        "evidence_count": 588,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_H005",
+        "title": "Multiple Adjusting Journal Entries",
+        "date": "2020-02-20",
+        "strength": 1.0,
+        "evidence_count": 549,
+        "financial_impact": "R1,642,000"
+      },
+      {
+        "event_id": "EVENT_051",
+        "title": "Unknown",
+        "date": "2020-02-20",
+        "strength": 1.0,
+        "evidence_count": 539,
+        "financial_impact": "R1,642,000"
+      },
+      {
+        "event_id": "EVENT_H006",
+        "title": "Year-End Adjustments and Interest Payment",
+        "date": "2020-02-28",
+        "strength": 1.0,
+        "evidence_count": 43,
+        "financial_impact": "R1,948,334.09"
+      },
+      {
+        "event_id": "EVENT_052",
+        "title": "Unknown",
+        "date": "2020-02-28",
+        "strength": 1.0,
+        "evidence_count": 100,
+        "financial_impact": "R414,334.09"
+      },
+      {
+        "event_id": "EVENT_022",
+        "title": "R900,000 Unauthorized Transfers from RegimA SA",
+        "date": "2025-02-14",
+        "strength": 0.75,
+        "evidence_count": 1009,
+        "financial_impact": "R900,000"
+      },
+      {
+        "event_id": "EVENT_003",
+        "title": "Two Years Unallocated Expenses Dumped",
+        "date": "2025-03-30",
+        "strength": 1.0,
+        "evidence_count": 1314,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_004",
+        "title": "Payment Redirection Scheme",
+        "date": "2025-04-01",
+        "strength": 1.0,
+        "evidence_count": 1059,
+        "financial_impact": "R4,276,832.85"
+      },
+      {
+        "event_id": "EVENT_007",
+        "title": "Jacqui Confronts Rynette About R1,035,000 Debt",
+        "date": "2025-05-15",
+        "strength": 1.0,
+        "evidence_count": 953,
+        "financial_impact": "R1,035,000"
+      },
+      {
+        "event_id": "EVENT_008",
+        "title": "Unauthorized Transfers (R850K+)",
+        "date": "2025-05-15",
+        "strength": 1.0,
+        "evidence_count": 1668,
+        "financial_impact": "R850,000"
+      },
+      {
+        "event_id": "EVENT_012",
+        "title": "Secret Card Cancellations",
+        "date": "2025-06-07",
+        "strength": 0.75,
+        "evidence_count": 390,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_015",
+        "title": "Coordinated Fund Diversions",
+        "date": "2025-06-30",
+        "strength": 1.0,
+        "evidence_count": 2102,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_017",
+        "title": "Account Manipulation",
+        "date": "2025-07-12",
+        "strength": 1.0,
+        "evidence_count": 2053,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_020",
+        "title": "Financial Evidence Concealment",
+        "date": "2025-08-20",
+        "strength": 1.0,
+        "evidence_count": 1566,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_021",
+        "title": "Accounts Emptied",
+        "date": "2025-09-11",
+        "strength": 0.75,
+        "evidence_count": 268,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVT-063",
+        "title": "Bantjes Email: R10M Decline and Computer Expense Analysis",
+        "date": "2025-06-10",
+        "strength": 0.75,
+        "evidence_count": 1474,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVT-068",
+        "title": "Rynette Makes R1M+ Debt to ReZonance 'Disappear'",
+        "date": "2024",
+        "strength": 0.75,
+        "evidence_count": 924,
+        "financial_impact": "0"
+      },
+      {
+        "event_id": "EVENT_073",
+        "title": "Debt Accumulation Pattern Begins",
+        "date": "2024-01-01",
+        "strength": 0.75,
+        "evidence_count": 1,
+        "financial_impact": "R18,685,000.00"
+      }
+    ],
+    "events_approaching_standard": [
+      {
+        "event_id": "EVT-069",
+        "title": "Pete and Rynette Attempt Unauthorized Banking Changes",
+        "date": "2024-2025",
+        "strength": 0.5,
+        "evidence_count": 572,
+        "financial_impact": "0"
+      }
+    ],
+    "events_insufficient": [],
+    "strength_assessment": {}
+  }
+}

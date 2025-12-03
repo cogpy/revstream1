@@ -1,20 +1,265 @@
----
-layout: default
-title: "Event: Kayla Pretorius Murder"
----
 # Kayla Pretorius Murder
 
-| Field | Value |
-|---|---|
-| **Event ID** | `EVENT_H010` |
-| **Date** | 2023-01-01 |
-| **Category** | criminal_event |
-| **Related Application** | [APPLICATION_1](https://cogpy.github.io/revstream1/application-1.html) |
+**Event ID:** `EVENT_H010`
+**Date:** 2023-01-01
 
-## Description
-
-Murder of Kayla Pretorius, creating estate complications, law enforcement investigation, and family trauma. Estate includes ReZonance debt of R1,035,000.
-
-## Evidence References
-
-No direct evidence files linked.
+- **Category:** criminal_event
+- **Event Type:** murder
+- **Perpetrators:** 
+  - PERSON_002
+- **Victims:** 
+  - PERSON_008
+- **Entities Involved:** 
+  - ORG_008
+- **Description:** Murder of Kayla Pretorius, creating estate complications, law enforcement investigation, and family trauma. Estate includes ReZonance debt of R1,035,000.
+- **Financial Impact:** R1,035,000
+- **Legal Significance:** estate_complications_law_enforcement_investigation
+- **Evidence:** 
+  - police_reports_pending
+  - estate_documentation_pending
+- **Pattern:** historical_foundation_phase
+- **Additional Notes:** Account access complications, law enforcement investigation ongoing, referenced in criminal case documentation
+- **Evidence Location:** ad-res-j7/2-CRIMINAL-CASE/README.md
+- **Timeline Phase:** PHASE_005
+- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
+- **Related Applications:** 
+  - APPLICATION_2
+  - APPLICATION_3
+- **Evidence Files:** 
+  - ./UPDATED_DRAFTS/analysis-main/entities/enforcement_community.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/added_kayla_pretorius.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/test_rezonance_integration.py
+  - ./UPDATED_DRAFTS/analysis-main/entities/enforcement_mechanism.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_dynamics.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_value_protected.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/dependent_family_members.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ Rezonance - Unicorn - Joziway.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/prepare_family_safety.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_enforcement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_to_rezonance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_trustee.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/law_enforcement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_connection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_reports_murder.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_murder_connection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/border_enforcement_gaps.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_enforcement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rezonance_ltd.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enforcement_jurisdiction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_systematic_takeover.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/finds_rezonance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/through_family_courts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_finalization.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_investigation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enforcement_powers.md
+  - ./ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/law_enforcement_coordination.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/faucitt_family_trust_conspiracy_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/why_family_courts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enforcement_precedent.md
+  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2021-02-28.pdf
+  - ./UPDATED_DRAFTS/analysis-main/src/cases/rezonance_case.py
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_estate_rights.md
+  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2022-02-28.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_hug.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_theft_connection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_investigation_demands.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/used_kayla.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Rezonance - Unicorn - Joziway(1).pdf
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Regima REZONANCE.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_enforcement_loop.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_court_avoidance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/kayla_pretorius_murder.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/through_law_enforcement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_planning_disruption.md
+  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Sales_by_Customer_Detail.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_context.md
+  - ./evidence/2025-11-14-batch/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_court_misdirection.md
+  - ./UPDATED_DRAFTS/analysis-main/src/cases/rezonance_case_update.py
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Kayla's docs.pdf
+  - ./UPDATED_DRAFTS/analysis-main/rezonance_case_integration.py
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_coordination.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/takeover_following_murder.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_resolution.md
+  - ./evidence/emails/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/protect_murder_investigation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_dispute.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/conditional_language_creating.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_creating.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_complication_handling.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_recovery_requires.md
+  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF6_KAYLA_ESTATE_WITH_EMAILS.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/why_kayla_had.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_documentation.md
+  - ./docs/legal/annexures/JF08/evidence_package_20250606/RezonanceFebr2023.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/creating_systematic_chaos.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/establishes_kayla.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/protects_estate_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/kayla_pretorius.md
+  - ./case_2025_137857/02_evidence/evidence_package_20250606/RezonanceFebr2023.PDF
+  - ./UPDATED_DRAFTS/analysis-main/REZONANCE_CASE_INTEGRATION.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_to_rezonance_dating_from_february.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enforcement_pathway_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enforcement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_accounts_that_never_appeared_in_rezonance_r.md
+  - ./UPDATED_DRAFTS/analysis-main/post_murder_systematic_takeover_2023_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/following_kayla.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_protection_requires.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/exploit_enforcement_gaps.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_crime_pattern.md
+  - ./evidence/2025-11-14-batch-3/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
+  - ./evidence/2025-11-14-batch-3/REZONANCE_DEBT_ANALYSIS_2023-2025.md
+  - ./evidence/2025-11-14-batch/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/creating_medical_necessity.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_theft_continues.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/quickbooks_online_payroll_enhanced_rezonance_ltd.md
+  - ./ANNEXURES/JF08/evidence_package_20250606/RezonanceFebr2023.PDF
+  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2024.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_timeline.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/kayla_pretorius_murdered.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_enforcement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_disputes.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/following_kayla_pretorius.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_investigation_prevention.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/was_kayla.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ ReZonance and Unicorn Dynamics.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_network.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/examine_kayla.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_recovery.md
+  - ./ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_complications_kayla.md
+  - ./evidence/fake_accounts/Fw_RegimaREZONANCE.msg
+  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2024.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_rights.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategy_prevents_estate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_theft_magnitude.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/immediately_after_murder.md
+  - ./evidence/2025-11-14-batch-3/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/REZONANCE_CASE_INTEGRATION_UPDATE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_dependents.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/border_enforcement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/court_enforcement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/creating_legal_standing.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_members.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_law_focus.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enhanced_kayla_pretorius.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/about_kayla.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_therapy.md
+  - ./evidence/2025-11-14-batch-3/RezonanceFebr2024.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_beneficiary_protection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_court_frame.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/attorneys_had_murder.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rezonance_payments.md
+  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2023.PDF
+  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2018-02-28.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_enables_systematic.md
+  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2024-02-29.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/after_kayla.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_court_jurisdiction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/kayla_estate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_about_rezonance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_appropriation_attempts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/court_authorization_includes.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_investigation_avoidance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/voluntary_family.md
+  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2019-02-28.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_after_kayla.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/premeditated_murder.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/faucitt_family_trust.md
+  - ./evidence/emails/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_enforcement_mechanism.md
+  - ./evidence/fake_accounts/Fw_RegimaREZONANCE.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_estate_justice.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/creating_medical_dictatorship.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_matters.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_court_route.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_theft_protection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enforcement_mechanisms.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250606/RezonanceFebr2023.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/prepare_enforcement.md
+  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2025.PDF
+  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2025.md
+  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2023-02-28.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/payments_re_kayla.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/office_mentioning_kayla.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Recons for RegimA Supplier_ Rezonance - Feb 18 and Sept 18.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_network_coordination.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_trust.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_dysfunction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/re_kayla.md
+  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2020-02-29.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_connection_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_faucitt_family.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/controls_faucitt_family.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_operations.md
+  - ./2DO/x/regima.com/dan@regima.com/Rezonance - Unicorn - Joziway(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_victim.md
+  - ./2DO/x/regima.zone/jax@regima.zone/RE_ Rezonance - Unicorn - Joziway.pdf
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/RezonanceFebr2023.PDF
+  - ./evidence/2025-11-14-batch-3/RezonanceFebr2023.PDF
+  - ./2DO/x/regima.com/dan@regima.com/Rezonance - Unicorn - Joziway.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/cannot_claim_kayla.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_involvement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_courts_cannot.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_enforcement_venues.md
+  - ./UPDATED_DRAFTS/UBUNTU_PRINCIPLE_KAYLA_DANIEL_GIVING_AWAY_R100M_COMPREHENSIVE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_enforcement_coercion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_interest.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_complications.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rezonance_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/court_order_enforcement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_exploitation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_enforcement_path.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/if_kayla.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_protection.md
+  - ./2DO/x/rzo.io/d@rzo.io/Rezonance Febr 2023.PDF.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_courts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_unprosecuted.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_beneficiaries.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enforcement_limitation_recognition.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/border_enforcement_issues.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_opportunism.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/law_enforcement_notification.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_value.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/kayla_estate_connection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/legal_analysis/REZONANCE_ESTATE_IMPLICATIONS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enforcement_mechanism_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_court_framing.md
+  - ./evidence/fake_accounts/Fw_RegimaREZONANCE.eml
+  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2023.md
+  - ./UPDATED_DRAFTS/analysis-main/rezonance_payment_fraud_update.py
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ Rezonance - Unicorn - Joziway(1).pdf
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Rezonance - Unicorn - Joziway.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/border_enforcement_exploitation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enforcement_actions.md
+  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2025-02-28.pdf
+  - ./evidence/witness-statements/templates/TEMPLATE_KAYLA_PRETORIUS_POSTHUMOUS_DOCUMENTATION.md
+  - ./evidence/2025-11-14-batch-3/RezonanceFebr2025.PDF
+  - ./UPDATED_DRAFTS/2_YEAR_ACCOUNTING_BLACKOUT_AFTER_KAYLA_EMAIL_SEIZURE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enforcement_complexity.md
+- **Ad Res J7 References:** 
+  - See files related to: Murder, Kayla, Pretorius,, creating, estate, complications,, enforcement, investigation,, family, trauma., Estate, includes, ReZonance, R1,035,000.
+- **Crime Category:** other
+- **Phase:** PHASE_005
+- **Event Subtype:** criminal_event_murder
+- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_h010
+- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
+- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
+- **Evidence Urls:** 
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/enforcement_community.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/added_kayla_pretorius.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/estate_theft.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/test_rezonance_integration.py
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/enforcement_mechanism.md
+- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_H010.html
+- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_H010
+- **Related Application:** APPLICATION_1
+- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
+- **Ad Res J7 Evidence:** 
+  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
+  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}

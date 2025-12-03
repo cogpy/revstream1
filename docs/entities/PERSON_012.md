@@ -1,20 +1,19 @@
----
-layout: default
-title: "Jax"
----
-# Jax
+# Marisca Meyer
 
-| Field | Value |
-|---|---|
-| **Entity ID** | `PERSON_012` |
-| **Name** | Jax |
-| **Role** | witness_and_victim |
-| **Agent Type** | neutral |
-| **Involvement Events** | 2 |
+**Entity ID:** `PERSON_012`
 
-## Evidence References
+- **Full Name:** Marisca Meyer
+- **Role:** Professional Accountant (SA)
+- **Agent Type:** neutral
+- **Profession:** Professional Accountant
+- **Relationships:** 
+  - prepared_financials_for:ORG_012
+- **Actions:** 
+  - Prepared RegimaSA 2019 financial statements (issued 25 June 2025)
+- **Significance:** Prepared 6-year-old financial statements retrospectively in June 2025, timing coincides with legal proceedings
+- **Evidence:** 
+  - RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf
 
-- [jax-response/](https://github.com/cogpy/ad-res-j7/tree/main/jax-response/)
-- [ANNEXURES/JF05/correspondence/jax_emails/](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF05/correspondence/jax_emails/)
+## Related Events
 
-[View in Comprehensive Evidence Index](https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md)
+- **2025-05-15**: [Untitled Event](../events/EVENT_050.md)

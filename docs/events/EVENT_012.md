@@ -1,20 +1,438 @@
----
-layout: default
-title: "Event: Secret Card Cancellations"
----
 # Secret Card Cancellations
 
-| Field | Value |
-|---|---|
-| **Event ID** | `EVENT_012` |
-| **Date** | 2025-06-07 |
-| **Category** | financial_manipulation |
-| **Related Application** | [APPLICATION_1](https://cogpy.github.io/revstream1/application-1.html) |
+**Event ID:** `EVENT_012`
+**Date:** 2025-06-07
 
-## Description
-
-Secret cancellation of cards to sabotage Daniel's ability to pay creditors. Rynette may have opened 8 ABSA accounts using Daniel's stolen card.
-
-## Evidence References
-
-No direct evidence files linked.
+- **Category:** financial_manipulation
+- **Event Type:** payment_sabotage
+- **Perpetrators:** 
+  - PERSON_001
+  - PERSON_002
+- **Victims:** 
+  - PERSON_005
+- **Entities Involved:** 
+  - bank_accounts
+- **Description:** Secret cancellation of cards to sabotage Daniel's ability to pay creditors. Rynette may have opened 8 ABSA accounts using Daniel's stolen card.
+- **Financial Impact:** unknown_amount
+- **Legal Significance:** sabotage_of_payment_capability
+- **Evidence:** 
+  - bank_records
+  - card_cancellation_logs
+- **Pattern:** consolidation_phase
+- **Timeline Phase:** PHASE_004
+- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
+- **Related Applications:** 
+  - APPLICATION_1
+  - APPLICATION_2
+- **Evidence Files:** 
+  - ./UPDATED_DRAFTS/analysis-main/entities/unauthorized_representation_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/using_asia.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sabotage_loss.md
+  - ./lex/RYNETTE_NOT_TRUSTEE_CORRECTION.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/visa_card.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/personal_cards_only.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/contact_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/banking_industry_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_corporate_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/updated_probability_distributions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/scalability_optimizations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/scalability_patterns.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/identify_company_creditors.md
+  - ./legal_analysis_2025_11/scheme_files/south_african_civil_law_revenue_hijacking_creditor_sabotage.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hi_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/severability_provisions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enhanced_liability_factors.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/how_rynette.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/loan_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/primary_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_financial_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jax_personal_cards.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/using_fixtures.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_corporate_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/exclusive_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/fraudulent_interdict_and_warehouse_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_cards_cancelled.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_settlement_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_sabotage_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/additional_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_probability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/was_stolen.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_accounts_that_never_appeared_in_rezonance_r.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/while_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/tools/integrated_vulnerability_demonstration.py
+  - ./UPDATED_DRAFTS/analysis-main/entities/procedural_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_fa.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_business_cards.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_criminal_liability.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING(2).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/if_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/vulnerability_assessment_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/viability_proof.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/manufacturing_capability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/integration_capability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_was_stolen.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/reputational_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/tax_creditors.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/absa_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/prosecution_viability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sabotage_period.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sabotage_tool_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/deliberate_corporate_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/equilibrium_probability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interpretability_tools.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/personal_liability_pursuit.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/stores_sabotaged.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/stability_regions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/vulnerability_report_generation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/documented_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/reliability_metrics.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sabotage_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/questions_about_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_secret_card.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/vulnerability_types_identified.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sabotage_date.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/using_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/vulnerability_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/separate_legal_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_instruction.md
+  - ./jax-dan-response/AD/1-Critical/PARA_7_2-7_5_CARD_CANCELLATION_SABOTAGE_ENHANCED.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/personal_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/no_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_acting.md
+  - ./2DO/x/regima.com/dan@regima.com/URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/card_cancellations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/remove_rynette.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ 2025-04-14 - Rynette Instruction to Clients to Pay into a New Bank Account o.pdf
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_warehouse_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/british_citizen_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sabotage_effect.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/payment_card_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/deception_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/technology_accounts.md
+  - ./jax-dan-response/annexures/DAN-IT/DAN-IT-004_Card_Cancellation_Timeline.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/distributor_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/high_reliability_items.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/card_cancellation_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/via_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sabotage_timeline.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/director_criminal_liability.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ FW_ FW_ OFFER OF EMPLOYMENT LETTER - RYNETTE FARRAR - please advise on an ad.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/updated_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_farra.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_vulnerability_analyzer.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jax_confronts_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_demanding_signatures.md
+  - ./2DO/x/regima.com/dan@regima.com/Rynette Farrar details as requested.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_version.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/more_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/validate_timeline_using.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/prove_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/from_email_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/civil_liability.md
+  - ./legal_analysis_2025_11/docx/Rynette_Farrar_A_Case_Study_in_10_10_Conflict_of_Interest_Severity.docx
+  - ./UPDATED_DRAFTS/analysis-main/coordinated_card_cancellation_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/zone_card.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/specific_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sabotage_performance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/semantic_probability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_viability_then.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/perpetrator_using_courts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_liability_transfer.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/under_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/added_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_rynette_factor.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sabotage_decline.md
+  - ./UPDATED_DRAFTS/analysis-main/analysis-frontend/src/components/ui/hover-card.jsx
+  - ./UPDATED_DRAFTS/analysis-main/entities/suspected_banking_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/operational_instability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/before_warehouse_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/affected_cards.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/who_is_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/potentially_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/code_maintainability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/using_son.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_viability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bank_accounts_redirected.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Closure of accounts.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/specific_vulnerability_pattern.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/using_peter_faucitt.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(4).pdf
+  - ./2DO/x/rzo.io/d@rzo.io/RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Billin.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/director_personal_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/expense_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/lower_profitability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/only_rynette_farrar.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/growth_sustainability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_communication_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/event_probability_distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/border_criminal_liability.md
+  - ./legal_analysis_2025_11/scheme_files/south_african_company_law_director_loan_accounts.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/suspected_secret_curatorship.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_instability.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/massive_civil_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_communications.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/reliability_assessment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/document_rynette.md
+  - ./lex/cmp/za/south_african_company_law_director_loan_accounts.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/system_sabotage_evidence.md
+  - ./2DO/x/regima.com/dan@regima.com/2025-04-14 - Rynette Instruction to Clients to Pay into a New Bank Account only.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_son.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/analyze_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/using_predefined_profiles.md
+  - ./UPDATED_DRAFTS/analysis-main/analysis-frontend/src/components/ui/card.jsx
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_card_cancellation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bank_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/demonstrate_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/inventory_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/loan_creditors.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/perpetrator_using.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/critical_vulnerability.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/system_stability_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_sabotage_structured_data.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_enforceability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/with_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_sabotage_discovery.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/after_warehouse_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sequential_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/updates_rynette_farrar.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sabotage_implementation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/card_cancellation_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/trade_creditors.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/personal_card.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entity_sabotage_pattern.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_liability_two.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/updated_system_stability.md
+  - ./UPDATED_DRAFTS/Fraudulent_Use_of_Interdict_and_Warehouse_Sabotage (1).docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/card_cancellation_timeline.md
+  - ./UPDATED_DRAFTS/9TH_PRONG_WAREHOUSE_SABOTAGE_POPIA_VIOLATION_COMPREHENSIVE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/payment_sabotage_network.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_business_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_and_regima_sa_shopify_plus_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/professional_accountability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/stolen_funds_evidence.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/intersection_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_claim.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/tax_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/using_function_composition.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/secret_curatorship.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_instability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/detailed_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_sends.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/using_templates.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/system_dynamics_probability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/cards_affected.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jax_card.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_escalating_sabotage.md
+  - ./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_coordination.md
+  - ./UPDATED_DRAFTS/analysis-main/settlement_vulnerability_report_case_2025_137857_20251008_073926.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/all_accounts.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ FW_ FW_ OFFER OF EMPLOYMENT LETTER - RYNETTE FARRAR - please advise on an ad(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/investigate_rynette_farrar.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_card.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/system_stability_improvement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_operations_sabotaged.md
+  - ./UPDATED_DRAFTS/analysis-main/comprehensive_vulnerability_report_case_2025_137857_20251008_074206.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_viability_proof.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/potential_criminal_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/show_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/continued_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_vulnerability_analysis.md
+  - ./ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/card_cancellation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/service_cancellations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_system_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shows_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/payment_system_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/personal_liability_escalation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/payment_card.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/initial_corporate_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/employee_creditors.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_card_cancellation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entity_financial_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_corporate_sabotage_data.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/cards_cancelled_secretly.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/payment_cards_cancelled.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(3).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/instability_correlations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounts_manager.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_about_rezonance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_sends_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/villa_via_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/configure_secrets.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_card_cancellation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_while_coordinating_broader_sabotage_acro.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/stolen_server.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/tax_liability_manipulation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/warehouse_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/data_breach_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_bookkeeping_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinate_expert_availability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/original_card.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/basic_settlement_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/professional_accountability_required.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_enforceability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/dan_card.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sabotaged_competition.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_reveals.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/settlement_vulnerability_demonstration_guide.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hypergraph_probability.md
+  - ./UPDATED_DRAFTS/RYNETTE_SON_4_YEAR_CONSPIRACY_2021_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/separate_criminal_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/stability_measure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/likely_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/primary_sabotage_events.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/stability_index.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/personal_criminal_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/before_using_templates.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/profitability_turnaround.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/alternative_payment_card.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_viability_evidence.md
+  - ./lex/civ/za/south_african_civil_law_revenue_hijacking_creditor_sabotage.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/personal_data_stolen.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/cards_cancelled.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_cards.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/02_supporting_affidavit_shopify_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/prosecution_success_probability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/zone_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/warehouse_sabotage_damages.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/based_probability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enabler_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/affidavits/invariant-guilt-framework/Invariant_Guilt_Application_Rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/secure_card.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_hub_sustainability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/initial_payment_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/using_interdict_against_company_a_to_sabotage_comp.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_infrastructure_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/payment_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/anywhere_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/cancel_company_cards.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_vulnerability_disclosure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_far.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/about_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/selective_sabotage.md
+  - ./jax-response/evidence-attachments/dan-technical/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/individual_financial_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/initial_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/systematic_sabotage_and_curatorship_fraud_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_control_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/when_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/investigation_opened.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/payment_sabotage_scale.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sabotage_growth.md
+  - ./UPDATED_DRAFTS/analysis-main/tests/unit/test_settlement_vulnerability_analyzer.py
+  - ./UPDATED_DRAFTS/analysis-main/entities/payment_card_cancellation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/if_card.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/updated_probability.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(2).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_operations_funded_by_personal_cards.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/profitability_validation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/vicarious_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/creates_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_card.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/service_provider_cancellation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/payment_sabotage_quantification.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/debit_cards.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/subpoena_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/director_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_about.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_farrar_pete.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/vicarious_liability_network.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_competitive_position_through_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/comprehensive_corporate_sabotage_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_farrar_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_cards.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_sabotage_mechanics.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enhanced_criminal_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/exploited_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/skin_treatments_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/forced_personal_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/vulnerability_patterns.md
+  - ./lex/FAKE_ACCOUNTS_FABRICATION_FRAUD_2025-11-18.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_expenses_being_paid_by_personal_card.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_made_material.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_filed_secret.md
+  - ./UPDATED_DRAFTS/analysis-main/tools/settlement_vulnerability_analyzer.py
+  - ./UPDATED_DRAFTS/analysis-main/entities/service_subscription_cancellation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/from_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/previous_probability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/success_probability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_warehouse_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_reliability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/only_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/scalability_focus.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/against_rynette_farrar.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_counter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_status.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/personal_cards.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_sabotage_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/using_deployment_script.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_farrar.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/by_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/personal_liability.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Fw_ 2025-04-14 - Rynette Instruction to Clients to Pay into a New Bank Accou.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/secret_actions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/profitability_deterioration.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_farrar_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/verification_reliability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_liability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/stolen_funds.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/forwards_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/each_sabotage_had.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/quantified_sabotage_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/deliberate_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/integrated_vulnerability_demonstration.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/operational_sabotage.md
+  - ./jax-dan-response/AD/1-Critical/COORDINATED_SABOTAGE_TEMPORAL_ANALYSIS_ENHANCED.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/integrated_probability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/growth_sustainability_evidence.md
+- **Ad Res J7 References:** 
+  - See files related to: Secret, cancellation, cards, sabotage, Daniel's, ability, creditors., Rynette, opened, accounts, using, Daniel's, stolen, card.
+- **Crime Category:** revenue_theft
+- **Phase:** PHASE_004
+- **Event Subtype:** financial_manipulation_payment_sabotage
+- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_012
+- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
+- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
+- **Evidence Urls:** 
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/unauthorized_representation_rynette.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/using_asia.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/sabotage_loss.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/lex/RYNETTE_NOT_TRUSTEE_CORRECTION.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/visa_card.md
+- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_012.html
+- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_012
+- **Related Application:** APPLICATION_1
+- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
+- **Ad Res J7 Evidence:** 
+  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
+  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}

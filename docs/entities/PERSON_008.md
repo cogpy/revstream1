@@ -1,21 +1,20 @@
----
-layout: default
-title: "Kayla"
----
 # Kayla
 
-| Field | Value |
-|---|---|
-| **Entity ID** | `PERSON_008` |
-| **Name** | Kayla |
-| **Role** | estate_creditor |
-| **Agent Type** | victim |
-| **Involvement Events** | 2 |
+**Entity ID:** `PERSON_008`
 
-## Evidence References
+- **Status:** deceased
+- **Role:** estate_creditor
+- **Agent Type:** victim
+- **Involvement Events:** 2
+- **Relationships:** 
+  - estate_creditor_of_ORG_002
+  - email_account_subject_to_court_order
+- **Financial Impact:** {'estate_debt_owed': 'R1,035,000', 'since': 'Feb 2023', 'primary_categories': ['unpaid_debt', 'estate_fraud']}
+- **Additional Notes:** Court order obtained to seize account from Kayla's email, interfering with law enforcement investigation that had instructed freeze
+- **Timeline Events:** 
+  - EVENT_023
+  - EVENT_054
 
-- [evidence/estate_fraud/kayla_estate/](https://github.com/cogpy/ad-res-j7/tree/main/evidence/estate_fraud/kayla_estate/)
-- [evidence/court_orders/email_account_seizure/](https://github.com/cogpy/ad-res-j7/tree/main/evidence/court_orders/email_account_seizure/)
-- [evidence/debt/R1_035M_unpaid/](https://github.com/cogpy/ad-res-j7/tree/main/evidence/debt/R1_035M_unpaid/)
+## Related Events
 
-[View in Comprehensive Evidence Index](https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md)
+No direct events found for this entity.

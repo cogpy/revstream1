@@ -1,20 +1,1365 @@
----
-layout: default
-title: "Event: Two Years Unallocated Expenses Dumped"
----
 # Two Years Unallocated Expenses Dumped
 
-| Field | Value |
-|---|---|
-| **Event ID** | `EVENT_003` |
-| **Date** | 2025-03-30 |
-| **Category** | financial_manipulation |
-| **Related Application** | [APPLICATION_1](https://cogpy.github.io/revstream1/application-1.html) |
+**Event ID:** `EVENT_003`
+**Date:** 2025-03-30
 
-## Description
-
-Rynette and Peter dumped two years' worth of unallocated expenses from all companies into RegimA Worldwide and pressured Daniel to sign off within 12 hours for SARS VAT & Annual Accounts. Daniel used time until June 6th to finalize reports and uncover fraud.
-
-## Evidence References
-
-No direct evidence files linked.
+- **Category:** financial_manipulation
+- **Event Type:** expense_dumping
+- **Perpetrators:** 
+  - PERSON_001
+  - PERSON_002
+- **Victims:** 
+  - PERSON_005
+  - ORG_001
+- **Entities Involved:** 
+  - ORG_001
+  - all_companies
+- **Description:** Rynette and Peter dumped two years' worth of unallocated expenses from all companies into RegimA Worldwide and pressured Daniel to sign off within 12 hours for SARS VAT & Annual Accounts. Daniel used time until June 6th to finalize reports and uncover fraud.
+- **Financial Impact:** unknown_amount
+- **Legal Significance:** systematic_financial_manipulation_and_pressure_tactics
+- **Evidence:** 
+  - email_records
+  - accounting_records
+  - SARS_submissions
+- **Pattern:** foundation_phase
+- **Additional Notes:** Occurred while accounts system controlled by Rynette using Peter's email, despite Linda being employed as bookkeeper
+- **Timeline Phase:** PHASE_001
+- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
+- **Related Applications:** 
+  - APPLICATION_1
+- **Evidence Files:** 
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ RegimA SA - zero return to CIPC.pdf
+  - ./evidence/2025-11-14-batch-3/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_w_organization.md
+  - ./lex/RYNETTE_NOT_TRUSTEE_CORRECTION.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/ensures_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_asset.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_with_multiple_development_environments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bank_account_fraud.md
+  - ./backups/pre-consolidation/jax-dan-response/peters_causation.md
+  - ./2DO/x/proton.me/jfaucitt@proton.me/REGIMA.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual.md
+  - ./evidence/2025-11-14-batch/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
+  - ./evidence/computer-expenses/Computer Expenses Analysis Framework.md
+  - ./evidence/character-references/CHARACTER_REFERENCE_DANIEL_FAUCITT_2025-10-11.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/damage_assessment_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/why_peter_escalates.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
+  - ./evidence/emails/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
+  - ./case_2025_137857/02_evidence/misc/Peter Faucitt _ Jacqui Faucitt and others.eml
+  - ./evidence/emails/jaz-DanielFaucitt-Outlook.pdf
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/analysis_reports_documentation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_savings.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_ownership.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/testing_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_world_wide_dist.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_targeted.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_expense_analysis.md
+  - ./docs/reports/completion/TASK_COMPLETION_PETERS_WITHDRAWALS_JF-PA.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_financial_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/combined_annual_criminal.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_report_shows_continuing_activity_throu.md
+  - ./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO4-insolvency-assessment-pre-daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_freezing_orders.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/within_weeks.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/if_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/absa_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_spazone.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_for_the_period.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/Shopify_Invoices_RegimA_2016-2025.txt
+  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2018to29February2019.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/confirms_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_operations_forced_onto_personal_paymen.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_joburg_za.md
+  - ./evidence/fake_accounts/RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regulatory_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sales_expenses.md
+  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
+  - ./2DO/x/regima.com/dan@regima.com/RegimA Dr H - Commercial Property Payment Schedule(1).pdf
+  - ./evidence/computer-expenses/Computer Expenses Categorization Methodology.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_august.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_james.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_after_kayla.md
+  - ./evidence/fake_accounts/Fw_RegimaREZONANCE.pdf
+  - ./evidence/financial-analysis/shopify-reports/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_support.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_compliance_directive_has_been_properly_anal.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_analysis_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_distributions.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/RegimA_Zone_UK_Bank_Shopify_Payments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/questions_about_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enabling_further_fraud.md
+  - ./evidence/2025-11-14-batch-3/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/technology_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/using_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/proved_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_evidence_has_revealed_a_com.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/for_peter_faucitt.md
+  - ./evidence/shopify_invoices/RegimA_WWD_219919459.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/establishes_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_platform.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_acting.md
+  - ./WIP/RULE42(1)(a)APPLICATION-RESCISSIONFORFRAUD.docx
+  - ./docs/legal/annexures/JF03/Re_ The RegimA Group results and Computer Expense analysis.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_monthly_trend_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_exposing_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/why_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/trust_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_store.md
+  - ./WIP/RULE42_APPLICATION_RESCISSION_FOR_FRAUD.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/obtain_peter.md
+  - ./2DO/x/regima.zone/emma@regima.zone/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(3).pdf
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-combined.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/operational_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/deter_daniel.md
+  - ./evidence/shopify_invoices/RegimA_WWD_238981832.pdf
+  - ./case_2025_137857/02_evidence/financial/Fw_ The RegimA Group results and Computer Expense analysis.eml
+  - ./UPDATED_DRAFTS/analysis-main/docs/peter-faucitt-interdict/peter-faucitt-interdict-combined.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_hypergnn_network.md
+  - ./evidence/correspondence/dan-bantjies-jun2025/Computer Expenses Categorization Report (Corrected) (1).pdf
+  - ./docs/legal/annexures/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ FW_ FW_ OFFER OF EMPLOYMENT LETTER - RYNETTE FARRAR - please advise on an ad.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_farra.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/claims_daniel.md
+  - ./2DO/x/regima.zone/jax@regima.zone/Fw_ Statement from Ozow (Pty) Ltd for RegimA Skin Treatments.pdf
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2024to28February2025.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/compensate_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_systematically.md
+  - ./2DO/x/regima.com/dan@regima.com/Rynette Farrar details as requested.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/estimated_annual_impact.md
+  - ./jax-response/evidence-attachments/dan-technical/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/logistics_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_version.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribu.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_closing_balance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_creates.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/prevent_peter.md
+  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2022to28February2023.PDF
+  - ./evidence/shopify_invoices/RegimA_WWD_215654830.pdf
+  - ./case_2025_137857/02_evidence/evidence_package_20250606/ComputerExpensesCategorizationReport(Corrected).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_regima_group.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF03/Fw_ The RegimA Group results and Computer Expense analysis.msg
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_and_regima_sa_shopify_stores.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_payments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_backdating_fraud.md
+  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2020to28February2021.PDF
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(5).pdf
+  - ./evidence/2025-11-14-batch/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_recorded_activity_immediately_following_.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/who_is_rynette.md
+  - ./evidence/bank-statements/regima-sa/REGIMA_SA_BANK_STATEMENT_2024-10-07.md
+  - ./case_2025_137857/02_evidence/screenshots/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(4).pdf
+  - ./evidence/2025-11-14-batch-3/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_w.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_listed_as_d.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/report_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/only_rynette_farrar.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_operating_as_a_legitimate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./evidence/invoices/RegimA_WWD_202577874.pdf
+  - ./UPDATED_DRAFTS/analysis-main/src/utils/configure_detailed_reports.py
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_branding_suggests_single_economic_entity.md
+  - ./UPDATED_DRAFTS/analysis-main/REGIMA_SA_COMPARISON_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/unallocated_transactions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_invoice_analysis_reveals_a.md
+  - ./lex/cmp/za/south_african_company_law_director_loan_accounts.scm
+  - ./2DO/x/regima.com/dan@regima.com/2025-04-14 - Rynette Instruction to Clients to Pay into a New Bank Account only.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_resulting_in_vanishing_debt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_board_under_companies_act.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/portray_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_card_cancellation.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2021to28February2022.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/related_fraud.md
+  - ./docs/legal/affidavits/daniel-affidavit-strategic-logistics.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/backdating_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_stores_are_development.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-combined.json
+  - ./docs/legal/annexures/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_subsidization.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_distribution_payment.md
+  - ./2DO/x/regima.com/dan@regima.com/Consequences of Peter Exceeding the Interdict.pdf
+  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2023to29February2024.PDF
+  - ./evidence/2025-11-14-batch/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_cannot.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md
+  - ./case_2025_137857/02_evidence/screenshots/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./evidence/2025-11-14-batch-2/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./evidence/invoices/RegimA_WWD_194025833.pdf
+  - ./UPDATED_DRAFTS/analysis-main/evidence/RegimA_Zone_UK_Bank_Shopify_Payments.png
+  - ./UPDATED_DRAFTS/analysis-main/entities/mr_daniel_jacobus.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_payment_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/appears_peter_faucitt.md
+  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2023to29February2024.PDF
+  - ./jax-response/evidence-attachments/dan-technical/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_potential_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/if_peter_faucitt.md
+  - ./2DO/x/rzo.io/d@rzo.io/no other mail from Danie between 2023-02-27 until 2025-06-03.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/claiming_daniel.md
+  - ./2DO/x/ensafrica.com/smunga@ensafrica.com/Re_ belongs to regimA.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_share.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/expense_attribution_fraud.md
+  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2018to29February2019.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_claim.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_wwd_wholesale_distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_and_regima_sa_affected_by_same_action.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments.md
+  - ./2DO/x/ensafrica.com/apapadopoulos@ensafrica.com/RE_ Trade mark registration nos. UK00914297063 REGIMA ZONE in classes 03, 05 and(2).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_complete_shopify_erasure.md
+  - ./evidence/character-references/CHARACTER_REFERENCE_DANIEL_FAUCITT_2025-10-11.docx
+  - ./2DO/x/ensafrica.com/smunga@ensafrica.com/Peter Faucitt _ Jacqui Faucitt and others.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_distributio.md
+  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2024to28February2025.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/updates_peter_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/created_peter.md
+  - ./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_shows.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_and_regima_zone_operations.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/manufacturing_expenses.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ note 2024-02-21 - ABSA Account RegimA Worldwide.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_clients_likely_diverted_to_peter.md
+  - ./evidence/computer-expenses/SARS Tax Justification Template for Computer Expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_and_divert_revenue.md
+  - ./evidence/invoices/RegimA_WWD_224432061.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_becomes_non.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_structured_payment_data.md
+  - ./2DO/x/regima.zone/dan@regima.zone/danie reports 250610.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/prelim_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_competitors.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_corporate_sabotage_data.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2024to28February2025.PDF
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(3).pdf
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_erasure_was.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/makes_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/if_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_shopify_costs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_about_rezonance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_ecosystem.md
+  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2021to28February2022.PDF
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF02/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment_history.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_card_failures_begin.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shows.md
+  - ./evidence/analysis/timelines/Timeline_of_Events_RegimA_Revenue_Stream_Hijacking.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_showing_revenue_grow.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_entity_transactions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/managed_regima_zone.md
+  - ./evidence/shopify_invoices/RegimA_WWD_229995998.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_business_account.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025-137.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_for_fiduciary_breach.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_is_d.md
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_is_dan.md
+  - ./evidence/shopify_invoices/RegimA_WWD_206815428.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/eliminate_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_network.md
+  - ./evidence/shopify_invoices/RegimA_WWD_186164902.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_and_regima_sa_provide.md
+  - ./2DO/x/regima.zone/jax@regima.zone/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/whether_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/create_daniel_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/companies_act.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_functioning_with_corporate_payment_metho.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/expected_annual_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_has.md
+  - ./jax-response/evidence-attachments/dan-technical/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_and_subsidiaries.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_as_cost_dumping_ground.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sales_reports.md
+  - ./docs/legal/annexures/JF08/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/discredit_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sabotage.md
+  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2017to29February2018.PDF
+  - ./jax-response/evidence-attachments/dan-technical/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_victim_subsidization.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/through_action_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/summary_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/peter_fiduciary_breach_analysis.md
+  - ./evidence/shopify_invoices/RegimA_WWD_194025833.pdf
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/02_supporting_affidavit_shopify_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/invoice_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_decline.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md
+  - ./jax-response/evidence-attachments/dan-technical/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_companies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_revenue.md
+  - ./2DO/x/elliottattorneys.co.za/keegan@elliottattorneys.co.za/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025.pdf
+  - ./jax-response/evidence-attachments/JF-CHESNO4-insolvency-assessment-pre-daniel.md
+  - ./evidence/annexures/JF-PA3_PETER_WITHDRAWAL_EXAMPLE_3.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/call_serious_fraud.md
+  - ./2DO/x/regima.zone/emma@regima.zone/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres.pdf
+  - ./ANNEXURES/JF01/Re_ The RegimA Group results and Computer Expense analysis.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_vs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/create_peter_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/screenshots/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_was_in_the_process_of_applying_for_ban.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_expenses_as.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estimated_annual_harm.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_files_ex.md
+  - ./evidence/computer-expenses/Multi-Year Computer Expenses Analysis Template.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_james_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/generate_enhanced_reports.md
+  - ./docs/legal/annexures/JF01/Re_ The RegimA Group results and Computer Expense analysis.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_sa.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_sa_operations.md
+  - ./jax-dan-response/evidence-attachments/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md
+  - ./evidence/annexures/JF-CHESNO4_INSOLVENCY_ASSESSMENT_PRE_DANIEL.md
+  - ./2DO/x/regima.zone/jax@regima.zone/FW_ Trade mark registration nos. UK00914297063 REGIMA ZONE in classes 03, 05 and.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_farrar_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/RegimA SA · Reports · Total sales over time by store · Shopify Plus.pdf
+  - ./UPDATED_DRAFTS/analysis-main/docs/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2018to29February2019.PDF
+  - ./evidence/invoices/RegimA_WWD_215654830.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/year_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_compliance_directive_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/exploited_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/skin_treatments_accounts.md
+  - ./case_2025_137857/02_evidence/screenshots/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./2DO/x/regima.com/dan@regima.com/RegimA SA - Shopify.pdf
+  - ./evidence/correspondence/dan-bantjies-jun2025/regima_account_analysis_2024_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_medic.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/for_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/companies_act_violation.md
+  - ./2DO/x/regima.zone/emma@regima.zone/Re_ Lloyds RegimA UK Bank information(1).pdf
+  - ./evidence/shopify_reports/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2021to28February2022.PDF
+  - ./2DO/x/ensafrica.com/cshapiro@ensafrica.com/Re_ Trade mark registration nos. UK00914297063 REGIMA ZONE in classes 03, 05 and(1).pdf
+  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2019to29February2020.PDF
+  - ./evidence/annexures/JF-CHESNO3_POLICE_REPORTS_FRAUD_INVESTIGATION.md
+  - ./evidence/invoices/RegimA_WWD_219952542.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_exploits.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/mr_daniel_jacobus_bantjes.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/by_rynette.md
+  - ./case_2025_137857/02_evidence/screenshots/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_za_gauteng.md
+  - ./2DO/x/regima.zone/jax@regima.zone/DAN REPORTS SENT FOR EXPENSES FRAMEWORK.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_card_stopped_working.md
+  - ./2DO/x/regima.zone/emma@regima.zone/Re_ Lloyds RegimA UK Bank information(2).pdf
+  - ./2DO/x/regima.zone/emma@regima.zone/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(2).pdf
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & 1 OTHER (CASE NR_ 2025-137857).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2018to29February2019.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_za_eastern_cape.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_respondent_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_damages.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_perez.md
+  - ./evidence/2025-11-14-batch/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_curatorship_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_harm.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/unauthorized_representation_rynette.md
+  - ./evidence/annexures/JF-DLA1_PETER_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/RegimA WW+Zone · Reports · Total sales over time by store · Shopify Plus ZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_to_rezonance.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(2).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_evidence_exposes_a.md
+  - ./ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_europe_ltd_quickbooks_online_plus.md
+  - ./evidence/invoices/RegimA_WWD_182424713.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/contact_rynette.md
+  - ./ANNEXURES/JF03/Fw_ The RegimA Group results and Computer Expense analysis.msg
+  - ./2DO/x/regima.zone/jax@regima.zone/RE_ Trade mark registration nos. UK00914297063 REGIMA ZONE in classes 03, 05 and.pdf
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/screenshots/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_with_fiduciary_rights.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF01/Re_ belongs to regimA.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/since_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_supporting_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_academy_ltd_quickbooks_online_plus.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shopify_invoices.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/exclusive_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_personal_payment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_provided.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_a_substantial.md
+  - ./evidence/2025-11-14-batch/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_ongoing_interference.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_fa.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(1).pdf
+  - ./jax-dan-response/PETERS_CAUSATION_INTEGRATION_GUIDE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_eu_contract_and_breach.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/pension_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_costs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_fauc.md
+  - ./ANNEXURES/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_affected_while_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_corporate_harm.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/screenshots/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./evidence/compliance/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_and_banking_services.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_coordination.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_fraud.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/review_of_her_access_permissions_across_all_regima.md
+  - ./2DO/x/proton.me/jfaucitt@proton.me/regimaskin.co.za belongs to regimA.pdf
+  - ./2DO/x/ensafrica.com/smunga@ensafrica.com/Re_ The RegimA Group results and Computer Expense analysis.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_jacobus_bantjes.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/critical_payment_fraud.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT DKCBCWFP.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_corporate_structure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/double_fraud.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ danie reports 250610.pdf
+  - ./UPDATED_DRAFTS/UBUNTU_PRINCIPLE_KAYLA_DANIEL_GIVING_AWAY_R100M_COMPREHENSIVE.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/PETERS_CAUSATION_SECTION_DRAFT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/while_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/remove_rynette.md
+  - ./docs/reports/verification/TASK_VERIFICATION_PETERS_PARTICIPATION.md
+  - ./evidence/shopify_invoices/RegimA_WWD_219921131.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/material_evidence_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/expected_annual.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_shopify_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/transfer_pricing_fraud.md
+  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2017to29February2018.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/for_daniel_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_where_he_has_no_interest.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_distribution_system.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-complete.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/claims_under_companies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/technology_accounts.md
+  - ./docs/legal/annexures/JF02/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ MARCH 2023 CIPC ANNUAL RETURNS.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/specific_companies_under.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_andrew_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_showing.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/group_companies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_peter.md
+  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_companies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_is.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/incapacity_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/call_action_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/villa_via_charges_excessive_rent_to_regima_group.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(13).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/system_evaluation_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/prove_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/document_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_dr_h_wandsworth_town_ltd_quickbooks_online_.md
+  - ./ANNEXURES/JF08/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/enable_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shopify_historical_performance_report.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_has.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_focus.md
+  - ./evidence/shopify_reports/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ danie reports 250610.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_for_distribution.md
+  - ./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO1-forensic-accounting-reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/gaslight_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_za_western_cape_za.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_regarding_financial_analysis_of_regima_group.md
+  - ./docs/legal/annexures/JF08/evidence_package_20250606/ComputerExpensesCategorizationReport(Corrected).pdf
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/complex_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/computer_expenses_categorization.md
+  - ./jax-dan-response/evidence-attachments/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/computer_platform_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/oversight_and_compliance_for_regima_group.md
+  - ./2DO/x/regima.com/dan@regima.com/Partial Contributions to Timeline_ RegimA _Group_ Financial Fraud (2017-2025).pdf
+  - ./evidence/invoices/RegimA_WWD_238981832.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_shopify_historical_performance_report.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_for.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annualized_loss_projection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_payment_history.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-combined.md
+  - ./docs/legal/annexures/JF02/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./jax-dan-response/annexures/DAN-IT/DAN-IT-002_RegimA_Financial_Records_IT_Spend_2024.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/marketing_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/south_african_companies.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/RegimA WW+Zone · Reports · Total sales over time by store · Shopify Plus ZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/received_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_shopify_invoices.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./legal_analysis_2025_11/scheme_files/south_african_company_law_director_loan_accounts.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_europe_specialized_store.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_continued_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/quickbooks_online_payments_regima_zone_academy_ltd.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_confirmed_daniel.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi.pdf
+  - ./evidence/shopify_invoices/RegimA_WWD_219971512.pdf
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(8).pdf
+  - ./evidence/invoices/RegimA_WWD_190122857.pdf
+  - ./evidence/IT_EXPENSES_BREAKDOWN.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/document_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_daniel_did.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./UPDATED_DRAFTS/analysis-main/entities/analyze_rynette.md
+  - ./ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/demonstrate_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/inventory_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_europe_with_r.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_tax_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_monthly_costs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_platform.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ FNB Statement_ _REGIMA SA (PTY) LTD - 2025-07-27 - 62896473974.pdf
+  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/related_companies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_focus.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/mail_fraud.md
+  - ./jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md
+  - ./jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./evidence/invoices/RegimA_WWD_219919459.pdf
+  - ./jax-dan-response/evidence-attachments/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md
+  - ./ANNEXURES/JF08/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./2DO/x/proton.me/regizone@proton.me/Fw_ regimaskin.co.za domain lookup results.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_and_regima_sa_shopify_plus_accounts.md
+  - ./evidence/emails/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/common_law_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_structure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/creditor_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/isolate_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_sends.md
+  - ./evidence/shopify_invoices/RegimA_WWD_198314119.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_corporate_card_disabled.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(2).pdf
+  - ./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jax_confronted_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2020to28February2021.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_did.md
+  - ./case_2025_137857/02_evidence/financial/Fw_ The RegimA Group results and Computer Expense analysis.msg
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_sends.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shopify_report_shows_a_complete_cessatio.md
+  - ./2DO/x/regima.com/dan@regima.com/Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_forced_subsidization.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_distribu.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sue_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_card.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_cost.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shopify_shows_r.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_ltd.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ The RegimA Group results and Computer Expense analysis(3).pdf
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2025to28February2026.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_pty_ltd.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/initial_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_tax_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/companies_act_section.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/assumed_peter.md
+  - ./evidence/shopify_invoices/RegimA_WWD_224432061.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/force_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_platform_continued_operations_during_t.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/generate_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_has_r.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shows_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment_method_changes.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/any_peter.md
+  - ./2DO/x/ensafrica.com/apapadopoulos@ensafrica.com/RE_ Trade mark registration nos. UK00914297063 REGIMA ZONE in classes 03, 05 and(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_corporate_card_mysteriously.md
+  - ./evidence/correspondence/legal-compliance/ReftoREGIMAZONE(Pty)Ltd(2017_110437_07).eml
+  - ./evidence/fake_accounts/Fw_RegimaREZONANCE.msg
+  - ./jax-response/evidence-attachments/dan-technical/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_organizational_entities.md
+  - ./jax-dan-response/evidence-attachments/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/villa_via_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_durban_za.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_annual_expenses.md
+  - ./evidence/emails/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/all_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_claiming.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_distribution_pty.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_complete_erasure.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_tax_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_za.md
+  - ./jax-dan-response/evidence-attachments/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Recons for RegimA Supplier_ Rezonance - Feb 18 and Sept 18.pdf
+  - ./evidence/shopify_invoices/RegimA_WWD_211145467.pdf
+  - ./evidence/annexures/JF-CHESNO1_FORENSIC_ACCOUNTING_REPORTS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_simultaneously.md
+  - ./evidence/annexures/JF-DLA3_DANIEL_DIRECTOR_LOAN_ACCOUNT.md
+  - ./docs/legal/annexures/JF03/Fw_ The RegimA Group results and Computer Expense analysis.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_preservation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_as_target_entity_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_entities_do_not_constitute_a_single.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_entities.md
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-combined.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_peter.md
+  - ./ANNEXURES/JF08/evidence_package_20250523/RegimA_Zone_W_388990813.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distributions_unit.md
+  - ./UPDATED_DRAFTS/RYNETTE_SON_4_YEAR_CONSPIRACY_2021_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_stores.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_showing.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraud.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(3).pdf
+  - ./evidence/computer-expenses/Computer Expenses Categorization Report (Corrected).md
+  - ./UPDATED_DRAFTS/analysis-main/entities/case_analysis_reports.md
+  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2019to29February2020.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_network.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_business_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/making_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/holmes_analysis_of_the_regima_group.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interdicted_companies.md
+  - ./UPDATED_DRAFTS/analysis-main/affidavits/invariant-guilt-framework/Invariant_Guilt_Application_Rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/against_peter_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_funding_of_regima_worldwide_distrib.md
+  - ./2DO/x/regima.zone/emma@regima.zone/Re_ Lloyds RegimA UK Bank information.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/harass_daniel.md
+  - ./jax-response/dan-response-materials/peters_causation.md
+  - ./ANNEXURES/JF08/evidence_package_20250606/ComputerExpensesCategorizationReport(Corrected).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_far.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_audit_trails_completely_erased.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_daniel_told.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/companies_involved.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_trust.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_18_acceptance_trusteeship_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_e.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250523/RegimA_Zone_W_388990813.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_records.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_payment_fraud.md
+  - ./jax-dan-response/rule-42-rescission/FOUNDING_AFFIDAVIT_Daniel_Faucitt_Rule_42.md
+  - ./evidence/annexures/JF-PA4_PETER_WITHDRAWAL_EXAMPLE_4.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/proves_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_funded_rwd_operations.md
+  - ./docs/legal/annexures/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_weakened_as_competitive_threat.md
+  - ./2DO/x/ensafrica.com/cshapiro@ensafrica.com/Re_ Trade mark registration nos. UK00914297063 REGIMA ZONE in classes 03, 05 and(2).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interest_fraud.md
+  - ./ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
+  - ./legal_analysis_2025_11/court_documents/2025_08_19_-_Peter_Faucitt_Interdict.pdf
+  - ./docs/legal/annexures/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_eu_contract_and_breach_documentation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_card.md
+  - ./2DO/x/regima.zone/jax@regima.zone/Fw_ The RegimA Group results and Computer Expense analysis.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/enables_tax_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/custody_reports_complete.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_europe_ltd.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_cards.md
+  - ./docs/legal/annexures/JF08/evidence_package_20251012/regima_uk_extraction.json
+  - ./ANNEXURES/JF03/Re_ The RegimA Group results and Computer Expense analysis.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/wire_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2022to28February2023.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_card_stopped_working_around_march.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/denying_daniel.md
+  - ./case_2025_137857/02_evidence/emails/Re_ The RegimA Group results and Computer Expense analysis.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/were_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_documents.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_expenses_being_paid_by_personal_card.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/protect_daniel_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_eu_collapse.md
+  - ./evidence/shopify_invoices/RegimA_WWD_202577874.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_shutdown.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/against_rynette_farrar.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2017to29February2018.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_farrar.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/distribution_companies.md
+  - ./evidence/2025-11-14-batch-2/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-complete.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250523/RegimA_Zone_W_388990813.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/deduction_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_stores.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/forwards_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regulatory_authority_with_oversight_of_regima_grou.md
+  - ./2DO/x/elliottattorneys.co.za/keegan@elliottattorneys.co.za/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_summary_reports.md
+  - ./evidence/shopify_invoices/RegimA_WWD_194170220.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_employees_are_unauthorized_.md
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-complete.md
+  - ./case_2025_137857/02_evidence/misc/Peter Faucitt _ Jacqui Faucitt and others.msg
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_as_profit_center.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_companies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_ownership_matters.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_account_number.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_director_sabotaging_his_own_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_owed_duties.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/quickbooks_online_payroll_enhanced_regima_medic_lt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_resulting_in.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_andrew.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_potential_peter.md
+  - ./jax-dan-response/evidence-attachments/PETERS_CAUSATION_SECTION_DRAFT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/how_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/loan_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_accounts_that_never_appeared_in_rezonance_r.md
+  - ./evidence/correspondence/JF8C_PETER_REFUSAL_TO_ENGAGE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/target_companies.md
+  - ./evidence/2025-11-14-batch/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf
+  - ./evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ The RegimA Group results and Computer Expense analysis.pdf
+  - ./evidence/shopify_invoices/RegimA_WWD_190122857.pdf
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ The RegimA Group results and Computer Expense analysis(2).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/estimated_annual_loss.md
+  - ./case_2025_137857/02_evidence/screenshots/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./UPDATED_DRAFTS/analysis-main/entities/packaging_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_emails.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distributio.md
+  - ./2DO/x/regima.zone/jax@regima.zone/RE_ Trade mark registration nos. UK00914297063 REGIMA ZONE in classes 03, 05 and(1).pdf
+  - ./case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.msg
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_entity.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF02/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_WITNESS_STATEMENT.md
+  - ./evidence/IT_EXPENSES_COMPLETION_REPORT.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/international_data_theft_and_invoice_fraud.md
+  - ./evidence/invoices/RegimA_WWD_229995998.pdf
+  - ./evidence/witness-statements/templates/TEMPLATE_DANIEL_SHOPIFY_PLATFORM_OWNERSHIP.md
+  - ./evidence/2025-11-14-batch/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./UPDATED_DRAFTS/analysis-main/entities/documented_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/wandsworth_town_ltd.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/companies_under_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_reports.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(12).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/completed_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/within_days.md
+  - ./evidence/computer-expenses/Computer Expenses Categorization Report.md
+  - ./jax-response/evidence-attachments/dan-technical/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_instruction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/establishes_peter.md
+  - ./case_2025_137857/02_evidence/evidence_package_20251012/regima_uk_extraction.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/generate_reports_output.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_regarding_regima_group.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/quickbooks_online_simple_start_regima_europe_ltd.md
+  - ./evidence/2025-11-14-batch-3/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf
+  - ./jax-dan-response/evidence-attachments/PETERS_CAUSATION_ANALYSIS.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ 2025-04-14 - Rynette Instruction to Clients to Pay into a New Bank Account o.pdf
+  - ./case_2025_137857/02_evidence/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/facilitate_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/clarified_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_funds.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entity_tax_fraud.md
+  - ./docs/legal/annexures/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/computer_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_distributions_unit.md
+  - ./evidence/emails/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_shopify_invoices.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/via_rynette.md
+  - ./ANNEXURES/JF08/evidence_package_20251012/regima_uk_extraction.json
+  - ./evidence/computer-expenses/computer_expenses_mar_apr_2025.csv
+  - ./UPDATED_DRAFTS/analysis-main/entities/impersonating_peter_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone.md
+  - ./evidence/annexures/JF-PA1_PETER_WITHDRAWAL_EXAMPLE_1.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jax_confronts_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2017to29February2018.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/finalize_evidence_package.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/from_email_accounts.md
+  - ./legal_analysis_2025_11/docx/Rynette_Farrar_A_Case_Study_in_10_10_Conflict_of_Interest_Severity.docx
+  - ./2DO/x/proton.me/regizone@proton.me/regimaskin.co.za domain lookup results.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_as_target.md
+  - ./evidence/2025-11-14-batch-3/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./jax-response/evidence-attachments/JF-CHESNO1-forensic-accounting-reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_for_breach_of_director_duties.md
+  - ./case_2025_137857/02_evidence/misc/Re_ belongs to regimA.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_to_rezonance_dating_from_february.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_w_org_rz.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_org_rz.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_avoids.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF01/Re_ The RegimA Group results and Computer Expense analysis.eml
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2023to29February2024.PDF
+  - ./evidence/shopify_invoices/RegimA_WWD_259560227.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/other_expenses.md
+  - ./legal_analysis_2025_11/docx/RULE42(1)(a)APPLICATION-RESCISSIONFORFRAUD.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_files.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_tschinder.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_account.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT 5N1QHQFP.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/against_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/investigation_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_systematically_destroyed.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ RE_ RegimA SA Payments.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_communication_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/demonstrates_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/added_daniel_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/banking_services_for_regima_group.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_for_corporate_waste.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_jurisdiction.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./jax-dan-response/evidence-attachments/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_sabotage_structured_data.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/professional_reports.md
+  - ./docs/legal/annexures/JF08/evidence_package_20250523/RegimA_Zone_W_388990813.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distributions_showing.md
+  - ./evidence/financial-analysis/shopify-reports/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_financial_and_operational_records.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/complete_analysis_peter.md
+  - ./evidence/shopify_invoices/RegimA_WWD_182424713.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_embezzlement_scam.md
+  - ./ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_analysis.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/analysis_reports.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
+  - ./evidence/compliance/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Lloyds RegimA UK Bank information(1).pdf
+  - ./2DO/x/regima.zone/emma@regima.zone/Fw_ Oct 4, 2025 bill for RegimA Zone.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_documentation_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/and_daniel.md
+  - ./jax-response/evidence-attachments/dan-technical/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_shopify_invoices_provide.md
+  - ./2DO/x/ensafrica.com/apapadopoulos@ensafrica.com/RE_ Trade mark registration nos. UK00914297063 REGIMA ZONE in classes 03, 05 and(3).pdf
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF03/Re_ The RegimA Group results and Computer Expense analysis.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_still_survives.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_loan_account.md
+  - ./2DO/x/regima.zone/dan@regima.zone/Fw_ REGIMA CHANGE OF BANK DETAILS QUERY.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/identity_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_becomes_more_serious_when_v.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/remove_peter.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ RegimA SA Payments.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Regima REZONANCE.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/creates_tax_fraud.md
+  - ./evidence/annexures/JF-PA2_PETER_WITHDRAWAL_EXAMPLE_2.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/all_accounts.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ FW_ FW_ OFFER OF EMPLOYMENT LETTER - RYNETTE FARRAR - please advise on an ad(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/investigate_rynette_farrar.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/other_operating_expenses.md
+  - ./case_2025_137857/02_evidence/evidence_package_20250523/RegimA_Zone_W_388990813.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_payment_history.md
+  - ./evidence/2025-11-14-batch-3/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_cape_town.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_tax_returns.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_distributions_pty.md
+  - ./case_2025_137857/02_evidence/emails/Re_ belongs to regimA.eml
+  - ./case_2025_137857/02_evidence/financial/Re_ The RegimA Group results and Computer Expense analysis.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_kachan.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(1).pdf
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_operations.md
+  - ./evidence/fake_accounts/Fw_RE_RegimASAPayments.eml
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(6).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distributions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/companies_ac.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_represents_the.md
+  - ./1-CIVIL-RESPONSE/annexures/JF-DANIEL-BANK-ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_records.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/how_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/both_peter.md
+  - ./ANNEXURES/JF01/Re_ belongs to regimA.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_sa_is_listed_as_a_store_with_charges.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/add_regima_group.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/forcing_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_platform_fees.md
+  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2024to28February2025.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_entities.md
+  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-06_DAN_TO_BANTJIES_FRAUD_REPORTS.eml
+  - ./evidence/2025-11-14-batch/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf
+  - ./2DO/x/regima.com/dan@regima.com/RegimA Zone, LLC.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_results_and_computer_expense_analysis.md
+  - ./docs/legal/annexures/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./2DO/x/proton.me/regizone@proton.me/Fw_ regimaskin.co.za domain lookup results(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/zone_annual_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_cape_town_za.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ The RegimA Group results and Computer Expense analysis(1).pdf
+  - ./evidence/2025-11-14-batch-3/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ FNB Statement_ _REGIMA SA (PTY) LTD - 2025-07-27 - 62896474196.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_eu.md
+  - ./evidence/shopify_invoices/RegimA_WWD_194025599.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shopify_orders.md
+  - ./evidence/invoices/RegimA_WWD_198314119.pdf
+  - ./evidence/bank-statements/regima-sa/REGIMA_SA_BANK_STATEMENT_2025-03-06.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_expenses.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ CHANGE OF FIRM - CRAIG SHAPIRO FOR REGIMA SKIN TREATMENTS.pdf
+  - ./evidence/shopify_invoices/RegimA_WWD_219952542.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_reveals.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/immediate_tax_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/help_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/action_fraud.md
+  - ./backups/pre-consolidation/jax-dan-response/peters_discovery.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_wwd.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_compliance_directive_evidence_provides_an_e.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distributions_pty_ltd.md
+  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/likely_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./2DO/x/regima.com/dan@regima.com/RegimA Dr H - Commercial Property Payment Schedule.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_letterhead_used_to_legitimize_fra.md
+  - ./evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf
+  - ./evidence/2025-11-14-batch/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./UPDATED_DRAFTS/analysis-main/docs/peter-faucitt-interdict/peter-faucitt-interdict-complete.md
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-complete.json
+  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2020to28February2021.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_and_his_co.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/only_peter_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_monthly_trend_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_durban.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/administrative_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_theft.md
+  - ./evidence/annexures/JF-WS1_DANIEL_WITNESS_STATEMENT_HAS_ANYTHING_CHANGED.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2023to29February2024.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_distribution_network.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/about_rynette.md
+  - ./evidence/computer-expenses/Computer Expenses Analysis Framework - Consolidated Report.md
+  - ./2DO/x/regima.zone/jax@regima.zone/meeeting confirmed 2 pm Friday, 26 September 2025 THE LEONARDO JACQUI & DANIEL F.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_erasure.md
+  - ./jax-response/evidence-attachments/dan-technical/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/general_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_evidence_analysis_report.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/owes_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_and_regima_zone_evidence_reveals_the_mos.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_companies.md
+  - ./2DO/x/regima.zone/emma@regima.zone/Fw_ Nov 4, 2025 bill for RegimA Zone.pdf
+  - ./docs/reports/completion/DANIEL_TECHNICAL_PERSPECTIVE_IMPLEMENTATION.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_invoice_evidence_provides.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/subpoena_rynette.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ FNB Statement_ _REGIMA SA (PTY) LTD - 2025-03-06 - 62707308252.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/following_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_damages.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_za_western_cape.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & 1 OTHER (CASE NR_ 2025-137857).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_about.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_trust.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2025to28February2026.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_farrar_pete.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_competitive_position_through_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/because_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_compliance_directive_to_evidence_folder.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_perez_repository.md
+  - ./ANNEXURES/JF03/Fw_ The RegimA Group results and Computer Expense analysis.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shutdown.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/has_peter.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_dst.md
+  - ./Revenue_Stream_Hijacking_by_Rynette/01_POPIA_Compliant_System/Customer_Communication/Regima_Zone_Email_System.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/Computer Expenses Categorization Report (Corrected) (1).pdf
+  - ./evidence/invoices/RegimA_WWD_259560227.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/from_rynette.md
+  - ./docs/legal/affidavits/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/tax_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_distribution_companies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_analysis.md
+  - ./docs/legal/annexures/JF03/Fw_ The RegimA Group results and Computer Expense analysis.msg
+  - ./UPDATED_DRAFTS/analysis-main/entities/only_rynette.md
+  - ./2DO/x/regima.zone/emma@regima.zone/Lloyds RegimA UK Bank information.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_only.md
+  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_WITNESS_STATEMENT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_claims_payment_of.md
+  - ./evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/which_companies_are.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Fw_ 2025-04-14 - Rynette Instruction to Clients to Pay into a New Bank Accou.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/integration_reports.md
+  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2018to29February2019.PDF
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres.pdf
+  - ./evidence/witness_statements/DANIEL_WITNESS_STATEMENT_JF5_SETTLEMENT_EXCHANGE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_wwd_with_r.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_p.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/companies_act_violations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/supported_peter.md
+  - ./lex/SHOPIFY_REVENUE_FRAUD_REGIMA_ZONE_UK_OWNERSHIP_2025-11-18.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_pete.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_sales_report.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/destroys_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment_method_evidence_with_the_broad.md
+  - ./2DO/x/ensafrica.com/apapadopoulos@ensafrica.com/RE_ Trade mark registration nos. UK00914297063 REGIMA ZONE in classes 03, 05 and.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_transactions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_espeset.md
+  - ./ANNEXURES/JF02/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_reports_murder.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_are_no_longer_being_.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/controls_peter.md
+  - ./ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hi_rynette.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/payment_card_fraud.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ REGIMA SKIN TREATMENTS CC _ TRACEY CLARK - CASE NUMBER_ 10664_2022.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/if_peter_filed.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bank_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_operations_alone_show_annual_shopify_cos.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2019to29February2020.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_cards_cancelled.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_cc.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/while_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/individual_identified_in_regima_group.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_files_second.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/motor_vehicle_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/quickbooks_online_payroll_enhanced_regima_dr_h_wan.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/any_peter_faucitt.md
+  - ./evidence/2025-11-14-batch/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./jax-response/evidence-attachments/dan-technical/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md
+  - ./evidence/2025-11-14-batch/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_za_gauteng_za.md
+  - ./evidence/2025-11-14-batch-3/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/regima_account_analysis_2024_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_orders.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/zone_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_impact.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ DRAFT ANSWERING AFFIDA.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_expenses_should_be.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_card_mysteriously_stops_working.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_entities_showing.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_employees.md
+  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2025to28February2026.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_corporate_payment_methods.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_academy_ltd.md
+  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-2025-09-30.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_appears_to_be_part_of_a_bro.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/identify_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/vulnerability_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_criminal_proceeds.md
+  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2021to28February2022.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_competing_in_market_segment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_showing.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/personal_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/professional_reports_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/updated_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/verification_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/reimburse_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/computer_expenses_investigation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_ww.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_expenses.md
+  - ./2DO/x/regima.zone/jax@regima.zone/FW_ Replit_ Invoice Payment Failed for RegimA.pdf
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/screenshots/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_only.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_entity_registration_documents.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(2).pdf
+  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2024to28February2025.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/exploit_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_financial.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/maintain_peter.md
+  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2019to29February2020.PDF
+  - ./evidence/2025-11-14-batch-3/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf
+  - ./evidence/2025-11-14-batch-3/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_operations.md
+  - ./jax-dan-response/peters_causation.md
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-complete.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_compliance_directive_evidence_into_the_rzon.md
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-combined.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_demanding_signatures.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/original_criminal_reports.md
+  - ./jax-dan-response/peters_discovery.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2019to29February2020.PDF
+  - ./evidence/shopify_invoices/RegimA_WWD_248400093.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_international_skin_treatments.md
+  - ./evidence/bank-statements/regima-sa/REGIMA_SA_BANK_STATEMENT_2025-03-06.md
+  - ./docs/RegimA WWD · Reports · Total sales over time by store · Shopify Plus - 230701 to 251022.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_to_benefit_his_other_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_director.md
+  - ./jax-response/dan-response-materials/peters_discovery.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_shopify_stores.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/platform_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/demonstrate_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_entities_are_organized_into.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_operational_costs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/under_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/added_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_rynette_factor.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_clarifies_company.md
+  - ./jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/update_analysis_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_for_google_gsuite_services.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_to_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/potentially_rynette.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Closure of accounts.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_org.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/using_peter_faucitt.md
+  - ./evidence/bank-statements/regima-sa/REGIMA_SA_BANK_STATEMENT_2024-10-07.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_evidence.md
+  - ./2DO/x/rzo.io/d@rzo.io/RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Billin.pdf
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_business_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_operating_as_a_substantial.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_preserved.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_corporate_network_and_asset_stripping.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_international.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/analysis_reports_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_distribution_shopify.md
+  - ./evidence/legal-analysis/DANIEL_EXPARTE_LEGAL_FRAMEWORK_ANALYSIS.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_platform_analysis.md
+  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_WITNESS_STATEMENT.md
+  - ./2DO/x/regima.zone/jax@regima.zone/Fw_ Regima Group of Companies.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/discrepancy_reports_documentation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_communications.md
+  - ./evidence/witness_statements/DANIEL_WITNESS_STATEMENT_COMPLETION_STATUS.md
+  - ./evidence/invoices/RegimA_WWD_206815428.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_son.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_revenue_loss.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bank_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_and_regima_sa_reveals_a.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/readable_reports_the.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/card_payment_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250606/ComputerExpensesCategorizationReport(Corrected).pdf
+  - ./jax-response/AD/1-Critical/PETER_TRUST_POWER_ABUSE_LEX_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_operations_spanning_international_juri.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/create_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/million_annual_expense.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/with_rynette.md
+  - ./evidence/invoices/RegimA_WWD_194025599.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/between_peter_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/updates_rynette_farrar.md
+  - ./case_2025_137857/02_evidence/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/shows_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_audit_trails_partially_preserved.md
+  - ./evidence/fake_accounts/Fw_RegimaREZONANCE.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_operating_as_a_legitimate_business_w.md
+  - ./evidence/emails/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_with_shopify_historical_p.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_sa_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_director.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_accounts.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Lloyds RegimA UK Bank information(2).pdf
+  - ./evidence/2025-11-14-batch/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_evidence_reveals_a.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/detailed_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_complete_erasure_vs.md
+  - ./2DO/x/regima.com/dan@regima.com/AD Paragraph Numbers from Peter's Founding Affidavit (in order) MOSTLY COMPLETE.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_corporate_card_mysteriously_stops_workin.md
+  - ./evidence/2025-11-14-batch-2/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_za_eastern_cape_za.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_stores_are_development.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(4).pdf
+  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_29_deed_preamble_daniel.md
+  - ./evidence/2025-11-14-batch-3/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_coordination.md
+  - ./2DO/x/regima.zone/jax@regima.zone/RE_ RegimA SA -.pdf
+  - ./2DO/x/ensafrica.com/cshapiro@ensafrica.com/Re_ Trade mark registration nos. UK00914297063 REGIMA ZONE in classes 03, 05 and.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_companies_appear.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(14).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/connected_entity_within_the_broader_regima_group.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_and_strategic_logistics.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_criminal.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/computer_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_bills.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/assessment_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_w_org.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/show_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_agent.md
+  - ./evidence/2025-11-14-batch-3/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
+  - ./ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/forensic_analysis_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/dan_worldwide.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/damages_claim_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/within_months.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_assessment_reports.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF03/Fw_ The RegimA Group results and Computer Expense analysis.eml
+  - ./2DO/x/ensafrica.com/apapadopoulos@ensafrica.com/RE_ Trade mark registration nos. UK00914297063 REGIMA ZONE in classes 03, 05 and(4).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/companies_house.md
+  - ./docs/legal/annexures/JF01/Re_ belongs to regimA.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_revenue_decline.md
+  - ./evidence/annexures/JF-RESTORE1_COMPANIES_HOUSE_DORMANT_STATUS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_decision.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_made_substantial_payments_t.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_sends_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/detailed_reports_generated.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_subsidization.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_paid_for_rwd_sa_operations.md
+  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2020to28February2021.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/mail_redirection_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/confirm_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_complete_shutdown.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_repeatedly.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/connected_financial_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_entities_constitute.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_audit_trails.md
+  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2017to29February2018.PDF
+  - ./evidence/invoices/RegimA_WWD_219921131.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_while_coordinating_broader_sabotage_acro.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_expenses_are.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/ensure_peter.md
+  - ./ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_provides.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/operating_companies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/case_summary_reports.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2021to28February2022.PDF
+  - ./UPDATED_DRAFTS/analysis-main/docs/RegimA SA · Reports · Total sales over time by store · Shopify Plus.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/domain_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entertainment_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/documents_prove_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/for_daniel.md
+  - ./evidence/emails/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/associated_with_regima_group.md
+  - ./evidence/invoices/RegimA_WWD_248400093.pdf
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Lloyds RegimA UK Bank information.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_and_regima_sa_shopify_platforms.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_medic_ltd.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_dr_h_wandsworth_town_ltd.md
+  - ./evidence/2025-11-14-batch/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/excess_fraud.md
+  - ./2DO/x/regima.com/dan@regima.com/AD NOTES - DANIEL JAMES FAUCITT.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_organization_involving.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(9).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_sends_complete.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(7).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/only_companies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_operational_analysis.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ A bill payment failed for RegimA EU.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/allocation_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annualized_loss.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(2).pdf
+  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2025to28February2026.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/reports_peter.md
+  - ./2DO/x/regima.com/dan@regima.com/note 2024-02-21 - ABSA Account RegimA Worldwide.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/confirms_regima_zone.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_institution_serving_regima_group.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ FW_ MARCH 2023 CIPC ANNUAL RETURNS.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_expenses_paid_by_victims.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/anywhere_rynette.md
+  - ./docs/legal/annexures/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./ANNEXURES/JF02/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_case.md
+  - ./evidence/IT_EXPENSES_SUMMARY.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/eliminated_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_shopify_cost.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_creating.md
+  - ./jax-dan-response/criminal-complaint/CRIMINAL_COMPLAINT_POPIA_Section_107_Peter_Faucitt.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/regima_uk_extraction.json
+  - ./evidence/IT_EXPENSES_BREAKDOWN.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_revenue_stream.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/when_rynette.md
+  - ./evidence/fake_accounts/Fw_RE_RegimASAPayments.msg
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/ComputerExpensesCategorizationReport(Corrected).pdf
+  - ./lex/civ-proc/za/south_african_civil_procedure_ex_parte_fraud.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/appears_peter.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(2).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_operations_funded_by_personal_cards.md
+  - ./UPDATED_DRAFTS/analysis-main/DANIEL_AUTONOMY_STRATEGY.md
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/case_draft_docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_academy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_company_records.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_joburg.md
+  - ./evidence/invoices/RegimA_WWD_219971512.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/jax_worldwide.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/needs_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_shows_significant_decline.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_dst_with_r.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/two_invoice_companies.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(11).pdf
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2020to28February2021.PDF
+  - ./2DO/x/regima.zone/emma@regima.zone/Fw_ Sep 4, 2025 bill for RegimA Zone.pdf
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(10).pdf
+  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2023to29February2024.PDF
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Regima Group of Companies.pdf
+  - ./affidavit_work/analysis/PETERS_CLAIMS_VS_DOCUMENTED_EVIDENCE_COMPARATIVE_ANALYSIS.md
+  - ./evidence/computer-expenses/Business Application Assessment Template for Computer Expenses.md
+  - ./evidence/2025-11-14-batch/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/expert_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_made_material.md
+  - ./evidence/correspondence/legal-compliance/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCCWitzref_CS2511.UK.03+.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_filed_secret.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Final TB for RegimA Skin Treatments as at 28 Feb 2018.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_distribution_profit.md
+  - ./2DO/x/regima.zone/jax@regima.zone/FW_ RegimA Zone, we were unable to renew your plan.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_survives.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_relationship_peter.md
+  - ./2DO/x/regima.zone/jax@regima.zone/FW_ Sep 4, 2025 bill for RegimA Zone.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/verification_reports_evidence.md
+  - ./evidence/invoices/RegimA_WWD_186164902.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_structure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_counter.md
+  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2025to28February2026.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_operational_shutdown.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/quickbooks_online_payroll_enhanced_regima_zone_ltd.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shopify_invoices_provide.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_profit.md
+  - ./evidence/invoices/RegimA_WWD_211145467.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_platform_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_to_create.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./evidence/invoices/RegimA_WWD_194170220.pdf
+  - ./2DO/x/regima.com/dan@regima.com/Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to present.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_annual_costs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_operations_for_competitive_advantage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_farrar_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/generate_analysis_reports.md
+  - ./evidence/2025-11-14-batch/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_sales_report.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(3).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_fees.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_intent_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_to_strengthen_competing_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_za_kwazulu.md
+  - ./case_2025_137857/02_evidence/screenshots/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./evidence/2025-11-14-batch/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_europe.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ DRAFT ANSWERING AFFIDAVIT.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_timeline.md
+  - ./evidence/legal-analysis/DANIEL_EXPARTE_LEGAL_FRAMEWORK_ANALYSIS.docx
+  - ./jax-response/evidence-attachments/dan-technical/PETERS_CAUSATION_SECTION_DRAFT.md
+  - ./docs/legal/annexures/JF08/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_eu_breach.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/all_regima_group.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_payment_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_organization.md
+  - ./2DO/x/regima.zone/emma@regima.zone/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(1).pdf
+- **Ad Res J7 References:** 
+  - See files related to: Rynette, Peter, dumped, years', worth, unallocated, expenses, companies, RegimA, Worldwide, pressured, Daniel, within, hours, Annual, Accounts., Daniel, until, finalize, reports, uncover, fraud.
+- **Crime Category:** fraud
+- **Phase:** PHASE_001
+- **Event Subtype:** financial_manipulation_expense_dumping
+- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_003
+- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
+- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
+- **Evidence Urls:** 
+  - https://github.com/cogpy/ad-res-j7/blob/main/2DO/x/rzo.io/d@rzo.io/Fw_ RegimA SA - zero return to CIPC.pdf
+  - https://github.com/cogpy/ad-res-j7/blob/main/evidence/2025-11-14-batch-3/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/regima_zone_w_organization.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/lex/RYNETTE_NOT_TRUSTEE_CORRECTION.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md
+- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_003.html
+- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_003
+- **Related Application:** APPLICATION_1
+- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
+- **Ad Res J7 Evidence:** 
+  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
+  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}

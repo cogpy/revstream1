@@ -1,20 +1,761 @@
----
-layout: default
-title: "Event: Domain Registration (Identity Fraud)"
----
 # Domain Registration (Identity Fraud)
 
-| Field | Value |
-|---|---|
-| **Event ID** | `EVENT_010` |
-| **Date** | 2025-05-29 |
-| **Category** | revenue_theft |
-| **Related Application** | [APPLICATION_1](https://cogpy.github.io/revstream1/application-1.html) |
+**Event ID:** `EVENT_010`
+**Date:** 2025-05-29
 
-## Description
-
-Customer hijacking platform. Family conspiracy escalation and digital impersonation. Domain registered to impersonate business on Dan's UK-funded platform. New domain regimaskin.co.za registered by Adderory (Rynette's son's company) following Shopify shutdown.
-
-## Evidence References
-
-No direct evidence files linked.
+- **Category:** revenue_theft
+- **Event Type:** identity_fraud
+- **Perpetrators:** 
+  - PERSON_002
+  - PERSON_003
+- **Victims:** 
+  - PERSON_005
+  - customers
+- **Entities Involved:** 
+  - DOMAIN_002
+- **Description:** Customer hijacking platform. Family conspiracy escalation and digital impersonation. Domain registered to impersonate business on Dan's UK-funded platform. New domain regimaskin.co.za registered by Adderory (Rynette's son's company) following Shopify shutdown.
+- **Financial Impact:** unknown_amount
+- **Legal Significance:** family_conspiracy_escalation_and_digital_impersonation
+- **Evidence:** 
+  - domain_registration_records
+  - whois_data
+- **Shopify Related:** True
+- **Pattern:** escalation_phase
+- **Timeline Phase:** PHASE_003
+- **Shopify Connection:** {'connected': True, 'note': 'Domain registered to impersonate platform owned by RegimA Zone Ltd (UK)', 'revelation': "Identity fraud to impersonate legitimate business operating on Dan's UK-funded infrastructure"}
+- **Crime Type:** Identity fraud, family criminal conspiracy
+- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
+- **Related Applications:** 
+  - APPLICATION_1
+- **Evidence Files:** 
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_goodwill_loss.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_dynamics.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_model_validation.md
+  - ./2DO/x/regima.zone/emma@regima.zone/Sumup payment platform.pdf
+  - ./UPDATED_DRAFTS/analysis-main/docs/RegimA WW+Zone · Reports · Total sales over time by store · Shopify Plus ZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/prepare_family_safety.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_trustee.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/core_business_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/traditional_business.md
+  - ./ANNEXURES/JF02/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./1-CIVIL-RESPONSE/annexures/JF-SHOPIFY-INFRASTRUCTURE.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/domain_monitoring.md
+  - ./case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_protection.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence_mapping_shopify_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/direct_shopify_investment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_phase.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_comparison.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/whether_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_international_limited.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/telephone_impersonation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/through_family_courts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalated_impersonation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_intelligence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/continued_impersonation.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/faucitt_family_trust_conspiracy_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/why_family_courts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_if.md
+  - ./jax-dan-response/evidence-attachments/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_intelligence_opportunities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_legitimacy_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_under_pressure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_correlation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/domain_expansion.md
+  - ./legal_analysis_2025_11/scheme_files/south_african_civil_law_revenue_hijacking_creditor_sabotage.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_court_avoidance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_operations_validation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_business_legitimacy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_operations_under.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_customer_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/shopify_evidence_integration_summary.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_independent_business.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_operations_alone_show_annual_shopify_cos.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/appropriated_business_value.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_platform_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shopify_invoices.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/address_hijacking.md
+  - ./2DO/x/regima.com/dan@regima.com/shopify ev.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_probability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_foundation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_retention.md
+  - ./docs/strategic/fraud-analysis/SHOPIFY_REVENUE_REVELATION_ANALYSIS.md
+  - ./evidence/shopify_reports/ShopifyPlusW.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/zone_shopify_historical.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_bill_finally.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/pays_shopify.md
+  - ./docs/legal/affidavits/AFFIDAVIT_shopify_evidence_comprehensive_FACT_BASED.md
+  - ./docs/strategic/fraud-analysis/ATTACK_HIJACKING_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/destroying_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_domain_names.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/following_kayla_pretorius.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_business_cards.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_revenue_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/audit_trail_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_proving_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/shopify_payment_flow_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/registered_may.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/digital_forensics.md
+  - ./UPDATED_DRAFTS/analysis-main/AFFIDAVIT_shopify_evidence_comprehensive.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/Shopify_Invoices_RegimA_2016-2025.txt
+  - ./UPDATED_DRAFTS/analysis-main/entities/after_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_data_theft.md
+  - ./backups/pre-consolidation/jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_management.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_bill.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_integration.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_subscriptions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/beginning_of_business_relationship_between_rezonan.md
+  - ./case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.msg
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF02/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_representatives.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/Shopify Plus W.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_performance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/investigate_shopify_plus.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_assets.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/if_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/knew_shopify.md
+  - ./evidence/witness-statements/templates/TEMPLATE_DANIEL_SHOPIFY_PLATFORM_OWNERSHIP.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/preserve_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_stores.md
+  - ./evidence/financial-analysis/shopify-reports/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_takeover.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/decentralized_business_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_store_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_evidence_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_account_access.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/complete_shutdown.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_net_sales.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_diversion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_2011005722.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_launch_manager.md
+  - ./evidence/2025-11-14-batch-3/ShopifyPlusW.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_plus_renewal.md
+  - ./2DO/x/proton.me/jfaucitt@proton.me/regimaskin.co.za belongs to regimA.pdf
+  - ./UPDATED_DRAFTS/analysis-main/evidence/RegimA_Zone_UK_Bank_Shopify_Payments.md
+  - ./jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.json
+  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF5_ADDERORY_DOMAIN_WITH_EMAILS.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_valuation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/backup_digital_copies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_value.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_destruction_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/controls_faucitt_family.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_premium.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_payment_patterns.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/no_business_account.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_shopify_evidence_comprehensive_enhanced.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/added_shopify_plus.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/submit_subpoena_to_shopify_international_limited.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/INV14491(791)(De Novo Business Services (Pty) Ltd)(2025-07-28).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_pattern_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_inc.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ New Business Account Document Request [REF_1758922975755].pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/know_your_customer.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/wire_fraud_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_platform.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/ensure_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/active_business_role.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE-ENHANCED.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/complete_shopify_erasure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_database_evidence.md
+  - ./2DO/x/ensafrica.com/cshapiro@ensafrica.com/Re_ domain lookup results.pdf
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Important notice_ overdrawn business account ending in xxx7015.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_redirection_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_server_logs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/tactical_escalation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_ownership.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_value_destruction.md
+  - ./jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.md
+  - ./UPDATED_DRAFTS/SHOPIFY_EVIDENCE_COMPLETE_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_hijacking_pattern.md
+  - ./case_2025_137857/02_evidence/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./ANNEXURES/JF02/ShopifyPlusW.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_court_framing.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_hijacking.md
+  - ./lex/hypergraph/visualizations/domain_distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE - ENHANCED_backup_20251013_130927.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_shopify_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_expenses.md
+  - ./jax-response/evidence-attachments/Updated_Corrections_-_Reflecting_Actual_Business_Practices.docx
+  - ./lex/hypergraph/visualizations/domain_distribution.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_prosecution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_escalation_pattern.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_historical.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_shopify_evidence_comprehensive_FACT_BASED_backup_20251013_120719.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/phase_criminal_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_platform_ownership.md
+  - ./docs/legal/annexures/JF02/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_after_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_growth.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_potential.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_relationship_establishment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/initial_shopify.md
+  - ./docs/legal/SHOPIFY_REVENUE_INTEGRATION_FRAMEWORK.json
+  - ./backups/pre-consolidation/jax-response/evidence-attachments/Updated_Corrections_-_Reflecting_Actual_Business_Practices.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/force_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/card_cancellation_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_shopify_invoices.md
+  - ./evidence/2025-11-14-batch-3/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/examine_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/desperate_escalation_pattern.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_path.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_invoices.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_cost.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_operational_harm.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_bill_example.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/obtain_shopify_deletion.md
+  - ./2DO/x/rzo.io/d@rzo.io/Re_ New Business Account Document Request [REF_1758931191988].pdf
+  - ./UPDATED_DRAFTS/analysis-main/shopify_platform_ownership_verification.md
+  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_11_6-11_9_DAN_BUSINESS_OPERATIONS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_invoice_history.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_shopify_evidence_comprehensive_backup_20251013_114310.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_deletion_timestamps.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/continuous_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_trust.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/potential_shopify_presence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_conspiracy_motive.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_business_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/may_22_2025_audit_trail_hijacking_analysis.md
+  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Sales_by_Customer_Detail.pdf
+  - ./2DO/x/regima.com/dan@regima.com/ZA Sales through UK Shopify Portal 2023-07-01 to present.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_1992005371.md
+  - ./UPDATED_DRAFTS/analysis-main/comprehensive_revenue_hijacking_tax_fraud_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/takeover_following_murder.md
+  - ./docs/RegimA WWD · Reports · Total sales over time by store · Shopify Plus - 230701 to 251022.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/digital_platform_migration.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_rescue.md
+  - ./ANNEXURES/JF08/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./2DO/x/proton.me/regizone@proton.me/regimaskin.co.za domain lookup results.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shopify_historical_performance_report.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_shopify_stores.md
+  - ./evidence/2025-11-14-batch-3/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/domain_investigation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_pattern.md
+  - ./UPDATED_DRAFTS/analysis-main/coordinated_card_cancellation_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_dispute.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_appropriation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entity_shopify_presence.md
+  - ./evidence/shopify_reports/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./backups/pre-consolidation/jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/attorney_conspiracy_exclusion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_viability_then.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_elements.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_historical_data.md
+  - ./evidence/accounting/Shopify-client-update.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/domain_evidence_preservation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/historical_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/following_kayla.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/domain_strategy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_and_regima_sa_shopify_stores.md
+  - ./jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_timeline.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/digital_counterfeiting.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_conf.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_shopify_plus.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/destroy_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/domain_dispute.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_recorded_activity_immediately_following_.md
+  - ./2DO/x/regima.com/dan@regima.com/Dan and Kay's Shopify Success Story.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_performance_justifies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_database_value.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/address_hijacking_details.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_shopify_historical_performance_report.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_disruption.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/active_business_management.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/all_shopify_stores.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shield_criminal_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/used_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/after_shopify_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/contact_shopify_launch.md
+  - ./UPDATED_DRAFTS/Shopify_Platform_Ownership_Verification.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_business_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_legitimacy_foundation.md
+  - ./docs/legal/annexures/JF02/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_model_structure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_domain_specialization.md
+  - ./backups/pre-consolidation/jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/INV14491(791)(De Novo Business Services (Pty) Ltd)(2025-07-28).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_invoices_previously.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_escalation.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE - ENHANCED.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_payment_methods.md
+  - ./backups/pre-consolidation/jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.json
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/RegimA WW+Zone · Reports · Total sales over time by store · Shopify Plus ZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_change.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_court_jurisdiction.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ Dan and Kay's Shopify Success Story.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/active_business_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/attorney_conspiracy_implications.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/professional_business_standards.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_shopify_invoices.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_shopify_plus.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_plus_qualification.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/document_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/comprehensive_business_legitimacy_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_store.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/original_impersonation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_distribution_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_instability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/attorney_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/loss_escalation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_stores_mystery.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_evidence_destruction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/every_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/digital_forensics_opportunities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hidden_shopify_stores.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/before_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_network_coordination.md
+  - ./jax-dan-response/AD/3-Medium-Priority/PARA_11_6-11_9_DAN_BUSINESS_OPERATIONS.json
+  - ./UPDATED_DRAFTS/SLG_R5_4M_STOCK_THEFT_TO_ADDERORY_COMPREHENSIVE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_activities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_faucitt_family.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_legal_department.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/diverse_customer_base.md
+  - ./UPDATED_DRAFTS/analysis-main/shopify_evidence_integration_master_document.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_conspiracy_timeline.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_pattern_demonstrated.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_crisis_escalation.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_structure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/de_novo_business.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_invoice_reality.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_shopify_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_shield.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.BACKUP_backup_20251013_130827.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_business_disruption.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/instant_payment_platform.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_platform.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/border_conspiracy_charges.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_management_reality.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_sabotage_discovery.md
+  - ./jax-response/AD/dan-perspective/1-Critical/DAN_BUSINESS_CONTINUITY_IMPACT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/complete_criminal_conspiracy.md
+  - ./case_2025_137857/02_evidence/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/independent_business_ownership.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_impersonation_escalation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/official_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/son_domain.md
+  - ./evidence/financial-analysis/shopify-reports/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE_backup_20251013_130901.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_preservation_confirmed.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_payment_flow.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_support.md
+  - ./jax-dan-response/rule-42-rescission/annexures/ANNEXURE_DF6b_Shopify_RSA_Sales.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_operating_as_a_legitimate_business_w.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_proven.md
+  - ./evidence/2025-11-14-batch-2/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_documentation.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/RegimA_Zone_UK_Bank_Shopify_Payments.png
+  - ./UPDATED_DRAFTS/analysis-main/entities/sundry_customers.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_with_shopify_historical_p.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_exposed.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/platinum_business_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_escalation_protocol.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/digital_leverage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_shopify_plus.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_business_sabotage.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-RESTORE1_BUSINESS_TRANSFORMATION_2017_2025.md
+  - ./ANNEXURES/JF08/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./2DO/x/proton.me/regizone@proton.me/Fw_ regimaskin.co.za domain lookup results.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/lost_business.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/obtained_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_and_regima_sa_shopify_plus_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_historical_performance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_domains.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/present_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/revenue_stream_hijacking_by_rynette/audit_trails/Customer_Communication_Audit_Trails.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_scope_assessment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_legitimacy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_loss.md
+  - ./jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_month_end.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/implement_digital_security.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_shopify_invoices_provide.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/diverted_shopify.md
+  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_11_6-11_9_DAN_BUSINESS_OPERATIONS.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/document_customer_harm.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/direct_customer_payments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_interpretation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/emergency_shopify_subpoena.md
+  - ./2DO/x/regima.com/dan@regima.com/✅ Critical Discovery_ South African Court Digital Systems.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_control_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/documented_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_complete_shopify_erasure.md
+  - ./evidence/2025-11-14-batch-2/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/discovers_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_hug.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_systematic_escalation.md
+  - ./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/domain_protection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_window.md
+  - ./UPDATED_DRAFTS/analysis-main/revenue_stream_hijacking_by_rynette/domain_comparison/Domain_Ownership_Analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_confirm.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/commerce_automation_platform.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_account_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_elements.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_interference_charges.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/details_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_criminal_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_coordination.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shopify_report_shows_a_complete_cessatio.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/zone_shopify_invoices.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_data.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/file_destruction_digital.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_business_value.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_erasure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/cloud_platform.md
+  - ./UPDATED_DRAFTS/TRUSTEE_CONSPIRACY_COMPREHENSIVE_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/service_customer_portals.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/validates_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_dispute.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_value_appropriation.md
+  - ./lex/hypergraph/visualizations/domain_distribution.png
+  - ./UPDATED_DRAFTS/analysis-main/entities/after_shopify_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/domain_hosting.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/all_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shopify_shows_r.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_entity.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_coordination.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.BACKUP.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_evolution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/digital_forensics_required.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_business_development.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_viability_proof.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_operation_interference.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_concentration_risk.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ New Business Account Document Request [REF_1758931191988].pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_logic.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hidden_business_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/unauthorized_domain_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_elements_established.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/obtaining_shopify.md
+  - ./jax-response/evidence-attachments/dan-technical/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE-ENHANCED.docx
+  - ./jax-response/evidence-attachments/dan-technical/JF-RESTORE1_BUSINESS_TRANSFORMATION_2017_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_strangulation_escalation.md
+  - ./jax-dan-response/evidence-attachments/JF-RESTORE1_BUSINESS_TRANSFORMATION_2017_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/expanded_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/proves_premeditated_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/some_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/domain_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_disputes.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/personal_liability_escalation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_growth_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_platform.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/documenting_escalation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/independent_business_building.md
+  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_11_6-11_9_DAN_BUSINESS_OPERATIONS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_plus_meeting.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_invoice.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_network.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/delete_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/validates_business_legitimacy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/subpoena_shopify_records.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ shopify ev.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_success_story.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_value_created.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_plus_requirements.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_therapy.md
+  - ./evidence/invoices/INV14491(791)(DeNovoBusinessServices(Pty)Ltd)(2025-07-28).pdf
+  - ./analyze_shopify_data.py
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_law_focus.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/digital_transformation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/discovered_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_members.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_protection.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ New Business Account Document Request [REF_1758931191988](1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_plus_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_shopify_costs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/professional_shopify_plus.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_international.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/checks_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_evidence_contradiction.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF02/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/voluntary_family.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/faucitt_family_trust.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/only_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_similarities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/before_shopify_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_legitimacy_baseline.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_strategy.md
+  - ./evidence/analysis/timelines/Timeline_of_Events_RegimA_Revenue_Stream_Hijacking.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/matches_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_elements_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_complete_shutdown.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/attorney_impersonation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/director_impersonation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/historical_business_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_court_route.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/but_shopify_keeps.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_record_destruction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_shopify_stores.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/before_shopify_email.md
+  - ./jax-dan-response/evidence-attachments/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_business_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_performance_validation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_data.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/how_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_complete_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/zone_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_formation.md
+  - ./2DO/x/proton.me/regizone@proton.me/Fw_ regimaskin.co.za domain lookup results(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_pathway.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/all_shopify_plus.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_relationships.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entire_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_connector_integration.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_operations_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_involvement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_courts_cannot.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_model_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shopify_orders.md
+  - ./UPDATED_DRAFTS/analysis-main/audit_trail_hijacking_timeline.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_shopify_evidence_comprehensive_REVISION_LOG_enhanced.md
+  - ./backups/pre-consolidation/jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_card_elimination.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/RegimA SA · Reports · Total sales over time by store · Shopify Plus.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/domain_registrars.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/investigating_adderory.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_identity.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bank_fraud_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/domain_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_relationship_development.md
+  - ./UPDATED_DRAFTS/RYNETTE_SON_4_YEAR_CONSPIRACY_2021_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/digital_evidence.md
+  - ./jax-dan-response/rule-42-rescission/annexures/ANNEXURE_DF6a_Shopify_RWW_Zone_Sales.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_march.md
+  - ./jax-response/evidence-attachments/dan-technical/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx
+  - ./docs/legal/annexures/JF08/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_and_regima_sa_shopify_platforms.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/UK_Bank_Statement_Shopify_Payments_Analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_following_evidence.md
+  - ./backups/pre-consolidation/jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_expenses.md
+  - ./analyze_shopify_invoices.py
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_payments.md
+  - ./jax-response/evidence-attachments/dan-technical/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/lost_business_control.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ ZA Sales through UK Shopify Portal 2023-07-01 to present.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_network.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/common_business_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/revenue_stream_hijacking_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/domain_names.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_business_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_viability_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/combined_shopify_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_records_subpoena.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/dependent_family_members.md
+  - ./lex/civ/za/south_african_civil_law_revenue_hijacking_creditor_sabotage.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_email_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_domain_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_due_diligence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_cards.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_invoice_timeline.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/02_supporting_affidavit_shopify_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_shopify_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_systems_explained.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_legal.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_plus_launch.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/complete_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_foundation_validation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/compare_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/unassailable_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/court_filing_impersonation.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/Shopify_UK_Investment_Analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/potential_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/direct_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/bank_statement_shopify_correlation_timeline.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_continuity.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/domain_creation.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF02/ShopifyPlusW.pdf
+  - ./UPDATED_DRAFTS/analysis-main/docs/Shopify Plus W.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/digital_forensics_unit.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_court_misdirection.md
+  - ./UPDATED_DRAFTS/analysis-main/2016_forced_separation_and_independent_business_building.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_invoice_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/digital_sales_shift.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_implication.md
+  - ./UPDATED_DRAFTS/analysis-main/rwd_business_growth_analysis.md
+  - ./ANNEXURES/JF02/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/border_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/information_control_escalation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_shopify_cost.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_role.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_relations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/proves_conspiracy_elements.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_asset_stripping.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_funded_rwd_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_address.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/initial_business_relationship.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_charges.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/complete_address_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/impersonated_agent.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_diversion_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_pattern_recognition.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_connectors.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_chain.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/money_laundering_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_payments.md
+  - ./UPDATED_DRAFTS/analysis-main/AFFIDAVIT_shopify_evidence_comprehensive_REVISION_LOG.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_operations_funded_by_personal_cards.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_plus.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/zone_platform.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_ecosystem.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_store_validation.md
+  - ./evidence/2025-11-14-batch-2/SHOPIFY_SALES_ANALYSIS_2024-2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_plus_personnel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_destruction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_impersonation.md
+  - ./UPDATED_DRAFTS/analysis-main/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_protection.md
+  - ./evidence/2025-11-14-batch-2/ShopifyPlusW.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/following_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_network.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/domain_specificity.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_invoice_payment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_success.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_revenue_stream.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_reputation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/reset_impersonation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/RegimA SA · Reports · Total sales over time by store · Shopify Plus.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_dependents.md
+  - ./UPDATED_DRAFTS/analysis-main/attack_escalation_timeline.png
+  - ./UPDATED_DRAFTS/analysis-main/entities/core_conspiracy_documentation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_court_frame.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_threshold.md
+  - ./UPDATED_DRAFTS/MASTER_CONSPIRACY_TIMELINE_2021_2025.md
+  - ./jax-dan-response/AD/1-Critical/DAN_BUSINESS_CONTINUITY_IMPACT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_domain_optimization.md
+  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_11_6-11_9_DAN_BUSINESS_OPERATIONS.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_operations_evidence.md
+  - ./2DO/x/regima.com/dan@regima.com/RegimA SA - Shopify.pdf
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_shopify_evidence_comprehensive_REVISION_LOG_backup_20251013_121544.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_management_structure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_shopify_deletion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_account_takeover.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_confirms_conspiracy.md
+  - ./evidence/computer-expenses/Business Application Assessment Template for Computer Expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_platform.md
+  - ./jax-dan-response/evidence-attachments/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE-ENHANCED.docx
+  - ./docs/legal/annexures/JF02/ShopifyPlusW.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_interruption.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shutdown.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_begins.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_multiple.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_period.md
+  - ./docs/legal/AFFIDAVIT_SHOPIFY_REVENUE_PROVISIONS.md
+  - ./Revenue_Stream_Hijacking_by_Rynette/05_Evidence/Domain_Ownership_Documentation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entity_criminal_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_audit_trail.md
+  - ./evidence/shopify_reports/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_plus_onboarding.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/achieve_shopify_plus.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_impersonation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_legitimacy_validation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/subpoena_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_cloud.md
+  - ./UPDATED_DRAFTS/REVENUE_STREAM_HIJACKING_FINANCIAL_STRANGULATION_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_trust.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_dysfunction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_shutdown.md
+  - ./jax-dan-response/AD/3-Medium-Priority/PARA_11_6-11_9_DAN_BUSINESS_OPERATIONS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/from_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/shopify_revenue_stream_mapping.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_impact_assessment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/complex_business_structure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_operational_shutdown.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shopify_invoices_provide.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/separate_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/subpoena_complete_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_experience.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/know_your_business.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_evidence_integration.md
+  - ./docs/legal/affidavits/AFFIDAVIT_shopify_evidence_comprehensive.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_detail.md
+  - ./backups/pre-consolidation/jax-dan-response/AD/1-Critical/DAN_BUSINESS_CONTINUITY_IMPACT.md
+  - ./jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/subpoena_shopify_plus.md
+  - ./UPDATED_DRAFTS/analysis-main/attack_escalation_timeline.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategy_protects_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_shopify_evidence_comprehensive_FACT_BASED_enhanced.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_established.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_model.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_courts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_base.md
+  - ./UPDATED_DRAFTS/analysis-main/AFFIDAVIT_shopify_evidence_comprehensive_FACT_BASED.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_timeline.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_service.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_pattern_this.md
+  - ./evidence/2025-11-14-batch/ShopifyPlusW.pdf
+  - ./ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/discovers_shopify_issues.md
+  - ./docs/legal/annexures/JF08/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/subpoena_to_shopify_international_limited.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/cannot_claim_business.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_growth.md
+  - ./lex/SHOPIFY_REVENUE_FRAUD_REGIMA_ZONE_UK_OWNERSHIP_2025-11-18.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_records.md
+- **Ad Res J7 References:** 
+  - See files related to: Customer, hijacking, platform., Family, conspiracy, escalation, digital, impersonation., Domain, registered, impersonate, business, Dan's, funded, platform., domain, regimaskin.co.za, registered, Adderory, (Rynette's, son's, company), following, Shopify, shutdown.
+- **Crime Category:** revenue_theft
+- **Phase:** PHASE_003
+- **Event Subtype:** revenue_theft_identity_fraud
+- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_010
+- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
+- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
+- **Evidence Urls:** 
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/customer_goodwill_loss.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/family_dynamics.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/business_model_validation.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/2DO/x/regima.zone/emma@regima.zone/Sumup payment platform.pdf
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/docs/RegimA WW+Zone · Reports · Total sales over time by store · Shopify Plus ZAR.pdf
+- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_010.html
+- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_010
+- **Related Application:** APPLICATION_1
+- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
+- **Ad Res J7 Evidence:** 
+  - {'source': 'ANNEXURES/JF02/', 'description': 'Shopify platform evidence', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF02'}
+  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
+  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}

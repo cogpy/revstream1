@@ -1,20 +1,20 @@
----
-layout: default
-title: "Bernadine Wright"
----
 # Bernadine Wright
 
-| Field | Value |
-|---|---|
-| **Entity ID** | `PERSON_010` |
-| **Name** | Bernadine Wright |
-| **Role** | financial_professional |
-| **Agent Type** | neutral |
-| **Involvement Events** | 1 |
+**Entity ID:** `PERSON_010`
 
-## Evidence References
+- **Role:** financial_professional
+- **Agent Type:** neutral
+- **Involvement Events:** 1
+- **Relationships:** 
+  - recipient_of_trial_balance_email
+  - financial_statement_finalization_meeting
+- **Additional Notes:** Recipient of trial balance email from Bantjies on August 13, 2020, meeting for financial statement finalization, witness to Bantjies' control of financial systems
+- **Timeline Events:** 
+  - EVENT_H018
+- **Role Clarification:** Recipient of trial balance email from Bantjies, witness to his financial system control
 
-- [evidence/accounting/trial_balance_recipients/](https://github.com/cogpy/ad-res-j7/tree/main/evidence/accounting/trial_balance_recipients/)
-- [ANNEXURES/accounting/bernadine_correspondence/](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/accounting/bernadine_correspondence/)
+## Related Events
 
-[View in Comprehensive Evidence Index](https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md)
+- **2020-08-13**: [Bantjies Trial Balance Email Distribution](../events/EVENT_H008.md)
+- **2020-08-13**: [Untitled Event](../events/EVENT_048.md)
+- **2020-08-13**: [Bantjies Sends Trial Balance Email to Bernadine Wright](../events/EVENT_H018.md)

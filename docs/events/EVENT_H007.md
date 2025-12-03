@@ -1,20 +1,518 @@
----
-layout: default
-title: "Event: Villa Via Year-End Profit Extraction"
----
 # Villa Via Year-End Profit Extraction
 
-| Field | Value |
-|---|---|
-| **Event ID** | `EVENT_H007` |
-| **Date** | 2020-04-30 |
-| **Category** | profit_extraction |
-| **Related Application** | [APPLICATION_1](https://cogpy.github.io/revstream1/application-1.html) |
+**Event ID:** `EVENT_H007`
+**Date:** 2020-04-30
 
-## Description
-
-Villa Via generates R4.4M monthly rental income with R3.7M profit, Members loan account R22.8M indicating systematic capital extraction
-
-## Evidence References
-
-No direct evidence files linked.
+- **Category:** profit_extraction
+- **Event Type:** capital_extraction
+- **Perpetrators:** 
+  - PERSON_001
+- **Victims:** 
+  - ORG_004
+  - ORG_001
+  - TRUST_001
+- **Entities Involved:** 
+  - ORG_005
+- **Description:** Villa Via generates R4.4M monthly rental income with R3.7M profit, Members loan account R22.8M indicating systematic capital extraction
+- **Financial Impact:** R22,800,000
+- **Legal Significance:** evidence_of_capital_extraction_mechanism
+- **Evidence:** 
+  - VV-TRIALBALANCEAPR20202.xlsx
+- **Pattern:** historical_foundation
+- **Critical:** True
+- **Timeline Phase:** PHASE_000
+- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
+- **Related Applications:** 
+  - APPLICATION_1
+  - APPLICATION_2
+- **Evidence Files:** 
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_transfer.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_avoidance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/updated_sage_account.md
+  - ./docs/legal/annexures/JF08/evidence_package_20250606/monthly_spending_trend.png
+  - ./evidence/annexures/JF-DLA1_PETER_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/resource_extraction.md
+  - ./case_2025_137857/02_evidence/evidence_package_20250606/monthly_spending_trend.png
+  - ./ANNEXURES/JF08/evidence_package_20250606/evidence_extraction_summary.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_expense_dumping.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./UPDATED_DRAFTS/analysis-main/entities/retained_income.md
+  - ./jax-response/dan-response-materials/accountant_concerns.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/income_statement_changes.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_criminal_court.md
+  - ./ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/asset_extraction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_account_number.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_harassment.md
+  - ./ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bank_account_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/screenshots/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_cost.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_holder.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rental_fraud_flow.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_irregularities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_accountant_was.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_gap.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/loan_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_account_fee.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_planning.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_corporate_sabotage.md
+  - ./case_2025_137857/02_evidence/evidence_package_20250606/monthly_spending_trend.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025/evidence_extraction_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_records.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_accounts_that_never_appeared_in_rezonance_r.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/while_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250606/monthly_spending_trend.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/local_accounting_system.md
+  - ./lex/frn/za/south_african_forensic_analysis_systematic_fraud_narrative.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/month_accounting_gap.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/profit_extraction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_accounting_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_operational_costs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/pastel_accounting_system.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/forensic_accountant.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_access.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/villa_via_rent.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/forensic_accountants.md
+  - ./evidence/2025-11-14-batch/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_application_documentation.md
+  - ./evidence/2025-11-14-batch/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/analyze_rental_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_account_access.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/AccountTransactionsReport.pdf
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ I NEED TO SEE THE AMOUNT IN MY PERSONAL ACCOUNT - [External Email](1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/regima_account_analysis_2024_2025.md
+  - ./case_2025_137857/02_evidence/screenshots/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./backups/pre-consolidation/jax-dan-response/accountant_concerns.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/absa_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_suggests_systematic_transfer_pricing_mani.md
+  - ./evidence/computer-expenses/monthly_spending_trend.png
+  - ./UPDATED_DRAFTS/analysis-main/entities/bank_account_blocking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities_and_dates_extraction.py
+  - ./UPDATED_DRAFTS/analysis-main/entities/interest_income_collapse.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/screenshots/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_gaslighting_deployment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/final_extraction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_balance_destruction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_exploitation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/source_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_forced_payments.md
+  - ./jax-dan-response/accountant_concerns.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/villa_palma.md
+  - ./lex/cmp/za/south_african_company_law_forensic_accounting.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/IT_INVOICE_ACCOUNT_SEIZURE_SECTION.md
+  - ./evidence/2025-11-14-batch/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./jax-dan-response/evidence-attachments/JF-DLA2_JACQUELINE_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_account_access.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/average_monthly_performance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_revenue_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_gap_identification.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_officers.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_pattern.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/key_event_extraction.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/monthly_spending_trend (1).png
+  - ./jax-response/AD/dan-perspective/2-High-Priority/PARA_7_12-7_13_DAN_ACCOUNTANT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/no_business_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/supplier_control_account.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ New Business Account Document Request [REF_1758922975755].pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/personal_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rental_fraud_estimate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/combined_service_income.md
+  - ./case_2025_137857/02_evidence/evidence_package_20251012/regima_uk_extraction.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_evidence.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Important notice_ overdrawn business account ending in xxx7015.pdf
+  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/account_analysis_2024_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_monthly_trend_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_gaslighting_tactics.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/villa_palmer_homeowners.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/AccountTransactionsReport (1).pdf
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ 2025-04-14 - Rynette Instruction to Clients to Pay into a New Bank Account o.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/zone_monthly_costs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_gaps.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/villa_via_arcadia.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/working_capital_management.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_shows_systematic.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/screenshots/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_costs.md
+  - ./UPDATED_DRAFTS/2_YEAR_ACCOUNTING_BLACKOUT_AFTER_KAYLA_EMAIL_SEIZURE.md
+  - ./UPDATED_DRAFTS/analysis-main/EVIDENCE_EXTRACTION_NEW_EMAILS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_irregularities_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_fees.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_witness_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/technology_accounts.md
+  - ./docs/legal/annexures/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/profit_extraction_layer.md
+  - ./evidence/correspondence/dan-bantjies-jun2025/account_analysis_2024_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sage_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_systematic_takeover.md
+  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v5.scm
+  - ./2DO/x/regima.zone/emma@regima.zone/Re_ Finish setting up your account(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_evidence_prevention.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/updated_extraction.md
+  - ./ANNEXURES/JF08/evidence_package_20251012/regima_uk_extraction.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_income.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/villa_via_charges_excessive_rent_to_regima_group.md
+  - ./2DO/x/rzo.io/d@rzo.io/Re_ New Business Account Document Request [REF_1758931191988].pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_systematically.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_extraction.md
+  - ./jax-response/evidence-attachments/dan-technical/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_evidence_tampering.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/stable_income_stream.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sage_account_screenshot.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/from_email_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/zone_monthly_trend.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ A passkey was added to your Coinbase account.pdf
+  - ./jax-response/evidence-attachments/JF-CHESNO1-forensic-accounting-reports.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/monthly_spending_trend.png
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_income_performance.md
+  - ./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO1-forensic-accounting-reports.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_failures.md
+  - ./evidence/computer-expenses/AccountTransactionsReport(3).csv
+  - ./UPDATED_DRAFTS/analysis-main/entities/examine_villa_via.md
+  - ./UPDATED_DRAFTS/analysis-main/post_murder_systematic_takeover_2023_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/bank_account_interference_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_performance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_psychological_manipulation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_perjury_pattern.md
+  - ./jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2024.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/share_capital.md
+  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v4.scm
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_access_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/PROFIT_EXTRACTION_FRAUD_ANALYSIS.py
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_ongoing_costs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bank_accounts_redirected.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Closure of accounts.pdf
+  - ./case_2025_137857/02_evidence/screenshots/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(4).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_execution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_systematic_removal.md
+  - ./2DO/x/rzo.io/d@rzo.io/RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Billin.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_approach.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_monthly_costs.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/prepare_expert_accounting.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_type.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/forensic_accounting_requirements.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251009/evidence_extraction_summary.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/working_capital.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_escalation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accountant_bantjes.md
+  - ./evidence/correspondence/dan-bantjies-jun2025/AccountTransactionsReport (1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_systematically_destroyed.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/villa_via_exclusion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/advanced_entity_extraction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_rental.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_systematic_strategy.md
+  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v6.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/income_tax_act.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/capital_allocation_decisions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interest_income_loss.md
+  - ./legal_analysis_2025_11/scheme_files/south_african_company_law_director_loan_accounts.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/investment_income.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./2DO/x/regima.com/dan@regima.com/Re_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_abuse.md
+  - ./2DO/x/regima.com/dan@regima.com/Dan Personal Account.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/sundry_income.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_trend_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_number.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entity_extraction_successfully.md
+  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2025.PDF
+  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/working_capital_optimization.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_reform.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_shopify.md
+  - ./lex/SYSTEMATIC_PERSECUTION_BASED_ON_PERJURY_2025-11-18.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/loan_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_foundation_building.md
+  - ./lex/cmp/za/south_african_company_law_director_loan_accounts.scm
+  - ./2DO/x/regima.com/dan@regima.com/2025-04-14 - Rynette Instruction to Clients to Pay into a New Bank Account only.pdf
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ Your account's nearly ready.pdf
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA2_JACQUELINE_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./evidence/computer-expenses/monthly_spending_trend.json
+  - ./ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/bank_accounts.md
+  - ./docs/legal/annexures/JF08/evidence_package_20250606/monthly_spending_trend.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/inventory_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_theft.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_deletion.md
+  - ./docs/legal/annexures/JF08/evidence_package_20251009/evidence_extraction_summary.md
+  - ./jax-dan-response/AD/2-High-Priority/PARA_7_12-7_13_DAN_ACCOUNTANT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_monthly_costs.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_business_disruption.md
+  - ./docs/legal/annexures/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250606/evidence_extraction_summary.md
+  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v3.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_violations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/capital_investment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/working_capital_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/forensic_accounting_division.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_account.md
+  - ./case_2025_137857/02_evidence/screenshots/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rental_income_vehicle.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/villa_via.md
+  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2023.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/villa_via_timing.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/automated_entity_extraction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_accountant.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entity_extraction.md
+  - ./ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./case_2025_137857/02_evidence/evidence_package_20250606/evidence_extraction_summary.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_court_avoidance.md
+  - ./case_2025_137857/02_evidence/evidence_package_20250606/monthly_spending_trend.json
+  - ./jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/platinum_business_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_indicators.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_business_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_and_regima_sa_shopify_plus_accounts.md
+  - ./jax-response/evidence-attachments/dan-technical/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/professional_accountability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_attack.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/online_account_access.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi.pdf
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250606/monthly_spending_trend.png
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_accounts.md
+  - ./UPDATED_DRAFTS/SEPTEMBER_11_ACCOUNT_EMPTYING_COMPLETE_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_loan_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/average_monthly_orders.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/professional_accounting_bodies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_exclusion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_control_account.md
+  - ./jax-dan-response/annexures/2025-11-14-evidence-batch/ANNEXURE_B_Sage_Screenshot_Accounting_Registration_Expired_2025-08-25.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_systematic_escalation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_court_abuse.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_account_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/all_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_balance_decline.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_balance_collapse.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_code.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/members_loan.md
+  - ./docs/strategic/fraud-analysis/FINANCIAL_EXTRACTION_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_emptying.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_extraction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/wide_account_code.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_takeover.md
+  - ./docs/technical/implementation/SYSTEMATIC_CROSS_REFERENCING_IMPLEMENTATION.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/absa_main_account.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ note 2024-02-21 - ABSA Account RegimA Worldwide.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/updated_relationship_extraction.md
+  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v2.scm
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ New Business Account Document Request [REF_1758931191988].pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_control_change.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_extraction.md
+  - ./docs/legal/annexures/JF08/evidence_package_20250606/monthly_spending_trend.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/new_payment_account.md
+  - ./ANNEXURES/JF08/evidence_package_20250606/monthly_spending_trend.json
+  - ./jax-dan-response/evidence-attachments/JF-VV1_VILLA_VIA_SELF_DEALING_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/villa_via_isolation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/pension_account.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ I NEED TO SEE THE AMOUNT IN MY PERSONAL ACCOUNT - [External Email].pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_reconciliation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_court_jurisdiction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/tax_provision_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_code_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/data_extraction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/forensic_accounting.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/working_capital_crisis.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_nature.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(3).pdf
+  - ./ANNEXURES/JF08/evidence_package_20250606/AccountTransactionsReport.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/family_members.md
+  - ./docs/legal/annexures/JF08/evidence_package_20250606/evidence_extraction_summary.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_revenue_stream.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/false_accounting.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bank_account_interference.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ New Business Account Document Request [REF_1758931191988](1).pdf
+  - ./ANNEXURES/JF08/evidence_package_20250606/monthly_spending_trend.png
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounts_manager.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/murder_enables_systematic.md
+  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced.scm
+  - ./docs/legal/annexures/JF10/ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/villa_via_accounts.md
+  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/Email_Attachments_Extraction_Summary.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_dependent.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_coordination.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/previous_extraction.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/evidence_extraction_summary.md
+  - ./case_2025_137857/02_evidence/evidence_package_20251009/evidence_extraction_summary.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_stripping.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_event_extraction.md
+  - ./case_2025_137857/02_evidence/evidence_package_20250606/AccountTransactionsReport.pdf
+  - ./evidence/director_loan_accounts/ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md
+  - ./evidence/annexures/JF-DLA2_JAX_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_details.md
+  - ./docs/legal/annexures/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_systematic_takeover.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_business_account.md
+  - ./ANNEXURES/JF08/evidence_package_20250606/monthly_spending_trend.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_court_manipulation.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_extraction_mechanism.md
+  - ./evidence/annexures/JF-CHESNO1_FORENSIC_ACCOUNTING_REPORTS.md
+  - ./ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./evidence/annexures/JF-DLA3_DANIEL_DIRECTOR_LOAN_ACCOUNT.md
+  - ./evidence/computer-expenses/AccountTransactionsReport.csv
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Your account's nearly ready.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_burn_rate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_material_non.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/professional_accountability_required.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ Finish setting up your account.pdf
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250606/AccountTransactionsReport.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_order.md
+  - ./UPDATED_DRAFTS/analysis-main/IT_INVOICE_ACCOUNT_SEIZURE_SECTION_FACT_BASED.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/members_remuneration.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/monthly_spending_trend.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/complete_accounting_system.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_cover.md
+  - ./backups/pre-consolidation/jax-dan-response/AD/2-High-Priority/PARA_7_12-7_13_DAN_ACCOUNTANT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_reframing.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_account_takeover.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./UPDATED_DRAFTS/analysis-main/entities/financing_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_security.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_processing_gap.md
+  - ./evidence/2025-11-14-batch/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_manipulation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_profit_extraction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peak_monthly_billing.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_business_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/average_monthly_spend.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/dependent_family_members.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_systematic_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_application_records.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_monthly_trend_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/savings_account.md
+  - ./2DO/x/regima.com/dan@regima.com/note 2024-02-21 - ABSA Account RegimA Worldwide.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_coordination_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/unauthorized_account_change.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_campaign_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_system_breakdown.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/new_bank_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_infrastructure_sabotage.md
+  - ./docs/legal/annexures/JF08/evidence_package_20250606/AccountTransactionsReport.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_evidence_destruction.md
+  - ./legal_analysis_2025_11/scheme_files/south_african_forensic_analysis_systematic_fraud_narrative.scm
+  - ./lex/evid/za/south_african_evidence_systematic_fraud_patterns.scm
+  - ./2DO/x/regima.zone/emma@regima.zone/Re_ Finish setting up your account.pdf
+  - ./docs/legal/annexures/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/feature_extraction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rental_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_deception.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_extraction_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/tax_control_account.md
+  - ./evidence/computer-expenses/monthly_spending_trend.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/screenshots/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/regima_uk_extraction.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/sophisticated_accounting.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_exploitation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_payment_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/systematic_sabotage_and_curatorship_fraud_evidence.md
+  - ./evidence/computer-expenses/AccountTransactionsReport(1).csv
+  - ./UPDATED_DRAFTS/analysis-main/entities/rental_optimization.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_control_sabotage.md
+  - ./docs/legal/annexures/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/creating_systematic_chaos.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_rental_income.md
+  - ./2DO/x/regima.zone/dan@regima.zone/Fw_ STOCK2SHOP (PTY) Ltd Statement of Account for period 01 Jan 25 - 19 Jun 25.pdf
+  - ./ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_orchestration.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/villa_via_capital.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(2).pdf
+  - ./jax-response/evidence-attachments/dan-technical/JF-DLA2_JACQUELINE_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./docs/legal/annexures/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./2DO/x/regima.zone/emma@regima.zone/Re_ Your account's nearly ready.pdf
+  - ./evidence/computer-expenses/AccountTransactionsReport(2).csv
+  - ./UPDATED_DRAFTS/analysis-main/entities/event_extraction.md
+  - ./ANNEXURES/JF10/ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2024.PDF
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251009/evidence_extraction_summary.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ Dan Personal Account.pdf
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Finish setting up your account.pdf
+  - ./docs/legal/annexures/JF08/evidence_package_20251012/regima_uk_extraction.json
+  - ./UPDATED_DRAFTS/analysis-main/docs/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/combined_monthly_average.md
+  - ./ANNEXURES/JF08/evidence_package_20251009/evidence_extraction_summary.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/working_capital_strain.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/working_capital_challenge.md
+  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2023.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/absa_savings_account.md
+  - ./UPDATED_DRAFTS/analysis-main/IT_INVOICE_ACCOUNT_SEIZURE_SECTION_REVISION_LOG.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/monthly_spending_trend (1).md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interest_income_drop.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/skin_treatments_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_revenue_stream.md
+  - ./case_2025_137857/02_evidence/screenshots/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./evidence/correspondence/dan-bantjies-jun2025/regima_account_analysis_2024_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accountant_danie_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_account_takeover.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/monthly_spending_trend.json
+  - ./evidence/2025-11-14-batch/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_manipulation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/expected_monthly_credits.md
+  - ./analyze_sept_11_account_emptying.py
+  - ./lex/FAKE_ACCOUNTS_FABRICATION_FRAUD_2025-11-18.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_income.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF10/ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/villa_via_year.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_shopify.md
+  - ./evidence/correspondence/dan-bantjies-jun2025/monthly_spending_trend (1).png
+  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_extraction_summary.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_expense_breakdown.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_planning_indicators.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/working_capital_changes.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_accounting_system.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_concealment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_control.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./case_2025_137857/02_evidence/screenshots/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/property_rental.md
+  - ./2DO/x/regima.zone/emma@regima.zone/Re_ Your account's nearly ready(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/other_income.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_name.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/average_monthly_sales.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_anomaly.md
+  - ./case_2025_137857/02_evidence/screenshots/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg
+  - ./evidence/2025-11-14-batch/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_campaign.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bank_account.md
+- **Ad Res J7 References:** 
+  - See files related to: Villa, generates, R4.4M, monthly, rental, income, R3.7M, profit,, Members, account, R22.8M, indicating, systematic, capital, extraction
+- **Crime Category:** financial_manipulation
+- **Phase:** PHASE_000
+- **Event Subtype:** profit_extraction_capital_extraction
+- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_h007
+- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
+- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
+- **Evidence Urls:** 
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/systematic_transfer.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/systematic_avoidance.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/updated_sage_account.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/docs/legal/annexures/JF08/evidence_package_20250606/monthly_spending_trend.png
+  - https://github.com/cogpy/ad-res-j7/blob/main/evidence/annexures/JF-DLA1_PETER_DIRECTOR_LOAN_ACCOUNT.md
+- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_H007.html
+- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_H007
+- **Related Application:** APPLICATION_1
+- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
+- **Ad Res J7 Evidence:** 
+  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
+  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}

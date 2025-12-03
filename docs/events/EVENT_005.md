@@ -1,20 +1,447 @@
----
-layout: default
-title: "Event: Bank Account Change Letter for RegimA Worldwide"
----
 # Bank Account Change Letter for RegimA Worldwide
 
-| Field | Value |
-|---|---|
-| **Event ID** | `EVENT_005` |
-| **Date** | 2025-04-14 |
-| **Category** | revenue_theft |
-| **Related Application** | [APPLICATION_1](https://cogpy.github.io/revstream1/application-1.html) |
+**Event ID:** `EVENT_005`
+**Date:** 2025-04-14
 
-## Description
-
-Setup for R3.14M+ revenue theft. First documented act in coordinated scheme. Attempted redirect of payments from Dan's UK-funded infrastructure
-
-## Evidence References
-
-No direct evidence files linked.
+- **Category:** revenue_theft
+- **Event Type:** bank_account_manipulation
+- **Perpetrators:** 
+  - PERSON_002
+- **Victims:** 
+  - PERSON_005
+  - ORG_001
+- **Entities Involved:** 
+  - ORG_001
+  - PLATFORM_001
+- **Description:** Setup for R3.14M+ revenue theft. First documented act in coordinated scheme. Attempted redirect of payments from Dan's UK-funded infrastructure
+- **Financial Impact:** R3,141,647.70
+- **Legal Significance:** first_documented_act_in_coordinated_scheme
+- **Evidence:** 
+  - bank_letter
+  - account_change_documentation
+- **Shopify Related:** True
+- **Pattern:** initial_theft_phase
+- **Timeline Phase:** PHASE_002
+- **Shopify Connection:** {'connected': True, 'note': "Bank changes targeted revenue from Shopify platform paid by Dan's UK company", 'revelation': 'Attempted to redirect payments for sales on infrastructure owned and paid by RegimA Zone Ltd'}
+- **Crime Type:** Fraudulent redirection of funds, theft by conversion
+- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
+- **Related Applications:** 
+  - APPLICATION_1
+- **Evidence Files:** 
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/technical_infrastructure_review.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_quantification_dashboard.md
+  - ./2DO/x/regima.zone/jax@regima.zone/ARE YOU ABLE TO OPPOSE PART A OF THE EXPARTE INTERDICT, THE FIRST ONE.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/core_business_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_false_narratives.md
+  - ./1-CIVIL-RESPONSE/annexures/JF-SHOPIFY-INFRASTRUCTURE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_decision_making.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/diverted_revenue.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(2).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_sub.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/technology_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_breakdown.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hidden_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/diverted_revenue_destination.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/environment_setup.md
+  - ./legal_analysis_2025_11/scheme_files/south_african_civil_law_revenue_hijacking_creditor_sabotage.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/corrected_criminal_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_capture.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_customer_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_distribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/developer_setup.md
+  - ./UPDATED_DRAFTS/HMRC_PENSION_CORRESPONDENCE_REDIRECTION_FRAUD_COMPREHENSIVE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/graph_database_setup.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_financial_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_documentation_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/claimed_payments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_ownership.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_diversion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/technical_infrastructure_manipulation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/platform_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_streams_hijacked.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/month_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/TRUST_IMPLICATIONS_UK_PAYMENTS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_concealment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_first_interdict.md
+  - ./db/HYPERGRAPH_SETUP_COMPLETE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/may_revenue.md
+  - ./docs/strategic/fraud-analysis/SHOPIFY_REVENUE_REVELATION_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_revenue_stream.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/main_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/historical_revenue_diversion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/attempted_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_revenue_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_tracking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/analyze_rental_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_concentration_analysis.md
+  - ./jax-dan-response/evidence-attachments/Dan_Technical_Infrastructure_Affidavit.md
+  - ./UPDATED_DRAFTS/analysis-main/DATABASE_SYNC_SETUP_GUIDE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_national_bank.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_revenue_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/code_quality_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_streams_created.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_data_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_respondent.md
+  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/benefit_redirection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_forced_payments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/payment_infrastructure_destruction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_costs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/advertising_revenue.md
+  - ./2DO/x/regima.com/dan@regima.com/FIRST DRAFT_ NOTICE OF WITHDRAWAL FROM SETTLEMENT AGREEMENTS.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_revenue_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/impersonation_infrastructure_expansion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_month.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/deduction_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/documented_financial_events.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/documented_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/RegimA_Zone_UK_Bank_Shopify_Payments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/transfer_pricing_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_universal_time.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(12).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_removal.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/net_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_email_campaign.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_redirection_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/case_setup.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/correspondence_redirection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_quantification_breakthrough.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_payout_date.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/testing_infrastructure_enhancement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_decline.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_setup.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/database_setup.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_reconciliation_gap.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/inventory_manipulation_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/massive_technical_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure_destruction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_reconciliation_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/direct_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/permanent_redirect.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/stable_revenue_foundation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/key_evidence_documented.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/mitigation_strategies_documented.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/proves_theft.md
+  - ./docs/legal/SHOPIFY_REVENUE_INTEGRATION_FRAMEWORK.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/documented_evidence_weight.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_without_payment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_manipulation_connection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_financial_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_peter.md
+  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_timing_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_appropriation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_attack.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_tracing.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(13).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/south_african_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_responder.md
+  - ./UPDATED_DRAFTS/analysis-main/comprehensive_revenue_hijacking_tax_fraud_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/firstrand_bank_ltd.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_erasure_month.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_seizure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_setup_phase.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/stripping_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/coordinated_card_cancellation_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/REVENUE_OWNERSHIP_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sales_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_composition.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/protects_estate_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_criminal_activity.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/store_infrastructure_justification.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_responder_actions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_streams.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_payments.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(5).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_type.md
+  - ./jax-response/evidence-attachments/dan-technical/Dan_Technical_Infrastructure_Affidavit.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shared_infrastructure_benefits.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bank_accounts_redirected.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_cost_reallocations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/development_infrastructure_investment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_systematic_removal.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/test_infrastructure_improvements.md
+  - ./backups/pre-consolidation/jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rezonance_payments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/previously_documented.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_destruction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_violations_documented.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/core_revenue.md
+  - ./backups/pre-consolidation/jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_tracking_gap.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ RE_ RegimA SA Payments.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_theft_period.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/alleged_payments_recorded.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(1).pdf
+  - ./database/docs/DATABASE_SETUP_README.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enables_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/lost_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/quickbooks_online_payments_regima_zone_academy_ltd.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/basic_setup.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/testing_infrastructure_overhaul.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(8).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/asset_concealment_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_theft.md
+  - ./lex/CURATORSHIP_SETUP_PATTERN_ANALYSIS_2025-11-18.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/chain_showing_coordinated.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/data_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/skin_treatments_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rent_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_mapping.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sophisticated_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_revenue_loss.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_quantification.md
+  - ./jax-response/AD/1-Critical/RWD_REVENUE_INTEGRITY_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/instant_payments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_prosecution_strategy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_attorney.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_diversion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/diverted_revenue_tracing.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_attorney_meeting.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/development_setup.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_down.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_timing.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_destruction_first.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/lost_revenue_opportunity.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/asset_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/RegimA_Zone_UK_Bank_Shopify_Payments.png
+  - ./UPDATED_DRAFTS/analysis-main/entities/safety_first.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/testing_infrastructure_expansion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/stable_revenue_stream.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/technology_infrastructure_cost.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hawks_investigation_first.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ 2025-05-23 - Audit Trail Disappears - Revenue Order & Payment Records Divert.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/attempted_rejection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_reality_documented.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/medical_testing_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_timeline_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_place.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/testing_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/direct_customer_payments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure_sabotage.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Firstly - Regarding the only (false) claim made against Jacqui Faucitt.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/files_first_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/documented_revenue_loss.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/development_environment_setup.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/documented_shopify.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ RegimA SA Payments.pdf
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(2).pdf
+  - ./jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_generation_layer.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/mechanism_documented_previous.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/documentation_first.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/predicate_acts_documented.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/asset_protection_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_hiding.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(4).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_records.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/local_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_documented_truth.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_investment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_court_order.md
+  - ./2DO/x/regima.com/dan@regima.com/Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(14).pdf
+  - ./UPDATED_DRAFTS/analysis-main/scripts/setup_environment.sh
+  - ./UPDATED_DRAFTS/analysis-main/entities/online_banking_payments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_timing_pattern.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/lost_distributor_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/harare_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_revenue_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_hiding.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_bantjes.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/identity_theft.md
+  - ./evidence/fake_accounts/Fw_RE_RegimASAPayments.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_and_divert_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/medical_coercion_setup.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(6).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_architecture.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/documented_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_destruction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/actual_payments_received.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/broader_impersonation_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/online_payments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_diversion_network.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_first.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_revenue_stream.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/temporary_redirect.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_revenue_decline.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_made_substantial_payments_t.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/mail_redirection_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_response_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/continued_theft.md
+  - ./evidence/analysis/timelines/Timeline_of_Events_RegimA_Revenue_Stream_Hijacking.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_showing_revenue_grow.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/correspondence_redirection_based.md
+  - ./2DO/x/regima.com/dan@regima.com/2025-05-23 - Audit Trail Disappears - Revenue Order & Payment Records Diverted.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_card_cancellation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_mismanagement_setup.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/pension_correspondence_redirection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_success.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/Dan_Technical_Infrastructure_Affidavit.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/service_revenue_performance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/maintain_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/newly_documented.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_data_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/zone_revenue_decline.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_first_year.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/precise_revenue_quantification.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/showing_coordinated.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/investment_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/expected_annual_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_visibility.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Firstly - Regarding the only (false) claim made against Jacqui Faucitt(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/related_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_revenue_concealment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_structured_payment.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/UK_Bank_Statement_Shopify_Payments_Analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_payments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/key_documented_facts.md
+  - ./UPDATED_DRAFTS/analysis-main/revenue_stream_theft_scheme_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_first_respondent.md
+  - ./UPDATED_DRAFTS/analysis-main/revenue_stream_hijacking_analysis.md
+  - ./backups/pre-consolidation/jax-response/AD/1-Critical/RWD_REVENUE_INTEGRITY_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_theft.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(9).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/combined_shopify_infrastructure.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(7).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/year_embezzlement_scheme.md
+  - ./lex/civ/za/south_african_civil_law_revenue_hijacking_creditor_sabotage.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_foundation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_hidden_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/property_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_deception.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/service_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_flow_misrepresentation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_loss.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/documented_facts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/consolidated_external_revenues.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_trends.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_appropriation.md
+  - ./evidence/computer-expenses/Consolidated External Revenues Analysis Template.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_takeover.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_infrastructure_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_vulnerability_disclosure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/destruction_scale_documented.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/critical_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rental_revenue.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/tax_identity_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/operational_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_revenue_stream.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_funded_rwd_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/documented_across_all.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/trace_diverted_revenue.md
+  - ./evidence/fake_accounts/Fw_RE_RegimASAPayments.msg
+  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/technology_infrastructure_details.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
+  - ./revenue-stream-hijacking-rynette/revenue-stream-configuration.json
+  - ./2DO/x/regima.com/dan@regima.com/Re_ ARE YOU ABLE TO OPPOSE PART A OF THE EXPARTE INTERDICT, THE FIRST ONE.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_payments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_signature.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_operations_funded_by_personal_cards.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_combined_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/complete_revenue_diversion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_recent_payments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/development_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/payment_fraud_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_revenue_stream.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_order.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_recovery.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_revenue_stream.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_categories.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_diversion_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_reconciliation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_revenue_overview.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_contribution.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_payments_made.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(11).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_technology_infrastructure.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(10).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/app_payments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_direct_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/direct_revenue_loss.md
+  - ./2DO/x/ianlevitt.co.za/ian@ianlevitt.co.za/RE_ ARE YOU ABLE TO OPPOSE PART A OF THE EXPARTE INTERDICT, THE FIRST ONE(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_revenue_stream.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_manipulation.md
+  - ./affidavit_work/analysis/PETERS_CLAIMS_VS_DOCUMENTED_EVIDENCE_COMPARATIVE_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/day_coordinated_sequence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_upgrades.md
+  - ./database/scripts/setup_supabase_db.py
+  - ./docs/legal/AFFIDAVIT_SHOPIFY_REVENUE_PROVISIONS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/combined_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/forced_personal_payments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/payments_re_kayla.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/documented_events.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_readiness.md
+  - ./UPDATED_DRAFTS/REVENUE_STREAM_HIJACKING_FINANCIAL_STRANGULATION_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/shopify_revenue_stream_mapping.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_collapse.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_validation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/combined_sales_revenue.md
+  - ./jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/store_revenue_breakdown.md
+  - ./2DO/x/regima.zone/jax@regima.zone/RE_ Firstly - Regarding the only (false) claim made against Jacqui Faucitt.pdf
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(3).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_interdict_application.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/redirect_revenue_streams.md
+  - ./2DO/x/regima.zone/jax@regima.zone/Firstly - Regarding the only (false) claim made against Jacqui Faucitt.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_respondent_peter.md
+  - ./jax-dan-response/AD/1-Critical/COORDINATED_SABOTAGE_TEMPORAL_ANALYSIS_ENHANCED.md
+  - ./2DO/x/ianlevitt.co.za/ian@ianlevitt.co.za/RE_ ARE YOU ABLE TO OPPOSE PART A OF THE EXPARTE INTERDICT, THE FIRST ONE.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/commonwealth_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_payment_infrastructure.md
+  - ./lex/SHOPIFY_REVENUE_FRAUD_REGIMA_ZONE_UK_OWNERSHIP_2025-11-18.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_actions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_recovery.md
+  - ANNEXURES/JF04/
+- **Ad Res J7 References:** 
+  - See files related to: Setup, R3.14M+, revenue, theft., First, documented, coordinated, scheme., Attempted, redirect, payments, Dan's, funded, infrastructure
+- **Crime Category:** revenue_theft
+- **Phase:** PHASE_002
+- **Event Subtype:** revenue_theft_bank_account_manipulation
+- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_005
+- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
+- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
+- **Evidence Urls:** 
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/infrastructure_control.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/technical_infrastructure_review.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/revenue_quantification_dashboard.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/2DO/x/regima.zone/jax@regima.zone/ARE YOU ABLE TO OPPOSE PART A OF THE EXPARTE INTERDICT, THE FIRST ONE.pdf
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/core_business_revenue.md
+- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_005.html
+- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_005
+- **Related Application:** APPLICATION_1
+- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
+- **Ad Res J7 Evidence:** 
+  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
+  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}

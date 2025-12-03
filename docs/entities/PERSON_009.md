@@ -1,20 +1,21 @@
----
-layout: default
-title: "Gee"
----
 # Gee
 
-| Field | Value |
-|---|---|
-| **Entity ID** | `PERSON_009` |
-| **Name** | Gee |
-| **Role** | email_sender_witness |
-| **Agent Type** | neutral |
-| **Involvement Events** | 2 |
+**Entity ID:** `PERSON_009`
 
-## Evidence References
+- **Role:** email_sender_witness
+- **Agent Type:** neutral
+- **Involvement Events:** 2
+- **Primary Actions:** 
+  - sent_domain_switch_instruction_email
+  - explained_instruction_to_jax
+- **Relationships:** 
+  - witness_to_domain_hijacking
+  - email_sender_for_customer_diversion
+- **Additional Notes:** Sent email to Jax in August explaining instruction to send 'don't use regima.zone only use regimaskin.co.za email' on June 20, 2025, direct witness to coordinated customer diversion scheme
+- **Timeline Events:** 
+  - EVENT_027
 
-- [ANNEXURES/JF05/correspondence/domain_switch_emails/](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF05/correspondence/domain_switch_emails/)
-- [evidence/customer_diversion/email_instructions/](https://github.com/cogpy/ad-res-j7/tree/main/evidence/customer_diversion/email_instructions/)
+## Related Events
 
-[View in Comprehensive Evidence Index](https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md)
+- **2025-06-20**: [Domain Switch Email Instruction](../events/EVENT_027.md)
+- **2025-08-15**: [Gee Email Explaining Domain Switch Instruction](../events/EVENT_063.md)

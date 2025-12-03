@@ -1,20 +1,514 @@
----
-layout: default
-title: "Event: Cloud IT Systems Removal Order"
----
 # Cloud IT Systems Removal Order
 
-| Field | Value |
-|---|---|
-| **Event ID** | `EVENT_029` |
-| **Date** | 2025-04-22 |
-| **Category** | infrastructure_seizure |
-| **Related Application** | [APPLICATION_1](https://cogpy.github.io/revstream1/application-1.html) |
+**Event ID:** `EVENT_029`
+**Date:** 2025-04-22
 
-## Description
-
-Peter ordered Cloud IT systems removal, seizing infrastructure control from legitimate operators.
-
-## Evidence References
-
-No direct evidence files linked.
+- **Category:** infrastructure_seizure
+- **Event Type:** it_systems_removal
+- **Perpetrators:** 
+  - PERSON_001
+- **Victims:** 
+  - PERSON_005
+  - ORG_003
+- **Entities Involved:** 
+  - PLATFORM_001
+- **Description:** Peter ordered Cloud IT systems removal, seizing infrastructure control from legitimate operators.
+- **Financial Impact:** unknown_amount
+- **Legal Significance:** infrastructure_control_seizure
+- **Evidence:** 
+  - system_access_logs_pending
+  - it_documentation
+- **Pattern:** initial_theft_phase
+- **Additional Notes:** Infrastructure control seizure between bank letter (Apr 14) and audit trail destruction (May 22)
+- **Evidence Location:** ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md
+- **Timeline Phase:** PHASE_002
+- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
+- **Related Applications:** 
+  - APPLICATION_1
+- **Evidence Files:** 
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/medical_control_community.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/technical_infrastructure_review.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_transfers.md
+  - ./evidence/annexures/JF-DLA1_PETER_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/external_systems.md
+  - ./case_2025_137857/02_evidence/misc/Peter Faucitt _ Jacqui Faucitt and others.msg
+  - ./1-CIVIL-RESPONSE/annexures/JF-SHOPIFY-INFRASTRUCTURE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/ensures_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/supplier_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/technology_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/asset_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/controls_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_control_does.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_maintenance.md
+  - ./backups/pre-consolidation/jax-dan-response/peters_causation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/cloudflare_rocket_loader.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/trust_property_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/operational_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_owed_duties.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_andrew.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/controlled_group.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/court_management_systems.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_potential_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/if_peter_filed.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/direct_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/since_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_control_evidence.md
+  - ./jax-dan-response/evidence-attachments/PETERS_CAUSATION_SECTION_DRAFT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/damage_assessment_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_panel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/why_peter_escalates.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/limited_notification_systems.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_documentation_infrastructure.md
+  - ./case_2025_137857/02_evidence/misc/Peter Faucitt _ Jacqui Faucitt and others.eml
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/technical_infrastructure_manipulation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/establishing_legitimate_foundation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_intent.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/platform_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_provided.md
+  - ./evidence/correspondence/JF8C_PETER_REFUSAL_TO_ENGAGE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_parties.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_foundation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/no_direct_control.md
+  - ./docs/reports/completion/TASK_COMPLETION_PETERS_WITHDRAWALS_JF-PA.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_files_second.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_accounting_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/intermediary_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/any_peter_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/cost_control.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(1).pdf
+  - ./jax-dan-response/PETERS_CAUSATION_INTEGRATION_GUIDE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/for_controllers.md
+  - ./jax-response/evidence-attachments/dan-technical/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md
+  - ./jax-dan-response/evidence-attachments/Dan_Technical_Infrastructure_Affidavit.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/information_control_network.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/controlled_disclosure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/escalating_control_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/code_quality_infrastructure.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ DRAFT ANSWERING AFFIDA.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/core_analysis_systems.md
+  - ./ANNEXURES/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_affected_while_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/exclusive_access_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_through_testing.md
+  - ./lex/cmp/za/south_african_company_law_non_director_control.scm
+  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_language.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_controls.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_august.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/selection_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/tracking_systems.md
+  - ./evidence/2025-11-14-batch/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/payment_infrastructure_destruction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_level.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/controlled_professional_selection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_costs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_disruption.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/inventory_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/related_party_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/impersonation_infrastructure_expansion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/channel_control_verification.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_control_strategy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/why_multiple_systems.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/attorney_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_control.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/user_access_control.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-2025-09-30.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/using_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/identify_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/controls_faucitt_family.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_transfer.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sister_controlled_group.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/for_peter_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_objective.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_removal.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/supplier_control_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_community.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_pete.md
+  - ./jax-response/evidence-attachments/dan-technical/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_points.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/establishes_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/information_control.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/PETERS_CAUSATION_SECTION_DRAFT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jurisdiction_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/while_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/updated_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entities_controlled.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_ownership.md
+  - ./jax-dan-response/evidence-attachments/PETERS_CAUSATION_ANALYSIS.md
+  - ./docs/reports/verification/TASK_VERIFICATION_PETERS_PARTICIPATION.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_exposing_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/testing_infrastructure_enhancement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/why_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/facilitate_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_systems.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/clarified_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_mechanism.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/massive_technical_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/ordered_testing.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_only.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure_destruction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/obtain_peter.md
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-complete.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_mechanisms.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_witness_control.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(2).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/exploit_peter.md
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-combined.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/maintain_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_breakdown.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/narrative_control.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/peter-faucitt-interdict/peter-faucitt-interdict-combined.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_environment_failures.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_andrew_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/operational_control_pattern.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_financial_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_control.md
+  - ./jax-dan-response/peters_causation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/version_control.md
+  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-complete.md
+  - ./docs/legal/annexures/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/controlled_group_definitions.md
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-combined.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/impersonating_peter_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_is.md
+  - ./evidence/annexures/JF-PA1_PETER_WITHDRAWAL_EXAMPLE_1.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/compensate_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_systematically.md
+  - ./jax-dan-response/peters_discovery.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/commercially_impossible_legitimately.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/document_peter.md
+  - ./jax-response/dan-response-materials/peters_discovery.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/communication_channel_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_seizure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/prevent_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coercive_control_success.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/demonstrate_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/store_infrastructure_justification.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_claim.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/all_control_points.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/controls_pete.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/public_narrative_control.md
+  - ./jax-dan-response/evidence-attachments/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_structure_should.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_shopify_plus.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/establish_legitimate_foundation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/information_warfare_control.md
+  - ./jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_flow_for.md
+  - ./jax-response/evidence-attachments/dan-technical/Dan_Technical_Infrastructure_Affidavit.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/version_control_integration.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jurisdiction_selection_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/her_actual_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_to_peter.md
+  - ./UPDATED_DRAFTS/BANTJIES_ULTIMATE_CONTROL_POWER_STRUCTURE_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_avoids.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/adobe_creative_cloud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_patterns.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shared_infrastructure_benefits.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_structure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/using_peter_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/development_infrastructure_investment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_systematic_removal.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/test_infrastructure_improvements.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/report_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-combined.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_files.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/historical_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/existing_systems.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/against_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_destruction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/other_systems.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_definition.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_operating_as_a_legitimate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_competition.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/received_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/demonstrates_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/testing_infrastructure_overhaul.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/cost_controls.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_cluster.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_separation_all.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/actual_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hierarchical_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coercive_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_activities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/illegitimate_transfers.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/fungible_systems.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_jurisdiction.md
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-combined.json
+  - ./jax-dan-response/evidence-attachments/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md
+  - ./jax-response/AD/1-Critical/PETER_TRUST_POWER_ABUSE_LEX_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_structure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/verified_email_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/create_peter.md
+  - ./2DO/x/regima.com/dan@regima.com/Consequences of Peter Exceeding the Interdict.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/no_legitimate_civil.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_disputes.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/cryptography_controls.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/between_peter_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_assertion.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_cannot.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shows_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/UNAUTHORIZED_CONTROL_EVIDENCE.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/document_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/cumulative_control_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/complete_analysis_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_operating_as_a_legitimate_business_w.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_asset_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/testing_infrastructure_expansion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_financial_access.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/appears_peter_faucitt.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/information_controller.md
+  - ./jax-response/evidence-attachments/dan-technical/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md
+  - ./jax-dan-response/evidence-attachments/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/if_peter_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_explanation_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/technology_infrastructure_cost.md
+  - ./jax-response/evidence-attachments/dan-technical/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/framework_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/internal_controls.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shared_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/testing_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/take_legal_control.md
+  - ./2DO/x/regima.com/dan@regima.com/✅ Critical Discovery_ South African Court Digital Systems.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_payer.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_control_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/remove_peter.md
+  - ./2DO/x/regima.com/dan@regima.com/AD Paragraph Numbers from Peter's Founding Affidavit (in order) MOSTLY COMPLETE.pdf
+  - ./2DO/x/ensafrica.com/smunga@ensafrica.com/Peter Faucitt _ Jacqui Faucitt and others.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/document_control_update.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_foundation_period.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/local_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_did.md
+  - ./evidence/annexures/JF-PA2_PETER_WITHDRAWAL_EXAMPLE_2.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/updates_peter_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_account_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/created_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_investment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systems_must.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_control_structure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_envir.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sue_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/cloud_platform.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_threshold.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_scenarios.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_seeking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_nodes.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_clients_likely_diverted_to_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/maintains_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_control_change.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/assumed_peter.md
+  - ./ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/unauthorized_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/any_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/asset_controller.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/deemed_control_through.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_management_systems.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/how_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/both_peter.md
+  - ./jax-response/evidence-attachments/dan-technical/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/makes_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/communication_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entity_control_structure.md
+  - ./jax-dan-response/evidence-attachments/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/if_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_decision.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_mechanism_hyperedges.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_relationships.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/all_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/confirm_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_seizure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/expert_systems.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_repeatedly.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/centralized_bookkeeping_control.md
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025-137.pdf
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/tier_control_structure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/professional_selection_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/ensure_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/firebase_cloud_firestore.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/Dan_Technical_Infrastructure_Affidavit.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_control_dataset.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/maintain_infrastructure.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(1).pdf
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-combined.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_operations_control.md
+  - ./2DO/x/regima.zone/jax@regima.zone/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/whether_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_seizure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systems_must_go.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/commercial_operators.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_identity.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/help_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_has.md
+  - ./backups/pre-consolidation/jax-dan-response/peters_discovery.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_separation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/unauthorized_financial_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/lost_business_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_this.md
+  - ./UPDATED_DRAFTS/analysis-main/peter_fiduciary_breach_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/peter-faucitt-interdict/peter-faucitt-interdict-complete.md
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-complete.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_unauthorized_controller.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/combined_shopify_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_effectiveness.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/only_peter_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md
+  - ./jax-response/evidence-attachments/dan-technical/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_systems_explained.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/authentication_systems.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/reports_peter.md
+  - ./2DO/x/elliottattorneys.co.za/keegan@elliottattorneys.co.za/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_system.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_controls.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/subsidiary_controlled_group.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_cycle.md
+  - ./evidence/annexures/JF-PA3_PETER_WITHDRAWAL_EXAMPLE_3.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/against_peter_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_loop.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/actual_controller.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_infrastructure_sabotage.md
+  - ./jax-response/dan-response-materials/peters_causation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_flow.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_control_achievement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/critical_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/no_single_controlling.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/information_control_escalation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/create_peter_faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_consolidation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/tax_control_account.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_18_acceptance_trusteeship_peter.md
+  - ./jax-dan-response/criminal-complaint/CRIMINAL_COMPLAINT_POPIA_Section_107_Peter_Faucitt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/illegal_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/operational_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/owes_peter.md
+  - ./evidence/annexures/JF-PA4_PETER_WITHDRAWAL_EXAMPLE_4.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_control_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/proves_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_mechanisms_mapped.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/technology_infrastructure_details.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_files_ex.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/unordered_collection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/appears_peter.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
+  - ./legal_analysis_2025_11/court_documents/2025_08_19_-_Peter_Faucitt_Interdict.pdf
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/banking_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_dataset.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/all_systems_green.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/additional_testing_ordered.md
+  - ./jax-dan-response/evidence-attachments/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/cloud_contours.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/access_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_success.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/development_infrastructure.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & 1 OTHER (CASE NR_ 2025-137857).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/needs_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/operational_control_indicators.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_diversion_infrastructure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/witness_control.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_community.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/because_peter.md
+  - ./jax-dan-response/annexures/2025-11-14-evidence-batch/ANNEXURE_A_Sage_Screenshot_Control_User_Access_2025-06-20.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_structure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_layer.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_claim_debunked.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_technology_infrastructure.md
+  - ./affidavit_work/analysis/PETERS_CLAIMS_VS_DOCUMENTED_EVIDENCE_COMPARATIVE_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_upgrades.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/were_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/has_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/for_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_filed_secret.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/court_systems.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/control_agents.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_readiness.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_cloud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_relationship_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_exploits.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_process_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_control_centers.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/controlled_medical_care.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/all_cloud.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-complete.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/account_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/backup_systems.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_medical_concern.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/professional_network_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_foundation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/flow_control.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & 1 OTHER (CASE NR_ 2025-137857).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_intent_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/prevents_legitimate_dispute.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/appointed_professional_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/technical_controls.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ DRAFT ANSWERING AFFIDAVIT.pdf
+  - ./jax-response/evidence-attachments/dan-technical/PETERS_CAUSATION_SECTION_DRAFT.md
+  - ./2DO/x/elliottattorneys.co.za/keegan@elliottattorneys.co.za/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_respondent_peter.md
+  - ./evidence/accounting/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_systems.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_controls.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/supported_peter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_growth.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_payment_infrastructure.md
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-complete.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_control_mechanism.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/destroys_peter.md
+- **Ad Res J7 References:** 
+  - See files related to: Peter, ordered, Cloud, systems, removal,, seizing, infrastructure, control, legitimate, operators.
+- **Crime Category:** other
+- **Phase:** PHASE_002
+- **Event Subtype:** infrastructure_seizure_it_systems_removal
+- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_029
+- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
+- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
+- **Evidence Urls:** 
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/infrastructure_control.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/medical_control_community.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/technical_infrastructure_review.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/control_analysis.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/legitimate_transfers.md
+- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_029.html
+- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_029
+- **Related Application:** APPLICATION_1
+- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
+- **Ad Res J7 Evidence:** 
+  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
+  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}

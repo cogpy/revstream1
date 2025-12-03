@@ -1,20 +1,590 @@
----
-layout: default
-title: "Event: EVENT_051"
----
-# EVENT_051
+# Unknown Event
 
-| Field | Value |
-|---|---|
-| **Event ID** | `EVENT_051` |
-| **Date** | 2020-02-20 |
-| **Category** | financial_manipulation |
-| **Related Application** | [APPLICATION_1](https://cogpy.github.io/revstream1/application-1.html) |
+**Event ID:** `EVENT_051`
+**Date:** 2020-02-20
 
-## Description
-
-Multiple adjusting journal entries across entities for inter-company cost reallocations
-
-## Evidence References
-
-No direct evidence files linked.
+- **Category:** financial_manipulation
+- **Event Type:** adjusting_journal_entries
+- **Description:** Multiple adjusting journal entries across entities for inter-company cost reallocations
+- **Entities Involved:** 
+  - ORG_001
+  - ORG_002
+  - ORG_005
+- **Financial Impact:** R1,642,000
+- **Legal Significance:** establishes_pattern_of_financial_manipulation
+- **Evidence Sources:** 
+  - trial_balance_documents
+  - financial_analysis
+- **Timeline Phase:** PHASE_000
+- **Additional Notes:** RWW R500K stock provision write-back, RWW R810K admin fee reallocation, SLG R252K admin fee reallocation, SLG R80K production cost transfer to RST
+- **Perpetrators:** 
+  - PERSON_007
+- **Evidence:** 
+  - trial_balance_AJEs
+  - general_ledger_entries
+  - REG-TRIALBALANCE.xlsx
+- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
+- **Related Applications:** 
+  - APPLICATION_1
+  - APPLICATION_2
+- **Evidence Files:** 
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud_implications.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_dark_sky_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_independent_verification.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/confidence_interval_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/key_entities_profiled.md
+  - ./2DO/x/regima.zone/jax@regima.zone/ARE YOU ABLE TO OPPOSE PART A OF THE EXPARTE INTERDICT, THE FIRST ONE.pdf
+  - ./backups/pre-consolidation/jax-dan-response/interim_relief.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/victim_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interest_received.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/repository_projection_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/pension_correspondence_interception.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_network.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_international_limited.md
+  - ./UPDATED_DRAFTS/analysis-main/tools/interdict_verification_system.py
+  - ./UPDATED_DRAFTS/analysis-main/entities/pointer_events.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_with_multiple_development_environments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/second_interdict_filing.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_director_sabotaging_his_own_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/external_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_standards.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/intervention_potential.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interest_calculation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/group_intersections.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_verification_report.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/identify_company_creditors.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_cooperation_protocols.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/holding_company_definitions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/primary_entities_established.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bank_interview_program.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/uk_company.md
+  - ./UPDATED_DRAFTS/analysis-main/UNIFIED_FINANCIAL_INTERESTS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/internal_resources.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/secondary_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/government_correspondence_interception.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interactive_demo.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/emergency_intervention.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/internet_explorer.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_legitimacy_verification.md
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/primary_international.md
+  - ./UPDATED_DRAFTS/analysis-main/fraudulent_interdict_and_warehouse_sabotage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interviewing_jax.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/the_interdict_affidavits_enhanced.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interstate_commerce.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/key_intermediaries.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_regions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/relationship_management_entities.md
+  - ./2DO/x/regima.zone/jax@regima.zone/interdict part 2 JAX.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/identify_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/zone_ongoing_interference.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interactive_testing_harness.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/communication_interception.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_first_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_asset_recovery.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/private_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_verification_system.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_legal_positions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/user_interface_layer.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/intermediary_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_ongoing_interference.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_markets.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_domain_names.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_business_cards.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_recovery_blocked.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/key_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_relations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_name.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interim_measures.md
+  - ./backups/pre-consolidation/jax-dan-response/AD/2-High-Priority/PARA_13-13_1_DAN_INTERIM_RELIEF.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entities_referenced.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_counts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/emergency_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_commerce.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_will_exercise.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hybrid_interpretation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/internet_cost.md
+  - ./UPDATED_DRAFTS/analysis-main/entities_and_dates_extraction.py
+  - ./UPDATED_DRAFTS/analysis-main/entities/interpreting_results.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/second_interdict_application.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interest_income_collapse.md
+  - ./lex/cmp/za/south_african_company_law_non_director_control.scm
+  - ./UPDATED_DRAFTS/analysis-main/evidence/rezonance/entities/extracted_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/for_uk_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_entities_showing.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entities_involved.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ part 2 interdict.pdf
+  - ./UPDATED_DRAFTS/analysis-main/evidence/international_data_theft_and_invoice_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/confirmed_entities.md
+  - ./lex/cmp/za/south_african_company_law_forensic_accounting.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/urgent_interdict.md
+  - ./jax-dan-response/AD/2-High-Priority/PARA_13-13_1_DAN_INTERIM_RELIEF.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/create_multiple_copies.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/analysis/SECOND_INTERDICT_MEDICAL_TESTING_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interactive_data_visualization.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_director.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entities_table.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_store_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_covenant.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/intermediary_filtering.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interpretability_tools.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_debt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_formalization.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/why_multiple_systems.md
+  - ./jax-response/analysis-output/Faucitt_Interdict_Analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_crimes.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/internal_communication.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/review_of_her_access_permissions_across_all_regima.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-2025-09-30.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/large_internal_transfers.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/internet_trf_to.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/companies_under_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_entity_connections.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_victims.md
+  - ./backups/pre-consolidation/jax-response/analysis-output/Faucitt_Interdict_Analysis.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/submit_subpoena_to_shopify_international_limited.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/critical_inter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/behavioral_rules_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interim_relief.md
+  - ./lex/cmp/za/south_african_company_law_self_dealing_detection.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_complexity_exploitation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_templates.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/own_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interactive_dashboard.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ New Pty Company (New Name) and Share Certificates Combo (Service-1743068).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/internal_bank_records.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal_violations.md
+  - ./2DO/x/regima.zone/jax@regima.zone/part 2 interdict.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_deregistration_attempts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/component_interaction_flow.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_crimes_through.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/seek_interdict_against.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/hmrc-pension-correspondence-interception.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entities_controlled.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/intermediary_community.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/joint_financial_interest.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/key_entities_identified.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/channel_interception.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/intermediary_filtering_nodes.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/new_entities_identified.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_government_correspondence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/agent_interactions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/second_interdicts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/natural_language_interface.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_where_he_has_no_interest.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/ownership_intersection_analysis.md
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-complete.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/entities_identified.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/analysis_across_all.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/data_interference.md
+  - ./UPDATED_DRAFTS/analysis-main/INTERSECTION_LEGAL_CHALLENGE_FACT_BASED.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/primary_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_human_rights.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_shopify.md
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-combined.json
+  - ./UPDATED_DRAFTS/analysis-main/INTERSECTION_LEGAL_CHALLENGE.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/peter-faucitt-interdict/peter-faucitt-interdict-combined.md
+  - ./2DO/x/regima.zone/jax@regima.zone/Fw_ AYMAC INTERNATIONAL.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_crime_evasion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/payment_card_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/employee_interview_strategy.md
+  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v5.scm
+  - ./tests/verify-multiple-labels-issue-creation.test.js
+  - ./UPDATED_DRAFTS/analysis-main/entities/channel_interception_issues.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/subsidiary_and_holding_company.md
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-complete.md
+  - ./jax-dan-response/interim_relief.md
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-combined.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/richard_estabrooks_interview.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_estate_rights.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interview_dan.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entities_prepared.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_interference_recognition.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/forensic_analysis/interdict_legitimacy_verification.md
+  - ./jax-response/dan-response-materials/interim_relief.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/victim_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_interdict.md
+  - ./lex/int/za/south_african_international_regulatory_compliance_enhanced_v3.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_international_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_international_skin_treatments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_targets_wrong.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interest_payment_flow.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/complex_inter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_to_benefit_his_other_entities.md
+  - ./legal_analysis_2025_11/docx/Rynette_Farrar_A_Case_Study_in_10_10_Conflict_of_Interest_Severity.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/obtain_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/technical_intermediaries.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interview_jax.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/internal_transfers.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_recovery.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_entities_are_organized_into.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/public_interest_is.md
+  - ./jax-response/AD/dan-perspective/2-High-Priority/PARA_13-13_1_DAN_INTERIM_RELIEF.md
+  - ./UPDATED_DRAFTS/analysis-main/INTERSECTION_LEGAL_CHALLENGE_REVISION_LOG.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_documents.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_skin_treatments.md
+  - ./UPDATED_DRAFTS/analysis-main/bank_account_interference_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_abuse_pattern.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_application.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_clarifies_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interim_orders.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_records.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/medical_interface.md
+  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v4.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_abuse.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interaction_modeling.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_value.md
+  - ./lex/int/za/south_african_international_law.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_transactions.md
+  - ./2DO/x/regima.zone/jax@regima.zone/INTERDICT PART 2(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/internal_documents.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/unconfirmed_entities.md
+  - ./2DO/x/regima.zone/jax@regima.zone/PART INTERVICT LAST BIT.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/internal_integration.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_cost_reallocations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_loan_flows.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/key_entities_synchronized.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_crime.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_filed.md
+  - ./UPDATED_DRAFTS/analysis-main/ownership_intersection_fraud_map.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_business_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-combined.md
+  - ./UPDATED_DRAFTS/analysis-main/AGENT_MODEL_FOR_ENTITIES.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/banking_interference.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/ownership_intersections_challenge.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/why_the_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enum_autocomplete_intersections.md
+  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v6.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_claim.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_international.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/intersection_type.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interest_income_loss.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/no_international_powers.md
+  - ./legal_analysis_2025_11/scheme_files/south_african_company_law_director_loan_accounts.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/witness_interviews_required.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_co.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/witness_interviews.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud_report.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/court_interface.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_despite_bank.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/query_interface.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/data_interfaces.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/primary_operating_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/director_and_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/external_intervention.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_funding.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/internal_server_error.md
+  - ./lex/cmp/za/south_african_company_law_director_loan_accounts.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/dan_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/void_fraudulent_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/the_interdict_affidavits_backup_20251013_125016.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/formal_shareholding_interpretation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/holding_company.md
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-combined.json
+  - ./lex/cmp/za/south_african_company_law_enhanced.scm
+  - ./lex/cmp/za/south_african_company_law_regulatory_compliance_enhanced_v2.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_interdict_was.md
+  - ./lex/int/za/south_african_international_regulatory_compliance.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/entities_extracted.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/aymac_international.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estate_interest.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bank_intervention.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_operations_spanning_international_juri.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peak_interaction_rate.md
+  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v3.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/decision_making_entities.md
+  - ./2DO/x/regima.com/dan@regima.com/Consequences of Peter Exceeding the Interdict.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regarding_communication_interception.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_states.md
+  - ./backups/pre-consolidation/jax-dan-response/AD/2-High-Priority/PARA_13-13_1_DAN_INTERIM_RELIEF.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/common_interest.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/average_interactions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_interventions.md
+  - ./backups/pre-consolidation/jax-response/analysis-output/Faucitt_Interdict_Analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_elements.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/second_interdict_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_verification_checklist.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/victim_company_agents.md
+  - ./UPDATED_DRAFTS/Fraudulent_Use_of_Interdict_and_Warehouse_Sabotage (1).docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/interstate_commerce_elements.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ INTERDICT PART 2b.pdf
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/interdict_verification_usage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_gaps.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/line_interface.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/second_interdict_discovery.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/internal_controls.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/void_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/intersection_vulnerability.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/output_interpretation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/when_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interest_elimination.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_accounts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/parte_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/document_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/user_interface.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_interpretation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_second_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/files_first_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/ownership_intersection_analysis.py
+  - ./UPDATED_DRAFTS/analysis-main/entities/investment_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/tortious_interference.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_asset_stripping.md
+  - ./2DO/x/regima.zone/jax@regima.zone/INTERDICT PART 2.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/director_sabotaging_his_own_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/intercompany_transactions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_treaties.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_interference_charges.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_law_implications.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_survival.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interim_management.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/updated_interaction_patterns.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/adjusting_journal_entries.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/are_interdicted.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/misrepresent_interdict_scope.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_financial_crime.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/professional_intervention_justified.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_movement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sized_donut_multiples.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/second_interdict_filed.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/full_international_authority.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_interference_pattern.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/critical_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/second_interdict_medical.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_operation_interference.md
+  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v2.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_owes_money.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_adjustments.md
+  - ./lex/cmp/za/south_african_company_law.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal_acts.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/interdict_verification_usage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interface_text.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/compromised_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_status.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strong_public_interest.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_verification_usage.md
+  - ./lex/cmp/za/south_african_company_law_regulatory_compliance.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/intermediary_investigation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/data_interchange_format.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/key_system_interface.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/intermediary_network_investigation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/confidence_intervals.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_goals_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/aggressive_second_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_expense_allocation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/state_management_entities.md
+  - ./backups/pre-consolidation/jax-dan-response/AD/2-High-Priority/PARA_13-13_1_INTERIM_RELIEF.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/schedule_witness_interviews.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/updated_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_interdict_affidavits.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bank_account_interference.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_organizational_entities.md
+  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_complexity.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_synthesis_across.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_status.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_international.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_structure_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/no_international_authority.md
+  - ./jax-dan-response/AD/2-High-Priority/PARA_13-13_1_DAN_INTERIM_RELIEF.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_interface.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_entities_constitute.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/consolidated_bank_balances_across_the_group.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ INTERDICT 1.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_loans.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_interference_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_shopify_stores.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/j_p_company.md
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/unified_financial_interests.md
+  - ./UPDATED_DRAFTS/analysis-main/tests/integration/test_interdict_verification.py
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/web_interface.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/key_entities_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/potential_international_criminal.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/void_interdict_void.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_efficiency.md
+  - ./2DO/x/regima.com/dan@regima.com/Dan - Document Scan - 2025-08-19 - Original Interdict.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_entities_do_not_constitute_a_single.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities_dates_summary.md
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-combined.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/victim_interview_program.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_enforcement_venues.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_data_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/all_interested_parties.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_interference.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ INTERDICT PART 2A.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_destruction.md
+  - ./evidence/analysis/timelines/Legal_Entities,_Relations,_Events_&_Timeline_Analysis.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/blocks_international_cooperation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/banking_intermediaries.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interest_paid.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/exploit_international_gaps.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/notify_interpol.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/updated_interaction_weights.md
+  - ./lex/cmp/za/south_african_company_law_director_collective_action.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/intervention_strategy_matrix.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/maintain_international_cooperation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/confidence_interval.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/liquidity_management_across.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/public_interest.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/peter-faucitt-interdict/peter-faucitt-interdict-complete.md
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-complete.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/second_interdict_allegations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_investigation.md
+  - ./jax-response/AD/dan-perspective/2-High-Priority/PARA_13-13_1_INTERIM_RELIEF.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_claiming_opportunities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/perpetrator_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/universal_plugin_interface.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_enforcement.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/create_multiple.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_evasion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_law.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_criminal_cooperation.md
+  - ./2DO/x/regima.zone/jax@regima.zone/INTERDICT 1.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_interest.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_development_stores.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/massive_inter.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_interdict_verification.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interest_screening.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interdicted_companies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/extracted_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/internal_compliance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/using_interdict_against_company_a_to_sabotage_comp.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_lexis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/south_african_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interim_relief_structure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/cancel_company_cards.md
+  - ./jax-response/AD/dan-perspective/2-High-Priority/PARA_13-13_1_DAN_INTERIM_RELIEF.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interactive_visualizations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_choices.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_transactions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/file_emergency_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_owner.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/public_interest_considerations.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/forensic_analysis/interdict_forensic_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/excluded_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/intervention_priorities_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entities_synced.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/documented_across_all.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_respondent_intersection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interest_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/ownership_intersection_fraud_map.png
+  - ./2DO/x/regima.com/dan@regima.com/Re_ ARE YOU ABLE TO OPPOSE PART A OF THE EXPARTE INTERDICT, THE FIRST ONE.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/both_interdicts.md
+  - ./legal_analysis_2025_11/court_documents/2025_08_19_-_Peter_Faucitt_Interdict.pdf
+  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/actually_interdicted.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/entities_documentation_enhanced.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/head_attention_interactions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shareholder_intersection_matrix.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_company_records.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_impersonation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_bank_interference.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ INTERDICT PART 2b(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/files_second_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_organized_crime.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_benefits.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/intercompany_analysis_deficit.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/internal_communications.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/new_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/critical_intersection_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/public_interest_factors.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/organized_international_crime.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_structure_insights.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_coordination.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interest_costs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_interlocking_criminal.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/holding_company_definition.md
+  - ./2DO/x/ianlevitt.co.za/ian@ianlevitt.co.za/RE_ ARE YOU ABLE TO OPPOSE PART A OF THE EXPARTE INTERDICT, THE FIRST ONE(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/forensic_analysis/evidence_required_to_set_aside_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interest_income_drop.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regular_intersection_monitoring.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/stakeholder_interviews.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_uk_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_jurisdiction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_legal_cooperation.md
+  - ./tests/MULTIPLE_LABELS_VERIFICATION.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_framework.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_interruption.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/to_uk_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/unknown_email_intermediary.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/business_multiple.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_law_evasion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_financial_manipulation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/government_correspondence_interference.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_applications.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_jurisdictions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/legal_entities.md
+  - ./jax-response/analysis-output/Faucitt_Interdict_Analysis.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/associated_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regulatory_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/demo_agent_model_entities.py
+  - ./UPDATED_DRAFTS/analysis-main/entities/intermediary_network.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_store.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/separate_legal_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_implications.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_control_centers.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interview_warehouse_staff.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/international_cooperation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/second_interdict.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_failures.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/extracted_entities_the.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-complete.md
+  - ./jax-dan-response/AD/2-High-Priority/CONFLICT_OF_INTEREST_COMPREHENSIVE_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interest_exploitation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rezonance_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/investment_company_representatives.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_financial_losses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/cancel_company.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/first_interdict_application.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/all_interested.md
+  - ./lex/cmp/za/south_african_company_law_regulatory_compliance_enhanced.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_to_strengthen_competing_entities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_two_interdicts.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/d_j_p_company.md
+  - ./ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/subpoena_to_shopify_international_limited.md
+  - ./2DO/x/ianlevitt.co.za/ian@ianlevitt.co.za/RE_ ARE YOU ABLE TO OPPOSE PART A OF THE EXPARTE INTERDICT, THE FIRST ONE.pdf
+  - ./2DO/x/regima.com/dan@regima.com/Re_ part 2 interdict.pdf
+  - ./jax-response/peter-interdict/peter-faucitt-interdict-complete.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_affiliation.md
+- **Ad Res J7 References:** 
+  - See files related to: Multiple, adjusting, journal, entries, across, entities, inter, company, reallocations
+- **Crime Category:** other
+- **Phase:** PHASE_000
+- **Event Subtype:** financial_manipulation_adjusting_journal_entries
+- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_051
+- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
+- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
+- **Evidence Urls:** 
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/international_fraud_implications.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/the_dark_sky_company.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/multiple_independent_verification.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/confidence_interval_analysis.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/key_entities_profiled.md
+- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_051.html
+- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_051
+- **Related Application:** APPLICATION_1
+- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
+- **Ad Res J7 Evidence:** 
+  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
+  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}

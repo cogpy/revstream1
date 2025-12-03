@@ -1,20 +1,387 @@
----
-layout: default
-title: "Event: EVENT_049"
----
-# EVENT_049
+# Unknown Event
 
-| Field | Value |
-|---|---|
-| **Event ID** | `EVENT_049` |
-| **Date** | 2025-08-13 |
-| **Category** | trust_violations |
-| **Related Application** | [APPLICATION_1](https://cogpy.github.io/revstream1/application-1.html) |
+**Event ID:** `EVENT_049`
+**Date:** 2025-08-13
 
-## Description
-
-Bantjies certifies Peter's affidavit as Commissioner of Oaths despite material omissions
-
-## Evidence References
-
-No direct evidence files linked.
+- **Category:** trust_violations
+- **Event Type:** commissioner_of_oaths_misconduct
+- **Description:** Bantjies certifies Peter's affidavit as Commissioner of Oaths despite material omissions
+- **Entities Involved:** 
+  - PERSON_007
+  - PERSON_001
+- **Financial Impact:** unknown
+- **Legal Significance:** professional_misconduct_and_conflict_of_interest
+- **Evidence Sources:** 
+  - court_documents
+  - affidavit_analysis
+- **Timeline Phase:** PHASE_006
+- **Additional Notes:** Bantjies certifies Peter's affidavit despite being unknown trustee with R18.685M debt to trust, demonstrating active participation in fraud concealment
+- **Perpetrators:** 
+  - PERSON_001
+  - PERSON_002
+- **Evidence:** 
+  - financial_records
+  - account_statements
+  - transaction_logs
+- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
+- **Related Applications:** 
+  - APPLICATION_2
+  - APPLICATION_3
+- **Evidence Files:** 
+  - ./lex/SCHEDULE_MATERIAL_NON_DISCLOSURES_2025-11-18_UPDATED.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/perjured_affidavits.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/1.2.MAT4719-AnsweringAffidavit-CORRECTED.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/if_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/draft_affidavit_enhanced.md
+  - ./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination.md
+  - ./UPDATED_DRAFTS/DRAFT_EVALUATION_WITH_DANIE_BANTJIES_PERJURY.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/RESPONDING_AFFIDAVIT_DRAFT_backup_20251013_115433.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANSWERING_AFFIDAVIT_JACQUELINE_FAUCITT.md
+  - ./jax-dan-response/evidence-attachments/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx
+  - ./docs/reports/affidavit_case_simulation_results.json
+  - ./legal-hypergraphql/evaluate-case-affidavits.js
+  - ./UPDATED_DRAFTS/analysis-main/entities/pay_bantjies.md
+  - ./jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md
+  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.md
+  - ./backups/pre-consolidation/jax-response/analysis-output/Affidavit_Amendment_Recommendations.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/material_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/showing_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/the_interdict_affidavits_enhanced.md
+  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md
+  - ./UPDATED_DRAFTS/analysis-main/scripts/enhance_affidavits.py
+  - ./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Analysis_-_Summary_of_Three-Part_Classification.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/material_evidence_summary.md
+  - ./legal-hypergraphql/affidavit-plan-generator.js
+  - ./docs/legal/affidavits/AFFIDAVIT_shopify_evidence_comprehensive_FACT_BASED.md
+  - ./backups/pre-consolidation/jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-ENHANCED.docx
+  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Response Affidavit.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies_coordination.md
+  - ./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v5.json
+  - ./UPDATED_DRAFTS/analysis-main/RESPONDING_AFFIDAVIT_DRAFT_FACT_BASED.md
+  - ./jax-dan-response/evidence-attachments/Dan_Technical_Infrastructure_Affidavit.md
+  - ./UPDATED_DRAFTS/analysis-main/AFFIDAVIT_shopify_evidence_comprehensive.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Analysis_-_Part_3_Circumstantial_and_Inferred_Points.docx
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/persistence_despite_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/affidavits/invariant-guilt-framework/Supplementary_Affidavit_Invariant_Guilt.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/material_non.md
+  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
+  - ./backups/affidavits/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_controls.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/expert_affidavit.md
+  - ./2DO/x/regima.com/dan@regima.com/Responding Affidavit - v5.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/all_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/potentially_danie_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_requests_computer.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/remove_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/prepare_prosecution_materials.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
+  - ./docs/reports/completion/FINAL_AFFIDAVITS_SUMMARY.md
+  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
+  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_now_faces.md
+  - ./jax-response/dan-response-materials/comprehensive_material_non_disclosure.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_shopify_evidence_comprehensive_enhanced.md
+  - ./docs/legal/evidence/EVIDENCE_INVENTORY_AND_AFFIDAVIT_CHECKLIST.md
+  - ./affidavit_work/analysis/Affidavit_Analysis_-_Summary_of_Three-Part_Classification.docx
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE-ENHANCED.docx
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/founding_affidavit_key_enhanced.md
+  - ./backups/pre-consolidation/jax-response/analysis-output/Affidavit_Amendment_Recommendations.md
+  - ./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v4.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/material_evidence_reports.md
+  - ./ad-hypergraph-mapping/bantjies_agent_mapper.py
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE - ENHANCED_backup_20251013_130927.docx
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_shopify_evidence_comprehensive_FACT_BASED_backup_20251013_120719.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/against_danie_bantjies.md
+  - ./jax-response/evidence-attachments/dan-technical/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md
+  - ./evidence/bantjies_investment_payout_forecast.md
+  - ./docs/legal/affidavits/AFFIDAVIT_CASE_SIMULATION_ANALYSIS.md
+  - ./2DO/x/regima.com/dan@regima.com/TECHNICAL AFFIDAVITS.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/needed_bantjies.md
+  - ./docs/legal/affidavits/jax-affidavit-financial-hemorrhage.md
+  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
+  - ./2DO/x/regima.com/dan@regima.com/MATERIAL NON-DISCLOSURE.pdf
+  - ./UPDATED_DRAFTS/analysis-main/RESPONDING_AFFIDAVIT_DRAFT_REVISION_LOG.md
+  - ./ad-hypergraph-mapping/BANTJIES_COMPLETE_HYPERGRAPH_VISUALIZATION.md
+  - ./backups/pre-consolidation/jax-response/source-documents/FINAL_AFFIDAVIT_CHANGES_LOG.md
+  - ./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v3.json
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_shopify_evidence_comprehensive_backup_20251013_114310.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/material_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/abuse_affidavit_enhanced.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/commissioner_was_critical.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/abused_commissioner.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/RESPONDING_AFFIDAVIT_DRAFT_enhanced.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/03_supporting_affidavit_bantjies_medical.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/about_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_problem_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/threat_weaponization_bantjies.md
+  - ./affidavit_work/corrections/Affidavit_Critical_Corrections_-_URGENT.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/against_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/framing_persistence_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/RESPONDING_AFFIDAVIT_DRAFT_FACT_BASED_backup_20251013_113146.md
+  - ./UPDATED_DRAFTS/analysis-main/tests/test_affidavit_enhancement.py
+  - ./UPDATED_DRAFTS/analysis-main/entities/affidavit_review.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination_pattern.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/false_affidavit_enhanced.md
+  - ./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v3.json
+  - ./jax-response/evidence-attachments/dan-technical/Dan_Technical_Infrastructure_Affidavit.md
+  - ./1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md
+  - ./UPDATED_DRAFTS/BANTJIES_ULTIMATE_CONTROL_POWER_STRUCTURE_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/did_bantjies.md
+  - ./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v5.md
+  - ./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v4.json
+  - ./ANNEXURES/SF1_Bantjies_Debt_Documentation.md
+  - ./jax-response/source-documents/FINAL_AFFIDAVIT_SUMMARY.md
+  - ./affidavit_work/corrections/Affidavit_Critical_Addition_-_Jacqui_as_Responsible_Person.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/raw_materials_liquidation.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE - ENHANCED.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/abuse_affidavit.md
+  - ./2DO/x/regima.com/dan@regima.com/BIG FONT JAX - Affidavit with AD PARAGRAPHS.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/has_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/subpoena_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge_level.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/informs_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_despite_bank.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Critical_Corrections_-_URGENT.docx
+  - ./UPDATED_DRAFTS/analysis-main/docs/enhanced_affidavit.md
+  - ./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v3.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/use_bantjies.md
+  - ./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v5.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/draft_affidavit_backup_20251013_123423.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_communications.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/the_interdict_affidavits_backup_20251013_125016.md
+  - ./docs/legal/affidavits/daniel-affidavit-strategic-logistics.md
+  - ./backups/affidavits/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v2.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/that_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_ENHANCEMENT_SYSTEM.md
+  - ./affidavit_work/analysis/Affidavit_Analysis_-_Part_2_Strong_Supporting_Evidence.docx
+  - ./jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ ALL COMMENTS ON AFFIDAVIT RECEIVED TODAY.pdf
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.BACKUP_backup_20251013_130827.docx
+  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_now.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/ENHANCED_AFFIDAVIT_PROCESSING_FIX_backup_20251013_112138.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/enhanced_affidavit_enhanced.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_pattern.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/ENHANCED_AFFIDAVIT_PROCESSING_FIX_enhanced.md
+  - ./jax-response/source-documents/ANSWERING_AFFIDAVIT_-_JACQUELINE_FAUCITT_(FINAL_DRAFT_FOR_REVIEW_BYJAX).docx
+  - ./tests/affidavit-v3-annexure-verification.test.js
+  - ./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v5.json
+  - ./UPDATED_DRAFTS/analysis-main/.github/workflows/enhance-affidavits.yml
+  - ./affidavit_work/analysis/Affidavit_Analysis_-_Part_1_Irrefutable_Proof.docx
+  - ./UPDATED_DRAFTS/1.2. MAT4719 - DRAFT Answering Affidavit.docx
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE_backup_20251013_130901.docx
+  - ./jax-response/analysis-output/Affidavit_Amendment_Recommendations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/million_bantjies_debt.md
+  - ./UPDATED_DRAFTS/analysis-main/AFFIDAVIT_ENHANCEMENT_DEMO_RESULTS.md
+  - ./legal-hypergraphql/affidavit-evaluator.js
+  - ./UPDATED_DRAFTS/analysis-main/entities/commissioner_records.md
+  - ./docs/AFFIDAVIT_V3_ANNEXURE_QUICK_REFERENCE.md
+  - ./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.png
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/RESPONDING_AFFIDAVIT_DRAFT_REVISION_LOG_enhanced.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_ENHANCEMENT_DEMO_RESULTS_enhanced.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_ENHANCEMENT_SYSTEM_enhanced.md
+  - ./evidence/identity-documents/BANTJIES_ID_DOCUMENT.pdf
+  - ./SIMULATION_RESULTS/AFFIDAVIT_CASE_SIMULATION_ANALYSIS.md
+  - ./backups/affidavits/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v2.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/draft_response_materials.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/founding_affidavit_key.md
+  - ./jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md
+  - ./docs/AFFIDAVIT_V3_ANNEXURE_VERIFICATION_COMPLETE.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/affidavit_review_backup_20251013_125916.md
+  - ./2DO/x/regima.zone/jax@regima.zone/Re_ ALL COMMENTS ON AFFIDAVIT RECEIVED TODAY.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_investment_payout.md
+  - ./2DO/x/regima.com/dan@regima.com/AD Paragraph Numbers from Peter's Founding Affidavit (in order) MOSTLY COMPLETE.pdf
+  - ./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v4.json
+  - ./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sue_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/affidavits/Implementation_Guide_Affidavit_Mitigation.md
+  - ./backups/pre-consolidation/jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/1.2. MAT4719 - Answering Affidavit.docx
+  - ./FINAL_ANSWERING_AFFIDAVIT_ABRIDGED.docx
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/expert_affidavit_enhanced.md
+  - ./docs/legal/analysis/AFFIDAVIT_CASE_SIMULATION_ANALYSIS.md
+  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json
+  - ./jax-response/source-documents/SECTION_3_ADDITION_DANS_TECHNICAL_AFFIDAVIT.md
+  - ./UPDATED_DRAFTS/JUNE_6_10_EMAILS_DANIE_BANTJIES.txt
+  - ./FINAL_AFFIDAVIT_PACKAGE/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md
+  - ./UPDATED_DRAFTS/analysis-main/RESPONDING_AFFIDAVIT_DRAFT.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/RESPONDING_AFFIDAVIT_DRAFT_FACT_BASED_enhanced.md
+  - ./jax-response/source-documents/FINAL_ASSESSMENT_Jacqui_Affidavit_(Reconstructed_Version).docx
+  - ./2DO/x/regima.com/dan@regima.com/Mr.Bantjies Forgot to Include in His Affidavit.pdf
+  - ./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.BACKUP.docx
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/abuse_affidavit_backup_20251013_123155.md
+  - ./jax-response/evidence-attachments/dan-technical/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE-ENHANCED.docx
+  - ./2DO/x/regima.com/dan@regima.com/MATERIAL NON-DISCLOSURE AND EXCLUDED INFORMATION.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/material_false_statements.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Analysis_-_Part_1_Irrefutable_Proof.docx
+  - ./run_affidavit_case_simulation.py
+  - ./docs/legal/affidavits/FINAL_ANSWERING_AFFIDAVIT_ABRIDGED.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/via_bantjies.md
+  - ./applications/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/proves_bantjies.md
+  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json
+  - ./UPDATED_DRAFTS/analysis-main/src/affidavit_enhancement/affidavit_processor.py
+  - ./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.jpg
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_interdict_affidavits.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/receives_bantjies.md
+  - ./UPDATED_DRAFTS/BANTJIES_DEBTOR_MOTIVE_CRIMINAL_ANALYSIS.md
+  - ./jax-dan-response/criminal-complaint/SUPPORTING_AFFIDAVIT_Jacqueline_Faucitt_POPIA_Obstruction.md
+  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-06_DAN_TO_BANTJIES_FRAUD_REPORTS.eml
+  - ./affidavit_work/analysis/Affidavit_Analysis_-_Part_3_Circumstantial_and_Inferred_Points.docx
+  - ./WIP/KF0019_ANSWERING_AFFIDAVIT_JACQUELINE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/therefore_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/information_commissioner.md
+  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/possibly_danie_bantjies.md
+  - ./backups/pre-consolidation/jax-dan-response/comprehensive_material_non_disclosure.md
+  - ./evidence/legal-documents/court-filings/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf
+  - ./evidence/bantjies_debt/BantjiesInvestmentPayoutDates2026-05.jpg
+  - ./UPDATED_DRAFTS/analysis-main/entities/false_affidavit.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_trustee.md
+  - ./backups/pre-consolidation/jax-dan-response/medium_priority_responses/confirmatory_affidavits.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shows_bantjies.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/Dan_Technical_Infrastructure_Affidavit.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/call_information_commissioner.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_faces.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_material_non.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_shopify_evidence_comprehensive_REVISION_LOG_enhanced.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Critical_Addition_-_Jacqui_as_Responsible_Person.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/potentially_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/1.2. MAT4719 - Answering Affidavit.BACKUP.docx
+  - ./jax-dan-response/comprehensive_material_non_disclosure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/adding_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_REVIEW_SYSTEM.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/bantjies_investment_payout_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/expert_affidavit_backup_20251013_122506.md
+  - ./jax-response/evidence-attachments/dan-technical/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md
+  - ./backups/pre-consolidation/jax-response/source-documents/FINAL_ASSESSMENT_Jacqui_Affidavit_(Reconstructed_Version).docx
+  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md
+  - ./evidence/identity-documents/BANTJIES_ID_DOCUMENT.md
+  - ./jax-response/evidence-attachments/dan-technical/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx
+  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
+  - ./UPDATED_DRAFTS/SARS_AUDIT_EMAIL_BANTJIES_INSTRUCTIONS_SMOKING_GUN.md
+  - ./UPDATED_DRAFTS/analysis-main/ENHANCED_AFFIDAVIT_PROCESSING_FIX.md
+  - ./ad-hypergraph-mapping/bantjies_hypergraph_analysis_report.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/material_evidence_report.md
+  - ./UPDATED_DRAFTS/analysis-main/BANTJIES_DEBT_ANALYSIS.md
+  - ./2DO/x/regima.zone/jax@regima.zone/ALL COMMENTS ON AFFIDAVIT RECEIVED TODAY.pdf
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/affidavit_review_enhanced.md
+  - ./docs/legal/affidavits/ANSWERING_AFFIDAVIT_JACQUELINE_FAUCITT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/material_misrepresentation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/draft_affidavit.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_commissioner_abuse.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/02_supporting_affidavit_shopify_rynette.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/material_false_statement.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/founding_affidavit_key_backup_20251013_124320.md
+  - ./docs/legal/affidavits/FINAL_ANSWERING_AFFIDAVIT_COMPLETE.md
+  - ./lex/SCHEDULE_MATERIAL_NON_DISCLOSURES_2025-11-18.md
+  - ./UPDATED_DRAFTS/analysis-main/affidavits/Mitigation_Strategies_Answering_Affidavit.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies_financial.md
+  - ./backups/pre-consolidation/jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-FINAL.docx
+  - ./2DO/x/regima.com/dan@regima.com/BIG FONT - Original Founding Affidavit with AD PARAGRAPHS.pdf
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/01_main_responding_affidavit.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/material_evidence_only.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/material_falsity.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/RESPONDING_AFFIDAVIT_DRAFT_REVISION_LOG_backup_20251013_112138.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_role.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/enhanced_affidavit_backup_20251013_130121.md
+  - ./FINAL_ANSWERING_AFFIDAVIT_COMPLETE.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_false_impartiality.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Analysis_-_Part_2_Strong_Supporting_Evidence.docx
+  - ./jax-dan-response/rule-42-rescission/FOUNDING_AFFIDAVIT_Daniel_Faucitt_Rule_42.md
+  - ./jax-dan-response/medium_priority_responses/confirmatory_affidavits.md
+  - ./SIMULATION_RESULTS/run_affidavit_case_simulation.py
+  - ./jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
+  - ./jax-dan-response/rule-42-rescission/UPDATED_AFFIDAVIT_SECTIONS_Para_40-60_2025-11-14.md
+  - ./lex/RULE_42_MATERIAL_NON_DISCLOSURE_MAPPING_2025-11-18.md
+  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/AFFIDAVIT_shopify_evidence_comprehensive_REVISION_LOG.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/1.2. MAT4719 - Answering Affidavit - ENHANCED.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_debt.md
+  - ./lex/URGENT_APPLICATION_MATERIAL_NON_DISCLOSURES_2025-11-18.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/false_affidavit_backup_20251013_125220.md
+  - ./UPDATED_DRAFTS/analysis-main/scripts/manage_affidavit_reviews.py
+  - ./database/data/affidavit_sections_20251102_185041.csv
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_investigation.md
+  - ./jax-response/analysis-output/Affidavit_Amendment_Recommendations.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/material_facts_review.md
+  - ./docs/legal/affidavits/EVIDENCE_INVENTORY_AND_AFFIDAVIT_CHECKLIST.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/to_information_commissioner.md
+  - ./UPDATED_DRAFTS/DANIE_BANTJIES_PERJURY_ANALYSIS_COMPREHENSIVE.md
+  - ./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v3.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_shopify_evidence_comprehensive_REVISION_LOG_backup_20251013_121544.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accountant_danie_bantjies.md
+  - ./2DO/x/regima.com/dan@regima.com/Original AD Paragraphs from Founding Affidavit (MOSTLY COMPLETE).pdf
+  - ./jax-dan-response/evidence-attachments/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE-ENHANCED.docx
+  - ./UPDATED_DRAFTS/analysis-main/entities/why_bantjies.md
+  - ./evidence/bantjies_investment_payout_forecast.txt
+  - ./SIMULATION_RESULTS/affidavit_case_simulation_results.json
+  - ./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge.md
+  - ./docs/legal/AFFIDAVIT_SHOPIFY_REVENUE_PROVISIONS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_made_material.md
+  - ./jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-FINAL.docx
+  - ./backups/affidavits/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES.md
+  - ./backups/pre-consolidation/jax-response/source-documents/ANSWERING_AFFIDAVIT_-_JACQUELINE_FAUCITT_(FINAL_DRAFT_FOR_REVIEW_BYJAX).docx
+  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.eml
+  - ./docs/legal/affidavits/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/despite_evidence.md
+  - ./jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md
+  - ./scripts/verify_affidavit_v3_annexures.py
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/perjured_affidavits_backup_20251013_124109.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/his_commissioner.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_ENHANCEMENT_DEMO_RESULTS_backup_20251013_115207.md
+  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_ENHANCEMENT_SYSTEM_backup_20251013_122318.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/get_bantjies.md
+  - ./docs/legal/affidavits/AFFIDAVIT_shopify_evidence_comprehensive.md
+  - ./jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json
+  - ./jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_trustee_appointment.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_shopify_evidence_comprehensive_FACT_BASED_enhanced.md
+  - ./jax-response/source-documents/FINAL_AFFIDAVIT_CHANGES_LOG.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/uses_bantjies.md
+  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/perjured_affidavits_enhanced.md
+  - ./UPDATED_DRAFTS/analysis-main/AFFIDAVIT_shopify_evidence_comprehensive_FACT_BASED.md
+  - ./jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-ENHANCED.docx
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ DRAFT ANSWERING AFFIDAVIT.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/knew_bantjies.md
+  - ./evidence/2025-11-14-batch-3/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf
+  - ./UPDATED_DRAFTS/analysis-main/affidavits/Legal_Critique_Answering_Affidavit.md
+  - ./docs/legal/evidence/EXPERT_TESTIMONY_PREPARATION_MATERIALS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/raw_materials.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/when_bantjies.md
+  - ./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v4.md
+  - ./2DO/x/regima.zone/jax@regima.zone/Re_ BIG FONT JAX - Affidavit with AD PARAGRAPHS.pdf
+- **Ad Res J7 References:** 
+  - See files related to: Bantjies, certifies, Peter's, affidavit, Commissioner, Oaths, despite, material, omissions
+- **Crime Category:** other
+- **Phase:** PHASE_006
+- **Event Subtype:** trust_violations_commissioner_of_oaths_misconduct
+- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_049
+- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
+- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
+- **Evidence Urls:** 
+  - https://github.com/cogpy/ad-res-j7/blob/main/lex/SCHEDULE_MATERIAL_NON_DISCLOSURES_2025-11-18_UPDATED.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/perjured_affidavits.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/docs/1.2.MAT4719-AnsweringAffidavit-CORRECTED.docx
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/if_bantjies.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/enhanced_affidavits/draft_affidavit_enhanced.md
+- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_049.html
+- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_049
+- **Related Application:** APPLICATION_1
+- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
+- **Ad Res J7 Evidence:** 
+  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
+  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}

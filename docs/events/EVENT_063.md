@@ -1,20 +1,551 @@
----
-layout: default
-title: "Event: Gee Email Explaining Domain Switch Instruction"
----
 # Gee Email Explaining Domain Switch Instruction
 
-| Field | Value |
-|---|---|
-| **Event ID** | `EVENT_063` |
-| **Date** | 2025-08-15 |
-| **Category** | revenue_theft |
-| **Related Application** | [N/A](#) |
+**Event ID:** `EVENT_063`
+**Date:** 2025-08-15
 
-## Description
-
-Email from Gee to Jax explaining that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email' on June 20, 2025. Confirms customer hijacking scheme.
-
-## Evidence References
-
-No direct evidence files linked.
+- **Category:** revenue_theft
+- **Event Type:** witness_testimony
+- **Perpetrators:** 
+  - PERSON_007
+- **Victims:** 
+  - 
+- **Entities Involved:** 
+  - PERSON_009
+  - DOMAIN_002
+- **Description:** Email from Gee to Jax explaining that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email' on June 20, 2025. Confirms customer hijacking scheme.
+- **Financial Impact:** unknown_amount
+- **Legal Significance:** witness_testimony_confirming_customer_hijacking
+- **Evidence:** 
+  - gee_email_to_jax
+- **Pattern:** cover_up_phase
+- **Timeline Phase:** PHASE_006
+- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
+- **Related Applications:** 
+  - APPLICATION_2
+  - APPLICATION_3
+- **Evidence Files:** 
+  - ./UPDATED_DRAFTS/analysis-main/entities/july_6_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_goodwill_loss.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_communication_compromise.md
+  - ./backups/pre-consolidation/jax-response/revenue-theft/14-apr-bank-letter/APR-SEP-2025.md
+  - ./case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.eml
+  - ./UPDATED_DRAFTS/analysis-main/evidence_mapping_shopify_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jul_10_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_comparison.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/ocr-email-cc-analysis-critical-findings.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jul_4_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/ocr-analysis-email-cc-implications.md
+  - ./case_2025_137857/03_analysis/timeline_analysis/COMPREHENSIVE_TIMELINE_2017_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/dan_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_server_records.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/march_5_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/aug_4_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/september_11_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025/email-body.html
+  - ./applications/KF0019-SecondApplication-03.10.2025.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/september_26_2025.md
+  - ./legal_analysis_2025_11/scheme_files/south_african_civil_law_revenue_hijacking_creditor_sabotage.scm
+  - ./UPDATED_DRAFTS/analysis-main/IMPROVEMENTS_OCTOBER_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_correspondence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/corrected_criminal_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sep_27_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/aug_27_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/august_29_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_control_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_customer_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/april_30_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jun_7_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/22_september_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_address.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/financial_platform_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/address_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/september_27_2025.md
+  - ./docs/legal/annexures/JF08/evidence_package_20251012/InvIn30040120April2015toInv30482424April2025.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/1_july_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/april_14_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/apr_15_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_retention.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence_analysis.md
+  - ./case_2025_137857/02_evidence/evidence_package_20251009/email_analysis_findings.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_recipients_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/july_25_2025.md
+  - ./case_2025_137857/03_analysis/timeline_analysis/APR-SEP-2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_authentication.md
+  - ./docs/legal/annexures/JF08/evidence_package_20250606/email-body.html
+  - ./docs/strategic/fraud-analysis/ATTACK_HIJACKING_ANALYSIS.md
+  - ./ANNEXURES/JF09/APR-SEP-2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/august_5_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/march_31_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/oct_3_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_revenue_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_from.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/audit_trail_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/june_7_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/analyze_rental_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/email-body.html
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ I NEED TO SEE THE AMOUNT IN MY PERSONAL ACCOUNT - [External Email](1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/regima_account_analysis_2024_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/march_30_2025.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/comprehensive_fraud_timeline_2017_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/Shopify_Invoices_RegimA_2016-2025.txt
+  - ./UPDATED_DRAFTS/analysis-main/entities/after_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_data_theft.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/confirms_daniel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jul_7_2025.md
+  - ./backups/pre-consolidation/jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.json
+  - ./docs/legal/annexures/JF08/evidence_package_20250811/LetterofAppointment11082025.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/10_june_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/october_15_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/05_august_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_emails.md
+  - ./case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.msg
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_file.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/october_1_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/apr_4_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_performance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/october_10_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_re.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/october_5_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/august_27_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jan_4_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sep_29_2025.md
+  - ./docs/legal/annexures/JF06/KF0019-SecondApplication-03.10.2025.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/feb_25_2025.md
+  - ./evidence/property_unit9_southview_park/email-body.html
+  - ./UPDATED_DRAFTS/analysis-main/docs/analysis/reports/IMPROVEMENT_ANALYSIS_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_impact.md
+  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_diversion.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025.pdf
+  - ./2DO/x/proton.me/jfaucitt@proton.me/regimaskin.co.za belongs to regimA.pdf
+  - ./2DO/x/regima.zone/dan@regima.zone/Fw_ KF0019_25.09.2025.pdf
+  - ./jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/july_27_2025.md
+  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF5_ADDERORY_DOMAIN_WITH_EMAILS.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/transfer_pricing_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_payment_patterns.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jun_10_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_claims.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jul_27_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/february_15_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/12_may_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/feb_4_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/july_8_2025.md
+  - ./jax-response/evidence-attachments/dan-technical/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/know_your_customer.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/05_feb_2025.md
+  - ./case_2025_137857/02_evidence/evidence_package_20250811/LetterofAppointment11082025.pdf
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ KF0019 _ MAT4719 _ 12.11.2025.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_recipients.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_database_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_email_campaign.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_regarding_regima_group.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_redirection_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/mar_5_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/account_analysis_2024_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/august_12_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/03092025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/personal_email_usage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/september_18_2025.md
+  - ./jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/september_24_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_hijacking_pattern.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/InvIn30040120April2015toInv30482424April2025.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_spoofing.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/ocr-analysis-email-cc-implications.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_fraud.md
+  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/CONVERTED_EMAIL_EVIDENCE_-_COURT-READY_DOCUMENTATION_(UPDATED).pdf
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250811/LetterofAppointment11082025.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/april_29_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/inventory_manipulation_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/secure_email_communications.md
+  - ./evidence/2025-11-14-batch-3/RezonanceFebr2025.PDF
+  - ./docs/technical/timeline/KEY_EVENTS_TIMELINE_MARCH_AUGUST_2025.md
+  - ./UPDATED_DRAFTS/2_YEAR_ACCOUNTING_BLACKOUT_AFTER_KAYLA_EMAIL_SEIZURE.md
+  - ./UPDATED_DRAFTS/analysis-main/EVIDENCE_EXTRACTION_NEW_EMAILS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/23_jan_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jul_2_2025.md
+  - ./evidence/correspondence/dan-bantjies-jun2025/account_analysis_2024_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_compliance_directive.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/june_27_2025.md
+  - ./applications/KF0019-ThirdApplication-04.11.2025.pdf
+  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2024to28February2025.PDF
+  - ./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/email-body.html
+  - ./UPDATED_DRAFTS/analysis-main/docs/APR-SEP-2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_addresses.md
+  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF8_LINDA_EMPLOYMENT_WITH_EMAILS.pdf
+  - ./evidence/computer-expenses/computer_expenses_mar_apr_2025.csv
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_servers.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2024to28February2025.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_communication_timeline.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_trust.md
+  - ./ANNEXURES/JF08/evidence_package_20251012/email-body.html
+  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Sales_by_Customer_Detail.pdf
+  - ./UPDATED_DRAFTS/analysis-main/may_22_2025_audit_trail_hijacking_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/08_july_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025_automated/email-body.html
+  - ./UPDATED_DRAFTS/analysis-main/comprehensive_revenue_hijacking_tax_fraud_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/august_10_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/new_email_address.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statement_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/from_email_accounts.md
+  - ./2DO/x/proton.me/regizone@proton.me/regimaskin.co.za domain lookup results.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/stripping_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_package.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_scheme.md
+  - ./backups/pre-consolidation/jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jul_6_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/june_6_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_regarding_financial_analysis_of_regima_group.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md
+  - ./UPDATED_DRAFTS/analysis-main/post_murder_systematic_takeover_2023_2025.md
+  - ./jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.json
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/KF0019 - Second Application - 03.10.2025.pdf
+  - ./evidence/2025-11-14-batch-3/REZONANCE_DEBT_ANALYSIS_2023-2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_verification.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/may_29_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/4_jun_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_email.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF09/APR-SEP-2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_database_value.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/address_hijacking_details.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_information.md
+  - ./ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_proves.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/email_compliance_directive_2025-07-08.md
+  - ./2DO/x/rzo.io/d@rzo.io/POPIA Violation Notice - Sent to Pete on 8 July 2025.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/june_10_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/after_shopify_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/apr_30_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence_shows.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/apr_22_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/october_12_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/13_may_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/24_mar_2025.md
+  - ./backups/pre-consolidation/jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md
+  - ./KEY_EVENTS_TIMELINE_MARCH_AUGUST_2025.html
+  - ./UPDATED_DRAFTS/analysis-main/entities/august_19_2025.md
+  - ./evidence/correspondence/JF8B_EMAIL_COOPERATION_CHAINS.md
+  - ./docs/legal/annexures/JF09/APR-SEP-2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/aug_19_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain.md
+  - ./backups/pre-consolidation/jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.json
+  - ./backups/pre-consolidation/jax-response/revenue-theft/14-apr-bank-letter/APR-SEP-2025.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_change.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/03_apr_2025.md
+  - ./docs/legal/annexures/JF08/evidence_package_20251009/email-body.html
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/current-state-summary-2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sep_10_2025.md
+  - ./case_2025_137857/02_evidence/evidence_package_20251012/InvIn30040120April2015toInv30482424April2025.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/july_23_2025.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251009/email-body.html
+  - ./UPDATED_DRAFTS/analysis-main/entities/reveals_email_address.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_revelation_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_email_evidence.md
+  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2025.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_server.md
+  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/asset_concealment_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/before_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/direct_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/august_13_2025.md
+  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF3_STRATEGIC_LOGISTICS_WITH_EMAILS.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/confirms_september.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rent_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/september_10_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/diverse_customer_base.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/september_3_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/current-state-summary-2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sophisticated_scheme.md
+  - ./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/february_14_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jun_4_2025.md
+  - ./jax-dan-response/evidence-attachments/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md
+  - ./UPDATED_DRAFTS/analysis-main/INCREMENTAL_IMPROVEMENTS_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_date.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/verified_email_control.md
+  - ./ANNEXURES/SF4_SARS_Audit_Email.md
+  - ./docs/legal/annexures/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_impersonation_escalation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/september_2_2025.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/march_15_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_chain.md
+  - ./ANNEXURES/JF06/KF0019-SecondApplication-03.10.2025.pdf
+  - ./jax-response/evidence-attachments/dan-technical/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md
+  - ./evidence/legal-documents/court-filings/KF0019-SecondApplication-03.10.2025.pdf
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/InvIn30040120April2015toInv30482424April2025.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/sundry_customers.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_communications.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/trial_balance_email.md
+  - ./UPDATED_DRAFTS/analysis-main/CHANGELOG_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/updated_timeline_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_email_print.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF06/KF0019-SecondApplication-03.10.2025.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/04_feb_2025.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-RESTORE1_BUSINESS_TRANSFORMATION_2017_2025.md
+  - ./2DO/x/proton.me/regizone@proton.me/Fw_ regimaskin.co.za domain lookup results.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/jul_5_2025.md
+  - ./case_2025_137857/02_evidence/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_domains.md
+  - ./UPDATED_DRAFTS/analysis-main/revenue_stream_hijacking_by_rynette/audit_trails/Customer_Communication_Audit_Trails.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_loss.md
+  - ./jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.md
+  - ./case_2025_137857/01_court_documents/KF0019-SecondApplication-03.10.2025.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/september_1_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/october_9_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/medical_testing_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/document_customer_harm.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/direct_customer_payments.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/oct_2_2025.md
+  - ./jax-response/revenue-theft/14-apr-bank-letter/APR-SEP-2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/sep_24_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_control_account.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence_invalid.md
+  - ./jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/06_jan_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_address_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/oct_06_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/asset_protection_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/march_1_2025.md
+  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2024to28February2025.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/september_20_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_scheme.md
+  - ./jax-response/revenue-theft/14-apr-bank-letter/APR-SEP-2025.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_access.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_data.md
+  - ./UPDATED_DRAFTS/JUNE_6_10_EMAILS_DANIE_BANTJIES.txt
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_control_structure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/october_6_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_erasure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/06_june_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/service_customer_portals.md
+  - ./docs/legal/annexures/JF09/COMPREHENSIVE_TIMELINE_2017_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_email_proves.md
+  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF6_KAYLA_ESTATE_WITH_EMAILS.pdf
+  - ./ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/harare_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_details.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_concentration_risk.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/reveals_email.md
+  - ./jax-response/evidence-attachments/dan-technical/JF-RESTORE1_BUSINESS_TRANSFORMATION_2017_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_criminal_complaint.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/11092025.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Proof of addresses _ Mandates - [External Email].pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/june_11_2025.md
+  - ./jax-dan-response/evidence-attachments/JF-RESTORE1_BUSINESS_TRANSFORMATION_2017_2025.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ I NEED TO SEE THE AMOUNT IN MY PERSONAL ACCOUNT - [External Email].pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_email.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/timeline_analysis/COMPREHENSIVE_TIMELINE_2017_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/6_jun_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/broader_impersonation_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/july_16_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/evidence/Email-2025-08-11-Outlook.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_revelation.md
+  - ./ANNEXURES/JF08/evidence_package_20251009/email_analysis_findings.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2024to28February2025.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/september_29_2025.md
+  - ./case_2025_137857/02_evidence/evidence_package_20250606/email-body.html
+  - ./UPDATED_DRAFTS/analysis-main/entities/oct_9_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/april_15_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/august_14_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_protection.md
+  - ./ANNEXURES/JF08/evidence_package_20251012/InvIn30040120April2015toInv30482424April2025.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_cc_equals.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250606/email-body.html
+  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_confirms.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_plus_email.md
+  - ./ANNEXURES/JF08/evidence_package_20250606/email-body.html
+  - ./UPDATED_DRAFTS/analysis-main/entities/june_20_2025.md
+  - ./jax-dan-response/evidence-attachments/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md
+  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2024to28February2025.PDF
+  - ./UPDATED_DRAFTS/analysis-main/entities/june_30_2025.md
+  - ./lex/DAN_COMPLETE_FINANCIAL_PICTURE_JUNE_OCT_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_sends_email.md
+  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/Email_Attachments_Extraction_Summary.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/september_30_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/forensic_analysis_confirms.md
+  - ./2DO/x/regima.zone/dan@regima.zone/We've Got a New Email Address!.pdf
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Fw_ KF0019 _ MAT4719 _ 12.11.2025.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/september_28_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_similarities.md
+  - ./evidence/analysis/timelines/Timeline_of_Events_RegimA_Revenue_Stream_Hijacking.pdf
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md
+  - ./ANNEXURES/JF08/evidence_package_20251009/email-body.html
+  - ./UPDATED_DRAFTS/analysis-main/entities/sep_4_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/before_shopify_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/original_email_date.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/11082025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/aug_10_2025.md
+  - ./2DO/x/proton.me/regizone@proton.me/Fw_ regimaskin.co.za domain lookup results(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/june_8_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/26_mar_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/audit_trail_hijacking_timeline.md
+  - ./backups/pre-consolidation/jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_records.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/reference_all_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/july_5_2025.md
+  - ./jax-dan-response/annexures/2025-11-14-evidence-batch/ANNEXURE_C_Trustee_Appointment_Email_2024-07-01.md
+  - ./UPDATED_DRAFTS/RYNETTE_SON_4_YEAR_CONSPIRACY_2021_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/february_25_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_security.md
+  - ./backups/pre-consolidation/jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_payments.md
+  - ./UPDATED_DRAFTS/SARS_AUDIT_EMAIL_BANTJIES_INSTRUCTIONS_SMOKING_GUN.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/APR-SEP-2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/new_email_package.md
+  - ./UPDATED_DRAFTS/analysis-main/revenue_stream_hijacking_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/may_4_2025.md
+  - ./lex/civ/za/south_african_civil_law_revenue_hijacking_creditor_sabotage.scm
+  - ./UPDATED_DRAFTS/analysis-main/entities/year_embezzlement_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_email_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_domain_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_due_diligence.md
+  - ./UPDATED_DRAFTS/analysis-main/DATABASE_SYNC_STATUS_OCT_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/august_25_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/04_june_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_context.md
+  - ./jax-dan-response/evidence-attachments/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md
+  - ./jax-response/evidence-attachments/dan-technical/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md
+  - ./2DO/x/regima.zone/jax@regima.zone/FW_ Email restriction.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/july_10_2025.md
+  - ./case_2025_137857/02_evidence/evidence_package_20251009/email-body.html
+  - ./2DO/x/elliottattorneys.co.za/keegan@elliottattorneys.co.za/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/october_2_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/how_email.md
+  - ./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/confirms_regima_zone.md
+  - ./evidence/annexures/JF-RF2_EMAIL_PROVIDING_PASSWORDS.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/timeline_analysis/APR-SEP-2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/19_august_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/aug_25_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/may_22_2025.md
+  - ./jax-response/evidence-attachments/dan-technical/comprehensive_fraud_timeline_2017_2025.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF09/COMPREHENSIVE_TIMELINE_2017_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/february_5_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/oct_4_2025.md
+  - ./ANNEXURES/JF09/COMPREHENSIVE_TIMELINE_2017_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/april_22_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_cc.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/email-body.html
+  - ./UPDATED_DRAFTS/analysis-main/entities/july_08_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/unknown_email.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_revelations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jun_6_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/docs/KF0019 - Second Application - 03.10.2025.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_asset_stripping.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/mar_4_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/1482025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/complete_address_hijacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_diversion_evidence.md
+  - ./case_2025_137857/02_evidence/evidence_package_20251012/email-body.html
+  - ./ANNEXURES/JF08/evidence_package_20250811/LetterofAppointment11082025.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/r2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/11_july_2025.md
+  - ./evidence/2025-11-14-batch-2/SHOPIFY_SALES_ANALYSIS_2024-2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_to.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/jun_27_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/august_11_2025.md
+  - ./jax-dan-response/evidence-attachments/comprehensive_fraud_timeline_2017_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/30_jul_2025.md
+  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF4_SARS_AUDIT_WITH_EMAILS.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/direct_email_receipt.md
+  - ./UPDATED_DRAFTS/analysis-main/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence_summary.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/payment_fraud_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/may_15_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251009/email_analysis_findings.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/july_7_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/24_september_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/july_11_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/july_1_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_content.md
+  - ./docs/legal/annexures/JF08/evidence_package_20251009/email_analysis_findings.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_sender.md
+  - ./UPDATED_DRAFTS/MASTER_CONSPIRACY_TIMELINE_2021_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_operations_evidence.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250811/LetterofAppointment11082025.pdf
+  - ./evidence/correspondence/dan-bantjies-jun2025/regima_account_analysis_2024_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_confirms_conspiracy.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/25_july_2025.md
+  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/FAUCIT _ MEETING FOR FRIDAY, 3 OCTOBER 2025.pdf
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/08_case_notes/current-state-summary-2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/unknown_email_intermediary.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/october_11_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_period.md
+  - ./Revenue_Stream_Hijacking_by_Rynette/01_POPIA_Compliant_System/Customer_Communication/Regima_Zone_Email_System.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_impersonation.md
+  - ./docs/legal/annexures/JF08/evidence_package_20251012/email-body.html
+  - ./UPDATED_DRAFTS/REVENUE_STREAM_HIJACKING_FINANCIAL_STRANGULATION_ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_impact_assessment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/may_27_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/ocr-analysis-email-cc-implications.md
+  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251009/email-body.html
+  - ./UPDATED_DRAFTS/analysis-main/entities/july_2_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/october_3_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_experience.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/october_8_2025.md
+  - ./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/instructed_by.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_detail.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
+  - ./jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md
+  - ./evidence/2025-11-14-batch-3/KF0019LettertoOppLevitt12.11.2025.pdf
+  - ./evidence/computer-expenses/COMPUTER EXP MAR AND APR2025.xlsx
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251009/email_analysis_findings.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/september_22_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/oct_10_2025.md
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/email-body.html
+  - ./ANNEXURES/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md
+  - ./evidence/annexures/JF-RF1_EMAIL_GRANTING_SYSTEM_ACCESS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_base.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_addresses_detected.md
+  - ./evidence/annexures/JF-BS1_BANK_STATEMENT_16_JULY_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/customer_service.md
+  - ./docs/legal/annexures/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/email_systems.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/16_july_2025.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/commonwealth_scheme.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_hijacking.md
+  - ANNEXURES/JF05/
+- **Ad Res J7 References:** 
+  - See files related to: Email, explaining, instructed, 'don't, regima.zone, regimaskin.co.za, email', 2025., Confirms, customer, hijacking, scheme.
+- **Crime Category:** revenue_theft
+- **Phase:** PHASE_006
+- **Event Subtype:** revenue_theft_witness_testimony
+- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_063
+- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
+- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
+- **Evidence Urls:** 
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/july_6_2025.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/customer_goodwill_loss.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/email_communication_compromise.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/backups/pre-consolidation/jax-response/revenue-theft/14-apr-bank-letter/APR-SEP-2025.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.eml
+- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_063.html
+- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_063
+- **Ad Res J7 Evidence:** 
+  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
+  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}

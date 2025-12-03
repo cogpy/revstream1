@@ -1,20 +1,311 @@
----
-layout: default
-title: "Event: R5.4M Stock Disappears from Strategic Logistics"
----
 # R5.4M Stock Disappears from Strategic Logistics
 
-| Field | Value |
-|---|---|
-| **Event ID** | `EVENT_024` |
-| **Date** | 2025-03-01 |
-| **Category** | transfer_pricing_fraud |
-| **Related Application** | [APPLICATION_1](https://cogpy.github.io/revstream1/application-1.html) |
+**Event ID:** `EVENT_024`
+**Date:** 2025-03-01
 
-## Description
-
-R5.4M worth of stock physically disappears from Strategic Logistics warehouse. Represents 46% of annual sales, 10x historical adjustment rate. Same stock type later supplied by Adderory (Rynette's son's company) to RegimA.
-
-## Evidence References
-
-No direct evidence files linked.
+- **Category:** transfer_pricing_fraud
+- **Event Type:** stock_theft
+- **Perpetrators:** 
+  - PERSON_001
+  - PERSON_002
+  - PERSON_007
+  - PERSON_003
+- **Victims:** 
+  - ORG_004
+  - TRUST_001
+- **Entities Involved:** 
+  - ORG_004
+  - PERSON_003
+- **Description:** R5.4M worth of stock physically disappears from Strategic Logistics warehouse. Represents 46% of annual sales, 10x historical adjustment rate. Same stock type later supplied by Adderory (Rynette's son's company) to RegimA.
+- **Financial Impact:** R5,400,000
+- **Legal Significance:** largest_single_identifiable_theft_transfer_pricing_fraud
+- **Evidence:** 
+  - stock_reconciliation_reports
+  - warehouse_records
+  - adderory_supply_documentation
+- **Pattern:** foundation_phase
+- **Critical:** True
+- **Timeline Phase:** PHASE_001
+- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
+- **Related Applications:** 
+  - APPLICATION_1
+- **Evidence Files:** 
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_framework.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_victim_subsidization.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_response.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_harm.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/audit_trail_disappears.md
+  - ./2DO/x/ensafrica.com/smunga@ensafrica.com/Re_ belongs to regimA.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_historical_performance.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ MARCH 2023 CIPC ANNUAL RETURNS.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_intent_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_strategic_gap.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/false_historical_narrative.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/integrated_strategic_recommendations.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/logistics_personnel.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annualized_loss.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_use.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ 2025-05-23 - Audit Trail Disappears - Revenue Order & Payment Records Divert.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_expansion.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/historical_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enables_strategic_exploitation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_goals.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_insight.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_investment_validation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/represents_perpetrator_attacking.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_actions.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/misrepresents_relationships.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_assessment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/stock_missing.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_value.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_coherence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_misrepresentation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_reality.md
+  - ./UPDATED_DRAFTS/analysis-main/historical_impact_projection.png
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_result.md
+  - ./Revenue_Stream_Hijacking_by_Rynette/01_POPIA_Compliant_System/Courier_Logistics/Integrated_Logistics_System.md
+  - ./docs/strategic/arguments/STRATEGIC_ARGUMENTS_VERIFICATION_COMPLETE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/immediate_strategic.md
+  - ./2DO/x/proton.me/jfaucitt@proton.me/REGIMA.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_implications.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/complete_strategic_assessment.md
+  - ./db/hypergraph-migrate.js
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_benefit.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_logistics.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ FW_ MARCH 2023 CIPC ANNUAL RETURNS.pdf
+  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF01/Re_ belongs to regimA.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/days_later.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estimated_annual_impact.md
+  - ./2DO/x/regima.zone/jax@regima.zone/note inventory adjustment 5 Mill.pdf
+  - ./backups/pre-consolidation/jax-response/analysis-output/strategic_contradictions_analysis.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/logistics_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_business_operations.md
+  - ./jax-response/analysis-output/strategic_contradictions_analysis.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_vulnerabilities_exposed.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_forced_subsidization.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_logistics_integration.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/was_strategic.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/updated_stock.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_dr_h_wandsworth_town_ltd_quickbooks_online_.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_approach.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_deduction.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shopify_historical_performance_report.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_shopify_cost.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_operations_alone_show_annual_shopify_cos.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/the_complete_strategic.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_and_strategic_logistics.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_criminal.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_cost.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_opportunity.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_revenue_stream.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_considerations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_response_framework.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_business_development.md
+  - ./ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_savings.md
+  - ./2DO/x/regima.zone/dan@regima.zone/Fw_ STOCK2SHOP (PTY) Ltd Statement of Account for period 01 Jan 25 - 19 Jun 25.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_operational_costs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_court_avoidance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_historical_data.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_reason.md
+  - ./2DO/x/regima.zone/dan@regima.zone/Fw_ STRATEGIC LOGISTICS CC-34326803 CRM_000005860000184.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_significance_this.md
+  - ./case_2025_137857/02_evidence/emails/Re_ belongs to regimA.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/company_adjustments.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_investment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estimated_annual_harm.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/updated_strategic_value.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_technology.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/false_historical_claim.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/historical_pattern.md
+  - ./docs/strategic/arguments/STRATEGIC_ARGUMENTS_EVIDENCE_VERIFICATION.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_disclosure.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/insight_generation_rate.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(2).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/combined_annual_criminal.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/stipendiary_magistrate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_realignment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/historical_revenue_diversion.md
+  - ./backups/pre-consolidation/jax-response/analysis-output/strategic_contradictions_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/zone_shopify_historical.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_strategic_assessment.md
+  - ./1-CIVIL-RESPONSE/annexures/JF-STRATEGIC-LOGISTICS-ANALYSIS.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_element.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_insights.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_jurisdiction_shopping.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_timing.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/only_approach_deliberate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_leverage_points.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_impact_assessment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_improvement_recommendations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/logistics_hub.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_represents_the.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_shopify_historical_performance_report.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estimated_annual_loss.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_context.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_position.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annualized_loss_projection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_goals_entities.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(4).pdf
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/flow_rate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/analysis_completion_rate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_overview.md
+  - ./2DO/x/rzo.io/d@rzo.io/RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Billin.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/large_adjustments.md
+  - ./db/hierarchical-issues-migrate.js
+  - ./UPDATED_DRAFTS/analysis-main/entities/historical_scope.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_metrics.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_court_jurisdiction.md
+  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(3).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/core_strategic_problem.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_position_offensive.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_costs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_platform_investment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_orientation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/historical_control.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_logistics_expense.md
+  - ./docs/legal/annexures/JF01/Re_ belongs to regimA.eml
+  - ./docs/strategic/arguments/STRATEGIC_ASSESSMENT_CONSOLIDATED.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_benefits.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_planning.md
+  - ./ANNEXURES/JF01/Re_ belongs to regimA.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_objective.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_assets.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/historical_performance.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_recovery.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_shopify_costs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/enterprises_operate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_subsidization.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_annual_expenses.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/updated_strategic_goals.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_logistics_group.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_rationale.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_vulnerabilities.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_purpose.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_assessment_the.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/stock_thresholds_triggering.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_path_forward.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/false_positive_rate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/historical_business_operations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_flexibility.md
+  - ./db/lex-inference-migrate.js
+  - ./docs/reports/completion/STRATEGIC_ARGUMENTS_VERIFICATION_COMPLETE.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_recovery_foundation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/order_represents.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/unalterable_historical_evidence.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/triggered_stock_changes.md
+  - ./2DO/x/regima.com/dan@regima.com/2025-05-23 - Audit Trail Disappears - Revenue Order & Payment Records Diverted.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_asset_development.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/model_consensus_rate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/economic_crime_directorate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/immediate_strategic_priority.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/review_of_her_access_permissions_across_all_regima.md
+  - ./2DO/x/proton.me/jfaucitt@proton.me/regimaskin.co.za belongs to regimA.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_shopify.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/critical_strategic_assessment.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_risks.md
+  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF5_ADDERORY_DOMAIN_WITH_EMAILS.pdf
+  - ./UPDATED_DRAFTS/SLG_R5_4M_STOCK_THEFT_TO_ADDERORY_COMPREHENSIVE.md
+  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF3_STRATEGIC_LOGISTICS_WITH_EMAILS.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_initiative.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/completion_rate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/wandsworth_town_ltd.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/learning_rate.md
+  - ./docs/reports/verification/SEVEN_STRATEGIC_ARGUMENTS_EVIDENCE_VERIFICATION.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/recovery_rate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_criminal_proceeds.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/zone_annual_expenses.md
+  - ./docs/legal/affidavits/daniel-affidavit-strategic-logistics.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/framework_strategic_approaches.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/error_rate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_pivot.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_advantage.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_revenue_loss.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/stock_monitoring.md
+  - ./docs/strategic/STRATEGIC_DYNAMICS_ANALYSIS.json
+  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_burn_rate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_tax_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_sophistication.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_pillars.md
+  - ./2DO/x/regima.com/dan@regima.com/Re_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(1).pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_market_segmentation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_recommendation.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/south_african_corporate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_misdirection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/peak_interaction_rate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_subsidization.md
+  - ./jax-response/analysis-output/strategic_contradictions_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/accuracy_rate.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_annual_costs.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/million_annual_expense.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/expected_annual_revenue.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_limitations.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/logistics_optimization.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_clarity.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_insights_integration.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/investigating_adderory.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_fraud.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/inventory_adjustment.md
+  - ./case_2025_137857/02_evidence/misc/Re_ belongs to regimA.eml
+  - ./UPDATED_DRAFTS/analysis-main/entities/annual_fees.md
+  - ./db/cross-reference-migrate.js
+  - ./docs/reports/verification/STRATEGIC_ARGUMENTS_EVIDENCE_VERIFICATION.md
+  - ./jax-response/evidence-attachments/dan-technical/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_action.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_implementation.md
+  - ./db/migrate.js
+  - ./UPDATED_DRAFTS/analysis-main/entities/end_adjustments.md
+  - ./docs/strategic/arguments/SEVEN_STRATEGIC_ARGUMENTS_EVIDENCE_VERIFICATION.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/historical_revisionism.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/new_strategic_goals.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ STRATEGIC LOGISTICS CC-34326803 CRM_000005860000184.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/expected_annual.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/affected_stocks.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_recommendations.md
+  - ./ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/framework_stock.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_dr_h_wandsworth_town_ltd.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_integration.md
+  - ./db/grip-metrics-migrate.js
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_logistic.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/estimated_historical_impact.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/mike_bostock.md
+  - ./2DO/x/regima.zone/jax@regima.zone/FW_ Replit_ Invoice Payment Failed for RegimA.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_motive_analysis.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_with_shopify_historical_p.md
+  - ./UPDATED_DRAFTS/analysis-main/historical_impact_projection.md
+  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_historical.md
+  - ./2DO/x/rzo.io/d@rzo.io/Fw_ STRATEGIC LOGISTICS CC 34326803 [REF_20250224_131215884_00064] - [External E.pdf
+  - ./UPDATED_DRAFTS/analysis-main/entities/historical_shopify.md
+  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md
+- **Ad Res J7 References:** 
+  - See files related to: R5.4M, worth, stock, physically, disappears, Strategic, Logistics, warehouse., Represents, annual, sales,, historical, adjustment, rate., stock, later, supplied, Adderory, (Rynette's, son's, company), RegimA.
+- **Crime Category:** other
+- **Phase:** PHASE_001
+- **Event Subtype:** transfer_pricing_fraud_stock_theft
+- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_024
+- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
+- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
+- **Evidence Urls:** 
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/strategic_framework.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/annual_victim_subsidization.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/strategic_response.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/total_annual_harm.md
+  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/audit_trail_disappears.md
+- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_024.html
+- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_024
+- **Related Application:** APPLICATION_1
+- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
+- **Ad Res J7 Evidence:** 
+  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
+  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}
