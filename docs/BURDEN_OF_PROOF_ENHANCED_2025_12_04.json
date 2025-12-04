@@ -1,0 +1,1916 @@
+{
+  "analysis_date": "2025-12-04T05:37:44.519862",
+  "case_number": "2025-137857",
+  "legal_standards": {
+    "civil_actions": {
+      "name": "Civil Actions",
+      "standard": "50% - Balance of Probabilities",
+      "threshold": 0.5,
+      "description": "More likely than not that the claim is true"
+    },
+    "criminal_actions": {
+      "name": "Criminal Actions",
+      "standard": "95%+ - Beyond Reasonable Doubt",
+      "threshold": 0.95,
+      "description": "No reasonable doubt in the mind of a reasonable person"
+    },
+    "cipc_complaints": {
+      "name": "CIPC Companies Act Complaints",
+      "standard": "Reasonable Grounds to Believe",
+      "threshold": 0.65,
+      "description": "Credible evidence suggesting a violation occurred"
+    },
+    "popia_complaints": {
+      "name": "POPIA Criminal Complaints",
+      "standard": "95%+ - Beyond Reasonable Doubt",
+      "threshold": 0.95,
+      "description": "Criminal standard for data protection violations"
+    },
+    "commercial_crime": {
+      "name": "Commercial Crime Case Submissions",
+      "standard": "95%+ - Beyond Reasonable Doubt",
+      "threshold": 0.95,
+      "description": "Criminal standard for commercial fraud"
+    },
+    "npa_tax_fraud": {
+      "name": "NPA Tax Fraud Reports",
+      "standard": "95%+ - Beyond Reasonable Doubt",
+      "threshold": 0.95,
+      "description": "Criminal standard for tax-related offenses"
+    }
+  },
+  "filing_categories": {
+    "civil_actions": {
+      "standard": "50% - Balance of Probabilities",
+      "events_count": 62,
+      "events": [
+        {
+          "event_id": "EVENT_H001",
+          "title": "First ReZonance Invoice to RST",
+          "date": "2017-06-30",
+          "category": "business_relationship",
+          "financial_impact": "R250.80",
+          "evidence_files": 1032,
+          "legal_significance": "establishment_of_business_relationship_and_trust"
+        },
+        {
+          "event_id": "EVENT_H002",
+          "title": "ReZonance Service Expansion",
+          "date": "2017-09-30",
+          "category": "business_relationship",
+          "financial_impact": "R100,000+",
+          "evidence_files": 551,
+          "legal_significance": "establishment_of_operational_dependency"
+        },
+        {
+          "event_id": "EVENT_H003",
+          "title": "Financial Year Commencement RST/SLG",
+          "date": "2019-03-01",
+          "category": "financial_structure",
+          "financial_impact": "unknown",
+          "evidence_files": 1973,
+          "legal_significance": "foundation_for_inter_company_financial_manipulation"
+        },
+        {
+          "event_id": "EVENT_H004",
+          "title": "Financial Year Commencement Villa Via",
+          "date": "2019-05-01",
+          "category": "financial_structure",
+          "financial_impact": "unknown",
+          "evidence_files": 588,
+          "legal_significance": "structural_complexity_enabling_fraud"
+        },
+        {
+          "event_id": "EVENT_H005",
+          "title": "Multiple Adjusting Journal Entries",
+          "date": "2020-02-20",
+          "category": "financial_manipulation",
+          "financial_impact": "R1,642,000",
+          "evidence_files": 549,
+          "legal_significance": "evidence_of_systematic_inter_company_manipulation"
+        },
+        {
+          "event_id": "EVENT_051",
+          "title": "Unknown",
+          "date": "2020-02-20",
+          "category": "financial_manipulation",
+          "financial_impact": "R1,642,000",
+          "evidence_files": 539,
+          "legal_significance": "establishes_pattern_of_financial_manipulation"
+        },
+        {
+          "event_id": "EVENT_H006",
+          "title": "Year-End Adjustments and Interest Payment",
+          "date": "2020-02-28",
+          "category": "financial_manipulation",
+          "financial_impact": "R1,948,334.09",
+          "evidence_files": 43,
+          "legal_significance": "profit_concentration_in_director_controlled_entity"
+        },
+        {
+          "event_id": "EVENT_052",
+          "title": "Unknown",
+          "date": "2020-02-28",
+          "category": "financial_structure",
+          "financial_impact": "R414,334.09",
+          "evidence_files": 100,
+          "legal_significance": "establishes_inter_company_financial_relationships"
+        },
+        {
+          "event_id": "EVENT_H007",
+          "title": "Villa Via Year-End Profit Extraction",
+          "date": "2020-04-30",
+          "category": "profit_extraction",
+          "financial_impact": "R22,800,000",
+          "evidence_files": 469,
+          "legal_significance": "evidence_of_capital_extraction_mechanism"
+        },
+        {
+          "event_id": "EVENT_053",
+          "title": "Unknown",
+          "date": "2020-04-30",
+          "category": "profit_extraction",
+          "financial_impact": "R22,800,000",
+          "evidence_files": 403,
+          "legal_significance": "evidence_of_capital_extraction_through_members_loan"
+        },
+        {
+          "event_id": "EVENT_H008",
+          "title": "Bantjies Trial Balance Email Distribution",
+          "date": "2020-08-13",
+          "category": "evidence_documentation",
+          "financial_impact": "unknown",
+          "evidence_files": 935,
+          "legal_significance": "evidence_of_bantjies_control_over_financial_systems"
+        },
+        {
+          "event_id": "EVENT_048",
+          "title": "Unknown",
+          "date": "2020-08-13",
+          "category": "accounting_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 655,
+          "legal_significance": "establishes_bantjies_long_term_control_of_financial_systems"
+        },
+        {
+          "event_id": "EVENT_H009",
+          "title": "Adderory Companies Registration - Pre-Planning Phase",
+          "date": "2021-04-01",
+          "category": "conspiracy_preparation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 614,
+          "legal_significance": "pre_planning_evidence_demonstrates_long_term_conspiracy"
+        },
+        {
+          "event_id": "EVENT_D001",
+          "title": "ReZonance Opening Balance Debt",
+          "date": "2022-03-01",
+          "category": "debt_accumulation",
+          "financial_impact": "R971,587.93",
+          "evidence_files": 1004,
+          "legal_significance": "systematic_non_payment_of_legitimate_debts"
+        },
+        {
+          "event_id": "EVENT_D002",
+          "title": "First Structured Payment to ReZonance",
+          "date": "2022-07-11",
+          "category": "debt_management",
+          "financial_impact": "R40,000",
+          "evidence_files": 474,
+          "legal_significance": "acknowledgment_of_debt_through_payment"
+        },
+        {
+          "event_id": "EVENT_H010",
+          "title": "Kayla Pretorius Murder",
+          "date": "2023-01-01",
+          "category": "criminal_event",
+          "financial_impact": "R1,035,000",
+          "evidence_files": 216,
+          "legal_significance": "estate_complications_law_enforcement_investigation"
+        },
+        {
+          "event_id": "EVENT_D003",
+          "title": "ReZonance Final Balance Persistent Debt",
+          "date": "2023-02-28",
+          "category": "debt_accumulation",
+          "financial_impact": "R1,035,361.34",
+          "evidence_files": 366,
+          "legal_significance": "ongoing_systematic_non_payment"
+        },
+        {
+          "event_id": "EVENT_D004",
+          "title": "False Payment Claim #1 to ReZonance",
+          "date": "2023-03-15",
+          "category": "fraud",
+          "financial_impact": "R470,000",
+          "evidence_files": 1088,
+          "legal_significance": "fraudulent_payment_claims_to_conceal_debt"
+        },
+        {
+          "event_id": "EVENT_D005",
+          "title": "False Payment Claim #2 to ReZonance",
+          "date": "2023-09-20",
+          "category": "fraud",
+          "financial_impact": "R765,361.34",
+          "evidence_files": 401,
+          "legal_significance": "systematic_fraud_pattern_escalation"
+        },
+        {
+          "event_id": "EVENT_023",
+          "title": "Chantal Letter - Kayla Estate Finalization",
+          "date": "2025-01-15",
+          "category": "estate_exploitation",
+          "financial_impact": "R1,035,000",
+          "evidence_files": 208,
+          "legal_significance": "ongoing_estate_exploitation_pattern"
+        },
+        {
+          "event_id": "EVENT_022",
+          "title": "R900,000 Unauthorized Transfers from RegimA SA",
+          "date": "2025-02-14",
+          "category": "financial_manipulation",
+          "financial_impact": "R900,000",
+          "evidence_files": 1009,
+          "legal_significance": "unauthorized_transfer_without_co_director_authority"
+        },
+        {
+          "event_id": "EVENT_028",
+          "title": "R5.2M SLG Stock Missing & Large Invoice",
+          "date": "2025-02-25",
+          "category": "transfer_pricing_fraud",
+          "financial_impact": "R5,200,000",
+          "evidence_files": 285,
+          "legal_significance": "systematic_asset_stripping_transfer_pricing_fraud"
+        },
+        {
+          "event_id": "EVENT_001",
+          "title": "RegimA SA Revenue Diversion Started",
+          "date": "2025-03-01",
+          "category": "revenue_theft",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 926,
+          "legal_significance": "initial_implementation_of_systematic_financial_fraud"
+        },
+        {
+          "event_id": "EVENT_024",
+          "title": "R5.4M Stock Disappears from Strategic Logistics",
+          "date": "2025-03-01",
+          "category": "transfer_pricing_fraud",
+          "financial_impact": "R5,400,000",
+          "evidence_files": 258,
+          "legal_significance": "largest_single_identifiable_theft_transfer_pricing_fraud"
+        },
+        {
+          "event_id": "EVENT_002",
+          "title": "Trust Structure Establishment",
+          "date": "2025-03-15",
+          "category": "trust_violations",
+          "financial_impact": "R2,851,247.35",
+          "evidence_files": 477,
+          "legal_significance": "initial_documentation_of_trust_structure_manipulation"
+        },
+        {
+          "event_id": "EVENT_025",
+          "title": "R5.4M Stock Adjustment Processed Without Investigation",
+          "date": "2025-03-15",
+          "category": "accounting_fraud",
+          "financial_impact": "R5,400,000",
+          "evidence_files": 236,
+          "legal_significance": "accounting_fraud_breach_of_professional_duty"
+        },
+        {
+          "event_id": "EVENT_003",
+          "title": "Two Years Unallocated Expenses Dumped",
+          "date": "2025-03-30",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 1314,
+          "legal_significance": "systematic_financial_manipulation_and_pressure_tactics"
+        },
+        {
+          "event_id": "EVENT_004",
+          "title": "Payment Redirection Scheme",
+          "date": "2025-04-01",
+          "category": "financial_manipulation",
+          "financial_impact": "R4,276,832.85",
+          "evidence_files": 1059,
+          "legal_significance": "initial_implementation_of_systematic_financial_fraud"
+        },
+        {
+          "event_id": "EVENT_005",
+          "title": "Bank Account Change Letter for RegimA Worldwide",
+          "date": "2025-04-14",
+          "category": "revenue_theft",
+          "financial_impact": "R3,141,647.70",
+          "evidence_files": 396,
+          "legal_significance": "first_documented_act_in_coordinated_scheme"
+        },
+        {
+          "event_id": "EVENT_029",
+          "title": "Cloud IT Systems Removal Order",
+          "date": "2025-04-22",
+          "category": "infrastructure_seizure",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 465,
+          "legal_significance": "infrastructure_control_seizure"
+        },
+        {
+          "event_id": "EVENT_055",
+          "title": "Peter Orders Cloud IT Systems Removal",
+          "date": "2025-04-22",
+          "category": "evidence_tampering",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 1238,
+          "legal_significance": "evidence_tampering_preparation_obstruction_of_justice"
+        },
+        {
+          "event_id": "EVENT_006",
+          "title": "Unauthorized Beneficiary Changes",
+          "date": "2025-05-02",
+          "category": "trust_violations",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 426,
+          "legal_significance": "direct_violation_of_trust_obligations_and_beneficiary_rights"
+        },
+        {
+          "event_id": "EVENT_007",
+          "title": "Jacqui Confronts Rynette About R1,035,000 Debt",
+          "date": "2025-05-15",
+          "category": "financial_dispute",
+          "financial_impact": "R1,035,000",
+          "evidence_files": 953,
+          "legal_significance": "confrontation_triggering_subsequent_retaliation"
+        },
+        {
+          "event_id": "EVENT_008",
+          "title": "Unauthorized Transfers (R850K+)",
+          "date": "2025-05-15",
+          "category": "financial_manipulation",
+          "financial_impact": "R850,000",
+          "evidence_files": 1668,
+          "legal_significance": "direct_evidence_of_financial_authority_abuse_and_theft"
+        },
+        {
+          "event_id": "EVENT_050",
+          "title": "Unknown",
+          "date": "2025-05-15",
+          "category": "fraud_discovery",
+          "financial_impact": "R1,035,000",
+          "evidence_files": 187,
+          "legal_significance": "trigger_event_for_coordinated_cover_up"
+        },
+        {
+          "event_id": "EVENT_009",
+          "title": "Shopify Audit Trail Hijacking",
+          "date": "2025-05-22",
+          "category": "revenue_theft",
+          "financial_impact": "R1,000,000+ monthly",
+          "evidence_files": 2488,
+          "legal_significance": "consciousness_of_guilt_through_evidence_destruction"
+        },
+        {
+          "event_id": "EVENT_010",
+          "title": "Domain Registration (Identity Fraud)",
+          "date": "2025-05-29",
+          "category": "revenue_theft",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 709,
+          "legal_significance": "family_conspiracy_escalation_and_digital_impersonation"
+        },
+        {
+          "event_id": "EVENT_011",
+          "title": "Daniel Finalizes Fraud Reports",
+          "date": "2025-06-06",
+          "category": "fraud_discovery",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 609,
+          "legal_significance": "fraud_discovery_and_documentation"
+        },
+        {
+          "event_id": "EVENT_012",
+          "title": "Secret Card Cancellations",
+          "date": "2025-06-07",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 390,
+          "legal_significance": "sabotage_of_payment_capability"
+        },
+        {
+          "event_id": "EVENT_058",
+          "title": "Bantjies Dismisses Audit Request",
+          "date": "2025-06-10",
+          "category": "fraud_concealment",
+          "financial_impact": "R5,400,000+ concealed",
+          "evidence_files": 1480,
+          "legal_significance": "consciousness_of_guilt_audit_blocking_breach_of_fiduciary_duty"
+        },
+        {
+          "event_id": "EVENT_026",
+          "title": "Bantjies Dismisses Audit Request",
+          "date": "2025-06-10",
+          "category": "fraud_concealment",
+          "financial_impact": "R18,685,000",
+          "evidence_files": 664,
+          "legal_significance": "consciousness_of_guilt_conflict_of_interest_breach_of_fiduciary_duty"
+        },
+        {
+          "event_id": "EVENT_047",
+          "title": "Unknown",
+          "date": "2025-06-10",
+          "category": "fraud_concealment",
+          "financial_impact": "unknown",
+          "evidence_files": 499,
+          "legal_significance": "consciousness_of_guilt_and_fraud_concealment"
+        },
+        {
+          "event_id": "EVENT_013",
+          "title": "Systematic Trust Violations",
+          "date": "2025-06-18",
+          "category": "trust_violations",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 880,
+          "legal_significance": "clear_evidence_of_trustee_misconduct_and_self_dealing"
+        },
+        {
+          "event_id": "EVENT_014",
+          "title": "Email Impersonation Pattern and Domain Switch Instruction",
+          "date": "2025-06-20",
+          "category": "revenue_theft",
+          "financial_impact": "R3,141,647.70",
+          "evidence_files": 1439,
+          "legal_significance": "pattern_of_impersonation_supporting_criminal_conspiracy_charges"
+        },
+        {
+          "event_id": "EVENT_027",
+          "title": "Domain Switch Email Instruction",
+          "date": "2025-06-20",
+          "category": "customer_hijacking",
+          "financial_impact": "unknown",
+          "evidence_files": 138,
+          "legal_significance": "active_customer_hijacking_and_revenue_diversion"
+        },
+        {
+          "event_id": "EVENT_015",
+          "title": "Coordinated Fund Diversions",
+          "date": "2025-06-30",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 2102,
+          "legal_significance": "evidence_of_sophisticated_financial_crime_coordination"
+        },
+        {
+          "event_id": "EVENT_016",
+          "title": "Warehouse POPI Violations",
+          "date": "2025-07-08",
+          "category": "revenue_theft",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 1992,
+          "legal_significance": "documented_evidence_of_systematic_business_destruction"
+        },
+        {
+          "event_id": "EVENT_017",
+          "title": "Account Manipulation",
+          "date": "2025-07-12",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 2053,
+          "legal_significance": "documented_evidence_of_financial_system_abuse_and_unauthorized_control"
+        },
+        {
+          "event_id": "EVENT_018",
+          "title": "Trust Asset Misappropriation",
+          "date": "2025-07-25",
+          "category": "trust_violations",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 237,
+          "legal_significance": "documented_theft_of_trust_property_and_breach_of_fiduciary_duty"
+        },
+        {
+          "event_id": "EVENT_019",
+          "title": "Trust Breach Evidence",
+          "date": "2025-08-10",
+          "category": "trust_violations",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 1252,
+          "legal_significance": "systematic_evidence_of_ongoing_trust_law_violations"
+        },
+        {
+          "event_id": "EVENT_049",
+          "title": "Unknown",
+          "date": "2025-08-13",
+          "category": "trust_violations",
+          "financial_impact": "unknown",
+          "evidence_files": 336,
+          "legal_significance": "professional_misconduct_and_conflict_of_interest"
+        },
+        {
+          "event_id": "EVENT_063",
+          "title": "Gee Email Explaining Domain Switch Instruction",
+          "date": "2025-08-15",
+          "category": "revenue_theft",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 506,
+          "legal_significance": "witness_testimony_confirming_customer_hijacking"
+        },
+        {
+          "event_id": "EVENT_020",
+          "title": "Financial Evidence Concealment",
+          "date": "2025-08-20",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 1566,
+          "legal_significance": "consciousness_of_guilt_through_evidence_destruction_attempts"
+        },
+        {
+          "event_id": "EVENT_021",
+          "title": "Accounts Emptied",
+          "date": "2025-09-11",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 268,
+          "legal_significance": "final_stage_of_financial_destruction"
+        },
+        {
+          "event_id": "EVENT_070",
+          "title": "Evidence Suppression Pattern Identified",
+          "date": "2025-09-15",
+          "category": "cover_up",
+          "financial_impact": "R5,460,000.00",
+          "evidence_files": 8,
+          "legal_significance": "N/A"
+        },
+        {
+          "event_id": "EVENT_071",
+          "title": "Early Business Relationship Establishment",
+          "date": "2017-01-01",
+          "category": "business_relationship",
+          "financial_impact": "Unknown",
+          "evidence_files": 1,
+          "legal_significance": "N/A"
+        },
+        {
+          "event_id": "EVENT_072",
+          "title": "Initial Service Agreement Framework",
+          "date": "2017-06-01",
+          "category": "business_relationship",
+          "financial_impact": "R13,000,000+ (minimum annual revenue)",
+          "evidence_files": 1,
+          "legal_significance": "N/A"
+        },
+        {
+          "event_id": "EVENT_073",
+          "title": "Debt Accumulation Pattern Begins",
+          "date": "2024-01-01",
+          "category": "financial_manipulation",
+          "financial_impact": "R18,685,000.00",
+          "evidence_files": 1,
+          "legal_significance": "N/A"
+        },
+        {
+          "event_id": "EVENT_074",
+          "title": "Application 3 Dismissed by Court",
+          "date": "2025-11-25",
+          "category": "legal_proceedings",
+          "financial_impact": "N/A",
+          "evidence_files": 1,
+          "legal_significance": "peter_third_application_unsuccessful"
+        },
+        {
+          "event_id": "EVENT_075",
+          "title": "Rynette Farrar Retains Legal Counsel",
+          "date": "2025-11-26",
+          "category": "legal_response",
+          "financial_impact": "N/A",
+          "evidence_files": 2,
+          "legal_significance": "defamation_counterclaim_strategy"
+        },
+        {
+          "event_id": "EVENT_076",
+          "title": "Letter of Demand Issued (Defamation)",
+          "date": "2025-11-26",
+          "category": "legal_correspondence",
+          "financial_impact": "Potential punitive costs",
+          "evidence_files": 1,
+          "legal_significance": "defamation_claim_formal_demand"
+        },
+        {
+          "event_id": "EVENT_077",
+          "title": "Ongoing Interdict Violations Reported",
+          "date": "2025-11-26",
+          "category": "interdict_violation",
+          "financial_impact": "Business disruption",
+          "evidence_files": 1,
+          "legal_significance": "contempt_of_court_ongoing_violations"
+        }
+      ]
+    },
+    "popia_complaints": {
+      "standard": "95%+ - Beyond Reasonable Doubt",
+      "events_count": 64,
+      "events": [
+        {
+          "event_id": "EVENT_H001",
+          "title": "First ReZonance Invoice to RST",
+          "date": "2017-06-30",
+          "category": "business_relationship",
+          "financial_impact": "R250.80",
+          "evidence_files": 1032,
+          "legal_significance": "establishment_of_business_relationship_and_trust"
+        },
+        {
+          "event_id": "EVENT_H002",
+          "title": "ReZonance Service Expansion",
+          "date": "2017-09-30",
+          "category": "business_relationship",
+          "financial_impact": "R100,000+",
+          "evidence_files": 551,
+          "legal_significance": "establishment_of_operational_dependency"
+        },
+        {
+          "event_id": "EVENT_H003",
+          "title": "Financial Year Commencement RST/SLG",
+          "date": "2019-03-01",
+          "category": "financial_structure",
+          "financial_impact": "unknown",
+          "evidence_files": 1973,
+          "legal_significance": "foundation_for_inter_company_financial_manipulation"
+        },
+        {
+          "event_id": "EVENT_H004",
+          "title": "Financial Year Commencement Villa Via",
+          "date": "2019-05-01",
+          "category": "financial_structure",
+          "financial_impact": "unknown",
+          "evidence_files": 588,
+          "legal_significance": "structural_complexity_enabling_fraud"
+        },
+        {
+          "event_id": "EVENT_H005",
+          "title": "Multiple Adjusting Journal Entries",
+          "date": "2020-02-20",
+          "category": "financial_manipulation",
+          "financial_impact": "R1,642,000",
+          "evidence_files": 549,
+          "legal_significance": "evidence_of_systematic_inter_company_manipulation"
+        },
+        {
+          "event_id": "EVENT_051",
+          "title": "Unknown",
+          "date": "2020-02-20",
+          "category": "financial_manipulation",
+          "financial_impact": "R1,642,000",
+          "evidence_files": 539,
+          "legal_significance": "establishes_pattern_of_financial_manipulation"
+        },
+        {
+          "event_id": "EVENT_H007",
+          "title": "Villa Via Year-End Profit Extraction",
+          "date": "2020-04-30",
+          "category": "profit_extraction",
+          "financial_impact": "R22,800,000",
+          "evidence_files": 469,
+          "legal_significance": "evidence_of_capital_extraction_mechanism"
+        },
+        {
+          "event_id": "EVENT_053",
+          "title": "Unknown",
+          "date": "2020-04-30",
+          "category": "profit_extraction",
+          "financial_impact": "R22,800,000",
+          "evidence_files": 403,
+          "legal_significance": "evidence_of_capital_extraction_through_members_loan"
+        },
+        {
+          "event_id": "EVENT_H008",
+          "title": "Bantjies Trial Balance Email Distribution",
+          "date": "2020-08-13",
+          "category": "evidence_documentation",
+          "financial_impact": "unknown",
+          "evidence_files": 935,
+          "legal_significance": "evidence_of_bantjies_control_over_financial_systems"
+        },
+        {
+          "event_id": "EVENT_048",
+          "title": "Unknown",
+          "date": "2020-08-13",
+          "category": "accounting_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 655,
+          "legal_significance": "establishes_bantjies_long_term_control_of_financial_systems"
+        },
+        {
+          "event_id": "EVENT_H018",
+          "title": "Bantjies Sends Trial Balance Email to Bernadine Wright",
+          "date": "2020-08-13",
+          "category": "accounting_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 1038,
+          "legal_significance": "demonstrates_bantjies_control_of_financial_systems"
+        },
+        {
+          "event_id": "EVENT_H009",
+          "title": "Adderory Companies Registration - Pre-Planning Phase",
+          "date": "2021-04-01",
+          "category": "conspiracy_preparation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 614,
+          "legal_significance": "pre_planning_evidence_demonstrates_long_term_conspiracy"
+        },
+        {
+          "event_id": "EVENT_D001",
+          "title": "ReZonance Opening Balance Debt",
+          "date": "2022-03-01",
+          "category": "debt_accumulation",
+          "financial_impact": "R971,587.93",
+          "evidence_files": 1004,
+          "legal_significance": "systematic_non_payment_of_legitimate_debts"
+        },
+        {
+          "event_id": "EVENT_D002",
+          "title": "First Structured Payment to ReZonance",
+          "date": "2022-07-11",
+          "category": "debt_management",
+          "financial_impact": "R40,000",
+          "evidence_files": 474,
+          "legal_significance": "acknowledgment_of_debt_through_payment"
+        },
+        {
+          "event_id": "EVENT_D003",
+          "title": "ReZonance Final Balance Persistent Debt",
+          "date": "2023-02-28",
+          "category": "debt_accumulation",
+          "financial_impact": "R1,035,361.34",
+          "evidence_files": 366,
+          "legal_significance": "ongoing_systematic_non_payment"
+        },
+        {
+          "event_id": "EVENT_D004",
+          "title": "False Payment Claim #1 to ReZonance",
+          "date": "2023-03-15",
+          "category": "fraud",
+          "financial_impact": "R470,000",
+          "evidence_files": 1088,
+          "legal_significance": "fraudulent_payment_claims_to_conceal_debt"
+        },
+        {
+          "event_id": "EVENT_D005",
+          "title": "False Payment Claim #2 to ReZonance",
+          "date": "2023-09-20",
+          "category": "fraud",
+          "financial_impact": "R765,361.34",
+          "evidence_files": 401,
+          "legal_significance": "systematic_fraud_pattern_escalation"
+        },
+        {
+          "event_id": "EVENT_054",
+          "title": "Chantal Delivers Letter About Kayla Estate Finalization",
+          "date": "2025-01-15",
+          "category": "estate_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 235,
+          "legal_significance": "continued_exploitation_of_deceased_victims_estate"
+        },
+        {
+          "event_id": "EVENT_022",
+          "title": "R900,000 Unauthorized Transfers from RegimA SA",
+          "date": "2025-02-14",
+          "category": "financial_manipulation",
+          "financial_impact": "R900,000",
+          "evidence_files": 1009,
+          "legal_significance": "unauthorized_transfer_without_co_director_authority"
+        },
+        {
+          "event_id": "EVENT_028",
+          "title": "R5.2M SLG Stock Missing & Large Invoice",
+          "date": "2025-02-25",
+          "category": "transfer_pricing_fraud",
+          "financial_impact": "R5,200,000",
+          "evidence_files": 285,
+          "legal_significance": "systematic_asset_stripping_transfer_pricing_fraud"
+        },
+        {
+          "event_id": "EVENT_001",
+          "title": "RegimA SA Revenue Diversion Started",
+          "date": "2025-03-01",
+          "category": "revenue_theft",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 926,
+          "legal_significance": "initial_implementation_of_systematic_financial_fraud"
+        },
+        {
+          "event_id": "EVENT_024",
+          "title": "R5.4M Stock Disappears from Strategic Logistics",
+          "date": "2025-03-01",
+          "category": "transfer_pricing_fraud",
+          "financial_impact": "R5,400,000",
+          "evidence_files": 258,
+          "legal_significance": "largest_single_identifiable_theft_transfer_pricing_fraud"
+        },
+        {
+          "event_id": "EVENT_002",
+          "title": "Trust Structure Establishment",
+          "date": "2025-03-15",
+          "category": "trust_violations",
+          "financial_impact": "R2,851,247.35",
+          "evidence_files": 477,
+          "legal_significance": "initial_documentation_of_trust_structure_manipulation"
+        },
+        {
+          "event_id": "EVENT_025",
+          "title": "R5.4M Stock Adjustment Processed Without Investigation",
+          "date": "2025-03-15",
+          "category": "accounting_fraud",
+          "financial_impact": "R5,400,000",
+          "evidence_files": 236,
+          "legal_significance": "accounting_fraud_breach_of_professional_duty"
+        },
+        {
+          "event_id": "EVENT_003",
+          "title": "Two Years Unallocated Expenses Dumped",
+          "date": "2025-03-30",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 1314,
+          "legal_significance": "systematic_financial_manipulation_and_pressure_tactics"
+        },
+        {
+          "event_id": "EVENT_004",
+          "title": "Payment Redirection Scheme",
+          "date": "2025-04-01",
+          "category": "financial_manipulation",
+          "financial_impact": "R4,276,832.85",
+          "evidence_files": 1059,
+          "legal_significance": "initial_implementation_of_systematic_financial_fraud"
+        },
+        {
+          "event_id": "EVENT_005",
+          "title": "Bank Account Change Letter for RegimA Worldwide",
+          "date": "2025-04-14",
+          "category": "revenue_theft",
+          "financial_impact": "R3,141,647.70",
+          "evidence_files": 396,
+          "legal_significance": "first_documented_act_in_coordinated_scheme"
+        },
+        {
+          "event_id": "EVENT_029",
+          "title": "Cloud IT Systems Removal Order",
+          "date": "2025-04-22",
+          "category": "infrastructure_seizure",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 465,
+          "legal_significance": "infrastructure_control_seizure"
+        },
+        {
+          "event_id": "EVENT_055",
+          "title": "Peter Orders Cloud IT Systems Removal",
+          "date": "2025-04-22",
+          "category": "evidence_tampering",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 1238,
+          "legal_significance": "evidence_tampering_preparation_obstruction_of_justice"
+        },
+        {
+          "event_id": "EVENT_056",
+          "title": "Server Missing from Office",
+          "date": "2025-04-30",
+          "category": "evidence_tampering",
+          "financial_impact": "N/A",
+          "evidence_files": 1319,
+          "legal_significance": "evidence_tampering_obstruction_of_justice"
+        },
+        {
+          "event_id": "EVENT_006",
+          "title": "Unauthorized Beneficiary Changes",
+          "date": "2025-05-02",
+          "category": "trust_violations",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 426,
+          "legal_significance": "direct_violation_of_trust_obligations_and_beneficiary_rights"
+        },
+        {
+          "event_id": "EVENT_007",
+          "title": "Jacqui Confronts Rynette About R1,035,000 Debt",
+          "date": "2025-05-15",
+          "category": "financial_dispute",
+          "financial_impact": "R1,035,000",
+          "evidence_files": 953,
+          "legal_significance": "confrontation_triggering_subsequent_retaliation"
+        },
+        {
+          "event_id": "EVENT_008",
+          "title": "Unauthorized Transfers (R850K+)",
+          "date": "2025-05-15",
+          "category": "financial_manipulation",
+          "financial_impact": "R850,000",
+          "evidence_files": 1668,
+          "legal_significance": "direct_evidence_of_financial_authority_abuse_and_theft"
+        },
+        {
+          "event_id": "EVENT_009",
+          "title": "Shopify Audit Trail Hijacking",
+          "date": "2025-05-22",
+          "category": "revenue_theft",
+          "financial_impact": "R1,000,000+ monthly",
+          "evidence_files": 2488,
+          "legal_significance": "consciousness_of_guilt_through_evidence_destruction"
+        },
+        {
+          "event_id": "EVENT_010",
+          "title": "Domain Registration (Identity Fraud)",
+          "date": "2025-05-29",
+          "category": "revenue_theft",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 709,
+          "legal_significance": "family_conspiracy_escalation_and_digital_impersonation"
+        },
+        {
+          "event_id": "EVENT_011",
+          "title": "Daniel Finalizes Fraud Reports",
+          "date": "2025-06-06",
+          "category": "fraud_discovery",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 609,
+          "legal_significance": "fraud_discovery_and_documentation"
+        },
+        {
+          "event_id": "EVENT_057",
+          "title": "Daniel Sends Comprehensive Reports to Bantjies",
+          "date": "2025-06-06",
+          "category": "transparency",
+          "financial_impact": "N/A",
+          "evidence_files": 947,
+          "legal_significance": "evidence_of_full_disclosure_and_transparency"
+        },
+        {
+          "event_id": "EVENT_012",
+          "title": "Secret Card Cancellations",
+          "date": "2025-06-07",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 390,
+          "legal_significance": "sabotage_of_payment_capability"
+        },
+        {
+          "event_id": "EVENT_058",
+          "title": "Bantjies Dismisses Audit Request",
+          "date": "2025-06-10",
+          "category": "fraud_concealment",
+          "financial_impact": "R5,400,000+ concealed",
+          "evidence_files": 1480,
+          "legal_significance": "consciousness_of_guilt_audit_blocking_breach_of_fiduciary_duty"
+        },
+        {
+          "event_id": "EVENT_026",
+          "title": "Bantjies Dismisses Audit Request",
+          "date": "2025-06-10",
+          "category": "fraud_concealment",
+          "financial_impact": "R18,685,000",
+          "evidence_files": 664,
+          "legal_significance": "consciousness_of_guilt_conflict_of_interest_breach_of_fiduciary_duty"
+        },
+        {
+          "event_id": "EVENT_047",
+          "title": "Unknown",
+          "date": "2025-06-10",
+          "category": "fraud_concealment",
+          "financial_impact": "unknown",
+          "evidence_files": 499,
+          "legal_significance": "consciousness_of_guilt_and_fraud_concealment"
+        },
+        {
+          "event_id": "EVENT_062",
+          "title": "Bantjies Learns of Criminal Matters",
+          "date": "2025-06-10",
+          "category": "knowledge_acquisition",
+          "financial_impact": "N/A",
+          "evidence_files": 1034,
+          "legal_significance": "knowledge_before_perjury_confirmatory_affidavit"
+        },
+        {
+          "event_id": "EVENT_013",
+          "title": "Systematic Trust Violations",
+          "date": "2025-06-18",
+          "category": "trust_violations",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 880,
+          "legal_significance": "clear_evidence_of_trustee_misconduct_and_self_dealing"
+        },
+        {
+          "event_id": "EVENT_014",
+          "title": "Email Impersonation Pattern and Domain Switch Instruction",
+          "date": "2025-06-20",
+          "category": "revenue_theft",
+          "financial_impact": "R3,141,647.70",
+          "evidence_files": 1439,
+          "legal_significance": "pattern_of_impersonation_supporting_criminal_conspiracy_charges"
+        },
+        {
+          "event_id": "EVENT_027",
+          "title": "Domain Switch Email Instruction",
+          "date": "2025-06-20",
+          "category": "customer_hijacking",
+          "financial_impact": "unknown",
+          "evidence_files": 138,
+          "legal_significance": "active_customer_hijacking_and_revenue_diversion"
+        },
+        {
+          "event_id": "EVENT_015",
+          "title": "Coordinated Fund Diversions",
+          "date": "2025-06-30",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 2102,
+          "legal_significance": "evidence_of_sophisticated_financial_crime_coordination"
+        },
+        {
+          "event_id": "EVENT_016",
+          "title": "Warehouse POPI Violations",
+          "date": "2025-07-08",
+          "category": "revenue_theft",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 1992,
+          "legal_significance": "documented_evidence_of_systematic_business_destruction"
+        },
+        {
+          "event_id": "EVENT_017",
+          "title": "Account Manipulation",
+          "date": "2025-07-12",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 2053,
+          "legal_significance": "documented_evidence_of_financial_system_abuse_and_unauthorized_control"
+        },
+        {
+          "event_id": "EVENT_018",
+          "title": "Trust Asset Misappropriation",
+          "date": "2025-07-25",
+          "category": "trust_violations",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 237,
+          "legal_significance": "documented_theft_of_trust_property_and_breach_of_fiduciary_duty"
+        },
+        {
+          "event_id": "EVENT_019",
+          "title": "Trust Breach Evidence",
+          "date": "2025-08-10",
+          "category": "trust_violations",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 1252,
+          "legal_significance": "systematic_evidence_of_ongoing_trust_law_violations"
+        },
+        {
+          "event_id": "EVENT_059",
+          "title": "Settlement Agreement Signed",
+          "date": "2025-08-11",
+          "category": "legal_manipulation",
+          "financial_impact": "N/A",
+          "evidence_files": 555,
+          "legal_significance": "strategic_litigation_tactic_not_genuine_business_protection"
+        },
+        {
+          "event_id": "EVENT_049",
+          "title": "Unknown",
+          "date": "2025-08-13",
+          "category": "trust_violations",
+          "financial_impact": "unknown",
+          "evidence_files": 336,
+          "legal_significance": "professional_misconduct_and_conflict_of_interest"
+        },
+        {
+          "event_id": "EVENT_060",
+          "title": "Peter Files Founding Affidavit with Material Non-Disclosures",
+          "date": "2025-08-13",
+          "category": "perjury",
+          "financial_impact": "N/A",
+          "evidence_files": 855,
+          "legal_significance": "perjury_material_non_disclosure_manufactured_crisis"
+        },
+        {
+          "event_id": "EVENT_063",
+          "title": "Gee Email Explaining Domain Switch Instruction",
+          "date": "2025-08-15",
+          "category": "revenue_theft",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 506,
+          "legal_significance": "witness_testimony_confirming_customer_hijacking"
+        },
+        {
+          "event_id": "EVENT_020",
+          "title": "Financial Evidence Concealment",
+          "date": "2025-08-20",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 1566,
+          "legal_significance": "consciousness_of_guilt_through_evidence_destruction_attempts"
+        },
+        {
+          "event_id": "EVENT_061",
+          "title": "ENS Africa Acknowledges Criminal Matters Then Suppresses",
+          "date": "2025-08-29",
+          "category": "legal_misconduct",
+          "financial_impact": "N/A",
+          "evidence_files": 866,
+          "legal_significance": "professional_misconduct_evidence_suppression"
+        },
+        {
+          "event_id": "EVENT_021",
+          "title": "Accounts Emptied",
+          "date": "2025-09-11",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 268,
+          "legal_significance": "final_stage_of_financial_destruction"
+        },
+        {
+          "event_id": "EVT-063",
+          "title": "Bantjes Email: R10M Decline and Computer Expense Analysis",
+          "date": "2025-06-10",
+          "category": "financial_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 1474,
+          "legal_significance": "N/A"
+        },
+        {
+          "event_id": "EVT-064",
+          "title": "Daniel's Comprehensive 26-Point Response to Bantjes",
+          "date": "2025-06-10",
+          "category": "evidence_documentation",
+          "financial_impact": "N/A",
+          "evidence_files": 1130,
+          "legal_significance": "N/A"
+        },
+        {
+          "event_id": "EVT-065",
+          "title": "POPIA Violation Notice Sent to Pete",
+          "date": "2025-07-08",
+          "category": "legal_action",
+          "financial_impact": "N/A",
+          "evidence_files": 1236,
+          "legal_significance": "N/A"
+        },
+        {
+          "event_id": "EVT-066",
+          "title": "Sage Accounting System Expires - Rynette Controls Reactivation",
+          "date": "2025-07-23",
+          "category": "system_control",
+          "financial_impact": "N/A",
+          "evidence_files": 1282,
+          "legal_significance": "N/A"
+        },
+        {
+          "event_id": "EVT-067",
+          "title": "Daniel Forwards Sage Evidence to Lawyer",
+          "date": "2025-08-29",
+          "category": "legal_action",
+          "financial_impact": "N/A",
+          "evidence_files": 687,
+          "legal_significance": "N/A"
+        },
+        {
+          "event_id": "EVT-068",
+          "title": "Rynette Makes R1M+ Debt to ReZonance 'Disappear'",
+          "date": "2024",
+          "category": "financial_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 924,
+          "legal_significance": "N/A"
+        },
+        {
+          "event_id": "EVT-069",
+          "title": "Pete and Rynette Attempt Unauthorized Banking Changes",
+          "date": "2024-2025",
+          "category": "financial_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 572,
+          "legal_significance": "N/A"
+        }
+      ]
+    },
+    "cipc_complaints": {
+      "standard": "Reasonable Grounds to Believe",
+      "events_count": 22,
+      "events": [
+        {
+          "event_id": "EVENT_H005",
+          "title": "Multiple Adjusting Journal Entries",
+          "date": "2020-02-20",
+          "category": "financial_manipulation",
+          "financial_impact": "R1,642,000",
+          "evidence_files": 549,
+          "legal_significance": "evidence_of_systematic_inter_company_manipulation"
+        },
+        {
+          "event_id": "EVENT_051",
+          "title": "Unknown",
+          "date": "2020-02-20",
+          "category": "financial_manipulation",
+          "financial_impact": "R1,642,000",
+          "evidence_files": 539,
+          "legal_significance": "establishes_pattern_of_financial_manipulation"
+        },
+        {
+          "event_id": "EVENT_H006",
+          "title": "Year-End Adjustments and Interest Payment",
+          "date": "2020-02-28",
+          "category": "financial_manipulation",
+          "financial_impact": "R1,948,334.09",
+          "evidence_files": 43,
+          "legal_significance": "profit_concentration_in_director_controlled_entity"
+        },
+        {
+          "event_id": "EVENT_048",
+          "title": "Unknown",
+          "date": "2020-08-13",
+          "category": "accounting_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 655,
+          "legal_significance": "establishes_bantjies_long_term_control_of_financial_systems"
+        },
+        {
+          "event_id": "EVENT_H018",
+          "title": "Bantjies Sends Trial Balance Email to Bernadine Wright",
+          "date": "2020-08-13",
+          "category": "accounting_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 1038,
+          "legal_significance": "demonstrates_bantjies_control_of_financial_systems"
+        },
+        {
+          "event_id": "EVENT_022",
+          "title": "R900,000 Unauthorized Transfers from RegimA SA",
+          "date": "2025-02-14",
+          "category": "financial_manipulation",
+          "financial_impact": "R900,000",
+          "evidence_files": 1009,
+          "legal_significance": "unauthorized_transfer_without_co_director_authority"
+        },
+        {
+          "event_id": "EVENT_002",
+          "title": "Trust Structure Establishment",
+          "date": "2025-03-15",
+          "category": "trust_violations",
+          "financial_impact": "R2,851,247.35",
+          "evidence_files": 477,
+          "legal_significance": "initial_documentation_of_trust_structure_manipulation"
+        },
+        {
+          "event_id": "EVENT_025",
+          "title": "R5.4M Stock Adjustment Processed Without Investigation",
+          "date": "2025-03-15",
+          "category": "accounting_fraud",
+          "financial_impact": "R5,400,000",
+          "evidence_files": 236,
+          "legal_significance": "accounting_fraud_breach_of_professional_duty"
+        },
+        {
+          "event_id": "EVENT_003",
+          "title": "Two Years Unallocated Expenses Dumped",
+          "date": "2025-03-30",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 1314,
+          "legal_significance": "systematic_financial_manipulation_and_pressure_tactics"
+        },
+        {
+          "event_id": "EVENT_004",
+          "title": "Payment Redirection Scheme",
+          "date": "2025-04-01",
+          "category": "financial_manipulation",
+          "financial_impact": "R4,276,832.85",
+          "evidence_files": 1059,
+          "legal_significance": "initial_implementation_of_systematic_financial_fraud"
+        },
+        {
+          "event_id": "EVENT_006",
+          "title": "Unauthorized Beneficiary Changes",
+          "date": "2025-05-02",
+          "category": "trust_violations",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 426,
+          "legal_significance": "direct_violation_of_trust_obligations_and_beneficiary_rights"
+        },
+        {
+          "event_id": "EVENT_008",
+          "title": "Unauthorized Transfers (R850K+)",
+          "date": "2025-05-15",
+          "category": "financial_manipulation",
+          "financial_impact": "R850,000",
+          "evidence_files": 1668,
+          "legal_significance": "direct_evidence_of_financial_authority_abuse_and_theft"
+        },
+        {
+          "event_id": "EVENT_012",
+          "title": "Secret Card Cancellations",
+          "date": "2025-06-07",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 390,
+          "legal_significance": "sabotage_of_payment_capability"
+        },
+        {
+          "event_id": "EVENT_013",
+          "title": "Systematic Trust Violations",
+          "date": "2025-06-18",
+          "category": "trust_violations",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 880,
+          "legal_significance": "clear_evidence_of_trustee_misconduct_and_self_dealing"
+        },
+        {
+          "event_id": "EVENT_015",
+          "title": "Coordinated Fund Diversions",
+          "date": "2025-06-30",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 2102,
+          "legal_significance": "evidence_of_sophisticated_financial_crime_coordination"
+        },
+        {
+          "event_id": "EVENT_017",
+          "title": "Account Manipulation",
+          "date": "2025-07-12",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 2053,
+          "legal_significance": "documented_evidence_of_financial_system_abuse_and_unauthorized_control"
+        },
+        {
+          "event_id": "EVENT_018",
+          "title": "Trust Asset Misappropriation",
+          "date": "2025-07-25",
+          "category": "trust_violations",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 237,
+          "legal_significance": "documented_theft_of_trust_property_and_breach_of_fiduciary_duty"
+        },
+        {
+          "event_id": "EVENT_019",
+          "title": "Trust Breach Evidence",
+          "date": "2025-08-10",
+          "category": "trust_violations",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 1252,
+          "legal_significance": "systematic_evidence_of_ongoing_trust_law_violations"
+        },
+        {
+          "event_id": "EVENT_049",
+          "title": "Unknown",
+          "date": "2025-08-13",
+          "category": "trust_violations",
+          "financial_impact": "unknown",
+          "evidence_files": 336,
+          "legal_significance": "professional_misconduct_and_conflict_of_interest"
+        },
+        {
+          "event_id": "EVENT_020",
+          "title": "Financial Evidence Concealment",
+          "date": "2025-08-20",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 1566,
+          "legal_significance": "consciousness_of_guilt_through_evidence_destruction_attempts"
+        },
+        {
+          "event_id": "EVENT_021",
+          "title": "Accounts Emptied",
+          "date": "2025-09-11",
+          "category": "financial_manipulation",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 268,
+          "legal_significance": "final_stage_of_financial_destruction"
+        },
+        {
+          "event_id": "EVENT_073",
+          "title": "Debt Accumulation Pattern Begins",
+          "date": "2024-01-01",
+          "category": "financial_manipulation",
+          "financial_impact": "R18,685,000.00",
+          "evidence_files": 1,
+          "legal_significance": "N/A"
+        }
+      ]
+    },
+    "npa_tax_fraud": {
+      "standard": "95%+ - Beyond Reasonable Doubt",
+      "events_count": 10,
+      "events": [
+        {
+          "event_id": "EVENT_H005",
+          "title": "Multiple Adjusting Journal Entries",
+          "date": "2020-02-20",
+          "category": "financial_manipulation",
+          "financial_impact": "R1,642,000",
+          "evidence_files": 549,
+          "legal_significance": "evidence_of_systematic_inter_company_manipulation"
+        },
+        {
+          "event_id": "EVENT_051",
+          "title": "Unknown",
+          "date": "2020-02-20",
+          "category": "financial_manipulation",
+          "financial_impact": "R1,642,000",
+          "evidence_files": 539,
+          "legal_significance": "establishes_pattern_of_financial_manipulation"
+        },
+        {
+          "event_id": "EVENT_H006",
+          "title": "Year-End Adjustments and Interest Payment",
+          "date": "2020-02-28",
+          "category": "financial_manipulation",
+          "financial_impact": "R1,948,334.09",
+          "evidence_files": 43,
+          "legal_significance": "profit_concentration_in_director_controlled_entity"
+        },
+        {
+          "event_id": "EVENT_022",
+          "title": "R900,000 Unauthorized Transfers from RegimA SA",
+          "date": "2025-02-14",
+          "category": "financial_manipulation",
+          "financial_impact": "R900,000",
+          "evidence_files": 1009,
+          "legal_significance": "unauthorized_transfer_without_co_director_authority"
+        },
+        {
+          "event_id": "EVENT_028",
+          "title": "R5.2M SLG Stock Missing & Large Invoice",
+          "date": "2025-02-25",
+          "category": "transfer_pricing_fraud",
+          "financial_impact": "R5,200,000",
+          "evidence_files": 285,
+          "legal_significance": "systematic_asset_stripping_transfer_pricing_fraud"
+        },
+        {
+          "event_id": "EVENT_024",
+          "title": "R5.4M Stock Disappears from Strategic Logistics",
+          "date": "2025-03-01",
+          "category": "transfer_pricing_fraud",
+          "financial_impact": "R5,400,000",
+          "evidence_files": 258,
+          "legal_significance": "largest_single_identifiable_theft_transfer_pricing_fraud"
+        },
+        {
+          "event_id": "EVENT_025",
+          "title": "R5.4M Stock Adjustment Processed Without Investigation",
+          "date": "2025-03-15",
+          "category": "accounting_fraud",
+          "financial_impact": "R5,400,000",
+          "evidence_files": 236,
+          "legal_significance": "accounting_fraud_breach_of_professional_duty"
+        },
+        {
+          "event_id": "EVENT_004",
+          "title": "Payment Redirection Scheme",
+          "date": "2025-04-01",
+          "category": "financial_manipulation",
+          "financial_impact": "R4,276,832.85",
+          "evidence_files": 1059,
+          "legal_significance": "initial_implementation_of_systematic_financial_fraud"
+        },
+        {
+          "event_id": "EVENT_008",
+          "title": "Unauthorized Transfers (R850K+)",
+          "date": "2025-05-15",
+          "category": "financial_manipulation",
+          "financial_impact": "R850,000",
+          "evidence_files": 1668,
+          "legal_significance": "direct_evidence_of_financial_authority_abuse_and_theft"
+        },
+        {
+          "event_id": "EVENT_073",
+          "title": "Debt Accumulation Pattern Begins",
+          "date": "2024-01-01",
+          "category": "financial_manipulation",
+          "financial_impact": "R18,685,000.00",
+          "evidence_files": 1,
+          "legal_significance": "N/A"
+        }
+      ]
+    },
+    "criminal_actions": {
+      "standard": "95%+ - Beyond Reasonable Doubt",
+      "events_count": 23,
+      "events": [
+        {
+          "event_id": "EVENT_048",
+          "title": "Unknown",
+          "date": "2020-08-13",
+          "category": "accounting_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 655,
+          "legal_significance": "establishes_bantjies_long_term_control_of_financial_systems"
+        },
+        {
+          "event_id": "EVENT_H018",
+          "title": "Bantjies Sends Trial Balance Email to Bernadine Wright",
+          "date": "2020-08-13",
+          "category": "accounting_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 1038,
+          "legal_significance": "demonstrates_bantjies_control_of_financial_systems"
+        },
+        {
+          "event_id": "EVENT_D004",
+          "title": "False Payment Claim #1 to ReZonance",
+          "date": "2023-03-15",
+          "category": "fraud",
+          "financial_impact": "R470,000",
+          "evidence_files": 1088,
+          "legal_significance": "fraudulent_payment_claims_to_conceal_debt"
+        },
+        {
+          "event_id": "EVENT_D005",
+          "title": "False Payment Claim #2 to ReZonance",
+          "date": "2023-09-20",
+          "category": "fraud",
+          "financial_impact": "R765,361.34",
+          "evidence_files": 401,
+          "legal_significance": "systematic_fraud_pattern_escalation"
+        },
+        {
+          "event_id": "EVENT_054",
+          "title": "Chantal Delivers Letter About Kayla Estate Finalization",
+          "date": "2025-01-15",
+          "category": "estate_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 235,
+          "legal_significance": "continued_exploitation_of_deceased_victims_estate"
+        },
+        {
+          "event_id": "EVENT_028",
+          "title": "R5.2M SLG Stock Missing & Large Invoice",
+          "date": "2025-02-25",
+          "category": "transfer_pricing_fraud",
+          "financial_impact": "R5,200,000",
+          "evidence_files": 285,
+          "legal_significance": "systematic_asset_stripping_transfer_pricing_fraud"
+        },
+        {
+          "event_id": "EVENT_001",
+          "title": "RegimA SA Revenue Diversion Started",
+          "date": "2025-03-01",
+          "category": "revenue_theft",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 926,
+          "legal_significance": "initial_implementation_of_systematic_financial_fraud"
+        },
+        {
+          "event_id": "EVENT_024",
+          "title": "R5.4M Stock Disappears from Strategic Logistics",
+          "date": "2025-03-01",
+          "category": "transfer_pricing_fraud",
+          "financial_impact": "R5,400,000",
+          "evidence_files": 258,
+          "legal_significance": "largest_single_identifiable_theft_transfer_pricing_fraud"
+        },
+        {
+          "event_id": "EVENT_025",
+          "title": "R5.4M Stock Adjustment Processed Without Investigation",
+          "date": "2025-03-15",
+          "category": "accounting_fraud",
+          "financial_impact": "R5,400,000",
+          "evidence_files": 236,
+          "legal_significance": "accounting_fraud_breach_of_professional_duty"
+        },
+        {
+          "event_id": "EVENT_005",
+          "title": "Bank Account Change Letter for RegimA Worldwide",
+          "date": "2025-04-14",
+          "category": "revenue_theft",
+          "financial_impact": "R3,141,647.70",
+          "evidence_files": 396,
+          "legal_significance": "first_documented_act_in_coordinated_scheme"
+        },
+        {
+          "event_id": "EVENT_029",
+          "title": "Cloud IT Systems Removal Order",
+          "date": "2025-04-22",
+          "category": "infrastructure_seizure",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 465,
+          "legal_significance": "infrastructure_control_seizure"
+        },
+        {
+          "event_id": "EVENT_055",
+          "title": "Peter Orders Cloud IT Systems Removal",
+          "date": "2025-04-22",
+          "category": "evidence_tampering",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 1238,
+          "legal_significance": "evidence_tampering_preparation_obstruction_of_justice"
+        },
+        {
+          "event_id": "EVENT_056",
+          "title": "Server Missing from Office",
+          "date": "2025-04-30",
+          "category": "evidence_tampering",
+          "financial_impact": "N/A",
+          "evidence_files": 1319,
+          "legal_significance": "evidence_tampering_obstruction_of_justice"
+        },
+        {
+          "event_id": "EVENT_009",
+          "title": "Shopify Audit Trail Hijacking",
+          "date": "2025-05-22",
+          "category": "revenue_theft",
+          "financial_impact": "R1,000,000+ monthly",
+          "evidence_files": 2488,
+          "legal_significance": "consciousness_of_guilt_through_evidence_destruction"
+        },
+        {
+          "event_id": "EVENT_010",
+          "title": "Domain Registration (Identity Fraud)",
+          "date": "2025-05-29",
+          "category": "revenue_theft",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 709,
+          "legal_significance": "family_conspiracy_escalation_and_digital_impersonation"
+        },
+        {
+          "event_id": "EVENT_014",
+          "title": "Email Impersonation Pattern and Domain Switch Instruction",
+          "date": "2025-06-20",
+          "category": "revenue_theft",
+          "financial_impact": "R3,141,647.70",
+          "evidence_files": 1439,
+          "legal_significance": "pattern_of_impersonation_supporting_criminal_conspiracy_charges"
+        },
+        {
+          "event_id": "EVENT_027",
+          "title": "Domain Switch Email Instruction",
+          "date": "2025-06-20",
+          "category": "customer_hijacking",
+          "financial_impact": "unknown",
+          "evidence_files": 138,
+          "legal_significance": "active_customer_hijacking_and_revenue_diversion"
+        },
+        {
+          "event_id": "EVENT_016",
+          "title": "Warehouse POPI Violations",
+          "date": "2025-07-08",
+          "category": "revenue_theft",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 1992,
+          "legal_significance": "documented_evidence_of_systematic_business_destruction"
+        },
+        {
+          "event_id": "EVENT_060",
+          "title": "Peter Files Founding Affidavit with Material Non-Disclosures",
+          "date": "2025-08-13",
+          "category": "perjury",
+          "financial_impact": "N/A",
+          "evidence_files": 855,
+          "legal_significance": "perjury_material_non_disclosure_manufactured_crisis"
+        },
+        {
+          "event_id": "EVENT_063",
+          "title": "Gee Email Explaining Domain Switch Instruction",
+          "date": "2025-08-15",
+          "category": "revenue_theft",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 506,
+          "legal_significance": "witness_testimony_confirming_customer_hijacking"
+        },
+        {
+          "event_id": "EVT-063",
+          "title": "Bantjes Email: R10M Decline and Computer Expense Analysis",
+          "date": "2025-06-10",
+          "category": "financial_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 1474,
+          "legal_significance": "N/A"
+        },
+        {
+          "event_id": "EVT-068",
+          "title": "Rynette Makes R1M+ Debt to ReZonance 'Disappear'",
+          "date": "2024",
+          "category": "financial_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 924,
+          "legal_significance": "N/A"
+        },
+        {
+          "event_id": "EVT-069",
+          "title": "Pete and Rynette Attempt Unauthorized Banking Changes",
+          "date": "2024-2025",
+          "category": "financial_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 572,
+          "legal_significance": "N/A"
+        }
+      ]
+    },
+    "commercial_crime": {
+      "standard": "95%+ - Beyond Reasonable Doubt",
+      "events_count": 23,
+      "events": [
+        {
+          "event_id": "EVENT_048",
+          "title": "Unknown",
+          "date": "2020-08-13",
+          "category": "accounting_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 655,
+          "legal_significance": "establishes_bantjies_long_term_control_of_financial_systems"
+        },
+        {
+          "event_id": "EVENT_H018",
+          "title": "Bantjies Sends Trial Balance Email to Bernadine Wright",
+          "date": "2020-08-13",
+          "category": "accounting_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 1038,
+          "legal_significance": "demonstrates_bantjies_control_of_financial_systems"
+        },
+        {
+          "event_id": "EVENT_D004",
+          "title": "False Payment Claim #1 to ReZonance",
+          "date": "2023-03-15",
+          "category": "fraud",
+          "financial_impact": "R470,000",
+          "evidence_files": 1088,
+          "legal_significance": "fraudulent_payment_claims_to_conceal_debt"
+        },
+        {
+          "event_id": "EVENT_D005",
+          "title": "False Payment Claim #2 to ReZonance",
+          "date": "2023-09-20",
+          "category": "fraud",
+          "financial_impact": "R765,361.34",
+          "evidence_files": 401,
+          "legal_significance": "systematic_fraud_pattern_escalation"
+        },
+        {
+          "event_id": "EVENT_054",
+          "title": "Chantal Delivers Letter About Kayla Estate Finalization",
+          "date": "2025-01-15",
+          "category": "estate_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 235,
+          "legal_significance": "continued_exploitation_of_deceased_victims_estate"
+        },
+        {
+          "event_id": "EVENT_028",
+          "title": "R5.2M SLG Stock Missing & Large Invoice",
+          "date": "2025-02-25",
+          "category": "transfer_pricing_fraud",
+          "financial_impact": "R5,200,000",
+          "evidence_files": 285,
+          "legal_significance": "systematic_asset_stripping_transfer_pricing_fraud"
+        },
+        {
+          "event_id": "EVENT_001",
+          "title": "RegimA SA Revenue Diversion Started",
+          "date": "2025-03-01",
+          "category": "revenue_theft",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 926,
+          "legal_significance": "initial_implementation_of_systematic_financial_fraud"
+        },
+        {
+          "event_id": "EVENT_024",
+          "title": "R5.4M Stock Disappears from Strategic Logistics",
+          "date": "2025-03-01",
+          "category": "transfer_pricing_fraud",
+          "financial_impact": "R5,400,000",
+          "evidence_files": 258,
+          "legal_significance": "largest_single_identifiable_theft_transfer_pricing_fraud"
+        },
+        {
+          "event_id": "EVENT_025",
+          "title": "R5.4M Stock Adjustment Processed Without Investigation",
+          "date": "2025-03-15",
+          "category": "accounting_fraud",
+          "financial_impact": "R5,400,000",
+          "evidence_files": 236,
+          "legal_significance": "accounting_fraud_breach_of_professional_duty"
+        },
+        {
+          "event_id": "EVENT_005",
+          "title": "Bank Account Change Letter for RegimA Worldwide",
+          "date": "2025-04-14",
+          "category": "revenue_theft",
+          "financial_impact": "R3,141,647.70",
+          "evidence_files": 396,
+          "legal_significance": "first_documented_act_in_coordinated_scheme"
+        },
+        {
+          "event_id": "EVENT_029",
+          "title": "Cloud IT Systems Removal Order",
+          "date": "2025-04-22",
+          "category": "infrastructure_seizure",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 465,
+          "legal_significance": "infrastructure_control_seizure"
+        },
+        {
+          "event_id": "EVENT_055",
+          "title": "Peter Orders Cloud IT Systems Removal",
+          "date": "2025-04-22",
+          "category": "evidence_tampering",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 1238,
+          "legal_significance": "evidence_tampering_preparation_obstruction_of_justice"
+        },
+        {
+          "event_id": "EVENT_056",
+          "title": "Server Missing from Office",
+          "date": "2025-04-30",
+          "category": "evidence_tampering",
+          "financial_impact": "N/A",
+          "evidence_files": 1319,
+          "legal_significance": "evidence_tampering_obstruction_of_justice"
+        },
+        {
+          "event_id": "EVENT_009",
+          "title": "Shopify Audit Trail Hijacking",
+          "date": "2025-05-22",
+          "category": "revenue_theft",
+          "financial_impact": "R1,000,000+ monthly",
+          "evidence_files": 2488,
+          "legal_significance": "consciousness_of_guilt_through_evidence_destruction"
+        },
+        {
+          "event_id": "EVENT_010",
+          "title": "Domain Registration (Identity Fraud)",
+          "date": "2025-05-29",
+          "category": "revenue_theft",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 709,
+          "legal_significance": "family_conspiracy_escalation_and_digital_impersonation"
+        },
+        {
+          "event_id": "EVENT_014",
+          "title": "Email Impersonation Pattern and Domain Switch Instruction",
+          "date": "2025-06-20",
+          "category": "revenue_theft",
+          "financial_impact": "R3,141,647.70",
+          "evidence_files": 1439,
+          "legal_significance": "pattern_of_impersonation_supporting_criminal_conspiracy_charges"
+        },
+        {
+          "event_id": "EVENT_027",
+          "title": "Domain Switch Email Instruction",
+          "date": "2025-06-20",
+          "category": "customer_hijacking",
+          "financial_impact": "unknown",
+          "evidence_files": 138,
+          "legal_significance": "active_customer_hijacking_and_revenue_diversion"
+        },
+        {
+          "event_id": "EVENT_016",
+          "title": "Warehouse POPI Violations",
+          "date": "2025-07-08",
+          "category": "revenue_theft",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 1992,
+          "legal_significance": "documented_evidence_of_systematic_business_destruction"
+        },
+        {
+          "event_id": "EVENT_060",
+          "title": "Peter Files Founding Affidavit with Material Non-Disclosures",
+          "date": "2025-08-13",
+          "category": "perjury",
+          "financial_impact": "N/A",
+          "evidence_files": 855,
+          "legal_significance": "perjury_material_non_disclosure_manufactured_crisis"
+        },
+        {
+          "event_id": "EVENT_063",
+          "title": "Gee Email Explaining Domain Switch Instruction",
+          "date": "2025-08-15",
+          "category": "revenue_theft",
+          "financial_impact": "unknown_amount",
+          "evidence_files": 506,
+          "legal_significance": "witness_testimony_confirming_customer_hijacking"
+        },
+        {
+          "event_id": "EVT-063",
+          "title": "Bantjes Email: R10M Decline and Computer Expense Analysis",
+          "date": "2025-06-10",
+          "category": "financial_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 1474,
+          "legal_significance": "N/A"
+        },
+        {
+          "event_id": "EVT-068",
+          "title": "Rynette Makes R1M+ Debt to ReZonance 'Disappear'",
+          "date": "2024",
+          "category": "financial_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 924,
+          "legal_significance": "N/A"
+        },
+        {
+          "event_id": "EVT-069",
+          "title": "Pete and Rynette Attempt Unauthorized Banking Changes",
+          "date": "2024-2025",
+          "category": "financial_fraud",
+          "financial_impact": "N/A",
+          "evidence_files": 572,
+          "legal_significance": "N/A"
+        }
+      ]
+    }
+  }
+}

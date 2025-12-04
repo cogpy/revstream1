@@ -11,6 +11,8 @@ This documentation repository provides comprehensive evidence and analysis of th
 
 **Critical Revelation:** The **Shopify platform** has been owned and paid for since **July 2023** by Daniel Faucitt's independent UK entity **RegimA Zone Ltd** (28+ months, R140K-R280K total investment). RWD ZA has no independent revenue stream—all revenues were generated through infrastructure owned, paid for, and operated by Daniel's UK company.
 
+**Latest Update:** December 4, 2025 - Enhanced with refined data models (Entities v24, Events v26) and comprehensive burden of proof analysis.
+
 ---
 
 ## Case Overview
@@ -19,15 +21,17 @@ This documentation repository provides comprehensive evidence and analysis of th
 |------------|-----------|
 | **Case Number** | 2025-137857 |
 | **Case Name** | Peter Faucitt v. Jacqueline Faucitt et al. |
-| **Period** | March 15, 2025 - August 20, 2025 |
-| **Duration** | 158 days of documented criminal activity |
-| **Total Events** | 77 |
-| **Events with Financial Impact** | 54 |
-| **Estimated Financial Impact** | R115,015,600 |
+| **Period** | March 15, 2025 - November 26, 2025 |
+| **Duration** | 256 days of documented activity |
+| **Total Events** | 77 (refined v26) |
+| **Total Entities** | 23 (refined v24) |
+| **Total Relations** | 70 (v20) |
+| **Events with Financial Impact** | 62 |
 | **Revenue Theft** | R3,141,647.70 |
 | **Trust Violations** | R2,851,247.35 |
 | **Financial Manipulation** | R4,276,832.85 |
 | **Total Documented Losses** | R10,269,727.90 |
+| **Evidence Files** | 2,866 files (226.78 MB) |
 
 ---
 
@@ -36,23 +40,26 @@ This documentation repository provides comprehensive evidence and analysis of th
 ### 📋 Core Documentation
 
 - **[Interactive Timeline](timeline.md)** - Comprehensive, chronological timeline of all 77 events with evidence references
-- **[Entity Profiles](entities/)** - Detailed profiles of 24 key persons and organizations
+- **[Entity Profiles](entities/)** - Detailed profiles of 23 key persons and organizations
 - **[Event Details](events/)** - Individual pages for each of the 77 timeline events
-- **[Evidence Index](evidence-index.md)** - Complete catalog of evidence files with cross-references
+- **[Evidence Index](evidence-index-enhanced.md)** - Complete catalog of 2,866 evidence files with cross-references
 
 ### ⚖️ Legal Filings & Analysis
 
+- **[Legal Filings Overview](LEGAL_FILINGS_IMPROVEMENTS_2025_12_04.md)** - Summary of all legal filings and improvements
 - **[Three Sequential Applications](applications.md)** - Comparative analysis of all three interdict applications
-- **[CIPC Complaint (Refined)](CIPC_COMPLAINT_REFINED_20251203.md)** - Enhanced CIPC complaint with evidence meeting 'Reasonable Grounds' standard
-- **[Criminal Complaint Summary](CRIMINAL_COMPLAINT_SUMMARY_20251203.md)** - Draft criminal complaint with events meeting 'Beyond Reasonable Doubt' standard
-- **[Burden of Proof Analysis](BURDEN_OF_PROOF_REPORT_2025_12_03.md)** - Analysis of evidence against legal standards for each filing type
-- **[Letter of Demand Refutation](letter-of-demand-refutation.md)** - Detailed refutation of Rynette Farrar's false denials
+- **[CIPC Complaint v3.0](CIPC_COMPLAINT_REFINED_2025_12_04.md)** - Enhanced CIPC complaint with 22 events meeting 'Reasonable Grounds' standard
+- **[POPIA Complaint](POPIA_COMPLAINT_REFINED_2025_11_28.md)** - POPIA criminal complaint with 64 events
+- **[Criminal Complaint](CRIMINAL_COMPLAINT_REFINED_2025_11_28.md)** - Criminal complaint with 23 events meeting 'Beyond Reasonable Doubt' standard
+- **[Burden of Proof Analysis](BURDEN_OF_PROOF_ENHANCED_2025_12_04.md)** - Enhanced analysis of evidence against legal standards
 
 ### 📊 Data Models & Analysis
 
-- **[Comprehensive Analysis Report](COMPREHENSIVE_ANALYSIS_REPORT_2025_12_03.md)** - Summary of entities, events, relations, and timelines
+- **[Refined Data Models Summary](REFINEMENT_ANALYSIS_REPORT_2025_12_04.json)** - Latest refinement analysis (Dec 4, 2025)
+- **[Entities v24](../data_models/entities/entities_refined_2025_12_04_v24.json)** - 23 entities with complete event linkage
+- **[Events v26](../data_models/events/events_refined_2025_12_04_v26.json)** - 77 events with comprehensive evidence
+- **[Relations v20](../data_models/relations/relations_refined_2025_11_28_v20.json)** - 70 relations across 22 types
 - **[Data Model Analysis](data-model-analysis.md)** - Technical analysis of the refined data models
-- **[Refined Data Models Summary](REFINED_DATA_MODELS_SUMMARY.md)** - Overview of the current data model versions
 
 ---
 
@@ -80,6 +87,7 @@ Two critical evidence destruction events demonstrating consciousness of guilt:
 
 - **May 22, 2025:** Shopify audit trail hijacking (platform destruction)
 - **August 20, 2025:** Financial evidence concealment (cover-up operations)
+- **September 15, 2025:** Evidence suppression pattern identified (EVENT_070) [NEW]
 
 ### 4. Family Conspiracy Elements
 
@@ -87,21 +95,24 @@ Multiple family members involved in coordinated criminal activity:
 
 - **Peter Faucitt:** Primary perpetrator (11 events)
 - **Rynette Farrar:** Co-conspirator (8 events)
-- **Addarory (Rynette's son):** Domain registration for identity fraud
+- **Adderory (Rynette's son):** Domain registration for identity fraud
 
 ---
 
-## Burden of Proof Analysis
+## Burden of Proof Analysis (Enhanced Dec 4, 2025)
 
 The evidence has been systematically analyzed against the legal standards for different filing types:
 
 | Filing Type | Standard | Events Meeting | Status |
 |-------------|----------|-----------------|--------|
 | **Civil Actions** | 50% Balance of Probabilities | 62 | ✓ Strong |
-| **Criminal Actions** | 95%+ Beyond Reasonable Doubt | 38 | ✓ Strong |
-| **CIPC Complaints** | Reasonable Grounds | 7 | ✓ Sufficient |
-| **Commercial Crime** | 95%+ Beyond Reasonable Doubt | 38 | ✓ Strong |
-| **NPA Tax Fraud** | 95%+ Beyond Reasonable Doubt | 19 | ✓ Sufficient |
+| **Criminal Actions** | 95%+ Beyond Reasonable Doubt | 23 | ✓ Sufficient |
+| **CIPC Complaints** | Reasonable Grounds (65%) | 22 | ✓ Sufficient |
+| **POPIA Complaints** | 95%+ Beyond Reasonable Doubt | 64 | ✓ Strong |
+| **Commercial Crime** | 95%+ Beyond Reasonable Doubt | 23 | ✓ Sufficient |
+| **NPA Tax Fraud** | 95%+ Beyond Reasonable Doubt | 10 | ✓ Sufficient |
+
+**Analysis File:** [BURDEN_OF_PROOF_ENHANCED_2025_12_04.json](../BURDEN_OF_PROOF_ENHANCED_2025_12_04.json)
 
 ---
 
@@ -135,7 +146,8 @@ The evidence has been systematically analyzed against the legal standards for di
 
 **Type:** Urgent application  
 **Target:** Jacqueline only (First Respondent)  
-**Hearing Date:** November 18, 2025
+**Hearing Date:** November 18, 2025  
+**Outcome:** Dismissed by court (November 25, 2025) [NEW - EVENT_074]
 
 **Relief Sought:**
 1. Contact ban with all business entities except through applicant's attorneys
@@ -153,7 +165,18 @@ For comprehensive evidence documentation, see the extended evidence repository a
 - **2,866 files** of supporting evidence
 - **226.78 MB** of documentation
 - Comprehensive evidence index in `COMPREHENSIVE_EVIDENCE_INDEX.md`
-- Organized annexures and case documentation
+- Organized annexures (JF01-JF13) and case documentation
+- Bank statements, financial records, correspondence, legal documents
+
+**Key Evidence Directories:**
+- **ANNEXURES/JF01/** - Trust documents
+- **ANNEXURES/JF02/** - Shopify operations
+- **ANNEXURES/JF03/** - POPIA violations
+- **ANNEXURES/JF04/** - Bank records
+- **ANNEXURES/JF05/** - Correspondence
+- **ANNEXURES/JF06/** - Legal documents
+- **ANNEXURES/JF07/** - Financial statements
+- **ANNEXURES/JF08/** - Evidence packages
 
 ---
 
@@ -167,6 +190,8 @@ For comprehensive evidence documentation, see the extended evidence repository a
 4. **Theft and Fraud** (Common Law)
 5. **Money Laundering** (FIC Act)
 6. **Trust Law Violations** (Trust Property Control Act)
+7. **Companies Act Violations** (Sections 76, 77, 22)
+8. **POPIA Violations** (Protection of Personal Information Act)
 
 ### Civil Remedies Available
 
@@ -175,6 +200,7 @@ For comprehensive evidence documentation, see the extended evidence repository a
 3. Trust asset recovery
 4. Constructive trust
 5. Account of profits
+6. Director delinquency declarations
 
 ---
 
@@ -182,12 +208,39 @@ For comprehensive evidence documentation, see the extended evidence repository a
 
 This case is supported by a robust and comprehensive data model:
 
-- **Entities:** 25 total (13 persons, 12 organizations)
-- **Events:** 77 total across 8+ phases
-- **Relations:** 70 total across 20+ relation types
-- **Timeline:** 6 versions with multiple phases
+- **Entities v24:** 23 total (12 persons, 11 organizations)
+- **Events v26:** 77 total across 8+ phases (2017-2025)
+- **Relations v20:** 70 total across 22 relation types
+- **Timeline Span:** 2017-01-01 to 2025-11-26
+- **Evidence Files:** 2,866 files in ad-res-j7 repository
 
 All data models have been refined and cross-referenced with evidence files in the ad-res-j7 repository.
+
+**Latest Refinements (Dec 4, 2025):**
+- Linked 5 orphaned events to entities (EVENT_070-074)
+- Enhanced burden of proof analysis for all filing types
+- Updated CIPC complaint to v3.0 with comprehensive evidence references
+- Verified all 77 events properly linked to entities
+
+---
+
+## Recent Updates
+
+### December 4, 2025
+- **Entities:** Updated to v24 (linked 5 orphaned events)
+- **Events:** Updated to v26 (verified all entity linkages)
+- **CIPC Complaint:** Enhanced to v3.0 with 22 events
+- **Burden of Proof:** Enhanced analysis for all filing types
+- **Legal Filings:** Comprehensive improvements summary created
+
+### November 28, 2025
+- Enhanced ad-res-j7 cross-references
+- Refined CIPC, POPIA, and Criminal complaints
+- Updated evidence index
+
+### November 25, 2025
+- Application 3 dismissed by court (EVENT_074 added)
+- Updated timeline and entity profiles
 
 ---
 
@@ -195,14 +248,23 @@ All data models have been refined and cross-referenced with evidence files in th
 
 **New to this case?** Start with the [Interactive Timeline](timeline.md) for a chronological overview, then explore individual [Entity Profiles](entities/) and [Event Details](events/) as needed.
 
-**Preparing legal filings?** Review the [Burden of Proof Analysis](BURDEN_OF_PROOF_REPORT_2025_12_03.md) and relevant [Legal Filings](#legal-filings--analysis) above.
+**Preparing legal filings?** Review the [Burden of Proof Analysis](BURDEN_OF_PROOF_ENHANCED_2025_12_04.md) and relevant [Legal Filings Overview](LEGAL_FILINGS_IMPROVEMENTS_2025_12_04.md) above.
 
-**Researching specific evidence?** Use the [Evidence Index](evidence-index.md) to locate files by category or search the extended repository at [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7).
+**Researching specific evidence?** Use the [Evidence Index](evidence-index-enhanced.md) to locate files by category or search the extended repository at [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7).
 
 ---
 
-**Repository:** [github.com/cogpy/revstream1](https://github.com/cogpy/revstream1)  
+## Repository Information
+
+**Main Repository:** [github.com/cogpy/revstream1](https://github.com/cogpy/revstream1)  
 **Extended Evidence:** [github.com/cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)  
+**GitHub Pages:** [cogpy.github.io/revstream1](https://cogpy.github.io/revstream1)
+
+**Data Models:**
+- Entities v24: `data_models/entities/entities_refined_2025_12_04_v24.json`
+- Events v26: `data_models/events/events_refined_2025_12_04_v26.json`
+- Relations v20: `data_models/relations/relations_refined_2025_11_28_v20.json`
+
 **License:** See LICENSE file for details
 
-**Last Updated:** December 3, 2025
+**Last Updated:** December 4, 2025
