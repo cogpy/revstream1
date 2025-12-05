@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "version": "7.2_EVIDENCE_BASED",
+    "created_date": "2025-12-05",
+    "description": "EVIDENCE-BASED: Relation model focusing solely on provable facts, removing assumptions about Peter's instructions to Rynette",
+    "case_number": "2025-137857",
+    "modeling_approach": "strict_evidence_based_no_assumptions",
+    "last_updated": "2025-12-05T16:15:00Z",
+    "critical_correction": "Peter does not use computer - no email instruction records. Sage screenshots show Rynette impersonating Peter. Focus on provable evidence only.",
+    "evidence_strategy": "Present provable facts and let Rynette explain to investigators"
+  },
+  "relations": {
+    "dual_director_conflict_relations": [
+      {
+        "relation_id": "REL_DDC_001",
+        "relation_type": "dual_director_conflict",
+        "source_entity": "PERSON_001",
+        "source_name": "Peter Andrew Faucitt",
+        "company_a": "ORG_003",
+        "company_a_name": "RegimA Skin Treatments (RST)",
+        "company_b": "ORG_014",
+        "company_b_name": "RegimA SA (Pty) Ltd",
+        "provable_facts": {
+          "Peter_director_RST": "CIPC_records",
+          "Peter_director_RegimA_SA": "CIPC_records",
+          "Peter_50_percent_shareholder_RST": "shareholding_records",
+          "RST_received_R10_269_727_90": "financial_records",
+          "RegimA_SA_lost_R10_269_727_90": "financial_records",
+          "revenue_diverted_from_RegimA_SA_to_RST": "bank_transfers"
+        },
+        "conflict_nature": "competing_interests_revenue_diversion_from_RegimA_SA_to_RST",
+        "legal_violation": "s75_Companies_Act_conflict_of_interest",
+        "disclosure_status": "no_evidence_of_disclosure",
+        "recusal_status": "no_evidence_of_recusal",
+        "evidence": [
+          "CIPC_director_records_both_companies",
+          "shareholding_records_RST",
+          "financial_records_showing_revenue_diversion",
+          "bank_transfer_records",
+          "board_minutes_if_available"
+        ],
+        "fiduciary_breach": {
+          "s75_violation": "failed_to_disclose_conflict_between_RST_and_RegimA_SA",
+          "s76_violation": "RegimA_SA_harmed_while_RST_benefited",
+          "s77_liability": "personal_liability_for_R10_269_727_90_harm_to_RegimA_SA"
+        },
+        "financial_impact": "R10,269,727.90_diverted_from_RegimA_SA_to_RST",
+        "burden_of_proof_met": "civil_50_percent_exceeded",
+        "note": "Focus on provable conflict and financial flows, not assumptions about knowledge or intent"
+      }
+    ],
+    "impersonation_and_fraud_relations": [
+      {
+        "relation_id": "REL_IMP_001",
+        "relation_type": "impersonation_and_fraud",
+        "perpetrator": "PERSON_002",
+        "perpetrator_name": "Rynette Farrar",
+        "impersonated_person": "PERSON_001",
+        "impersonated_person_name": "Peter Andrew Faucitt",
+        "provable_actions": {
+          "controlled_sage_system": "sage_screenshots",
+          "used_Pete@regima.com": "sage_screenshots_June_August_2025",
+          "Peter_does_not_use_computer": "factual_statement",
+          "submitted_fraudulent_records_for_RegimA_SA": "fraudulent_records",
+          "facilitated_R10_269_727_90_diversion": "financial_records"
+        },
+        "criminal_liability": {
+          "Rynette": "fraud_identity_fraud_theft_perpetrator",
+          "charges": ["fraud", "identity_fraud", "impersonation", "theft"]
+        },
+        "evidence_available": [
+          "Sage_screenshots_showing_Pete@regima.com_user_account",
+          "Peter_does_not_use_computer_fact",
+          "fraudulent_records_for_RegimA_SA",
+          "financial_records_showing_revenue_diversion",
+          "bank_transfer_records"
+        ],
+        "evidence_strength": "strong",
+        "burden_of_proof": {
+          "civil": "50%_exceeded",
+          "criminal": "95%_achievable"
+        },
+        "questions_for_rynette": [
+          "Why were you using Pete@regima.com?",
+          "Did Peter authorize you to use his email?",
+          "Who instructed you to submit fraudulent records?",
+          "Did you act alone or under instruction?",
+          "If instructed, who instructed you (Peter, Bantjies, other)?"
+        ],
+        "note": "Present Rynette's provable actions. Let her explain to investigators whether she was instructed or acted alone."
+      }
+    ],
+    "fiduciary_breach_relations": [
+      {
+        "relation_id": "REL_FB_001",
+        "relation_type": "fiduciary_breach",
+        "breaching_party": "PERSON_001",
+        "breaching_party_name": "Peter Andrew Faucitt",
+        "breaching_party_role": "Director",
+        "company_harmed": "ORG_014",
+        "company_harmed_name": "RegimA SA (Pty) Ltd",
+        "breach_type": "failed_to_protect_company_interests_while_other_company_benefited",
+        "legal_basis": "s76_Companies_Act_fiduciary_duties",
+        "provable_breach_elements": [
+          "Peter_director_of_RegimA_SA",
+          "Peter_director_and_50_percent_shareholder_of_RST",
+          "RegimA_SA_lost_R10_269_727_90",
+          "RST_received_R10_269_727_90",
+          "Peter_benefited_as_50_percent_shareholder_RST",
+          "no_evidence_Peter_protected_RegimA_SA_interests"
+        ],
+        "financial_harm": "R10,269,727.90",
+        "evidence": [
+          "financial_records_showing_revenue_diversion",
+          "bank_transfer_records",
+          "CIPC_director_records",
+          "shareholding_records_RST"
+        ],
+        "remedies": [
+          "s77_personal_liability_R10_269_727_90",
+          "s162_delinquent_director_declaration",
+          "damages_claim",
+          "accounting_for_profits"
+        ],
+        "evidence_strength": "strong",
+        "burden_of_proof_met": "civil_50_percent_exceeded",
+        "note": "Focus on provable financial harm and Peter's dual director status, not assumptions about knowledge"
+      }
+    ],
+    "directorship_relations": [
+      {
+        "relation_id": "REL_DIR_001",
+        "relation_type": "directorship",
+        "source_entity": "PERSON_001",
+        "source_name": "Peter Andrew Faucitt",
+        "target_entity": "ORG_003",
+        "target_entity_name": "RegimA Skin Treatments (RST) - Company A",
+        "role": "director_and_50_percent_shareholder",
+        "shareholding": "50%",
+        "fiduciary_duties_owed": "yes",
+        "evidence": ["CIPC_records", "shareholding_records"],
+        "financial_benefit": "50_percent_of_R10_269_727_90_received_by_RST"
+      },
+      {
+        "relation_id": "REL_DIR_002",
+        "relation_type": "directorship",
+        "source_entity": "PERSON_001",
+        "source_name": "Peter Andrew Faucitt",
+        "target_entity": "ORG_014",
+        "target_entity_name": "RegimA SA (Pty) Ltd - Company B",
+        "role": "director",
+        "fiduciary_duties_owed": "yes_BREACHED",
+        "evidence": ["CIPC_records", "director_appointment_records"],
+        "breach": "RegimA_SA_lost_R10_269_727_90_while_Peter_benefited_via_RST",
+        "note": "Peter breached fiduciary duties by failing to protect RegimA SA while benefiting from RST"
+      },
+      {
+        "relation_id": "REL_DIR_003",
+        "relation_type": "directorship",
+        "source_entity": "PERSON_005",
+        "source_name": "Daniel James Faucitt",
+        "target_entity": "ORG_014",
+        "target_entity_name": "RegimA SA (Pty) Ltd - Company B",
+        "role": "director",
+        "fiduciary_duties_owed": "yes",
+        "evidence": ["CIPC_records_if_available", "director_appointment_records", "email_d@rzo.io"],
+        "note": "Daniel is Director B - only pursue interdiction claim if evidence available"
+      }
+    ],
+    "sage_control_relations": [
+      {
+        "relation_id": "REL_SAGE_001",
+        "relation_type": "sage_system_control_and_impersonation",
+        "controller": "PERSON_002",
+        "controller_name": "Rynette Farrar",
+        "controlled_system": "Sage_Accounting_System",
+        "impersonated_email": "Pete@regima.com",
+        "impersonated_person": "PERSON_001_Peter_Faucitt",
+        "provable_facts": {
+          "Rynette_controlled_sage": "sage_screenshots",
+          "Rynette_used_Pete@regima.com": "sage_screenshots_June_August_2025",
+          "Peter_does_not_use_computer": "factual_statement",
+          "Rynette_impersonated_Peter": "logical_inference_from_above_facts"
+        },
+        "evidence": [
+          "Sage_subscription_screenshots",
+          "User_account_records_Pete@regima.com_and_rynette@regima.zone",
+          "Subscription_payment_records"
+        ],
+        "facilitates_fraud": "yes",
+        "legal_implications": "enables_fraudulent_records_submission_and_identity_fraud",
+        "questions_for_rynette": [
+          "Why were you using Pete@regima.com?",
+          "Did Peter authorize this?",
+          "Who instructed you to use Peter's email?"
+        ]
+      }
+    ],
+    "revenue_diversion_relations": [
+      {
+        "relation_id": "REL_RD_001",
+        "relation_type": "revenue_diversion",
+        "from_entity": "ORG_014",
+        "from_entity_name": "RegimA SA (Pty) Ltd - Company B (victim)",
+        "to_entity": "ORG_003",
+        "to_entity_name": "RegimA Skin Treatments (RST) - Company A (beneficiary)",
+        "mechanism": "fraudulent_records_submission_by_Rynette",
+        "perpetrator": "PERSON_002_Rynette",
+        "amount": "R10,269,727.90",
+        "provable_facts": {
+          "RegimA_SA_lost": "R10,269,727.90",
+          "RST_received": "R10,269,727.90",
+          "Rynette_submitted_fraudulent_records": "fraudulent_records",
+          "Rynette_controlled_sage": "sage_screenshots",
+          "Rynette_impersonated_Peter": "Pete@regima.com_usage"
+        },
+        "legal_violations": [
+          "fraud_by_Rynette",
+          "identity_fraud_by_Rynette",
+          "theft",
+          "s75_conflict_of_interest_by_Peter",
+          "s76_fiduciary_breach_by_Peter"
+        ],
+        "evidence": [
+          "financial_records",
+          "bank_transfers",
+          "fraudulent_records",
+          "Sage_system_screenshots"
+        ],
+        "note": "Focus on provable financial flows and Rynette's actions. Let Rynette explain who instructed her."
+      }
+    ]
+  },
+  "relation_type_definitions": {
+    "dual_director_conflict": "A director serving on boards of two companies where one company is harmed while the other benefits, creating s75 conflict of interest violations",
+    "impersonation_and_fraud": "A person impersonating another person to commit fraud, using their email account without authorization",
+    "fiduciary_breach": "Violation of fiduciary duties owed by a director to a company under s76 Companies Act, proven by financial harm while director benefited via other company",
+    "revenue_diversion": "Unlawful diversion of revenue from one company to another via fraudulent means"
+  },
+  "evidence_based_framework_summary": {
+    "provable_facts": {
+      "rynette": [
+        "Controlled Sage system (screenshots)",
+        "Used Pete@regima.com (screenshots)",
+        "Impersonated Peter (Peter doesn't use computer)",
+        "Submitted fraudulent records for RegimA SA",
+        "Facilitated R10,269,727.90 diversion"
+      ],
+      "peter": [
+        "Director of both RST and RegimA SA (CIPC)",
+        "50% shareholder of RST (shareholding records)",
+        "RST received R10,269,727.90 (financial records)",
+        "RegimA SA lost R10,269,727.90 (financial records)",
+        "Peter benefited as 50% shareholder of RST"
+      ],
+      "financial_flows": [
+        "R10,269,727.90 diverted from RegimA SA to RST (bank records)"
+      ]
+    },
+    "questions_for_rynette": [
+      "Why were you using Pete@regima.com?",
+      "Who instructed you to submit fraudulent records?",
+      "Did you act alone or under instruction?",
+      "If instructed, who instructed you?"
+    ],
+    "no_assumptions": [
+      "Do NOT assume Peter instructed Rynette",
+      "Do NOT assume Peter had knowledge",
+      "Do NOT assume conspiracy",
+      "Focus ONLY on provable facts"
+    ],
+    "peter_liability_based_on": [
+      "Dual director conflict of interest (s75)",
+      "Fiduciary breach - failed to protect RegimA SA while benefiting from RST (s76)",
+      "Personal liability for harm to RegimA SA (s77)",
+      "Delinquent director grounds - gross abuse of dual director position (s162)"
+    ],
+    "rynette_liability_based_on": [
+      "Fraud - submitted fraudulent records",
+      "Identity fraud - impersonated Peter using Pete@regima.com",
+      "Theft - facilitated R10,269,727.90 diversion",
+      "Let Rynette explain who instructed her (if anyone)"
+    ]
+  }
+}
