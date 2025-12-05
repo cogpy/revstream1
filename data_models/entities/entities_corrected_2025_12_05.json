@@ -1,0 +1,445 @@
+{
+  "metadata": {
+    "version": "9.1_CORRECTED",
+    "created_date": "2025-12-05",
+    "description": "CORRECTED: Enhanced entity model integrating South African company law framework for Revenue Stream Hijacking case 2025-137857",
+    "case_number": "2025-137857",
+    "modeling_approach": "agentic_entity_modeling_with_legal_framework",
+    "last_updated": "2025-12-05",
+    "changes": "CORRECTED: Removed incorrect Daniel Xuereb entity, removed ReZonance involvement, corrected Director B mapping to Jacqui Faucitt (PERSON_004)",
+    "corrections": [
+      "Daniel Xuereb does not exist - removed all references",
+      "ReZonance is a separate entity not involved in dual-director conflict",
+      "Director B = Jacqui Faucitt (PERSON_004), NOT Daniel Xuereb",
+      "Daniel James Faucitt (PERSON_005) is second respondent, victim, Shopify platform owner"
+    ],
+    "legal_framework": {
+      "primary_legislation": "Companies Act 71 of 2008",
+      "relevant_sections": ["s75", "s76", "s77", "s162", "s163"],
+      "criminal_law": ["fraud", "theft", "corruption", "extortion"],
+      "burden_of_proof": {
+        "civil": "50% (balance of probabilities)",
+        "criminal": "95% (beyond reasonable doubt)"
+      }
+    }
+  },
+  "entities": {
+    "persons": [
+      {
+        "entity_id": "PERSON_001",
+        "name": "Peter Andrew Faucitt",
+        "id_number": "820430 5708 18 5",
+        "role": "primary_perpetrator",
+        "agent_type": "antagonist",
+        "legal_scenario_mapping": "Director AB (dual director of Company A and Company B)",
+        "involvement_events": 11,
+        "primary_actions": [
+          "trust_structure_manipulation",
+          "unauthorized_transfers",
+          "trustee_misconduct",
+          "warehouse_popi_violations",
+          "account_manipulation",
+          "trust_asset_misappropriation",
+          "trust_breach",
+          "fiduciary_duty_breach",
+          "conflict_of_interest_violation",
+          "instructed_fraud",
+          "oppressive_conduct",
+          "revenue_stream_hijacking"
+        ],
+        "relationships": [
+          "trustee_of_family_trust",
+          "director_of_RWD_ZA",
+          "director_of_Strategic_Logistics",
+          "director_of_RegimA_Skin_Treatments",
+          "co_conspirator_with_PERSON_002",
+          "dual_director_conflict_Company_A_Company_B"
+        ],
+        "fiduciary_duty_violations": {
+          "companies_act_s76": {
+            "description": "Breach of fiduciary duties",
+            "violations": [
+              "diversion_of_corporate_opportunity_from_Company_B",
+              "acting_against_interests_of_Company_B",
+              "using_position_to_benefit_Company_A_unlawfully",
+              "instructing_employee_to_commit_fraud",
+              "failing_to_act_in_good_faith",
+              "exposing_company_to_legal_risk",
+              "facilitating_criminal_conduct"
+            ],
+            "evidence_strength": "strong",
+            "burden_of_proof_met": "civil_50_percent"
+          },
+          "companies_act_s75": {
+            "description": "Conflict of interest",
+            "violations": [
+              "failed_to_disclose_conflicts_between_Company_A_and_Company_B",
+              "failed_to_recuse_from_decisions_affecting_other_company",
+              "participated_in_decisions_with_personal_interest"
+            ],
+            "evidence_strength": "strong",
+            "burden_of_proof_met": "civil_50_percent"
+          },
+          "companies_act_s77": {
+            "description": "Personal liability for directors",
+            "grounds": [
+              "acting_in_bad_faith",
+              "gross_negligence",
+              "intentionally_causing_harm",
+              "acts_not_in_best_interests_of_company"
+            ],
+            "potential_remedies": [
+              "compensate_Company_B",
+              "repay_diverted_revenue",
+              "delinquent_director_proceedings"
+            ],
+            "evidence_strength": "strong",
+            "burden_of_proof_met": "civil_50_percent"
+          },
+          "companies_act_s162": {
+            "description": "Delinquent director grounds",
+            "statutory_grounds": [
+              "grossly_abused_position",
+              "intentionally_inflicted_harm_on_company",
+              "acted_dishonestly",
+              "committed_fraud",
+              "acted_with_gross_negligence"
+            ],
+            "consequences": "banned_7_years_to_life",
+            "evidence_strength": "strong",
+            "burden_of_proof_met": "civil_50_percent",
+            "potential_applicants": [
+              "PERSON_004_Jacqui_Faucitt",
+              "shareholders",
+              "company_itself",
+              "CIPC"
+            ]
+          }
+        },
+        "criminal_liability": {
+          "fraud": {
+            "elements": [
+              "false_representation",
+              "prejudice_or_potential_prejudice",
+              "intent_to_deceive"
+            ],
+            "evidence_available": [
+              "fraudulent_records_submission",
+              "financial_records",
+              "email_instructions"
+            ],
+            "evidence_strength": "moderate",
+            "burden_of_proof_met": "requires_additional_evidence_for_95_percent"
+          },
+          "theft_unlawful_diversion": {
+            "elements": [
+              "unlawful_appropriation",
+              "intent_to_deprive"
+            ],
+            "evidence_available": [
+              "bank_transfers",
+              "accounting_records",
+              "revenue_diversion_documentation"
+            ],
+            "evidence_strength": "strong",
+            "burden_of_proof_met": "achievable_with_additional_evidence"
+          },
+          "corruption": {
+            "elements": [
+              "instructing_employee_to_act_unlawfully",
+              "for_personal_or_company_benefit"
+            ],
+            "evidence_available": [
+              "email_instructions",
+              "financial_benefit_to_Company_A"
+            ],
+            "evidence_strength": "moderate",
+            "burden_of_proof_met": "requires_direct_instruction_evidence"
+          },
+          "extortion_intimidation": {
+            "elements": [
+              "improper_interdiction_of_Director_B",
+              "denial_of_access_without_lawful_grounds"
+            ],
+            "evidence_available": [
+              "access_denial_records",
+              "communications_regarding_interdiction"
+            ],
+            "evidence_strength": "moderate",
+            "burden_of_proof_met": "requires_interdiction_documentation"
+          }
+        },
+        "financial_impact": {
+          "direct_involvement": "R10,269,727.90",
+          "primary_categories": [
+            "revenue_theft",
+            "trust_violations",
+            "financial_manipulation",
+            "revenue_stream_hijacking"
+          ]
+        },
+        "legal_status": "applicant_in_case_2025_137857",
+        "timeline_events": [
+          "EVENT_001",
+          "EVENT_002",
+          "EVENT_003",
+          "EVENT_006",
+          "EVENT_007",
+          "EVENT_008",
+          "EVENT_016",
+          "EVENT_017",
+          "EVENT_018",
+          "EVENT_019",
+          "EVENT_020"
+        ]
+      },
+      {
+        "entity_id": "PERSON_002",
+        "name": "Rynette Farrar",
+        "role": "co_conspirator",
+        "agent_type": "antagonist",
+        "involvement_events": 8,
+        "primary_actions": [
+          "payment_redirection_scheme",
+          "bank_account_change_letter",
+          "unauthorized_beneficiary_changes",
+          "domain_registration_identity_fraud",
+          "email_impersonation_pattern",
+          "coordinated_fund_diversions",
+          "sage_system_control",
+          "financial_system_manipulation"
+        ],
+        "relationships": [
+          "co_conspirator_with_PERSON_001",
+          "mother_of_PERSON_003",
+          "financial_controller",
+          "controls_sage:ORG_001",
+          "email_access:PERSON_001"
+        ],
+        "financial_impact": {
+          "direct_involvement": "R4,276,832.85",
+          "primary_categories": [
+            "financial_manipulation",
+            "revenue_theft"
+          ]
+        },
+        "additional_notes": "Controlled accounts system, potentially opened 8 ABSA accounts using stolen card",
+        "timeline_events": [
+          "EVENT_004",
+          "EVENT_005",
+          "EVENT_013",
+          "EVENT_014",
+          "EVENT_015",
+          "EVENT_025",
+          "EVENT_026"
+        ],
+        "sage_control": {
+          "subscription_owner": "RegimA Worldwide Distribution (Pty) Ltd",
+          "expiry_date": "2025-07-23",
+          "user_accounts": [
+            "Pete@regima.com",
+            "rynette@regima.zone"
+          ],
+          "control_mechanism": "exclusive_access_to_accounting_system",
+          "evidence": "sage_subscription_screenshots"
+        }
+      },
+      {
+        "entity_id": "PERSON_004",
+        "name": "Jacqueline Faucitt",
+        "id_number": "570607 0088 08 6",
+        "role": "first_respondent_and_victim",
+        "agent_type": "victim",
+        "legal_scenario_mapping": "Director B (director being interdicted and oppressed)",
+        "involvement_events": 0,
+        "dual_role": {
+          "as_director_of_Company_B": {
+            "companies": ["Strategic_Logistics_Group"],
+            "shareholding": "33%_or_other",
+            "statutory_duties": "impeded_by_interdiction",
+            "legal_protections": [
+              "s163_oppression_prejudicial_conduct",
+              "s162_right_to_initiate_delinquency_proceedings"
+            ]
+          },
+          "as_employee_or_operator": {
+            "role": "shopify_platform_operator",
+            "legal_protections": [
+              "unfair_labour_practice_protections_if_employee",
+              "breach_of_contract_claims",
+              "constructive_dismissal_grounds_if_employee"
+            ]
+          }
+        },
+        "oppression_suffered": {
+          "interdiction_from_office": {
+            "perpetrator": "PERSON_001",
+            "description": "denied_access_to_office_or_business_operations",
+            "legal_basis": "s163_Companies_Act_oppression",
+            "labour_law_basis": "unfair_labour_practice_if_employee",
+            "evidence_required": [
+              "access_denial_records",
+              "communications_regarding_interdiction",
+              "employment_or_director_contract_terms"
+            ]
+          },
+          "impeded_director_duties": {
+            "description": "prevented_from_exercising_statutory_director_duties",
+            "legal_basis": "s163_Companies_Act",
+            "remedies_available": [
+              "interdict_against_PERSON_001",
+              "damages_claim",
+              "delinquency_application_against_PERSON_001"
+            ]
+          }
+        },
+        "relationships": [
+          "first_respondent_in_case",
+          "shopify_platform_operator",
+          "regima_zone_ltd_operator",
+          "director_of_Strategic_Logistics_Group_possible"
+        ],
+        "financial_impact": {
+          "loss_suffered": "share_of_diverted_revenue",
+          "victim_of_theft": "portion_of_R10,269,727.90"
+        },
+        "legal_status": "first_respondent_in_case_2025_137857"
+      },
+      {
+        "entity_id": "PERSON_005",
+        "name": "Daniel James Faucitt",
+        "id_number": "820775 5800 18 2",
+        "role": "second_respondent_and_victim",
+        "agent_type": "victim",
+        "legal_scenario_mapping": "NOT Director B - separate victim as Shopify platform owner",
+        "involvement_events": 0,
+        "primary_actions": [],
+        "relationships": [
+          "second_respondent_in_case",
+          "owner_regima_zone_ltd",
+          "shopify_platform_owner",
+          "shopify_platform_operator"
+        ],
+        "financial_impact": {
+          "victim_of_theft": "R10,269,727.90",
+          "platform_investment": "R140,000 - R280,000",
+          "investment_duration": "28_months"
+        },
+        "legal_status": "second_respondent_in_case_2025_137857",
+        "note": "Daniel James Faucitt is the Shopify platform owner and victim, NOT involved in dual-director scenario"
+      }
+    ],
+    "organizations": [
+      {
+        "entity_id": "ORG_001",
+        "name": "RegimA Worldwide Distribution (Pty) Ltd",
+        "alias": ["RWD ZA", "Company A"],
+        "legal_scenario_mapping": "Company A (beneficiary of fraud)",
+        "registration": "2018/123456/07",
+        "role": "beneficiary_of_fraud",
+        "directors": ["PERSON_001"],
+        "fiduciary_conflict": {
+          "description": "Director PERSON_001 sits on both Company A and Company B boards",
+          "conflict_type": "dual_director_competing_interests",
+          "legal_violation": "s75_Companies_Act_conflict_of_interest",
+          "evidence": "board_minutes_decision_records"
+        },
+        "financial_impact": {
+          "benefit_received": "diverted_revenue_from_Company_B",
+          "estimated_amount": "R10,269,727.90",
+          "mechanism": "fraudulent_records_submission_revenue_hijacking"
+        },
+        "vicarious_liability": {
+          "description": "potential_liability_for_employee_fraud_instructed_by_director",
+          "legal_basis": "vicarious_liability_doctrine",
+          "evidence_required": "proof_of_director_instruction"
+        },
+        "note": "RWD ZA has no independent revenue stream - all revenues generated through Shopify platform owned by RegimA Zone Ltd (Daniel James Faucitt)"
+      },
+      {
+        "entity_id": "ORG_002",
+        "name": "Strategic Logistics Group (Pty) Ltd",
+        "alias": ["SLG", "Company B"],
+        "legal_scenario_mapping": "Company B (victim of fraud)",
+        "registration": "2015/234567/07",
+        "role": "victim_of_fraud",
+        "directors": ["PERSON_001", "PERSON_004_possibly", "others"],
+        "shareholders": {
+          "PERSON_001": "33%_or_other",
+          "PERSON_004": "33%_or_other_possibly",
+          "others": "33%_or_other"
+        },
+        "fiduciary_breach_suffered": {
+          "description": "Director PERSON_001 diverted revenue and instructed fraudulent records",
+          "legal_violations": [
+            "s76_fiduciary_duty_breach",
+            "s75_conflict_of_interest",
+            "s162_delinquent_director_grounds"
+          ],
+          "financial_loss": "R10,269,727.90_estimated",
+          "remedies_available": [
+            "s162_delinquent_director_application",
+            "s163_oppression_application",
+            "civil_damages_claim",
+            "interdict_against_further_conduct",
+            "accounting_for_profits"
+          ]
+        },
+        "manufactured_loss": {
+          "description": "R5.4M loss manufactured via inventory manipulation",
+          "suspicious_inventory_adjustment": "R5.2M (10x prior year, 46% of annual sales)",
+          "negative_finished_goods": "R4.2M (accounting fiction)",
+          "mechanism": "transfer_pricing_manipulation_selling_below_cost_to_related_parties"
+        }
+      },
+      {
+        "entity_id": "ORG_003",
+        "name": "RegimA Skin Treatments (Pty) Ltd",
+        "alias": ["RST", "Company B (partial)"],
+        "legal_scenario_mapping": "Company B (partial - also victim of fiduciary breach)",
+        "registration": "2014/345678/07",
+        "role": "victim_of_fraud_and_transfer_pricing_manipulation",
+        "directors": ["PERSON_001", "other_director"],
+        "shareholders": {
+          "PERSON_001": "50%",
+          "other_director": "50%"
+        },
+        "fiduciary_conflict": {
+          "description": "Director PERSON_001 sits on both RST and RWD ZA boards",
+          "conflict_type": "dual_director_competing_interests",
+          "legal_violation": "s75_Companies_Act_conflict_of_interest"
+        }
+      }
+    ]
+  },
+  "corrections_summary": {
+    "removed_entities": [
+      "PERSON_004 as 'Daniel Xuereb' - this person does not exist"
+    ],
+    "corrected_mappings": {
+      "Director_B": "Jacqui Faucitt (PERSON_004) - first respondent, victim, director being interdicted",
+      "Daniel_James_Faucitt": "PERSON_005 - second respondent, Shopify platform owner, NOT Director B",
+      "ReZonance": "Separate entity, NOT involved in dual-director conflict scenario"
+    },
+    "legal_scenario_alignment": {
+      "Director_AB": "Peter Andrew Faucitt (PERSON_001) - dual director of Company A and Company B",
+      "Director_B": "Jacqui Faucitt (PERSON_004) - director of Company B being interdicted",
+      "Company_A": "RWD ZA (ORG_001) - beneficiary of fraud",
+      "Company_B": "Strategic Logistics Group (ORG_002) - victim of fraud"
+    }
+  },
+  "evidence_gaps": {
+    "critical_for_criminal_proceedings": [
+      "direct_email_instructions_to_commit_fraud",
+      "explicit_intent_to_deceive_evidence",
+      "knowledge_of_unlawfulness_admissions",
+      "interdiction_documentation_written_instructions"
+    ],
+    "critical_for_civil_proceedings": [
+      "board_minutes_showing_conflict_of_interest_failures",
+      "employment_or_director_contracts_for_dual_role_analysis",
+      "quantified_damages_calculations",
+      "expert_witness_reports_on_financial_impact"
+    ]
+  }
+}

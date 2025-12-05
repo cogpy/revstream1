@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "version": "7.1_FINAL_CORRECTED",
+    "created_date": "2025-12-05",
+    "description": "FINAL CORRECTED: Enhanced relation model integrating South African company law framework for Revenue Stream Hijacking case 2025-137857",
+    "case_number": "2025-137857",
+    "modeling_approach": "hypergraph_compatible_relations_with_legal_framework",
+    "last_updated": "2025-12-05T14:45:00Z",
+    "changes": "FINAL CORRECTIONS: Accurate legal scenario mapping verified",
+    "legal_scenario_mapping_verified": {
+      "Director_AB": "Peter Andrew Faucitt (PERSON_001)",
+      "Director_B": "Daniel James Faucitt (PERSON_005)",
+      "Company_A": "RegimA Skin Treatments (ORG_003)",
+      "Company_B": "RegimA SA (Pty) Ltd (ORG_014)",
+      "Employee": "Rynette Farrar (PERSON_002)"
+    }
+  },
+  "relations": {
+    "dual_director_conflict_relations": [
+      {
+        "relation_id": "REL_DDC_001",
+        "relation_type": "dual_director_conflict",
+        "source_entity": "PERSON_001",
+        "source_name": "Peter Andrew Faucitt",
+        "company_a": "ORG_003",
+        "company_a_name": "RegimA Skin Treatments (RST)",
+        "company_b": "ORG_014",
+        "company_b_name": "RegimA SA (Pty) Ltd",
+        "conflict_nature": "competing_interests_revenue_diversion_from_RegimA_SA_to_RST",
+        "legal_violation": "s75_Companies_Act_conflict_of_interest",
+        "disclosure_status": "not_disclosed",
+        "recusal_status": "failed_to_recuse",
+        "evidence": [
+          "board_minutes_showing_dual_decisions",
+          "financial_records_showing_revenue_diversion_from_RegimA_SA_to_RST",
+          "company_registration_records",
+          "director_appointment_records"
+        ],
+        "fiduciary_breach": {
+          "s75_violation": "failed_to_disclose_conflict_between_RST_and_RegimA_SA",
+          "s76_violation": "acted_against_interests_of_RegimA_SA_to_benefit_RST",
+          "s77_liability": "personal_liability_for_intentional_harm_to_RegimA_SA"
+        },
+        "financial_impact": "R10,269,727.90_diverted_from_RegimA_SA_to_RST",
+        "burden_of_proof_met": "civil_50_percent_exceeded"
+      }
+    ],
+    "instructed_fraud_chain_relations": [
+      {
+        "relation_id": "REL_IFC_001",
+        "relation_type": "instructed_fraud_chain",
+        "instructor": "PERSON_001",
+        "instructor_name": "Peter Andrew Faucitt",
+        "instructor_role": "Director of Company A (RST) and Company B (RegimA SA)",
+        "employee": "PERSON_002",
+        "employee_name": "Rynette Farrar",
+        "instruction_type": "submit_fraudulent_records_for_RegimA_SA",
+        "purpose": "hijack_revenue_from_RegimA_SA_to_RST",
+        "criminal_liability": {
+          "instructor": "perpetrator_or_accomplice",
+          "employee": "perpetrator_under_instruction",
+          "charges": ["fraud", "corruption", "theft"]
+        },
+        "fiduciary_breach": {
+          "s76_violation": "instructing_fraud_acting_against_RegimA_SA_interests",
+          "s77_liability": "personal_liability_for_intentional_harm"
+        },
+        "evidence_required": [
+          "email_instructions_from_Peter_to_Rynette",
+          "fraudulent_records_themselves",
+          "Rynette_testimony_or_statements",
+          "financial_benefit_to_RST",
+          "Sage_system_access_logs"
+        ],
+        "evidence_strength": "strong_if_instruction_emails_available",
+        "burden_of_proof": {
+          "civil": "50%_achievable",
+          "criminal": "95%_achievable_with_instruction_evidence"
+        }
+      }
+    ],
+    "oppression_relations": [
+      {
+        "relation_id": "REL_OPP_001",
+        "relation_type": "oppression_s163",
+        "perpetrator": "PERSON_001",
+        "perpetrator_name": "Peter Andrew Faucitt",
+        "victim": "PERSON_005",
+        "victim_name": "Daniel James Faucitt",
+        "oppression_type": "interdiction_from_office",
+        "description": "denied_access_to_office_preventing_Daniel_from_exercising_director_duties_for_RegimA_SA",
+        "legal_basis": "s163_Companies_Act_oppression_prejudicial_conduct",
+        "evidence_required": [
+          "access_denial_records",
+          "communications_regarding_interdiction_of_Daniel",
+          "director_appointment_records_for_Daniel_at_RegimA_SA",
+          "witness_statements"
+        ],
+        "remedies_available": [
+          "interdict_against_Peter",
+          "damages_claim_for_Daniel",
+          "s162_delinquency_application_against_Peter",
+          "s163_oppression_application"
+        ],
+        "evidence_strength": "moderate_requires_interdiction_documentation",
+        "burden_of_proof_met": "civil_50_percent_achievable"
+      }
+    ],
+    "fiduciary_breach_relations": [
+      {
+        "relation_id": "REL_FB_001",
+        "relation_type": "fiduciary_breach",
+        "breaching_party": "PERSON_001",
+        "breaching_party_name": "Peter Andrew Faucitt",
+        "breaching_party_role": "Director",
+        "company_harmed": "ORG_014",
+        "company_harmed_name": "RegimA SA (Pty) Ltd",
+        "breach_type": "diversion_of_corporate_opportunity_and_revenue",
+        "legal_basis": "s76_Companies_Act_fiduciary_duties",
+        "breach_elements": [
+          "acted_against_interests_of_RegimA_SA",
+          "diverted_revenue_to_RST",
+          "used_position_for_unlawful_benefit_of_RST",
+          "failed_to_act_in_good_faith_toward_RegimA_SA",
+          "instructed_Rynette_to_submit_fraudulent_records"
+        ],
+        "financial_harm": "R10,269,727.90_estimated",
+        "evidence": [
+          "financial_records_showing_revenue_diversion_from_RegimA_SA_to_RST",
+          "Sage_accounting_system_manipulation_by_Rynette",
+          "bank_transfer_records",
+          "fraudulent_records_submitted_for_RegimA_SA"
+        ],
+        "remedies": [
+          "s77_personal_liability",
+          "s162_delinquent_director_declaration",
+          "damages_claim",
+          "accounting_for_profits"
+        ],
+        "evidence_strength": "strong",
+        "burden_of_proof_met": "civil_50_percent_exceeded"
+      }
+    ],
+    "co_conspirator_relations": [
+      {
+        "relation_id": "REL_CC_001",
+        "relation_type": "co_conspirator",
+        "source_entity": "PERSON_001",
+        "source_name": "Peter Andrew Faucitt",
+        "target_entity": "PERSON_002",
+        "target_name": "Rynette Farrar",
+        "conspiracy_type": "coordinated_revenue_hijacking_from_RegimA_SA_to_RST",
+        "coordination_mechanisms": [
+          "Peter_instructs_Rynette_to_submit_fraudulent_records",
+          "Rynette_controls_Sage_accounting_system",
+          "Rynette_has_email_access_Pete@regima.com",
+          "bank_account_manipulation",
+          "payment_redirection_coordination"
+        ],
+        "evidence": [
+          "Sage_subscription_control_by_Rynette",
+          "email_access_patterns_Pete@regima.com",
+          "coordinated_bank_transfers",
+          "payment_redirection_letters",
+          "fraudulent_records_for_RegimA_SA"
+        ],
+        "financial_impact": "R14,546,560.75_combined",
+        "legal_basis": "joint_and_several_liability"
+      }
+    ],
+    "directorship_relations": [
+      {
+        "relation_id": "REL_DIR_001",
+        "relation_type": "directorship",
+        "source_entity": "PERSON_001",
+        "source_name": "Peter Andrew Faucitt",
+        "target_entity": "ORG_003",
+        "target_entity_name": "RegimA Skin Treatments (RST) - Company A",
+        "role": "director_and_shareholder",
+        "shareholding": "50%",
+        "fiduciary_duties_owed": "yes",
+        "evidence": ["company_registration", "CIPC_records", "shareholding_records"]
+      },
+      {
+        "relation_id": "REL_DIR_002",
+        "relation_type": "directorship",
+        "source_entity": "PERSON_001",
+        "source_name": "Peter Andrew Faucitt",
+        "target_entity": "ORG_014",
+        "target_entity_name": "RegimA SA (Pty) Ltd - Company B",
+        "role": "director",
+        "fiduciary_duties_owed": "yes_BREACHED",
+        "evidence": ["company_registration", "CIPC_records", "director_appointment_records"],
+        "note": "Peter breached fiduciary duties to RegimA SA by diverting revenue to RST"
+      },
+      {
+        "relation_id": "REL_DIR_003",
+        "relation_type": "directorship",
+        "source_entity": "PERSON_005",
+        "source_name": "Daniel James Faucitt",
+        "target_entity": "ORG_014",
+        "target_entity_name": "RegimA SA (Pty) Ltd - Company B",
+        "role": "director",
+        "fiduciary_duties_owed": "yes",
+        "evidence": ["company_registration", "CIPC_records", "director_appointment_records", "email_d@rzo.io"],
+        "note": "Daniel is Director B - interdicted by Peter from exercising director duties"
+      }
+    ],
+    "control_relations": [
+      {
+        "relation_id": "REL_CTRL_001",
+        "relation_type": "financial_system_control",
+        "controller": "PERSON_002",
+        "controller_name": "Rynette Farrar",
+        "controlled_system": "Sage_Accounting_System",
+        "controlled_companies": ["ORG_001", "ORG_002", "ORG_003", "ORG_014"],
+        "control_mechanism": "exclusive_subscription_ownership_and_user_access",
+        "evidence": [
+          "Sage_subscription_screenshots",
+          "user_account_records_Pete@regima.com_and_rynette@regima.zone",
+          "subscription_payment_records"
+        ],
+        "facilitates_fraud": "yes",
+        "legal_implications": "enables_fraudulent_records_submission_for_RegimA_SA_and_revenue_diversion_to_RST"
+      }
+    ],
+    "revenue_diversion_relations": [
+      {
+        "relation_id": "REL_RD_001",
+        "relation_type": "revenue_diversion",
+        "from_entity": "ORG_014",
+        "from_entity_name": "RegimA SA (Pty) Ltd - Company B (victim)",
+        "to_entity": "ORG_003",
+        "to_entity_name": "RegimA Skin Treatments (RST) - Company A (beneficiary)",
+        "mechanism": "fraudulent_records_submission_by_Rynette_instructed_by_Peter",
+        "perpetrators": ["PERSON_001_Peter", "PERSON_002_Rynette"],
+        "amount": "R10,269,727.90_estimated",
+        "legal_violations": [
+          "s75_conflict_of_interest",
+          "s76_fiduciary_breach",
+          "fraud",
+          "theft",
+          "corruption"
+        ],
+        "evidence": [
+          "financial_records",
+          "bank_transfers",
+          "fraudulent_records",
+          "Sage_system_logs"
+        ]
+      }
+    ]
+  },
+  "relation_type_definitions": {
+    "dual_director_conflict": "A director serving on boards of two companies with competing interests, creating s75 conflict of interest violations",
+    "instructed_fraud_chain": "A director instructing an employee to commit fraud, establishing criminal liability chain",
+    "oppression_s163": "Conduct by a director that is oppressive or unfairly prejudicial to other directors, violating s163 Companies Act",
+    "fiduciary_breach": "Violation of fiduciary duties owed by a director to a company under s76 Companies Act",
+    "co_conspirator": "Parties coordinating to commit fraud or other unlawful acts",
+    "revenue_diversion": "Unlawful diversion of revenue from one company to another via fraudulent means"
+  },
+  "legal_framework_summary": {
+    "instructed_fraud_chain": "Peter (Director AB) → instructs → Rynette (employee) → submits fraudulent records for RegimA SA (Company B) → hijacks revenue to RST (Company A)",
+    "dual_director_conflict": "Peter sits on boards of both RST (Company A) and RegimA SA (Company B), failed to disclose conflict, acted against RegimA SA interests",
+    "oppression": "Peter interdicted Daniel (Director B) from office access, preventing Daniel from exercising director duties for RegimA SA",
+    "criminal_liability": {
+      "Peter": "fraud, corruption, theft (instructor/perpetrator)",
+      "Rynette": "fraud, corruption, theft (perpetrator under instruction)"
+    },
+    "civil_liability": {
+      "Peter": "s75 conflict of interest, s76 fiduciary breach, s77 personal liability, s162 delinquent director, s163 oppression",
+      "remedies": "interdict, damages, accounting for profits, delinquency declaration"
+    }
+  }
+}

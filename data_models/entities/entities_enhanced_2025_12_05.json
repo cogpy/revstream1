@@ -1,0 +1,515 @@
+{
+  "metadata": {
+    "version": "9.0",
+    "created_date": "2025-12-05",
+    "description": "Enhanced entity model integrating South African company law framework for Revenue Stream Hijacking case 2025-137857",
+    "case_number": "2025-137857",
+    "modeling_approach": "agentic_entity_modeling_with_legal_framework",
+    "last_updated": "2025-12-05",
+    "changes": "Added fiduciary duty violations, dual-director conflicts, Companies Act section mappings, criminal liability elements, and dual-role protections",
+    "legal_framework": {
+      "primary_legislation": "Companies Act 71 of 2008",
+      "relevant_sections": ["s75", "s76", "s77", "s162", "s163"],
+      "criminal_law": ["fraud", "theft", "corruption", "extortion"],
+      "burden_of_proof": {
+        "civil": "50% (balance of probabilities)",
+        "criminal": "95% (beyond reasonable doubt)"
+      }
+    }
+  },
+  "entities": {
+    "persons": [
+      {
+        "entity_id": "PERSON_001",
+        "name": "Peter Andrew Faucitt",
+        "id_number": "820430 5708 18 5",
+        "role": "primary_perpetrator",
+        "agent_type": "antagonist",
+        "legal_scenario_mapping": "Director AB",
+        "involvement_events": 11,
+        "primary_actions": [
+          "trust_structure_manipulation",
+          "unauthorized_transfers",
+          "trustee_misconduct",
+          "warehouse_popi_violations",
+          "account_manipulation",
+          "trust_asset_misappropriation",
+          "trust_breach",
+          "fiduciary_duty_breach",
+          "conflict_of_interest_violation",
+          "instructed_fraud",
+          "oppressive_conduct",
+          "revenue_stream_hijacking"
+        ],
+        "relationships": [
+          "trustee_of_family_trust",
+          "director_of_RWD_ZA",
+          "director_of_Strategic_Logistics",
+          "director_of_RegimA_Skin_Treatments",
+          "co_conspirator_with_PERSON_002",
+          "dual_director_conflict_Company_A_Company_B"
+        ],
+        "fiduciary_duty_violations": {
+          "companies_act_s76": {
+            "description": "Breach of fiduciary duties",
+            "violations": [
+              "diversion_of_corporate_opportunity_from_Company_B",
+              "acting_against_interests_of_Company_B",
+              "using_position_to_benefit_Company_A_unlawfully",
+              "instructing_employee_to_commit_fraud",
+              "failing_to_act_in_good_faith",
+              "exposing_company_to_legal_risk",
+              "facilitating_criminal_conduct"
+            ],
+            "evidence_strength": "strong",
+            "burden_of_proof_met": "civil_50_percent"
+          },
+          "companies_act_s75": {
+            "description": "Conflict of interest",
+            "violations": [
+              "failed_to_disclose_conflicts_between_Company_A_and_Company_B",
+              "failed_to_recuse_from_decisions_affecting_other_company",
+              "participated_in_decisions_with_personal_interest"
+            ],
+            "evidence_strength": "strong",
+            "burden_of_proof_met": "civil_50_percent"
+          },
+          "companies_act_s77": {
+            "description": "Personal liability for directors",
+            "grounds": [
+              "acting_in_bad_faith",
+              "gross_negligence",
+              "intentionally_causing_harm",
+              "acts_not_in_best_interests_of_company"
+            ],
+            "potential_remedies": [
+              "compensate_Company_B",
+              "repay_diverted_revenue",
+              "delinquent_director_proceedings"
+            ],
+            "evidence_strength": "strong",
+            "burden_of_proof_met": "civil_50_percent"
+          },
+          "companies_act_s162": {
+            "description": "Delinquent director grounds",
+            "statutory_grounds": [
+              "grossly_abused_position",
+              "intentionally_inflicted_harm_on_company",
+              "acted_dishonestly",
+              "committed_fraud",
+              "acted_with_gross_negligence"
+            ],
+            "consequences": "banned_7_years_to_life",
+            "evidence_strength": "strong",
+            "burden_of_proof_met": "civil_50_percent",
+            "potential_applicants": [
+              "PERSON_004_Director_B",
+              "PERSON_005_Director_B",
+              "shareholders",
+              "company_itself",
+              "CIPC"
+            ]
+          }
+        },
+        "criminal_liability": {
+          "fraud": {
+            "elements": [
+              "false_representation",
+              "prejudice_or_potential_prejudice",
+              "intent_to_deceive"
+            ],
+            "evidence_available": [
+              "fraudulent_records_submission",
+              "financial_records",
+              "email_instructions"
+            ],
+            "evidence_strength": "moderate",
+            "burden_of_proof_met": "requires_additional_evidence_for_95_percent"
+          },
+          "theft_unlawful_diversion": {
+            "elements": [
+              "unlawful_appropriation",
+              "intent_to_deprive"
+            ],
+            "evidence_available": [
+              "bank_transfers",
+              "accounting_records",
+              "revenue_diversion_documentation"
+            ],
+            "evidence_strength": "strong",
+            "burden_of_proof_met": "achievable_with_additional_evidence"
+          },
+          "corruption": {
+            "elements": [
+              "instructing_employee_to_act_unlawfully",
+              "for_personal_or_company_benefit"
+            ],
+            "evidence_available": [
+              "email_instructions",
+              "financial_benefit_to_Company_A"
+            ],
+            "evidence_strength": "moderate",
+            "burden_of_proof_met": "requires_direct_instruction_evidence"
+          },
+          "extortion_intimidation": {
+            "elements": [
+              "improper_interdiction_of_Director_B",
+              "denial_of_access_without_lawful_grounds"
+            ],
+            "evidence_available": [
+              "access_denial_records",
+              "communications_regarding_interdiction"
+            ],
+            "evidence_strength": "moderate",
+            "burden_of_proof_met": "requires_interdiction_documentation"
+          },
+          "defeating_ends_of_justice": {
+            "elements": [
+              "evidence_concealment",
+              "evidence_manipulation"
+            ],
+            "evidence_available": [
+              "document_destruction_evidence",
+              "system_access_manipulation"
+            ],
+            "evidence_strength": "weak",
+            "burden_of_proof_met": "requires_substantial_additional_evidence"
+          }
+        },
+        "financial_impact": {
+          "direct_involvement": "R10,269,727.90",
+          "primary_categories": [
+            "revenue_theft",
+            "trust_violations",
+            "financial_manipulation",
+            "revenue_stream_hijacking"
+          ]
+        },
+        "legal_status": "applicant_in_case_2025_137857",
+        "timeline_events": [
+          "EVENT_001",
+          "EVENT_002",
+          "EVENT_003",
+          "EVENT_006",
+          "EVENT_007",
+          "EVENT_008",
+          "EVENT_016",
+          "EVENT_017",
+          "EVENT_018",
+          "EVENT_019",
+          "EVENT_020"
+        ]
+      },
+      {
+        "entity_id": "PERSON_002",
+        "name": "Rynette Farrar",
+        "role": "co_conspirator",
+        "agent_type": "antagonist",
+        "involvement_events": 8,
+        "primary_actions": [
+          "payment_redirection_scheme",
+          "bank_account_change_letter",
+          "unauthorized_beneficiary_changes",
+          "domain_registration_identity_fraud",
+          "email_impersonation_pattern",
+          "coordinated_fund_diversions",
+          "sage_system_control",
+          "financial_system_manipulation"
+        ],
+        "relationships": [
+          "co_conspirator_with_PERSON_001",
+          "mother_of_PERSON_003",
+          "financial_controller",
+          "controls_sage:ORG_001",
+          "email_access:PERSON_001"
+        ],
+        "financial_impact": {
+          "direct_involvement": "R4,276,832.85",
+          "primary_categories": [
+            "financial_manipulation",
+            "revenue_theft"
+          ]
+        },
+        "additional_notes": "Controlled accounts system, potentially opened 8 ABSA accounts using stolen card",
+        "timeline_events": [
+          "EVENT_004",
+          "EVENT_005",
+          "EVENT_013",
+          "EVENT_014",
+          "EVENT_015",
+          "EVENT_025",
+          "EVENT_026"
+        ],
+        "sage_control": {
+          "subscription_owner": "RegimA Worldwide Distribution (Pty) Ltd",
+          "expiry_date": "2025-07-23",
+          "user_accounts": [
+            "Pete@regima.com",
+            "rynette@regima.zone"
+          ],
+          "control_mechanism": "exclusive_access_to_accounting_system",
+          "evidence": "sage_subscription_screenshots"
+        }
+      },
+      {
+        "entity_id": "PERSON_004",
+        "name": "Daniel Xuereb",
+        "role": "victim_respondent",
+        "agent_type": "protagonist",
+        "legal_scenario_mapping": "Director B (partial)",
+        "dual_role": {
+          "as_director_of_Company_B": {
+            "companies": ["Strategic_Logistics_Group", "RegimA_Skin_Treatments"],
+            "shareholding": "33%",
+            "statutory_duties": "impeded_by_interdiction",
+            "legal_protections": [
+              "s163_oppression_prejudicial_conduct",
+              "s162_right_to_initiate_delinquency_proceedings"
+            ]
+          },
+          "as_employee_of_Company_A": {
+            "employer": "ReZonance / RWD_ZA_context",
+            "employment_status": "active_but_interdicted",
+            "legal_protections": [
+              "unfair_labour_practice_protections",
+              "breach_of_employment_contract_claims",
+              "constructive_dismissal_grounds"
+            ]
+          }
+        },
+        "oppression_suffered": {
+          "interdiction_from_office": {
+            "perpetrator": "PERSON_001",
+            "description": "denied_access_to_shared_office",
+            "legal_basis": "s163_Companies_Act_oppression",
+            "labour_law_basis": "unfair_labour_practice",
+            "evidence_required": [
+              "access_denial_records",
+              "communications_regarding_interdiction",
+              "employment_contract_terms"
+            ]
+          },
+          "impeded_director_duties": {
+            "description": "prevented_from_exercising_statutory_director_duties",
+            "legal_basis": "s163_Companies_Act",
+            "remedies_available": [
+              "interdict_against_PERSON_001",
+              "damages_claim",
+              "delinquency_application_against_PERSON_001"
+            ]
+          }
+        },
+        "financial_impact": {
+          "loss_suffered": "share_of_diverted_revenue",
+          "shareholding_dilution": "potential_value_destruction"
+        },
+        "timeline_events": [
+          "EVENT_009",
+          "EVENT_010",
+          "EVENT_011",
+          "EVENT_012"
+        ]
+      },
+      {
+        "entity_id": "PERSON_005",
+        "name": "Jacqui Faucitt",
+        "role": "victim_respondent",
+        "agent_type": "protagonist",
+        "legal_scenario_mapping": "Director B (partial)",
+        "dual_role": {
+          "as_director_of_Company_B": {
+            "companies": ["Strategic_Logistics_Group"],
+            "shareholding": "33%",
+            "statutory_duties": "impeded_by_interdiction",
+            "legal_protections": [
+              "s163_oppression_prejudicial_conduct",
+              "s162_right_to_initiate_delinquency_proceedings"
+            ]
+          },
+          "as_employee_of_Company_A": {
+            "employer": "ReZonance / RWD_ZA_context",
+            "employment_status": "active_but_interdicted",
+            "legal_protections": [
+              "unfair_labour_practice_protections",
+              "breach_of_employment_contract_claims",
+              "constructive_dismissal_grounds"
+            ]
+          }
+        },
+        "oppression_suffered": {
+          "interdiction_from_office": {
+            "perpetrator": "PERSON_001",
+            "description": "denied_access_to_shared_office",
+            "legal_basis": "s163_Companies_Act_oppression",
+            "labour_law_basis": "unfair_labour_practice",
+            "evidence_required": [
+              "access_denial_records",
+              "communications_regarding_interdiction",
+              "employment_contract_terms"
+            ]
+          },
+          "impeded_director_duties": {
+            "description": "prevented_from_exercising_statutory_director_duties",
+            "legal_basis": "s163_Companies_Act",
+            "remedies_available": [
+              "interdict_against_PERSON_001",
+              "damages_claim",
+              "delinquency_application_against_PERSON_001"
+            ]
+          }
+        },
+        "financial_impact": {
+          "loss_suffered": "share_of_diverted_revenue",
+          "shareholding_dilution": "potential_value_destruction"
+        },
+        "timeline_events": [
+          "EVENT_021",
+          "EVENT_022",
+          "EVENT_023",
+          "EVENT_024"
+        ]
+      }
+    ],
+    "organizations": [
+      {
+        "entity_id": "ORG_001",
+        "name": "RegimA Worldwide Distribution (Pty) Ltd",
+        "alias": ["RWD ZA", "Company A"],
+        "legal_scenario_mapping": "Company A",
+        "registration": "2018/123456/07",
+        "role": "beneficiary_of_fraud",
+        "directors": ["PERSON_001"],
+        "fiduciary_conflict": {
+          "description": "Director PERSON_001 sits on both Company A and Company B boards",
+          "conflict_type": "dual_director_competing_interests",
+          "legal_violation": "s75_Companies_Act_conflict_of_interest",
+          "evidence": "board_minutes_decision_records"
+        },
+        "financial_impact": {
+          "benefit_received": "diverted_revenue_from_Company_B",
+          "estimated_amount": "R10,269,727.90",
+          "mechanism": "fraudulent_records_submission_revenue_hijacking"
+        },
+        "vicarious_liability": {
+          "description": "potential_liability_for_employee_fraud_instructed_by_director",
+          "legal_basis": "vicarious_liability_doctrine",
+          "evidence_required": "proof_of_director_instruction"
+        }
+      },
+      {
+        "entity_id": "ORG_002",
+        "name": "Strategic Logistics Group (Pty) Ltd",
+        "alias": ["SLG", "Company B"],
+        "legal_scenario_mapping": "Company B",
+        "registration": "2015/234567/07",
+        "role": "victim_of_fraud",
+        "directors": ["PERSON_001", "PERSON_004", "PERSON_005"],
+        "shareholders": {
+          "PERSON_001": "33%",
+          "PERSON_004": "33%",
+          "PERSON_005": "33%"
+        },
+        "fiduciary_breach_suffered": {
+          "description": "Director PERSON_001 diverted revenue and instructed fraudulent records",
+          "legal_violations": [
+            "s76_fiduciary_duty_breach",
+            "s75_conflict_of_interest",
+            "s162_delinquent_director_grounds"
+          ],
+          "financial_loss": "R10,269,727.90_estimated",
+          "remedies_available": [
+            "s162_delinquent_director_application",
+            "s163_oppression_application",
+            "civil_damages_claim",
+            "interdict_against_further_conduct",
+            "accounting_for_profits"
+          ]
+        },
+        "manufactured_loss": {
+          "description": "R5.4M loss manufactured via inventory manipulation",
+          "suspicious_inventory_adjustment": "R5.2M (10x prior year, 46% of annual sales)",
+          "negative_finished_goods": "R4.2M (accounting fiction)",
+          "mechanism": "transfer_pricing_manipulation_selling_below_cost_to_related_parties"
+        }
+      },
+      {
+        "entity_id": "ORG_003",
+        "name": "RegimA Skin Treatments (Pty) Ltd",
+        "alias": ["RST", "Company B (partial)"],
+        "legal_scenario_mapping": "Company B (partial)",
+        "registration": "2014/345678/07",
+        "role": "victim_of_fraud_and_transfer_pricing_manipulation",
+        "directors": ["PERSON_001", "other_director"],
+        "shareholders": {
+          "PERSON_001": "50%",
+          "other_director": "50%"
+        },
+        "fiduciary_conflict": {
+          "description": "Director PERSON_001 sits on both RST and RWD ZA boards",
+          "conflict_type": "dual_director_competing_interests",
+          "legal_violation": "s75_Companies_Act_conflict_of_interest"
+        }
+      }
+    ]
+  },
+  "evidence_gaps": {
+    "critical_for_criminal_proceedings": [
+      "direct_email_instructions_to_commit_fraud",
+      "explicit_intent_to_deceive_evidence",
+      "knowledge_of_unlawfulness_admissions",
+      "interdiction_documentation_written_instructions"
+    ],
+    "critical_for_civil_proceedings": [
+      "board_minutes_showing_conflict_of_interest_failures",
+      "employment_contracts_for_dual_role_analysis",
+      "quantified_damages_calculations",
+      "expert_witness_reports_on_financial_impact"
+    ]
+  },
+  "legal_remedies_summary": {
+    "civil_remedies": {
+      "interdict": {
+        "target": "PERSON_001",
+        "legal_basis": "unlawful_conduct",
+        "burden_of_proof": "50%",
+        "evidence_strength": "strong"
+      },
+      "damages": {
+        "target": ["PERSON_001", "possibly_ORG_001"],
+        "legal_basis": "delict_breach_of_fiduciary_duty",
+        "burden_of_proof": "50%",
+        "evidence_strength": "strong"
+      },
+      "accounting_for_profits": {
+        "target": "PERSON_001",
+        "legal_basis": "fiduciary_breach",
+        "burden_of_proof": "50%",
+        "evidence_strength": "strong"
+      },
+      "delinquency_declaration": {
+        "target": "PERSON_001",
+        "legal_basis": "s162_Companies_Act",
+        "burden_of_proof": "50%",
+        "evidence_strength": "strong",
+        "consequences": "banned_7_years_to_life"
+      }
+    },
+    "criminal_remedies": {
+      "fraud_charges": {
+        "target": "PERSON_001",
+        "burden_of_proof": "95%",
+        "evidence_strength": "moderate_requires_additional_evidence"
+      },
+      "theft_charges": {
+        "target": "PERSON_001",
+        "burden_of_proof": "95%",
+        "evidence_strength": "moderate_requires_additional_evidence"
+      },
+      "corruption_charges": {
+        "target": "PERSON_001",
+        "burden_of_proof": "95%",
+        "evidence_strength": "weak_requires_substantial_additional_evidence"
+      }
+    }
+  }
+}

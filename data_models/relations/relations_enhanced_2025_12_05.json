@@ -1,0 +1,417 @@
+{
+  "metadata": {
+    "version": "7.0",
+    "created_date": "2025-12-05",
+    "description": "Enhanced relation model integrating South African company law framework for Revenue Stream Hijacking case 2025-137857",
+    "case_number": "2025-137857",
+    "modeling_approach": "hypergraph_compatible_relations_with_legal_framework",
+    "last_updated": "2025-12-05",
+    "changes": "Added dual-director conflict relations, director-employee dual-role relations, instructed fraud chains, oppression relations, and fiduciary breach mappings"
+  },
+  "relations": {
+    "dual_director_conflict_relations": [
+      {
+        "relation_id": "REL_DDC_001",
+        "relation_type": "dual_director_conflict",
+        "source_entity": "PERSON_001",
+        "company_a": "ORG_001",
+        "company_a_name": "RegimA Worldwide Distribution (RWD ZA)",
+        "company_b": "ORG_002",
+        "company_b_name": "Strategic Logistics Group (SLG)",
+        "conflict_nature": "competing_interests_revenue_diversion",
+        "legal_violation": "s75_Companies_Act_conflict_of_interest",
+        "disclosure_status": "not_disclosed",
+        "recusal_status": "failed_to_recuse",
+        "evidence": [
+          "board_minutes_showing_dual_decisions",
+          "financial_records_showing_revenue_diversion",
+          "company_registration_records"
+        ],
+        "fiduciary_breach": {
+          "s75_violation": "failed_to_disclose_conflict",
+          "s76_violation": "acted_against_interests_of_Company_B",
+          "s77_liability": "personal_liability_for_intentional_harm"
+        },
+        "financial_impact": "R10,269,727.90_diverted_from_Company_B_to_Company_A",
+        "burden_of_proof_met": "civil_50_percent_exceeded"
+      },
+      {
+        "relation_id": "REL_DDC_002",
+        "relation_type": "dual_director_conflict",
+        "source_entity": "PERSON_001",
+        "company_a": "ORG_001",
+        "company_a_name": "RegimA Worldwide Distribution (RWD ZA)",
+        "company_b": "ORG_003",
+        "company_b_name": "RegimA Skin Treatments (RST)",
+        "conflict_nature": "competing_interests_transfer_pricing_manipulation",
+        "legal_violation": "s75_Companies_Act_conflict_of_interest",
+        "disclosure_status": "not_disclosed",
+        "recusal_status": "failed_to_recuse",
+        "evidence": [
+          "board_minutes",
+          "transfer_pricing_records",
+          "cost_of_sales_analysis"
+        ],
+        "fiduciary_breach": {
+          "s75_violation": "failed_to_disclose_conflict",
+          "s76_violation": "transfer_pricing_manipulation"
+        }
+      }
+    ],
+    "director_employee_dual_role_relations": [
+      {
+        "relation_id": "REL_DEDR_001",
+        "relation_type": "director_employee_dual_role",
+        "person": "PERSON_004",
+        "person_name": "Daniel Xuereb",
+        "director_of": ["ORG_002"],
+        "director_of_names": ["Strategic Logistics Group"],
+        "shareholding": "33%",
+        "employee_of": "ORG_001_or_ReZonance_context",
+        "employee_of_name": "ReZonance / RWD ZA context",
+        "legal_protections": {
+          "company_law": [
+            "s163_oppression_prejudicial_conduct",
+            "s162_right_to_initiate_delinquency_proceedings",
+            "director_statutory_duties_protection"
+          ],
+          "labour_law": [
+            "unfair_labour_practice_protections",
+            "breach_of_employment_contract_claims",
+            "constructive_dismissal_grounds"
+          ]
+        },
+        "oppression_suffered": {
+          "type": "interdiction_from_office",
+          "perpetrator": "PERSON_001",
+          "legal_basis": "s163_Companies_Act",
+          "labour_law_basis": "unfair_labour_practice"
+        }
+      },
+      {
+        "relation_id": "REL_DEDR_002",
+        "relation_type": "director_employee_dual_role",
+        "person": "PERSON_005",
+        "person_name": "Jacqui Faucitt",
+        "director_of": ["ORG_002"],
+        "director_of_names": ["Strategic Logistics Group"],
+        "shareholding": "33%",
+        "employee_of": "ORG_001_or_ReZonance_context",
+        "employee_of_name": "ReZonance / RWD ZA context",
+        "legal_protections": {
+          "company_law": [
+            "s163_oppression_prejudicial_conduct",
+            "s162_right_to_initiate_delinquency_proceedings",
+            "director_statutory_duties_protection"
+          ],
+          "labour_law": [
+            "unfair_labour_practice_protections",
+            "breach_of_employment_contract_claims",
+            "constructive_dismissal_grounds"
+          ]
+        },
+        "oppression_suffered": {
+          "type": "interdiction_from_office",
+          "perpetrator": "PERSON_001",
+          "legal_basis": "s163_Companies_Act",
+          "labour_law_basis": "unfair_labour_practice"
+        }
+      }
+    ],
+    "instructed_fraud_chain_relations": [
+      {
+        "relation_id": "REL_IFC_001",
+        "relation_type": "instructed_fraud_chain",
+        "instructor": "PERSON_001",
+        "instructor_name": "Peter Andrew Faucitt",
+        "instructor_role": "Director of Company A and Company B",
+        "employee": "UNKNOWN_EMPLOYEE_OF_COMPANY_A",
+        "instruction_type": "submit_fraudulent_records_for_Company_B",
+        "purpose": "hijack_revenue_stream_from_Company_B_to_Company_A",
+        "criminal_liability": {
+          "instructor": "perpetrator_or_accomplice",
+          "employee": "perpetrator_under_instruction",
+          "charges": ["fraud", "corruption", "theft"]
+        },
+        "fiduciary_breach": {
+          "s76_violation": "instructing_fraud_acting_against_Company_B_interests",
+          "s77_liability": "personal_liability_for_intentional_harm"
+        },
+        "evidence_required": [
+          "email_instructions_to_employee",
+          "fraudulent_records_themselves",
+          "employee_testimony_or_statements",
+          "financial_benefit_to_Company_A"
+        ],
+        "evidence_strength": "moderate_requires_direct_instruction_evidence",
+        "burden_of_proof": {
+          "civil": "50%_achievable",
+          "criminal": "95%_requires_additional_evidence"
+        }
+      }
+    ],
+    "oppression_relations": [
+      {
+        "relation_id": "REL_OPP_001",
+        "relation_type": "oppression_s163",
+        "perpetrator": "PERSON_001",
+        "perpetrator_name": "Peter Andrew Faucitt",
+        "victim": "PERSON_004",
+        "victim_name": "Daniel Xuereb",
+        "oppression_type": "interdiction_from_office",
+        "description": "denied_access_to_shared_office_preventing_director_duties",
+        "legal_basis": "s163_Companies_Act_oppression_prejudicial_conduct",
+        "labour_law_basis": "unfair_labour_practice",
+        "evidence_required": [
+          "access_denial_records",
+          "communications_regarding_interdiction",
+          "employment_contract_terms",
+          "witness_statements"
+        ],
+        "remedies_available": [
+          "interdict_against_PERSON_001",
+          "damages_claim",
+          "delinquency_application_s162",
+          "labour_court_unfair_practice_claim"
+        ],
+        "evidence_strength": "moderate_requires_interdiction_documentation",
+        "burden_of_proof_met": "civil_50_percent_achievable"
+      },
+      {
+        "relation_id": "REL_OPP_002",
+        "relation_type": "oppression_s163",
+        "perpetrator": "PERSON_001",
+        "perpetrator_name": "Peter Andrew Faucitt",
+        "victim": "PERSON_005",
+        "victim_name": "Jacqui Faucitt",
+        "oppression_type": "interdiction_from_office",
+        "description": "denied_access_to_shared_office_preventing_director_duties",
+        "legal_basis": "s163_Companies_Act_oppression_prejudicial_conduct",
+        "labour_law_basis": "unfair_labour_practice",
+        "evidence_required": [
+          "access_denial_records",
+          "communications_regarding_interdiction",
+          "employment_contract_terms",
+          "witness_statements"
+        ],
+        "remedies_available": [
+          "interdict_against_PERSON_001",
+          "damages_claim",
+          "delinquency_application_s162",
+          "labour_court_unfair_practice_claim"
+        ],
+        "evidence_strength": "moderate_requires_interdiction_documentation",
+        "burden_of_proof_met": "civil_50_percent_achievable"
+      }
+    ],
+    "fiduciary_breach_relations": [
+      {
+        "relation_id": "REL_FB_001",
+        "relation_type": "fiduciary_breach",
+        "breaching_party": "PERSON_001",
+        "breaching_party_name": "Peter Andrew Faucitt",
+        "breaching_party_role": "Director",
+        "company_harmed": "ORG_002",
+        "company_harmed_name": "Strategic Logistics Group",
+        "breach_type": "diversion_of_corporate_opportunity",
+        "legal_basis": "s76_Companies_Act_fiduciary_duties",
+        "breach_elements": [
+          "acted_against_interests_of_company",
+          "diverted_revenue_to_competing_company",
+          "used_position_for_unlawful_benefit",
+          "failed_to_act_in_good_faith"
+        ],
+        "financial_harm": "R10,269,727.90_estimated",
+        "evidence": [
+          "financial_records_showing_revenue_diversion",
+          "accounting_system_manipulation",
+          "bank_transfer_records",
+          "sage_control_evidence"
+        ],
+        "remedies": [
+          "s77_personal_liability",
+          "s162_delinquent_director_declaration",
+          "damages_claim",
+          "accounting_for_profits"
+        ],
+        "evidence_strength": "strong",
+        "burden_of_proof_met": "civil_50_percent_exceeded"
+      },
+      {
+        "relation_id": "REL_FB_002",
+        "relation_type": "fiduciary_breach",
+        "breaching_party": "PERSON_001",
+        "breaching_party_name": "Peter Andrew Faucitt",
+        "breaching_party_role": "Director",
+        "company_harmed": "ORG_003",
+        "company_harmed_name": "RegimA Skin Treatments",
+        "breach_type": "transfer_pricing_manipulation",
+        "legal_basis": "s76_Companies_Act_fiduciary_duties",
+        "breach_elements": [
+          "manipulated_inter_company_pricing",
+          "extracted_profits_to_related_entities",
+          "failed_to_act_in_best_interests"
+        ],
+        "financial_harm": "R5,400,000_manufactured_loss_via_inventory_manipulation",
+        "evidence": [
+          "trial_balance_records",
+          "inventory_adjustment_analysis",
+          "cost_of_sales_comparison",
+          "transfer_pricing_records"
+        ],
+        "remedies": [
+          "s77_personal_liability",
+          "damages_claim",
+          "accounting_for_profits"
+        ],
+        "evidence_strength": "strong",
+        "burden_of_proof_met": "civil_50_percent_exceeded"
+      }
+    ],
+    "co_conspirator_relations": [
+      {
+        "relation_id": "REL_CC_001",
+        "relation_type": "co_conspirator",
+        "source_entity": "PERSON_001",
+        "target_entity": "PERSON_002",
+        "conspiracy_type": "coordinated_revenue_hijacking",
+        "coordination_mechanisms": [
+          "sage_system_control",
+          "email_access_sharing",
+          "bank_account_manipulation",
+          "payment_redirection_coordination"
+        ],
+        "evidence": [
+          "sage_subscription_control_by_PERSON_002",
+          "email_access_patterns",
+          "coordinated_bank_transfers",
+          "payment_redirection_letters"
+        ],
+        "financial_impact": "R14,546,560.75_combined",
+        "legal_basis": "joint_and_several_liability"
+      }
+    ],
+    "ownership_relations": [
+      {
+        "relation_id": "REL_OWN_001",
+        "relation_type": "directorship",
+        "source_entity": "PERSON_001",
+        "target_entity": "ORG_001",
+        "target_entity_name": "RegimA Worldwide Distribution (RWD ZA)",
+        "role": "director",
+        "fiduciary_duties_owed": "yes",
+        "evidence": ["company_registration", "CIPC_records"]
+      },
+      {
+        "relation_id": "REL_OWN_002",
+        "relation_type": "directorship",
+        "source_entity": "PERSON_001",
+        "target_entity": "ORG_002",
+        "target_entity_name": "Strategic Logistics Group (SLG)",
+        "role": "director_and_shareholder",
+        "shareholding": "33%",
+        "fiduciary_duties_owed": "yes",
+        "evidence": ["company_registration", "CIPC_records", "shareholding_records"]
+      },
+      {
+        "relation_id": "REL_OWN_003",
+        "relation_type": "directorship",
+        "source_entity": "PERSON_001",
+        "target_entity": "ORG_003",
+        "target_entity_name": "RegimA Skin Treatments (RST)",
+        "role": "director_and_shareholder",
+        "shareholding": "50%",
+        "fiduciary_duties_owed": "yes",
+        "evidence": ["company_registration", "CIPC_records", "shareholding_records"]
+      },
+      {
+        "relation_id": "REL_OWN_004",
+        "relation_type": "directorship_and_shareholding",
+        "source_entity": "PERSON_004",
+        "target_entity": "ORG_002",
+        "target_entity_name": "Strategic Logistics Group (SLG)",
+        "role": "director_and_shareholder",
+        "shareholding": "33%",
+        "fiduciary_duties_owed": "yes",
+        "evidence": ["company_registration", "CIPC_records", "shareholding_records"]
+      },
+      {
+        "relation_id": "REL_OWN_005",
+        "relation_type": "directorship_and_shareholding",
+        "source_entity": "PERSON_005",
+        "target_entity": "ORG_002",
+        "target_entity_name": "Strategic Logistics Group (SLG)",
+        "role": "director_and_shareholder",
+        "shareholding": "33%",
+        "fiduciary_duties_owed": "yes",
+        "evidence": ["company_registration", "CIPC_records", "shareholding_records"]
+      }
+    ],
+    "employment_relations": [
+      {
+        "relation_id": "REL_EMP_001",
+        "relation_type": "employment",
+        "employee": "PERSON_004",
+        "employee_name": "Daniel Xuereb",
+        "employer": "ORG_001_or_ReZonance_context",
+        "employer_name": "ReZonance / RWD ZA context",
+        "employment_status": "active_but_interdicted",
+        "labour_law_violations": [
+          "unfair_labour_practice",
+          "potential_constructive_dismissal"
+        ],
+        "evidence_required": [
+          "employment_contract",
+          "job_description",
+          "access_rights_documentation",
+          "interdiction_communications"
+        ]
+      },
+      {
+        "relation_id": "REL_EMP_002",
+        "relation_type": "employment",
+        "employee": "PERSON_005",
+        "employee_name": "Jacqui Faucitt",
+        "employer": "ORG_001_or_ReZonance_context",
+        "employer_name": "ReZonance / RWD ZA context",
+        "employment_status": "active_but_interdicted",
+        "labour_law_violations": [
+          "unfair_labour_practice",
+          "potential_constructive_dismissal"
+        ],
+        "evidence_required": [
+          "employment_contract",
+          "job_description",
+          "access_rights_documentation",
+          "interdiction_communications"
+        ]
+      }
+    ],
+    "control_relations": [
+      {
+        "relation_id": "REL_CTRL_001",
+        "relation_type": "financial_system_control",
+        "controller": "PERSON_002",
+        "controller_name": "Rynette Farrar",
+        "controlled_system": "Sage_Accounting_System",
+        "controlled_companies": ["ORG_001", "ORG_002", "ORG_003"],
+        "control_mechanism": "exclusive_subscription_ownership_and_user_access",
+        "evidence": [
+          "sage_subscription_screenshots",
+          "user_account_records",
+          "subscription_payment_records"
+        ],
+        "facilitates_fraud": "yes",
+        "legal_implications": "enables_accounting_manipulation_and_revenue_diversion"
+      }
+    ]
+  },
+  "relation_type_definitions": {
+    "dual_director_conflict": "A director serving on boards of two companies with competing interests, creating s75 conflict of interest violations",
+    "director_employee_dual_role": "A person serving as both director of one company and employee of another, creating complex legal protections under company law and labour law",
+    "instructed_fraud_chain": "A director instructing an employee to commit fraud, establishing criminal liability chain",
+    "oppression_s163": "Conduct by a director that is oppressive or unfairly prejudicial to other directors or shareholders, violating s163 Companies Act",
+    "fiduciary_breach": "Violation of fiduciary duties owed by a director to a company under s76 Companies Act",
+    "co_conspirator": "Parties coordinating to commit fraud or other unlawful acts"
+  }
+}
