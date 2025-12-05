@@ -190,7 +190,14 @@ November 2025: Application 3 filed (contact interdict)
 
 ## Data & Evidence Integrity
 
-This case is supported by a robust and comprehensive data model (Entities v9.2, Relations v7.1, updated 2025-12-05). A full analysis of the data integrity, structure, and completeness is available for review.
+This case is supported by a robust and comprehensive data model:
+- **Entities v25.0:** 32 entities (12 persons, 11 organizations, 4 bank accounts, etc.)
+- **Events v27.0:** 77 events across 8 phases, all phases assigned
+- **Relations v21.0:** 72 relations across 22 categories, including bank account control
+- **Timeline v18.0:** 77 chronologically organized entries
+- **Evidence Files:** 2,866 files (226.78 MB) in ad-res-j7 repository
+
+All data models have been refined and cross-referenced with evidence files in the ad-res-j7 repository (updated 2025-12-05).
 
 ---
 
@@ -239,3 +246,4 @@ The pattern of events supports charges of organized criminal enterprise, systema
 **Repository:** [github.com/cogpy/revstream1](https://github.com/cogpy/revstream1)  
 **License:** See LICENSE file for details  
 **Last Updated:** 2025-12-05
+**Data Models:** Entities v25.0, Events v27.0, Relations v21.0, Timeline v18.0

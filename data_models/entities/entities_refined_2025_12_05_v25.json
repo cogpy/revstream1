@@ -1,0 +1,2155 @@
+{
+  "metadata": {
+    "version": "25.0",
+    "created_date": "2025-11-10",
+    "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+    "case_number": "2025-137857",
+    "modeling_approach": "agentic_entity_modeling",
+    "last_updated": "2025-12-05",
+    "changes": "Linked bank accounts to events, enhanced evidence references (2025-12-05)",
+    "extended_evidence_repository": "https://github.com/cogpy/ad-res-j7",
+    "extended_evidence_catalog": "COMPREHENSIVE_EVIDENCE_INDEX.md",
+    "total_entities": 32
+  },
+  "entities": {
+    "persons": [
+      {
+        "entity_id": "PERSON_001",
+        "name": "Peter Andrew Faucitt",
+        "id_number": "820430 5708 18 5",
+        "role": "primary_perpetrator",
+        "agent_type": "antagonist",
+        "involvement_events": 11,
+        "primary_actions": [
+          "trust_structure_manipulation",
+          "unauthorized_transfers",
+          "trustee_misconduct",
+          "warehouse_popi_violations",
+          "account_manipulation",
+          "trust_asset_misappropriation",
+          "trust_breach"
+        ],
+        "relationships": [
+          "trustee_of_family_trust",
+          "director_of_RWD_ZA",
+          "co_conspirator_with_PERSON_002"
+        ],
+        "financial_impact": {
+          "direct_involvement": "R10,269,727.90",
+          "primary_categories": [
+            "revenue_theft",
+            "trust_violations",
+            "financial_manipulation"
+          ]
+        },
+        "legal_status": "applicant_in_case_2025_137857",
+        "timeline_events": [
+          "EVENT_001",
+          "EVENT_002",
+          "EVENT_003",
+          "EVENT_004",
+          "EVENT_006",
+          "EVENT_008",
+          "EVENT_012",
+          "EVENT_013",
+          "EVENT_015",
+          "EVENT_016",
+          "EVENT_017",
+          "EVENT_018",
+          "EVENT_019",
+          "EVENT_021",
+          "EVENT_022",
+          "EVENT_024",
+          "EVENT_028",
+          "EVENT_029",
+          "EVENT_047",
+          "EVENT_048",
+          "EVENT_049",
+          "EVENT_053",
+          "EVENT_055",
+          "EVENT_056",
+          "EVENT_059",
+          "EVENT_060",
+          "EVENT_D001",
+          "EVENT_D003",
+          "EVENT_D004",
+          "EVENT_D005",
+          "EVENT_H003",
+          "EVENT_H004",
+          "EVENT_H005",
+          "EVENT_H006",
+          "EVENT_H007",
+          "EVT-063",
+          "EVT-064",
+          "EVT-066",
+          "EVT-068",
+          "EVT-069",
+          "EVENT_070",
+          "EVENT_071",
+          "EVENT_073",
+          "EVENT_074"
+        ],
+        "evidence_files": [
+          "ANNEXURES/JF01/trust_documents/",
+          "ANNEXURES/JF03/popia_violations/",
+          "ANNEXURES/JF05/correspondence/peter_emails/",
+          "case_2025_137857/affidavits/peter_affidavit/",
+          "evidence/trust_violations/trustee_misconduct/"
+        ],
+        "ad_res_j7_references": [
+          "Trust deed manipulation evidence",
+          "POPIA violation documentation",
+          "Email correspondence showing control",
+          "Affidavit with material omissions"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#person_001",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF01/trust_documents/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF03/popia_violations/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF05/correspondence/peter_emails/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/case_2025_137857/affidavits/peter_affidavit/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/trust_violations/trustee_misconduct/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/PERSON_001.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "ANNEXURES/JF01/trust_documents/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF01/trust_documents/",
+            "type": "directory"
+          },
+          {
+            "reference": "ANNEXURES/JF03/popia_violations/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF03/popia_violations/",
+            "type": "directory"
+          },
+          {
+            "reference": "ANNEXURES/JF05/correspondence/peter_emails/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF05/correspondence/peter_emails/",
+            "type": "directory"
+          },
+          {
+            "reference": "case_2025_137857/affidavits/peter_affidavit/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857/affidavits/peter_affidavit/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/trust_violations/trustee_misconduct/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/trust_violations/trustee_misconduct/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "PERSON_002",
+        "name": "Rynette Farrar",
+        "role": "co_conspirator",
+        "agent_type": "antagonist",
+        "involvement_events": 8,
+        "primary_actions": [
+          "payment_redirection_scheme",
+          "bank_account_change_letter",
+          "unauthorized_beneficiary_changes",
+          "domain_registration_identity_fraud",
+          "email_impersonation_pattern",
+          "coordinated_fund_diversions"
+        ],
+        "relationships": [
+          "co_conspirator_with_PERSON_001",
+          "mother_of_PERSON_003",
+          "financial_controller"
+        ],
+        "financial_impact": {
+          "direct_involvement": "R4,276,832.85",
+          "primary_categories": [
+            "financial_manipulation",
+            "revenue_theft"
+          ]
+        },
+        "additional_notes": "Controlled accounts system, potentially opened 8 ABSA accounts using stolen card",
+        "timeline_events": [
+          "EVENT_001",
+          "EVENT_003",
+          "EVENT_004",
+          "EVENT_005",
+          "EVENT_006",
+          "EVENT_007",
+          "EVENT_010",
+          "EVENT_012",
+          "EVENT_014",
+          "EVENT_015",
+          "EVENT_021",
+          "EVENT_024",
+          "EVENT_025",
+          "EVENT_027",
+          "EVENT_028",
+          "EVENT_048",
+          "EVENT_049",
+          "EVENT_050",
+          "EVENT_057",
+          "EVENT_D001",
+          "EVENT_D003",
+          "EVENT_D004",
+          "EVENT_D005",
+          "EVENT_H003",
+          "EVENT_H004",
+          "EVENT_H005",
+          "EVENT_H006",
+          "EVENT_H009",
+          "EVENT_H010",
+          "EVT-064",
+          "EVT-065",
+          "EVT-068",
+          "EVENT_070"
+        ],
+        "evidence_files": [
+          "ANNEXURES/JF05/correspondence/rynette_emails/",
+          "evidence/payment_redirection/bank_account_changes/",
+          "evidence/financial_manipulation/accounts_system_control/",
+          "case_2025_137857/financial_analysis/rynette_control/"
+        ],
+        "ad_res_j7_references": [
+          "Payment redirection scheme documentation",
+          "Bank account change letters",
+          "Accounts system control evidence",
+          "Email impersonation patterns"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#person_002",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF05/correspondence/rynette_emails/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/payment_redirection/bank_account_changes/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/financial_manipulation/accounts_system_control/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/case_2025_137857/financial_analysis/rynette_control/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/PERSON_002.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "ANNEXURES/JF05/correspondence/rynette_emails/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF05/correspondence/rynette_emails/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/payment_redirection/bank_account_changes/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/payment_redirection/bank_account_changes/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/financial_manipulation/accounts_system_control/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/financial_manipulation/accounts_system_control/",
+            "type": "directory"
+          },
+          {
+            "reference": "case_2025_137857/financial_analysis/rynette_control/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857/financial_analysis/rynette_control/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "PERSON_004",
+        "name": "Jacqueline Faucitt",
+        "id_number": "570607 0088 08 6",
+        "role": "first_respondent",
+        "agent_type": "victim",
+        "involvement_events": 0,
+        "primary_actions": [],
+        "relationships": [
+          "first_respondent_in_case",
+          "shopify_platform_operator",
+          "regima_zone_ltd_operator"
+        ],
+        "legal_status": "first_respondent_in_case_2025_137857",
+        "evidence_files": [
+          "ANNEXURES/JF01/correspondence/",
+          "ANNEXURES/JF02/shopify_operations/",
+          "case_2025_137857/respondent_1/jacqueline_evidence/",
+          "evidence/shopify/platform_operations/"
+        ],
+        "ad_res_j7_references": [
+          "Shopify platform operational records",
+          "RegimA Zone Ltd business operations",
+          "Email correspondence as first respondent",
+          "POPIA compliance documentation"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "timeline_events": [
+          "EVENT_007",
+          "EVENT_009",
+          "EVENT_048",
+          "EVENT_050",
+          "EVENT_058",
+          "EVENT_059",
+          "EVENT_060",
+          "EVENT_061",
+          "EVENT_071",
+          "EVENT_072",
+          "EVENT_074"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#person_004",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF01/correspondence/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF02/shopify_operations/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/case_2025_137857/respondent_1/jacqueline_evidence/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/shopify/platform_operations/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/PERSON_004.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "ANNEXURES/JF01/correspondence/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF01/correspondence/",
+            "type": "directory"
+          },
+          {
+            "reference": "ANNEXURES/JF02/shopify_operations/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF02/shopify_operations/",
+            "type": "directory"
+          },
+          {
+            "reference": "case_2025_137857/respondent_1/jacqueline_evidence/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857/respondent_1/jacqueline_evidence/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/shopify/platform_operations/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/shopify/platform_operations/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "PERSON_005",
+        "name": "Daniel James Faucitt",
+        "id_number": "820775 5800 18 2",
+        "role": "second_respondent",
+        "agent_type": "victim",
+        "involvement_events": 0,
+        "primary_actions": [],
+        "relationships": [
+          "second_respondent_in_case",
+          "owner_regima_zone_ltd",
+          "shopify_platform_owner",
+          "shopify_platform_operator"
+        ],
+        "financial_impact": {
+          "victim_of_theft": "R10,269,727.90",
+          "platform_investment": "R140,000 - R280,000",
+          "investment_duration": "28_months"
+        },
+        "legal_status": "second_respondent_in_case_2025_137857",
+        "evidence_files": [
+          "ANNEXURES/JF02/regima_zone_ltd/",
+          "ANNEXURES/JF03/shopify_ownership/",
+          "case_2025_137857/respondent_2/daniel_evidence/",
+          "evidence/shopify/platform_ownership/",
+          "evidence/popia/violation_notices/"
+        ],
+        "ad_res_j7_references": [
+          "RegimA Zone Ltd ownership documentation",
+          "Shopify platform payment records 28+ months",
+          "POPIA violation notice July 8, 2025",
+          "UK company registration and operations"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "timeline_events": [
+          "EVENT_001",
+          "EVENT_003",
+          "EVENT_004",
+          "EVENT_005",
+          "EVENT_008",
+          "EVENT_009",
+          "EVENT_010",
+          "EVENT_011",
+          "EVENT_012",
+          "EVENT_014",
+          "EVENT_015",
+          "EVENT_016",
+          "EVENT_017",
+          "EVENT_020",
+          "EVENT_021",
+          "EVENT_022",
+          "EVENT_026",
+          "EVENT_027",
+          "EVENT_029",
+          "EVENT_047",
+          "EVENT_048",
+          "EVENT_055",
+          "EVENT_056",
+          "EVENT_057",
+          "EVENT_058",
+          "EVENT_059",
+          "EVENT_060",
+          "EVENT_061",
+          "EVENT_062",
+          "EVENT_071",
+          "EVENT_072",
+          "EVENT_074"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#person_005",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF02/regima_zone_ltd/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF03/shopify_ownership/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/case_2025_137857/respondent_2/daniel_evidence/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/shopify/platform_ownership/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/popia/violation_notices/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/PERSON_005.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "ANNEXURES/JF02/regima_zone_ltd/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF02/regima_zone_ltd/",
+            "type": "directory"
+          },
+          {
+            "reference": "ANNEXURES/JF03/shopify_ownership/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF03/shopify_ownership/",
+            "type": "directory"
+          },
+          {
+            "reference": "case_2025_137857/respondent_2/daniel_evidence/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857/respondent_2/daniel_evidence/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/shopify/platform_ownership/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/shopify/platform_ownership/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/popia/violation_notices/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/popia/violation_notices/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "PERSON_006",
+        "name": "Linda",
+        "role": "bookkeeper",
+        "agent_type": "neutral",
+        "involvement_events": 5,
+        "primary_actions": [],
+        "relationships": [
+          "sister_of_PERSON_002",
+          "employed_bookkeeper"
+        ],
+        "additional_notes": "Employed to do books while Rynette controlled accounts system",
+        "evidence_files": [
+          "ANNEXURES/JF05/accounting/bookkeeper_records/",
+          "evidence/accounting/linda_bookkeeping/",
+          "evidence/financial_manipulation/bookkeeper_role/"
+        ],
+        "ad_res_j7_references": [
+          "Bookkeeping records while Rynette controlled accounts",
+          "Employment documentation",
+          "Accounting system access logs"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "timeline_events": [
+          "EVENT_H003",
+          "EVENT_H004",
+          "EVENT_H005",
+          "EVENT_H006",
+          "EVENT_048"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#person_006",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF05/accounting/bookkeeper_records/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/accounting/linda_bookkeeping/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/financial_manipulation/bookkeeper_role/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/PERSON_006.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "ANNEXURES/JF05/accounting/bookkeeper_records/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF05/accounting/bookkeeper_records/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/accounting/linda_bookkeeping/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/accounting/linda_bookkeeping/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/financial_manipulation/bookkeeper_role/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/financial_manipulation/bookkeeper_role/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "PERSON_007",
+        "name": "Danie Bantjies",
+        "role": "accountant_and_unknown_trustee",
+        "agent_type": "antagonist",
+        "involvement_events": 3,
+        "primary_actions": [
+          "accounting_system_control_with_rynette",
+          "audit_request_dismissal",
+          "stock_adjustment_fraud_concealment",
+          "trust_violations_as_unknown_trustee",
+          "sars_audit_payment_instructions",
+          "commissioner_of_oaths_misconduct",
+          "trial_balance_distribution"
+        ],
+        "relationships": [
+          "co_conspirator_with_PERSON_001",
+          "co_conspirator_with_PERSON_002",
+          "unknown_trustee_of_TRUST_001",
+          "accountant_for_regima_group",
+          "creditor_with_motive",
+          "debtor_to_TRUST_001",
+          "commissioner_of_oaths",
+          "email_correspondent_bernadine_wright"
+        ],
+        "financial_impact": {
+          "debt_motive": "R18,685,000",
+          "debt_to_trust": "R18,685,000",
+          "stock_fraud_concealment": "R5,400,000",
+          "primary_categories": [
+            "fraud_concealment",
+            "breach_of_fiduciary_duty",
+            "accounting_fraud",
+            "conflict_of_interest"
+          ]
+        },
+        "legal_status": "co_conspirator_and_fiduciary_violator",
+        "additional_notes": "Unknown trustee status, dismissed audit request June 10, 2025 (4 days after fraud exposure), controlled accounting system with Rynette using Peter's email, owes R18.685M to trust creating massive conflict of interest, certified Peter's affidavit as Commissioner of Oaths despite material omissions, sent trial balance email Aug 13, 2020; Sent trial balance email Aug 13, 2020 to Bernadine Wright; learned of criminal matters June 10, 2025; ENS Africa suppressed criminal information from Court Aug 29, 2025",
+        "conflict_of_interest": {
+          "triple_conflict": "trustee_debtor_accountant",
+          "roles": [
+            "trustee_of_TRUST_001",
+            "debtor_to_TRUST_001_R18685000",
+            "accountant_for_regima_group",
+            "commissioner_of_oaths"
+          ],
+          "motive": "prevent_discovery_of_R18685000_debt"
+        },
+        "timeline_events": [
+          "EVENT_024",
+          "EVENT_025",
+          "EVENT_026",
+          "EVENT_028",
+          "EVENT_047",
+          "EVENT_048",
+          "EVENT_049",
+          "EVENT_051",
+          "EVENT_052",
+          "EVENT_053",
+          "EVENT_057",
+          "EVENT_058",
+          "EVENT_061",
+          "EVENT_062",
+          "EVENT_063",
+          "EVENT_H005",
+          "EVENT_H006",
+          "EVENT_H008",
+          "EVENT_H018",
+          "EVT-063",
+          "EVT-067"
+        ],
+        "evidence_files": [
+          "evidence/accounting/trial_balances/",
+          "evidence/trust_violations/unknown_trustee/",
+          "evidence/conflict_of_interest/R18_685M_debt/",
+          "ANNEXURES/accounting/bantjies_emails/",
+          "evidence/commissioner_of_oaths/affidavit_certification/"
+        ],
+        "ad_res_j7_references": [
+          "Trial balance email Aug 13, 2020 to Bernadine Wright",
+          "Audit request dismissal June 10, 2025",
+          "R18.685M debt to trust documentation",
+          "Commissioner of Oaths misconduct",
+          "Stock adjustment fraud concealment"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#person_007",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/accounting/trial_balances/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/trust_violations/unknown_trustee/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/conflict_of_interest/R18_685M_debt/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/accounting/bantjies_emails/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/commissioner_of_oaths/affidavit_certification/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/PERSON_007.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "evidence/accounting/trial_balances/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/accounting/trial_balances/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/trust_violations/unknown_trustee/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/trust_violations/unknown_trustee/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/conflict_of_interest/R18_685M_debt/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/conflict_of_interest/R18_685M_debt/",
+            "type": "directory"
+          },
+          {
+            "reference": "ANNEXURES/accounting/bantjies_emails/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/accounting/bantjies_emails/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/commissioner_of_oaths/affidavit_certification/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/commissioner_of_oaths/affidavit_certification/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "PERSON_008",
+        "name": "Kayla",
+        "status": "deceased",
+        "role": "estate_creditor",
+        "agent_type": "victim",
+        "involvement_events": 2,
+        "relationships": [
+          "estate_creditor_of_ORG_002",
+          "email_account_subject_to_court_order"
+        ],
+        "financial_impact": {
+          "estate_debt_owed": "R1,035,000",
+          "since": "Feb 2023",
+          "primary_categories": [
+            "unpaid_debt",
+            "estate_fraud"
+          ]
+        },
+        "additional_notes": "Court order obtained to seize account from Kayla's email, interfering with law enforcement investigation that had instructed freeze",
+        "timeline_events": [
+          "EVENT_054",
+          "EVENT_D001",
+          "EVENT_D003",
+          "EVENT_D004",
+          "EVENT_D005",
+          "EVENT_H010"
+        ],
+        "evidence_files": [
+          "evidence/estate_fraud/kayla_estate/",
+          "evidence/court_orders/email_account_seizure/",
+          "evidence/debt/R1_035M_unpaid/"
+        ],
+        "ad_res_j7_references": [
+          "Estate debt documentation R1,035,000",
+          "Court order for email account seizure",
+          "Law enforcement investigation interference"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#person_008",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/estate_fraud/kayla_estate/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/court_orders/email_account_seizure/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/debt/R1_035M_unpaid/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/PERSON_008.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "evidence/estate_fraud/kayla_estate/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/estate_fraud/kayla_estate/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/court_orders/email_account_seizure/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/court_orders/email_account_seizure/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/debt/R1_035M_unpaid/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/debt/R1_035M_unpaid/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "PERSON_009",
+        "name": "Gee",
+        "role": "email_sender_witness",
+        "agent_type": "neutral",
+        "involvement_events": 2,
+        "primary_actions": [
+          "sent_domain_switch_instruction_email",
+          "explained_instruction_to_jax"
+        ],
+        "relationships": [
+          "witness_to_domain_hijacking",
+          "email_sender_for_customer_diversion"
+        ],
+        "additional_notes": "Sent email to Jax in August explaining instruction to send 'don't use regima.zone only use regimaskin.co.za email' on June 20, 2025, direct witness to coordinated customer diversion scheme",
+        "timeline_events": [
+          "EVENT_027",
+          "EVENT_057",
+          "EVENT_063"
+        ],
+        "evidence_files": [
+          "ANNEXURES/JF05/correspondence/domain_switch_emails/",
+          "evidence/customer_diversion/email_instructions/"
+        ],
+        "ad_res_j7_references": [
+          "Email to Jax explaining domain switch instruction",
+          "Customer diversion scheme witness evidence"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#person_009",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF05/correspondence/domain_switch_emails/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/customer_diversion/email_instructions/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/PERSON_009.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "ANNEXURES/JF05/correspondence/domain_switch_emails/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF05/correspondence/domain_switch_emails/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/customer_diversion/email_instructions/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/customer_diversion/email_instructions/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "PERSON_010",
+        "name": "Bernadine Wright",
+        "role": "financial_professional",
+        "agent_type": "neutral",
+        "involvement_events": 1,
+        "relationships": [
+          "recipient_of_trial_balance_email",
+          "financial_statement_finalization_meeting"
+        ],
+        "additional_notes": "Recipient of trial balance email from Bantjies on August 13, 2020, meeting for financial statement finalization, witness to Bantjies' control of financial systems",
+        "timeline_events": [
+          "EVENT_048",
+          "EVENT_H008",
+          "EVENT_H018"
+        ],
+        "role_clarification": "Recipient of trial balance email from Bantjies, witness to his financial system control",
+        "evidence_files": [
+          "evidence/accounting/trial_balance_recipients/",
+          "ANNEXURES/accounting/bernadine_correspondence/"
+        ],
+        "ad_res_j7_references": [
+          "Recipient of trial balance email Aug 13, 2020",
+          "Financial statement finalization meeting witness"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#person_010",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/accounting/trial_balance_recipients/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/accounting/bernadine_correspondence/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/PERSON_010.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "evidence/accounting/trial_balance_recipients/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/accounting/trial_balance_recipients/",
+            "type": "directory"
+          },
+          {
+            "reference": "ANNEXURES/accounting/bernadine_correspondence/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/accounting/bernadine_correspondence/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "PERSON_003",
+        "name": "Adderory (Rynette's Son)",
+        "role": "co_conspirator_family_member",
+        "agent_type": "accomplice",
+        "involvement_events": 5,
+        "primary_actions": [
+          "domain_registration_for_identity_fraud",
+          "company_registration_for_competing_business",
+          "stock_supply_fraud_facilitation",
+          "customer_hijacking_infrastructure"
+        ],
+        "relationships": [
+          "son_of_PERSON_002",
+          "owner_of_ORG_009",
+          "owner_of_ORG_010",
+          "domain_owner_DOMAIN_002"
+        ],
+        "financial_impact": {
+          "direct_involvement": "R5,400,000+",
+          "primary_categories": [
+            "identity_fraud",
+            "revenue_theft",
+            "stock_fraud",
+            "customer_hijacking"
+          ],
+          "stock_fraud_connection": "R5,400,000"
+        },
+        "timeline_events": [
+          "EVENT_010",
+          "EVENT_024",
+          "EVENT_028",
+          "EVENT_H009",
+          "EVT-068",
+          "EVENT_073"
+        ],
+        "additional_notes": "Rynette's son, registered Adderory companies April 2021 (pre-planning), registered fraudulent domain regimaskin.co.za May 29 2025, supplied same stock type that disappeared from SLG",
+        "evidence_files": [
+          "evidence/domain_registration/regimaskin_co_za/",
+          "evidence/cipc/shell_companies/",
+          "evidence/stock_fraud/R5_4M_scheme/",
+          "ANNEXURES/cipc/company_registrations/"
+        ],
+        "ad_res_j7_references": [
+          "Domain registration for identity fraud (regimaskin.co.za)",
+          "CIPC registration of shell companies",
+          "Stock supply fraud facilitation",
+          "Customer hijacking infrastructure"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#person_003",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/domain_registration/regimaskin_co_za/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/cipc/shell_companies/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/stock_fraud/R5_4M_scheme/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/cipc/company_registrations/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/PERSON_003.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "evidence/domain_registration/regimaskin_co_za/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/domain_registration/regimaskin_co_za/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/cipc/shell_companies/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/cipc/shell_companies/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/stock_fraud/R5_4M_scheme/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/stock_fraud/R5_4M_scheme/",
+            "type": "directory"
+          },
+          {
+            "reference": "ANNEXURES/cipc/company_registrations/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/cipc/company_registrations/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "PERSON_011",
+        "name": "Chantal",
+        "role": "estate_related_party",
+        "agent_type": "neutral",
+        "involvement_events": 2,
+        "primary_actions": [
+          "estate_finalization_communication"
+        ],
+        "relationships": [
+          "connected_to_kayla_estate",
+          "letter_sender_january_2025"
+        ],
+        "timeline_events": [
+          "EVENT_054",
+          "EVENT_023"
+        ],
+        "additional_notes": "Delivered letter about Kayla estate finalization in January 2025, potential witness to estate exploitation",
+        "role_clarification": "Delivered letter about Kayla estate finalization January 2025",
+        "evidence_files": [
+          "ANNEXURES/JF06/ens_withdrawal/",
+          "evidence/legal_misconduct/criminal_suppression/"
+        ],
+        "ad_res_j7_references": [
+          "Withdrawal as attorneys Sept 23, 2025",
+          "Suppression of criminal information from Court Aug 29, 2025"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#person_011",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF06/ens_withdrawal/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/legal_misconduct/criminal_suppression/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/PERSON_011.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "ANNEXURES/JF06/ens_withdrawal/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF06/ens_withdrawal/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/legal_misconduct/criminal_suppression/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/legal_misconduct/criminal_suppression/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "PERSON_012",
+        "name": "Jax",
+        "role": "witness_and_victim",
+        "agent_type": "neutral",
+        "involvement_events": 2,
+        "primary_actions": [
+          "received_domain_switch_email",
+          "confronted_rynette_about_missing_money"
+        ],
+        "relationships": [
+          "email_recipient_from_gee",
+          "confronted_PERSON_002",
+          "ceo_of_RST"
+        ],
+        "timeline_events": [
+          "EVENT_050"
+        ],
+        "additional_notes": "Received email from Gee about domain switch instruction, confronted Rynette on May 15, 2025 about R1,035,000 owed to ReZonance",
+        "evidence_files": [
+          "jax-response/",
+          "ANNEXURES/JF05/correspondence/jax_emails/"
+        ],
+        "ad_res_j7_references": [
+          "Recipient of domain switch instruction",
+          "Witness to customer diversion scheme"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#person_012",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/jax-response/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF05/correspondence/jax_emails/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/PERSON_012.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "jax-response/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/jax-response/",
+            "type": "directory"
+          },
+          {
+            "reference": "ANNEXURES/JF05/correspondence/jax_emails/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF05/correspondence/jax_emails/",
+            "type": "directory"
+          }
+        ]
+      }
+    ],
+    "organizations": [
+      {
+        "entity_id": "ORG_001",
+        "name": "Regima Worldwide Distribution (PTY) LTD",
+        "abbreviation": "RWD ZA",
+        "registration_number": "2011/005722/07",
+        "entity_type": "company",
+        "agent_type": "instrument_of_fraud",
+        "role": "third_respondent",
+        "key_characteristics": [
+          "no_independent_revenue_stream",
+          "issued_invoices_for_sales_on_infrastructure_not_owned",
+          "dependent_on_regima_zone_ltd_infrastructure"
+        ],
+        "relationships": [
+          "dependent_on_ORG_003",
+          "controlled_by_PERSON_001",
+          "financial_controller_PERSON_002"
+        ],
+        "financial_impact": {
+          "revenue_claims": "R3,141,647.70",
+          "actual_ownership": "zero_infrastructure_ownership"
+        },
+        "legal_status": "third_respondent_in_case_2025_137857",
+        "evidence_files": [
+          "ANNEXURES/JF01/rwd_za/",
+          "evidence/cipc/rwd_za_registration/",
+          "evidence/financial/rwd_za_accounts/",
+          "case_2025_137857/entities/rwd_za/"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "ad_res_j7_references": [
+          "See files related to: Regima, Worldwide, Distribution, (PTY)"
+        ],
+        "timeline_events": [
+          "EVENT_003",
+          "EVENT_005",
+          "EVENT_008",
+          "EVENT_015",
+          "EVENT_016",
+          "EVENT_017",
+          "EVENT_020",
+          "EVENT_021",
+          "EVENT_051",
+          "EVENT_055",
+          "EVENT_056",
+          "EVENT_058",
+          "EVENT_059",
+          "EVENT_060",
+          "EVENT_H005",
+          "EVENT_H006",
+          "EVENT_H007",
+          "EVENT_H018"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#org_001",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF01/rwd_za/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/cipc/rwd_za_registration/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/financial/rwd_za_accounts/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/case_2025_137857/entities/rwd_za/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/ORG_001.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "ANNEXURES/JF01/rwd_za/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF01/rwd_za/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/cipc/rwd_za_registration/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/cipc/rwd_za_registration/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/financial/rwd_za_accounts/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/financial/rwd_za_accounts/",
+            "type": "directory"
+          },
+          {
+            "reference": "case_2025_137857/entities/rwd_za/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857/entities/rwd_za/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "ORG_002",
+        "name": "Regima Skin Treatments CC",
+        "abbreviation": "RST",
+        "registration_number": "1992/005371/23",
+        "entity_type": "close_corporation",
+        "agent_type": "affected_entity",
+        "role": "fourth_respondent",
+        "ownership_structure": {
+          "director_ownership": "50%",
+          "other_ownership": "50%"
+        },
+        "relationships": [
+          "related_to_ORG_001",
+          "director_charges_self_rent"
+        ],
+        "legal_status": "fourth_respondent_in_case_2025_137857",
+        "evidence_files": [
+          "ANNEXURES/JF01/rst/",
+          "evidence/accounting/rst_trial_balances/",
+          "evidence/financial/rst_accounts/",
+          "case_2025_137857/entities/rst/"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "ad_res_j7_references": [
+          "See files related to: Regima, Skin, Treatments"
+        ],
+        "timeline_events": [
+          "EVENT_007",
+          "EVENT_028",
+          "EVENT_051",
+          "EVENT_052",
+          "EVENT_058",
+          "EVENT_D002",
+          "EVENT_H001",
+          "EVENT_H003",
+          "EVENT_H005",
+          "EVENT_H006"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#org_002",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF01/rst/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/accounting/rst_trial_balances/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/financial/rst_accounts/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/case_2025_137857/entities/rst/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/ORG_002.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "ANNEXURES/JF01/rst/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF01/rst/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/accounting/rst_trial_balances/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/accounting/rst_trial_balances/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/financial/rst_accounts/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/financial/rst_accounts/",
+            "type": "directory"
+          },
+          {
+            "reference": "case_2025_137857/entities/rst/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857/entities/rst/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "ORG_003",
+        "name": "RegimA Zone Ltd",
+        "jurisdiction": "United Kingdom",
+        "entity_type": "uk_company",
+        "agent_type": "legitimate_business",
+        "role": "infrastructure_owner",
+        "key_characteristics": [
+          "shopify_platform_owner",
+          "shopify_platform_payer",
+          "shopify_platform_operator",
+          "legitimate_domain_owner_regima_zone"
+        ],
+        "ownership": {
+          "owner": "PERSON_005",
+          "operators": [
+            "PERSON_005",
+            "PERSON_004"
+          ]
+        },
+        "financial_investment": {
+          "platform": "shopify",
+          "start_date": "2023-07",
+          "duration_months": 28,
+          "total_investment": "R140,000 - R280,000",
+          "monthly_cost": "$1,000 - $2,000 USD"
+        },
+        "relationships": [
+          "owned_by_PERSON_005",
+          "infrastructure_provider_for_ORG_001"
+        ],
+        "evidence_files": [
+          "ANNEXURES/JF02/regima_zone_ltd/",
+          "evidence/shopify/platform_ownership/",
+          "evidence/uk_company/registration/",
+          "case_2025_137857/entities/regima_zone_ltd/"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "ad_res_j7_references": [
+          "See files related to: RegimA, Zone"
+        ],
+        "timeline_events": [
+          "EVENT_004",
+          "EVENT_009",
+          "EVENT_027",
+          "EVENT_029"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#org_003",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF02/regima_zone_ltd/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/shopify/platform_ownership/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/uk_company/registration/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/case_2025_137857/entities/regima_zone_ltd/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/ORG_003.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "ANNEXURES/JF02/regima_zone_ltd/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF02/regima_zone_ltd/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/shopify/platform_ownership/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/shopify/platform_ownership/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/uk_company/registration/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/uk_company/registration/",
+            "type": "directory"
+          },
+          {
+            "reference": "case_2025_137857/entities/regima_zone_ltd/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857/entities/regima_zone_ltd/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "ORG_004",
+        "name": "Strategic Logistics Group",
+        "abbreviation": "SLG",
+        "entity_type": "company",
+        "agent_type": "victim_entity",
+        "ownership_structure": {
+          "director_1": "33%",
+          "director_2": "33%",
+          "director_3": "33%"
+        },
+        "financial_impact": {
+          "stock_loss": "R5,400,000",
+          "loss_type": "stock_adjustment_disappeared_stock",
+          "slg_rst_debt": "R13,000,000",
+          "interest_payment_to_rst": "R414,334.09",
+          "interest_payment_date": "2020-02-28"
+        },
+        "relationships": [
+          "related_to_ORG_001",
+          "supplier_relationship_with_PERSON_003_company",
+          "debtor_to_ORG_002_R13M",
+          "interest_payer_to_ORG_002",
+          "loss_entity_in_inter_company_manipulation",
+          "debtor_to_ORG_002_R13M",
+          "interest_payer_to_ORG_002",
+          "loss_entity_in_inter_company_manipulation"
+        ],
+        "additional_notes": "Positioned as loss entity with R13M debt to RST, paid R414K interest Feb 2020, pattern consistent with R5.4M stock lossPositioned as loss entity with R13M debt to RST, paid R414K interest Feb 2020, pattern consistent with R5.4M stock loss",
+        "role": "trust_owned_warehouse_and_logistics",
+        "evidence_files": [
+          "ANNEXURES/JF01/slg/",
+          "evidence/accounting/slg_trial_balances/",
+          "evidence/financial/slg_accounts/",
+          "case_2025_137857/entities/slg/"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "ad_res_j7_references": [
+          "See files related to: Strategic, Logistics, Group"
+        ],
+        "timeline_events": [
+          "EVENT_024",
+          "EVENT_025",
+          "EVENT_028",
+          "EVENT_053",
+          "EVENT_058",
+          "EVENT_H003",
+          "EVENT_H005",
+          "EVENT_H006",
+          "EVENT_H007"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#org_004",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF01/slg/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/accounting/slg_trial_balances/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/financial/slg_accounts/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/case_2025_137857/entities/slg/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/ORG_004.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "ANNEXURES/JF01/slg/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF01/slg/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/accounting/slg_trial_balances/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/accounting/slg_trial_balances/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/financial/slg_accounts/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/financial/slg_accounts/",
+            "type": "directory"
+          },
+          {
+            "reference": "case_2025_137857/entities/slg/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857/entities/slg/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "ORG_005",
+        "name": "Villa Via",
+        "entity_type": "property_entity",
+        "agent_type": "instrument_of_wealth_transfer",
+        "ownership_structure": {
+          "director_ownership": "50%",
+          "other_ownership": "50%"
+        },
+        "relationships": [
+          "rent_charged_to_director_owner",
+          "related_to_ORG_002"
+        ],
+        "additional_notes": "Director owns half and charges rent to himself; R4.4M monthly rental income, R3.7M profit, R22.8M members loan indicates systematic capital extraction; 86% profit margin on rent",
+        "financial_impact": {
+          "monthly_rental_income": "R4,400,000",
+          "net_profit": "R3,700,000",
+          "members_loan_account": "R22,800,000",
+          "profit_margin_on_rent": "86%"
+        },
+        "key_characteristics": [
+          "rental_income_vehicle",
+          "capital_extraction_mechanism",
+          "different_financial_year_may_to_april"
+        ],
+        "financial_year": {
+          "start": "May 1",
+          "end": "April 30"
+        },
+        "role": "rental_property_company_wealth_extraction",
+        "evidence_files": [
+          "ANNEXURES/JF01/villa_via/",
+          "evidence/accounting/villa_via_trial_balances/",
+          "evidence/financial/villa_via_accounts/",
+          "case_2025_137857/entities/villa_via/"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "ad_res_j7_references": [
+          "See files related to: Villa"
+        ],
+        "timeline_events": [
+          "EVENT_051",
+          "EVENT_052",
+          "EVENT_H004",
+          "EVENT_H007"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#org_005",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF01/villa_via/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/accounting/villa_via_trial_balances/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/financial/villa_via_accounts/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/case_2025_137857/entities/villa_via/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/ORG_005.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "ANNEXURES/JF01/villa_via/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF01/villa_via/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/accounting/villa_via_trial_balances/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/accounting/villa_via_trial_balances/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/financial/villa_via_accounts/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/financial/villa_via_accounts/",
+            "type": "directory"
+          },
+          {
+            "reference": "case_2025_137857/entities/villa_via/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857/entities/villa_via/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "ORG_006",
+        "name": "RegimA SA",
+        "entity_type": "company",
+        "agent_type": "victim_entity",
+        "relationships": [
+          "related_to_ORG_001"
+        ],
+        "timeline_events": [
+          "EVENT_001",
+          "EVENT_022"
+        ],
+        "role": "revenue_stream_victim",
+        "evidence_files": [
+          "ANNEXURES/JF01/trust_documents/",
+          "evidence/trust_violations/trust_deed/",
+          "evidence/trust_violations/trustee_misconduct/",
+          "case_2025_137857/trust/family_trust/"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "ad_res_j7_references": [
+          "See files related to: RegimA"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#org_006",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF01/trust_documents/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/trust_violations/trust_deed/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/trust_violations/trustee_misconduct/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/case_2025_137857/trust/family_trust/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/ORG_006.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "ANNEXURES/JF01/trust_documents/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF01/trust_documents/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/trust_violations/trust_deed/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/trust_violations/trust_deed/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/trust_violations/trustee_misconduct/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/trust_violations/trustee_misconduct/",
+            "type": "directory"
+          },
+          {
+            "reference": "case_2025_137857/trust/family_trust/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857/trust/family_trust/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "ORG_008",
+        "name": "ReZonance (Pty) Ltd",
+        "registration": "2017/081396/07",
+        "incorporation_date": "2017",
+        "entity_type": "company",
+        "agent_type": "victim",
+        "role": "it_services_provider_and_creditor",
+        "involvement_events": 8,
+        "primary_actions": [
+          "it_services_provision",
+          "debt_accumulation",
+          "false_payment_claims_victim"
+        ],
+        "relationships": [
+          "creditor_to_regima_group",
+          "part_of_kayla_estate",
+          "trigger_for_jax_confrontation"
+        ],
+        "financial_impact": {
+          "debt_owed": "R1,035,361.34",
+          "since": "Feb 2023",
+          "false_payment_claims": "R1,235,361.34",
+          "primary_categories": [
+            "unpaid_debt",
+            "false_payment_fraud"
+          ]
+        },
+        "timeline_events": [
+          "EVENT_023",
+          "EVENT_D001",
+          "EVENT_D002",
+          "EVENT_D003",
+          "EVENT_D004",
+          "EVENT_D005",
+          "EVENT_H001",
+          "EVENT_H002",
+          "EVENT_H010"
+        ],
+        "additional_notes": "IT services provider to RegimA Group since 2017, debt is part of Kayla's estate, Jax's confrontation about this debt triggered retaliation sequence",
+        "evidence_files": [
+          "ANNEXURES/JF04/rezonance/",
+          "evidence/rezonance/invoices/",
+          "evidence/rezonance/payment_analysis/",
+          "case_2025_137857/entities/rezonance/"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "ad_res_j7_references": [
+          "See files related to: ReZonance, (Pty)"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#org_008",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF04/rezonance/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/rezonance/invoices/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/rezonance/payment_analysis/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/case_2025_137857/entities/rezonance/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/ORG_008.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "ANNEXURES/JF04/rezonance/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF04/rezonance/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/rezonance/invoices/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/rezonance/invoices/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/rezonance/payment_analysis/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/rezonance/payment_analysis/",
+            "type": "directory"
+          },
+          {
+            "reference": "case_2025_137857/entities/rezonance/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857/entities/rezonance/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "ORG_009",
+        "name": "Adderory (Pty) Ltd",
+        "registration_date": "2021-04",
+        "entity_type": "company",
+        "agent_type": "accomplice",
+        "role": "competing_business_fraud_vehicle",
+        "ownership": {
+          "owner": "PERSON_003",
+          "relationship_to_PERSON_002": "son"
+        },
+        "involvement_events": 5,
+        "primary_actions": [
+          "domain_registration_for_identity_fraud",
+          "stock_supply_fraud",
+          "transfer_pricing_manipulation",
+          "customer_hijacking",
+          "revenue_redirection"
+        ],
+        "relationships": [
+          "owned_by_PERSON_003",
+          "controlled_by_PERSON_002",
+          "domain_owner_DOMAIN_002",
+          "stock_supplier_to_regima",
+          "beneficiary_of_slg_stock_disappearance",
+          "revenue_recipient_from_hijacking"
+        ],
+        "financial_impact": {
+          "direct_involvement": "R5,400,000+",
+          "primary_categories": [
+            "identity_fraud",
+            "revenue_theft",
+            "stock_fraud",
+            "customer_hijacking"
+          ],
+          "stock_fraud_connection": "R5,400,000"
+        },
+        "timeline_events": [
+          "EVENT_028",
+          "EVENT_H009"
+        ],
+        "additional_notes": "Registered April 2021 (4 years before fraud escalation), demonstrates long-term conspiracy planning, supplied same stock type that disappeared from SLG, registered fraudulent domain regimaskin.co.za",
+        "evidence_files": [
+          "ANNEXURES/JF04/unicorn/",
+          "evidence/payment_routing/unicorn/",
+          "case_2025_137857/entities/unicorn/"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "ad_res_j7_references": [
+          "See files related to: Adderory, (Pty)"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#org_009",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF04/unicorn/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/payment_routing/unicorn/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/case_2025_137857/entities/unicorn/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/ORG_009.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "ANNEXURES/JF04/unicorn/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF04/unicorn/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/payment_routing/unicorn/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/payment_routing/unicorn/",
+            "type": "directory"
+          },
+          {
+            "reference": "case_2025_137857/entities/unicorn/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857/entities/unicorn/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "ORG_010",
+        "name": "Adderory Skin (Pty) Ltd",
+        "registration_date": "2021-04",
+        "entity_type": "company",
+        "agent_type": "accomplice",
+        "role": "competing_business_fraud_vehicle",
+        "ownership": {
+          "owner": "PERSON_003",
+          "relationship_to_PERSON_002": "son"
+        },
+        "involvement_events": 3,
+        "primary_actions": [
+          "customer_hijacking",
+          "revenue_redirection",
+          "brand_impersonation"
+        ],
+        "relationships": [
+          "owned_by_PERSON_003",
+          "controlled_by_PERSON_002",
+          "part_of_adderory_group",
+          "revenue_recipient_from_hijacking"
+        ],
+        "financial_impact": {
+          "direct_involvement": "unknown_amount",
+          "primary_categories": [
+            "identity_fraud",
+            "revenue_theft",
+            "customer_hijacking"
+          ]
+        },
+        "timeline_events": [
+          "EVENT_H009"
+        ],
+        "additional_notes": "Registered April 2021 alongside Adderory (Pty) Ltd, part of Adderory group for customer hijacking, used RegimA brand for fraud",
+        "evidence_files": [
+          "ANNEXURES/JF04/joziway/",
+          "evidence/payment_routing/joziway/",
+          "case_2025_137857/entities/joziway/"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "ad_res_j7_references": [
+          "See files related to: Adderory, Skin, (Pty)"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#org_010",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF04/joziway/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/payment_routing/joziway/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/case_2025_137857/entities/joziway/"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/ORG_010.html",
+        "evidence_files_enhanced": [
+          {
+            "reference": "ANNEXURES/JF04/joziway/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF04/joziway/",
+            "type": "directory"
+          },
+          {
+            "reference": "evidence/payment_routing/joziway/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/evidence/payment_routing/joziway/",
+            "type": "directory"
+          },
+          {
+            "reference": "case_2025_137857/entities/joziway/",
+            "github_url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857/entities/joziway/",
+            "type": "directory"
+          }
+        ]
+      },
+      {
+        "entity_id": "ORG_011",
+        "name": "Elliott Attorneys",
+        "type": "law_firm",
+        "role": "legal_representation",
+        "agent_type": "neutral_third_party",
+        "involvement_events": 3,
+        "primary_actions": [
+          "legal_representation_rynette_farrar",
+          "defamation_claim",
+          "letter_of_demand"
+        ],
+        "relationships": [
+          "represents_PERSON_002"
+        ],
+        "contact_details": {
+          "email": "keegan@elliottattorneys.co.za",
+          "phone": "012 012 5067 / 012 012 5068",
+          "address": "Office 12, Garsfontein Office Park, 645 Jacqueline Drive, Garsfontein, Pretoria",
+          "website": "http://www.elliottattorneys.co.za"
+        },
+        "director": "KR Elliott (LLB)",
+        "legal_status": "active",
+        "timeline_events": [
+          "EVENT_075",
+          "EVENT_076",
+          "EVENT_077"
+        ],
+        "evidence_files": [
+          "ANNEXURES/JF13/KL0034-LetterofDemand-26.11.2025.pdf",
+          "ANNEXURES/JF13/KF0019-LettertoOpp(PottasAttorneys)26.11.2025.pdf"
+        ],
+        "ad_res_j7_references": [
+          "Letter of Demand on behalf of Rynette Farrar",
+          "Letter to Pottas Attorneys regarding interdict violations"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/ORG_011.html",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
+      },
+      {
+        "entity_id": "ORG_012",
+        "name": "Pottas Attorneys",
+        "type": "law_firm",
+        "role": "legal_representation",
+        "agent_type": "antagonist_representative",
+        "involvement_events": 2,
+        "primary_actions": [
+          "legal_representation_peter_faucitt",
+          "application_filing"
+        ],
+        "relationships": [
+          "represents_PERSON_001"
+        ],
+        "contact_details": {
+          "email": "rudi@pottaslaw.co.za, monique@pottaslaw.co.za"
+        },
+        "legal_status": "active",
+        "timeline_events": [
+          "EVENT_076",
+          "EVENT_077"
+        ],
+        "evidence_files": [
+          "ANNEXURES/JF13/KL0034-LetterofDemand-26.11.2025.pdf",
+          "ANNEXURES/JF13/KF0019-LettertoOpp(PottasAttorneys)26.11.2025.pdf"
+        ],
+        "ad_res_j7_references": [
+          "Recipient of Letter of Demand",
+          "Recipient of Letter regarding interdict violations"
+        ],
+        "github_pages_profile": "https://cogpy.github.io/revstream1/entities/ORG_012.html",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
+      }
+    ],
+    "platforms": [
+      {
+        "entity_id": "PLATFORM_001",
+        "name": "Shopify Platform",
+        "platform_type": "ecommerce",
+        "agent_type": "central_infrastructure",
+        "ownership": {
+          "owner": "ORG_003",
+          "payer": "PERSON_005",
+          "operators": [
+            "PERSON_005",
+            "PERSON_004"
+          ]
+        },
+        "timeline_significance": {
+          "events_involving_platform": 10,
+          "percentage_of_total_events": "67%",
+          "centrality": "critical"
+        },
+        "key_characteristics": [
+          "owned_and_paid_by_uk_entity",
+          "not_owned_by_rwd_za",
+          "revenue_generation_infrastructure",
+          "audit_trail_hijacked_2025_05_22"
+        ],
+        "financial_impact": {
+          "monthly_revenue": "R1,000,000+",
+          "revenue_shutdown_date": "2025-05-22",
+          "total_investment": "R140,000 - R280,000"
+        },
+        "relationships": [
+          "owned_by_ORG_003",
+          "used_by_ORG_001_without_ownership",
+          "audit_trail_destroyed_by_PERSON_001"
+        ],
+        "role": "shopify_ecommerce_platform",
+        "evidence_files": [
+          "ANNEXURES/JF02/shopify_payment_records/",
+          "evidence/shopify/platform_ownership/",
+          "evidence/shopify/28_month_payment_history/",
+          "./ANNEXURES/JF02/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+          "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment_method_evidence_with_the_broad.md",
+          "./evidence/invoices/RegimA_WWD_182424713.pdf"
+        ],
+        "ad_res_j7_references": [
+          "28+ months Shopify payment records (July 2023 - present)",
+          "Platform ownership documentation - RegimA Zone Ltd (UK)",
+          "R140K-R280K total investment evidence",
+          "Revenue stream analysis showing RWD ZA dependency",
+          "Shopify Plus subscription invoices and receipts",
+          "Platform configuration and ownership records"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "timeline_events": [
+          "EVENT_004",
+          "EVENT_005",
+          "EVENT_008",
+          "EVENT_009",
+          "EVENT_014",
+          "EVENT_015",
+          "EVENT_016",
+          "EVENT_017",
+          "EVENT_020",
+          "EVENT_029"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#platform_001",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF02/shopify_payment_records/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/shopify/platform_ownership/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/shopify/28_month_payment_history/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF02/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+          "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment_method_evidence_with_the_broad.md"
+        ]
+      }
+    ],
+    "domains": [
+      {
+        "entity_id": "DOMAIN_001",
+        "domain_name": "regima.zone",
+        "domain_type": "legitimate_business_domain",
+        "agent_type": "legitimate_asset",
+        "ownership": {
+          "owner": "ORG_003",
+          "legitimate_use": true
+        },
+        "timeline_significance": {
+          "court_mandate": "use_regima_zone_instead_of_addarory_domain"
+        },
+        "relationships": [
+          "owned_by_ORG_003",
+          "operated_by_PERSON_005"
+        ],
+        "role": "legitimate_domain",
+        "evidence_files": [
+          "ANNEXURES/JF02/domain_registration/regima_zone/",
+          "evidence/domains/regima_zone_ownership/",
+          "./case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.eml",
+          "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_w_organization.md",
+          "./2DO/x/ensafrica.com/apapadopoulos@ensafrica.com/RE_ Trade mark registration nos. UK00914297063 REGIMA ZONE in classes 03, 05 and.pdf"
+        ],
+        "ad_res_j7_references": [
+          "Domain registration records - RegimA Zone Ltd (UK)",
+          "DNS configuration and management evidence",
+          "Domain ownership documentation",
+          "Trademark registration linked to domain",
+          "Business operations using regima.zone domain"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "timeline_events": [
+          "EVENT_027"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#domain_001",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF02/domain_registration/regima_zone/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/domains/regima_zone_ownership/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.eml",
+          "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/regima_zone_w_organization.md",
+          "https://github.com/cogpy/ad-res-j7/blob/main/2DO/x/ensafrica.com/apapadopoulos@ensafrica.com/RE_ Trade mark registration nos. UK00914297063 REGIMA ZONE in classes 03, 05 and.pdf"
+        ]
+      },
+      {
+        "entity_id": "DOMAIN_002",
+        "domain_name": "regimaskin.co.za",
+        "domain_type": "fraudulent_domain",
+        "agent_type": "instrument_of_fraud",
+        "ownership": {
+          "owner": "PERSON_003",
+          "legitimate_use": false
+        },
+        "timeline_significance": {
+          "registration_date": "2025-05-29",
+          "purpose": "identity_fraud_customer_hijacking",
+          "email_instruction_date": "2025-06-20"
+        },
+        "relationships": [
+          "registered_by_PERSON_003",
+          "controlled_by_PERSON_002",
+          "used_for_customer_hijacking"
+        ],
+        "role": "fraudulent_domain_for_customer_hijacking",
+        "evidence_files": [
+          "evidence/domains/fraudulent_registration/regima_co_za/",
+          "evidence/identity_fraud/domain_registration_may_29_2025/",
+          "./case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.eml",
+          "./UPDATED_DRAFTS/analysis-main/entities/domain_fraud_analysis.md"
+        ],
+        "ad_res_j7_references": [
+          "Fraudulent domain registration May 29, 2025",
+          "Identity fraud documentation - Addarory Farrar",
+          "Domain registration using stolen identity information",
+          "Email impersonation pattern evidence",
+          "Domain lookup results showing fraudulent ownership"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "timeline_events": [
+          "EVENT_010",
+          "EVENT_014",
+          "EVENT_027",
+          "EVENT_063"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#domain_002",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/domains/fraudulent_registration/regima_co_za/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/identity_fraud/domain_registration_may_29_2025/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.eml",
+          "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/domain_fraud_analysis.md"
+        ]
+      }
+    ],
+    "trust_entities": [
+      {
+        "entity_id": "TRUST_001",
+        "name": "Family Trust",
+        "entity_type": "trust",
+        "agent_type": "victim_entity",
+        "trustee": "PERSON_001",
+        "timeline_significance": {
+          "trust_violations": 5,
+          "total_violations_amount": "R2,851,247.35"
+        },
+        "key_violations": [
+          "trust_structure_establishment_2025_03_15",
+          "unauthorized_beneficiary_changes_2025_05_02",
+          "systematic_trust_violations_2025_06_18",
+          "trust_asset_misappropriation_2025_07_25",
+          "trust_breach_evidence_2025_08_10"
+        ],
+        "relationships": [
+          "trustee_PERSON_001",
+          "beneficiaries_excluded_by_PERSON_001"
+        ],
+        "role": "family_trust_structure_manipulated",
+        "evidence_files": [
+          "ANNEXURES/JF01/trust_documents/",
+          "evidence/trust_violations/trustee_misconduct/",
+          "evidence/trust_violations/trust_deed_manipulation/",
+          "./ANNEXURES/JF01/Re_ belongs to regimA.eml",
+          "./UPDATED_DRAFTS/analysis-main/entities/trust_structure_analysis.md",
+          "./evidence/trust_violations/unknown_trustee/"
+        ],
+        "ad_res_j7_references": [
+          "Trust deed and formation documents",
+          "Trustee appointment and resignation records",
+          "Trust asset documentation",
+          "Trustee misconduct evidence",
+          "Trust manipulation timeline",
+          "Unknown trustee status - Danie Bantjies"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "timeline_events": [
+          "EVENT_002",
+          "EVENT_006",
+          "EVENT_013",
+          "EVENT_018",
+          "EVENT_019",
+          "EVENT_024",
+          "EVENT_025",
+          "EVENT_026",
+          "EVENT_028",
+          "EVENT_058",
+          "EVENT_H007"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#trust_001",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF01/trust_documents/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/trust_violations/trustee_misconduct/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/trust_violations/trust_deed_manipulation/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF01/Re_ belongs to regimA.eml",
+          "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/trust_structure_analysis.md"
+        ]
+      }
+    ],
+    "trusts": [
+      {
+        "entity_id": "TRUST_001",
+        "name": "Faucitt Family Trust",
+        "entity_type": "family_trust",
+        "agent_type": "victim_entity",
+        "role": "family_trust_structure_manipulated",
+        "trustees": [
+          "PERSON_001",
+          "PERSON_007"
+        ],
+        "beneficiaries": [
+          "PERSON_004",
+          "PERSON_005"
+        ],
+        "founder": "PERSON_001",
+        "owned_entities": [
+          "ORG_001",
+          "ORG_004"
+        ],
+        "key_characteristics": [
+          "unusual_trustee_powers",
+          "absence_of_beneficiary_powers",
+          "founder_additional_powers",
+          "used_for_attacking_beneficiaries"
+        ],
+        "financial_impact": {
+          "debt_owed_by_trustee": "R18,685,000",
+          "debtor": "PERSON_007"
+        },
+        "legal_significance": "trust_structure_manipulation_and_beneficiary_attack",
+        "additional_notes": "Bantjies is unknown trustee with R18.685M debt to trust, creating massive conflict of interest",
+        "relationships": [
+          "trustee_PERSON_001",
+          "beneficiary_PERSON_004",
+          "beneficiary_PERSON_005",
+          "asset_holder_for_regima_group"
+        ],
+        "evidence_files": [
+          "ANNEXURES/JF01/trust_documents/",
+          "evidence/trust_violations/",
+          "evidence/trust_violations/trustee_misconduct/",
+          "evidence/trust_violations/trust_asset_misappropriation/",
+          "./ANNEXURES/JF01/Re_ belongs to regimA.eml",
+          "./evidence/conflict_of_interest/R18_685M_debt/"
+        ],
+        "ad_res_j7_references": [
+          "Complete trust documentation and deed",
+          "Trust asset records and valuations",
+          "Trustee violation documentation",
+          "Trust asset misappropriation evidence",
+          "R18.685M debt to Bantjies creating conflict of interest",
+          "Trust manipulation for debt elimination motive"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "timeline_events": [
+          "EVENT_002",
+          "EVENT_006",
+          "EVENT_013",
+          "EVENT_018",
+          "EVENT_019",
+          "EVENT_024",
+          "EVENT_025",
+          "EVENT_026",
+          "EVENT_028",
+          "EVENT_058",
+          "EVENT_H007"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#trust_001",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF01/trust_documents/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/trust_violations/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/trust_violations/trustee_misconduct/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/trust_violations/trust_asset_misappropriation/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF01/Re_ belongs to regimA.eml"
+        ]
+      }
+    ],
+    "bank_accounts": [
+      {
+        "entity_id": "BANK_001",
+        "account_type": "business_account",
+        "bank_name": "ABSA",
+        "entity_type": "bank_account",
+        "agent_type": "instrument_of_fraud",
+        "role": "allegedly_fraudulently_opened",
+        "controlled_by": "PERSON_002",
+        "additional_notes": "Banking institution used for payment redirection scheme and unauthorized account changes",
+        "account_description": "Multiple fraudulently opened accounts",
+        "relationships": [
+          "controlled_by_PERSON_002",
+          "used_for_payment_redirection",
+          "linked_to_fraud_scheme"
+        ],
+        "evidence_files": [
+          "evidence/payment_redirection/bank_account_changes/",
+          "evidence/financial_manipulation/unauthorized_changes/",
+          "./evidence/payment_redirection/bank_account_changes/rynette_letter_april_1.pdf",
+          "./ANNEXURES/JF05/correspondence/rynette_emails/payment_system_control.eml",
+          "./evidence/financial_manipulation/accounts_system_control/"
+        ],
+        "ad_res_j7_references": [
+          "Bank account change letters and documentation",
+          "Unauthorized beneficiary change evidence",
+          "Payment redirection scheme documentation",
+          "Bank account manipulation timeline",
+          "Rynette Farrar's control over accounts system",
+          "Financial transaction records showing diversions"
+        ],
+        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+        "timeline_events": [
+          "EVENT_004",
+          "EVENT_005",
+          "EVENT_H003",
+          "EVENT_H004",
+          "EVENT_H005"
+        ],
+        "involvement_events": 5,
+        "primary_actions": [
+          "payment_processing",
+          "account_hosting",
+          "transaction_facilitation"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/evidence-index-enhanced.md#bank_001",
+        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/payment_redirection/bank_account_changes/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/financial_manipulation/unauthorized_changes/",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/payment_redirection/bank_account_changes/rynette_letter_april_1.pdf",
+          "https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/JF05/correspondence/rynette_emails/payment_system_control.eml",
+          "https://github.com/cogpy/ad-res-j7/blob/main/evidence/financial_manipulation/accounts_system_control/"
+        ]
+      },
+      {
+        "entity_id": "BANK_ACCOUNT_001",
+        "entity_name": "Regima Skin Savings Account",
+        "entity_type": "Bank Account",
+        "account_number": "62134839127",
+        "account_type": "Money Market Transactor",
+        "description": "Regima Skin savings account used in 2025-09-11 systematic emptying",
+        "evidence_files": [
+          "CCE20250911_0000.jpg"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/application-2-evidence.md#bank-accounts",
+        "ad_res_j7_reference": "new_evidence_2025_11_25/images/CCE20250911_0000.jpg",
+        "timeline_events": [
+          "EVENT_001",
+          "EVENT_004",
+          "EVENT_005",
+          "EVENT_012",
+          "EVENT_014",
+          "EVENT_022",
+          "EVENT_027"
+        ],
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF04",
+          "https://github.com/cogpy/ad-res-j7/tree/main/evidence/bank-statements",
+          "https://github.com/cogpy/ad-res-j7/tree/main/evidence/bank_records"
+        ]
+      },
+      {
+        "entity_id": "BANK_ACCOUNT_002",
+        "entity_name": "Villa Via Savings Acc",
+        "entity_type": "Bank Account",
+        "account_number": "62812835744",
+        "account_type": "Money on Call",
+        "description": "Villa Via savings account used in 2025-09-11 systematic emptying",
+        "evidence_files": [
+          "CCE20250911_0001.jpg"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/application-2-evidence.md#bank-accounts",
+        "ad_res_j7_reference": "new_evidence_2025_11_25/images/CCE20250911_0001.jpg",
+        "timeline_events": [
+          "EVENT_001",
+          "EVENT_004",
+          "EVENT_005",
+          "EVENT_012",
+          "EVENT_014",
+          "EVENT_022",
+          "EVENT_027"
+        ],
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF04",
+          "https://github.com/cogpy/ad-res-j7/tree/main/evidence/bank-statements",
+          "https://github.com/cogpy/ad-res-j7/tree/main/evidence/bank_records"
+        ]
+      },
+      {
+        "entity_id": "BANK_ACCOUNT_003",
+        "entity_name": "Strategic Savings Acc",
+        "entity_type": "Bank Account",
+        "account_number": "62593375829",
+        "account_type": "Money on Call",
+        "description": "Strategic savings account used in 2025-09-11 systematic emptying",
+        "evidence_files": [
+          "CCE20250911_0005.jpg"
+        ],
+        "github_pages_reference": "https://cogpy.github.io/revstream1/application-2-evidence.md#bank-accounts",
+        "ad_res_j7_reference": "new_evidence_2025_11_25/images/CCE20250911_0005.jpg",
+        "timeline_events": [
+          "EVENT_001",
+          "EVENT_004",
+          "EVENT_005",
+          "EVENT_012",
+          "EVENT_014",
+          "EVENT_022",
+          "EVENT_027"
+        ],
+        "evidence_urls": [
+          "https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF04",
+          "https://github.com/cogpy/ad-res-j7/tree/main/evidence/bank-statements",
+          "https://github.com/cogpy/ad-res-j7/tree/main/evidence/bank_records"
+        ]
+      }
+    ]
+  }
+}

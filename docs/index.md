@@ -11,7 +11,7 @@ This documentation repository provides comprehensive evidence and analysis of th
 
 **Critical Revelation:** The **Shopify platform** has been owned and paid for since **July 2023** by Daniel Faucitt's independent UK entity **RegimA Zone Ltd** (28+ months, R140K-R280K total investment). RWD ZA has no independent revenue stream—all revenues were generated through infrastructure owned, paid for, and operated by Daniel's UK company.
 
-**Latest Update:** December 4, 2025 - Enhanced with refined data models (Entities v24, Events v26) and comprehensive burden of proof analysis.
+**Latest Update:** December 5, 2025 - Enhanced with refined data models (Entities v25, Events v27, Relations v21, Timeline v18) and improved legal filings.
 
 ---
 
@@ -23,9 +23,9 @@ This documentation repository provides comprehensive evidence and analysis of th
 | **Case Name** | Peter Faucitt v. Jacqueline Faucitt et al. |
 | **Period** | March 15, 2025 - November 26, 2025 |
 | **Duration** | 256 days of documented activity |
-| **Total Events** | 77 (refined v26) |
-| **Total Entities** | 23 (refined v24) |
-| **Total Relations** | 70 (v20) |
+| **Total Events** | 77 (refined v27) |
+| **Total Entities** | 32 (refined v25) |
+| **Total Relations** | 72 (v21) |
 | **Events with Financial Impact** | 62 |
 | **Revenue Theft** | R3,141,647.70 |
 | **Trust Violations** | R2,851,247.35 |
@@ -48,9 +48,11 @@ This documentation repository provides comprehensive evidence and analysis of th
 
 - **[Legal Filings Overview](LEGAL_FILINGS_IMPROVEMENTS_2025_12_04.md)** - Summary of all legal filings and improvements
 - **[Three Sequential Applications](applications.md)** - Comparative analysis of all three interdict applications
-- **[CIPC Complaint v3.0](CIPC_COMPLAINT_REFINED_2025_12_04.md)** - Enhanced CIPC complaint with 22 events meeting 'Reasonable Grounds' standard
-- **[POPIA Complaint](POPIA_COMPLAINT_REFINED_2025_11_28.md)** - POPIA criminal complaint with 64 events
-- **[Criminal Complaint](CRIMINAL_COMPLAINT_REFINED_2025_11_28.md)** - Criminal complaint with 23 events meeting 'Beyond Reasonable Doubt' standard
+- **[CIPC Complaint v4.0](../CIPC_COMPLAINT_REFINED_2025_12_05.md)** - Enhanced CIPC complaint with 22 events meeting 'Reasonable Grounds' standard, bank account fraud section
+- **[POPIA Complaint v3.0](../POPIA_COMPLAINT_REFINED_2025_12_05.md)** - POPIA criminal complaint with 64 events, bank data breach section
+- **[Criminal Complaint](../CRIMINAL_COMPLAINT_REFINED_2025_11_28.md)** - Criminal complaint with 23 events meeting 'Beyond Reasonable Doubt' standard
+- **[Commercial Crime Submission v1.0](../COMMERCIAL_CRIME_SUBMISSION_2025_12_05.md)** - Comprehensive commercial crime case (R10.27M losses, 77 events)
+- **[NPA Tax Fraud Report v1.0](../NPA_TAX_FRAUD_REPORT_2025_12_05.md)** - Tax fraud report (R3.34M estimated tax evaded)
 - **[Burden of Proof Analysis](BURDEN_OF_PROOF_ENHANCED_2025_12_04.md)** - Enhanced analysis of evidence against legal standards
 
 ### 📊 Data Models & Analysis
@@ -208,9 +210,9 @@ For comprehensive evidence documentation, see the extended evidence repository a
 
 This case is supported by a robust and comprehensive data model:
 
-- **Entities v24:** 23 total (12 persons, 11 organizations)
-- **Events v26:** 77 total across 8+ phases (2017-2025)
-- **Relations v20:** 70 total across 22 relation types
+- **Entities v25:** 32 total (12 persons, 11 organizations, 4 bank accounts, etc.)
+- **Events v27:** 77 total across 8 phases (2017-2025), all phases assigned
+- **Relations v21:** 72 total across 22 relation types, including bank account control
 - **Timeline Span:** 2017-01-01 to 2025-11-26
 - **Evidence Files:** 2,866 files in ad-res-j7 repository
 
@@ -225,6 +227,16 @@ All data models have been refined and cross-referenced with evidence files in th
 ---
 
 ## Recent Updates
+
+### December 5, 2025
+- **Entities:** Updated to v25 (linked 4 bank accounts to events)
+- **Events:** Updated to v27 (assigned 10 unassigned phases)
+- **Relations:** Updated to v21 (added bank account control relations)
+- **Timeline:** Updated to v18 (77 chronologically organized entries)
+- **CIPC Complaint:** Enhanced to v4.0 with bank account fraud section
+- **POPIA Complaint:** Enhanced to v3.0 with bank data breach section
+- **Commercial Crime Submission:** Created v1.0 (comprehensive case)
+- **NPA Tax Fraud Report:** Created v1.0 (R3.34M tax evaded)
 
 ### December 4, 2025
 - **Entities:** Updated to v24 (linked 5 orphaned events)
@@ -261,10 +273,11 @@ All data models have been refined and cross-referenced with evidence files in th
 **GitHub Pages:** [cogpy.github.io/revstream1](https://cogpy.github.io/revstream1)
 
 **Data Models:**
-- Entities v24: `data_models/entities/entities_refined_2025_12_04_v24.json`
-- Events v26: `data_models/events/events_refined_2025_12_04_v26.json`
-- Relations v20: `data_models/relations/relations_refined_2025_11_28_v20.json`
+- Entities v25: `data_models/entities/entities_refined_2025_12_05_v25.json`
+- Events v27: `data_models/events/events_refined_2025_12_05_v27.json`
+- Relations v21: `data_models/relations/relations_refined_2025_12_05_v21.json`
+- Timeline v18: `data_models/timelines/timeline_refined_2025_12_05_v18.json`
 
 **License:** See LICENSE file for details
 
-**Last Updated:** December 4, 2025
+**Last Updated:** December 5, 2025

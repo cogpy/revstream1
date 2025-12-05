@@ -1,0 +1,144 @@
+{
+  "analysis_date": "2025-12-05",
+  "evidence_repository": "/home/ubuntu/ad-res-j7",
+  "total_evidence_files": 1298,
+  "bank_account_improvements": [
+    {
+      "entity_id": "BANK_001",
+      "entity_name": "Unknown",
+      "issue": "No linked events",
+      "suggested_action": "Link to payment redirection events, unauthorized transfers",
+      "evidence_files": [
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf",
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf",
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf",
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf",
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf"
+      ]
+    },
+    {
+      "entity_id": "BANK_ACCOUNT_001",
+      "entity_name": "Unknown",
+      "issue": "No linked events",
+      "suggested_action": "Link to payment redirection events, unauthorized transfers",
+      "evidence_files": [
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf",
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf",
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf",
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf",
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf"
+      ]
+    },
+    {
+      "entity_id": "BANK_ACCOUNT_002",
+      "entity_name": "Unknown",
+      "issue": "No linked events",
+      "suggested_action": "Link to payment redirection events, unauthorized transfers",
+      "evidence_files": [
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf",
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf",
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf",
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf",
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf"
+      ]
+    },
+    {
+      "entity_id": "BANK_ACCOUNT_003",
+      "entity_name": "Unknown",
+      "issue": "No linked events",
+      "suggested_action": "Link to payment redirection events, unauthorized transfers",
+      "evidence_files": [
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf",
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf",
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf",
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf",
+        "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf"
+      ]
+    }
+  ],
+  "entity_evidence_gaps": [
+    {
+      "entity_id": "PERSON_009",
+      "entity_name": "Gee",
+      "category": "persons",
+      "issue": "Only 2 evidence file(s) linked",
+      "priority": "MEDIUM"
+    },
+    {
+      "entity_id": "PERSON_010",
+      "entity_name": "Bernadine Wright",
+      "category": "persons",
+      "issue": "Only 2 evidence file(s) linked",
+      "priority": "MEDIUM"
+    },
+    {
+      "entity_id": "PERSON_011",
+      "entity_name": "Chantal",
+      "category": "persons",
+      "issue": "Only 2 evidence file(s) linked",
+      "priority": "MEDIUM"
+    },
+    {
+      "entity_id": "PERSON_012",
+      "entity_name": "Jax",
+      "category": "persons",
+      "issue": "Only 2 evidence file(s) linked",
+      "priority": "MEDIUM"
+    },
+    {
+      "entity_id": "ORG_011",
+      "entity_name": "Elliott Attorneys",
+      "category": "organizations",
+      "issue": "Only 2 evidence file(s) linked",
+      "priority": "MEDIUM"
+    },
+    {
+      "entity_id": "ORG_012",
+      "entity_name": "Pottas Attorneys",
+      "category": "organizations",
+      "issue": "Only 2 evidence file(s) linked",
+      "priority": "MEDIUM"
+    },
+    {
+      "entity_id": "BANK_ACCOUNT_001",
+      "entity_name": "Unknown",
+      "category": "bank_accounts",
+      "issue": "Only 1 evidence file(s) linked",
+      "priority": "MEDIUM"
+    },
+    {
+      "entity_id": "BANK_ACCOUNT_002",
+      "entity_name": "Unknown",
+      "category": "bank_accounts",
+      "issue": "Only 1 evidence file(s) linked",
+      "priority": "MEDIUM"
+    },
+    {
+      "entity_id": "BANK_ACCOUNT_003",
+      "entity_name": "Unknown",
+      "category": "bank_accounts",
+      "issue": "Only 1 evidence file(s) linked",
+      "priority": "MEDIUM"
+    }
+  ],
+  "event_evidence_quality": {
+    "no_evidence_count": 0,
+    "weak_evidence_count": 7,
+    "strong_evidence_count": 70,
+    "no_evidence_events": []
+  },
+  "timeline_suggestions": [
+    {
+      "issue": "11 events have unassigned phases",
+      "action": "Review and assign appropriate timeline phases based on dates and context"
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "HIGH",
+      "category": "entities",
+      "issue": "4 bank accounts have no linked events",
+      "action": "Link bank accounts to relevant payment redirection and transfer events"
+    }
+  ]
+}
