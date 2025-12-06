@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "analysis_date": "2025-12-06T05:34:30.295928",
+    "version": "26.0",
+    "purpose": "Comprehensive data model analysis and refinement recommendations"
+  },
+  "summary": {
+    "total_entities": 27,
+    "total_events": 77,
+    "total_relations": 72,
+    "total_timeline_entries": 77
+  },
+  "entity_analysis": {
+    "total_entities": 27,
+    "issues": [
+      "BANK_ACCOUNT_001 (62134839127): Missing controlled_by information",
+      "BANK_ACCOUNT_002 (62812835744): Missing controlled_by information",
+      "BANK_ACCOUNT_003 (62593375829): Missing controlled_by information"
+    ],
+    "suggestions": []
+  },
+  "event_analysis": {
+    "total_events": 77,
+    "phase_distribution": {
+      "PHASE_000": 17,
+      "PHASE_005": 11,
+      "PHASE_002": 7,
+      "PHASE_001": 6,
+      "PHASE_003": 6,
+      "PHASE_004": 13,
+      "PHASE_006": 9,
+      "Phase 6: Cover-up Phase": 1,
+      "Phase 0: Historical Foundation": 2,
+      "Phase 7: Debt Accumulation": 1,
+      "PHASE_007": 4
+    },
+    "issues": [],
+    "suggestions": [
+      "15 events without financial_impact (may be intentional)"
+    ]
+  },
+  "relation_analysis": {
+    "total_relations": 72,
+    "relation_types": 22,
+    "issues": [],
+    "suggestions": []
+  },
+  "timeline_analysis": {
+    "total_entries": 77,
+    "date_span": "2017-01-01 to 2025-11-26",
+    "issues": [],
+    "suggestions": []
+  },
+  "priority_improvements": [
+    "BANK_ACCOUNT_001 (62134839127): Missing controlled_by information",
+    "BANK_ACCOUNT_002 (62812835744): Missing controlled_by information",
+    "BANK_ACCOUNT_003 (62593375829): Missing controlled_by information"
+  ]
+}

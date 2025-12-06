@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "analysis_date": "2025-12-06",
+    "ad_res_j7_path": "/home/ubuntu/ad-res-j7",
+    "purpose": "Cross-reference evidence repository with data models"
+  },
+  "evidence_repository_scan": {
+    "total_categories": 10,
+    "categories": {
+      "ANNEXURES/JF01": 2,
+      "ANNEXURES/JF02": 3,
+      "ANNEXURES/JF03": 5,
+      "ANNEXURES/JF04": 6,
+      "ANNEXURES/JF05": 7,
+      "ANNEXURES/JF06": 5,
+      "ANNEXURES/JF07": 186,
+      "ANNEXURES/JF08": 38,
+      "case_2025_137857/02_evidence": 240,
+      "evidence": 492
+    }
+  },
+  "entity_coverage": {
+    "well_documented": [
+      "PERSON_001 (Peter Andrew Faucitt): 5 files",
+      "PERSON_002 (Rynette Farrar): 4 files",
+      "PERSON_004 (Jacqueline Faucitt): 4 files",
+      "PERSON_005 (Daniel James Faucitt): 5 files",
+      "PERSON_006 (Linda): 3 files",
+      "PERSON_007 (Danie Bantjies): 5 files",
+      "PERSON_008 (Kayla): 3 files",
+      "PERSON_003 (Adderory (Rynette's Son)): 4 files"
+    ],
+    "needs_improvement": [
+      "PERSON_009 (Gee): 2 files",
+      "PERSON_010 (Bernadine Wright): 2 files",
+      "PERSON_011 (Chantal): 2 files",
+      "PERSON_012 (Jax): 2 files"
+    ],
+    "missing_evidence": []
+  },
+  "new_opportunities": [
+    {
+      "category": "bank_records",
+      "description": "Found 5 bank statement files in JF04",
+      "files": [
+        "D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf",
+        "D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf",
+        "D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf",
+        "D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf",
+        "D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf"
+      ],
+      "recommendation": "Cross-reference with EVENT transactions"
+    },
+    {
+      "category": "legal_documents",
+      "description": "Found 5 legal documents in JF06",
+      "files": [
+        "0558631 Notice of withdrawal as attorneys of record 250924.pdf",
+        "3. MAT4719 - 01.10.25 - WP Letter to KE.pdf",
+        "62323196362.pdf",
+        "62432501494.pdf",
+        "KF0019-SecondApplication-03.10.2025.pdf"
+      ],
+      "recommendation": "Link to APPLICATION events and timeline"
+    },
+    {
+      "category": "shopify_evidence",
+      "description": "Found 3 Shopify reports in JF02",
+      "files": [
+        "RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+        "RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+        "ShopifyPlusW.pdf"
+      ],
+      "recommendation": "Verify revenue figures and platform ownership timeline"
+    }
+  ],
+  "recommendations": [
+    "Link bank statement files (JF04) to specific EVENT transactions",
+    "Extract correspondence dates (JF05) for timeline verification",
+    "Cross-reference legal documents (JF06) with APPLICATION events",
+    "Verify Shopify reports (JF02) against revenue theft calculations",
+    "Add evidence file references to entities missing documentation"
+  ]
+}

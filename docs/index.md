@@ -11,7 +11,7 @@ This documentation repository provides comprehensive evidence and analysis of th
 
 **Critical Revelation:** The **Shopify platform** has been owned and paid for since **July 2023** by Daniel Faucitt's independent UK entity **RegimA Zone Ltd** (28+ months, R140K-R280K total investment). RWD ZA has no independent revenue stream—all revenues were generated through infrastructure owned, paid for, and operated by Daniel's UK company.
 
-**Latest Update:** December 5, 2025 - Enhanced with refined data models (Entities v25, Events v27, Relations v21, Timeline v18) and improved legal filings.
+**Latest Update:** December 6, 2025 - Enhanced with refined data models (Entities v26, Events v28, Relations v21, Timeline v19) and improved legal filings and improved legal filings.
 
 ---
 
@@ -23,8 +23,8 @@ This documentation repository provides comprehensive evidence and analysis of th
 | **Case Name** | Peter Faucitt v. Jacqueline Faucitt et al. |
 | **Period** | March 15, 2025 - November 26, 2025 |
 | **Duration** | 256 days of documented activity |
-| **Total Events** | 77 (refined v27) |
-| **Total Entities** | 32 (refined v25) |
+| **Total Events** | 77 (refined v28) |
+| **Total Entities** | 32 (refined v26) |
 | **Total Relations** | 72 (v21) |
 | **Events with Financial Impact** | 62 |
 | **Revenue Theft** | R3,141,647.70 |
@@ -48,11 +48,11 @@ This documentation repository provides comprehensive evidence and analysis of th
 
 - **[Legal Filings Overview](LEGAL_FILINGS_IMPROVEMENTS_2025_12_04.md)** - Summary of all legal filings and improvements
 - **[Three Sequential Applications](applications.md)** - Comparative analysis of all three interdict applications
-- **[CIPC Complaint v4.0](../CIPC_COMPLAINT_REFINED_2025_12_05.md)** - Enhanced CIPC complaint with 22 events meeting 'Reasonable Grounds' standard, bank account fraud section
-- **[POPIA Complaint v3.0](../POPIA_COMPLAINT_REFINED_2025_12_05.md)** - POPIA criminal complaint with 64 events, bank data breach section
+- **[CIPC Complaint v4.0](../CIPC_COMPLAINT_REFINED_2025_12_06.md)** - Enhanced CIPC complaint with 22 events meeting 'Reasonable Grounds' standard, bank account fraud section
+- **[POPIA Complaint v3.0](../POPIA_COMPLAINT_REFINED_2025_12_06.md)** - POPIA criminal complaint with 64 events, bank data breach section
 - **[Criminal Complaint](../CRIMINAL_COMPLAINT_REFINED_2025_11_28.md)** - Criminal complaint with 23 events meeting 'Beyond Reasonable Doubt' standard
-- **[Commercial Crime Submission v1.0](../COMMERCIAL_CRIME_SUBMISSION_2025_12_05.md)** - Comprehensive commercial crime case (R10.27M losses, 77 events)
-- **[NPA Tax Fraud Report v1.0](../NPA_TAX_FRAUD_REPORT_2025_12_05.md)** - Tax fraud report (R3.34M estimated tax evaded)
+- **[Commercial Crime Submission v1.0](../COMMERCIAL_CRIME_SUBMISSION_2025_12_06.md)** - Comprehensive commercial crime case (R10.27M losses, 77 events)
+- **[NPA Tax Fraud Report v1.0](../NPA_TAX_FRAUD_REPORT_2025_12_06.md)** - Tax fraud report (R3.34M estimated tax evaded)
 - **[Burden of Proof Analysis](BURDEN_OF_PROOF_ENHANCED_2025_12_04.md)** - Enhanced analysis of evidence against legal standards
 
 ### 📊 Data Models & Analysis
@@ -228,6 +228,17 @@ All data models have been refined and cross-referenced with evidence files in th
 
 ## Recent Updates
 
+### December 6, 2025
+- **Entities:** Updated to v26 (added controlled_by information to all bank accounts)
+- **Events:** Updated to v28 (standardized phase naming across all 77 events)
+- **Relations:** v21 (maintained, no changes)
+- **Timeline:** Updated to v19 (standardized phase naming)
+- **CIPC Complaint:** Enhanced to v4.1 with bank account control fraud section
+- **POPIA Complaint:** Enhanced to v3.1 with bank account data breaches section
+- **Commercial Crime Submission:** Updated to v1.1 with refined data models
+- **NPA Tax Fraud Report:** Updated to v1.1 with refined data models
+- **Analysis:** Comprehensive data model analysis and evidence cross-referencing
+
 ### December 5, 2025
 - **Entities:** Updated to v25 (linked 4 bank accounts to events)
 - **Events:** Updated to v27 (assigned 10 unassigned phases)
@@ -273,11 +284,11 @@ All data models have been refined and cross-referenced with evidence files in th
 **GitHub Pages:** [cogpy.github.io/revstream1](https://cogpy.github.io/revstream1)
 
 **Data Models:**
-- Entities v25: `data_models/entities/entities_refined_2025_12_05_v25.json`
-- Events v27: `data_models/events/events_refined_2025_12_05_v27.json`
+- Entities v26: `data_models/entities/entities_refined_2025_12_06_v26.json`
+- Events v28: `data_models/events/events_refined_2025_12_06_v28.json`
 - Relations v21: `data_models/relations/relations_refined_2025_12_05_v21.json`
-- Timeline v18: `data_models/timelines/timeline_refined_2025_12_05_v18.json`
+- Timeline v19: `data_models/timelines/timeline_refined_2025_12_05_v18.json`
 
 **License:** See LICENSE file for details
 
-**Last Updated:** December 5, 2025
+**Last Updated:** December 6, 2025
