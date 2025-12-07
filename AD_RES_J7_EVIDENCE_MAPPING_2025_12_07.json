@@ -1,0 +1,448 @@
+{
+  "metadata": {
+    "created": "2025-12-07T05:34:21.782698",
+    "case_number": "2025-137857",
+    "description": "Evidence mapping between revstream1 events and ad-res-j7 repository"
+  },
+  "evidence_categories": {
+    "financial": {
+      "location": "case_2025_137857/02_evidence/financial",
+      "annexures": [
+        "JF02",
+        "JF04"
+      ],
+      "description": "Bank statements, financial records, Shopify reports"
+    },
+    "cipc": {
+      "location": "evidence/cipc",
+      "annexures": [
+        "JF01"
+      ],
+      "description": "CIPC company registrations and filings"
+    },
+    "emails": {
+      "location": "evidence/emails",
+      "annexures": [
+        "JF05",
+        "JF08"
+      ],
+      "description": "Email correspondence and communication records"
+    },
+    "legal_documents": {
+      "location": "case_2025_137857/01_court_documents",
+      "annexures": [
+        "JF06",
+        "JF07"
+      ],
+      "description": "Court filings, affidavits, legal correspondence"
+    },
+    "popia": {
+      "location": "evidence/popia",
+      "annexures": [
+        "JF09"
+      ],
+      "description": "POPIA violations and data protection evidence"
+    },
+    "accounting": {
+      "location": "evidence/accounting",
+      "annexures": [
+        "JF03"
+      ],
+      "description": "Sage accounting records and financial statements"
+    },
+    "mediation": {
+      "location": "evidence/mediation",
+      "annexures": [
+        "JF10"
+      ],
+      "description": "Mediation records and correspondence"
+    }
+  },
+  "event_evidence_links": {
+    "EVENT_H001": {
+      "event_title": "First ReZonance Invoice to RST",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_H002": {
+      "event_title": "ReZonance Service Expansion",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_H003": {
+      "event_title": "Financial Year Commencement RST/SLG",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_H004": {
+      "event_title": "Financial Year Commencement Villa Via",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_H005": {
+      "event_title": "Multiple Adjusting Journal Entries",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_051": {
+      "event_title": null,
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_H006": {
+      "event_title": "Year-End Adjustments and Interest Payment",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_052": {
+      "event_title": null,
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_H007": {
+      "event_title": "Villa Via Year-End Profit Extraction",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_053": {
+      "event_title": null,
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_H008": {
+      "event_title": "Bantjies Trial Balance Email Distribution",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_048": {
+      "event_title": null,
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_H018": {
+      "event_title": "Bantjies Sends Trial Balance Email to Bernadine Wright",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_H009": {
+      "event_title": "Adderory Companies Registration - Pre-Planning Phase",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_D001": {
+      "event_title": "ReZonance Opening Balance Debt",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_D002": {
+      "event_title": "First Structured Payment to ReZonance",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_H010": {
+      "event_title": "Kayla Pretorius Murder",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_D003": {
+      "event_title": "ReZonance Final Balance Persistent Debt",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_D004": {
+      "event_title": "False Payment Claim #1 to ReZonance",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_D005": {
+      "event_title": "False Payment Claim #2 to ReZonance",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_023": {
+      "event_title": "Chantal Letter - Kayla Estate Finalization",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_054": {
+      "event_title": "Chantal Delivers Letter About Kayla Estate Finalization",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_022": {
+      "event_title": "R900,000 Unauthorized Transfers from RegimA SA",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_028": {
+      "event_title": "R5.2M SLG Stock Missing & Large Invoice",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_001": {
+      "event_title": "RegimA SA Revenue Diversion Started",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_024": {
+      "event_title": "R5.4M Stock Disappears from Strategic Logistics",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_002": {
+      "event_title": "Trust Structure Establishment",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_025": {
+      "event_title": "R5.4M Stock Adjustment Processed Without Investigation",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_003": {
+      "event_title": "Two Years Unallocated Expenses Dumped",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_004": {
+      "event_title": "Payment Redirection Scheme",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_005": {
+      "event_title": "Bank Account Change Letter for RegimA Worldwide",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_029": {
+      "event_title": "Cloud IT Systems Removal Order",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_055": {
+      "event_title": "Peter Orders Cloud IT Systems Removal",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_056": {
+      "event_title": "Server Missing from Office",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_006": {
+      "event_title": "Unauthorized Beneficiary Changes",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_007": {
+      "event_title": "Jacqui Confronts Rynette About R1,035,000 Debt",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_008": {
+      "event_title": "Unauthorized Transfers (R850K+)",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_050": {
+      "event_title": null,
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_009": {
+      "event_title": "Shopify Audit Trail Hijacking",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_010": {
+      "event_title": "Domain Registration (Identity Fraud)",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_011": {
+      "event_title": "Daniel Finalizes Fraud Reports",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_057": {
+      "event_title": "Daniel Sends Comprehensive Reports to Bantjies",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_012": {
+      "event_title": "Secret Card Cancellations",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_058": {
+      "event_title": "Bantjies Dismisses Audit Request",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_026": {
+      "event_title": "Bantjies Dismisses Audit Request",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_047": {
+      "event_title": null,
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_062": {
+      "event_title": "Bantjies Learns of Criminal Matters",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_013": {
+      "event_title": "Systematic Trust Violations",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_014": {
+      "event_title": "Email Impersonation Pattern and Domain Switch Instruction",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_027": {
+      "event_title": "Domain Switch Email Instruction",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_015": {
+      "event_title": "Coordinated Fund Diversions",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_016": {
+      "event_title": "Warehouse POPI Violations",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_017": {
+      "event_title": "Account Manipulation",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_018": {
+      "event_title": "Trust Asset Misappropriation",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_019": {
+      "event_title": "Trust Breach Evidence",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_059": {
+      "event_title": "Settlement Agreement Signed",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_049": {
+      "event_title": null,
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_060": {
+      "event_title": "Peter Files Founding Affidavit with Material Non-Disclosures",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_063": {
+      "event_title": "Gee Email Explaining Domain Switch Instruction",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_020": {
+      "event_title": "Financial Evidence Concealment",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_061": {
+      "event_title": "ENS Africa Acknowledges Criminal Matters Then Suppresses",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_021": {
+      "event_title": "Accounts Emptied",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVT-063": {
+      "event_title": "Bantjes Email: R10M Decline and Computer Expense Analysis",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVT-064": {
+      "event_title": "Daniel's Comprehensive 26-Point Response to Bantjes",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVT-065": {
+      "event_title": "POPIA Violation Notice Sent to Pete",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVT-066": {
+      "event_title": "Sage Accounting System Expires - Rynette Controls Reactivation",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVT-067": {
+      "event_title": "Daniel Forwards Sage Evidence to Lawyer",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVT-068": {
+      "event_title": "Rynette Makes R1M+ Debt to ReZonance 'Disappear'",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVT-069": {
+      "event_title": "Pete and Rynette Attempt Unauthorized Banking Changes",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_070": {
+      "event_title": "Evidence Suppression Pattern Identified",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_071": {
+      "event_title": "Early Business Relationship Establishment",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_072": {
+      "event_title": "Initial Service Agreement Framework",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_073": {
+      "event_title": "Debt Accumulation Pattern Begins",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_074": {
+      "event_title": "Application 3 Dismissed by Court",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_075": {
+      "event_title": "Rynette Farrar Retains Legal Counsel",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_076": {
+      "event_title": "Letter of Demand Issued (Defamation)",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    },
+    "EVENT_077": {
+      "event_title": "Ongoing Interdict Violations Reported",
+      "evidence_locations": [],
+      "ad_res_j7_references": []
+    }
+  }
+}

@@ -1,715 +1,761 @@
-# Bantjies Dismisses Audit Request
+---
+layout: default
+title: Bantjies Dismisses Audit Request
+---
+# Bantjies Dismisses Audit Request (EVENT_026)
 
-**Event ID:** `EVENT_026`
 **Date:** 2025-06-10
 
-- **Category:** fraud_concealment
-- **Event Type:** audit_dismissal
-- **Perpetrators:** 
-  - PERSON_007
-- **Victims:** 
-  - PERSON_005
-  - TRUST_001
-- **Entities Involved:** 
-  - PERSON_007
-  - regima_group
-- **Description:** Bantjies dismisses Daniel's audit request 4 days after fraud exposure (June 6), demonstrating consciousness of guilt and conflict of interest given R18.685M debt to trust
-- **Financial Impact:** R18,685,000
-- **Legal Significance:** consciousness_of_guilt_conflict_of_interest_breach_of_fiduciary_duty
-- **Evidence:** 
-  - audit_request_dismissal_documentation
-  - bantjies_debt_records
-- **Pattern:** consolidation_phase
-- **Critical:** True
-- **Additional Notes:** Bantjies had R18.685M reasons to prevent audit, which would discover debt and conflicts
-- **Timeline Phase:** PHASE_004
-- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
-- **Related Applications:** 
-  - APPLICATION_1
-  - APPLICATION_2
-- **Evidence Files:** 
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/dependency_conflict_resolution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/now_guilty_of.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_analysis_module.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/if_bantjies.md
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/CHESNO-FRAUD-EVIDENCE-INDEX.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_curatorship_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/specific_fraud_threat.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_law_expert.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_claims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_trustee_position.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/family_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_dashboard.html
-  - ./lex/RYNETTE_NOT_TRUSTEE_CORRECTION.md
-  - ./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_financial_exposure.md
-  - ./UPDATED_DRAFTS/DRAFT_EVALUATION_WITH_DANIE_BANTJIES_PERJURY.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_detector.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/interest_received.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/1-Critical/DAN_SYSTEM_ACCESS_AUDIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_four_conflicting.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_transfers.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/quadruple_conflict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/next_steps_after.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_account_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/faucitt_family_trust_conspiracy_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_12_deed_of_trust_title.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/interest_calculation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/running_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_property_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_peak_performance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rental_fraud_flow.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_trust_documents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_threat.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v3.scm
-  - ./UPDATED_DRAFTS/analysis-main/UNIFIED_FINANCIAL_INTERESTS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/request_independent_evaluation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pay_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_card_fraud.md
-  - ./lex/trs/za/south_african_trust_law_trustee_beneficiary_conflicts.scm
-  - ./jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_interdict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_use.md
-  - ./docs/strategic/fraud-analysis/ULTIMATE_FRAUD_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_structure_audit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_trail.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_fraud.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.md
-  - ./lex/civ/za/south_african_civil_law_agent_based_conflict_resolution.scm
-  - ./UPDATED_DRAFTS/HMRC_PENSION_CORRESPONDENCE_REDIRECTION_FRAUD_COMPREHENSIVE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/appointed_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/guilt_proven.md
-  - ./docs/strategic/fraud-analysis/CORRECTED_FRAUD_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/showing_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/modifying_elements_after.md
-  - ./UPDATED_DRAFTS/analysis-main/fraudulent_interdict_and_warehouse_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/forex_exposure.md
-  - ./legal_analysis_2025_11/scheme_files/south_african_civil_procedure_ex_parte_fraud_rescission.scm
-  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/TRUST_IMPLICATIONS_UK_PAYMENTS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_beneficiary_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/constructive_trust_on.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_validation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_financial_fraud.md
-  - ./lex/frn/za/south_african_forensic_analysis_systematic_fraud_narrative.scm
-  - ./UPDATED_DRAFTS/analysis-main/auditor_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_pete.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_focus_areas.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_enablement.md
-  - ./docs/strategic/fraud-analysis/SNEAKY_FRAUD_MECHANISM.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_standards_conflict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conflicting_legal_standards.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies_coordination.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/deed_of_trust_reconstructed.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_trail_hijacking.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_firm.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_22_trust_deed_3-6.3.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_risk.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pension_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/process_was_fraudulent.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/immediately_after_murder.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_hijacking.md
-  - ./backups/pre-consolidation/jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.json
-  - ./UPDATED_DRAFTS/TRUSTEE_POWERS_VS_BENEFICIARY_RIGHTS_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_14_trust_registration_contact.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_evidence_submission.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_amount.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_trading.md
-  - ./UPDATED_DRAFTS/analysis-main/affidavits/invariant-guilt-framework/Supplementary_Affidavit_Invariant_Guilt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_appointment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/interest_income_collapse.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF03/hmrc_pension_fraud_action_plan.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/become_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_controls.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pension_fraud_analysis.md
-  - ./jax-response/dan-response-materials/documentation_requests.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_indicator.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_tax_savings.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/international_data_theft_and_invoice_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_after_kayla.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/all_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/partial_audit_trail.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_requests_computer.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/potentially_danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/steinhoff_fraud_case.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/remove_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_28_trust_clauses_6.30-6.34.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf
-  - ./Revenue_Stream_Hijacking_by_Rynette/01_POPIA_Compliant_System/Audit_Trails/Clear_Audit_Trail_System.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_now_faces.md
-  - ./jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.json
-  - ./UPDATED_DRAFTS/analysis-main/hypergnn_fraud_highlights.png
-  - ./UPDATED_DRAFTS/analysis-main/entities/enabling_further_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/now_guilty.md
-  - ./docs/legal/CHARITY_FRAUD_PROVISIONS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_enhancement_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_payment_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/was_fraudulent.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_15_trust_clauses_6.3-6.12.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/double_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_duties_violations.md
-  - ./docs/strategic/fraud-analysis/ADMIN_FEE_FRAUD_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_invoice.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ New Business Account Document Request [REF_1758922975755].pdf
-  - ./UPDATED_DRAFTS/CURATORSHIP_FRAUD_PLAN_COMPREHENSIVE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/wire_fraud_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/primary_fraud_elements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rental_fraud_estimate.md
-  - ./WIP/RULE42(1)(a)APPLICATION-RESCISSIONFORFRAUD.docx
-  - ./2DO/x/regima.zone/jax@regima.zone/AUDIT TRAIL DISAPPEARANCE.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_trail_destruction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_warning.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_node.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_appointment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/joint_financial_interest.md
-  - ./jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_email.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_26_undertaking_auditor.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conflict_resolution_system.md
-  - ./ad-hypergraph-mapping/bantjies_agent_mapper.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/year_fraud_projection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/request_timeout.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_court_response.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/system_access_audit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/system_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/transfer_pricing_fraud.md
-  - ./WIP/RULE42_APPLICATION_RESCISSION_FOR_FRAUD.md
-  - ./jax-dan-response/rule-42-rescission/annexures/ANNEXURE_DF4_Trustee_Appointment_2024-07-01.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/request_body.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_escalation_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_where_he_has_no_interest.md
-  - ./UPDATED_DRAFTS/2_YEAR_ACCOUNTING_BLACKOUT_AFTER_KAYLA_EMAIL_SEIZURE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/against_danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_trail_cessation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/entity_tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_after_evidence.md
-  - ./lex/refinements-2025-11-15/south_african_civil_law_multi_role_conflict_enhanced.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/computer_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_process_obstruction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_trail_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_visualizer.py
-  - ./evidence/bantjies_investment_payout_forecast.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/needed_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_representations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/communication_audit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_request.md
-  - ./docs/legal/CORRECTED_FRAUD_PROVISIONS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_detection_framework.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_appointment_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_pattern_evidence.md
-  - ./ad-hypergraph-mapping/BANTJIES_COMPLETE_HYPERGRAPH_VISUALIZATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_optimization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_scale.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/constructive_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_mechanics.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/incapacity_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/call_action_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_07_trust_registration_form.md
-  - ./2DO/x/rzo.io/d@rzo.io/Re_ New Business Account Document Request [REF_1758931191988].pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/jax_forwards_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/convoluted_language_audit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/customer_trust.md
-  - ./2DO/x/regima.com/dan@regima.com/Rynette Farrar details as requested.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/pension_fraud_action.md
-  - ./UPDATED_DRAFTS/analysis-main/may_22_2025_audit_trail_hijacking_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_trail_disappearance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/interest_payment_flow.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_concealment.md
-  - ./docs/legal/frameworks/EMPLOYMENT_FRAUD_FRAMEWORK.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Request for Information [REF_20231114_055902362_00476].pdf
-  - ./UPDATED_DRAFTS/analysis-main/comprehensive_revenue_hijacking_tax_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_mechanism_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_audit_trail.md
-  - ./lex/civ/za/south_african_civil_law_entity_relationship_conflict_enhanced.scm
-  - ./legal_analysis_2025_11/docx/Rynette_Farrar_A_Case_Study_in_10_10_Conflict_of_Interest_Severity.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/enable_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pull_requests_welcome.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/deprecated_request.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_theory.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_crimes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/renamed_request.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/03_supporting_affidavit_bantjies_medical.md
-  - ./backups/pre-consolidation/jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/disclose_trustee_status.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/about_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_discovery.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_problem_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/public_interest_is.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_audit_trail.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/06_financial_fraud/hmrc_pension_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_may.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/threat_weaponization_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complex_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_04_appointment_main_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/trust_registration_forms.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/against_bantjies.md
-  - ./jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_integration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/framing_persistence_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_08_trust_cover.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_backdating_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/original_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination_pattern.md
-  - ./2DO/x/regima.com/dan@regima.com/Partial Contributions to Timeline_ RegimA _Group_ Financial Fraud (2017-2025).pdf
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_30_bantjes_auditor_letter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_threats.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v5.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_purpose.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/PROFIT_EXTRACTION_FRAUD_ANALYSIS.py
-  - ./UPDATED_DRAFTS/BANTJIES_ULTIMATE_CONTROL_POWER_STRUCTURE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_used.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/did_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/urgent_actions_requested.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme_discovered.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/diverted_audit_trails.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_shopify_email.md
-  - ./ANNEXURES/SF1_Bantjies_Debt_Documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_sophistication.md
-  - ./UPDATED_DRAFTS/analysis-main/ownership_intersection_fraud_map.md
-  - ./legal_analysis_2025_11/docx/RULE42(1)(a)APPLICATION-RESCISSIONFORFRAUD.docx
-  - ./lex/trs/za/south_african_trust_law.scm
-  - ./docs/strategic/fraud-analysis/CHARITY_FRAUD_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_quantification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/too_many_requests.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_fraud_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_kayla.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_actual.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/has_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/subpoena_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_27_trust_clauses_15-19.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge_level.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_03_trust_clauses_6.13-6.22.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/guilt_indicators.md
-  - ./lex/trs/za/south_african_trust_law_enhanced.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_duty_conflicts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/interest_income_loss.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v2.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/informs_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enabled_fraud_instruments.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud_report.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_indicators.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/use_bantjies.md
-  - ./UPDATED_DRAFTS/JACQUI_BETRAYAL_BY_CO_TRUSTEES_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/actual_audit.md
-  - ./2DO/x/regima.zone/jax@regima.zone/TRUSTEE Fw_ Copy of your ID.pdf
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_20_declaration_trustees_signatures.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/misdirected_request.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_trail_status.md
-  - ./docs/reports/verification/CHESNO_FRAUD_DOCUMENTATION_VERIFICATION.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_16_declaration_by_trustees.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/void_fraudulent_interdict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_legal_action.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_communications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_quadruple_conflict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_conduct.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_type.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/backdating_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/that_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/src/fraud_analysis/payment_fraud_analyzer.py
-  - ./jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/annual_tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regulatory_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/PERSONAL_VS_TRUST_ASSETS_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_01_trust_clauses_6.23-6.29.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/card_payment_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/how_trustee_role.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF03/hmrc_pension_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/immediate_aftermath.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_interest.md
-  - ./jax-response/AD/1-Critical/PETER_TRUST_POWER_ABUSE_LEX_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_improvements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_now.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_request.md
-  - ./tests/MERGE_CONFLICT_PREVENTION.md
-  - ./ANNEXURES/SF4_SARS_Audit_Email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/jurisdictional_conflict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_warehouse_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_preparation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_fraud.md
-  - ./evidence/2025-11-14-batch/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/conflict_resolution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/request_independent_verification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_audit_trails_partially_preserved.md
-  - ./docs/strategic/fraud-analysis/TRUE_FRAUD_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme.md
-  - ./2DO/x/regima.zone/dan@regima.zone/danie request.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_trail_diversion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_schemes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_asset_value.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/jurisdictional_conflict_risk.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/million_bantjies_debt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/common_interest.md
-  - ./UPDATED_DRAFTS/analysis-main/rezonance_payment_fraud_update.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/mail_fraud.md
-  - ./jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md
-  - ./UPDATED_DRAFTS/Fraudulent_Use_of_Interdict_and_Warehouse_Sabotage (1).docx
-  - ./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.png
-  - ./lex/civ/za/south_african_civil_law_agent_based_conflict_resolution_v2.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/expected_fraudulent_allocations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_payment_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_risk_connection.md
-  - ./UPDATED_DRAFTS/analysis-main/tax_fraud_scheme_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_potential_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_overview_enhanced.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conflicts_identified.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/computer_fraud_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_indicators.md
-  - ./evidence/identity-documents/BANTJIES_ID_DOCUMENT.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/misaligned_conflict.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/revenue_stream_hijacking_by_rynette/audit_trails/Customer_Communication_Audit_Trails.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/expense_attribution_fraud.md
-  - ./jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_requirements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/common_law_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_actors_table.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/interest_elimination.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ 2025-05-23 - Audit Trail Disappears - Revenue Order & Payment Records Divert.pdf
-  - ./jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/executive_summary_after.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/creditor_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/technology_audit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/from_trust_records.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/identity_fraud.md
-  - ./.github/ISSUE_TEMPLATE/feature_request.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_evidence_submission.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_investment_payout.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/jax_confronted_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sue_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proxy_authorization_requests.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_prevention.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v6.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/creates_tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_conflict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_scheme.md
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md
-  - ./legal_analysis_2025_11/scheme_files/south_african_professional_ethics_multi_party_conflicts.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_name.md
-  - ./UPDATED_DRAFTS/JUNE_6_10_EMAILS_DANIE_BANTJIES.txt
-  - ./UPDATED_DRAFTS/analysis-main/affidavits/invariant-guilt-framework/Invariant_Guilt_Framework.md
-  - ./UPDATED_DRAFTS/TRUSTEE_CONSPIRACY_COMPREHENSIVE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/quality_audits.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_shopify_evidence.md
-  - ./lex/prof-eth/za/south_african_professional_ethics_multi_party_conflicts.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_law.md
-  - ./ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_24_trust_application_form.md
-  - ./2DO/x/regima.com/dan@regima.com/Mr.Bantjies Forgot to Include in His Affidavit.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_financial_audit.md
-  - ./lex-inference-engine/output/universal_guilt_mathematical_proof.json
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ New Business Account Document Request [REF_1758931191988].pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/initial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_scheme.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_flow_diagram.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/jurisdictional_conflicts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_dissolution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/validation_request.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/transfer_pricing_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/strong_public_interest.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/gaslighting_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/backdating_fraud_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_law.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/via_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bad_request.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proves_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_law.md
-  - ./jax-dan-response/documentation_requests.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_conflicts.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.jpg
-  - ./docs/legal/frameworks/MISREPRESENTATION_FRAUD_FRAMEWORK.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_cases_table.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_asset_investigation.md
-  - ./lex/eth/za/south_african_professional_ethics_multi_party_conflicts.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/deleting_audit_trails.md
-  - ./UPDATED_DRAFTS/analysis-main/tools/ai_fraud_detector.py
-  - ./jax-dan-response/AD/1-Critical/DAN_SYSTEM_ACCESS_AUDIT.md
-  - ./docs/technical/implementation/MERGE_CONFLICT_RESOLUTION.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ New Business Account Document Request [REF_1758931191988](1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_amount.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/receives_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_pattern_detection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_warning_issued.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/COVERT_TRUSTEE_WEAPONIZATION_PROOF.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_method.md
-  - ./UPDATED_DRAFTS/BANTJIES_DEBTOR_MOTIVE_CRIMINAL_ANALYSIS.md
-  - ./jax-dan-response/criminal-complaint/annexures/ANNEXURE_JAF6_Data_Subject_Access_Request.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/action_fraud_report.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/original_request.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-06_DAN_TO_BANTJIES_FRAUD_REPORTS.eml
-  - ./UPDATED_DRAFTS/analysis-main/entities/avoid_conflicts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/faucitt_family_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/mail_redirection_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/existing_fraud_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/therefore_bantjies.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_allocation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_independence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_proceeds.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/possibly_danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_damages.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/connected_financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_this_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_audit_trails.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_tax_fraud.md
-  - ./2DO/x/regima.com/dan@regima.com/2025-05-23 - Audit Trail Disappears - Revenue Order & Payment Records Diverted.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/request_expedited_hearing.md
-  - ./evidence/bantjies_debt/BantjiesInvestmentPayoutDates2026-05.jpg
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_flow_diagram.png
-  - ./UPDATED_DRAFTS/analysis-main/entities/unified_financial_interests.md
-  - ./backups/pre-consolidation/jax-dan-response/documentation_requests.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraud_mechanism.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shows_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/curatorship_fraud_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustees_personally_liable.md
-  - ./evidence/2025-11-14-batch-3/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_documents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_trails_would.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_faces.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/all_interested_parties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_risk_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/audit_trail_hijacking_timeline.md
-  - ./backups/pre-consolidation/jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v8.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/potentially_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/interest_paid.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_information.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/adding_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/bantjies_investment_payout_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/immediate_tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_17_trust_registration_amendment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/national_fraud_intelligence.md
-  - ./jax-dan-response/annexures/2025-11-14-evidence-batch/ANNEXURE_C_Trustee_Appointment_Email_2024-07-01.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_fraud_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/trustee_acceptance_forms.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/domain_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/documents_prove_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/action_fraud.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_act.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_founder.md
-  - ./evidence/identity-documents/BANTJIES_ID_DOCUMENT.md
-  - ./jax-response/evidence-attachments/CHESNO-FRAUD-EVIDENCE-INDEX.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/serious_fraud_office.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/request_best_practices.md
-  - ./docs/legal/ULTIMATE_FRAUD_PROVISIONS.md
-  - ./backups/pre-consolidation/jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/strength_after_validation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/public_interest.md
-  - ./UPDATED_DRAFTS/SARS_AUDIT_EMAIL_BANTJIES_INSTRUCTIONS_SMOKING_GUN.md
-  - ./ad-hypergraph-mapping/bantjies_hypergraph_analysis_report.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/request_header_fields.md
-  - ./UPDATED_DRAFTS/analysis-main/BANTJIES_DEBT_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_classification_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/excess_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/through_action_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_trail_disappears.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v4.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/allocation_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/invoice_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_risks.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_trail_cutoff.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_law_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_interest.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_logging.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/rezonance/financial_reports/payment_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_through_misrepresentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/interest_screening.md
-  - ./UPDATED_DRAFTS/analysis-main/affidavits/invariant-guilt-framework/Invariant_Guilt_Application_Rynette.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies_financial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enabled_fraud_threats.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_05_trust_clauses_8-14.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_role.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/call_serious_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_sequence.md
-  - ./jax-response/evidence-attachments/dan-technical/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/performance_after_may.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_invoice_conspiracy.md
-  - ./legal_analysis_2025_11/scheme_files/south_african_forensic_analysis_systematic_fraud_narrative.scm
-  - ./lex/evid/za/south_african_evidence_systematic_fraud_patterns.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_audit_trails_completely_erased.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraud_exposed.md
-  - ./lex/trs/za/south_african_trust_law_temporal_analysis.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_interdict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_false_impartiality.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_scope_extension.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_18_acceptance_trusteeship_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/public_interest_considerations.md
-  - ./jax-response/AD/dan-perspective/1-Critical/DAN_SYSTEM_ACCESS_AUDIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/organizational_conflict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_payment_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/systematic_sabotage_and_curatorship_fraud_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/specific_fraud_mechanism.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_bank_evidence.md
-  - ./jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/interest_fraud.md
-  - ./lex/civ-proc/za/south_african_civil_procedure_ex_parte_fraud.scm
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ TRUSTEE Fw_ Copy of your ID.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/forensic_auditor_red.md
-  - ./UPDATED_DRAFTS/analysis-main/ownership_intersection_fraud_map.png
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/use_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_allegations.md
-  - ./UPDATED_DRAFTS/analysis-main/TRUST_DEED_LEGAL_FRAMEWORK_ANALYSIS.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conflicting_information.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_invoice_claims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_evidence_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_debt.md
-  - ./evidence/computer-expenses/SARS Audit Documentation Package.md
-  - ./jax-dan-response/evidence-attachments/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/added_request.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enables_tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/case_draft_docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF4_SARS_AUDIT_WITH_EMAILS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_actors.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/forensic_audit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_fraud_scheme.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_11_acceptance_trusteeship_jacqueline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_criminal_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_detection_risks.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_happens_after.md
-  - ./UPDATED_DRAFTS/analysis-main/CRITICAL_FRAUD_TIMELINE_UPDATE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/prove_consciousness.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/public_interest_factors.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/06_financial_fraud/hmrc_pension_fraud_action_plan.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/audit_trail_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_investigation.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v7.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/wire_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/year_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conflict_detection_identifies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/interest_costs.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_suggesting_trust.md
-  - ./UPDATED_DRAFTS/DANIE_BANTJIES_PERJURY_ANALYSIS_COMPREHENSIVE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/interest_income_drop.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sa_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/accountant_danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/hypergnn_fraud_highlights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/why_bantjies.md
-  - ./evidence/bantjies_investment_payout_forecast.txt
-  - ./UPDATED_DRAFTS/analysis-main/entities/transfer_pricing_audit.md
-  - ./lex/FAKE_ACCOUNTS_FABRICATION_FRAUD_2025-11-18.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/request_court_oversight.md
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_overview_enhanced.png
-  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_fraud_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/maximum_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_report.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/cultural_competency_audit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_audit_trail.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_evolution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_implementation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_investigation.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.eml
-  - ./UPDATED_DRAFTS/analysis-main/entities/demonstrating_motive.md
-  - ./evidence/annexures/JF-CHESNO3_POLICE_REPORTS_FRAUD_INVESTIGATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies.md
-  - ./UPDATED_DRAFTS/WAREHOUSE_FRAUD_PERJURY_CENTRAL_EVIDENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_facilitation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/family_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_installation.md
-  - ./jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_status.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_structure_created.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/south_african_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/august_2025_fraudulent_appointment_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates_all.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/get_bantjies.md
-  - ./evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./lex/civ/za/south_african_civil_procedure_ex_parte_fraud_rescission.scm
-  - ./jax-dan-response/AD/2-High-Priority/CONFLICT_OF_INTEREST_COMPREHENSIVE_ANALYSIS.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/deduction_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/forensic_auditor.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/interest_exploitation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pull_requests.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_trustee_appointment.md
-  - ./lex-inference-engine/universal-guilt-determination.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme_evolution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_insights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/uses_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/all_interested.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/main_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_crimes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_position_creates.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates_everything.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pull_request.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_letter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knew_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/backdated_trustee_appointment.md
-  - ./lex/refinements-2025-11-16/south_african_civil_law_multi_role_conflict_enhanced_v2.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/when_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_fraud_losses.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/requests_dan.md
-  - ./lex/SHOPIFY_REVENUE_FRAUD_REGIMA_ZONE_UK_OWNERSHIP_2025-11-18.md
-- **Ad Res J7 References:** 
-  - See files related to: Bantjies, dismisses, Daniel's, audit, request, after, fraud, exposure, (June, demonstrating, consciousness, guilt, conflict, interest, given, R18.685M, trust
-- **Crime Category:** trust_violations
-- **Phase:** PHASE_004
-- **Event Subtype:** fraud_concealment_audit_dismissal
-- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_026
-- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
-- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
-- **Evidence Urls:** 
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/international_fraud_implications.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/dependency_conflict_resolution.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/now_guilty_of.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/fraud_charges.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/fraud_analysis_module.md
-- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_026.html
-- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_026
-- **Related Application:** APPLICATION_1
-- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
-- **Ad Res J7 Evidence:** 
-  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
-  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}
+**Description:**
+Bantjies dismisses Daniel's audit request 4 days after fraud exposure (June 6), demonstrating consciousness of guilt and conflict of interest given R18.685M debt to trust
+
+## Evidence References
+
+No specific evidence linked.
+
+## Raw Data
+
+```json
+{
+  "event_id": "EVENT_026",
+  "date": "2025-06-10",
+  "title": "Bantjies Dismisses Audit Request",
+  "category": "fraud_concealment",
+  "event_type": "audit_dismissal",
+  "perpetrators": [
+    "PERSON_007"
+  ],
+  "victims": [
+    "PERSON_005",
+    "TRUST_001"
+  ],
+  "entities_involved": [
+    "PERSON_007",
+    "regima_group"
+  ],
+  "description": "Bantjies dismisses Daniel's audit request 4 days after fraud exposure (June 6), demonstrating consciousness of guilt and conflict of interest given R18.685M debt to trust",
+  "financial_impact": "R18,685,000",
+  "legal_significance": "consciousness_of_guilt_conflict_of_interest_breach_of_fiduciary_duty",
+  "evidence": [
+    "audit_request_dismissal_documentation",
+    "bantjies_debt_records"
+  ],
+  "pattern": "consolidation_phase",
+  "critical": true,
+  "additional_notes": "Bantjies had R18.685M reasons to prevent audit, which would discover debt and conflicts",
+  "timeline_phase": "PHASE_004",
+  "extended_evidence_note": "See ad-res-j7 repository for detailed supporting documentation",
+  "related_applications": [
+    "APPLICATION_1",
+    "APPLICATION_2"
+  ],
+  "evidence_files": [
+    "./UPDATED_DRAFTS/analysis-main/entities/international_fraud_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/dependency_conflict_resolution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/now_guilty_of.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_analysis_module.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/if_bantjies.md",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/CHESNO-FRAUD-EVIDENCE-INDEX.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_curatorship_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/specific_fraud_threat.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_law_expert.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_claims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_trustee_position.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/family_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_dashboard.html",
+    "./lex/RYNETTE_NOT_TRUSTEE_CORRECTION.md",
+    "./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_financial_exposure.md",
+    "./UPDATED_DRAFTS/DRAFT_EVALUATION_WITH_DANIE_BANTJIES_PERJURY.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_detector.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/interest_received.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/1-Critical/DAN_SYSTEM_ACCESS_AUDIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_four_conflicting.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_transfers.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/quadruple_conflict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/next_steps_after.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_account_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/faucitt_family_trust_conspiracy_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_12_deed_of_trust_title.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/interest_calculation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/running_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_property_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_peak_performance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rental_fraud_flow.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_trust_documents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_threat.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v3.scm",
+    "./UPDATED_DRAFTS/analysis-main/UNIFIED_FINANCIAL_INTERESTS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/request_independent_evaluation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pay_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_card_fraud.md",
+    "./lex/trs/za/south_african_trust_law_trustee_beneficiary_conflicts.scm",
+    "./jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_interdict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_use.md",
+    "./docs/strategic/fraud-analysis/ULTIMATE_FRAUD_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_structure_audit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_trail.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_fraud.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.md",
+    "./lex/civ/za/south_african_civil_law_agent_based_conflict_resolution.scm",
+    "./UPDATED_DRAFTS/HMRC_PENSION_CORRESPONDENCE_REDIRECTION_FRAUD_COMPREHENSIVE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/appointed_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/guilt_proven.md",
+    "./docs/strategic/fraud-analysis/CORRECTED_FRAUD_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/showing_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/modifying_elements_after.md",
+    "./UPDATED_DRAFTS/analysis-main/fraudulent_interdict_and_warehouse_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/forex_exposure.md",
+    "./legal_analysis_2025_11/scheme_files/south_african_civil_procedure_ex_parte_fraud_rescission.scm",
+    "./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/TRUST_IMPLICATIONS_UK_PAYMENTS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_beneficiary_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/constructive_trust_on.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_validation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_financial_fraud.md",
+    "./lex/frn/za/south_african_forensic_analysis_systematic_fraud_narrative.scm",
+    "./UPDATED_DRAFTS/analysis-main/auditor_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_pete.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_focus_areas.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_enablement.md",
+    "./docs/strategic/fraud-analysis/SNEAKY_FRAUD_MECHANISM.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_standards_conflict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conflicting_legal_standards.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies_coordination.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corporate_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/deed_of_trust_reconstructed.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_trail_hijacking.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_firm.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_22_trust_deed_3-6.3.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_risk.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pension_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/process_was_fraudulent.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/immediately_after_murder.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_hijacking.md",
+    "./backups/pre-consolidation/jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.json",
+    "./UPDATED_DRAFTS/TRUSTEE_POWERS_VS_BENEFICIARY_RIGHTS_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_14_trust_registration_contact.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_evidence_submission.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_amount.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_trading.md",
+    "./UPDATED_DRAFTS/analysis-main/affidavits/invariant-guilt-framework/Supplementary_Affidavit_Invariant_Guilt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_appointment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/interest_income_collapse.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF03/hmrc_pension_fraud_action_plan.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/become_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_controls.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pension_fraud_analysis.md",
+    "./jax-response/dan-response-materials/documentation_requests.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_indicator.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_tax_savings.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/international_data_theft_and_invoice_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_after_kayla.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/accounting_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/all_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/partial_audit_trail.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_requests_computer.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/potentially_danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/steinhoff_fraud_case.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/remove_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_28_trust_clauses_6.30-6.34.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf",
+    "./Revenue_Stream_Hijacking_by_Rynette/01_POPIA_Compliant_System/Audit_Trails/Clear_Audit_Trail_System.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_now_faces.md",
+    "./jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.json",
+    "./UPDATED_DRAFTS/analysis-main/hypergnn_fraud_highlights.png",
+    "./UPDATED_DRAFTS/analysis-main/entities/enabling_further_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/now_guilty.md",
+    "./docs/legal/CHARITY_FRAUD_PROVISIONS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_enhancement_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_payment_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/was_fraudulent.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_15_trust_clauses_6.3-6.12.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/double_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_duties_violations.md",
+    "./docs/strategic/fraud-analysis/ADMIN_FEE_FRAUD_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_invoice.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ New Business Account Document Request [REF_1758922975755].pdf",
+    "./UPDATED_DRAFTS/CURATORSHIP_FRAUD_PLAN_COMPREHENSIVE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/wire_fraud_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/primary_fraud_elements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rental_fraud_estimate.md",
+    "./WIP/RULE42(1)(a)APPLICATION-RESCISSIONFORFRAUD.docx",
+    "./2DO/x/regima.zone/jax@regima.zone/AUDIT TRAIL DISAPPEARANCE.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_trail_destruction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_warning.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_node.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_appointment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/joint_financial_interest.md",
+    "./jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_email.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_26_undertaking_auditor.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conflict_resolution_system.md",
+    "./ad-hypergraph-mapping/bantjies_agent_mapper.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/year_fraud_projection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/request_timeout.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_court_response.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/system_access_audit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/system_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/transfer_pricing_fraud.md",
+    "./WIP/RULE42_APPLICATION_RESCISSION_FOR_FRAUD.md",
+    "./jax-dan-response/rule-42-rescission/annexures/ANNEXURE_DF4_Trustee_Appointment_2024-07-01.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/request_body.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_escalation_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_where_he_has_no_interest.md",
+    "./UPDATED_DRAFTS/2_YEAR_ACCOUNTING_BLACKOUT_AFTER_KAYLA_EMAIL_SEIZURE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/against_danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_trail_cessation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/entity_tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/escalation_after_evidence.md",
+    "./lex/refinements-2025-11-15/south_african_civil_law_multi_role_conflict_enhanced.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/computer_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_process_obstruction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_trail_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_visualizer.py",
+    "./evidence/bantjies_investment_payout_forecast.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/needed_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_representations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/communication_audit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_request.md",
+    "./docs/legal/CORRECTED_FRAUD_PROVISIONS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_detection_framework.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_appointment_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_pattern_evidence.md",
+    "./ad-hypergraph-mapping/BANTJIES_COMPLETE_HYPERGRAPH_VISUALIZATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_optimization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_scale.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/constructive_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_mechanics.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/incapacity_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/call_action_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_07_trust_registration_form.md",
+    "./2DO/x/rzo.io/d@rzo.io/Re_ New Business Account Document Request [REF_1758931191988].pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/jax_forwards_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/convoluted_language_audit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/customer_trust.md",
+    "./2DO/x/regima.com/dan@regima.com/Rynette Farrar details as requested.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/pension_fraud_action.md",
+    "./UPDATED_DRAFTS/analysis-main/may_22_2025_audit_trail_hijacking_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_trail_disappearance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/interest_payment_flow.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_concealment.md",
+    "./docs/legal/frameworks/EMPLOYMENT_FRAUD_FRAMEWORK.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ Request for Information [REF_20231114_055902362_00476].pdf",
+    "./UPDATED_DRAFTS/analysis-main/comprehensive_revenue_hijacking_tax_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_mechanism_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_audit_trail.md",
+    "./lex/civ/za/south_african_civil_law_entity_relationship_conflict_enhanced.scm",
+    "./legal_analysis_2025_11/docx/Rynette_Farrar_A_Case_Study_in_10_10_Conflict_of_Interest_Severity.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/enable_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pull_requests_welcome.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/deprecated_request.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_theory.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_crimes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/renamed_request.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/03_supporting_affidavit_bantjies_medical.md",
+    "./backups/pre-consolidation/jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/disclose_trustee_status.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/about_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_discovery.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_problem_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/public_interest_is.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_audit_trail.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/06_financial_fraud/hmrc_pension_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_may.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/threat_weaponization_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complex_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_04_appointment_main_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/trust_registration_forms.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/against_bantjies.md",
+    "./jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_integration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/framing_persistence_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_08_trust_cover.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_backdating_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/original_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination_pattern.md",
+    "./2DO/x/regima.com/dan@regima.com/Partial Contributions to Timeline_ RegimA _Group_ Financial Fraud (2017-2025).pdf",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_30_bantjes_auditor_letter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_threats.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v5.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_purpose.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/PROFIT_EXTRACTION_FRAUD_ANALYSIS.py",
+    "./UPDATED_DRAFTS/BANTJIES_ULTIMATE_CONTROL_POWER_STRUCTURE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_used.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/did_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/urgent_actions_requested.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme_discovered.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/diverted_audit_trails.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_shopify_email.md",
+    "./ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_sophistication.md",
+    "./UPDATED_DRAFTS/analysis-main/ownership_intersection_fraud_map.md",
+    "./legal_analysis_2025_11/docx/RULE42(1)(a)APPLICATION-RESCISSIONFORFRAUD.docx",
+    "./lex/trs/za/south_african_trust_law.scm",
+    "./docs/strategic/fraud-analysis/CHARITY_FRAUD_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_quantification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/too_many_requests.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_fraud_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_kayla.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_actual.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/has_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/subpoena_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_27_trust_clauses_15-19.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge_level.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_fraud_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_03_trust_clauses_6.13-6.22.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/guilt_indicators.md",
+    "./lex/trs/za/south_african_trust_law_enhanced.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_duty_conflicts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/interest_income_loss.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v2.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/informs_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enabled_fraud_instruments.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_fraud_report.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_indicators.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/use_bantjies.md",
+    "./UPDATED_DRAFTS/JACQUI_BETRAYAL_BY_CO_TRUSTEES_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/actual_audit.md",
+    "./2DO/x/regima.zone/jax@regima.zone/TRUSTEE Fw_ Copy of your ID.pdf",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_20_declaration_trustees_signatures.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/misdirected_request.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_trail_status.md",
+    "./docs/reports/verification/CHESNO_FRAUD_DOCUMENTATION_VERIFICATION.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_16_declaration_by_trustees.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/void_fraudulent_interdict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_legal_action.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_communications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_quadruple_conflict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_conduct.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_type.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/backdating_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/that_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/src/fraud_analysis/payment_fraud_analyzer.py",
+    "./jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/annual_tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regulatory_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/PERSONAL_VS_TRUST_ASSETS_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_01_trust_clauses_6.23-6.29.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/card_payment_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/how_trustee_role.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF03/hmrc_pension_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/immediate_aftermath.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_interest.md",
+    "./jax-response/AD/1-Critical/PETER_TRUST_POWER_ABUSE_LEX_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_improvements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_now.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_request.md",
+    "./tests/MERGE_CONFLICT_PREVENTION.md",
+    "./ANNEXURES/SF4_SARS_Audit_Email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/jurisdictional_conflict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_warehouse_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_preparation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_fraud.md",
+    "./evidence/2025-11-14-batch/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/conflict_resolution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/request_independent_verification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_audit_trails_partially_preserved.md",
+    "./docs/strategic/fraud-analysis/TRUE_FRAUD_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme.md",
+    "./2DO/x/regima.zone/dan@regima.zone/danie request.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_trail_diversion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_schemes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_asset_value.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/jurisdictional_conflict_risk.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/million_bantjies_debt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/common_interest.md",
+    "./UPDATED_DRAFTS/analysis-main/rezonance_payment_fraud_update.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/mail_fraud.md",
+    "./jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md",
+    "./UPDATED_DRAFTS/Fraudulent_Use_of_Interdict_and_Warehouse_Sabotage (1).docx",
+    "./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.png",
+    "./lex/civ/za/south_african_civil_law_agent_based_conflict_resolution_v2.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/expected_fraudulent_allocations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_payment_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_risk_connection.md",
+    "./UPDATED_DRAFTS/analysis-main/tax_fraud_scheme_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_potential_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_overview_enhanced.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conflicts_identified.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/computer_fraud_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_indicators.md",
+    "./evidence/identity-documents/BANTJIES_ID_DOCUMENT.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/misaligned_conflict.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/revenue_stream_hijacking_by_rynette/audit_trails/Customer_Communication_Audit_Trails.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/expense_attribution_fraud.md",
+    "./jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_requirements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/common_law_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_actors_table.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/interest_elimination.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ 2025-05-23 - Audit Trail Disappears - Revenue Order & Payment Records Divert.pdf",
+    "./jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/executive_summary_after.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/creditor_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/technology_audit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/from_trust_records.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/identity_fraud.md",
+    "./.github/ISSUE_TEMPLATE/feature_request.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_evidence_submission.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_investment_payout.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/jax_confronted_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sue_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proxy_authorization_requests.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_prevention.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v6.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/creates_tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_conflict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_scheme.md",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md",
+    "./legal_analysis_2025_11/scheme_files/south_african_professional_ethics_multi_party_conflicts.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_name.md",
+    "./UPDATED_DRAFTS/JUNE_6_10_EMAILS_DANIE_BANTJIES.txt",
+    "./UPDATED_DRAFTS/analysis-main/affidavits/invariant-guilt-framework/Invariant_Guilt_Framework.md",
+    "./UPDATED_DRAFTS/TRUSTEE_CONSPIRACY_COMPREHENSIVE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/quality_audits.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_shopify_evidence.md",
+    "./lex/prof-eth/za/south_african_professional_ethics_multi_party_conflicts.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_law.md",
+    "./ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_24_trust_application_form.md",
+    "./2DO/x/regima.com/dan@regima.com/Mr.Bantjies Forgot to Include in His Affidavit.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_financial_audit.md",
+    "./lex-inference-engine/output/universal_guilt_mathematical_proof.json",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ New Business Account Document Request [REF_1758931191988].pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/initial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_scheme.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_flow_diagram.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/jurisdictional_conflicts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_dissolution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/validation_request.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/transfer_pricing_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/strong_public_interest.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/gaslighting_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/backdating_fraud_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_law.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/via_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bad_request.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proves_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_law.md",
+    "./jax-dan-response/documentation_requests.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_conflicts.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.jpg",
+    "./docs/legal/frameworks/MISREPRESENTATION_FRAUD_FRAMEWORK.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_cases_table.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_asset_investigation.md",
+    "./lex/eth/za/south_african_professional_ethics_multi_party_conflicts.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/deleting_audit_trails.md",
+    "./UPDATED_DRAFTS/analysis-main/tools/ai_fraud_detector.py",
+    "./jax-dan-response/AD/1-Critical/DAN_SYSTEM_ACCESS_AUDIT.md",
+    "./docs/technical/implementation/MERGE_CONFLICT_RESOLUTION.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ New Business Account Document Request [REF_1758931191988](1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_amount.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/receives_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_pattern_detection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_warning_issued.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/COVERT_TRUSTEE_WEAPONIZATION_PROOF.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_method.md",
+    "./UPDATED_DRAFTS/BANTJIES_DEBTOR_MOTIVE_CRIMINAL_ANALYSIS.md",
+    "./jax-dan-response/criminal-complaint/annexures/ANNEXURE_JAF6_Data_Subject_Access_Request.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/action_fraud_report.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/original_request.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/2025-06-06_DAN_TO_BANTJIES_FRAUD_REPORTS.eml",
+    "./UPDATED_DRAFTS/analysis-main/entities/avoid_conflicts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/faucitt_family_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/mail_redirection_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/existing_fraud_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/therefore_bantjies.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_allocation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_independence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_proceeds.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/possibly_danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_damages.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/connected_financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_this_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_audit_trails.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_tax_fraud.md",
+    "./2DO/x/regima.com/dan@regima.com/2025-05-23 - Audit Trail Disappears - Revenue Order & Payment Records Diverted.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/request_expedited_hearing.md",
+    "./evidence/bantjies_debt/BantjiesInvestmentPayoutDates2026-05.jpg",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_flow_diagram.png",
+    "./UPDATED_DRAFTS/analysis-main/entities/unified_financial_interests.md",
+    "./backups/pre-consolidation/jax-dan-response/documentation_requests.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraud_mechanism.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shows_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/curatorship_fraud_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustees_personally_liable.md",
+    "./evidence/2025-11-14-batch-3/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_documents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_trails_would.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_faces.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/all_interested_parties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_risk_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/audit_trail_hijacking_timeline.md",
+    "./backups/pre-consolidation/jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v8.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/potentially_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/interest_paid.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_information.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/adding_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_annual_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/bantjies_investment_payout_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/immediate_tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_17_trust_registration_amendment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/national_fraud_intelligence.md",
+    "./jax-dan-response/annexures/2025-11-14-evidence-batch/ANNEXURE_C_Trustee_Appointment_Email_2024-07-01.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_fraud_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/trustee_acceptance_forms.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/domain_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/documents_prove_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/action_fraud.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_act.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_founder.md",
+    "./evidence/identity-documents/BANTJIES_ID_DOCUMENT.md",
+    "./jax-response/evidence-attachments/CHESNO-FRAUD-EVIDENCE-INDEX.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/serious_fraud_office.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/request_best_practices.md",
+    "./docs/legal/ULTIMATE_FRAUD_PROVISIONS.md",
+    "./backups/pre-consolidation/jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/strength_after_validation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/public_interest.md",
+    "./UPDATED_DRAFTS/SARS_AUDIT_EMAIL_BANTJIES_INSTRUCTIONS_SMOKING_GUN.md",
+    "./ad-hypergraph-mapping/bantjies_hypergraph_analysis_report.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/request_header_fields.md",
+    "./UPDATED_DRAFTS/analysis-main/BANTJIES_DEBT_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_classification_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/excess_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/through_action_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_trail_disappears.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v4.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/allocation_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/invoice_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_risks.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_trail_cutoff.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_law_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_interest.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_logging.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/rezonance/financial_reports/payment_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_through_misrepresentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/interest_screening.md",
+    "./UPDATED_DRAFTS/analysis-main/affidavits/invariant-guilt-framework/Invariant_Guilt_Application_Rynette.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies_financial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enabled_fraud_threats.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_05_trust_clauses_8-14.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_role.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/call_serious_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_sequence.md",
+    "./jax-response/evidence-attachments/dan-technical/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/performance_after_may.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_invoice_conspiracy.md",
+    "./legal_analysis_2025_11/scheme_files/south_african_forensic_analysis_systematic_fraud_narrative.scm",
+    "./lex/evid/za/south_african_evidence_systematic_fraud_patterns.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_audit_trails_completely_erased.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraud_exposed.md",
+    "./lex/trs/za/south_african_trust_law_temporal_analysis.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_interdict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_false_impartiality.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_scope_extension.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_18_acceptance_trusteeship_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/public_interest_considerations.md",
+    "./jax-response/AD/dan-perspective/1-Critical/DAN_SYSTEM_ACCESS_AUDIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/organizational_conflict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_payment_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/systematic_sabotage_and_curatorship_fraud_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/specific_fraud_mechanism.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_bank_evidence.md",
+    "./jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/interest_fraud.md",
+    "./lex/civ-proc/za/south_african_civil_procedure_ex_parte_fraud.scm",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ TRUSTEE Fw_ Copy of your ID.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/forensic_auditor_red.md",
+    "./UPDATED_DRAFTS/analysis-main/ownership_intersection_fraud_map.png",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/use_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_allegations.md",
+    "./UPDATED_DRAFTS/analysis-main/TRUST_DEED_LEGAL_FRAMEWORK_ANALYSIS.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conflicting_information.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_invoice_claims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_evidence_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_debt.md",
+    "./evidence/computer-expenses/SARS Audit Documentation Package.md",
+    "./jax-dan-response/evidence-attachments/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/added_request.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enables_tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/case_draft_docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF4_SARS_AUDIT_WITH_EMAILS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_actors.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/forensic_audit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_fraud_scheme.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_11_acceptance_trusteeship_jacqueline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_criminal_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_detection_risks.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_happens_after.md",
+    "./UPDATED_DRAFTS/analysis-main/CRITICAL_FRAUD_TIMELINE_UPDATE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/prove_consciousness.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/public_interest_factors.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/06_financial_fraud/hmrc_pension_fraud_action_plan.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/audit_trail_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_investigation.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v7.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/wire_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/year_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conflict_detection_identifies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/interest_costs.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/timeline_suggesting_trust.md",
+    "./UPDATED_DRAFTS/DANIE_BANTJIES_PERJURY_ANALYSIS_COMPREHENSIVE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/interest_income_drop.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sa_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/accountant_danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/hypergnn_fraud_highlights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/why_bantjies.md",
+    "./evidence/bantjies_investment_payout_forecast.txt",
+    "./UPDATED_DRAFTS/analysis-main/entities/transfer_pricing_audit.md",
+    "./lex/FAKE_ACCOUNTS_FABRICATION_FRAUD_2025-11-18.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/request_court_oversight.md",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_overview_enhanced.png",
+    "./UPDATED_DRAFTS/analysis-main/entities/corporate_fraud_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/maximum_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_report.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/cultural_competency_audit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_audit_trail.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_evolution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_implementation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_investigation.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.eml",
+    "./UPDATED_DRAFTS/analysis-main/entities/demonstrating_motive.md",
+    "./evidence/annexures/JF-CHESNO3_POLICE_REPORTS_FRAUD_INVESTIGATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies.md",
+    "./UPDATED_DRAFTS/WAREHOUSE_FRAUD_PERJURY_CENTRAL_EVIDENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_facilitation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/family_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_installation.md",
+    "./jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_status.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_structure_created.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/south_african_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/august_2025_fraudulent_appointment_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates_all.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/get_bantjies.md",
+    "./evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./lex/civ/za/south_african_civil_procedure_ex_parte_fraud_rescission.scm",
+    "./jax-dan-response/AD/2-High-Priority/CONFLICT_OF_INTEREST_COMPREHENSIVE_ANALYSIS.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/deduction_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/forensic_auditor.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/interest_exploitation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pull_requests.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_trustee_appointment.md",
+    "./lex-inference-engine/universal-guilt-determination.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme_evolution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_insights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/uses_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/all_interested.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/main_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_crimes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_position_creates.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates_everything.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pull_request.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_letter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knew_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/backdated_trustee_appointment.md",
+    "./lex/refinements-2025-11-16/south_african_civil_law_multi_role_conflict_enhanced_v2.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/when_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_fraud_losses.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/requests_dan.md",
+    "./lex/SHOPIFY_REVENUE_FRAUD_REGIMA_ZONE_UK_OWNERSHIP_2025-11-18.md"
+  ],
+  "ad_res_j7_references": [
+    "See files related to: Bantjies, dismisses, Daniel's, audit, request, after, fraud, exposure, (June, demonstrating, consciousness, guilt, conflict, interest, given, R18.685M, trust"
+  ],
+  "crime_category": "trust_violations",
+  "phase": "PHASE_004",
+  "event_subtype": "fraud_concealment_audit_dismissal",
+  "github_pages_reference": "https://cogpy.github.io/revstream1/applications.md#event_026",
+  "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+  "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+  "evidence_urls": [
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/international_fraud_implications.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/dependency_conflict_resolution.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/now_guilty_of.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/fraud_charges.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/fraud_analysis_module.md"
+  ],
+  "github_pages_url": "https://cogpy.github.io/revstream1/events/EVENT_026.html",
+  "timeline_reference": "https://cogpy.github.io/revstream1/timeline.html#EVENT_026",
+  "related_application": "APPLICATION_1",
+  "application_url": "https://cogpy.github.io/revstream1/application-1.html",
+  "ad_res_j7_evidence": [
+    {
+      "source": "case_2025_137857/",
+      "description": "Case documentation and analysis",
+      "url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857"
+    },
+    {
+      "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "description": "Complete evidence catalog (2,866 files)",
+      "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
+    }
+  ],
+  "ad_res_j7_cross_references": [
+    "Evidence documented in ad-res-j7 repository",
+    "See ANNEXURES for event EVENT_026",
+    "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+  ],
+  "evidence_references": [
+    "case_2025_137857/02_evidence/",
+    "ANNEXURES/",
+    "docs/"
+  ]
+}
+```

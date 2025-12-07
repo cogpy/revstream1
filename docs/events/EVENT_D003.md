@@ -1,416 +1,462 @@
-# ReZonance Final Balance Persistent Debt
+---
+layout: default
+title: ReZonance Final Balance Persistent Debt
+---
+# ReZonance Final Balance Persistent Debt (EVENT_D003)
 
-**Event ID:** `EVENT_D003`
 **Date:** 2023-02-28
 
-- **Category:** debt_accumulation
-- **Event Type:** unpaid_debt
-- **Perpetrators:** 
-  - PERSON_001
-  - PERSON_002
-- **Victims:** 
-  - ORG_008
-  - PERSON_008
-- **Entities Involved:** 
-  - regima_group
-  - ORG_008
-- **Description:** Final balance showing persistent debt to ReZonance (R1,035,361.34) despite payment claims, debt continues to grow
-- **Financial Impact:** R1,035,361.34
-- **Legal Significance:** ongoing_systematic_non_payment
-- **Evidence:** 
-  - rezonance_final_statement
-  - payment_reconciliation
-- **Pattern:** debt_accumulation
-- **Timeline Phase:** PHASE_005
-- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
-- **Related Applications:** 
-  - APPLICATION_2
-  - APPLICATION_3
-- **Evidence Files:** 
-  - ./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/REG-TRIALBALANCE.xlsx
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment_method_evidence_with_the_broad.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_due.md
-  - ./2DO/x/regima.zone/emma@regima.zone/Sumup payment platform.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/load_balancer.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_to_rezonance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_method_integration.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(2).pdf
-  - ./evidence/financial-analysis/trial-balances/VV-TRIALBALANCEAPR20202.xlsx
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_actual_payment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_effectiveness.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_proof.md
-  - ./evidence/financial-analysis/trial-balances/SL-TRIALBALANCE2020.xlsx
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/settlement-agreement-jf5/JF5-COMPARISON_Draft_vs_Final_Analysis.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/subpoena_payment_processor.md
-  - ./evidence/2025-11-14-batch/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_card_fraud.md
-  - ./database/data/jr_responses_complete_FINAL.csv
-  - ./evidence/emails/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
-  - ./implementation/api-integrations/payments/payment-gateway-manager.js
-  - ./UPDATED_DRAFTS/analysis-main/entities/claimed_payments.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/showing_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_payment_flow.md
-  - ./case_2025_137857/02_evidence/evidence_package_20250606/RezonanceFebr2023.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_flow_diagram.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_personal_payment.md
-  - ./UPDATED_DRAFTS/analysis-main/TRUST_IMPLICATIONS_UK_PAYMENTS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_direction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_accounts_that_never_appeared_in_rezonance_r.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/zone_payment_history.md
-  - ./evidence/computer-expenses/Consolidated Bank Balances Analysis Template.md
-  - ./evidence/2025-11-14-batch/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
-  - ./evidence/annexures/JF5-COMPARISON_DRAFT_VS_FINAL_CHANGES.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_bill_finally.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_theft_continues.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/quickbooks_online_payroll_enhanced_rezonance_ltd.md
-  - ./ANNEXURES/JF08/evidence_package_20250606/RezonanceFebr2023.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/opening_balance.md
-  - ./docs/strategic/payment-structure/PAYMENT_STRUCTURE_VISUAL_DIAGRAM.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_attempts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_records.md
-  - ./UPDATED_DRAFTS/analysis-main/shopify_payment_flow_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trial_balance_excel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/persistence_despite_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/REZONANCE_CASE_INTEGRATION_UPDATE.md
-  - ./evidence/2025-11-14-batch-3/RezonanceFebr2024.PDF
-  - ./evidence/legal-documents/settlement-mediation/Fw_Structuredpaymentplan.eml
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_desperation.md
-  - ./2DO/x/regima.com/dan@regima.com/RegimA Dr H - Commercial Property Payment Schedule(1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_extraction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_entities_showing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/account_balance_destruction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_forced_payments.md
-  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2019-02-28.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_failure_attempts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_infrastructure_destruction.md
-  - ./evidence/fake_accounts/Fw_RegimaREZONANCE.pdf
-  - ./UPDATED_DRAFTS/analysis-main/truth_vs_deception_final_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_corporate_payment_methods.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/alternative_payment_success.md
-  - ./docs/reports/completion/FINAL_AFFIDAVITS_SUMMARY.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_processing.md
-  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2023-02-28.pdf
-  - ./jax-dan-response/evidence-attachments/JF5_FINAL_SETTLEMENT_AGREEMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/RegimA_Zone_UK_Bank_Shopify_Payments.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/customer_payment_patterns.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(12).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_method_forced.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_payment_fraud.md
-  - ./docs/strategic/payment-structure/PAYMENT_STRUCTURE_CROSS_REFERENCE.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/RezonanceFebr2023.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_timing_delays.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT DKCBCWFP.pdf
-  - ./evidence/2025-11-14-batch-3/RezonanceFebr2023.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_showing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_misdirection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_method_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_integration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/app_payment_from.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_card_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/single_payment_source.md
-  - ./2DO/x/regima.zone/jax@regima.zone/FW_ Replit_ Invoice Payment Failed for RegimA.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/closing_balance.md
-  - ./evidence/2025-11-14-batch-3/RezonanceFebr2025.PDF
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/settlement-agreement-jf5/JF5-FINAL_Settlement_Agreement_Signed_Version.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Final TB's.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/excel_trial_balance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_card_entities.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_without_payment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_method_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_showing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/finds_rezonance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/consistent_payment_pattern.md
-  - ./evidence/financial-analysis/trial-balances/REG-TRIALBALANCE.xlsx
-  - ./backups/pre-consolidation/jax-response/source-documents/FINAL_AFFIDAVIT_CHANGES_LOG.md
-  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2022-02-28.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_failure_tracking.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(13).pdf
-  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Sales_by_Customer_Detail.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/interest_payment_flow.md
-  - ./UPDATED_DRAFTS/analysis-main/src/cases/rezonance_case_update.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_evidence_summary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/finalize_evidence_package.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_closing_balance.md
-  - ./lex/LEX_REFINEMENT_SUMMARY_2025-11-17_FINAL.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_failure_duration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/original_payment_method.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_reconciliation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_to_rezonance_dating_from_february.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_FINAL_SETTLEMENT_AGREEMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_payments.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/VV-TRIALBALANCEAPR20202.xlsx
-  - ./evidence/2025-11-14-batch-3/REZONANCE_DEBT_ANALYSIS_2023-2025.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(5).pdf
-  - ./OPTIMIZATION_SUMMARY_FINAL.txt
-  - ./UPDATED_DRAFTS/analysis-main/entities/false_payment_claims.md
-  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2024.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ ReZonance and Unicorn Dynamics.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_verification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_method.md
-  - ./evidence/2025-11-14-batch-3/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_payment_history.md
-  - ./jax-response/source-documents/FINAL_AFFIDAVIT_SUMMARY.md
-  - ./jax-response/evidence-attachments/dan-technical/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rezonance_payments.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT 5N1QHQFP.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_payment_methods.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ RE_ RegimA SA Payments.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/alleged_payments_recorded.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(1).pdf
-  - ./2DO/x/regima.zone/gayane@regima.zone/RE_ Payment made for The Nicol [_Axio-34726] [K8R7UVV].pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/quickbooks_online_payments_regima_zone_academy_ltd.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_despite_bank.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_failure_documentation.md
-  - ./jax-dan-response/AD/1-Critical/PARA_7_7-7_8_DAN_PAYMENT_DETAILS.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(8).pdf
-  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2025.PDF
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_COMPARISON_DRAFT_VS_FINAL.md
-  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_failures.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_trial_balance_analysis.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/chain_showing_coordinated.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_avalanche_begins.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/extended_payment_terms.md
-  - ./2DO/x/regima.com/dan@regima.com/Rezonance - Unicorn - Joziway(1).pdf
-  - ./jax-response/analysis-output/FINAL_SUMMARY_v3.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_processing_issues.md
-  - ./UPDATED_DRAFTS/analysis-main/src/fraud_analysis/payment_fraud_analyzer.py
-  - ./jax-response/evidence-attachments/settlement-agreement-jf5/JF5-FINAL_Settlement_Agreement_Signed_Version.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/card_payment_fraud.md
-  - ./docs/legal/FINAL_CORRECTED_PROVISIONS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/instant_payment_platform.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/instant_payments.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/worldwide_distribution_payment.md
-  - ./jax-response/source-documents/ANSWERING_AFFIDAVIT_-_JACQUELINE_FAUCITT_(FINAL_DRAFT_FOR_REVIEW_BYJAX).docx
-  - ./2DO/x/rzo.io/d@rzo.io/Rezonance Febr 2023.PDF.pdf
-  - ./docs/quickstart/PAYMENT_STRUCTURE_QUICK_ANSWER.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distributions_showing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_payment_flow.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/legal_analysis/REZONANCE_ESTATE_IMPLICATIONS.md
-  - ./evidence/fake_accounts/Fw_RegimaREZONANCE.eml
-  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2023.md
-  - ./UPDATED_DRAFTS/analysis-main/rezonance_payment_fraud_update.py
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Rezonance - Unicorn - Joziway(1).pdf
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Rezonance - Unicorn - Joziway.pdf
-  - ./UPDATED_DRAFTS/analysis-main/sync_trial_balance_to_neon.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_relief.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/RegimA_Zone_UK_Bank_Shopify_Payments.png
-  - ./UPDATED_DRAFTS/analysis-main/entities/balanced_perspective_weighting.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_payment_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trial_balance_email.md
-  - ./jax-dan-response/evidence-attachments/JF-BS1_R500K_PAYMENT_BANK_STATEMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_sabotage_network.md
-  - ./2DO/x/regima.zone/gayane@regima.zone/Payment made for The Nicol.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_payment_methods.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_allocation_discrepancies.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ 2025-05-23 - Audit Trail Disappears - Revenue Order & Payment Records Divert.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/trial_balance_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_customer_payments.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_finalization.md
-  - ./jax-response/analysis-output/FINAL_SUMMARY_v3.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/persistent_adaptation.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ RegimA SA Payments.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_records_diverted.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_required.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(2).pdf
-  - ./jax-dan-response/AD/1-Critical/PARA_7_7-7_8_DAN_PAYMENT_DETAILS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/failed_payment_attempts.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Regima REZONANCE.pdf
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(4).pdf
-  - ./FINAL_ANSWERING_AFFIDAVIT_ABRIDGED.docx
-  - ./lex-inference-engine/output/final_prosecution_soundness_assessment.json
-  - ./backups/pre-consolidation/jax-response/analysis-output/FINAL_SUMMARY_v3.json
-  - ./UPDATED_DRAFTS/analysis-main/rezonance_case_integration.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/account_balance_decline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/account_balance_collapse.md
-  - ./2DO/x/regima.com/dan@regima.com/Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_history.md
-  - ./evidence/annexures/JF-RESTORE3_CREDITOR_REPAYMENT_CORRESPONDENCE.md
-  - ./evidence/annexures/JF5-FINAL_SETTLEMENT_AGREEMENT_SIGNED.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(14).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_payment_history.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/online_banking_payments.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_processor_analysis.md
-  - ./2DO/x/regima.com/dan@regima.com/Part B - The Final Relief That Never Happened.pdf
-  - ./jax-dan-response/evidence-attachments/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md
-  - ./jax-response/source-documents/FINAL_ASSESSMENT_Jacqui_Affidavit_(Reconstructed_Version).docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statement_payment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_payment_account.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_status.md
-  - ./evidence/2025-11-14-batch-3/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
-  - ./evidence/fake_accounts/Fw_RE_RegimASAPayments.eml
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(6).pdf
-  - ./docs/reports/completion/IMPLEMENTATION_COMPLETE_PAYMENT_STRUCTURE.md
-  - ./docs/legal/affidavits/FINAL_ANSWERING_AFFIDAVIT_ABRIDGED.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment_method_changes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_system_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_card.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/actual_payments_received.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_evidence_correlation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_structured_payment_data.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/online_payments.md
-  - ./evidence/fake_accounts/Fw_RegimaREZONANCE.msg
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_cards_cancelled.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(1).pdf
-  - ./docs/strategic/payment-structure/PAYMENT_STRUCTURE_CLARIFICATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_effectiveness_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_about_rezonance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_made_substantial_payments_t.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment_history.md
-  - ./evidence/emails/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_disputes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/forced_personal_payment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_method_restoration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_showing_revenue_grow.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/consolidated_bank_balances_across_the_group.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250606/RezonanceFebr2023.PDF
-  - ./2DO/x/regima.com/dan@regima.com/2025-05-23 - Audit Trail Disappears - Revenue Order & Payment Records Diverted.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_payment_summary.md
-  - ./jax-response/evidence-attachments/dan-technical/JF5_FINAL_SETTLEMENT_AGREEMENT.md
-  - ./docs/strategic/payment-structure/PAYMENT_STRUCTURE_SUMMARY.txt
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Recons for RegimA Supplier_ Rezonance - Feb 18 and Sept 18.pdf
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-BS1_R500K_PAYMENT_BANK_STATEMENT.md
-  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2020-02-29.pdf
-  - ./evidence/financial-analysis/trial-balances/WW-TrialBalanceFEB20.xlsx
-  - ./jax-response/evidence-attachments/settlement-agreement-jf5/JF5-COMPARISON_Draft_vs_Final_Analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/showing_coordinated.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_functioning_with_corporate_payment_metho.md
-  - ./UPDATED_DRAFTS/FINAL_EVIDENCE_PACKAGE_SUMMARY.md
-  - ./backups/pre-consolidation/jax-response/source-documents/FINAL_ASSESSMENT_Jacqui_Affidavit_(Reconstructed_Version).docx
-  - ./database/data/dr_responses_complete_FINAL.csv
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Final TB's(1).pdf
-  - ./evidence/analysis/timelines/timeline_with_trial_balances.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/balance_sheet_changes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/first_structured_payment.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/UK_Bank_Statement_Shopify_Payments_Analysis.md
-  - ./jax-response/AD/dan-perspective/1-Critical/PARA_7_7-7_8_DAN_PAYMENT_DETAILS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_showing.md
-  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2025-02-28.pdf
-  - ./UPDATED_DRAFTS/analysis-main/extract_trial_balance_data.py
-  - ./2DO/x/regima.com/dan@regima.com/RegimA Dr H - Commercial Property Payment Schedule.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/customer_payments.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_review.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/actual_payment_direction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_struggles.md
-  - ./.github/agents/Complete_Gizmo_Classification_FINAL.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(9).pdf
-  - ./UPDATED_DRAFTS/analysis-main/test_rezonance_integration.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/alternative_payment_card.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Final TB's.pdf
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(7).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_terms.md
-  - ./docs/strategic/payment-structure/PAYMENT_STRUCTURE_ACTION_CHECKLIST.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Rezonance - Unicorn - Joziway.pdf
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ A bill payment failed for RegimA EU.pdf
-  - ./2DO/x/regima.zone/jax@regima.zone/Fw_ Payment platform Sumup.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rezonance_ltd.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_payment_flow.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_processor_records.md
-  - ./jax-response/AD/dan-perspective/1-Critical/PARA_7_7-7_8_DAN_PAYMENT_DETAILS.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/rezonance/financial_reports/payment_fraud_analysis.md
-  - ./docs/legal/affidavits/FINAL_ANSWERING_AFFIDAVIT_COMPLETE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_debt.md
-  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2021-02-28.pdf
-  - ./UPDATED_DRAFTS/analysis-main/src/cases/rezonance_case.py
-  - ./backups/pre-consolidation/jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-FINAL.docx
-  - ./2DO/x/regima.zone/jax@regima.zone/Fw_ Payment platform Sumup A CLEAR COPY OF THE LICENCE.pdf
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Rezonance - Unicorn - Joziway(1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_decision.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/1-Critical/PARA_7_7-7_8_DAN_PAYMENT_DETAILS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_tracing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_sabotage.md
-  - ./FINAL_ANSWERING_AFFIDAVIT_COMPLETE.docx
-  - ./jax-dan-response/evidence-attachments/JF5_COMPARISON_DRAFT_VS_FINAL.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf
-  - ./docs/strategic/payment-structure/PAYMENT_STRUCTURE_INDEX.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/system_balance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_payment_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trial_balances.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_balance.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification Corp & Merch Admin.pdf
-  - ./docs/legal/annexures/JF08/evidence_package_20250606/RezonanceFebr2023.PDF
-  - ./backups/pre-consolidation/jax-dan-response/AD/1-Critical/PARA_7_7-7_8_DAN_PAYMENT_DETAILS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_submission_for.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_sabotage_scale.md
-  - ./evidence/fake_accounts/Fw_RE_RegimASAPayments.msg
-  - ./UPDATED_DRAFTS/analysis-main/REZONANCE_CASE_INTEGRATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_card_cancellation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_processing_logs.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_payments.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Finally a Solution to the Tech Scaling Problem for Diagnostics - Re_ General.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_sabotage_quantification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_recent_payments.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pending_final_determination.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_invoice_payment.md
-  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2024.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_fraud_scheme.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/false_payment_claim.md
-  - ./2DO/x/regima.com/dan@regima.com/FINAL DRAFT.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_status.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_payments_made.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(11).pdf
-  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2023.PDF
-  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2018-02-28.pdf
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(10).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/app_payments.md
-  - ./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2024-02-29.pdf
-  - ./jax-response/evidence-attachments/dan-technical/JF-BS1_R500K_PAYMENT_BANK_STATEMENT.md
-  - ./2DO/x/regima.zone/emma@regima.zone/Re_ Payment platform Sumup A CLEAR COPY OF THE LICENCE.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_card_authorization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_payment.md
-  - ./jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-FINAL.docx
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Final TB for RegimA Skin Treatments as at 28 Feb 2018.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/forced_personal_payments.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_method_manipulation.md
-  - ./backups/pre-consolidation/jax-response/source-documents/ANSWERING_AFFIDAVIT_-_JACQUELINE_FAUCITT_(FINAL_DRAFT_FOR_REVIEW_BYJAX).docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/payments_re_kayla.md
-  - ./2DO/x/regima.zone/jax@regima.zone/Payment notification from J FAUCITT.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_method_mix.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/despite_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/modern_payment_methods.md
-  - ./jax-response/evidence-attachments/dan-technical/JF5_COMPARISON_DRAFT_VS_FINAL.md
-  - ./2DO/x/regima.zone/jax@regima.zone/RE_ Rezonance - Unicorn - Joziway.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_claims_payment_of.md
-  - ./2DO/x/regima.com/dan@regima.com/Rezonance - Unicorn - Joziway.pdf
-  - ./UPDATED_DRAFTS/analysis-main/evidence/rezonance/timeline/timeline_with_trial_balances.md
-  - ./docs/strategic/payment-structure/CRITICAL_REVELATION_PAYMENT_STRUCTURE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trial_balance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rezonance_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_payment.md
-  - ./jax-response/source-documents/FINAL_AFFIDAVIT_CHANGES_LOG.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_failure_cascade.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(3).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_method_correlation.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/SL-TRIALBALANCE2020.xlsx
-  - ./tests/final-integration-comprehensive-test.js
-  - ./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/WW-TrialBalanceFEB20.xlsx
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_flow_mapping.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_payment_infrastructure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/initial_payment_sabotage.md
-  - ./final_workflow_demonstration.py
-- **Ad Res J7 References:** 
-  - See files related to: Final, balance, showing, persistent, ReZonance, (R1,035,361.34), despite, payment, claims,, continues
-- **Crime Category:** business_relationship
-- **Phase:** PHASE_005
-- **Event Subtype:** debt_accumulation_unpaid_debt
-- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_d003
-- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
-- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
-- **Evidence Urls:** 
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/REG-TRIALBALANCE.xlsx
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment_method_evidence_with_the_broad.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/payment_due.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/2DO/x/regima.zone/emma@regima.zone/Sumup payment platform.pdf
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/load_balancer.md
-- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_D003.html
-- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_D003
-- **Related Application:** APPLICATION_1
-- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
-- **Ad Res J7 Evidence:** 
-  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
-  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}
+**Description:**
+Final balance showing persistent debt to ReZonance (R1,035,361.34) despite payment claims, debt continues to grow
+
+## Evidence References
+
+No specific evidence linked.
+
+## Raw Data
+
+```json
+{
+  "event_id": "EVENT_D003",
+  "date": "2023-02-28",
+  "title": "ReZonance Final Balance Persistent Debt",
+  "category": "debt_accumulation",
+  "event_type": "unpaid_debt",
+  "perpetrators": [
+    "PERSON_001",
+    "PERSON_002"
+  ],
+  "victims": [
+    "ORG_008",
+    "PERSON_008"
+  ],
+  "entities_involved": [
+    "regima_group",
+    "ORG_008"
+  ],
+  "description": "Final balance showing persistent debt to ReZonance (R1,035,361.34) despite payment claims, debt continues to grow",
+  "financial_impact": "R1,035,361.34",
+  "legal_significance": "ongoing_systematic_non_payment",
+  "evidence": [
+    "rezonance_final_statement",
+    "payment_reconciliation"
+  ],
+  "pattern": "debt_accumulation",
+  "timeline_phase": "PHASE_005",
+  "extended_evidence_note": "See ad-res-j7 repository for detailed supporting documentation",
+  "related_applications": [
+    "APPLICATION_2",
+    "APPLICATION_3"
+  ],
+  "evidence_files": [
+    "./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/REG-TRIALBALANCE.xlsx",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment_method_evidence_with_the_broad.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_due.md",
+    "./2DO/x/regima.zone/emma@regima.zone/Sumup payment platform.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/load_balancer.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_to_rezonance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_method_integration.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(2).pdf",
+    "./evidence/financial-analysis/trial-balances/VV-TRIALBALANCEAPR20202.xlsx",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_actual_payment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_effectiveness.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_proof.md",
+    "./evidence/financial-analysis/trial-balances/SL-TRIALBALANCE2020.xlsx",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/settlement-agreement-jf5/JF5-COMPARISON_Draft_vs_Final_Analysis.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/subpoena_payment_processor.md",
+    "./evidence/2025-11-14-batch/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_card_fraud.md",
+    "./database/data/jr_responses_complete_FINAL.csv",
+    "./evidence/emails/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf",
+    "./implementation/api-integrations/payments/payment-gateway-manager.js",
+    "./UPDATED_DRAFTS/analysis-main/entities/claimed_payments.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/showing_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_payment_flow.md",
+    "./case_2025_137857/02_evidence/evidence_package_20250606/RezonanceFebr2023.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_flow_diagram.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_personal_payment.md",
+    "./UPDATED_DRAFTS/analysis-main/TRUST_IMPLICATIONS_UK_PAYMENTS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_direction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_accounts_that_never_appeared_in_rezonance_r.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/zone_payment_history.md",
+    "./evidence/computer-expenses/Consolidated Bank Balances Analysis Template.md",
+    "./evidence/2025-11-14-batch/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf",
+    "./evidence/annexures/JF5-COMPARISON_DRAFT_VS_FINAL_CHANGES.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_bill_finally.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_theft_continues.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/quickbooks_online_payroll_enhanced_rezonance_ltd.md",
+    "./ANNEXURES/JF08/evidence_package_20250606/RezonanceFebr2023.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/opening_balance.md",
+    "./docs/strategic/payment-structure/PAYMENT_STRUCTURE_VISUAL_DIAGRAM.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_attempts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_records.md",
+    "./UPDATED_DRAFTS/analysis-main/shopify_payment_flow_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trial_balance_excel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/persistence_despite_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/REZONANCE_CASE_INTEGRATION_UPDATE.md",
+    "./evidence/2025-11-14-batch-3/RezonanceFebr2024.PDF",
+    "./evidence/legal-documents/settlement-mediation/Fw_Structuredpaymentplan.eml",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_desperation.md",
+    "./2DO/x/regima.com/dan@regima.com/RegimA Dr H - Commercial Property Payment Schedule(1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_extraction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_entities_showing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/account_balance_destruction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/monthly_forced_payments.md",
+    "./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2019-02-28.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_failure_attempts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_infrastructure_destruction.md",
+    "./evidence/fake_accounts/Fw_RegimaREZONANCE.pdf",
+    "./UPDATED_DRAFTS/analysis-main/truth_vs_deception_final_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_corporate_payment_methods.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/alternative_payment_success.md",
+    "./docs/reports/completion/FINAL_AFFIDAVITS_SUMMARY.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_processing.md",
+    "./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2023-02-28.pdf",
+    "./jax-dan-response/evidence-attachments/JF5_FINAL_SETTLEMENT_AGREEMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/RegimA_Zone_UK_Bank_Shopify_Payments.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/customer_payment_patterns.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(12).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_method_forced.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_payment_fraud.md",
+    "./docs/strategic/payment-structure/PAYMENT_STRUCTURE_CROSS_REFERENCE.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/RezonanceFebr2023.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_timing_delays.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT DKCBCWFP.pdf",
+    "./evidence/2025-11-14-batch-3/RezonanceFebr2023.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_showing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_misdirection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_method_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_integration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/app_payment_from.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_card_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/single_payment_source.md",
+    "./2DO/x/regima.zone/jax@regima.zone/FW_ Replit_ Invoice Payment Failed for RegimA.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/closing_balance.md",
+    "./evidence/2025-11-14-batch-3/RezonanceFebr2025.PDF",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/settlement-agreement-jf5/JF5-FINAL_Settlement_Agreement_Signed_Version.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ Final TB's.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/excel_trial_balance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_card_entities.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/revenue_without_payment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_method_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_showing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/finds_rezonance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/consistent_payment_pattern.md",
+    "./evidence/financial-analysis/trial-balances/REG-TRIALBALANCE.xlsx",
+    "./backups/pre-consolidation/jax-response/source-documents/FINAL_AFFIDAVIT_CHANGES_LOG.md",
+    "./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2022-02-28.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_failure_tracking.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(13).pdf",
+    "./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Sales_by_Customer_Detail.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/interest_payment_flow.md",
+    "./UPDATED_DRAFTS/analysis-main/src/cases/rezonance_case_update.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_evidence_summary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/finalize_evidence_package.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_closing_balance.md",
+    "./lex/LEX_REFINEMENT_SUMMARY_2025-11-17_FINAL.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_failure_duration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/original_payment_method.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_reconciliation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_to_rezonance_dating_from_february.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_FINAL_SETTLEMENT_AGREEMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_payments.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/VV-TRIALBALANCEAPR20202.xlsx",
+    "./evidence/2025-11-14-batch-3/REZONANCE_DEBT_ANALYSIS_2023-2025.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(5).pdf",
+    "./OPTIMIZATION_SUMMARY_FINAL.txt",
+    "./UPDATED_DRAFTS/analysis-main/entities/false_payment_claims.md",
+    "./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2024.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ ReZonance and Unicorn Dynamics.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_verification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_method.md",
+    "./evidence/2025-11-14-batch-3/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_payment_history.md",
+    "./jax-response/source-documents/FINAL_AFFIDAVIT_SUMMARY.md",
+    "./jax-response/evidence-attachments/dan-technical/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rezonance_payments.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT 5N1QHQFP.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_payment_methods.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ RE_ RegimA SA Payments.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/alleged_payments_recorded.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(1).pdf",
+    "./2DO/x/regima.zone/gayane@regima.zone/RE_ Payment made for The Nicol [_Axio-34726] [K8R7UVV].pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/quickbooks_online_payments_regima_zone_academy_ltd.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/interdict_despite_bank.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_failure_documentation.md",
+    "./jax-dan-response/AD/1-Critical/PARA_7_7-7_8_DAN_PAYMENT_DETAILS.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(8).pdf",
+    "./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2025.PDF",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_COMPARISON_DRAFT_VS_FINAL.md",
+    "./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_failures.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_trial_balance_analysis.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/chain_showing_coordinated.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_avalanche_begins.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/extended_payment_terms.md",
+    "./2DO/x/regima.com/dan@regima.com/Rezonance - Unicorn - Joziway(1).pdf",
+    "./jax-response/analysis-output/FINAL_SUMMARY_v3.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_processing_issues.md",
+    "./UPDATED_DRAFTS/analysis-main/src/fraud_analysis/payment_fraud_analyzer.py",
+    "./jax-response/evidence-attachments/settlement-agreement-jf5/JF5-FINAL_Settlement_Agreement_Signed_Version.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/card_payment_fraud.md",
+    "./docs/legal/FINAL_CORRECTED_PROVISIONS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/instant_payment_platform.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/instant_payments.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/worldwide_distribution_payment.md",
+    "./jax-response/source-documents/ANSWERING_AFFIDAVIT_-_JACQUELINE_FAUCITT_(FINAL_DRAFT_FOR_REVIEW_BYJAX).docx",
+    "./2DO/x/rzo.io/d@rzo.io/Rezonance Febr 2023.PDF.pdf",
+    "./docs/quickstart/PAYMENT_STRUCTURE_QUICK_ANSWER.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distributions_showing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_payment_flow.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/legal_analysis/REZONANCE_ESTATE_IMPLICATIONS.md",
+    "./evidence/fake_accounts/Fw_RegimaREZONANCE.eml",
+    "./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2023.md",
+    "./UPDATED_DRAFTS/analysis-main/rezonance_payment_fraud_update.py",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Rezonance - Unicorn - Joziway(1).pdf",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Rezonance - Unicorn - Joziway.pdf",
+    "./UPDATED_DRAFTS/analysis-main/sync_trial_balance_to_neon.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_relief.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/RegimA_Zone_UK_Bank_Shopify_Payments.png",
+    "./UPDATED_DRAFTS/analysis-main/entities/balanced_perspective_weighting.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_payment_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trial_balance_email.md",
+    "./jax-dan-response/evidence-attachments/JF-BS1_R500K_PAYMENT_BANK_STATEMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_sabotage_network.md",
+    "./2DO/x/regima.zone/gayane@regima.zone/Payment made for The Nicol.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corporate_payment_methods.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_allocation_discrepancies.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ 2025-05-23 - Audit Trail Disappears - Revenue Order & Payment Records Divert.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/trial_balance_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_customer_payments.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_finalization.md",
+    "./jax-response/analysis-output/FINAL_SUMMARY_v3.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/persistent_adaptation.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ RegimA SA Payments.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_records_diverted.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_required.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(2).pdf",
+    "./jax-dan-response/AD/1-Critical/PARA_7_7-7_8_DAN_PAYMENT_DETAILS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/failed_payment_attempts.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ Regima REZONANCE.pdf",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(4).pdf",
+    "./FINAL_ANSWERING_AFFIDAVIT_ABRIDGED.docx",
+    "./lex-inference-engine/output/final_prosecution_soundness_assessment.json",
+    "./backups/pre-consolidation/jax-response/analysis-output/FINAL_SUMMARY_v3.json",
+    "./UPDATED_DRAFTS/analysis-main/rezonance_case_integration.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/account_balance_decline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/account_balance_collapse.md",
+    "./2DO/x/regima.com/dan@regima.com/Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_history.md",
+    "./evidence/annexures/JF-RESTORE3_CREDITOR_REPAYMENT_CORRESPONDENCE.md",
+    "./evidence/annexures/JF5-FINAL_SETTLEMENT_AGREEMENT_SIGNED.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(14).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_payment_history.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/online_banking_payments.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_processor_analysis.md",
+    "./2DO/x/regima.com/dan@regima.com/Part B - The Final Relief That Never Happened.pdf",
+    "./jax-dan-response/evidence-attachments/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md",
+    "./jax-response/source-documents/FINAL_ASSESSMENT_Jacqui_Affidavit_(Reconstructed_Version).docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_statement_payment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_payment_account.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_status.md",
+    "./evidence/2025-11-14-batch-3/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf",
+    "./evidence/fake_accounts/Fw_RE_RegimASAPayments.eml",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(6).pdf",
+    "./docs/reports/completion/IMPLEMENTATION_COMPLETE_PAYMENT_STRUCTURE.md",
+    "./docs/legal/affidavits/FINAL_ANSWERING_AFFIDAVIT_ABRIDGED.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment_method_changes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_system_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_card.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/actual_payments_received.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_evidence_correlation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_structured_payment_data.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/online_payments.md",
+    "./evidence/fake_accounts/Fw_RegimaREZONANCE.msg",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_cards_cancelled.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(1).pdf",
+    "./docs/strategic/payment-structure/PAYMENT_STRUCTURE_CLARIFICATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_effectiveness_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rynette_about_rezonance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_made_substantial_payments_t.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment_history.md",
+    "./evidence/emails/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_disputes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/forced_personal_payment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_method_restoration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_showing_revenue_grow.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/consolidated_bank_balances_across_the_group.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250606/RezonanceFebr2023.PDF",
+    "./2DO/x/regima.com/dan@regima.com/2025-05-23 - Audit Trail Disappears - Revenue Order & Payment Records Diverted.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_payment_summary.md",
+    "./jax-response/evidence-attachments/dan-technical/JF5_FINAL_SETTLEMENT_AGREEMENT.md",
+    "./docs/strategic/payment-structure/PAYMENT_STRUCTURE_SUMMARY.txt",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ Recons for RegimA Supplier_ Rezonance - Feb 18 and Sept 18.pdf",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-BS1_R500K_PAYMENT_BANK_STATEMENT.md",
+    "./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2020-02-29.pdf",
+    "./evidence/financial-analysis/trial-balances/WW-TrialBalanceFEB20.xlsx",
+    "./jax-response/evidence-attachments/settlement-agreement-jf5/JF5-COMPARISON_Draft_vs_Final_Analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/showing_coordinated.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_functioning_with_corporate_payment_metho.md",
+    "./UPDATED_DRAFTS/FINAL_EVIDENCE_PACKAGE_SUMMARY.md",
+    "./backups/pre-consolidation/jax-response/source-documents/FINAL_ASSESSMENT_Jacqui_Affidavit_(Reconstructed_Version).docx",
+    "./database/data/dr_responses_complete_FINAL.csv",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Final TB's(1).pdf",
+    "./evidence/analysis/timelines/timeline_with_trial_balances.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/balance_sheet_changes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/first_structured_payment.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/UK_Bank_Statement_Shopify_Payments_Analysis.md",
+    "./jax-response/AD/dan-perspective/1-Critical/PARA_7_7-7_8_DAN_PAYMENT_DETAILS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_showing.md",
+    "./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2025-02-28.pdf",
+    "./UPDATED_DRAFTS/analysis-main/extract_trial_balance_data.py",
+    "./2DO/x/regima.com/dan@regima.com/RegimA Dr H - Commercial Property Payment Schedule.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/customer_payments.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_review.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/actual_payment_direction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_struggles.md",
+    "./.github/agents/Complete_Gizmo_Classification_FINAL.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(9).pdf",
+    "./UPDATED_DRAFTS/analysis-main/test_rezonance_integration.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/alternative_payment_card.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Final TB's.pdf",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(7).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_terms.md",
+    "./docs/strategic/payment-structure/PAYMENT_STRUCTURE_ACTION_CHECKLIST.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Rezonance - Unicorn - Joziway.pdf",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ A bill payment failed for RegimA EU.pdf",
+    "./2DO/x/regima.zone/jax@regima.zone/Fw_ Payment platform Sumup.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rezonance_ltd.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_payment_flow.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_processor_records.md",
+    "./jax-response/AD/dan-perspective/1-Critical/PARA_7_7-7_8_DAN_PAYMENT_DETAILS.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/rezonance/financial_reports/payment_fraud_analysis.md",
+    "./docs/legal/affidavits/FINAL_ANSWERING_AFFIDAVIT_COMPLETE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_debt.md",
+    "./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2021-02-28.pdf",
+    "./UPDATED_DRAFTS/analysis-main/src/cases/rezonance_case.py",
+    "./backups/pre-consolidation/jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-FINAL.docx",
+    "./2DO/x/regima.zone/jax@regima.zone/Fw_ Payment platform Sumup A CLEAR COPY OF THE LICENCE.pdf",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Rezonance - Unicorn - Joziway(1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_decision.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/1-Critical/PARA_7_7-7_8_DAN_PAYMENT_DETAILS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_tracing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_sabotage.md",
+    "./FINAL_ANSWERING_AFFIDAVIT_COMPLETE.docx",
+    "./jax-dan-response/evidence-attachments/JF5_COMPARISON_DRAFT_VS_FINAL.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf",
+    "./docs/strategic/payment-structure/PAYMENT_STRUCTURE_INDEX.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/system_balance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_payment_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trial_balances.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_balance.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification Corp & Merch Admin.pdf",
+    "./docs/legal/annexures/JF08/evidence_package_20250606/RezonanceFebr2023.PDF",
+    "./backups/pre-consolidation/jax-dan-response/AD/1-Critical/PARA_7_7-7_8_DAN_PAYMENT_DETAILS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_submission_for.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_sabotage_scale.md",
+    "./evidence/fake_accounts/Fw_RE_RegimASAPayments.msg",
+    "./UPDATED_DRAFTS/analysis-main/REZONANCE_CASE_INTEGRATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_card_cancellation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_processing_logs.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_payments.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ Finally a Solution to the Tech Scaling Problem for Diagnostics - Re_ General.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_sabotage_quantification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_recent_payments.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pending_final_determination.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_invoice_payment.md",
+    "./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2024.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_fraud_scheme.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/false_payment_claim.md",
+    "./2DO/x/regima.com/dan@regima.com/FINAL DRAFT.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_status.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_payments_made.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(11).pdf",
+    "./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2023.PDF",
+    "./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2018-02-28.pdf",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(10).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/app_payments.md",
+    "./evidence/rezonance-misallocation/annual-financials/ReZonance_(Pty)_Ltd_-_Period_Ending_2024-02-29.pdf",
+    "./jax-response/evidence-attachments/dan-technical/JF-BS1_R500K_PAYMENT_BANK_STATEMENT.md",
+    "./2DO/x/regima.zone/emma@regima.zone/Re_ Payment platform Sumup A CLEAR COPY OF THE LICENCE.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_card_authorization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_payment.md",
+    "./jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-FINAL.docx",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ Final TB for RegimA Skin Treatments as at 28 Feb 2018.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/forced_personal_payments.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_method_manipulation.md",
+    "./backups/pre-consolidation/jax-response/source-documents/ANSWERING_AFFIDAVIT_-_JACQUELINE_FAUCITT_(FINAL_DRAFT_FOR_REVIEW_BYJAX).docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/payments_re_kayla.md",
+    "./2DO/x/regima.zone/jax@regima.zone/Payment notification from J FAUCITT.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_method_mix.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/despite_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/modern_payment_methods.md",
+    "./jax-response/evidence-attachments/dan-technical/JF5_COMPARISON_DRAFT_VS_FINAL.md",
+    "./2DO/x/regima.zone/jax@regima.zone/RE_ Rezonance - Unicorn - Joziway.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_claims_payment_of.md",
+    "./2DO/x/regima.com/dan@regima.com/Rezonance - Unicorn - Joziway.pdf",
+    "./UPDATED_DRAFTS/analysis-main/evidence/rezonance/timeline/timeline_with_trial_balances.md",
+    "./docs/strategic/payment-structure/CRITICAL_REVELATION_PAYMENT_STRUCTURE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trial_balance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rezonance_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_payment.md",
+    "./jax-response/source-documents/FINAL_AFFIDAVIT_CHANGES_LOG.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_failure_cascade.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(3).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_method_correlation.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/SL-TRIALBALANCE2020.xlsx",
+    "./tests/final-integration-comprehensive-test.js",
+    "./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/WW-TrialBalanceFEB20.xlsx",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_flow_mapping.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_payment_infrastructure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/initial_payment_sabotage.md",
+    "./final_workflow_demonstration.py"
+  ],
+  "ad_res_j7_references": [
+    "See files related to: Final, balance, showing, persistent, ReZonance, (R1,035,361.34), despite, payment, claims,, continues"
+  ],
+  "crime_category": "business_relationship",
+  "phase": "PHASE_005",
+  "event_subtype": "debt_accumulation_unpaid_debt",
+  "github_pages_reference": "https://cogpy.github.io/revstream1/applications.md#event_d003",
+  "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+  "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+  "evidence_urls": [
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/REG-TRIALBALANCE.xlsx",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/regima_zone_payment_method_evidence_with_the_broad.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/payment_due.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/2DO/x/regima.zone/emma@regima.zone/Sumup payment platform.pdf",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/load_balancer.md"
+  ],
+  "github_pages_url": "https://cogpy.github.io/revstream1/events/EVENT_D003.html",
+  "timeline_reference": "https://cogpy.github.io/revstream1/timeline.html#EVENT_D003",
+  "related_application": "APPLICATION_1",
+  "application_url": "https://cogpy.github.io/revstream1/application-1.html",
+  "ad_res_j7_evidence": [
+    {
+      "source": "case_2025_137857/",
+      "description": "Case documentation and analysis",
+      "url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857"
+    },
+    {
+      "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "description": "Complete evidence catalog (2,866 files)",
+      "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
+    }
+  ],
+  "ad_res_j7_cross_references": [
+    "Evidence documented in ad-res-j7 repository",
+    "See ANNEXURES for event EVENT_D003",
+    "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+  ],
+  "evidence_references": [
+    "case_2025_137857/02_evidence/",
+    "ANNEXURES/",
+    "docs/"
+  ]
+}
+```

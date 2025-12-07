@@ -1,1081 +1,1125 @@
-# Bantjies Learns of Criminal Matters
+---
+layout: default
+title: Bantjies Learns of Criminal Matters
+---
+# Bantjies Learns of Criminal Matters (EVENT_062)
 
-**Event ID:** `EVENT_062`
 **Date:** 2025-06-10
 
-- **Category:** knowledge_acquisition
-- **Event Type:** fraud_and_murder_disclosure
-- **Perpetrators:** 
-  - PERSON_007
-- **Victims:** 
-  - 
-- **Entities Involved:** 
-  - PERSON_007
-  - PERSON_005
-- **Description:** Daniel reports to Bantjies about Kayla's murder (August 2023) and Peter stealing funds after murder, including over R1.8M owed to Rezonance. Bantjies acquires knowledge of criminal matters before signing confirmatory affidavit.
-- **Legal Significance:** knowledge_before_perjury_confirmatory_affidavit
-- **Evidence:** 
-  - email_received_thanks_daniel_2025_08_29
-- **Pattern:** consolidation_phase
-- **Critical:** True
-- **Timeline Phase:** PHASE_004
-- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
-- **Related Applications:** 
-  - APPLICATION_1
-  - APPLICATION_2
-- **Evidence Files:** 
-  - ./evidence/2025-11-14-batch/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_treaties.md
-  - ./evidence/2025-11-14-batch-3/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/if_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_complete_criminal.md
-  - ./evidence/annexures/JF-DLA1_PETER_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/RegimA WW+Zone · Reports · Total sales over time by store · Shopify Plus ZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/british_citizen_criminal.md
-  - ./case_2025_137857/02_evidence/misc/Peter Faucitt _ Jacqui Faucitt and others.msg
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_to_rezonance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_espeset.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_reports_murder.md
-  - ./ANNEXURES/JF02/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_murder_connection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_protection.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_precedence.md
-  - ./UPDATED_DRAFTS/DRAFT_EVALUATION_WITH_DANIE_BANTJIES_PERJURY.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/ensures_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_representation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_ownership_matters.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/review_before_sending.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_criminal_court.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_transfers.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/controls_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corrected_criminal_proceeds.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_case_timelines.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_strategy_framework.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/next_steps_after.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_if.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_referral_accepted.md
-  - ./backups/pre-consolidation/jax-dan-response/peters_causation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_peak_performance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_attribution_verification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_investigation_demands.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_offenses_this.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_owed_duties.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF12/criminal_matter_safety_guide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corrected_criminal_scheme.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_tensors.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/pay_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_andrew.md
-  - ./evidence/2025-11-14-batch/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_penalties_available.md
-  - ./evidence/character-references/CHARACTER_REFERENCE_DANIEL_FAUCITT_2025-10-11.md
-  - ./jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Kayla's docs.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_potential_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_document_signing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/if_peter_filed.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/since_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/damage_assessment_peter.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/forced_signing.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_supporting_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/why_peter_escalates.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_referral.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING(1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_criminal_elements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/why_criminal_prosecution.md
-  - ./evidence/emails/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
-  - ./case_2025_137857/02_evidence/misc/Peter Faucitt _ Jacqui Faucitt and others.eml
-  - ./evidence/emails/jaz-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_investigations.md
-  - ./docs/legal/README_CIVIL_CRIMINAL_SPLIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_case_preparation.md
-  - ./jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/showing_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_gap_detection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/modifying_elements_after.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/analysis_reports_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/testing_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/concealing_criminal_property.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_proceeds_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sophisticated_criminal_system.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_provided.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_act.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025_automated/FORMALNOTICE-CESSATIONOFCRIMINALINSTRUCTIONS.docx
-  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md
-  - ./evidence/correspondence/JF8C_PETER_REFUSAL_TO_ENGAGE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_may.md
-  - ./docs/reports/completion/TASK_COMPLETION_PETERS_WITHDRAWALS_JF-PA.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_validation.md
-  - ./evidence/2025-11-14-batch/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/combined_annual_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_files_second.md
-  - ./evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf
-  - ./evidence/2025-11-14-batch/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_pete.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_legal_weaponization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_proceedings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_authority.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/any_peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_recovery.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_criminal_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/kayla_pretorius_murdered.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(1).pdf
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO4-insolvency-assessment-pre-daniel.md
-  - ./jax-dan-response/PETERS_CAUSATION_INTEGRATION_GUIDE.md
-  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Response Affidavit.pdf
-  - ./jax-response/evidence-attachments/dan-technical/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_criminal_liability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies_coordination.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING(2).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_elements_established.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_improvements.md
-  - ./evidence/2025-11-14-batch-3/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
-  - ./jax-dan-response/evidence-attachments/Dan_Technical_Infrastructure_Affidavit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_verification_framework.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_courts_act.md
-  - ./docs/legal/analysis/criminal-enterprise-evidence-structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/continue_criminal_coordination.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/immediately_after_murder.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/south_africa_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_matrix_enhancement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_criminals.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_hijacking.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/confirms_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_fauc.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ DRAFT ANSWERING AFFIDA.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_offences_under.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_pattern_demonstration.md
-  - ./ANNEXURES/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_affected_while_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_avoidance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_strategy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/file_enhanced_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regulatory_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/if_criminal_referral.md
-  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/more_knowledge.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_controls.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/expert_affidavit.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF02/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_WITNESS_STATEMENT.md
-  - ./evidence/compliance/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_august.md
-  - ./lex/cri/za/south_african_criminal_law.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_james.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_after_kayla.md
-  - ./evidence/fake_accounts/Fw_RegimaREZONANCE.pdf
-  - ./evidence/legal-documents/formal-notices/FORMAL_NOTICE_CESSATION_CRIMINAL_INSTRUCTIONS.pdf
-  - ./evidence/witness-statements/templates/TEMPLATE_DANIEL_SHOPIFY_PLATFORM_OWNERSHIP.md
-  - ./evidence/financial-analysis/shopify-reports/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_support.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_necessary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/all_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_timeline_integration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/potentially_danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_requests_computer.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/remove_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation_authority.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/party-knowledge-matrix-analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/avoids_criminal_courts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/brief_criminal_counsel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_analysis_reports.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/primary_criminal_agent.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025.pdf
-  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_now_faces.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_matter.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-2025-09-30.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/questions_about_rynette.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/party-knowledge-matrix-updated-ocr.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_verification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_connection_evidence.md
-  - ./evidence/2025-11-14-batch-3/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/using_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/identify_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proved_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_jacobus_bantjes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/vulnerability_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/annual_criminal_proceeds.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/for_peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enhances_all_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/banking_law_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/prior_criminal_activity.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT DKCBCWFP.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/extreme_criminality.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/completed_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_transfers.md
-  - ./jax-response/evidence-attachments/dan-technical/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ danie reports 250610.pdf
-  - ./UPDATED_DRAFTS/UBUNTU_PRINCIPLE_KAYLA_DANIEL_GIVING_AWAY_R100M_COMPREHENSIVE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_forfeiture.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/establishes_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/establishes_peter.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/PETERS_CAUSATION_SECTION_DRAFT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/year_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_reports_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_knowledge.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/while_peter.md
-  - ./2DO/x/regima.com/dan@regima.com/URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/generate_reports_output.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_jurisdiction_required.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025/FORMALNOTICE-CESSATIONOFCRIMINALINSTRUCTIONS.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/verification_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/phase_criminal_enterprise.md
-  - ./evidence/2025-11-14-batch-3/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_node.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_context.md
-  - ./jax-dan-response/evidence-attachments/PETERS_CAUSATION_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_continuation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_unprosecuted.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/reimburse_daniel.md
-  - ./docs/reports/verification/TASK_VERIFICATION_PETERS_PARTICIPATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_exposing_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_court_avoidance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_opportunism.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/material_evidence_reports.md
-  - ./ad-hypergraph-mapping/bantjies_agent_mapper.py
-  - ./case_2025_137857/02_evidence/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/why_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/potential_criminal_acts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/facilitate_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/premeditated_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_march.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_matters.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_court_response.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/clarified_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_sequence_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_investigations_team.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/for_daniel_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_prosecution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_funds.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_purpose_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_only.md
-  - ./UPDATED_DRAFTS/2_YEAR_ACCOUNTING_BLACKOUT_AFTER_KAYLA_EMAIL_SEIZURE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/formal_criminal_complaint.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_criminal_justice.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/obtain_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/phase_criminal_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/unified_knowledge_representation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/against_danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/update_criminal_authorities.md
-  - ./jax-response/peter-interdict/peter-faucitt-interdict-complete.json
-  - ./jax-response/evidence-attachments/dan-technical/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_matters_act.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_criminal_attorney.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(2).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_master_criminal.md
-  - ./docs/legal/annexures/JF02/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_participants.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_after_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/exploit_peter.md
-  - ./jax-response/peter-interdict/peter-faucitt-interdict-combined.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/why_this_matters.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/maintain_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_focus.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/deter_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/federal_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/peter-faucitt-interdict/peter-faucitt-interdict-combined.md
-  - ./evidence/bantjies_investment_payout_forecast.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_amendment.md
-  - ./evidence/2025-11-14-batch-3/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_tensor_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_enhanced.md
-  - ./evidence/emails/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_andrew_faucitt.md
-  - ./evidence/2025-11-14-batch-3/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/needed_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_systematic_takeover.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/finds_rezonance.md
-  - ./jax-dan-response/peters_causation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_peter.md
-  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_criminal_liability.md
-  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-complete.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/consolidate_criminal_charges.md
-  - ./docs/legal/annexures/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md
-  - ./ad-hypergraph-mapping/BANTJIES_COMPLETE_HYPERGRAPH_VISUALIZATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_case_under.md
-  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-combined.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/impersonating_peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_optimization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/claims_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_is.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_required.md
-  - ./evidence/annexures/JF-PA1_PETER_WITHDRAWAL_EXAMPLE_1.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/are_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_interference_recognition.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_signing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/compensate_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_systematically.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/original_criminal_reports.md
-  - ./jax-dan-response/peters_discovery.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_summary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/level_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/kayla_pretorius_murder.md
-  - ./jax-response/evidence-attachments/dan-technical/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./evidence/legal-documents/formal-notices/FORMAL_NOTICE_CESSATION_CRIMINAL_INSTRUCTIONS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/system_evaluation_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_knowledge_attribution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_elements.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_intent_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_this.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_guide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_standard.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/document_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/takeover_following_murder.md
-  - ./docs/RegimA WWD · Reports · Total sales over time by store · Shopify Plus - 230701 to 251022.pdf
-  - ./jax-response/dan-response-materials/peters_discovery.md
-  - ./ANNEXURES/JF08/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_truth_about.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_the.md
-  - ./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/prevent_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_scheme.md
-  - ./docs/legal/criminal-enterprise-evidence-structure.md
-  - ./evidence/2025-11-14-batch-3/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_tensor_insights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/file_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/03_supporting_affidavit_bantjies_medical.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_criminal_enterprise.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ danie reports 250610.pdf
-  - ./evidence/shopify_reports/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/required_knowledge.md
-  - ./jax-response/evidence-attachments/JF-CHESNO1-forensic-accounting-reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/about_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_counsel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/demonstrate_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_commander.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/other_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminals.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_problem_bantjies.md
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO1-forensic-accounting-reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/gaslight_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_liability_transfer.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_may.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/threat_weaponization_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enforcement.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md
-  - ./UPDATED_DRAFTS/analysis-main/post_murder_systematic_takeover_2023_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/against_bantjies.md
-  - ./jax-dan-response/evidence-attachments/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/requires_criminal_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/framing_persistence_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_clarifies_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination_pattern.md
-  - ./evidence/2025-11-14-batch/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf
-  - ./jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/update_analysis_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_record_impact.md
-  - ./jax-response/evidence-attachments/dan-technical/Dan_Technical_Infrastructure_Affidavit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_evidence_destruction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_warehouse_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_to_peter.md
-  - ./UPDATED_DRAFTS/BANTJIES_ULTIMATE_CONTROL_POWER_STRUCTURE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_avoids.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/integrated_criminal_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_report.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/did_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/ICO_criminal_complaint_template.txt
-  - ./UPDATED_DRAFTS/analysis-main/entities/shield_criminal_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/using_peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_shopify_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_criminal_charges.md
-  - ./ANNEXURES/SF1_Bantjies_Debt_Documentation.md
-  - ./evidence/2025-11-14-batch-3/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/report_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-combined.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_files.md
-  - ./docs/legal/annexures/JF02/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./backups/pre-consolidation/jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_coordination.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminals_will_face.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_fraud_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_penalties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_tschinder.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/party_knowledge.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT 5N1QHQFP.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/against_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/investigation_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/estimated_total_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/abuse_affidavit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_knowledge.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/RegimA WW+Zone · Reports · Total sales over time by store · Shopify Plus ZAR.pdf
-  - ./backups/pre-consolidation/jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_kayla.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/received_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/has_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/subpoena_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge_level.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_investigation_avoidance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/analysis_reports_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/border_criminal_liability.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation_obstruction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/state_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/informs_bantjies.md
-  - ./evidence/legal-analysis/DANIEL_EXPARTE_LEGAL_FRAMEWORK_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/demonstrates_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_confirmed_daniel.md
-  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_WITNESS_STATEMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/src/utils/configure_detailed_reports.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/discrepancy_reports_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/enhanced_affidavit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/use_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_hijacking.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/added_daniel_faucitt.md
-  - ./evidence/witness_statements/DANIEL_WITNESS_STATEMENT_COMPLETION_STATUS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_cooperation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_acts.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/FORMAL NOTICE - CESSATION OF CRIMINAL INSTRUCTIONS.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_matrix_integration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/high_priority_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_daniel_did.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_case_framework.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_representation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_communications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/strength_before_validation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/portray_daniel.md
-  - ./docs/legal/affidavits/daniel-affidavit-strategic-logistics.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/that_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/tools/knowledge_matrix.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_jurisdiction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_level.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_base.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md
-  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-combined.json
-  - ./jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/readable_reports_the.md
-  - ./jax-dan-response/evidence-attachments/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_shield.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/immediate_aftermath.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md
-  - ./jax-response/AD/1-Critical/PETER_TRUST_POWER_ABUSE_LEX_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_improvements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_now.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/create_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_request.md
-  - ./2DO/x/regima.com/dan@regima.com/Consequences of Peter Exceeding the Interdict.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_procedure_act.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_warehouse_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/revised_criminal_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/between_peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_criminal_conspiracy.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md
-  - ./evidence/2025-11-14-batch/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_cannot.md
-  - ./case_2025_137857/02_evidence/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/federal_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shows_peter.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/CRIMINAL_ENTERPRISE_ANNEXURE_STRUCTURE.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md
-  - ./UPDATED_DRAFTS/1.2. MAT4719 - DRAFT Answering Affidavit.docx
-  - ./evidence/financial-analysis/shopify-reports/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/million_bantjies_debt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_this_evidence.md
-  - ./evidence/fake_accounts/Fw_RegimaREZONANCE.eml
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_analysis_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_liability_two.md
-  - ./evidence/2025-11-14-batch-2/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/serious_criminality.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/border_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_sanctions.md
-  - ./jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_act.md
-  - ./evidence/emails/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/mr_daniel_jacobus.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_purpose.md
-  - ./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.png
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_filing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/prepare_criminal_referral.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/appears_peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/analysis_reports.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
-  - ./evidence/compliance/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_operation_your.md
-  - ./jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./jax-response/evidence-attachments/dan-technical/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md
-  - ./lex-inference-engine/output/criminal_case_cross_reference.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_optimization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_element.md
-  - ./jax-dan-response/evidence-attachments/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_documentation_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/both_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/if_peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/and_daniel.md
-  - ./ANNEXURES/JF08/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/claiming_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_director.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charge.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/is_really_about.md
-  - ./evidence/identity-documents/BANTJIES_ID_DOCUMENT.pdf
-  - ./jax-response/evidence-attachments/dan-technical/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_share.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/stolen_funds_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_courts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_attribution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_connection.md
-  - ./evidence/emails/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_elements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_network.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/criminal_matter_safety_guide.md
-  - ./jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_offenses_related.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/executive_summary_after.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_filing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_october.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_still_survives.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_curatorship.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/impossible_knowledge.md
-  - ./evidence/2025-11-14-batch/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/isolate_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_evidence_submission.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_node.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_criminal_case.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_approach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/remove_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_investment_payout.md
-  - ./2DO/x/regima.com/dan@regima.com/AD Paragraph Numbers from Peter's Founding Affidavit (in order) MOSTLY COMPLETE.pdf
-  - ./evidence/character-references/CHARACTER_REFERENCE_DANIEL_FAUCITT_2025-10-11.docx
-  - ./evidence/2025-11-14-batch-2/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/exposes_criminal_appropriation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_courts_would.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sue_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_referrals.md
-  - ./2DO/x/ensafrica.com/smunga@ensafrica.com/Peter Faucitt _ Jacqui Faucitt and others.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_knowledge.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Regima REZONANCE.pdf
-  - ./UPDATED_DRAFTS/analysis-main/docs/1.2. MAT4719 - Answering Affidavit.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_attorney.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_admissions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_appropriation_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_29_deed_preamble_daniel.md
-  - ./evidence/2025-11-14-batch-3/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_did.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_data.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/updates_peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_context.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_referral.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/created_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_elements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_sends.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_facilitation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation_avoidance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_criminal_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_strategy.md
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md
-  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/other_criminals.md
-  - ./jax-response/source-documents/SECTION_3_ADDITION_DANS_TECHNICAL_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/JUNE_6_10_EMAILS_DANIE_BANTJIES.txt
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_requiring.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sue_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/protect_murder_investigation.md
-  - ./backups/pre-consolidation/jax-dan-response/CRIMINAL_ENTERPRISE_EVIDENCE_STRUCTURE.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_shopify_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_justice_delay.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_interference_pattern.md
-  - ./evidence/2025-11-14-batch-3/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/procedural_matters.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_context.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_clients_likely_diverted_to_peter.md
-  - ./2DO/x/regima.com/dan@regima.com/Mr.Bantjies Forgot to Include in His Affidavit.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_evolution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/jurisdictional_criminal_justice.md
-  - ./jax-response/evidence-attachments/dan-technical/CRIMINAL_ENTERPRISE_ANNEXURE_STRUCTURE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_team.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/potential_criminal_liability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal_acts.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/party-knowledge-matrix-analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/assessment_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_complaint_process.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_case.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_required.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_criminal_complaint.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/be_alert_before.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/premeditated_criminal_entrapment.md
-  - ./evidence/2025-11-14-batch-3/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_supported.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_matrix.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/assumed_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_matters.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_knowledge_matrix.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/forensic_analysis_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/force_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/damages_claim_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/generate_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/via_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_graphs.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/any_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_court_jurisdiction.md
-  - ./2DO/x/regima.zone/dan@regima.zone/danie reports 250610.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/federal_criminal_jurisdiction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/clear_criminal_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proves_bantjies.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json
-  - ./1-CIVIL-RESPONSE/annexures/JF-DANIEL-BANK-ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/no_criminal_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/prelim_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_breach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enable_criminal_continuation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_assessment_reports.md
-  - ./evidence/fake_accounts/Fw_RegimaREZONANCE.msg
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_use.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_integration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/status_matters.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/how_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/jurisdictional_criminal_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/both_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enhanced_party_knowledge.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.jpg
-  - ./jax-response/evidence-attachments/dan-technical/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_sequence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/makes_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_broader_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/receives_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enhanced_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_enables_systematic.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_evidence.md
-  - ./jax-dan-response/evidence-attachments/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/forcing_daniel.md
-  - ./UPDATED_DRAFTS/BANTJIES_DEBTOR_MOTIVE_CRIMINAL_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_offences_alleged.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/how_criminal_enterprises.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/if_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/private_matters.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_decision.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_about_rezonance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/year_criminal_proceeds.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_criminal.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-06_DAN_TO_BANTJIES_FRAUD_REPORTS.eml
-  - ./UPDATED_DRAFTS/analysis-main/entities/detailed_reports_generated.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_matters_agreement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enhances_criminal_charges.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF02/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/therefore_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_framework.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/handling_verbal_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/all_peter.md
-  - ./evidence/emails/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_shopify_evidence.md
-  - ./evidence/2025-11-14-batch/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf
-  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/confirm_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/existing_knowledge.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/personal_data_criminally.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/possibly_danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_context.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_repeatedly.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/primary_criminal_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_this_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/criminal-sequence-evidence-report.md
-  - ./implementation/phase3_civil_criminal_separation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_disguise.md
-  - ./evidence/bantjies_debt/BantjiesInvestmentPayoutDates2026-05.jpg
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_interference_impact.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/party_knowledge_matrix.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_shopify_email.md
-  - ./jax-dan-response/evidence-attachments/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/false_affidavit.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025-137.pdf
-  - ./jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.md
-  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_trustee.md
-  - ./evidence/annexures/JF-CHESNO1_FORENSIC_ACCOUNTING_REPORTS.md
-  - ./backups/pre-consolidation/jax-dan-response/medium_priority_responses/confirmatory_affidavits.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shows_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/potential_international_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/eliminate_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/FORMAL NOTICE - CESSATION OF CRIMINAL INSTRUCTIONS.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/ensure_peter.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/Dan_Technical_Infrastructure_Affidavit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_objective.md
-  - ./evidence/annexures/JF-DLA3_DANIEL_DIRECTOR_LOAN_ACCOUNT.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(1).pdf
-  - ./jax-response/peter-interdict/peter-faucitt-interdict-combined.md
-  - ./case_2025_137857/07_legal_research/criminal_matter_safety_guide.md
-  - ./2DO/x/regima.zone/jax@regima.zone/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
-  - ./evidence/2025-11-14-batch-3/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_faces.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_coordination_indicators.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_operation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/whether_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/create_daniel_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/potentially_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_legal_proceedings.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/1.2. MAT4719 - Answering Affidavit.BACKUP.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/case_summary_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enable_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/RegimA SA · Reports · Total sales over time by store · Shopify Plus.pdf
-  - ./jax-response/dan-response-materials/CRIMINAL_ENTERPRISE_EVIDENCE_STRUCTURE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/adding_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/bantjies_investment_payout_analysis.md
-  - ./docs/legal/annexures/JF12/criminal_matter_safety_guide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/core_criminal_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/help_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/07_legal_research/criminal_matter_safety_guide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_has.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_asset.md
-  - ./jax-response/evidence-attachments/dan-technical/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md
-  - ./backups/pre-consolidation/jax-dan-response/peters_discovery.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/for_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/delays_criminal_investigation.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/separate_criminal_liability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_july.md
-  - ./evidence/identity-documents/BANTJIES_ID_DOCUMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enables_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sales_reports.md
-  - ./docs/legal/annexures/JF08/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./evidence/emails/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_incentive.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/discredit_daniel.md
-  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/criminal-case-timeline-outline-sa.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_complaint.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/strength_after_validation.md
-  - ./UPDATED_DRAFTS/SARS_AUDIT_EMAIL_BANTJIES_INSTRUCTIONS_SMOKING_GUN.md
-  - ./ad-hypergraph-mapping/bantjies_hypergraph_analysis_report.json
-  - ./jax-response/evidence-attachments/dan-technical/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md
-  - ./evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf
-  - ./evidence/2025-11-14-batch/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/BANTJIES_DEBT_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_network.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/case_analysis_reports.md
-  - ./2DO/x/regima.com/dan@regima.com/AD NOTES - DANIEL JAMES FAUCITT.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/additional_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/personal_criminal_liability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_continuation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/summary_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/peter_fiduciary_breach_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/peter-faucitt-interdict/peter-faucitt-interdict-complete.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_using_templates.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_significance.md
-  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-complete.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/draft_affidavit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/south_african_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_sends_complete.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/for_criminal_prosecution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/early_criminal_referral.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/only_peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/making_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_criminal_activity.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md
-  - ./jax-response/evidence-attachments/dan-technical/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_sequence_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_criminal_cooperation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/reports_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_procedure.md
-  - ./2DO/x/elliottattorneys.co.za/keegan@elliottattorneys.co.za/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/affidavits/Mitigation_Strategies_Answering_Affidavit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_criminal_enterprise.md
-  - ./evidence/annexures/JF-WS1_DANIEL_WITNESS_STATEMENT_HAS_ANYTHING_CHANGED.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies_financial.md
-  - ./jax-response/evidence-attachments/JF-CHESNO4-insolvency-assessment-pre-daniel.md
-  - ./evidence/annexures/JF-PA3_PETER_WITHDRAWAL_EXAMPLE_3.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/against_peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_criminal_proceeds.md
-  - ./docs/legal/analysis/CIVIL_CRIMINAL_CASE_SPLIT.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/01_main_responding_affidavit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/establishing_knowledge.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/claimed_knowledge.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/harass_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_matter_response.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_role.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bizarre_claims_about.md
-  - ./jax-response/dan-response-materials/peters_causation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/under_criminal_finances.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/performance_after_may.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_value.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/about_rynette.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/continuing_criminal_enterprise.md
-  - ./ANNEXURES/JF02/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_case_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_daniel_told.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_false_impartiality.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/eliminated_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_referral_the.md
-  - ./2DO/x/regima.zone/jax@regima.zone/meeeting confirmed 2 pm Friday, 26 September 2025 THE LEONARDO JACQUI & DANIEL F.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/create_peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation_would.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_timeline_summary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_elements_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_knowledge.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_18_acceptance_trusteeship_peter.md
-  - ./jax-dan-response/criminal-complaint/CRIMINAL_COMPLAINT_POPIA_Section_107_Peter_Faucitt.md
-  - ./jax-response/evidence-attachments/dan-technical/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md
-  - ./jax-dan-response/rule-42-rescission/FOUNDING_AFFIDAVIT_Daniel_Faucitt_Rule_42.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_vehicle.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/border_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/owes_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proves_peter.md
-  - ./evidence/annexures/JF-PA4_PETER_WITHDRAWAL_EXAMPLE_4.md
-  - ./jax-dan-response/medium_priority_responses/confirmatory_affidavits.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_bank_evidence.md
-  - ./jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/confirmed_knowledge.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_files_ex.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/appears_peter.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_james_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_penalty.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/lay_criminal_charges.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md
-  - ./legal_analysis_2025_11/court_documents/2025_08_19_-_Peter_Faucitt_Interdict.pdf
-  - ./UPDATED_DRAFTS/analysis-main/DANIEL_AUTONOMY_STRATEGY.md
-  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/primary_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/generate_enhanced_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_debt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/deterrence_requires_criminal.md
-  - ./docs/reports/completion/DANIEL_TECHNICAL_PERSPECTIVE_IMPLEMENTATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/limited_criminal_authority.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_pattern_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_investigation_prevention.md
-  - ./UPDATED_DRAFTS/analysis-main/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/no_criminal_authority.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/custody_reports_complete.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/clear_criminal_motive.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/following_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_bank_interference.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy.md
-  - ./jax-dan-response/evidence-attachments/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_obstruction.md
-  - ./jax-dan-response/evidence-attachments/PETERS_CAUSATION_SECTION_DRAFT.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & 1 OTHER (CASE NR_ 2025-137857).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_about.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/needs_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_intent.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_criminal_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_interdict.md
-  - ./evidence/annexures/JF-CHESNO4_INSOLVENCY_ASSESSMENT_PRE_DANIEL.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_farrar_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/RegimA SA · Reports · Total sales over time by store · Shopify Plus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_happens_after.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/because_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/about_kayla.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_attorney_hawks.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_weapon.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/attorneys_had_murder.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/ICO_GDPR_criminal_prosecution_guide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_freezing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_christ.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_perez_repository.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enhanced_criminal_liability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_method.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_interlocking_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_offences.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/factors_supporting_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_case_all.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_template.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/demonstrates_criminal_planning.md
-  - ./UPDATED_DRAFTS/DANIE_BANTJIES_PERJURY_ANALYSIS_COMPREHENSIVE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_appropriation_attempts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/denying_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/accountant_danie_bantjies.md
-  - ./affidavit_work/analysis/PETERS_CLAIMS_VS_DOCUMENTED_EVIDENCE_COMPARATIVE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/premeditated_murder.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/were_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_reality.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/why_bantjies.md
-  - ./evidence/bantjies_investment_payout_forecast.txt
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_without_denial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/has_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/matters_critically.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/for_peter.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/actual_signing_date.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/expert_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_masterstroke.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_matters.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_filed_secret.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/entity_criminal_conspiracy.md
-  - ./UPDATED_DRAFTS/DRAFT_EVALUATION_AGAINST_REPOSITORY_KNOWLEDGE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/initial_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/protect_daniel_faucitt.md
-  - ./evidence/shopify_reports/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_case_timeline.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.eml
-  - ./evidence/annexures/JF-CHESNO3_POLICE_REPORTS_FRAUD_INVESTIGATION.md
-  - ./docs/legal/affidavits/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_survives.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_validation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_counsel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_relationship_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/criminal_matter_safety_guide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_criminal_network.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/verification_reports_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_exploits.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_violations.md
-  - ./jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/additional_criminal_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/mr_daniel_jacobus_bantjes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_court_referral.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_operations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_victim.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/requires_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_sabotage_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/route_criminal_activity.md
-  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_WITNESS_STATEMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/filing_issues_before.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_proceeds.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_applicable.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/additional_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/get_bantjies.md
-  - ./evidence/2025-11-14-batch-2/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf
-  - ./evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conduct.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-complete.md
-  - ./jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_verification_requirements.md
-  - ./jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/integration_reports.md
-  - ./2DO/x/regima.zone/jax@regima.zone/DAN REPORTS SENT FOR EXPENSES FRAMEWORK.pdf
-  - ./jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_trustee_appointment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_justice.md
-  - ./evidence/annexures/JF-PA2_PETER_WITHDRAWAL_EXAMPLE_2.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/generate_analysis_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_established.md
-  - ./evidence/2025-11-14-batch/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_liability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/stolen_funds.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/revised_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_start.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/uses_bantjies.md
-  - ./evidence/witness_statements/DANIEL_WITNESS_STATEMENT_JF5_SETTLEMENT_EXCHANGE.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & 1 OTHER (CASE NR_ 2025-137857).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_intent_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_instructions.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ DRAFT ANSWERING AFFIDAVIT.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_legal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_support.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knew_bantjies.md
-  - ./2DO/x/elliottattorneys.co.za/keegan@elliottattorneys.co.za/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025(1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/affidavits/Legal_Critique_Answering_Affidavit.md
-  - ./evidence/legal-analysis/DANIEL_EXPARTE_LEGAL_FRAMEWORK_ANALYSIS.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/first_respondent_peter.md
-  - ./jax-response/evidence-attachments/dan-technical/PETERS_CAUSATION_SECTION_DRAFT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_summary_reports.md
-  - ./docs/legal/annexures/JF08/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/technical_about.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/about_may.md
-  - ./ANNEXURES/JF12/criminal_matter_safety_guide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_criminal_acts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_perez.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/protect_criminal_justice.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supported_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_masterminds.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/when_bantjies.md
-  - ./jax-response/peter-interdict/peter-faucitt-interdict-complete.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_referral_protocols.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_pete.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_architecture.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/destroys_peter.md
-- **Ad Res J7 References:** 
-  - See files related to: Daniel, reports, Bantjies, about, Kayla's, murder, (August, 2023), Peter, stealing, funds, after, murder,, including, R1.8M, Rezonance., Bantjies, acquires, knowledge, criminal, matters, before, signing, confirmatory, affidavit.
-- **Crime Category:** other
-- **Phase:** PHASE_004
-- **Event Subtype:** knowledge_acquisition_fraud_and_murder_disclosure
-- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_062
-- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
-- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
-- **Evidence Urls:** 
-  - https://github.com/cogpy/ad-res-j7/blob/main/evidence/2025-11-14-batch/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/criminal_treaties.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/evidence/2025-11-14-batch-3/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/if_bantjies.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/the_complete_criminal.md
-- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_062.html
-- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_062
-- **Related Application:** APPLICATION_1
-- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
-- **Ad Res J7 Evidence:** 
-  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
-  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}
+**Description:**
+Daniel reports to Bantjies about Kayla's murder (August 2023) and Peter stealing funds after murder, including over R1.8M owed to Rezonance. Bantjies acquires knowledge of criminal matters before signing confirmatory affidavit.
+
+## Evidence References
+
+No specific evidence linked.
+
+## Raw Data
+
+```json
+{
+  "event_id": "EVENT_062",
+  "date": "2025-06-10",
+  "title": "Bantjies Learns of Criminal Matters",
+  "category": "knowledge_acquisition",
+  "event_type": "fraud_and_murder_disclosure",
+  "perpetrators": [
+    "PERSON_007"
+  ],
+  "victims": [],
+  "entities_involved": [
+    "PERSON_007",
+    "PERSON_005"
+  ],
+  "description": "Daniel reports to Bantjies about Kayla's murder (August 2023) and Peter stealing funds after murder, including over R1.8M owed to Rezonance. Bantjies acquires knowledge of criminal matters before signing confirmatory affidavit.",
+  "legal_significance": "knowledge_before_perjury_confirmatory_affidavit",
+  "evidence": [
+    "email_received_thanks_daniel_2025_08_29"
+  ],
+  "pattern": "consolidation_phase",
+  "critical": true,
+  "timeline_phase": "PHASE_004",
+  "extended_evidence_note": "See ad-res-j7 repository for detailed supporting documentation",
+  "related_applications": [
+    "APPLICATION_1",
+    "APPLICATION_2"
+  ],
+  "evidence_files": [
+    "./evidence/2025-11-14-batch/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_treaties.md",
+    "./evidence/2025-11-14-batch-3/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/if_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_complete_criminal.md",
+    "./evidence/annexures/JF-DLA1_PETER_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/RegimA WW+Zone \u00b7 Reports \u00b7 Total sales over time by store \u00b7 Shopify Plus ZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/british_citizen_criminal.md",
+    "./case_2025_137857/02_evidence/misc/Peter Faucitt _ Jacqui Faucitt and others.msg",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_to_rezonance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_espeset.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_reports_murder.md",
+    "./ANNEXURES/JF02/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_murder_connection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_protection.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_precedence.md",
+    "./UPDATED_DRAFTS/DRAFT_EVALUATION_WITH_DANIE_BANTJIES_PERJURY.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/ensures_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_representation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_ownership_matters.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/review_before_sending.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_criminal_court.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_transfers.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/controls_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corrected_criminal_proceeds.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_case_timelines.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_strategy_framework.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/next_steps_after.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_if.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_referral_accepted.md",
+    "./backups/pre-consolidation/jax-dan-response/peters_causation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_peak_performance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_attribution_verification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_investigation_demands.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_offenses_this.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_owed_duties.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF12/criminal_matter_safety_guide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corrected_criminal_scheme.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_tensors.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/pay_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_andrew.md",
+    "./evidence/2025-11-14-batch/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_penalties_available.md",
+    "./evidence/character-references/CHARACTER_REFERENCE_DANIEL_FAUCITT_2025-10-11.md",
+    "./jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ Kayla's docs.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_potential_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_document_signing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/if_peter_filed.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/since_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/damage_assessment_peter.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/forced_signing.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_supporting_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/why_peter_escalates.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_referral.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING(1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_criminal_elements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/why_criminal_prosecution.md",
+    "./evidence/emails/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf",
+    "./case_2025_137857/02_evidence/misc/Peter Faucitt _ Jacqui Faucitt and others.eml",
+    "./evidence/emails/jaz-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_investigations.md",
+    "./docs/legal/README_CIVIL_CRIMINAL_SPLIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_case_preparation.md",
+    "./jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/showing_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_gap_detection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/modifying_elements_after.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/analysis_reports_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/testing_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/concealing_criminal_property.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_proceeds_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sophisticated_criminal_system.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_peter_provided.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_act.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025_automated/FORMALNOTICE-CESSATIONOFCRIMINALINSTRUCTIONS.docx",
+    "./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md",
+    "./evidence/correspondence/JF8C_PETER_REFUSAL_TO_ENGAGE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_may.md",
+    "./docs/reports/completion/TASK_COMPLETION_PETERS_WITHDRAWALS_JF-PA.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_validation.md",
+    "./evidence/2025-11-14-batch/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/combined_annual_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_files_second.md",
+    "./evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf",
+    "./evidence/2025-11-14-batch/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_pete.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_legal_weaponization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_proceedings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_authority.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/any_peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_recovery.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_criminal_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/kayla_pretorius_murdered.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(1).pdf",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO4-insolvency-assessment-pre-daniel.md",
+    "./jax-dan-response/PETERS_CAUSATION_INTEGRATION_GUIDE.md",
+    "./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Response Affidavit.pdf",
+    "./jax-response/evidence-attachments/dan-technical/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corporate_criminal_liability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies_coordination.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING(2).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_elements_established.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_improvements.md",
+    "./evidence/2025-11-14-batch-3/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf",
+    "./jax-dan-response/evidence-attachments/Dan_Technical_Infrastructure_Affidavit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_verification_framework.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_courts_act.md",
+    "./docs/legal/analysis/criminal-enterprise-evidence-structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/continue_criminal_coordination.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/immediately_after_murder.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/south_africa_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_matrix_enhancement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_criminals.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_hijacking.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/confirms_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_fauc.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ DRAFT ANSWERING AFFIDA.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_offences_under.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_pattern_demonstration.md",
+    "./ANNEXURES/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_affected_while_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_avoidance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_strategy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/file_enhanced_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regulatory_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/if_criminal_referral.md",
+    "./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/more_knowledge.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_controls.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/expert_affidavit.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF02/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_WITNESS_STATEMENT.md",
+    "./evidence/compliance/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_august.md",
+    "./lex/cri/za/south_african_criminal_law.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_james.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_after_kayla.md",
+    "./evidence/fake_accounts/Fw_RegimaREZONANCE.pdf",
+    "./evidence/legal-documents/formal-notices/FORMAL_NOTICE_CESSATION_CRIMINAL_INSTRUCTIONS.pdf",
+    "./evidence/witness-statements/templates/TEMPLATE_DANIEL_SHOPIFY_PLATFORM_OWNERSHIP.md",
+    "./evidence/financial-analysis/shopify-reports/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_support.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_necessary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/all_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_timeline_integration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/potentially_danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_requests_computer.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/remove_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation_authority.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/party-knowledge-matrix-analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/avoids_criminal_courts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/brief_criminal_counsel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/timeline_analysis_reports.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/primary_criminal_agent.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025.pdf",
+    "./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_now_faces.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_matter.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-2025-09-30.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/questions_about_rynette.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/party-knowledge-matrix-updated-ocr.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_verification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_connection_evidence.md",
+    "./evidence/2025-11-14-batch-3/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/using_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/identify_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proved_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_jacobus_bantjes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/vulnerability_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/annual_criminal_proceeds.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/for_peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enhances_all_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/banking_law_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/prior_criminal_activity.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT DKCBCWFP.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/extreme_criminality.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/completed_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_transfers.md",
+    "./jax-response/evidence-attachments/dan-technical/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ danie reports 250610.pdf",
+    "./UPDATED_DRAFTS/UBUNTU_PRINCIPLE_KAYLA_DANIEL_GIVING_AWAY_R100M_COMPREHENSIVE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_forfeiture.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/establishes_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/establishes_peter.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/PETERS_CAUSATION_SECTION_DRAFT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/year_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_reports_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_knowledge.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/while_peter.md",
+    "./2DO/x/regima.com/dan@regima.com/URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/generate_reports_output.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_jurisdiction_required.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025/FORMALNOTICE-CESSATIONOFCRIMINALINSTRUCTIONS.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/verification_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/phase_criminal_enterprise.md",
+    "./evidence/2025-11-14-batch-3/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_node.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_context.md",
+    "./jax-dan-response/evidence-attachments/PETERS_CAUSATION_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_continuation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_unprosecuted.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/reimburse_daniel.md",
+    "./docs/reports/verification/TASK_VERIFICATION_PETERS_PARTICIPATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_exposing_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_court_avoidance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_opportunism.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/material_evidence_reports.md",
+    "./ad-hypergraph-mapping/bantjies_agent_mapper.py",
+    "./case_2025_137857/02_evidence/evidence_package_20250523/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/why_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/potential_criminal_acts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/facilitate_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/premeditated_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_march.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_matters.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_court_response.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/clarified_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_sequence_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_investigations_team.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/for_daniel_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_prosecution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_funds.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_purpose_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_only.md",
+    "./UPDATED_DRAFTS/2_YEAR_ACCOUNTING_BLACKOUT_AFTER_KAYLA_EMAIL_SEIZURE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/formal_criminal_complaint.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_criminal_justice.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/obtain_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/phase_criminal_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/unified_knowledge_representation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/against_danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/update_criminal_authorities.md",
+    "./jax-response/peter-interdict/peter-faucitt-interdict-complete.json",
+    "./jax-response/evidence-attachments/dan-technical/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_matters_act.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_criminal_attorney.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(2).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_master_criminal.md",
+    "./docs/legal/annexures/JF02/RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_participants.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/escalation_after_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/exploit_peter.md",
+    "./jax-response/peter-interdict/peter-faucitt-interdict-combined.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/why_this_matters.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/maintain_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_focus.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/deter_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/federal_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/peter-faucitt-interdict/peter-faucitt-interdict-combined.md",
+    "./evidence/bantjies_investment_payout_forecast.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_amendment.md",
+    "./evidence/2025-11-14-batch-3/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_tensor_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_enhanced.md",
+    "./evidence/emails/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_andrew_faucitt.md",
+    "./evidence/2025-11-14-batch-3/RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/needed_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_systematic_takeover.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/finds_rezonance.md",
+    "./jax-dan-response/peters_causation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/coordinated_peter.md",
+    "./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_criminal_liability.md",
+    "./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-complete.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/consolidate_criminal_charges.md",
+    "./docs/legal/annexures/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md",
+    "./ad-hypergraph-mapping/BANTJIES_COMPLETE_HYPERGRAPH_VISUALIZATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_case_under.md",
+    "./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-combined.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/impersonating_peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_optimization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/claims_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_peter_is.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_required.md",
+    "./evidence/annexures/JF-PA1_PETER_WITHDRAWAL_EXAMPLE_1.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/are_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_interference_recognition.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_signing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/compensate_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_peter_systematically.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/original_criminal_reports.md",
+    "./jax-dan-response/peters_discovery.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_summary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/level_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/kayla_pretorius_murder.md",
+    "./jax-response/evidence-attachments/dan-technical/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./evidence/legal-documents/formal-notices/FORMAL_NOTICE_CESSATION_CRIMINAL_INSTRUCTIONS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/system_evaluation_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/timeline_knowledge_attribution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_elements.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_intent_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_this.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_guide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_standard.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/document_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/takeover_following_murder.md",
+    "./docs/RegimA WWD \u00b7 Reports \u00b7 Total sales over time by store \u00b7 Shopify Plus - 230701 to 251022.pdf",
+    "./jax-response/dan-response-materials/peters_discovery.md",
+    "./ANNEXURES/JF08/evidence_package_20250523/RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_truth_about.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_the.md",
+    "./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/prevent_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_scheme.md",
+    "./docs/legal/criminal-enterprise-evidence-structure.md",
+    "./evidence/2025-11-14-batch-3/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_tensor_insights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/file_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/03_supporting_affidavit_bantjies_medical.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_criminal_enterprise.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ danie reports 250610.pdf",
+    "./evidence/shopify_reports/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/required_knowledge.md",
+    "./jax-response/evidence-attachments/JF-CHESNO1-forensic-accounting-reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/about_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_counsel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/demonstrate_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_commander.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/other_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminals.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_problem_bantjies.md",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO1-forensic-accounting-reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/gaslight_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/coordinated_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_liability_transfer.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_may.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/threat_weaponization_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enforcement.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md",
+    "./UPDATED_DRAFTS/analysis-main/post_murder_systematic_takeover_2023_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/against_bantjies.md",
+    "./jax-dan-response/evidence-attachments/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/requires_criminal_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/framing_persistence_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_clarifies_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination_pattern.md",
+    "./evidence/2025-11-14-batch/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf",
+    "./jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/update_analysis_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_record_impact.md",
+    "./jax-response/evidence-attachments/dan-technical/Dan_Technical_Infrastructure_Affidavit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_evidence_destruction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_warehouse_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_to_peter.md",
+    "./UPDATED_DRAFTS/BANTJIES_ULTIMATE_CONTROL_POWER_STRUCTURE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_peter_avoids.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/integrated_criminal_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_report.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/did_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/ICO_criminal_complaint_template.txt",
+    "./UPDATED_DRAFTS/analysis-main/entities/shield_criminal_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/using_peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_shopify_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_criminal_charges.md",
+    "./ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+    "./evidence/2025-11-14-batch-3/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/report_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-combined.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_files.md",
+    "./docs/legal/annexures/JF02/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./backups/pre-consolidation/jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_coordination.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminals_will_face.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_fraud_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_penalties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_tschinder.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/party_knowledge.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT 5N1QHQFP.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/against_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/investigation_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/estimated_total_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/abuse_affidavit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_knowledge.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/RegimA WW+Zone \u00b7 Reports \u00b7 Total sales over time by store \u00b7 Shopify Plus ZAR.pdf",
+    "./backups/pre-consolidation/jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_kayla.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/received_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250523/RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/has_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/subpoena_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge_level.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_investigation_avoidance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/analysis_reports_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/border_criminal_liability.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250523/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation_obstruction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/state_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/informs_bantjies.md",
+    "./evidence/legal-analysis/DANIEL_EXPARTE_LEGAL_FRAMEWORK_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/demonstrates_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_confirmed_daniel.md",
+    "./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_WITNESS_STATEMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/src/utils/configure_detailed_reports.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/discrepancy_reports_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/enhanced_affidavit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/use_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_hijacking.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/added_daniel_faucitt.md",
+    "./evidence/witness_statements/DANIEL_WITNESS_STATEMENT_COMPLETION_STATUS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_cooperation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_acts.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/FORMAL NOTICE - CESSATION OF CRIMINAL INSTRUCTIONS.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_matrix_integration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/high_priority_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_daniel_did.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_case_framework.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_representation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_communications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/strength_before_validation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/portray_daniel.md",
+    "./docs/legal/affidavits/daniel-affidavit-strategic-logistics.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/that_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/tools/knowledge_matrix.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_jurisdiction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_level.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_base.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md",
+    "./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-combined.json",
+    "./jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/readable_reports_the.md",
+    "./jax-dan-response/evidence-attachments/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_shield.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/immediate_aftermath.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md",
+    "./jax-response/AD/1-Critical/PETER_TRUST_POWER_ABUSE_LEX_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_improvements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_now.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/create_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_request.md",
+    "./2DO/x/regima.com/dan@regima.com/Consequences of Peter Exceeding the Interdict.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_procedure_act.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_warehouse_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/revised_criminal_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/between_peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_criminal_conspiracy.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md",
+    "./evidence/2025-11-14-batch/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_peter_cannot.md",
+    "./case_2025_137857/02_evidence/evidence_package_20250523/RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/federal_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shows_peter.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/CRIMINAL_ENTERPRISE_ANNEXURE_STRUCTURE.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md",
+    "./UPDATED_DRAFTS/1.2. MAT4719 - DRAFT Answering Affidavit.docx",
+    "./evidence/financial-analysis/shopify-reports/RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/million_bantjies_debt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_this_evidence.md",
+    "./evidence/fake_accounts/Fw_RegimaREZONANCE.eml",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_analysis_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_liability_two.md",
+    "./evidence/2025-11-14-batch-2/RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/serious_criminality.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/border_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_sanctions.md",
+    "./jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_act.md",
+    "./evidence/emails/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/mr_daniel_jacobus.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_purpose.md",
+    "./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.png",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_filing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/prepare_criminal_referral.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/appears_peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/analysis_reports.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf",
+    "./evidence/compliance/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_operation_your.md",
+    "./jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./jax-response/evidence-attachments/dan-technical/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md",
+    "./lex-inference-engine/output/criminal_case_cross_reference.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_optimization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_element.md",
+    "./jax-dan-response/evidence-attachments/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_documentation_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/both_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/if_peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/and_daniel.md",
+    "./ANNEXURES/JF08/evidence_package_20250523/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/claiming_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_director.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charge.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/is_really_about.md",
+    "./evidence/identity-documents/BANTJIES_ID_DOCUMENT.pdf",
+    "./jax-response/evidence-attachments/dan-technical/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_share.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/stolen_funds_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_courts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_attribution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_connection.md",
+    "./evidence/emails/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_elements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_network.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/criminal_matter_safety_guide.md",
+    "./jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_offenses_related.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/executive_summary_after.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_filing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_october.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_still_survives.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_curatorship.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/impossible_knowledge.md",
+    "./evidence/2025-11-14-batch/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/isolate_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_evidence_submission.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_node.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_criminal_case.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_approach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/remove_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_investment_payout.md",
+    "./2DO/x/regima.com/dan@regima.com/AD Paragraph Numbers from Peter's Founding Affidavit (in order) MOSTLY COMPLETE.pdf",
+    "./evidence/character-references/CHARACTER_REFERENCE_DANIEL_FAUCITT_2025-10-11.docx",
+    "./evidence/2025-11-14-batch-2/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/exposes_criminal_appropriation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_courts_would.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sue_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_referrals.md",
+    "./2DO/x/ensafrica.com/smunga@ensafrica.com/Peter Faucitt _ Jacqui Faucitt and others.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_knowledge.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ Regima REZONANCE.pdf",
+    "./UPDATED_DRAFTS/analysis-main/docs/1.2. MAT4719 - Answering Affidavit.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_attorney.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_admissions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_appropriation_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_29_deed_preamble_daniel.md",
+    "./evidence/2025-11-14-batch-3/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_peter_did.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_data.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/updates_peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_context.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_referral.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/created_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_elements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_sends.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_facilitation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation_avoidance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/ongoing_criminal_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_strategy.md",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md",
+    "./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/other_criminals.md",
+    "./jax-response/source-documents/SECTION_3_ADDITION_DANS_TECHNICAL_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/JUNE_6_10_EMAILS_DANIE_BANTJIES.txt",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_requiring.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sue_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/protect_murder_investigation.md",
+    "./backups/pre-consolidation/jax-dan-response/CRIMINAL_ENTERPRISE_EVIDENCE_STRUCTURE.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_shopify_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_justice_delay.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_annual_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_interference_pattern.md",
+    "./evidence/2025-11-14-batch-3/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/procedural_matters.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_context.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_clients_likely_diverted_to_peter.md",
+    "./2DO/x/regima.com/dan@regima.com/Mr.Bantjies Forgot to Include in His Affidavit.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_evolution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/jurisdictional_criminal_justice.md",
+    "./jax-response/evidence-attachments/dan-technical/CRIMINAL_ENTERPRISE_ANNEXURE_STRUCTURE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_team.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/potential_criminal_liability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal_acts.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/party-knowledge-matrix-analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/assessment_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_complaint_process.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_case.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_required.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_criminal_complaint.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/be_alert_before.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/premeditated_criminal_entrapment.md",
+    "./evidence/2025-11-14-batch-3/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_supported.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_matrix.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/assumed_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_matters.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_knowledge_matrix.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/forensic_analysis_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/force_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/damages_claim_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/generate_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/via_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_graphs.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/any_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_court_jurisdiction.md",
+    "./2DO/x/regima.zone/dan@regima.zone/danie reports 250610.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/federal_criminal_jurisdiction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/clear_criminal_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proves_bantjies.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json",
+    "./1-CIVIL-RESPONSE/annexures/JF-DANIEL-BANK-ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/no_criminal_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/prelim_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_breach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enable_criminal_continuation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_assessment_reports.md",
+    "./evidence/fake_accounts/Fw_RegimaREZONANCE.msg",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_use.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_integration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/status_matters.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/how_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/jurisdictional_criminal_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/both_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enhanced_party_knowledge.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.jpg",
+    "./jax-response/evidence-attachments/dan-technical/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_sequence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/makes_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_broader_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/receives_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enhanced_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_enables_systematic.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_evidence.md",
+    "./jax-dan-response/evidence-attachments/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/forcing_daniel.md",
+    "./UPDATED_DRAFTS/BANTJIES_DEBTOR_MOTIVE_CRIMINAL_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_offences_alleged.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/how_criminal_enterprises.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/if_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/private_matters.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_decision.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rynette_about_rezonance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/year_criminal_proceeds.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_criminal.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/2025-06-06_DAN_TO_BANTJIES_FRAUD_REPORTS.eml",
+    "./UPDATED_DRAFTS/analysis-main/entities/detailed_reports_generated.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_matters_agreement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enhances_criminal_charges.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF02/RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/therefore_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_framework.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/handling_verbal_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/all_peter.md",
+    "./evidence/emails/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_shopify_evidence.md",
+    "./evidence/2025-11-14-batch/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf",
+    "./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/confirm_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/existing_knowledge.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/personal_data_criminally.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/possibly_danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_context.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_peter_repeatedly.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/primary_criminal_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_this_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/criminal-sequence-evidence-report.md",
+    "./implementation/phase3_civil_criminal_separation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_disguise.md",
+    "./evidence/bantjies_debt/BantjiesInvestmentPayoutDates2026-05.jpg",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_interference_impact.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/party_knowledge_matrix.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_shopify_email.md",
+    "./jax-dan-response/evidence-attachments/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/false_affidavit.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025-137.pdf",
+    "./jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.md",
+    "./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_trustee.md",
+    "./evidence/annexures/JF-CHESNO1_FORENSIC_ACCOUNTING_REPORTS.md",
+    "./backups/pre-consolidation/jax-dan-response/medium_priority_responses/confirmatory_affidavits.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shows_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/potential_international_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/eliminate_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/FORMAL NOTICE - CESSATION OF CRIMINAL INSTRUCTIONS.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/ensure_peter.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/Dan_Technical_Infrastructure_Affidavit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_objective.md",
+    "./evidence/annexures/JF-DLA3_DANIEL_DIRECTOR_LOAN_ACCOUNT.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(1).pdf",
+    "./jax-response/peter-interdict/peter-faucitt-interdict-combined.md",
+    "./case_2025_137857/07_legal_research/criminal_matter_safety_guide.md",
+    "./2DO/x/regima.zone/jax@regima.zone/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf",
+    "./evidence/2025-11-14-batch-3/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_faces.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_coordination_indicators.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_operation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/whether_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/create_daniel_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/potentially_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_legal_proceedings.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/1.2. MAT4719 - Answering Affidavit.BACKUP.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/case_summary_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enable_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/RegimA SA \u00b7 Reports \u00b7 Total sales over time by store \u00b7 Shopify Plus.pdf",
+    "./jax-response/dan-response-materials/CRIMINAL_ENTERPRISE_EVIDENCE_STRUCTURE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/adding_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/bantjies_investment_payout_analysis.md",
+    "./docs/legal/annexures/JF12/criminal_matter_safety_guide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/core_criminal_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/help_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/07_legal_research/criminal_matter_safety_guide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_has.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_asset.md",
+    "./jax-response/evidence-attachments/dan-technical/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md",
+    "./backups/pre-consolidation/jax-dan-response/peters_discovery.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/for_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/delays_criminal_investigation.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/separate_criminal_liability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_july.md",
+    "./evidence/identity-documents/BANTJIES_ID_DOCUMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enables_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sales_reports.md",
+    "./docs/legal/annexures/JF08/evidence_package_20250523/RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./evidence/emails/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_incentive.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/discredit_daniel.md",
+    "./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/criminal-case-timeline-outline-sa.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_complaint.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/strength_after_validation.md",
+    "./UPDATED_DRAFTS/SARS_AUDIT_EMAIL_BANTJIES_INSTRUCTIONS_SMOKING_GUN.md",
+    "./ad-hypergraph-mapping/bantjies_hypergraph_analysis_report.json",
+    "./jax-response/evidence-attachments/dan-technical/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md",
+    "./evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf",
+    "./evidence/2025-11-14-batch/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/BANTJIES_DEBT_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_network.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/case_analysis_reports.md",
+    "./2DO/x/regima.com/dan@regima.com/AD NOTES - DANIEL JAMES FAUCITT.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/additional_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/personal_criminal_liability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_continuation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/summary_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/peter_fiduciary_breach_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/peter-faucitt-interdict/peter-faucitt-interdict-complete.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_using_templates.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_significance.md",
+    "./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-complete.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/draft_affidavit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/south_african_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_sends_complete.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/for_criminal_prosecution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/early_criminal_referral.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/only_peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/making_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/ongoing_criminal_activity.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md",
+    "./jax-response/evidence-attachments/dan-technical/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_sequence_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_criminal_cooperation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/reports_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_procedure.md",
+    "./2DO/x/elliottattorneys.co.za/keegan@elliottattorneys.co.za/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/affidavits/Mitigation_Strategies_Answering_Affidavit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_criminal_enterprise.md",
+    "./evidence/annexures/JF-WS1_DANIEL_WITNESS_STATEMENT_HAS_ANYTHING_CHANGED.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies_financial.md",
+    "./jax-response/evidence-attachments/JF-CHESNO4-insolvency-assessment-pre-daniel.md",
+    "./evidence/annexures/JF-PA3_PETER_WITHDRAWAL_EXAMPLE_3.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/against_peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_criminal_proceeds.md",
+    "./docs/legal/analysis/CIVIL_CRIMINAL_CASE_SPLIT.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/01_main_responding_affidavit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/establishing_knowledge.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/claimed_knowledge.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/harass_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_matter_response.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_role.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bizarre_claims_about.md",
+    "./jax-response/dan-response-materials/peters_causation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/under_criminal_finances.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250523/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/performance_after_may.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_value.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/about_rynette.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/continuing_criminal_enterprise.md",
+    "./ANNEXURES/JF02/RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_case_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_daniel_told.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_false_impartiality.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/eliminated_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_referral_the.md",
+    "./2DO/x/regima.zone/jax@regima.zone/meeeting confirmed 2 pm Friday, 26 September 2025 THE LEONARDO JACQUI & DANIEL F.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/create_peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation_would.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_timeline_summary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_elements_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/timeline_knowledge.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_18_acceptance_trusteeship_peter.md",
+    "./jax-dan-response/criminal-complaint/CRIMINAL_COMPLAINT_POPIA_Section_107_Peter_Faucitt.md",
+    "./jax-response/evidence-attachments/dan-technical/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md",
+    "./jax-dan-response/rule-42-rescission/FOUNDING_AFFIDAVIT_Daniel_Faucitt_Rule_42.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_vehicle.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/border_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/owes_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proves_peter.md",
+    "./evidence/annexures/JF-PA4_PETER_WITHDRAWAL_EXAMPLE_4.md",
+    "./jax-dan-response/medium_priority_responses/confirmatory_affidavits.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_bank_evidence.md",
+    "./jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/confirmed_knowledge.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_files_ex.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/appears_peter.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_james_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_penalty.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/lay_criminal_charges.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md",
+    "./legal_analysis_2025_11/court_documents/2025_08_19_-_Peter_Faucitt_Interdict.pdf",
+    "./UPDATED_DRAFTS/analysis-main/DANIEL_AUTONOMY_STRATEGY.md",
+    "./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/primary_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/generate_enhanced_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_debt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/deterrence_requires_criminal.md",
+    "./docs/reports/completion/DANIEL_TECHNICAL_PERSPECTIVE_IMPLEMENTATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/limited_criminal_authority.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_pattern_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_investigation_prevention.md",
+    "./UPDATED_DRAFTS/analysis-main/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/no_criminal_authority.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/custody_reports_complete.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/clear_criminal_motive.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/following_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_bank_interference.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy.md",
+    "./jax-dan-response/evidence-attachments/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_obstruction.md",
+    "./jax-dan-response/evidence-attachments/PETERS_CAUSATION_SECTION_DRAFT.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & 1 OTHER (CASE NR_ 2025-137857).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/rynette_about.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/needs_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_intent.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_criminal_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_interdict.md",
+    "./evidence/annexures/JF-CHESNO4_INSOLVENCY_ASSESSMENT_PRE_DANIEL.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rynette_farrar_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/RegimA SA \u00b7 Reports \u00b7 Total sales over time by store \u00b7 Shopify Plus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_happens_after.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/because_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/about_kayla.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_attorney_hawks.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_weapon.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/attorneys_had_murder.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/ICO_GDPR_criminal_prosecution_guide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_freezing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_christ.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_perez_repository.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enhanced_criminal_liability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_method.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_interlocking_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_offences.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/factors_supporting_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_case_all.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_template.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/demonstrates_criminal_planning.md",
+    "./UPDATED_DRAFTS/DANIE_BANTJIES_PERJURY_ANALYSIS_COMPREHENSIVE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_appropriation_attempts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/denying_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/accountant_danie_bantjies.md",
+    "./affidavit_work/analysis/PETERS_CLAIMS_VS_DOCUMENTED_EVIDENCE_COMPARATIVE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/premeditated_murder.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/were_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_reality.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/why_bantjies.md",
+    "./evidence/bantjies_investment_payout_forecast.txt",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_without_denial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/has_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/matters_critically.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/for_peter.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250523/RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/actual_signing_date.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/expert_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_masterstroke.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_matters.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_filed_secret.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/entity_criminal_conspiracy.md",
+    "./UPDATED_DRAFTS/DRAFT_EVALUATION_AGAINST_REPOSITORY_KNOWLEDGE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/initial_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/protect_daniel_faucitt.md",
+    "./evidence/shopify_reports/RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_case_timeline.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.eml",
+    "./evidence/annexures/JF-CHESNO3_POLICE_REPORTS_FRAUD_INVESTIGATION.md",
+    "./docs/legal/affidavits/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_survives.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_validation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_counsel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiduciary_relationship_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/criminal_matter_safety_guide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_criminal_network.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/verification_reports_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_peter_exploits.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_violations.md",
+    "./jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/additional_criminal_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/mr_daniel_jacobus_bantjes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_court_referral.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_operations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_victim.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/requires_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_sabotage_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/route_criminal_activity.md",
+    "./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_WITNESS_STATEMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/filing_issues_before.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_proceeds.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_applicable.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/additional_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/get_bantjies.md",
+    "./evidence/2025-11-14-batch-2/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf",
+    "./evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conduct.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-complete.md",
+    "./jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_verification_requirements.md",
+    "./jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/integration_reports.md",
+    "./2DO/x/regima.zone/jax@regima.zone/DAN REPORTS SENT FOR EXPENSES FRAMEWORK.pdf",
+    "./jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_trustee_appointment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_justice.md",
+    "./evidence/annexures/JF-PA2_PETER_WITHDRAWAL_EXAMPLE_2.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/generate_analysis_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_established.md",
+    "./evidence/2025-11-14-batch/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_liability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/stolen_funds.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/revised_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_start.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/uses_bantjies.md",
+    "./evidence/witness_statements/DANIEL_WITNESS_STATEMENT_JF5_SETTLEMENT_EXCHANGE.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & 1 OTHER (CASE NR_ 2025-137857).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_intent_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_instructions.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ DRAFT ANSWERING AFFIDAVIT.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_legal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_support.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knew_bantjies.md",
+    "./2DO/x/elliottattorneys.co.za/keegan@elliottattorneys.co.za/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025(1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/affidavits/Legal_Critique_Answering_Affidavit.md",
+    "./evidence/legal-analysis/DANIEL_EXPARTE_LEGAL_FRAMEWORK_ANALYSIS.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/first_respondent_peter.md",
+    "./jax-response/evidence-attachments/dan-technical/PETERS_CAUSATION_SECTION_DRAFT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_summary_reports.md",
+    "./docs/legal/annexures/JF08/evidence_package_20250523/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/technical_about.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/about_may.md",
+    "./ANNEXURES/JF12/criminal_matter_safety_guide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_criminal_acts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_perez.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/protect_criminal_justice.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supported_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_masterminds.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/when_bantjies.md",
+    "./jax-response/peter-interdict/peter-faucitt-interdict-complete.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_referral_protocols.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_pete.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_architecture.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/destroys_peter.md"
+  ],
+  "ad_res_j7_references": [
+    "See files related to: Daniel, reports, Bantjies, about, Kayla's, murder, (August, 2023), Peter, stealing, funds, after, murder,, including, R1.8M, Rezonance., Bantjies, acquires, knowledge, criminal, matters, before, signing, confirmatory, affidavit."
+  ],
+  "crime_category": "other",
+  "phase": "PHASE_004",
+  "event_subtype": "knowledge_acquisition_fraud_and_murder_disclosure",
+  "github_pages_reference": "https://cogpy.github.io/revstream1/applications.md#event_062",
+  "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+  "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+  "evidence_urls": [
+    "https://github.com/cogpy/ad-res-j7/blob/main/evidence/2025-11-14-batch/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/criminal_treaties.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/evidence/2025-11-14-batch-3/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/if_bantjies.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/the_complete_criminal.md"
+  ],
+  "github_pages_url": "https://cogpy.github.io/revstream1/events/EVENT_062.html",
+  "timeline_reference": "https://cogpy.github.io/revstream1/timeline.html#EVENT_062",
+  "related_application": "APPLICATION_1",
+  "application_url": "https://cogpy.github.io/revstream1/application-1.html",
+  "ad_res_j7_evidence": [
+    {
+      "source": "case_2025_137857/",
+      "description": "Case documentation and analysis",
+      "url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857"
+    },
+    {
+      "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "description": "Complete evidence catalog (2,866 files)",
+      "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
+    }
+  ],
+  "ad_res_j7_cross_references": [
+    "Evidence documented in ad-res-j7 repository",
+    "See ANNEXURES for event EVENT_062",
+    "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+  ],
+  "evidence_references": [
+    "case_2025_137857/02_evidence/",
+    "ANNEXURES/",
+    "docs/"
+  ]
+}
+```

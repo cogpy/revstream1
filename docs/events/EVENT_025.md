@@ -1,285 +1,331 @@
-# R5.4M Stock Adjustment Processed Without Investigation
+---
+layout: default
+title: R5.4M Stock Adjustment Processed Without Investigation
+---
+# R5.4M Stock Adjustment Processed Without Investigation (EVENT_025)
 
-**Event ID:** `EVENT_025`
 **Date:** 2025-03-15
 
-- **Category:** accounting_fraud
-- **Event Type:** fraudulent_accounting_entry
-- **Perpetrators:** 
-  - PERSON_002
-  - PERSON_007
-- **Victims:** 
-  - ORG_004
-  - TRUST_001
-- **Entities Involved:** 
-  - ORG_004
-- **Description:** R5.4M written off as simple 'stock adjustment' without investigation, supporting documentation, or proper authorization. Bantjies as accountant should have investigated 46% loss but did not, demonstrating complicity.
-- **Financial Impact:** R5,400,000
-- **Legal Significance:** accounting_fraud_breach_of_professional_duty
-- **Evidence:** 
-  - general_ledger_entries
-  - lack_of_investigation_documentation
-- **Pattern:** foundation_phase
-- **Timeline Phase:** PHASE_001
-- **Crime Type:** Fraudulent trust establishment, fiduciary duty violations
-- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
-- **Related Applications:** 
-  - APPLICATION_1
-- **Evidence Files:** 
-  - ./UPDATED_DRAFTS/analysis-main/entities/against_danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/if_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_documents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/behavioral_properties.md
-  - ./evidence/identity-documents/BANTJIES_ID_DOCUMENT.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/africa_should_have.md
-  - ./UPDATED_DRAFTS/analysis-main/database_improvements_simple.sql
-  - ./UPDATED_DRAFTS/analysis-main/entities/owned_property.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/semantic_properties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_rights.md
-  - ./evidence/bantjies_investment_payout_forecast.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_group.md
-  - ./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_without_payment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_revenue.md
-  - ./jax-response/dan-response-materials/accountant_concerns.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/02_supporting_affidavit_shopify_rynette.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination.md
-  - ./UPDATED_DRAFTS/DRAFT_EVALUATION_WITH_DANIE_BANTJIES_PERJURY.md
-  - ./jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/needed_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/admissions_without_recordings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/made_simple.md
-  - ./tests/simple-workflow-test.js
-  - ./UPDATED_DRAFTS/analysis-main/entities/hypergraph_properties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_agent_properties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/written_complaint.md
-  - ./ad-hypergraph-mapping/BANTJIES_COMPLETE_HYPERGRAPH_VISUALIZATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/custom_properties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies_financial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_investment_payout.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/handwritten_note.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proper_purpose_requirement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_counterclaims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_property_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_circumstantial_evidence.md
-  - ./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sue_bantjies.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_role.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_accountant_was.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_investment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pay_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_supporting_respondents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_property_assets.md
-  - ./jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/written_confirmation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proper_jurisdiction_would.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/simple_express.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/based_properties.md
-  - ./UPDATED_DRAFTS/JUNE_6_10_EMAILS_DANIE_BANTJIES.txt
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_supporting_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_false_impartiality.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/improper_purpose_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/intellectual_property_destruction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_properties.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Analysis_-_Part_2_Strong_Supporting_Evidence.docx
-  - ./FINAL_AFFIDAVIT_PACKAGE/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/showing_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/03_supporting_affidavit_bantjies_medical.md
-  - ./2DO/x/regima.com/dan@regima.com/Mr.Bantjies Forgot to Include in His Affidavit.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/improper_expense_allocation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_portfolio.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_provisions_supporting.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/about_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/without_recordings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_problem_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/concealing_criminal_property.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_management.md
-  - ./jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_operations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_marketing_investment.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/threat_weaponization_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/improper_purpose.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proper_withdrawal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_counsel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/against_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_structure_should.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_hub.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/framing_persistence_bantjies.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_debt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/should_apply.md
-  - ./UPDATED_DRAFTS/analysis-main/BANTJIES_DEBT_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proper_corporate_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/forensic_accountant.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/improper_deduction_potential.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/forensic_accountants.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/top_level_properties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/via_bantjies.md
-  - ./UPDATED_DRAFTS/BANTJIES_ULTIMATE_CONTROL_POWER_STRUCTURE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies_coordination.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/who_should_have.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proves_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/did_bantjies.md
-  - ./todo/simple-workflow-test.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_services.md
-  - ./ANNEXURES/SF1_Bantjies_Debt_Documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/agent_properties.md
-  - ./backups/pre-consolidation/jax-dan-response/accountant_concerns.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.jpg
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_simple_truth.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/custom_property.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/heading_properties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/online_simple_start.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/forensic_investigation_authorization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/additional_treatment_authorization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/receives_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proper_court_authority.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_expenses_should_be.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/spec_compliance_property.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/accountant_bantjes.md
-  - ./2DO/x/regima.com/dan@regima.com/RegimA Dr H - Commercial Property Payment Schedule(1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/factors_supporting_criminal.md
-  - ./UPDATED_DRAFTS/BANTJIES_DEBTOR_MOTIVE_CRIMINAL_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_controls.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/simple_react.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_evidence_matrix.md
-  - ./UPDATED_DRAFTS/DANIE_BANTJIES_PERJURY_ANALYSIS_COMPREHENSIVE.md
-  - ./jax-dan-response/criminal-complaint/SUPPORTING_AFFIDAVIT_Jacqueline_Faucitt_POPIA_Obstruction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/has_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/subpoena_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/accountant_danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge_level.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/time_format_written.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/error_properties.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-06_DAN_TO_BANTJIES_FRAUD_REPORTS.eml
-  - ./jax-dan-response/accountant_concerns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_card_authorization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_evidence_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_improvements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/therefore_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/why_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/informs_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_without_denial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/expense_authorization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_simple_version.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md
-  - ./evidence/bantjies_investment_payout_forecast.txt
-  - ./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/all_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/possibly_danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_requests_computer.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/potentially_danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_services_authorization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_compliance_directive_has_been_properly_anal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/remove_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_leads.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/system_dynamics_properties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/relevant_sections_supporting.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/use_bantjies.md
-  - ./evidence/bantjies_debt/BantjiesInvestmentPayoutDates2026-05.jpg
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf
-  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.eml
-  - ./UPDATED_DRAFTS/analysis-main/entities/demonstrating_motive.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/improper_deductions.md
-  - ./docs/legal/affidavits/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_now_faces.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/intellectual_property_commission.md
-  - ./jax-response/AD/dan-perspective/2-High-Priority/PARA_7_12-7_13_DAN_ACCOUNTANT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/obtain_supporting_documentation.md
-  - ./jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_value_creation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shows_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_code.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/behavioral_properties_each.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/africa_should.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_communications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/forced_testing_without.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_treatment_authorization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/that_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_recoverable.md
-  - ./affidavit_work/analysis/Affidavit_Analysis_-_Part_2_Strong_Supporting_Evidence.docx
-  - ./jax-dan-response/AD/2-High-Priority/PARA_7_12-7_13_DAN_ACCOUNTANT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/get_bantjies.md
-  - ./jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_faces.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/improper_purpose_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_models.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_now.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_financial_hub.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/potentially_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/quickbooks_online_simple_start_regima_europe_ltd.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/should_then.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_trustee_appointment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_rental.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_properties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/option_properties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/party_authorization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/adding_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/bantjies_investment_payout_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/last_proper_processing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/uses_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_expansion.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/2-High-Priority/PARA_7_12-7_13_DAN_ACCOUNTANT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/simple_usage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/court_authorization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/ensure_proper_handling.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/million_bantjies_debt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/simple_koa.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_charges.md
-  - ./ad-hypergraph-mapping/bantjies_agent_mapper.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/help_style_properties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/vva_supporting_group.md
-  - ./evidence/identity-documents/BANTJIES_ID_DOCUMENT.md
-  - ./tests/SIMPLE_WORKFLOW_TEST_RESULTS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knew_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_accountant.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proper_withdrawal_process.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/when_bantjies.md
-  - ./2DO/x/regima.com/dan@regima.com/RegimA Dr H - Commercial Property Payment Schedule.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/court_should_impose.md
-  - ./UPDATED_DRAFTS/SARS_AUDIT_EMAIL_BANTJIES_INSTRUCTIONS_SMOKING_GUN.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_scripts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_witnesses.md
-  - ./ad-hypergraph-mapping/bantjies_hypergraph_analysis_report.json
-  - ./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.png
-  - ./UPDATED_DRAFTS/analysis-main/entities/without_session_management.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/you_should.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_portfolio_expansion.md
-- **Ad Res J7 References:** 
-  - See files related to: R5.4M, written, simple, 'stock, adjustment', without, investigation,, supporting, documentation,, proper, authorization., Bantjies, accountant, should, investigated, demonstrating, complicity.
-- **Crime Category:** financial_manipulation
-- **Phase:** PHASE_001
-- **Event Subtype:** accounting_fraud_fraudulent_accounting_entry
-- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_025
-- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
-- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
-- **Evidence Urls:** 
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/against_danie_bantjies.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/if_bantjies.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/supporting_documents.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/behavioral_properties.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/evidence/identity-documents/BANTJIES_ID_DOCUMENT.pdf
-- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_025.html
-- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_025
-- **Related Application:** APPLICATION_1
-- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
-- **Ad Res J7 Evidence:** 
-  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
-  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}
+**Description:**
+R5.4M written off as simple 'stock adjustment' without investigation, supporting documentation, or proper authorization. Bantjies as accountant should have investigated 46% loss but did not, demonstrating complicity.
+
+## Evidence References
+
+No specific evidence linked.
+
+## Raw Data
+
+```json
+{
+  "event_id": "EVENT_025",
+  "date": "2025-03-15",
+  "title": "R5.4M Stock Adjustment Processed Without Investigation",
+  "category": "accounting_fraud",
+  "event_type": "fraudulent_accounting_entry",
+  "perpetrators": [
+    "PERSON_002",
+    "PERSON_007"
+  ],
+  "victims": [
+    "ORG_004",
+    "TRUST_001"
+  ],
+  "entities_involved": [
+    "ORG_004"
+  ],
+  "description": "R5.4M written off as simple 'stock adjustment' without investigation, supporting documentation, or proper authorization. Bantjies as accountant should have investigated 46% loss but did not, demonstrating complicity.",
+  "financial_impact": "R5,400,000",
+  "legal_significance": "accounting_fraud_breach_of_professional_duty",
+  "evidence": [
+    "general_ledger_entries",
+    "lack_of_investigation_documentation"
+  ],
+  "pattern": "foundation_phase",
+  "timeline_phase": "PHASE_001",
+  "crime_type": "Fraudulent trust establishment, fiduciary duty violations",
+  "extended_evidence_note": "See ad-res-j7 repository for detailed supporting documentation",
+  "related_applications": [
+    "APPLICATION_1"
+  ],
+  "evidence_files": [
+    "./UPDATED_DRAFTS/analysis-main/entities/against_danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/if_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_documents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/behavioral_properties.md",
+    "./evidence/identity-documents/BANTJIES_ID_DOCUMENT.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/africa_should_have.md",
+    "./UPDATED_DRAFTS/analysis-main/database_improvements_simple.sql",
+    "./UPDATED_DRAFTS/analysis-main/entities/owned_property.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/semantic_properties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_rights.md",
+    "./evidence/bantjies_investment_payout_forecast.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_group.md",
+    "./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/revenue_without_payment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_revenue.md",
+    "./jax-response/dan-response-materials/accountant_concerns.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/02_supporting_affidavit_shopify_rynette.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination.md",
+    "./UPDATED_DRAFTS/DRAFT_EVALUATION_WITH_DANIE_BANTJIES_PERJURY.md",
+    "./jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/needed_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/admissions_without_recordings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/made_simple.md",
+    "./tests/simple-workflow-test.js",
+    "./UPDATED_DRAFTS/analysis-main/entities/hypergraph_properties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_agent_properties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/written_complaint.md",
+    "./ad-hypergraph-mapping/BANTJIES_COMPLETE_HYPERGRAPH_VISUALIZATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/custom_properties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies_financial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_investment_payout.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/handwritten_note.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proper_purpose_requirement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_counterclaims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_property_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_circumstantial_evidence.md",
+    "./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sue_bantjies.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_role.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_accountant_was.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_investment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pay_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_supporting_respondents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_property_assets.md",
+    "./jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/written_confirmation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proper_jurisdiction_would.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/simple_express.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/based_properties.md",
+    "./UPDATED_DRAFTS/JUNE_6_10_EMAILS_DANIE_BANTJIES.txt",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_supporting_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_false_impartiality.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/improper_purpose_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/intellectual_property_destruction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_properties.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Analysis_-_Part_2_Strong_Supporting_Evidence.docx",
+    "./FINAL_AFFIDAVIT_PACKAGE/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/showing_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/03_supporting_affidavit_bantjies_medical.md",
+    "./2DO/x/regima.com/dan@regima.com/Mr.Bantjies Forgot to Include in His Affidavit.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/improper_expense_allocation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_portfolio.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_provisions_supporting.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/about_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/without_recordings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_problem_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/concealing_criminal_property.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_management.md",
+    "./jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_operations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_marketing_investment.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/threat_weaponization_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/improper_purpose.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proper_withdrawal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_counsel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/against_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_structure_should.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_hub.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/framing_persistence_bantjies.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_debt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/should_apply.md",
+    "./UPDATED_DRAFTS/analysis-main/BANTJIES_DEBT_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proper_corporate_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/forensic_accountant.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/improper_deduction_potential.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/forensic_accountants.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/top_level_properties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/via_bantjies.md",
+    "./UPDATED_DRAFTS/BANTJIES_ULTIMATE_CONTROL_POWER_STRUCTURE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies_coordination.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/who_should_have.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proves_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/did_bantjies.md",
+    "./todo/simple-workflow-test.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_services.md",
+    "./ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/agent_properties.md",
+    "./backups/pre-consolidation/jax-dan-response/accountant_concerns.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.jpg",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_simple_truth.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/custom_property.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/heading_properties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/online_simple_start.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/forensic_investigation_authorization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/additional_treatment_authorization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/receives_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proper_court_authority.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_expenses_should_be.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/spec_compliance_property.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/accountant_bantjes.md",
+    "./2DO/x/regima.com/dan@regima.com/RegimA Dr H - Commercial Property Payment Schedule(1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/factors_supporting_criminal.md",
+    "./UPDATED_DRAFTS/BANTJIES_DEBTOR_MOTIVE_CRIMINAL_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_controls.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/simple_react.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_evidence_matrix.md",
+    "./UPDATED_DRAFTS/DANIE_BANTJIES_PERJURY_ANALYSIS_COMPREHENSIVE.md",
+    "./jax-dan-response/criminal-complaint/SUPPORTING_AFFIDAVIT_Jacqueline_Faucitt_POPIA_Obstruction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/has_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/subpoena_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/accountant_danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge_level.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/time_format_written.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/error_properties.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/2025-06-06_DAN_TO_BANTJIES_FRAUD_REPORTS.eml",
+    "./jax-dan-response/accountant_concerns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_card_authorization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_evidence_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_improvements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/therefore_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/why_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/informs_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_without_denial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/expense_authorization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_simple_version.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md",
+    "./evidence/bantjies_investment_payout_forecast.txt",
+    "./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/all_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/possibly_danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_requests_computer.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/potentially_danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_services_authorization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_compliance_directive_has_been_properly_anal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/remove_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_leads.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/system_dynamics_properties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/relevant_sections_supporting.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/use_bantjies.md",
+    "./evidence/bantjies_debt/BantjiesInvestmentPayoutDates2026-05.jpg",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf",
+    "./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.eml",
+    "./UPDATED_DRAFTS/analysis-main/entities/demonstrating_motive.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/improper_deductions.md",
+    "./docs/legal/affidavits/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_now_faces.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/intellectual_property_commission.md",
+    "./jax-response/AD/dan-perspective/2-High-Priority/PARA_7_12-7_13_DAN_ACCOUNTANT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/obtain_supporting_documentation.md",
+    "./jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_value_creation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shows_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_code.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/behavioral_properties_each.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/africa_should.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_communications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/forced_testing_without.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/ongoing_treatment_authorization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/that_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_recoverable.md",
+    "./affidavit_work/analysis/Affidavit_Analysis_-_Part_2_Strong_Supporting_Evidence.docx",
+    "./jax-dan-response/AD/2-High-Priority/PARA_7_12-7_13_DAN_ACCOUNTANT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/get_bantjies.md",
+    "./jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_faces.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/improper_purpose_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_models.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_now.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_financial_hub.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/potentially_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/quickbooks_online_simple_start_regima_europe_ltd.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/should_then.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_trustee_appointment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_rental.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_properties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/option_properties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/party_authorization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/adding_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/bantjies_investment_payout_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/last_proper_processing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/uses_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_expansion.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/2-High-Priority/PARA_7_12-7_13_DAN_ACCOUNTANT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/simple_usage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/court_authorization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/ensure_proper_handling.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/million_bantjies_debt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/simple_koa.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_charges.md",
+    "./ad-hypergraph-mapping/bantjies_agent_mapper.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/help_style_properties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/vva_supporting_group.md",
+    "./evidence/identity-documents/BANTJIES_ID_DOCUMENT.md",
+    "./tests/SIMPLE_WORKFLOW_TEST_RESULTS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knew_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_accountant.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proper_withdrawal_process.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/when_bantjies.md",
+    "./2DO/x/regima.com/dan@regima.com/RegimA Dr H - Commercial Property Payment Schedule.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/court_should_impose.md",
+    "./UPDATED_DRAFTS/SARS_AUDIT_EMAIL_BANTJIES_INSTRUCTIONS_SMOKING_GUN.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_scripts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_witnesses.md",
+    "./ad-hypergraph-mapping/bantjies_hypergraph_analysis_report.json",
+    "./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.png",
+    "./UPDATED_DRAFTS/analysis-main/entities/without_session_management.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/you_should.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_portfolio_expansion.md"
+  ],
+  "ad_res_j7_references": [
+    "See files related to: R5.4M, written, simple, 'stock, adjustment', without, investigation,, supporting, documentation,, proper, authorization., Bantjies, accountant, should, investigated, demonstrating, complicity."
+  ],
+  "crime_category": "financial_manipulation",
+  "phase": "PHASE_001",
+  "event_subtype": "accounting_fraud_fraudulent_accounting_entry",
+  "github_pages_reference": "https://cogpy.github.io/revstream1/applications.md#event_025",
+  "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+  "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+  "evidence_urls": [
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/against_danie_bantjies.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/if_bantjies.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/supporting_documents.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/behavioral_properties.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/evidence/identity-documents/BANTJIES_ID_DOCUMENT.pdf"
+  ],
+  "github_pages_url": "https://cogpy.github.io/revstream1/events/EVENT_025.html",
+  "timeline_reference": "https://cogpy.github.io/revstream1/timeline.html#EVENT_025",
+  "related_application": "APPLICATION_1",
+  "application_url": "https://cogpy.github.io/revstream1/application-1.html",
+  "ad_res_j7_evidence": [
+    {
+      "source": "case_2025_137857/",
+      "description": "Case documentation and analysis",
+      "url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857"
+    },
+    {
+      "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "description": "Complete evidence catalog (2,866 files)",
+      "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
+    }
+  ],
+  "ad_res_j7_cross_references": [
+    "Evidence documented in ad-res-j7 repository",
+    "See ANNEXURES for event EVENT_025",
+    "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+  ],
+  "evidence_references": [
+    "case_2025_137857/02_evidence/",
+    "ANNEXURES/",
+    "docs/"
+  ]
+}
+```

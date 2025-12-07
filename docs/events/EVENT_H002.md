@@ -1,599 +1,643 @@
-# ReZonance Service Expansion
+---
+layout: default
+title: ReZonance Service Expansion
+---
+# ReZonance Service Expansion (EVENT_H002)
 
-**Event ID:** `EVENT_H002`
 **Date:** 2017-09-30
 
-- **Category:** business_relationship
-- **Event Type:** service_expansion
-- **Perpetrators:** 
-  - ORG_008
-- **Victims:** 
-  - 
-- **Entities Involved:** 
-  - ORG_008
-  - regima_group
-- **Description:** Major service expansion with multiple enterprise services (R100,000+), substantial increase in service provision and financial exposure
-- **Financial Impact:** R100,000+
-- **Legal Significance:** establishment_of_operational_dependency
-- **Evidence:** 
-  - invoices_2017_09_30
-  - service_expansion_documentation
-- **Pattern:** historical_foundation
-- **Timeline Phase:** PHASE_000
-- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
-- **Related Applications:** 
-  - APPLICATION_1
-  - APPLICATION_2
-- **Evidence Files:** 
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_relationships.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_flow_agents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_independent_verification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_crimes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_risks_beyond.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/major_enhancements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_complexity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/services_covered.md
-  - ./docs/legal/STAFF_EXPLOITATION_PROVISIONS.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_financial_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_expansion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_providers.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_with_multiple_development_environments.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/rst_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_analysis_summary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_financial_decision.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/target_expansion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/domain_expansion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/increased_dependency.md
-  - ./UPDATED_DRAFTS/analysis-main/UNIFIED_FINANCIAL_INTERESTS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/cost_increase.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/severability_provisions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_unauthorized_financial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sales_rep_services.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_financial_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_categories.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/major_addition.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_impact_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_platform_hijacking.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/rst_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_path.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_clauses.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_impact_calculation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_data_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_regions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/forex_exposure.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/major_changes.md
-  - ./evidence/annexures/JF-ITS1_IT_SERVICE_INVOICES_AND_CONTRACTS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_harm_calculation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_a_substantial.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/group_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_continuity_manipulation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/services_provided.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/financial_flow_network.png
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_legal_positions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_obfuscation_techniques.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/testing_expansion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_provisions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_business_cards.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_evidence_integration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_coercion.md
-  - ./todo/JAX_DAN_RESPONSE_EXPANSION_PLAN.md
-  - ./docs/legal/analysis/criminal-enterprise-evidence-structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_expansion_strategy.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enterprise_level.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_counts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_continuity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/operations_are_financially.md
-  - ./evidence/fake_accounts/RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_financial_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/microservices_architecture_migration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/police_service.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_and_banking_services.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/create_multiple_copies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_institutions_notification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_misallocation_crisis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_provider_documentation.md
-  - ./docs/legal/LOCKDOWN_EXPLOITATION_PROVISIONS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/brace_expansion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/courier_services.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_incentives.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_disruption.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_intelligence_centre.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_harm_enhanced.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_risks.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/impersonation_infrastructure_expansion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/why_multiple_systems.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/documented_financial_events.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/services_debt_dispute.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/slg_financial_analysis.md
-  - ./docs/legal/CHARITY_FRAUD_PROVISIONS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_instruments.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_evidence_links.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_institution_notification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/market_expansion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_transfer.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_victims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_evidence_has_revealed_a_com.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_institution_agents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_opportunity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_hub.md
-  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_calculations.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/INV14491(791)(De Novo Business Services (Pty) Ltd)(2025-07-28).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_period.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_community.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ New Pty Company (New Name) and Share Certificates Combo (Service-1743068).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/combined_service_income.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/year_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_analysis_completion.md
-  - ./evidence/witness-statements/templates/TEMPLATE_JACQUELINE_FINANCIAL_OVERSIGHT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_crimes_through.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/phase_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/slg_financial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fbi_financial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/joint_financial_interest.md
-  - ./jax-response/dan-response-materials/financial_allegations_rebuttal_matrix.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/group_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_professional_services.md
-  - ./backups/pre-consolidation/jax-response/AD/1-Critical/FINANCIAL_HYPERGRAPH_TIMELINE_LINKS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_mechanisms.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/void_provision_declaration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complexity_increase.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_systems.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/major_transfers.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/system_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/rezonance/financial_reports/financial_analysis_summary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_facts_summary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_impact.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_misconduct_claims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure_destruction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_flexibility.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/connected_financial.md
-  - ./jax-response/evidence-attachments/dan-technical/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_act.md
-  - ./jax-dan-response/financial_allegations_rebuttal_matrix.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_manipulation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_shopify.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_financial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_financial_impact.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_level.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/entity_financial_forensics.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_financial_infrastructure.md
-  - ./docs/legal/affidavits/jax-affidavit-financial-hemorrhage.md
-  - ./tests/verify-multiple-labels-issue-creation.test.js
-  - ./docs/legal/CORRECTED_FRAUD_PROVISIONS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_critical_financial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_analysis_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/increases_total_harm.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_financial_misallocation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/market_expansion_planning.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/combined_financial_harm.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_recovery_planning.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_obligation_language.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_through.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_card_provision.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_engine.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/level_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/border_financial_crime.md
-  - ./jax-dan-response/AD/1-Critical/PARA_10_5-10_10_23_DAN_FINANCIAL.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_dependency.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/unrestricted_professional_service.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/COMPREHENSIVE_FINANCIAL_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_burden_shifting.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_unavailable.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_loop.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_red_flags.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/identity_protection_services.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_instrument.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/services_lost.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/major_cities.md
-  - ./docs/legal/criminal-enterprise-evidence-structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_requirements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_advisors.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_income_performance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_financial_context.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_documents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_misconduct.md
-  - ./jax-response/evidence-attachments/dan-technical/COMPREHENSIVE_FINANCIAL_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_regarding_financial_analysis_of_regima_group.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/activity_financial_periods.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_integration.md
-  - ./2DO/x/regima.com/dan@regima.com/Partial Contributions to Timeline_ RegimA _Group_ Financial Fraud (2017-2025).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_services_surge.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/debt_increase.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_for_google_gsuite_services.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_service_provider.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_corruption.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_financial_management.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_year_start.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_harm_summary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/global_expansion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_institution.md
-  - ./jax-dan-response/annexures/DAN-IT/DAN-IT-002_RegimA_Financial_Records_IT_Spend_2024.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/INV14491(791)(De Novo Business Services (Pty) Ltd)(2025-07-28).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_type.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_costs_lost.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_operating_as_a_substantial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_reporting.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_leverage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/integrated_financial_management.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_discrepancy_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enterprises_operate.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/microservices_migration.md
-  - ./backups/pre-consolidation/jax-dan-response/medium_priority_responses/additional_financial_claims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_structure_exploitation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_performance_metrics.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_financial_metrics.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/major_performance_change.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_strain_period.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_services_authorization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_burden.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_quantification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_anomalies_detected.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/banking_services_for_regima_group.md
-  - ./jax-dan-response/medium_priority_responses/additional_financial_claims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_reinforcing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_crisis_escalation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regulatory_exposure.md
-  - ./docs/legal/FINAL_CORRECTED_PROVISIONS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/entity_financial_tracking.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_provisions_identified.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_states.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_dispensation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_assertion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/integration_test_expansion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/entity_financial_crime.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_flow_visualization.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/CRIMINAL_ENTERPRISE_ANNEXURE_STRUCTURE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_schemes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_irregularity_discovery.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/postal_services_act.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_forensics_opportunities.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_financial_and_operational_records.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_burden_increase.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_provision.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/monitoring_services.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/testing_infrastructure_expansion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_financial_access.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/documentation_expansion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_portfolio_expansion.md
-  - ./docs/legal/evidence/FINANCIAL_LOSS_EVIDENCE_MATRIX.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_independence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_hub_role.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_flow_analysis.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Draft financial.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_transactions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_elements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_reality_documented.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_supervision.md
-  - ./jax-response/AD/dan-perspective/1-Critical/PARA_10_5-10_10_23_DAN_FINANCIAL.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_intelligence_units.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_instability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shared_financial_future.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_activity_peak.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_mechanisms.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/statutory_provisions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_terminations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_institutions_alert.md
-  - ./backups/pre-consolidation/jax-dan-response/financial_allegations_rebuttal_matrix.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_recovery.md
-  - ./reports/financial-evidence-verification-report.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/increase_factor.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_crisis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_facilitation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_financial_exploitation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/support_services.md
-  - ./jax-dan-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_communications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/victim_services.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/specific_professional_service.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_financial_crime.md
-  - ./docs/strategic/fraud-analysis/FINANCIAL_EXTRACTION_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_customer_portals.md
-  - ./backups/pre-consolidation/jax-dan-response/CRIMINAL_ENTERPRISE_EVIDENCE_STRUCTURE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_misallocation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_information.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sized_donut_multiples.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/increase_test_coverage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_service_continuation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_provisions_supporting.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/relationship_implications_the_financial_relationsh.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_financial_audit.md
-  - ./jax-response/evidence-attachments/dan-technical/CRIMINAL_ENTERPRISE_ANNEXURE_STRUCTURE.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/vva_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_update.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/expansion_period.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_extraction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_financial_information.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corrected_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_real_financial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal_acts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_strangulation_escalation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_manipulation_blueprint.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/increase_pressure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/test_coverage_expansion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/microservices_considerations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_fees.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_cancellations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/transfer_pricing_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_disruption_costs.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/gaslighting_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_provision_account.md
-  - ./jax-response/AD/1-Critical/FINANCIAL_HYPERGRAPH_TIMELINE_LINKS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_provider_obligations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_hub_evolution.md
-  - ./Revenue_Stream_Hijacking_by_Rynette/01_POPIA_Compliant_System/Financial_Accounting/Financial_Transparency_System.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_dependency_inversion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_services.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_financial_logic.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/year_enterprise_value.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_mismanagement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/entity_financial_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation.md
-  - ./evidence/financial-analysis/group_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_statements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/major_credit_categories.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_amounts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_sabotage.md
-  - ./evidence/invoices/INV14491(791)(DeNovoBusinessServices(Pty)Ltd)(2025-07-28).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_takeover.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_provider_contacts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_impact_assessment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_pattern_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/how_criminal_enterprises.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/slg_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_made_substantial_payments_t.md
-  - ./lex/DAN_COMPLETE_FINANCIAL_PICTURE_JUNE_OCT_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_patterns_detected.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_vulnerability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/court_order_provision.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/added_services.md
-  - ./jax-dan-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_seizure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_subscription_impact.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/connected_financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enterprise_impact.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_financial_drain.md
-  - ./jax-dan-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.json
-  - ./evidence/correspondence/dan-bantjies-jun2025/rwd_financial_analysis-v2.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_base_expansion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_data.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_transaction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_shopify_stores.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_establishment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/unified_financial_interests.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_mismanagement_setup.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/medical_testing_provisions.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_resources.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_extraction_mechanism.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_services.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_summary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/missing_financial_records.md
-  - ./UPDATED_DRAFTS/analysis-main/analysis-frontend/src/services/apiService.js
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_status.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_revenue_performance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_risk.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/primary_financial_periods.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_misallocation_discovery.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_enforcement_venues.md
-  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_protection_measures.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_risk_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_financial_hub.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_assets.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/check_service_requirements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/merchant_services.md
-  - ./jax-response/dan-response-materials/CRIMINAL_ENTERPRISE_EVIDENCE_STRUCTURE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_services.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_association.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/major_debit_categories.md
-  - ./docs/legal/ULTIMATE_FRAUD_PROVISIONS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/increase_overall_test.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_investigation_targets.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_account_takeover.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sophisticated_financial_crimes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/unauthorized_financial_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_crime_quantification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_this.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/quantify_service_impact.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_structure_establishment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_billing_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_evidence_verification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proves_financial_motive.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_manipulation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_continuation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enterprise_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_flow_reconstruction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_enhancement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_destruction_network.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_claiming_opportunities.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure.md
-  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/create_multiple.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_misappropriation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_analyst.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_revenue.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_expenses.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_provider.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_interest.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_system.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_development_stores.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_controls.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_cycle.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies_financial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_hub_sustainability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_institution_serving_regima_group.md
-  - ./scripts/verify-financial-evidence.js
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_loop.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/report_size_increase.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_financial_actors.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_reporting_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/constitutional_provisions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_targeting_phase.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/combined_financial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_financial_review.md
-  - ./reports/FINANCIAL_LOSS_EVIDENCE_VERIFICATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/staggered_financial_year.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_value.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/data_synchronization_service.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/continuing_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_case.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_crimes_unit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_choices.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_consolidation.md
-  - ./jax-response/evidence-attachments/dan-technical/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/individual_financial_liability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_evidence_analysis_report.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_weapon.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_exploitation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_vehicle.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/border_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/substantial_cash_flow.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_flow_indicators.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_motivations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_access.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_operations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/vague_professional_service.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/victim_protection_services.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_financial_harm.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_verified.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/increased_persistence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shadow_director_provisions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_financial_exploitation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_intelligence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_provider_cancellation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_timeline.md
-  - ./jax-dan-response/evidence-attachments/COMPREHENSIVE_FINANCIAL_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_financial_management.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/invert_financial_reality.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/section_financial_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_forensics.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_isolation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_criminal_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_motivation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/create_financial_chaos.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/different_financial_year.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/federal_racketeering_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_system_protections.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_strain_management.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_financial_risks.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_pressure.md
-  - ./tests/MULTIPLE_LABELS_VERIFICATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_platform.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_financial_observations.md
-  - ./jax-dan-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/major_south_african.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/business_multiple.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_disruption_impact.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/major_recovery_year.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_documents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_income.md
-  - ./docs/legal/AFFIDAVIT_SHOPIFY_REVENUE_PROVISIONS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_financial_manipulation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/maximum_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_applications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_jurisdictions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_planning.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_reality.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_subscription_cancellation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_aspects.md
-  - ./UPDATED_DRAFTS/REVENUE_STREAM_HIJACKING_FINANCIAL_STRANGULATION_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enterprise_elements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_control_centers.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/personal_financial_harm.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_flow_direction.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/rwd_financial_analysis-v2.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_rationality.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_failures.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_motive_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_strangulation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sales_representative_services.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_records.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_harm.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/immediate_financial_protection.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_insights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_financial_losses.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/vva_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_strain.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_institutions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_expansion.md
-  - ./UPDATED_DRAFTS/analysis-main/financial_flow_network.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_financial_harm.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/customer_service.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/major_cost_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/major_breakthrough_year.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_weaponization_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_financial_strangulation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_metrics.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_year_complexity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_system_targeting.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_statements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_support.md
-  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.json
-  - ./backups/pre-consolidation/jax-dan-response/AD/1-Critical/PARA_10_5-10_10_23_DAN_FINANCIAL.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enterprise_structure.md
-- **Ad Res J7 References:** 
-  - See files related to: Major, service, expansion, multiple, enterprise, services, (R100,000+),, substantial, increase, service, provision, financial, exposure
-- **Crime Category:** other
-- **Phase:** PHASE_000
-- **Event Subtype:** business_relationship_service_expansion
-- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_h002
-- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
-- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
-- **Evidence Urls:** 
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/financial_relationships.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/financial_flow_agents.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/multiple_independent_verification.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/financial_crimes.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/financial_risks_beyond.md
-- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_H002.html
-- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_H002
-- **Related Application:** APPLICATION_1
-- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
-- **Ad Res J7 Evidence:** 
-  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
-  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}
+**Description:**
+Major service expansion with multiple enterprise services (R100,000+), substantial increase in service provision and financial exposure
+
+## Evidence References
+
+No specific evidence linked.
+
+## Raw Data
+
+```json
+{
+  "event_id": "EVENT_H002",
+  "date": "2017-09-30",
+  "title": "ReZonance Service Expansion",
+  "category": "business_relationship",
+  "event_type": "service_expansion",
+  "perpetrators": [
+    "ORG_008"
+  ],
+  "victims": [],
+  "entities_involved": [
+    "ORG_008",
+    "regima_group"
+  ],
+  "description": "Major service expansion with multiple enterprise services (R100,000+), substantial increase in service provision and financial exposure",
+  "financial_impact": "R100,000+",
+  "legal_significance": "establishment_of_operational_dependency",
+  "evidence": [
+    "invoices_2017_09_30",
+    "service_expansion_documentation"
+  ],
+  "pattern": "historical_foundation",
+  "timeline_phase": "PHASE_000",
+  "extended_evidence_note": "See ad-res-j7 repository for detailed supporting documentation",
+  "related_applications": [
+    "APPLICATION_1",
+    "APPLICATION_2"
+  ],
+  "evidence_files": [
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_relationships.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_flow_agents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_independent_verification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_crimes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_risks_beyond.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/major_enhancements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_complexity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/services_covered.md",
+    "./docs/legal/STAFF_EXPLOITATION_PROVISIONS.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_financial_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/strategic_expansion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_providers.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_with_multiple_development_environments.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/rst_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_analysis_summary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_financial_decision.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/target_expansion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/domain_expansion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/increased_dependency.md",
+    "./UPDATED_DRAFTS/analysis-main/UNIFIED_FINANCIAL_INTERESTS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/cost_increase.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/severability_provisions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_unauthorized_financial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sales_rep_services.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/coordinated_financial_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_categories.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/major_addition.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_impact_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_platform_hijacking.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/rst_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_path.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_clauses.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_impact_calculation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_data_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_regions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/forex_exposure.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/major_changes.md",
+    "./evidence/annexures/JF-ITS1_IT_SERVICE_INVOICES_AND_CONTRACTS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_harm_calculation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_a_substantial.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/group_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_continuity_manipulation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/services_provided.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/financial_flow_network.png",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_legal_positions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_obfuscation_techniques.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/testing_expansion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_provisions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_business_cards.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_evidence_integration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_coercion.md",
+    "./todo/JAX_DAN_RESPONSE_EXPANSION_PLAN.md",
+    "./docs/legal/analysis/criminal-enterprise-evidence-structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_expansion_strategy.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enterprise_level.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_counts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_continuity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/operations_are_financially.md",
+    "./evidence/fake_accounts/RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_financial_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/microservices_architecture_migration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/police_service.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_and_banking_services.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/create_multiple_copies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_institutions_notification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_misallocation_crisis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_provider_documentation.md",
+    "./docs/legal/LOCKDOWN_EXPLOITATION_PROVISIONS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/brace_expansion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/courier_services.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_incentives.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_disruption.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_intelligence_centre.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_harm_enhanced.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_risks.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/impersonation_infrastructure_expansion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/why_multiple_systems.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/documented_financial_events.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/services_debt_dispute.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/slg_financial_analysis.md",
+    "./docs/legal/CHARITY_FRAUD_PROVISIONS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_instruments.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_evidence_links.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_institution_notification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/market_expansion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_transfer.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_victims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_evidence_has_revealed_a_com.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_institution_agents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_opportunity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_hub.md",
+    "./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_calculations.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/INV14491(791)(De Novo Business Services (Pty) Ltd)(2025-07-28).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_period.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_community.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ New Pty Company (New Name) and Share Certificates Combo (Service-1743068).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/combined_service_income.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/year_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_analysis_completion.md",
+    "./evidence/witness-statements/templates/TEMPLATE_JACQUELINE_FINANCIAL_OVERSIGHT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_crimes_through.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/phase_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/slg_financial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fbi_financial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/joint_financial_interest.md",
+    "./jax-response/dan-response-materials/financial_allegations_rebuttal_matrix.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/group_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/ongoing_professional_services.md",
+    "./backups/pre-consolidation/jax-response/AD/1-Critical/FINANCIAL_HYPERGRAPH_TIMELINE_LINKS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_mechanisms.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/void_provision_declaration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complexity_increase.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_systems.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/major_transfers.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/system_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/rezonance/financial_reports/financial_analysis_summary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_facts_summary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_impact.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_misconduct_claims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure_destruction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_flexibility.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/connected_financial.md",
+    "./jax-response/evidence-attachments/dan-technical/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_act.md",
+    "./jax-dan-response/financial_allegations_rebuttal_matrix.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_manipulation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_shopify.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_financial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_financial_impact.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_level.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/entity_financial_forensics.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/coordinated_financial_infrastructure.md",
+    "./docs/legal/affidavits/jax-affidavit-financial-hemorrhage.md",
+    "./tests/verify-multiple-labels-issue-creation.test.js",
+    "./docs/legal/CORRECTED_FRAUD_PROVISIONS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_critical_financial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_analysis_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/increases_total_harm.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_financial_misallocation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/market_expansion_planning.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/combined_financial_harm.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_recovery_planning.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_obligation_language.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_through.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_card_provision.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_engine.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/level_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/border_financial_crime.md",
+    "./jax-dan-response/AD/1-Critical/PARA_10_5-10_10_23_DAN_FINANCIAL.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_dependency.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/unrestricted_professional_service.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/COMPREHENSIVE_FINANCIAL_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_burden_shifting.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_unavailable.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_loop.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_red_flags.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/identity_protection_services.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_instrument.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/services_lost.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/major_cities.md",
+    "./docs/legal/criminal-enterprise-evidence-structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_requirements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_advisors.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_income_performance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_financial_context.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_documents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_misconduct.md",
+    "./jax-response/evidence-attachments/dan-technical/COMPREHENSIVE_FINANCIAL_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_regarding_financial_analysis_of_regima_group.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/activity_financial_periods.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_integration.md",
+    "./2DO/x/regima.com/dan@regima.com/Partial Contributions to Timeline_ RegimA _Group_ Financial Fraud (2017-2025).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_services_surge.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/debt_increase.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_for_google_gsuite_services.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_service_provider.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_corruption.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_financial_management.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_year_start.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_harm_summary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/global_expansion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_institution.md",
+    "./jax-dan-response/annexures/DAN-IT/DAN-IT-002_RegimA_Financial_Records_IT_Spend_2024.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/INV14491(791)(De Novo Business Services (Pty) Ltd)(2025-07-28).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_type.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_costs_lost.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_operating_as_a_substantial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_reporting.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_leverage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/integrated_financial_management.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_discrepancy_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enterprises_operate.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/microservices_migration.md",
+    "./backups/pre-consolidation/jax-dan-response/medium_priority_responses/additional_financial_claims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_structure_exploitation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_performance_metrics.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_financial_metrics.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/major_performance_change.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_strain_period.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_services_authorization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_burden.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_quantification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_anomalies_detected.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/banking_services_for_regima_group.md",
+    "./jax-dan-response/medium_priority_responses/additional_financial_claims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_reinforcing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_crisis_escalation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regulatory_exposure.md",
+    "./docs/legal/FINAL_CORRECTED_PROVISIONS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/entity_financial_tracking.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_provisions_identified.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_states.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_dispensation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_assertion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/integration_test_expansion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/entity_financial_crime.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_flow_visualization.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/CRIMINAL_ENTERPRISE_ANNEXURE_STRUCTURE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_schemes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_irregularity_discovery.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/postal_services_act.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_forensics_opportunities.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_financial_and_operational_records.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_burden_increase.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_provision.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/monitoring_services.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/testing_infrastructure_expansion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_financial_access.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/documentation_expansion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_portfolio_expansion.md",
+    "./docs/legal/evidence/FINANCIAL_LOSS_EVIDENCE_MATRIX.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_independence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_hub_role.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_flow_analysis.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ Draft financial.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_transactions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_elements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_reality_documented.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_supervision.md",
+    "./jax-response/AD/dan-perspective/1-Critical/PARA_10_5-10_10_23_DAN_FINANCIAL.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_intelligence_units.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_instability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shared_financial_future.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_activity_peak.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_mechanisms.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/statutory_provisions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_terminations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_institutions_alert.md",
+    "./backups/pre-consolidation/jax-dan-response/financial_allegations_rebuttal_matrix.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_recovery.md",
+    "./reports/financial-evidence-verification-report.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/increase_factor.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_crisis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_facilitation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_financial_exploitation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/support_services.md",
+    "./jax-dan-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_communications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/victim_services.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/specific_professional_service.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_financial_crime.md",
+    "./docs/strategic/fraud-analysis/FINANCIAL_EXTRACTION_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_customer_portals.md",
+    "./backups/pre-consolidation/jax-dan-response/CRIMINAL_ENTERPRISE_EVIDENCE_STRUCTURE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_misallocation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_information.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sized_donut_multiples.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/increase_test_coverage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_service_continuation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_provisions_supporting.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/relationship_implications_the_financial_relationsh.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_financial_audit.md",
+    "./jax-response/evidence-attachments/dan-technical/CRIMINAL_ENTERPRISE_ANNEXURE_STRUCTURE.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/vva_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_update.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/expansion_period.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_extraction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_financial_information.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corrected_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_real_financial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal_acts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_strangulation_escalation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_manipulation_blueprint.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/increase_pressure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/test_coverage_expansion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/microservices_considerations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_fees.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_cancellations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/transfer_pricing_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_disruption_costs.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/gaslighting_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_provision_account.md",
+    "./jax-response/AD/1-Critical/FINANCIAL_HYPERGRAPH_TIMELINE_LINKS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_provider_obligations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_hub_evolution.md",
+    "./Revenue_Stream_Hijacking_by_Rynette/01_POPIA_Compliant_System/Financial_Accounting/Financial_Transparency_System.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_dependency_inversion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_services.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_financial_logic.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/year_enterprise_value.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_mismanagement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/entity_financial_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation.md",
+    "./evidence/financial-analysis/group_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_statements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/major_credit_categories.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_amounts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_sabotage.md",
+    "./evidence/invoices/INV14491(791)(DeNovoBusinessServices(Pty)Ltd)(2025-07-28).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_takeover.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_provider_contacts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_impact_assessment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_pattern_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/how_criminal_enterprises.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/slg_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_made_substantial_payments_t.md",
+    "./lex/DAN_COMPLETE_FINANCIAL_PICTURE_JUNE_OCT_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_patterns_detected.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_vulnerability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/court_order_provision.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/added_services.md",
+    "./jax-dan-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_seizure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_subscription_impact.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/connected_financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enterprise_impact.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/ongoing_financial_drain.md",
+    "./jax-dan-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.json",
+    "./evidence/correspondence/dan-bantjies-jun2025/rwd_financial_analysis-v2.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_base_expansion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_data.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_transaction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_shopify_stores.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_establishment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/unified_financial_interests.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_mismanagement_setup.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/medical_testing_provisions.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_resources.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_extraction_mechanism.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_services.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_summary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/missing_financial_records.md",
+    "./UPDATED_DRAFTS/analysis-main/analysis-frontend/src/services/apiService.js",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_status.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_revenue_performance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_risk.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/primary_financial_periods.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_misallocation_discovery.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_enforcement_venues.md",
+    "./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_protection_measures.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_risk_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_financial_hub.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_assets.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/check_service_requirements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/merchant_services.md",
+    "./jax-response/dan-response-materials/CRIMINAL_ENTERPRISE_EVIDENCE_STRUCTURE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_services.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_association.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/major_debit_categories.md",
+    "./docs/legal/ULTIMATE_FRAUD_PROVISIONS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/increase_overall_test.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_investigation_targets.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_account_takeover.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sophisticated_financial_crimes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/unauthorized_financial_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_crime_quantification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_this.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/quantify_service_impact.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_structure_establishment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_billing_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_evidence_verification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proves_financial_motive.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_manipulation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_continuation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enterprise_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_flow_reconstruction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_enhancement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_destruction_network.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_claiming_opportunities.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure.md",
+    "./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/create_multiple.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_misappropriation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_analyst.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_revenue.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_expenses.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_provider.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_interest.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_system.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_development_stores.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_controls.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_cycle.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies_financial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_hub_sustainability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_institution_serving_regima_group.md",
+    "./scripts/verify-financial-evidence.js",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_loop.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/report_size_increase.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_financial_actors.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_reporting_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/constitutional_provisions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_targeting_phase.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/combined_financial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_financial_review.md",
+    "./reports/FINANCIAL_LOSS_EVIDENCE_VERIFICATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/staggered_financial_year.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_value.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/data_synchronization_service.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/continuing_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_case.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_crimes_unit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_choices.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_consolidation.md",
+    "./jax-response/evidence-attachments/dan-technical/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/individual_financial_liability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_evidence_analysis_report.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_weapon.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_exploitation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_vehicle.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/border_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/substantial_cash_flow.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_flow_indicators.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_motivations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_access.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_operations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/vague_professional_service.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/victim_protection_services.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_financial_harm.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_verified.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/increased_persistence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shadow_director_provisions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/ongoing_financial_exploitation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_intelligence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_provider_cancellation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_timeline.md",
+    "./jax-dan-response/evidence-attachments/COMPREHENSIVE_FINANCIAL_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_financial_management.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/invert_financial_reality.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/section_financial_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_forensics.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_isolation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_criminal_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_motivation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/create_financial_chaos.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/different_financial_year.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/federal_racketeering_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_system_protections.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_strain_management.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_financial_risks.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_pressure.md",
+    "./tests/MULTIPLE_LABELS_VERIFICATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_platform.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_financial_observations.md",
+    "./jax-dan-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/major_south_african.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/business_multiple.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_disruption_impact.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/major_recovery_year.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_documents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_income.md",
+    "./docs/legal/AFFIDAVIT_SHOPIFY_REVENUE_PROVISIONS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_financial_manipulation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/maximum_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_applications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_jurisdictions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_planning.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_reality.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_subscription_cancellation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_aspects.md",
+    "./UPDATED_DRAFTS/REVENUE_STREAM_HIJACKING_FINANCIAL_STRANGULATION_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enterprise_elements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_control_centers.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/personal_financial_harm.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_flow_direction.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/rwd_financial_analysis-v2.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_rationality.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_failures.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_motive_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_strangulation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sales_representative_services.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_records.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_harm.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/immediate_financial_protection.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_insights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_financial_losses.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/vva_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_strain.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_institutions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_expansion.md",
+    "./UPDATED_DRAFTS/analysis-main/financial_flow_network.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/ongoing_financial_harm.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/customer_service.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/major_cost_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/major_breakthrough_year.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_weaponization_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_financial_strangulation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_metrics.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_year_complexity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_system_targeting.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_statements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_support.md",
+    "./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.json",
+    "./backups/pre-consolidation/jax-dan-response/AD/1-Critical/PARA_10_5-10_10_23_DAN_FINANCIAL.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enterprise_structure.md"
+  ],
+  "ad_res_j7_references": [
+    "See files related to: Major, service, expansion, multiple, enterprise, services, (R100,000+),, substantial, increase, service, provision, financial, exposure"
+  ],
+  "crime_category": "other",
+  "phase": "PHASE_000",
+  "event_subtype": "business_relationship_service_expansion",
+  "github_pages_reference": "https://cogpy.github.io/revstream1/applications.md#event_h002",
+  "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+  "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+  "evidence_urls": [
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/financial_relationships.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/financial_flow_agents.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/multiple_independent_verification.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/financial_crimes.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/financial_risks_beyond.md"
+  ],
+  "github_pages_url": "https://cogpy.github.io/revstream1/events/EVENT_H002.html",
+  "timeline_reference": "https://cogpy.github.io/revstream1/timeline.html#EVENT_H002",
+  "related_application": "APPLICATION_1",
+  "application_url": "https://cogpy.github.io/revstream1/application-1.html",
+  "ad_res_j7_evidence": [
+    {
+      "source": "case_2025_137857/",
+      "description": "Case documentation and analysis",
+      "url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857"
+    },
+    {
+      "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "description": "Complete evidence catalog (2,866 files)",
+      "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
+    }
+  ],
+  "ad_res_j7_cross_references": [
+    "Evidence documented in ad-res-j7 repository",
+    "See ANNEXURES for event EVENT_H002",
+    "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+  ],
+  "evidence_references": [
+    "case_2025_137857/02_evidence/",
+    "ANNEXURES/",
+    "docs/"
+  ]
+}
+```

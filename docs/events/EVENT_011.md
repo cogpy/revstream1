@@ -1,656 +1,700 @@
-# Daniel Finalizes Fraud Reports
+---
+layout: default
+title: Daniel Finalizes Fraud Reports
+---
+# Daniel Finalizes Fraud Reports (EVENT_011)
 
-**Event ID:** `EVENT_011`
 **Date:** 2025-06-06
 
-- **Category:** fraud_discovery
-- **Event Type:** fraud_uncovering
-- **Perpetrators:** 
-  - PERSON_005
-- **Victims:** 
-  - 
-- **Entities Involved:** 
-  - PERSON_005
-- **Description:** Daniel finalized reports uncovering fraud after using time from March 30 deadline extension
-- **Financial Impact:** unknown_amount
-- **Legal Significance:** fraud_discovery_and_documentation
-- **Evidence:** 
-  - fraud_reports
-  - analysis_documentation
-- **Pattern:** consolidation_phase
-- **Timeline Phase:** PHASE_004
-- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
-- **Related Applications:** 
-  - APPLICATION_1
-  - APPLICATION_2
-- **Evidence Files:** 
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_analysis_module.md
-  - ./evidence/2025-11-14-batch/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
-  - ./evidence/2025-11-14-batch-3/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/CHESNO-FRAUD-EVIDENCE-INDEX.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_curatorship_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/specific_fraud_threat.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/RegimA WW+Zone · Reports · Total sales over time by store · Shopify Plus ZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/using_asia.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_espeset.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_claims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_reports_murder.md
-  - ./ANNEXURES/JF02/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_dashboard.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_detector.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_transfers.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/next_steps_after.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_5_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_account_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/running_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_peak_performance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rental_fraud_flow.md
-  - ./evidence/2025-11-14-batch/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_card_fraud.md
-  - ./evidence/character-references/CHARACTER_REFERENCE_DANIEL_FAUCITT_2025-10-11.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/andrea_giammarchi.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_interdict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_use.md
-  - ./docs/strategic/fraud-analysis/ULTIMATE_FRAUD_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_supporting_daniel.md
-  - ./UPDATED_DRAFTS/HMRC_PENSION_CORRESPONDENCE_REDIRECTION_FRAUD_COMPREHENSIVE.md
-  - ./evidence/emails/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
-  - ./evidence/emails/jaz-DanielFaucitt-Outlook.pdf
-  - ./docs/strategic/fraud-analysis/CORRECTED_FRAUD_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/using_fixtures.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_27_2019.md
-  - ./UPDATED_DRAFTS/analysis-main/fraudulent_interdict_and_warehouse_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2019to29February2020.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/modifying_elements_after.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/analysis_reports_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/testing_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/deadline_proves_urgency.md
-  - ./legal_analysis_2025_11/scheme_files/south_african_civil_procedure_ex_parte_fraud_rescission.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_validation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_financial_fraud.md
-  - ./evidence/2025-11-14-batch/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf
-  - ./evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf
-  - ./lex/frn/za/south_african_forensic_analysis_systematic_fraud_narrative.scm
-  - ./evidence/2025-11-14-batch/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_pete.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_enablement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_31_2025.md
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO4-insolvency-assessment-pre-daniel.md
-  - ./docs/strategic/fraud-analysis/SNEAKY_FRAUD_MECHANISM.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_fraud.md
-  - ./evidence/2025-11-14-batch-3/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_risk.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_02_2016.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pension_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/process_was_fraudulent.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/immediately_after_murder.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_30_2025.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_deadlines.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2018to29February2019.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_hijacking.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/confirms_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_evidence_submission.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_fauc.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_amount.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_trading.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_appointment.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF03/hmrc_pension_fraud_action_plan.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regulatory_reports.md
-  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pension_fraud_analysis.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF02/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_WITNESS_STATEMENT.md
-  - ./evidence/compliance/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_indicator.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_legal_deadlines.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2025to28February2026.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_tax_savings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_james.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/international_data_theft_and_invoice_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_after_kayla.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_fraud.md
-  - ./evidence/witness-statements/templates/TEMPLATE_DANIEL_SHOPIFY_PLATFORM_OWNERSHIP.md
-  - ./UPDATED_DRAFTS/analysis-main/tools/compliance_deadline_tracker.py
-  - ./evidence/financial-analysis/shopify-reports/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_support.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/steinhoff_fraud_case.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_analysis_reports.md
-  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/hypergnn_fraud_highlights.png
-  - ./UPDATED_DRAFTS/analysis-main/entities/enabling_further_fraud.md
-  - ./evidence/2025-11-14-batch-3/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf
-  - ./docs/legal/CHARITY_FRAUD_PROVISIONS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/neon_schema_extensions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/using_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proved_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_jacobus_bantjes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/vulnerability_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_enhancement_the.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2021to28February2022.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_payment_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/was_fraudulent.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT DKCBCWFP.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/completed_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/double_fraud.md
-  - ./docs/strategic/fraud-analysis/ADMIN_FEE_FRAUD_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_invoice.md
-  - ./UPDATED_DRAFTS/CURATORSHIP_FRAUD_PLAN_COMPREHENSIVE_ANALYSIS.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ danie reports 250610.pdf
-  - ./UPDATED_DRAFTS/UBUNTU_PRINCIPLE_KAYLA_DANIEL_GIVING_AWAY_R100M_COMPREHENSIVE.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/establishes_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/primary_fraud_elements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rental_fraud_estimate.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/wire_fraud_conspiracy.md
-  - ./WIP/RULE42(1)(a)APPLICATION-RESCISSIONFORFRAUD.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_reports_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/generate_reports_output.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_warning.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/verification_reports.md
-  - ./evidence/2025-11-14-batch-3/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_node.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_appointment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/reimburse_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/material_evidence_reports.md
-  - ./case_2025_137857/02_evidence/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/year_fraud_projection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_march.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_court_response.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/transfer_pricing_fraud.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2017to29February2018.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/for_daniel_faucitt.md
-  - ./WIP/RULE42_APPLICATION_RESCISSION_FOR_FRAUD.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_escalation_pattern.md
-  - ./docs/technical/timeline/KEY_EVENTS_TIMELINE_MARCH_AUGUST_2025.md
-  - ./UPDATED_DRAFTS/2_YEAR_ACCOUNTING_BLACKOUT_AFTER_KAYLA_EMAIL_SEIZURE.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/entity_tax_fraud.md
-  - ./docs/legal/annexures/JF02/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_after_evidence.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2024to28February2025.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/computer_fraud.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ MARCH 2023 CIPC ANNUAL RETURNS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/deter_daniel.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2019to29February2020.PDF
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_visualizer.py
-  - ./evidence/2025-11-14-batch-3/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf
-  - ./evidence/emails/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
-  - ./evidence/2025-11-14-batch-3/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_representations.md
-  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
-  - ./docs/legal/CORRECTED_FRAUD_PROVISIONS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_detection_framework.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_appointment_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_pattern_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_optimization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_scale.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/claims_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_mechanics.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/incapacity_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/call_action_fraud.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2024to28February2025.PDF
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2017to29February2018.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/original_criminal_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pension_fraud_action.md
-  - ./jax-response/evidence-attachments/dan-technical/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2019to29February2020.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/system_evaluation_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_concealment.md
-  - ./docs/legal/frameworks/EMPLOYMENT_FRAUD_FRAMEWORK.md
-  - ./UPDATED_DRAFTS/analysis-main/comprehensive_revenue_hijacking_tax_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_mechanism_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/validate_timeline_using.md
-  - ./docs/RegimA WWD · Reports · Total sales over time by store · Shopify Plus - 230701 to 251022.pdf
-  - ./ANNEXURES/JF08/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/enable_fraud.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2022to28February2023.PDF
-  - ./evidence/2025-11-14-batch-3/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_theory.md
-  - ./evidence/shopify_reports/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ danie reports 250610.pdf
-  - ./jax-response/evidence-attachments/JF-CHESNO1-forensic-accounting-reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_discovery.md
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO1-forensic-accounting-reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/gaslight_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/perpetrator_using_courts.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/06_financial_fraud/hmrc_pension_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_may.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complex_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_integration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_clarifies_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_backdating_fraud.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2020to28February2021.PDF
-  - ./2DO/x/regima.com/dan@regima.com/Partial Contributions to Timeline_ RegimA _Group_ Financial Fraud (2017-2025).pdf
-  - ./evidence/2025-11-14-batch/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_threats.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/update_analysis_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_purpose.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_1_2022.md
-  - ./UPDATED_DRAFTS/analysis-main/PROFIT_EXTRACTION_FRAUD_ANALYSIS.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/13_march_2022.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/using_son.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme_discovered.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/psychiatric_evaluation_deadline.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2023to29February2024.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/practical_deadlines.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/using_peter_faucitt.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(4).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_shopify_email.md
-  - ./evidence/2025-11-14-batch-3/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
-  - ./2DO/x/rzo.io/d@rzo.io/RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Billin.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_sophistication.md
-  - ./UPDATED_DRAFTS/analysis-main/ownership_intersection_fraud_map.md
-  - ./legal_analysis_2025_11/docx/RULE42(1)(a)APPLICATION-RESCISSIONFORFRAUD.docx
-  - ./docs/legal/annexures/JF02/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./docs/strategic/fraud-analysis/CHARITY_FRAUD_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_quantification.md
-  - ./KEY_EVENTS_TIMELINE_MARCH_AUGUST_2025.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_fraud_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_tschinder.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT 5N1QHQFP.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/investigation_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/RegimA WW+Zone · Reports · Total sales over time by store · Shopify Plus ZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_kayla.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/analysis_reports_the.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/enabled_fraud_instruments.md
-  - ./evidence/legal-analysis/DANIEL_EXPARTE_LEGAL_FRAMEWORK_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud_report.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_indicators.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_confirmed_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/src/utils/configure_detailed_reports.py
-  - ./2DO/x/regima.com/dan@regima.com/Re_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi.pdf
-  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_WITNESS_STATEMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/discrepancy_reports_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/added_daniel_faucitt.md
-  - ./evidence/witness_statements/DANIEL_WITNESS_STATEMENT_COMPLETION_STATUS.md
-  - ./docs/reports/verification/CHESNO_FRAUD_DOCUMENTATION_VERIFICATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_daniel_did.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/void_fraudulent_interdict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_legal_action.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/duration_extensions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/using_predefined_profiles.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_conduct.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/portray_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2021to28February2022.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_08_2016.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_type.md
-  - ./docs/legal/affidavits/daniel-affidavit-strategic-logistics.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/backdating_fraud.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md
-  - ./UPDATED_DRAFTS/analysis-main/src/fraud_analysis/payment_fraud_analyzer.py
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/annual_tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/perpetrator_using.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/readable_reports_the.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/card_payment_fraud.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF03/hmrc_pension_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/immediate_aftermath.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_improvements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_reports.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2023to29February2024.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_preparation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_warehouse_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_fraud.md
-  - ./evidence/2025-11-14-batch/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF
-  - ./case_2025_137857/02_evidence/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./docs/strategic/fraud-analysis/TRUE_FRAUD_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_25_2016.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_15_2025.md
-  - ./evidence/financial-analysis/shopify-reports/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_schemes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_asset_value.md
-  - ./evidence/2025-11-14-batch-2/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/rezonance_payment_fraud_update.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/mail_fraud.md
-  - ./jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md
-  - ./UPDATED_DRAFTS/Fraudulent_Use_of_Interdict_and_Warehouse_Sabotage (1).docx
-  - ./evidence/emails/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/mr_daniel_jacobus.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/expected_fraudulent_allocations.md
-  - ./jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/analysis_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_risk_connection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_payment_fraud.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2023to29February2024.PDF
-  - ./evidence/compliance/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/tax_fraud_scheme_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_potential_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_overview_enhanced.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_indicators.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_documentation_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/computer_fraud_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/and_daniel.md
-  - ./ANNEXURES/JF08/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/claiming_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_director.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_share.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/expense_attribution_fraud.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2018to29February2019.PDF
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi.pdf
-  - ./evidence/emails/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/common_law_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_actors_table.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/using_function_composition.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/executive_summary_after.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/creditor_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_still_survives.md
-  - ./evidence/2025-11-14-batch/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/isolate_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/identity_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_evidence_submission.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/using_templates.md
-  - ./evidence/character-references/CHARACTER_REFERENCE_DANIEL_FAUCITT_2025-10-11.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/database_schema_extensions.md
-  - ./evidence/2025-11-14-batch-2/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/only_march.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/jax_confronted_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2020to28February2021.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_prevention.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_compliance_deadlines.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_29_deed_preamble_daniel.md
-  - ./evidence/2025-11-14-batch-3/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/creates_tax_fraud.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2024to28February2025.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_sends.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_scheme.md
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_shopify_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_law.md
-  - ./evidence/2025-11-14-batch-3/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
-  - ./ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2025to28February2026.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/initial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_scheme.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/assessment_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_fraud.md
-  - ./evidence/2025-11-14-batch-3/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_flow_diagram.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/forensic_analysis_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/force_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/damages_claim_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/generate_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/backdating_fraud_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_investigation.md
-  - ./2DO/x/regima.zone/dan@regima.zone/danie reports 250610.pdf
-  - ./1-CIVIL-RESPONSE/annexures/JF-DANIEL-BANK-ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/prelim_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_assessment_reports.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2024to28February2025.PDF
-  - ./docs/legal/frameworks/MISREPRESENTATION_FRAUD_FRAMEWORK.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(3).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_cases_table.md
-  - ./UPDATED_DRAFTS/analysis-main/tools/ai_fraud_detector.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_amount.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_pattern_detection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_15_2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_warning_issued.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/forcing_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_method.md
-  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2024to28February2025.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/action_fraud_report.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/drug_testing_deadline.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-06_DAN_TO_BANTJIES_FRAUD_REPORTS.eml
-  - ./UPDATED_DRAFTS/analysis-main/entities/detailed_reports_generated.md
-  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2021to28February2022.PDF
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF02/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2020to28February2021.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/mail_redirection_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/existing_fraud_evidence.md
-  - ./evidence/emails/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
-  - ./evidence/2025-11-14-batch/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_allocation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_proceeds.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_damages.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/connected_financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_this_evidence.md
-  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2017to29February2018.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_tax_fraud.md
-  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/deadline_established.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/framework_extension_the.md
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_flow_diagram.png
-  - ./jax-dan-response/evidence-attachments/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_1_2019.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraud_mechanism.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_21_2016.md
-  - ./evidence/annexures/JF-CHESNO1_FORENSIC_ACCOUNTING_REPORTS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/eliminate_daniel.md
-  - ./evidence/annexures/JF-DLA3_DANIEL_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/curatorship_fraud_evidence.md
-  - ./evidence/2025-11-14-batch-3/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/create_daniel_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/case_summary_reports.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2021to28February2022.PDF
-  - ./UPDATED_DRAFTS/analysis-main/docs/RegimA SA · Reports · Total sales over time by store · Shopify Plus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/testing_deadlines.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/immediate_tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/national_fraud_intelligence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_fraud_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/domain_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/documents_prove_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/action_fraud.md
-  - ./jax-response/evidence-attachments/dan-technical/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/for_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_act.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
-  - ./jax-response/evidence-attachments/CHESNO-FRAUD-EVIDENCE-INDEX.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_march.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_1_2017.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sales_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/serious_fraud_office.md
-  - ./docs/legal/annexures/JF08/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./evidence/emails/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/discredit_daniel.md
-  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
-  - ./docs/legal/ULTIMATE_FRAUD_PROVISIONS.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2017to29February2018.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/strength_after_validation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraud.md
-  - ./jax-response/evidence-attachments/dan-technical/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md
-  - ./evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf
-  - ./evidence/2025-11-14-batch/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_classification_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/excess_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/case_analysis_reports.md
-  - ./2DO/x/regima.com/dan@regima.com/AD NOTES - DANIEL JAMES FAUCITT.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/through_action_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/summary_reports.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2019to29February2020.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_using_templates.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2020to28February2021.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_sends_complete.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/on_march.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/compliance_deadline_tracker.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/allocation_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/making_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/invoice_fraud.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2025to28February2026.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_risks.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/reports_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_law_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/rezonance/financial_reports/payment_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_through_misrepresentation.md
-  - ./evidence/annexures/JF-WS1_DANIEL_WITNESS_STATEMENT_HAS_ANYTHING_CHANGED.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_march.md
-  - ./jax-response/evidence-attachments/JF-CHESNO4-insolvency-assessment-pre-daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2023to29February2024.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/enabled_fraud_threats.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/using_interdict_against_company_a_to_sabotage_comp.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ FW_ MARCH 2023 CIPC ANNUAL RETURNS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/harass_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/call_serious_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_sequence.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./jax-response/evidence-attachments/dan-technical/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/performance_after_may.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_invoice_conspiracy.md
-  - ./legal_analysis_2025_11/scheme_files/south_african_forensic_analysis_systematic_fraud_narrative.scm
-  - ./lex/evid/za/south_african_evidence_systematic_fraud_patterns.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraud_exposed.md
-  - ./ANNEXURES/JF02/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_daniel_told.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/transformer_extension.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_interdict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/eliminated_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_scope_extension.md
-  - ./2DO/x/regima.zone/jax@regima.zone/meeeting confirmed 2 pm Friday, 26 September 2025 THE LEONARDO JACQUI & DANIEL F.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_payment_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/systematic_sabotage_and_curatorship_fraud_evidence.md
-  - ./jax-dan-response/rule-42-rescission/FOUNDING_AFFIDAVIT_Daniel_Faucitt_Rule_42.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/specific_fraud_mechanism.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_bank_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/interest_fraud.md
-  - ./lex/civ-proc/za/south_african_civil_procedure_ex_parte_fraud.scm
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/ownership_intersection_fraud_map.png
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_james_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_allegations.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(2).pdf
-  - ./UPDATED_DRAFTS/analysis-main/DANIEL_AUTONOMY_STRATEGY.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_invoice_claims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_evidence_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/generate_enhanced_reports.md
-  - ./jax-dan-response/evidence-attachments/comprehensive_fraud_timeline_2017_2025.md
-  - ./docs/reports/completion/DANIEL_TECHNICAL_PERSPECTIVE_IMPLEMENTATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enables_tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/case_draft_docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/custody_reports_complete.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/following_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_actors.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_fraud_scheme.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2025to28February2026.PDF
-  - ./evidence/annexures/JF-CHESNO4_INSOLVENCY_ASSESSMENT_PRE_DANIEL.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_farrar_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/RegimA SA · Reports · Total sales over time by store · Shopify Plus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_detection_risks.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_happens_after.md
-  - ./UPDATED_DRAFTS/analysis-main/CRITICAL_FRAUD_TIMELINE_UPDATE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_09_2016.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2018to29February2019.PDF
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/06_financial_fraud/hmrc_pension_fraud_action_plan.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/wire_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/year_fraud.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2020to28February2021.PDF
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2022to28February2023.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_31_2021.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_perez_repository.md
-  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2023to29February2024.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_card_stopped_working_around_march.md
-  - ./UPDATED_DRAFTS/analysis-main/march_2025_bank_statement_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/denying_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/hypergnn_fraud_highlights.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/expert_reports.md
-  - ./lex/FAKE_ACCOUNTS_FABRICATION_FRAUD_2025-11-18.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_28_2022.md
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_overview_enhanced.png
-  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_fraud_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_report.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/protect_daniel_faucitt.md
-  - ./evidence/shopify_reports/RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf
-  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2021to28February2022.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_implementation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_investigation.md
-  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2019to29February2020.PDF
-  - ./evidence/annexures/JF-CHESNO3_POLICE_REPORTS_FRAUD_INVESTIGATION.md
-  - ./docs/legal/affidavits/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md
-  - ./UPDATED_DRAFTS/WAREHOUSE_FRAUD_PERJURY_CENTRAL_EVIDENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_survives.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_facilitation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/verification_reports_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/mr_daniel_jacobus_bantjes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_structure_created.md
-  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2025to28February2026.PDF
-  - ./UPDATED_DRAFTS/analysis-main/evidence/august_2025_fraudulent_appointment_analysis.md
-  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_WITNESS_STATEMENT.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2017to29February2018.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/using_deployment_script.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates_all.md
-  - ./evidence/2025-11-14-batch-2/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf
-  - ./evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./lex/civ/za/south_african_civil_procedure_ex_parte_fraud_rescission.scm
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/deduction_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/integration_reports.md
-  - ./2DO/x/regima.zone/jax@regima.zone/DAN REPORTS SENT FOR EXPENSES FRAMEWORK.pdf
-  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2018to29February2019.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/generate_analysis_reports.md
-  - ./evidence/2025-11-14-batch/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme_evolution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_insights.md
-  - ./evidence/witness_statements/DANIEL_WITNESS_STATEMENT_JF5_SETTLEMENT_EXCHANGE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates_everything.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2018to29February2019.PDF
-  - ./docs/legal/annexures/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_fraud.md
-  - ./evidence/legal-analysis/DANIEL_EXPARTE_LEGAL_FRAMEWORK_ANALYSIS.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_summary_reports.md
-  - ./docs/legal/annexures/JF08/evidence_package_20250523/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_perez.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_fraud_losses.md
-  - ./lex/SHOPIFY_REVENUE_FRAUD_REGIMA_ZONE_UK_OWNERSHIP_2025-11-18.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_1_2025.md
-- **Ad Res J7 References:** 
-  - See files related to: Daniel, finalized, reports, uncovering, fraud, after, using, March, deadline, extension
-- **Crime Category:** fraud
-- **Phase:** PHASE_004
-- **Event Subtype:** fraud_discovery_fraud_uncovering
-- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_011
-- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
-- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
-- **Evidence Urls:** 
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/international_fraud_implications.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/fraud_charges.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/fraud_analysis_module.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/evidence/2025-11-14-batch/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
-  - https://github.com/cogpy/ad-res-j7/blob/main/evidence/2025-11-14-batch-3/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf
-- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_011.html
-- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_011
-- **Related Application:** APPLICATION_1
-- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
-- **Ad Res J7 Evidence:** 
-  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
-  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}
+**Description:**
+Daniel finalized reports uncovering fraud after using time from March 30 deadline extension
+
+## Evidence References
+
+No specific evidence linked.
+
+## Raw Data
+
+```json
+{
+  "event_id": "EVENT_011",
+  "date": "2025-06-06",
+  "title": "Daniel Finalizes Fraud Reports",
+  "category": "fraud_discovery",
+  "event_type": "fraud_uncovering",
+  "perpetrators": [
+    "PERSON_005"
+  ],
+  "victims": [],
+  "entities_involved": [
+    "PERSON_005"
+  ],
+  "description": "Daniel finalized reports uncovering fraud after using time from March 30 deadline extension",
+  "financial_impact": "unknown_amount",
+  "legal_significance": "fraud_discovery_and_documentation",
+  "evidence": [
+    "fraud_reports",
+    "analysis_documentation"
+  ],
+  "pattern": "consolidation_phase",
+  "timeline_phase": "PHASE_004",
+  "extended_evidence_note": "See ad-res-j7 repository for detailed supporting documentation",
+  "related_applications": [
+    "APPLICATION_1",
+    "APPLICATION_2"
+  ],
+  "evidence_files": [
+    "./UPDATED_DRAFTS/analysis-main/entities/international_fraud_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_analysis_module.md",
+    "./evidence/2025-11-14-batch/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf",
+    "./evidence/2025-11-14-batch-3/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/CHESNO-FRAUD-EVIDENCE-INDEX.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_curatorship_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/specific_fraud_threat.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/RegimA WW+Zone \u00b7 Reports \u00b7 Total sales over time by store \u00b7 Shopify Plus ZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/using_asia.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_espeset.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_claims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_reports_murder.md",
+    "./ANNEXURES/JF02/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_dashboard.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_detector.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_transfers.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/next_steps_after.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_5_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_account_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/running_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_peak_performance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rental_fraud_flow.md",
+    "./evidence/2025-11-14-batch/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_card_fraud.md",
+    "./evidence/character-references/CHARACTER_REFERENCE_DANIEL_FAUCITT_2025-10-11.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/andrea_giammarchi.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_interdict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_use.md",
+    "./docs/strategic/fraud-analysis/ULTIMATE_FRAUD_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_supporting_daniel.md",
+    "./UPDATED_DRAFTS/HMRC_PENSION_CORRESPONDENCE_REDIRECTION_FRAUD_COMPREHENSIVE.md",
+    "./evidence/emails/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf",
+    "./evidence/emails/jaz-DanielFaucitt-Outlook.pdf",
+    "./docs/strategic/fraud-analysis/CORRECTED_FRAUD_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/using_fixtures.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_27_2019.md",
+    "./UPDATED_DRAFTS/analysis-main/fraudulent_interdict_and_warehouse_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2019to29February2020.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/modifying_elements_after.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/analysis_reports_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/testing_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/deadline_proves_urgency.md",
+    "./legal_analysis_2025_11/scheme_files/south_african_civil_procedure_ex_parte_fraud_rescission.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_validation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_financial_fraud.md",
+    "./evidence/2025-11-14-batch/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf",
+    "./evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf",
+    "./lex/frn/za/south_african_forensic_analysis_systematic_fraud_narrative.scm",
+    "./evidence/2025-11-14-batch/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_pete.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_enablement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_31_2025.md",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO4-insolvency-assessment-pre-daniel.md",
+    "./docs/strategic/fraud-analysis/SNEAKY_FRAUD_MECHANISM.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corporate_fraud.md",
+    "./evidence/2025-11-14-batch-3/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_risk.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_02_2016.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pension_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/process_was_fraudulent.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/immediately_after_murder.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_30_2025.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_deadlines.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2018to29February2019.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_hijacking.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/confirms_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_evidence_submission.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_fauc.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_amount.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_trading.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_appointment.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF03/hmrc_pension_fraud_action_plan.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regulatory_reports.md",
+    "./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pension_fraud_analysis.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF02/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_WITNESS_STATEMENT.md",
+    "./evidence/compliance/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_indicator.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_legal_deadlines.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2025to28February2026.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_tax_savings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_james.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/international_data_theft_and_invoice_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_after_kayla.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/accounting_fraud.md",
+    "./evidence/witness-statements/templates/TEMPLATE_DANIEL_SHOPIFY_PLATFORM_OWNERSHIP.md",
+    "./UPDATED_DRAFTS/analysis-main/tools/compliance_deadline_tracker.py",
+    "./evidence/financial-analysis/shopify-reports/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_support.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/steinhoff_fraud_case.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/timeline_analysis_reports.md",
+    "./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/hypergnn_fraud_highlights.png",
+    "./UPDATED_DRAFTS/analysis-main/entities/enabling_further_fraud.md",
+    "./evidence/2025-11-14-batch-3/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf",
+    "./docs/legal/CHARITY_FRAUD_PROVISIONS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/neon_schema_extensions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/using_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proved_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_jacobus_bantjes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/vulnerability_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_enhancement_the.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2021to28February2022.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_payment_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/was_fraudulent.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT DKCBCWFP.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/completed_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/double_fraud.md",
+    "./docs/strategic/fraud-analysis/ADMIN_FEE_FRAUD_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_invoice.md",
+    "./UPDATED_DRAFTS/CURATORSHIP_FRAUD_PLAN_COMPREHENSIVE_ANALYSIS.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ danie reports 250610.pdf",
+    "./UPDATED_DRAFTS/UBUNTU_PRINCIPLE_KAYLA_DANIEL_GIVING_AWAY_R100M_COMPREHENSIVE.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/establishes_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/primary_fraud_elements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rental_fraud_estimate.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/wire_fraud_conspiracy.md",
+    "./WIP/RULE42(1)(a)APPLICATION-RESCISSIONFORFRAUD.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_reports_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/generate_reports_output.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_warning.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/verification_reports.md",
+    "./evidence/2025-11-14-batch-3/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_node.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_appointment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/reimburse_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/material_evidence_reports.md",
+    "./case_2025_137857/02_evidence/evidence_package_20250523/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/year_fraud_projection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_march.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_court_response.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/transfer_pricing_fraud.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2017to29February2018.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/for_daniel_faucitt.md",
+    "./WIP/RULE42_APPLICATION_RESCISSION_FOR_FRAUD.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_escalation_pattern.md",
+    "./docs/technical/timeline/KEY_EVENTS_TIMELINE_MARCH_AUGUST_2025.md",
+    "./UPDATED_DRAFTS/2_YEAR_ACCOUNTING_BLACKOUT_AFTER_KAYLA_EMAIL_SEIZURE.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/entity_tax_fraud.md",
+    "./docs/legal/annexures/JF02/RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/escalation_after_evidence.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2024to28February2025.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/computer_fraud.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ MARCH 2023 CIPC ANNUAL RETURNS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/deter_daniel.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2019to29February2020.PDF",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_visualizer.py",
+    "./evidence/2025-11-14-batch-3/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf",
+    "./evidence/emails/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf",
+    "./evidence/2025-11-14-batch-3/RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_representations.md",
+    "./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md",
+    "./docs/legal/CORRECTED_FRAUD_PROVISIONS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_detection_framework.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_appointment_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_pattern_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_optimization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_scale.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/claims_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_mechanics.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/incapacity_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/call_action_fraud.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2024to28February2025.PDF",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2017to29February2018.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/original_criminal_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pension_fraud_action.md",
+    "./jax-response/evidence-attachments/dan-technical/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2019to29February2020.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/system_evaluation_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_concealment.md",
+    "./docs/legal/frameworks/EMPLOYMENT_FRAUD_FRAMEWORK.md",
+    "./UPDATED_DRAFTS/analysis-main/comprehensive_revenue_hijacking_tax_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_mechanism_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/validate_timeline_using.md",
+    "./docs/RegimA WWD \u00b7 Reports \u00b7 Total sales over time by store \u00b7 Shopify Plus - 230701 to 251022.pdf",
+    "./ANNEXURES/JF08/evidence_package_20250523/RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/enable_fraud.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2022to28February2023.PDF",
+    "./evidence/2025-11-14-batch-3/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_theory.md",
+    "./evidence/shopify_reports/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ danie reports 250610.pdf",
+    "./jax-response/evidence-attachments/JF-CHESNO1-forensic-accounting-reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_discovery.md",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO1-forensic-accounting-reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/gaslight_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/perpetrator_using_courts.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/06_financial_fraud/hmrc_pension_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_may.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complex_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_integration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_clarifies_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_backdating_fraud.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2020to28February2021.PDF",
+    "./2DO/x/regima.com/dan@regima.com/Partial Contributions to Timeline_ RegimA _Group_ Financial Fraud (2017-2025).pdf",
+    "./evidence/2025-11-14-batch/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_threats.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/update_analysis_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_purpose.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_1_2022.md",
+    "./UPDATED_DRAFTS/analysis-main/PROFIT_EXTRACTION_FRAUD_ANALYSIS.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/13_march_2022.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/using_son.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme_discovered.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/psychiatric_evaluation_deadline.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2023to29February2024.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/practical_deadlines.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/using_peter_faucitt.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(4).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_shopify_email.md",
+    "./evidence/2025-11-14-batch-3/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf",
+    "./2DO/x/rzo.io/d@rzo.io/RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Billin.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_sophistication.md",
+    "./UPDATED_DRAFTS/analysis-main/ownership_intersection_fraud_map.md",
+    "./legal_analysis_2025_11/docx/RULE42(1)(a)APPLICATION-RESCISSIONFORFRAUD.docx",
+    "./docs/legal/annexures/JF02/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./docs/strategic/fraud-analysis/CHARITY_FRAUD_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_quantification.md",
+    "./KEY_EVENTS_TIMELINE_MARCH_AUGUST_2025.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_fraud_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_tschinder.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT 5N1QHQFP.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/investigation_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/RegimA WW+Zone \u00b7 Reports \u00b7 Total sales over time by store \u00b7 Shopify Plus ZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_kayla.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250523/RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_fraud_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/analysis_reports_the.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250523/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/enabled_fraud_instruments.md",
+    "./evidence/legal-analysis/DANIEL_EXPARTE_LEGAL_FRAMEWORK_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_fraud_report.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_indicators.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_confirmed_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/src/utils/configure_detailed_reports.py",
+    "./2DO/x/regima.com/dan@regima.com/Re_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi.pdf",
+    "./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_WITNESS_STATEMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/discrepancy_reports_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/added_daniel_faucitt.md",
+    "./evidence/witness_statements/DANIEL_WITNESS_STATEMENT_COMPLETION_STATUS.md",
+    "./docs/reports/verification/CHESNO_FRAUD_DOCUMENTATION_VERIFICATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_daniel_did.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/void_fraudulent_interdict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_legal_action.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/duration_extensions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/using_predefined_profiles.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_conduct.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/portray_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2021to28February2022.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_08_2016.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_type.md",
+    "./docs/legal/affidavits/daniel-affidavit-strategic-logistics.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/backdating_fraud.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md",
+    "./UPDATED_DRAFTS/analysis-main/src/fraud_analysis/payment_fraud_analyzer.py",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/annual_tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/perpetrator_using.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/readable_reports_the.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/card_payment_fraud.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF03/hmrc_pension_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/immediate_aftermath.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_improvements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_reports.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2023to29February2024.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_preparation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_warehouse_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_fraud.md",
+    "./evidence/2025-11-14-batch/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF",
+    "./case_2025_137857/02_evidence/evidence_package_20250523/RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./docs/strategic/fraud-analysis/TRUE_FRAUD_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_25_2016.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_15_2025.md",
+    "./evidence/financial-analysis/shopify-reports/RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_schemes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_asset_value.md",
+    "./evidence/2025-11-14-batch-2/RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/rezonance_payment_fraud_update.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/mail_fraud.md",
+    "./jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md",
+    "./UPDATED_DRAFTS/Fraudulent_Use_of_Interdict_and_Warehouse_Sabotage (1).docx",
+    "./evidence/emails/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/mr_daniel_jacobus.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/expected_fraudulent_allocations.md",
+    "./jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/analysis_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_risk_connection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_payment_fraud.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2023to29February2024.PDF",
+    "./evidence/compliance/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/tax_fraud_scheme_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_potential_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_overview_enhanced.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_indicators.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_documentation_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/computer_fraud_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/and_daniel.md",
+    "./ANNEXURES/JF08/evidence_package_20250523/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/claiming_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_director.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_share.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/expense_attribution_fraud.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2018to29February2019.PDF",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi.pdf",
+    "./evidence/emails/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/common_law_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_actors_table.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/using_function_composition.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/executive_summary_after.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/creditor_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_still_survives.md",
+    "./evidence/2025-11-14-batch/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/isolate_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/identity_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_evidence_submission.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/using_templates.md",
+    "./evidence/character-references/CHARACTER_REFERENCE_DANIEL_FAUCITT_2025-10-11.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/database_schema_extensions.md",
+    "./evidence/2025-11-14-batch-2/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/only_march.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/jax_confronted_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2020to28February2021.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_prevention.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_compliance_deadlines.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_29_deed_preamble_daniel.md",
+    "./evidence/2025-11-14-batch-3/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/creates_tax_fraud.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2024to28February2025.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_sends.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_scheme.md",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_shopify_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_law.md",
+    "./evidence/2025-11-14-batch-3/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf",
+    "./ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2025to28February2026.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/initial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_scheme.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/assessment_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_fraud.md",
+    "./evidence/2025-11-14-batch-3/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_flow_diagram.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/forensic_analysis_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/force_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/damages_claim_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/generate_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/backdating_fraud_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_investigation.md",
+    "./2DO/x/regima.zone/dan@regima.zone/danie reports 250610.pdf",
+    "./1-CIVIL-RESPONSE/annexures/JF-DANIEL-BANK-ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/prelim_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_assessment_reports.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2024to28February2025.PDF",
+    "./docs/legal/frameworks/MISREPRESENTATION_FRAUD_FRAMEWORK.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(3).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_cases_table.md",
+    "./UPDATED_DRAFTS/analysis-main/tools/ai_fraud_detector.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_amount.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_pattern_detection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_15_2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_warning_issued.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/forcing_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_method.md",
+    "./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2024to28February2025.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/action_fraud_report.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/drug_testing_deadline.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/2025-06-06_DAN_TO_BANTJIES_FRAUD_REPORTS.eml",
+    "./UPDATED_DRAFTS/analysis-main/entities/detailed_reports_generated.md",
+    "./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2021to28February2022.PDF",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF02/RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2020to28February2021.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/mail_redirection_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/existing_fraud_evidence.md",
+    "./evidence/emails/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf",
+    "./evidence/2025-11-14-batch/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_allocation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_proceeds.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_damages.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/connected_financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_this_evidence.md",
+    "./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2017to29February2018.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_tax_fraud.md",
+    "./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/deadline_established.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/framework_extension_the.md",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_flow_diagram.png",
+    "./jax-dan-response/evidence-attachments/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_1_2019.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraud_mechanism.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_21_2016.md",
+    "./evidence/annexures/JF-CHESNO1_FORENSIC_ACCOUNTING_REPORTS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/eliminate_daniel.md",
+    "./evidence/annexures/JF-DLA3_DANIEL_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/curatorship_fraud_evidence.md",
+    "./evidence/2025-11-14-batch-3/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/create_daniel_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/case_summary_reports.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2021to28February2022.PDF",
+    "./UPDATED_DRAFTS/analysis-main/docs/RegimA SA \u00b7 Reports \u00b7 Total sales over time by store \u00b7 Shopify Plus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/testing_deadlines.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_annual_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/immediate_tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/national_fraud_intelligence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_fraud_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/domain_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/documents_prove_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/action_fraud.md",
+    "./jax-response/evidence-attachments/dan-technical/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/for_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_act.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+    "./jax-response/evidence-attachments/CHESNO-FRAUD-EVIDENCE-INDEX.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_march.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_1_2017.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sales_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/serious_fraud_office.md",
+    "./docs/legal/annexures/JF08/evidence_package_20250523/RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./evidence/emails/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/discredit_daniel.md",
+    "./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md",
+    "./docs/legal/ULTIMATE_FRAUD_PROVISIONS.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2017to29February2018.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/strength_after_validation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraud.md",
+    "./jax-response/evidence-attachments/dan-technical/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md",
+    "./evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf",
+    "./evidence/2025-11-14-batch/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_classification_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/excess_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/case_analysis_reports.md",
+    "./2DO/x/regima.com/dan@regima.com/AD NOTES - DANIEL JAMES FAUCITT.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/through_action_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/summary_reports.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2019to29February2020.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_using_templates.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2020to28February2021.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_sends_complete.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/on_march.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/compliance_deadline_tracker.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/allocation_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/making_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/invoice_fraud.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2025to28February2026.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_risks.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/reports_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_law_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/rezonance/financial_reports/payment_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_through_misrepresentation.md",
+    "./evidence/annexures/JF-WS1_DANIEL_WITNESS_STATEMENT_HAS_ANYTHING_CHANGED.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_march.md",
+    "./jax-response/evidence-attachments/JF-CHESNO4-insolvency-assessment-pre-daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2023to29February2024.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/enabled_fraud_threats.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/using_interdict_against_company_a_to_sabotage_comp.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ FW_ MARCH 2023 CIPC ANNUAL RETURNS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/harass_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/call_serious_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_sequence.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250523/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./jax-response/evidence-attachments/dan-technical/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/performance_after_may.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_invoice_conspiracy.md",
+    "./legal_analysis_2025_11/scheme_files/south_african_forensic_analysis_systematic_fraud_narrative.scm",
+    "./lex/evid/za/south_african_evidence_systematic_fraud_patterns.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraud_exposed.md",
+    "./ANNEXURES/JF02/RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_daniel_told.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/transformer_extension.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_interdict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/eliminated_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_scope_extension.md",
+    "./2DO/x/regima.zone/jax@regima.zone/meeeting confirmed 2 pm Friday, 26 September 2025 THE LEONARDO JACQUI & DANIEL F.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_payment_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/systematic_sabotage_and_curatorship_fraud_evidence.md",
+    "./jax-dan-response/rule-42-rescission/FOUNDING_AFFIDAVIT_Daniel_Faucitt_Rule_42.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/specific_fraud_mechanism.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_bank_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/interest_fraud.md",
+    "./lex/civ-proc/za/south_african_civil_procedure_ex_parte_fraud.scm",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/ownership_intersection_fraud_map.png",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_james_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_allegations.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(2).pdf",
+    "./UPDATED_DRAFTS/analysis-main/DANIEL_AUTONOMY_STRATEGY.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_invoice_claims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_evidence_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/generate_enhanced_reports.md",
+    "./jax-dan-response/evidence-attachments/comprehensive_fraud_timeline_2017_2025.md",
+    "./docs/reports/completion/DANIEL_TECHNICAL_PERSPECTIVE_IMPLEMENTATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enables_tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/case_draft_docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/custody_reports_complete.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/following_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_actors.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_fraud_scheme.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2025to28February2026.PDF",
+    "./evidence/annexures/JF-CHESNO4_INSOLVENCY_ASSESSMENT_PRE_DANIEL.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rynette_farrar_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/RegimA SA \u00b7 Reports \u00b7 Total sales over time by store \u00b7 Shopify Plus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_detection_risks.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_happens_after.md",
+    "./UPDATED_DRAFTS/analysis-main/CRITICAL_FRAUD_TIMELINE_UPDATE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_09_2016.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2018to29February2019.PDF",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/06_financial_fraud/hmrc_pension_fraud_action_plan.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/wire_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/year_fraud.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2020to28February2021.PDF",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2022to28February2023.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_31_2021.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_perez_repository.md",
+    "./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2023to29February2024.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_card_stopped_working_around_march.md",
+    "./UPDATED_DRAFTS/analysis-main/march_2025_bank_statement_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/denying_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/hypergnn_fraud_highlights.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250523/RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/expert_reports.md",
+    "./lex/FAKE_ACCOUNTS_FABRICATION_FRAUD_2025-11-18.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_28_2022.md",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_overview_enhanced.png",
+    "./UPDATED_DRAFTS/analysis-main/entities/corporate_fraud_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_report.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/protect_daniel_faucitt.md",
+    "./evidence/shopify_reports/RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+    "./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2021to28February2022.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_implementation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_investigation.md",
+    "./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2019to29February2020.PDF",
+    "./evidence/annexures/JF-CHESNO3_POLICE_REPORTS_FRAUD_INVESTIGATION.md",
+    "./docs/legal/affidavits/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md",
+    "./UPDATED_DRAFTS/WAREHOUSE_FRAUD_PERJURY_CENTRAL_EVIDENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_survives.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_facilitation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/verification_reports_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/mr_daniel_jacobus_bantjes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_structure_created.md",
+    "./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2025to28February2026.PDF",
+    "./UPDATED_DRAFTS/analysis-main/evidence/august_2025_fraudulent_appointment_analysis.md",
+    "./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_WITNESS_STATEMENT.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2017to29February2018.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/using_deployment_script.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates_all.md",
+    "./evidence/2025-11-14-batch-2/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf",
+    "./evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./lex/civ/za/south_african_civil_procedure_ex_parte_fraud_rescission.scm",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/deduction_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/integration_reports.md",
+    "./2DO/x/regima.zone/jax@regima.zone/DAN REPORTS SENT FOR EXPENSES FRAMEWORK.pdf",
+    "./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2018to29February2019.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/generate_analysis_reports.md",
+    "./evidence/2025-11-14-batch/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme_evolution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_insights.md",
+    "./evidence/witness_statements/DANIEL_WITNESS_STATEMENT_JF5_SETTLEMENT_EXCHANGE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates_everything.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2018to29February2019.PDF",
+    "./docs/legal/annexures/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_fraud.md",
+    "./evidence/legal-analysis/DANIEL_EXPARTE_LEGAL_FRAMEWORK_ANALYSIS.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_summary_reports.md",
+    "./docs/legal/annexures/JF08/evidence_package_20250523/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_perez.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_fraud_losses.md",
+    "./lex/SHOPIFY_REVENUE_FRAUD_REGIMA_ZONE_UK_OWNERSHIP_2025-11-18.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_1_2025.md"
+  ],
+  "ad_res_j7_references": [
+    "See files related to: Daniel, finalized, reports, uncovering, fraud, after, using, March, deadline, extension"
+  ],
+  "crime_category": "fraud",
+  "phase": "PHASE_004",
+  "event_subtype": "fraud_discovery_fraud_uncovering",
+  "github_pages_reference": "https://cogpy.github.io/revstream1/applications.md#event_011",
+  "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+  "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+  "evidence_urls": [
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/international_fraud_implications.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/fraud_charges.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/fraud_analysis_module.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/evidence/2025-11-14-batch/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf",
+    "https://github.com/cogpy/ad-res-j7/blob/main/evidence/2025-11-14-batch-3/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf"
+  ],
+  "github_pages_url": "https://cogpy.github.io/revstream1/events/EVENT_011.html",
+  "timeline_reference": "https://cogpy.github.io/revstream1/timeline.html#EVENT_011",
+  "related_application": "APPLICATION_1",
+  "application_url": "https://cogpy.github.io/revstream1/application-1.html",
+  "ad_res_j7_evidence": [
+    {
+      "source": "case_2025_137857/",
+      "description": "Case documentation and analysis",
+      "url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857"
+    },
+    {
+      "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "description": "Complete evidence catalog (2,866 files)",
+      "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
+    }
+  ],
+  "ad_res_j7_cross_references": [
+    "Evidence documented in ad-res-j7 repository",
+    "See ANNEXURES for event EVENT_011",
+    "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+  ],
+  "evidence_references": [
+    "case_2025_137857/02_evidence/",
+    "ANNEXURES/",
+    "docs/"
+  ]
+}
+```

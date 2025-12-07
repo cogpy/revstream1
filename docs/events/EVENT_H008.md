@@ -1,983 +1,1027 @@
-# Bantjies Trial Balance Email Distribution
+---
+layout: default
+title: Bantjies Trial Balance Email Distribution
+---
+# Bantjies Trial Balance Email Distribution (EVENT_H008)
 
-**Event ID:** `EVENT_H008`
 **Date:** 2020-08-13
 
-- **Category:** evidence_documentation
-- **Event Type:** financial_system_control
-- **Perpetrators:** 
-  - PERSON_007
-- **Victims:** 
-  - 
-- **Entities Involved:** 
-  - PERSON_007
-  - PERSON_010
-- **Description:** Email from Danie Bantjies with final trial balances to Bernadine Wright, Jax, Peter, Rynette, Daniel for financial statement finalization meeting
-- **Financial Impact:** unknown
-- **Legal Significance:** evidence_of_bantjies_control_over_financial_systems
-- **Evidence:** 
-  - Email-body.html
-  - trial_balance_attachments
-- **Pattern:** historical_foundation
-- **Timeline Phase:** PHASE_000
-- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
-- **Related Applications:** 
-  - APPLICATION_1
-  - APPLICATION_2
-- **Evidence Files:** 
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_relationships.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_flow_agents.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/REG-TRIALBALANCE.xlsx
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_communication_compromise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/if_bantjies.md
-  - ./evidence/2025-11-14-batch-3/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf
-  - ./evidence/2025-11-14-batch/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_crimes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_risks_beyond.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/meeting_context.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_espeset.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_reports_murder.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_complexity.md
-  - ./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md
-  - ./evidence/financial-analysis/trial-balances/VV-TRIALBALANCEAPR20202.xlsx
-  - ./UPDATED_DRAFTS/analysis-main/evidence_mapping_shopify_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/income_statement_changes.md
-  - ./UPDATED_DRAFTS/DRAFT_EVALUATION_WITH_DANIE_BANTJIES_PERJURY.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statement_defense.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_financial_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/ocr-email-cc-analysis-critical-findings.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/ocr-analysis-email-cc-implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/dan_email.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_4_RELIEF_REQUIRED_JOINT_STATEMENT.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Statement of IP Ownership of the RégimA Zone Skin Care Range.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_server_records.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/rst_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/their_sworn_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_analysis_summary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_financial_decision.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_documentation.md
-  - ./evidence/financial-analysis/trial-balances/SL-TRIALBALANCE2020.xlsx
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/settlement-agreement-jf5/JF5-COMPARISON_Draft_vs_Final_Analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_correspondence.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md
-  - ./UPDATED_DRAFTS/analysis-main/UNIFIED_FINANCIAL_INTERESTS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pay_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_bank_statement.md
-  - ./evidence/2025-11-14-batch/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
-  - ./evidence/character-references/CHARACTER_REFERENCE_DANIEL_FAUCITT_2025-10-11.md
-  - ./jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_unauthorized_financial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_trial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_control_evidence.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statement_enhancement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_supporting_daniel.md
-  - ./database/data/jr_responses_complete_FINAL.csv
-  - ./evidence/emails/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_financial_sabotage.md
-  - ./evidence/emails/jaz-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_impact_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_address.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_platform_hijacking.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/addressing_problem_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/rst_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/showing_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_path.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_hijacking.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_clauses.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_impact_calculation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_data_analysis.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.md
-  - ./2DO/x/regima.zone/jax@regima.zone/FW_ Bank statement.pdf
-  - ./jax-response/evidence-attachments/dan-technical/SECTION_4_RELIEF_REQUIRED_JOINT_STATEMENT.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_harm_calculation.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/group_financial_analysis.md
-  - ./evidence/computer-expenses/Consolidated Bank Balances Analysis Template.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/appointment_statement.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251009/email_analysis_findings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_financial_fraud.md
-  - ./evidence/2025-11-14-batch/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/financial_flow_network.png
-  - ./evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_recipients_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_obfuscation_techniques.md
-  - ./evidence/2025-11-14-batch/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
-  - ./evidence/annexures/JF5-COMPARISON_DRAFT_VS_FINAL_CHANGES.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_authentication.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_bill_finally.md
-  - ./docs/legal/annexures/JF08/evidence_package_20250606/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/trial_phase.md
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO4-insolvency-assessment-pre-daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_evidence_integration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_coercion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies_coordination.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/ADDRESS FOR MEETING.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_from.md
-  - ./evidence/2025-11-14-batch-3/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/statement_date.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/email-body.html
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ I NEED TO SEE THE AMOUNT IN MY PERSONAL ACCOUNT - [External Email](1).pdf
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trial_balance_excel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_for_the_period.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/confirms_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/false_statements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_fauc.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/operations_are_financially.md
-  - ./evidence/fake_accounts/RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_desperation.md
-  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_emails.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_extraction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_controls.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_financial_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_file.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_WITNESS_STATEMENT.md
-  - ./evidence/compliance/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_james.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_re.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_institutions_notification.md
-  - ./evidence/witness-statements/templates/TEMPLATE_DANIEL_SHOPIFY_PLATFORM_OWNERSHIP.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_misallocation_crisis.md
-  - ./UPDATED_DRAFTS/analysis-main/truth_vs_deception_final_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_support.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/all_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_incentives.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/potentially_danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_requests_computer.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_disruption.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_intelligence_centre.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_harm_enhanced.md
-  - ./evidence/property_unit9_southview_park/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/remove_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_risks.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_analysis.md
-  - ./docs/reports/completion/FINAL_AFFIDAVITS_SUMMARY.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
-  - ./jax-dan-response/evidence-attachments/JF5_FINAL_SETTLEMENT_AGREEMENT.md
-  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/documented_financial_events.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_now_faces.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/slg_financial_analysis.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF5_ADDERORY_DOMAIN_WITH_EMAILS.pdf
-  - ./evidence/2025-11-14-batch-3/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/recommended_urgent_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/hawks_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_instruments.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proved_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_evidence_links.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_jacobus_bantjes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_institution_notification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_transfer.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_evidence_has_revealed_a_com.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_institution_agents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_claims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_opportunity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_hub.md
-  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_calculations.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT DKCBCWFP.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/case_planning_meeting.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_period.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_community.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ danie reports 250610.pdf
-  - ./UPDATED_DRAFTS/UBUNTU_PRINCIPLE_KAYLA_DANIEL_GIVING_AWAY_R100M_COMPREHENSIVE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/establishes_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_trial_milestones.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_recipients.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_email_campaign.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_regarding_regima_group.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_analysis_completion.md
-  - ./evidence/witness-statements/templates/TEMPLATE_JACQUELINE_FINANCIAL_OVERSIGHT.md
-  - ./evidence/2025-11-14-batch-3/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_integration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/slg_financial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fbi_financial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/joint_financial_interest.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/personal_email_usage.md
-  - ./jax-response/dan-response-materials/financial_allegations_rebuttal_matrix.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/group_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/reimburse_daniel.md
-  - ./backups/pre-consolidation/jax-response/AD/1-Critical/FINANCIAL_HYPERGRAPH_TIMELINE_LINKS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_spoofing.md
-  - ./ad-hypergraph-mapping/bantjies_agent_mapper.py
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/ocr-analysis-email-cc-implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_mechanisms.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_fraud.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/CONVERTED_EMAIL_EVIDENCE_-_COURT-READY_DOCUMENTATION_(UPDATED).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_systems.md
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO2-bank-statements-unauthorized-transfers.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/suspected_false_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/rezonance/financial_reports/financial_analysis_summary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_facts_summary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/for_daniel_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_impact.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_misconduct_claims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/secure_email_communications.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Statement of IP Ownership of the RégimA Zone Skin Care Range.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure_destruction.md
-  - ./UPDATED_DRAFTS/2_YEAR_ACCOUNTING_BLACKOUT_AFTER_KAYLA_EMAIL_SEIZURE.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_flexibility.md
-  - ./UPDATED_DRAFTS/analysis-main/EVIDENCE_EXTRACTION_NEW_EMAILS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/connected_financial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/against_danie_bantjies.md
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/settlement-agreement-jf5/JF5-FINAL_Settlement_Agreement_Signed_Version.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/secure_bank_statement.md
-  - ./jax-response/evidence-attachments/dan-technical/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Final TB's.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_compliance_directive.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/excel_trial_balance.md
-  - ./jax-dan-response/financial_allegations_rebuttal_matrix.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_manipulation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_financial.md
-  - ./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/deter_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/email-body.html
-  - ./evidence/bantjies_investment_payout_forecast.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_financial_impact.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_analysis.md
-  - ./evidence/2025-11-14-batch-3/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_level.md
-  - ./evidence/emails/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/entity_financial_forensics.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/needed_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_financial_infrastructure.md
-  - ./docs/legal/affidavits/jax-affidavit-financial-hemorrhage.md
-  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_addresses.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_critical_financial.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF8_LINDA_EMPLOYMENT_WITH_EMAILS.pdf
-  - ./evidence/financial-analysis/trial-balances/REG-TRIALBALANCE.xlsx
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_analysis_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_financial_misallocation.md
-  - ./ad-hypergraph-mapping/BANTJIES_COMPLETE_HYPERGRAPH_VISUALIZATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/combined_financial_harm.md
-  - ./backups/pre-consolidation/jax-response/source-documents/FINAL_AFFIDAVIT_CHANGES_LOG.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjes_on.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_recovery_planning.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/claims_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_obligation_language.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_servers.md
-  - ./2DO/x/regima.zone/jax@regima.zone/Fw_ Statement from Ozow (Pty) Ltd for RegimA Skin Treatments.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_through.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_communication_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_engine.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/border_financial_crime.md
-  - ./jax-response/evidence-attachments/dan-technical/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./ANNEXURES/JF08/evidence_package_20251012/email-body.html
-  - ./jax-dan-response/AD/1-Critical/PARA_10_5-10_10_23_DAN_FINANCIAL.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025_automated/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_evidence_summary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/against_danie_bantjes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_dependency.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/COMPREHENSIVE_FINANCIAL_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_burden_shifting.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/finalize_evidence_package.md
-  - ./evidence/bank-statements/regima-sa/REGIMA_SA_BANK_STATEMENT_2025-03-06.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_email_address.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statement_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_loop.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_red_flags.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/from_email_accounts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_closing_balance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_instrument.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/hi_danie.md
-  - ./jax-dan-response/criminal-complaint/annexures/ANNEXURE_JAF4_Witness_Statement_Employee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_package.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_bank_statements.md
-  - ./lex/LEX_REFINEMENT_SUMMARY_2025-11-17_FINAL.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/03_supporting_affidavit_bantjies_medical.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ danie reports 250610.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_advisors.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/about_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_income_performance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_problem_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_financial_context.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/gaslight_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_misconduct.md
-  - ./jax-response/evidence-attachments/dan-technical/COMPREHENSIVE_FINANCIAL_ANALYSIS.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_FINAL_SETTLEMENT_AGREEMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_regarding_financial_analysis_of_regima_group.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/threat_weaponization_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/against_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/activity_financial_periods.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_integration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_clarifies_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/framing_persistence_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/VV-TRIALBALANCEAPR20202.xlsx
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination_pattern.md
-  - ./OPTIMIZATION_SUMMARY_FINAL.txt
-  - ./2DO/x/regima.com/dan@regima.com/Partial Contributions to Timeline_ RegimA _Group_ Financial Fraud (2017-2025).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/morning_danie_hope.md
-  - ./evidence/2025-11-14-batch/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_verification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/impartiality_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_service_provider.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_email.md
-  - ./UPDATED_DRAFTS/BANTJIES_ULTIMATE_CONTROL_POWER_STRUCTURE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_corruption.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/did_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_financial_management.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_verification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_year_start.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_information.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_harm_summary.md
-  - ./ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_proves.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/email_compliance_directive_2025-07-08.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_structure.md
-  - ./evidence/bank-statements/regima-sa/REGIMA_SA_BANK_STATEMENT_2024-10-07.md
-  - ./evidence/bank-statements/regima-sa/REGIMA_SA_BANK_STATEMENT_2024-10-07.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_shopify_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_statement.md
-  - ./ANNEXURES/SF1_Bantjies_Debt_Documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence_shows.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_institution.md
-  - ./evidence/2025-11-14-batch-3/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf
-  - ./jax-response/source-documents/FINAL_AFFIDAVIT_SUMMARY.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/statement_period.md
-  - ./jax-response/evidence-attachments/dan-technical/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_tschinder.md
-  - ./jax-dan-response/annexures/DAN-IT/DAN-IT-002_RegimA_Financial_Records_IT_Spend_2024.md
-  - ./evidence/correspondence/JF8B_EMAIL_COOPERATION_CHAINS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trial_preparation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trial_strategy.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT 5N1QHQFP.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain.md
-  - ./2DO/x/regima.zone/jax@regima.zone/Re_ Savings Statement - 01_11_2025 _9240.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_reporting.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_leverage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_change.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_discrepancy_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/integrated_financial_management.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/has_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/subpoena_bantjies.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251009/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge_level.md
-  - ./backups/pre-consolidation/jax-dan-response/medium_priority_responses/additional_financial_claims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_structure_exploitation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_performance_metrics.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/informs_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_financial_metrics.md
-  - ./evidence/legal-analysis/DANIEL_EXPARTE_LEGAL_FRAMEWORK_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251009/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/knowledge_confirmed_daniel.md
-  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_WITNESS_STATEMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/reveals_email_address.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_strain_period.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_revelation_impact.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_burden.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_quantification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_email_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_server.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/use_bantjies.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_COMPARISON_DRAFT_VS_FINAL.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/added_daniel_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_trial_balance_analysis.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_anomalies_detected.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF3_STRATEGIC_LOGISTICS_WITH_EMAILS.pdf
-  - ./evidence/witness_statements/DANIEL_WITNESS_STATEMENT_COMPLETION_STATUS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/false_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_daniel_did.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/recommended_statement.md
-  - ./jax-dan-response/medium_priority_responses/additional_financial_claims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/prepare_witness_statements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_communications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_reinforcing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/portray_daniel.md
-  - ./docs/legal/affidavits/daniel-affidavit-strategic-logistics.md
-  - ./jax-response/analysis-output/FINAL_SUMMARY_v3.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/that_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_crisis_escalation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjured_statements.md
-  - ./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md
-  - ./jax-response/evidence-attachments/settlement-agreement-jf5/JF5-FINAL_Settlement_Agreement_Signed_Version.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_date.md
-  - ./docs/legal/FINAL_CORRECTED_PROVISIONS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/problem_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_now.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/entity_financial_tracking.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/verified_email_control.md
-  - ./jax-response/source-documents/ANSWERING_AFFIDAVIT_-_JACQUELINE_FAUCITT_(FINAL_DRAFT_FOR_REVIEW_BYJAX).docx
-  - ./ANNEXURES/SF4_SARS_Audit_Email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/first_attorney_meeting.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_assertion.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ FNB Statement_ _REGIMA SA (PTY) LTD - 2025-07-27 - 62896473974.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/entity_financial_crime.md
-  - ./evidence/2025-11-14-batch/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./docs/legal/annexures/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_flow_visualization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_impersonation_escalation.md
-  - ./2DO/x/regima.zone/dan@regima.zone/danie request.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_schemes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_chain.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_irregularity_discovery.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/million_bantjies_debt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/statement_evidence.md
-  - ./jax-response/evidence-attachments/dan-technical/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_forensics_opportunities.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_financial_and_operational_records.md
-  - ./UPDATED_DRAFTS/analysis-main/sync_trial_balance_to_neon.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_relief.md
-  - ./evidence/emails/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/letter_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/mr_daniel_jacobus.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_with_shopify_historical_p.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_financial_access.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_communications.md
-  - ./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.png
-  - ./UPDATED_DRAFTS/analysis-main/entities/witness_statements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trial_balance_email.md
-  - ./evidence/compliance/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
-  - ./jax-dan-response/evidence-attachments/JF-BS1_R500K_PAYMENT_BANK_STATEMENT.md
-  - ./jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_email_print.md
-  - ./docs/legal/evidence/FINANCIAL_LOSS_EVIDENCE_MATRIX.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_independence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_documentation_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_hub_role.md
-  - ./evidence/identity-documents/BANTJIES_ID_DOCUMENT.pdf
-  - ./2DO/x/rzo.io/d@rzo.io/no other mail from Danie between 2023-02-27 until 2025-06-03.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/and_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/claiming_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_director.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domains.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_share.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_flow_analysis.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Draft financial.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_transactions.md
-  - ./evidence/emails/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_reality_documented.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_supervision.md
-  - ./jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md
-  - ./jax-response/AD/dan-perspective/1-Critical/PARA_10_5-10_10_23_DAN_FINANCIAL.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_still_survives.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trial_balance_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_finalization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_intelligence_units.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_instability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/isolate_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shared_financial_future.md
-  - ./evidence/2025-11-14-batch/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md
-  - ./jax-response/analysis-output/FINAL_SUMMARY_v3.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_activity_peak.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_mechanisms.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_investment_payout.md
-  - ./evidence/character-references/CHARACTER_REFERENCE_DANIEL_FAUCITT_2025-10-11.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence_invalid.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_institutions_alert.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/witness_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_address_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statement_credits.md
-  - ./backups/pre-consolidation/jax-dan-response/financial_allegations_rebuttal_matrix.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sue_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_recovery.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md
-  - ./reports/financial-evidence-verification-report.json
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_29_deed_preamble_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/prepare_bank_statement.md
-  - ./evidence/2025-11-14-batch-3/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf
-  - ./FINAL_ANSWERING_AFFIDAVIT_ABRIDGED.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statement_end.md
-  - ./lex-inference-engine/output/final_prosecution_soundness_assessment.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_crisis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_sends.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_financial_exploitation.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/FINAL_SUMMARY_v3.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_access.md
-  - ./jax-dan-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_communications.md
-  - ./UPDATED_DRAFTS/JUNE_6_10_EMAILS_DANIE_BANTJIES.txt
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_control_structure.md
-  - ./evidence/annexures/JF5-FINAL_SETTLEMENT_AGREEMENT_SIGNED.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_financial_crime.md
-  - ./docs/strategic/fraud-analysis/FINANCIAL_EXTRACTION_ANALYSIS.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_misallocation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_information.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_email_proves.md
-  - ./2DO/x/regima.com/dan@regima.com/Part B - The Final Relief That Never Happened.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_evidence.md
-  - ./evidence/2025-11-14-batch-3/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF6_KAYLA_ESTATE_WITH_EMAILS.pdf
-  - ./jax-dan-response/evidence-attachments/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md
-  - ./jax-response/source-documents/FINAL_ASSESSMENT_Jacqui_Affidavit_(Reconstructed_Version).docx
-  - ./2DO/x/regima.com/dan@regima.com/Mr.Bantjies Forgot to Include in His Affidavit.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/relationship_implications_the_financial_relationsh.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_financial_audit.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/vva_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_details.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_update.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statement_payment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/reveals_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_extraction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_financial_information.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Statements.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/corrected_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_real_financial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/material_false_statements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_strangulation_escalation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_criminal_complaint.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_manipulation_blueprint.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Proof of addresses _ Mandates - [External Email].pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/employee_witness_statements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_status.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/statements_were_made.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trial_procedures.md
-  - ./evidence/2025-11-14-batch-3/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ I NEED TO SEE THE AMOUNT IN MY PERSONAL ACCOUNT - [External Email].pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/force_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/damages_claim_daniel.md
-  - ./docs/legal/affidavits/FINAL_ANSWERING_AFFIDAVIT_ABRIDGED.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/opening_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/via_bantjies.md
-  - ./jax-response/AD/1-Critical/FINANCIAL_HYPERGRAPH_TIMELINE_LINKS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_investigation.md
-  - ./2DO/x/regima.zone/dan@regima.zone/danie reports 250610.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/proves_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_represents_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_hub_evolution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_plus_meeting.md
-  - ./Revenue_Stream_Hijacking_by_Rynette/01_POPIA_Compliant_System/Financial_Accounting/Financial_Transparency_System.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_dependency_inversion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_financial_logic.md
-  - ./1-CIVIL-RESPONSE/annexures/JF-DANIEL-BANK-ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_mismanagement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/entity_financial_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/Email-2025-08-11-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_revelation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation.md
-  - ./evidence/financial-analysis/group_financial_analysis.md
-  - ./ANNEXURES/JF08/evidence_package_20251009/email_analysis_findings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_statements.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.jpg
-  - ./case_2025_137857/02_evidence/evidence_package_20250606/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_amounts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_takeover.md
-  - ./2DO/x/proton.me/regizone@proton.me/Fw_ Statements.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_cc_equals.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250606/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_impact_assessment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/receives_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_plus_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statements.md
-  - ./ANNEXURES/JF08/evidence_package_20250606/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/forcing_daniel.md
-  - ./UPDATED_DRAFTS/BANTJIES_DEBTOR_MOTIVE_CRIMINAL_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_pattern_analysis.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/slg_financial_analysis.md
-  - ./lex/DAN_COMPLETE_FINANCIAL_PICTURE_JUNE_OCT_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_sends_email.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-06_DAN_TO_BANTJIES_FRAUD_REPORTS.eml
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/Email_Attachments_Extraction_Summary.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_patterns_detected.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_vulnerability.md
-  - ./2DO/x/regima.zone/dan@regima.zone/We've Got a New Email Address!.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/therefore_bantjies.md
-  - ./jax-dan-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.json
-  - ./evidence/emails/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_similarities.md
-  - ./evidence/2025-11-14-batch/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf
-  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_seizure.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/possibly_danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/connected_financial_fraud.md
-  - ./ANNEXURES/JF08/evidence_package_20251009/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_financial_drain.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/consolidated_bank_balances_across_the_group.md
-  - ./jax-dan-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.json
-  - ./evidence/correspondence/dan-bantjies-jun2025/rwd_financial_analysis-v2.md
-  - ./evidence/bantjies_debt/BantjiesInvestmentPayoutDates2026-05.jpg
-  - ./jax-response/evidence-attachments/dan-technical/JF5_FINAL_SETTLEMENT_AGREEMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_data.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_transaction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_shopify_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/original_email_date.md
-  - ./UPDATED_DRAFTS/analysis-main/complete_evidence_integration_with_bank_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/unified_financial_interests.md
-  - ./docs/reports/completion/TASK_COMPLETION_DIRECTOR_LOAN_STATEMENTS.md
-  - ./jax-dan-response/evidence-attachments/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_mismanagement_setup.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_hijacking.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_resources.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-BS1_R500K_PAYMENT_BANK_STATEMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_extraction_mechanism.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shows_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/eliminate_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_services.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_summary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/missing_financial_records.md
-  - ./evidence/annexures/JF-DLA3_DANIEL_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corrected_statements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_status.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_risk.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_provides.md
-  - ./evidence/financial-analysis/trial-balances/WW-TrialBalanceFEB20.xlsx
-  - ./UPDATED_DRAFTS/analysis-main/entities/primary_financial_periods.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_misallocation_discovery.md
-  - ./jax-response/evidence-attachments/settlement-agreement-jf5/JF5-COMPARISON_Draft_vs_Final_Analysis.md
-  - ./evidence/2025-11-14-batch-3/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ FNB Statement_ _REGIMA SA (PTY) LTD - 2025-07-27 - 62896474196.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_faces.md
-  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_protection_measures.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/create_daniel_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_risk_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_records.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/potentially_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_assets.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_financial_hub.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/reference_all_email.md
-  - ./evidence/bank-statements/regima-sa/REGIMA_SA_BANK_STATEMENT_2025-03-06.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/trial_proceedings.md
-  - ./UPDATED_DRAFTS/FINAL_EVIDENCE_PACKAGE_SUMMARY.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/adding_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/bantjies_investment_payout_analysis.md
-  - ./jax-dan-response/annexures/2025-11-14-evidence-batch/ANNEXURE_C_Trustee_Appointment_Email_2024-07-01.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies.md
-  - ./jax-response/evidence-attachments/dan-technical/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md
-  - ./backups/pre-consolidation/jax-response/source-documents/FINAL_ASSESSMENT_Jacqui_Affidavit_(Reconstructed_Version).docx
-  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/for_daniel.md
-  - ./database/data/dr_responses_complete_FINAL.csv
-  - ./evidence/identity-documents/BANTJIES_ID_DOCUMENT.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Final TB's(1).pdf
-  - ./evidence/intellectual-property/StatementofIPOwnershipforRégimAZone.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_security.md
-  - ./jax-response/evidence-attachments/JF-CHESNO2-bank-statements-unauthorized-transfers.md
-  - ./evidence/analysis/timelines/timeline_with_trial_balances.pdf
-  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjie.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_association.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/discredit_daniel.md
-  - ./evidence/emails/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/evidence/UK_Bank_Statement_Shopify_Payments_Analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_investigation_targets.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_account_takeover.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sophisticated_financial_crimes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/unauthorized_financial_control.md
-  - ./UPDATED_DRAFTS/analysis-main/extract_trial_balance_data.py
-  - ./UPDATED_DRAFTS/SARS_AUDIT_EMAIL_BANTJIES_INSTRUCTIONS_SMOKING_GUN.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_review.md
-  - ./ad-hypergraph-mapping/bantjies_hypergraph_analysis_report.json
-  - ./jax-response/evidence-attachments/dan-technical/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_crime_quantification.md
-  - ./evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_this.md
-  - ./evidence/2025-11-14-batch/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/BANTJIES_DEBT_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_structure_establishment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_email_package.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_evidence_verification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/prepare_opening_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/victim_impact_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_analysis.md
-  - ./.github/agents/Complete_Gizmo_Classification_FINAL.md
-  - ./2DO/x/regima.com/dan@regima.com/AD NOTES - DANIEL JAMES FAUCITT.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statement_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proves_financial_motive.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statement_submission.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_manipulation.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Final TB's.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_flow_reconstruction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_sends_complete.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_email_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/subpoena_danie_bantjes.md
-  - ./jax-dan-response/evidence-attachments/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_context.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/making_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/prepare_press_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure.md
-  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_misappropriation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_analyst.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/material_false_statement.md
-  - ./2DO/x/regima.zone/jax@regima.zone/FW_ Email restriction.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_expenses.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251009/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_interest.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_system.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_controls.md
-  - ./docs/legal/affidavits/FINAL_ANSWERING_AFFIDAVIT_COMPLETE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_cycle.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/how_email.md
-  - ./evidence/annexures/JF-WS1_DANIEL_WITNESS_STATEMENT_HAS_ANYTHING_CHANGED.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_debt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies_financial.md
-  - ./jax-response/evidence-attachments/JF-CHESNO4-insolvency-assessment-pre-daniel.md
-  - ./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md
-  - ./backups/pre-consolidation/jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-FINAL.docx
-  - ./evidence/annexures/JF-RF2_EMAIL_PROVIDING_PASSWORDS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_hub_sustainability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_institution_serving_regima_group.md
-  - ./scripts/verify-financial-evidence.js
-  - ./UPDATED_DRAFTS/analysis-main/bank_statement_shopify_correlation_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_decision.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/collect_witness_statements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_loop.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/harass_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_reporting_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_role.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_financial_actors.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/morning_danie.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_targeting_phase.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/combined_financial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_financial_review.md
-  - ./reports/FINANCIAL_LOSS_EVIDENCE_VERIFICATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bernadine_wright.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/staggered_financial_year.md
-  - ./FINAL_ANSWERING_AFFIDAVIT_COMPLETE.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statement_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/your_statement.md
-  - ./jax-dan-response/evidence-attachments/JF5_COMPARISON_DRAFT_VS_FINAL.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_daniel_told.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_case.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_crimes_unit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_false_impartiality.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/eliminated_daniel.md
-  - ./2DO/x/regima.zone/jax@regima.zone/meeeting confirmed 2 pm Friday, 26 September 2025 THE LEONARDO JACQUI & DANIEL F.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_consolidation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/individual_financial_liability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_cc.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_evidence_analysis_report.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/unknown_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_revelations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_weapon.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_exploitation.md
-  - ./jax-dan-response/rule-42-rescission/FOUNDING_AFFIDAVIT_Daniel_Faucitt_Rule_42.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trial_balances.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_balance.md
-  - ./evidence/annexures/JF-CHESNO2_BANK_STATEMENTS_UNAUTHORIZED_TRANSFERS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_flow_indicators.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_motivations.md
-  - ./2DO/x/regima.zone/dan@regima.zone/Fw_ STOCK2SHOP (PTY) Ltd Statement of Account for period 01 Jan 25 - 19 Jun 25.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_submission_for.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_access.md
-  - ./jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_operations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_financial_harm.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251012/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/false_statements_were.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_james_faucitt.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_activity.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Finally a Solution to the Tech Scaling Problem for Diagnostics - Re_ General.pdf
-  - ./UPDATED_DRAFTS/analysis-main/DANIEL_AUTONOMY_STRATEGY.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_debt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_intelligence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_to.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_financial_exploitation.md
-  - ./docs/reports/completion/DANIEL_TECHNICAL_PERSPECTIVE_IMPLEMENTATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_timeline.md
-  - ./jax-dan-response/evidence-attachments/COMPREHENSIVE_FINANCIAL_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_financial_management.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/invert_financial_reality.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_email_receipt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_analysis.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF4_SARS_AUDIT_WITH_EMAILS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/section_financial_evidence.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ FNB Statement_ _REGIMA SA (PTY) LTD - 2025-03-06 - 62707308252.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_forensics.md
-  - ./lex/DAN_BANK_STATEMENTS_ANALYSIS_R500K_TRANSFER_2025-11-18.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/following_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pending_final_determination.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_isolation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence_summary.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251009/email_analysis_findings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_motivation.md
-  - ./evidence/annexures/JF-CHESNO4_INSOLVENCY_ASSESSMENT_PRE_DANIEL.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_farrar_daniel.md
-  - ./2DO/x/regima.com/dan@regima.com/FINAL DRAFT.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/create_financial_chaos.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/different_financial_year.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_system_protections.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_investigation.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.json
-  - ./docs/legal/annexures/JF08/evidence_package_20251009/email_analysis_findings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_content.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/recommended_hawks_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_perez_repository.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_strain_management.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_sender.md
-  - ./jax-response/evidence-attachments/dan-technical/JF-BS1_R500K_PAYMENT_BANK_STATEMENT.md
-  - ./UPDATED_DRAFTS/DANIE_BANTJIES_PERJURY_ANALYSIS_COMPREHENSIVE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/march_2025_bank_statement_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/denying_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_financial_risks.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/accountant_danie_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_pressure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_platform.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_financial_observations.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/FAUCIT _ MEETING FOR FRIDAY, 3 OCTOBER 2025.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/why_bantjies.md
-  - ./jax-dan-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.md
-  - ./evidence/bantjies_investment_payout_forecast.txt
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/unknown_email_intermediary.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_documents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statement_data.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_income.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_financial_manipulation.md
-  - ./Revenue_Stream_Hijacking_by_Rynette/01_POPIA_Compliant_System/Customer_Communication/Regima_Zone_Email_System.md
-  - ./jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-FINAL.docx
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Final TB for RegimA Skin Treatments as at 28 Feb 2018.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/protect_daniel_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_planning.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_reality.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_aspects.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/investigate_bernadine_wright.md
-  - ./backups/pre-consolidation/jax-response/source-documents/ANSWERING_AFFIDAVIT_-_JACQUELINE_FAUCITT_(FINAL_DRAFT_FOR_REVIEW_BYJAX).docx
-  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.eml
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_impersonation.md
-  - ./docs/legal/affidavits/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251012/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_survives.md
-  - ./UPDATED_DRAFTS/REVENUE_STREAM_HIJACKING_FINANCIAL_STRANGULATION_ANALYSIS.md
-  - ./evidence/witness-statements/templates/TEMPLATE_GENERIC_WITNESS_STATEMENT.md
-  - ./jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/mr_daniel_jacobus_bantjes.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/ocr-analysis-email-cc-implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/personal_financial_harm.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251009/email-body.html
-  - ./jax-response/evidence-attachments/dan-technical/JF5_COMPARISON_DRAFT_VS_FINAL.md
-  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_WITNESS_STATEMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_flow_direction.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/rezonance/timeline/timeline_with_trial_balances.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/rwd_financial_analysis-v2.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_rationality.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/get_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_motive_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_strangulation.md
-  - ./evidence/2025-11-14-batch-2/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf
-  - ./evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_records.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_harm.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trial_balance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statements_disproving.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/immediate_financial_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_trustee_appointment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/final_payment.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251009/email_analysis_findings.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.md
-  - ./evidence/2025-11-14-batch-3/BANK_STATEMENTS_SEPTEMBER_11_ANALYSIS.md
-  - ./evidence/2025-11-14-batch/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/party_statements.md
-  - ./jax-response/source-documents/FINAL_AFFIDAVIT_CHANGES_LOG.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_insights.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/email-body.html
-  - ./ANNEXURES/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_financial_losses.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/vva_financial_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/uses_bantjies.md
-  - ./evidence/annexures/JF-RF1_EMAIL_GRANTING_SYSTEM_ACCESS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_addresses_detected.md
-  - ./evidence/annexures/JF-BS1_BANK_STATEMENT_16_JULY_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_strain.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_institutions.md
-  - ./docs/reports/completion/TASK_COMPLETION_JF-BS1_BANK_STATEMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/financial_flow_network.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statement_start.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_financial_harm.md
-  - ./evidence/witness_statements/DANIEL_WITNESS_STATEMENT_JF5_SETTLEMENT_EXCHANGE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/statement_addition.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_statements.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/SL-TRIALBALANCE2020.xlsx
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_weaponization_analysis.md
-  - ./evidence/legal-analysis/DANIEL_EXPARTE_LEGAL_FRAMEWORK_ANALYSIS.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/knew_bantjies.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_metrics.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_year_complexity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_financial_strangulation.md
-  - ./tests/final-integration-comprehensive-test.js
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_system_targeting.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/WW-TrialBalanceFEB20.xlsx
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_systems.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_statements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_support.md
-  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_perez.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/when_bantjies.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/1-Critical/PARA_10_5-10_10_23_DAN_FINANCIAL.md
-  - ./final_workflow_demonstration.py
-  - ANNEXURES/JF05/
-- **Ad Res J7 References:** 
-  - See files related to: Email, Danie, Bantjies, final, trial, balances, Bernadine, Wright,, Peter,, Rynette,, Daniel, financial, statement, finalization, meeting
-- **Crime Category:** data_violations
-- **Phase:** PHASE_000
-- **Event Subtype:** evidence_documentation_financial_system_control
-- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_h008
-- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
-- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
-- **Evidence Urls:** 
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/financial_relationships.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/financial_flow_agents.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/REG-TRIALBALANCE.xlsx
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/email_communication_compromise.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/if_bantjies.md
-- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_H008.html
-- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_H008
-- **Related Application:** APPLICATION_1
-- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
-- **Ad Res J7 Evidence:** 
-  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
-  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}
+**Description:**
+Email from Danie Bantjies with final trial balances to Bernadine Wright, Jax, Peter, Rynette, Daniel for financial statement finalization meeting
+
+## Evidence References
+
+No specific evidence linked.
+
+## Raw Data
+
+```json
+{
+  "event_id": "EVENT_H008",
+  "date": "2020-08-13",
+  "title": "Bantjies Trial Balance Email Distribution",
+  "category": "evidence_documentation",
+  "event_type": "financial_system_control",
+  "perpetrators": [
+    "PERSON_007"
+  ],
+  "victims": [],
+  "entities_involved": [
+    "PERSON_007",
+    "PERSON_010"
+  ],
+  "description": "Email from Danie Bantjies with final trial balances to Bernadine Wright, Jax, Peter, Rynette, Daniel for financial statement finalization meeting",
+  "financial_impact": "unknown",
+  "legal_significance": "evidence_of_bantjies_control_over_financial_systems",
+  "evidence": [
+    "Email-body.html",
+    "trial_balance_attachments"
+  ],
+  "pattern": "historical_foundation",
+  "timeline_phase": "PHASE_000",
+  "extended_evidence_note": "See ad-res-j7 repository for detailed supporting documentation",
+  "related_applications": [
+    "APPLICATION_1",
+    "APPLICATION_2"
+  ],
+  "evidence_files": [
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_relationships.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_flow_agents.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/REG-TRIALBALANCE.xlsx",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_communication_compromise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/if_bantjies.md",
+    "./evidence/2025-11-14-batch-3/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf",
+    "./evidence/2025-11-14-batch/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_crimes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_risks_beyond.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/meeting_context.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_espeset.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_reports_murder.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_complexity.md",
+    "./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md",
+    "./evidence/financial-analysis/trial-balances/VV-TRIALBALANCEAPR20202.xlsx",
+    "./UPDATED_DRAFTS/analysis-main/evidence_mapping_shopify_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/income_statement_changes.md",
+    "./UPDATED_DRAFTS/DRAFT_EVALUATION_WITH_DANIE_BANTJIES_PERJURY.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_statement_defense.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_financial_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/ocr-email-cc-analysis-critical-findings.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/ocr-analysis-email-cc-implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/dan_email.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_4_RELIEF_REQUIRED_JOINT_STATEMENT.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Statement of IP Ownership of the R\u00e9gimA Zone Skin Care Range.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_server_records.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/rst_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/their_sworn_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_analysis_summary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_financial_decision.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_documentation.md",
+    "./evidence/financial-analysis/trial-balances/SL-TRIALBALANCE2020.xlsx",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/settlement-agreement-jf5/JF5-COMPARISON_Draft_vs_Final_Analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_correspondence.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md",
+    "./UPDATED_DRAFTS/analysis-main/UNIFIED_FINANCIAL_INTERESTS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pay_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_bank_statement.md",
+    "./evidence/2025-11-14-batch/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf",
+    "./evidence/character-references/CHARACTER_REFERENCE_DANIEL_FAUCITT_2025-10-11.md",
+    "./jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_unauthorized_financial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_trial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_control_evidence.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_statement_enhancement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_supporting_daniel.md",
+    "./database/data/jr_responses_complete_FINAL.csv",
+    "./evidence/emails/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/coordinated_financial_sabotage.md",
+    "./evidence/emails/jaz-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_impact_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_address.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_platform_hijacking.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/addressing_problem_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/rst_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/showing_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_path.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domain_hijacking.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_clauses.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_impact_calculation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_data_analysis.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.md",
+    "./2DO/x/regima.zone/jax@regima.zone/FW_ Bank statement.pdf",
+    "./jax-response/evidence-attachments/dan-technical/SECTION_4_RELIEF_REQUIRED_JOINT_STATEMENT.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_harm_calculation.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/group_financial_analysis.md",
+    "./evidence/computer-expenses/Consolidated Bank Balances Analysis Template.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_evidence_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/appointment_statement.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251009/email_analysis_findings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_financial_fraud.md",
+    "./evidence/2025-11-14-batch/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/financial_flow_network.png",
+    "./evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_recipients_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_obfuscation_techniques.md",
+    "./evidence/2025-11-14-batch/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf",
+    "./evidence/annexures/JF5-COMPARISON_DRAFT_VS_FINAL_CHANGES.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_authentication.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_bill_finally.md",
+    "./docs/legal/annexures/JF08/evidence_package_20250606/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/trial_phase.md",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO4-insolvency-assessment-pre-daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_evidence_integration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_coercion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies_coordination.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/ADDRESS FOR MEETING.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_from.md",
+    "./evidence/2025-11-14-batch-3/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/statement_date.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/email-body.html",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ I NEED TO SEE THE AMOUNT IN MY PERSONAL ACCOUNT - [External Email](1).pdf",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trial_balance_excel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_for_the_period.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/confirms_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/false_statements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_fauc.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/operations_are_financially.md",
+    "./evidence/fake_accounts/RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_desperation.md",
+    "./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_emails.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_extraction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_controls.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_financial_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_file.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_WITNESS_STATEMENT.md",
+    "./evidence/compliance/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_james.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_re.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_institutions_notification.md",
+    "./evidence/witness-statements/templates/TEMPLATE_DANIEL_SHOPIFY_PLATFORM_OWNERSHIP.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_misallocation_crisis.md",
+    "./UPDATED_DRAFTS/analysis-main/truth_vs_deception_final_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_support.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/all_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_incentives.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/potentially_danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_requests_computer.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_disruption.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_intelligence_centre.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_harm_enhanced.md",
+    "./evidence/property_unit9_southview_park/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/remove_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_risks.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domain_analysis.md",
+    "./docs/reports/completion/FINAL_AFFIDAVITS_SUMMARY.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md",
+    "./jax-dan-response/evidence-attachments/JF5_FINAL_SETTLEMENT_AGREEMENT.md",
+    "./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/documented_financial_events.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_now_faces.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/slg_financial_analysis.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF5_ADDERORY_DOMAIN_WITH_EMAILS.pdf",
+    "./evidence/2025-11-14-batch-3/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/recommended_urgent_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/hawks_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_instruments.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proved_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_evidence_links.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_jacobus_bantjes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_institution_notification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_transfer.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_evidence_has_revealed_a_com.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_institution_agents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_claims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_opportunity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_hub.md",
+    "./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_calculations.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT DKCBCWFP.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/case_planning_meeting.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_period.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_community.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ danie reports 250610.pdf",
+    "./UPDATED_DRAFTS/UBUNTU_PRINCIPLE_KAYLA_DANIEL_GIVING_AWAY_R100M_COMPREHENSIVE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/establishes_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_trial_milestones.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_recipients.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/coordinated_email_campaign.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_regarding_regima_group.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_analysis_completion.md",
+    "./evidence/witness-statements/templates/TEMPLATE_JACQUELINE_FINANCIAL_OVERSIGHT.md",
+    "./evidence/2025-11-14-batch-3/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_integration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/slg_financial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fbi_financial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/joint_financial_interest.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/personal_email_usage.md",
+    "./jax-response/dan-response-materials/financial_allegations_rebuttal_matrix.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/group_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/reimburse_daniel.md",
+    "./backups/pre-consolidation/jax-response/AD/1-Critical/FINANCIAL_HYPERGRAPH_TIMELINE_LINKS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_spoofing.md",
+    "./ad-hypergraph-mapping/bantjies_agent_mapper.py",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/ocr-analysis-email-cc-implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_mechanisms.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_fraud.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/CONVERTED_EMAIL_EVIDENCE_-_COURT-READY_DOCUMENTATION_(UPDATED).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_systems.md",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO2-bank-statements-unauthorized-transfers.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/suspected_false_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/rezonance/financial_reports/financial_analysis_summary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_facts_summary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/for_daniel_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_impact.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_misconduct_claims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/secure_email_communications.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Statement of IP Ownership of the R\u00e9gimA Zone Skin Care Range.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure_destruction.md",
+    "./UPDATED_DRAFTS/2_YEAR_ACCOUNTING_BLACKOUT_AFTER_KAYLA_EMAIL_SEIZURE.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_flexibility.md",
+    "./UPDATED_DRAFTS/analysis-main/EVIDENCE_EXTRACTION_NEW_EMAILS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/connected_financial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/against_danie_bantjies.md",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/settlement-agreement-jf5/JF5-FINAL_Settlement_Agreement_Signed_Version.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/secure_bank_statement.md",
+    "./jax-response/evidence-attachments/dan-technical/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ Final TB's.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_compliance_directive.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/excel_trial_balance.md",
+    "./jax-dan-response/financial_allegations_rebuttal_matrix.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_manipulation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_financial.md",
+    "./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/deter_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/email-body.html",
+    "./evidence/bantjies_investment_payout_forecast.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_financial_impact.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_analysis.md",
+    "./evidence/2025-11-14-batch-3/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_level.md",
+    "./evidence/emails/Dansent2StaffmidJuly-keypointsfromSouthAfricanLegislationComplianceGuideforAIandInformationHandling-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/entity_financial_forensics.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/needed_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/coordinated_financial_infrastructure.md",
+    "./docs/legal/affidavits/jax-affidavit-financial-hemorrhage.md",
+    "./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_addresses.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_critical_financial.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF8_LINDA_EMPLOYMENT_WITH_EMAILS.pdf",
+    "./evidence/financial-analysis/trial-balances/REG-TRIALBALANCE.xlsx",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_analysis_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_financial_misallocation.md",
+    "./ad-hypergraph-mapping/BANTJIES_COMPLETE_HYPERGRAPH_VISUALIZATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/combined_financial_harm.md",
+    "./backups/pre-consolidation/jax-response/source-documents/FINAL_AFFIDAVIT_CHANGES_LOG.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/danie_bantjes_on.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_recovery_planning.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/claims_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_obligation_language.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_servers.md",
+    "./2DO/x/regima.zone/jax@regima.zone/Fw_ Statement from Ozow (Pty) Ltd for RegimA Skin Treatments.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_through.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_communication_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_engine.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/border_financial_crime.md",
+    "./jax-response/evidence-attachments/dan-technical/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./ANNEXURES/JF08/evidence_package_20251012/email-body.html",
+    "./jax-dan-response/AD/1-Critical/PARA_10_5-10_10_23_DAN_FINANCIAL.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025_automated/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_evidence_summary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/against_danie_bantjes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_dependency.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/COMPREHENSIVE_FINANCIAL_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_burden_shifting.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/finalize_evidence_package.md",
+    "./evidence/bank-statements/regima-sa/REGIMA_SA_BANK_STATEMENT_2025-03-06.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_email_address.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_statement_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_loop.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_red_flags.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/from_email_accounts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_closing_balance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_instrument.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/hi_danie.md",
+    "./jax-dan-response/criminal-complaint/annexures/ANNEXURE_JAF4_Witness_Statement_Employee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_package.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_bank_statements.md",
+    "./lex/LEX_REFINEMENT_SUMMARY_2025-11-17_FINAL.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/03_supporting_affidavit_bantjies_medical.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ danie reports 250610.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_advisors.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/about_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_income_performance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_problem_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_financial_context.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/gaslight_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_misconduct.md",
+    "./jax-response/evidence-attachments/dan-technical/COMPREHENSIVE_FINANCIAL_ANALYSIS.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_FINAL_SETTLEMENT_AGREEMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_regarding_financial_analysis_of_regima_group.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/threat_weaponization_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/against_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/activity_financial_periods.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_integration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_clarifies_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/framing_persistence_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/VV-TRIALBALANCEAPR20202.xlsx",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination_pattern.md",
+    "./OPTIMIZATION_SUMMARY_FINAL.txt",
+    "./2DO/x/regima.com/dan@regima.com/Partial Contributions to Timeline_ RegimA _Group_ Financial Fraud (2017-2025).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/morning_danie_hope.md",
+    "./evidence/2025-11-14-batch/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_verification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/impartiality_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_service_provider.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_email.md",
+    "./UPDATED_DRAFTS/BANTJIES_ULTIMATE_CONTROL_POWER_STRUCTURE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_corruption.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/did_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_financial_management.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_verification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_year_start.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_information.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_harm_summary.md",
+    "./ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_proves.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/email_compliance_directive_2025-07-08.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_structure.md",
+    "./evidence/bank-statements/regima-sa/REGIMA_SA_BANK_STATEMENT_2024-10-07.md",
+    "./evidence/bank-statements/regima-sa/REGIMA_SA_BANK_STATEMENT_2024-10-07.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_shopify_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_statement.md",
+    "./ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_evidence_shows.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_institution.md",
+    "./evidence/2025-11-14-batch-3/Fw_Rezonance-Unicorn-Joziway-DanielFaucitt-Outlook.pdf",
+    "./jax-response/source-documents/FINAL_AFFIDAVIT_SUMMARY.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/statement_period.md",
+    "./jax-response/evidence-attachments/dan-technical/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/danie_bantjes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_tschinder.md",
+    "./jax-dan-response/annexures/DAN-IT/DAN-IT-002_RegimA_Financial_Records_IT_Spend_2024.md",
+    "./evidence/correspondence/JF8B_EMAIL_COOPERATION_CHAINS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trial_preparation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trial_strategy.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Payment Notification from MR DANIEL J FAUCITT 5N1QHQFP.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domain.md",
+    "./2DO/x/regima.zone/jax@regima.zone/Re_ Savings Statement - 01_11_2025 _9240.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_reporting.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_leverage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domain_change.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_discrepancy_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/integrated_financial_management.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/has_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/subpoena_bantjies.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251009/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge_level.md",
+    "./backups/pre-consolidation/jax-dan-response/medium_priority_responses/additional_financial_claims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_structure_exploitation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_performance_metrics.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/informs_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_financial_metrics.md",
+    "./evidence/legal-analysis/DANIEL_EXPARTE_LEGAL_FRAMEWORK_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251009/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/knowledge_confirmed_daniel.md",
+    "./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_WITNESS_STATEMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/reveals_email_address.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_strain_period.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_revelation_impact.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_burden.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_quantification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_email_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_server.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/use_bantjies.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_COMPARISON_DRAFT_VS_FINAL.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/added_daniel_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_trial_balance_analysis.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_anomalies_detected.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF3_STRATEGIC_LOGISTICS_WITH_EMAILS.pdf",
+    "./evidence/witness_statements/DANIEL_WITNESS_STATEMENT_COMPLETION_STATUS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/false_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_daniel_did.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/recommended_statement.md",
+    "./jax-dan-response/medium_priority_responses/additional_financial_claims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/prepare_witness_statements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_communications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_reinforcing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/portray_daniel.md",
+    "./docs/legal/affidavits/daniel-affidavit-strategic-logistics.md",
+    "./jax-response/analysis-output/FINAL_SUMMARY_v3.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/that_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_crisis_escalation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjured_statements.md",
+    "./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md",
+    "./jax-response/evidence-attachments/settlement-agreement-jf5/JF5-FINAL_Settlement_Agreement_Signed_Version.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_date.md",
+    "./docs/legal/FINAL_CORRECTED_PROVISIONS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/problem_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_now.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/entity_financial_tracking.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/verified_email_control.md",
+    "./jax-response/source-documents/ANSWERING_AFFIDAVIT_-_JACQUELINE_FAUCITT_(FINAL_DRAFT_FOR_REVIEW_BYJAX).docx",
+    "./ANNEXURES/SF4_SARS_Audit_Email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/first_attorney_meeting.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_assertion.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ FNB Statement_ _REGIMA SA (PTY) LTD - 2025-07-27 - 62896473974.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/entity_financial_crime.md",
+    "./evidence/2025-11-14-batch/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./docs/legal/annexures/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_flow_visualization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_impersonation_escalation.md",
+    "./2DO/x/regima.zone/dan@regima.zone/danie request.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_schemes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_chain.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_irregularity_discovery.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/million_bantjies_debt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/statement_evidence.md",
+    "./jax-response/evidence-attachments/dan-technical/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_forensics_opportunities.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_financial_and_operational_records.md",
+    "./UPDATED_DRAFTS/analysis-main/sync_trial_balance_to_neon.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_relief.md",
+    "./evidence/emails/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/letter_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/mr_daniel_jacobus.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_with_shopify_historical_p.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_financial_access.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_communications.md",
+    "./UPDATED_DRAFTS/analysis-main/bantjies_centrality_map.png",
+    "./UPDATED_DRAFTS/analysis-main/entities/witness_statements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trial_balance_email.md",
+    "./evidence/compliance/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf",
+    "./jax-dan-response/evidence-attachments/JF-BS1_R500K_PAYMENT_BANK_STATEMENT.md",
+    "./jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_email_print.md",
+    "./docs/legal/evidence/FINANCIAL_LOSS_EVIDENCE_MATRIX.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_independence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_documentation_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_hub_role.md",
+    "./evidence/identity-documents/BANTJIES_ID_DOCUMENT.pdf",
+    "./2DO/x/rzo.io/d@rzo.io/no other mail from Danie between 2023-02-27 until 2025-06-03.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/and_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/claiming_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_director.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domains.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_share.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_flow_analysis.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ Draft financial.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_transactions.md",
+    "./evidence/emails/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_reality_documented.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_supervision.md",
+    "./jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md",
+    "./jax-response/AD/dan-perspective/1-Critical/PARA_10_5-10_10_23_DAN_FINANCIAL.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_still_survives.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trial_balance_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_finalization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_intelligence_units.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_instability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/isolate_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shared_financial_future.md",
+    "./evidence/2025-11-14-batch/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+    "./jax-response/analysis-output/FINAL_SUMMARY_v3.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_activity_peak.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_mechanisms.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_investment_payout.md",
+    "./evidence/character-references/CHARACTER_REFERENCE_DANIEL_FAUCITT_2025-10-11.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_evidence_invalid.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_institutions_alert.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/witness_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_address_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_statement_credits.md",
+    "./backups/pre-consolidation/jax-dan-response/financial_allegations_rebuttal_matrix.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sue_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_recovery.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md",
+    "./reports/financial-evidence-verification-report.json",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_29_deed_preamble_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/prepare_bank_statement.md",
+    "./evidence/2025-11-14-batch-3/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf",
+    "./FINAL_ANSWERING_AFFIDAVIT_ABRIDGED.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_statement_end.md",
+    "./lex-inference-engine/output/final_prosecution_soundness_assessment.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_crisis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_sends.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_financial_exploitation.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/FINAL_SUMMARY_v3.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_access.md",
+    "./jax-dan-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_communications.md",
+    "./UPDATED_DRAFTS/JUNE_6_10_EMAILS_DANIE_BANTJIES.txt",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_control_structure.md",
+    "./evidence/annexures/JF5-FINAL_SETTLEMENT_AGREEMENT_SIGNED.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_financial_crime.md",
+    "./docs/strategic/fraud-analysis/FINANCIAL_EXTRACTION_ANALYSIS.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_misallocation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_information.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_email_proves.md",
+    "./2DO/x/regima.com/dan@regima.com/Part B - The Final Relief That Never Happened.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_evidence.md",
+    "./evidence/2025-11-14-batch-3/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF6_KAYLA_ESTATE_WITH_EMAILS.pdf",
+    "./jax-dan-response/evidence-attachments/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md",
+    "./jax-response/source-documents/FINAL_ASSESSMENT_Jacqui_Affidavit_(Reconstructed_Version).docx",
+    "./2DO/x/regima.com/dan@regima.com/Mr.Bantjies Forgot to Include in His Affidavit.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/relationship_implications_the_financial_relationsh.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_financial_audit.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/vva_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_details.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_update.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_statement_payment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/reveals_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_extraction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_financial_information.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Statements.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/corrected_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_real_financial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/material_false_statements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_strangulation_escalation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_criminal_complaint.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_manipulation_blueprint.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ Proof of addresses _ Mandates - [External Email].pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/employee_witness_statements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_status.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/statements_were_made.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trial_procedures.md",
+    "./evidence/2025-11-14-batch-3/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ I NEED TO SEE THE AMOUNT IN MY PERSONAL ACCOUNT - [External Email].pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/force_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/damages_claim_daniel.md",
+    "./docs/legal/affidavits/FINAL_ANSWERING_AFFIDAVIT_ABRIDGED.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/opening_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/via_bantjies.md",
+    "./jax-response/AD/1-Critical/FINANCIAL_HYPERGRAPH_TIMELINE_LINKS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_investigation.md",
+    "./2DO/x/regima.zone/dan@regima.zone/danie reports 250610.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/proves_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_represents_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_hub_evolution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_plus_meeting.md",
+    "./Revenue_Stream_Hijacking_by_Rynette/01_POPIA_Compliant_System/Financial_Accounting/Financial_Transparency_System.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_dependency_inversion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_financial_logic.md",
+    "./1-CIVIL-RESPONSE/annexures/JF-DANIEL-BANK-ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_mismanagement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/entity_financial_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/Email-2025-08-11-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_revelation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation.md",
+    "./evidence/financial-analysis/group_financial_analysis.md",
+    "./ANNEXURES/JF08/evidence_package_20251009/email_analysis_findings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_statements.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.jpg",
+    "./case_2025_137857/02_evidence/evidence_package_20250606/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_amounts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_takeover.md",
+    "./2DO/x/proton.me/regizone@proton.me/Fw_ Statements.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_cc_equals.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250606/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_impact_assessment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/receives_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_plus_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_statements.md",
+    "./ANNEXURES/JF08/evidence_package_20250606/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/forcing_daniel.md",
+    "./UPDATED_DRAFTS/BANTJIES_DEBTOR_MOTIVE_CRIMINAL_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_pattern_analysis.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/slg_financial_analysis.md",
+    "./lex/DAN_COMPLETE_FINANCIAL_PICTURE_JUNE_OCT_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rynette_sends_email.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/2025-06-06_DAN_TO_BANTJIES_FRAUD_REPORTS.eml",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/Email_Attachments_Extraction_Summary.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_patterns_detected.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_vulnerability.md",
+    "./2DO/x/regima.zone/dan@regima.zone/We've\u2009Got\u2009a\u2009New\u2009Email\u2009Address!.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/therefore_bantjies.md",
+    "./jax-dan-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.json",
+    "./evidence/emails/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domain_similarities.md",
+    "./evidence/2025-11-14-batch/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf",
+    "./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_seizure.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/possibly_danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/connected_financial_fraud.md",
+    "./ANNEXURES/JF08/evidence_package_20251009/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/ongoing_financial_drain.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/consolidated_bank_balances_across_the_group.md",
+    "./jax-dan-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.json",
+    "./evidence/correspondence/dan-bantjies-jun2025/rwd_financial_analysis-v2.md",
+    "./evidence/bantjies_debt/BantjiesInvestmentPayoutDates2026-05.jpg",
+    "./jax-response/evidence-attachments/dan-technical/JF5_FINAL_SETTLEMENT_AGREEMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_data.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_transaction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_shopify_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/original_email_date.md",
+    "./UPDATED_DRAFTS/analysis-main/complete_evidence_integration_with_bank_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/unified_financial_interests.md",
+    "./docs/reports/completion/TASK_COMPLETION_DIRECTOR_LOAN_STATEMENTS.md",
+    "./jax-dan-response/evidence-attachments/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_mismanagement_setup.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_hijacking.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_resources.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-BS1_R500K_PAYMENT_BANK_STATEMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_extraction_mechanism.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shows_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/eliminate_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_services.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_summary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/missing_financial_records.md",
+    "./evidence/annexures/JF-DLA3_DANIEL_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corrected_statements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_status.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_risk.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_bank_statement_provides.md",
+    "./evidence/financial-analysis/trial-balances/WW-TrialBalanceFEB20.xlsx",
+    "./UPDATED_DRAFTS/analysis-main/entities/primary_financial_periods.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_misallocation_discovery.md",
+    "./jax-response/evidence-attachments/settlement-agreement-jf5/JF5-COMPARISON_Draft_vs_Final_Analysis.md",
+    "./evidence/2025-11-14-batch-3/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ FNB Statement_ _REGIMA SA (PTY) LTD - 2025-07-27 - 62896474196.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_faces.md",
+    "./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_protection_measures.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/create_daniel_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_risk_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_records.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/potentially_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_assets.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_financial_hub.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/reference_all_email.md",
+    "./evidence/bank-statements/regima-sa/REGIMA_SA_BANK_STATEMENT_2025-03-06.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/trial_proceedings.md",
+    "./UPDATED_DRAFTS/FINAL_EVIDENCE_PACKAGE_SUMMARY.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/adding_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/bantjies_investment_payout_analysis.md",
+    "./jax-dan-response/annexures/2025-11-14-evidence-batch/ANNEXURE_C_Trustee_Appointment_Email_2024-07-01.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies.md",
+    "./jax-response/evidence-attachments/dan-technical/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md",
+    "./backups/pre-consolidation/jax-response/source-documents/FINAL_ASSESSMENT_Jacqui_Affidavit_(Reconstructed_Version).docx",
+    "./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/for_daniel.md",
+    "./database/data/dr_responses_complete_FINAL.csv",
+    "./evidence/identity-documents/BANTJIES_ID_DOCUMENT.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Final TB's(1).pdf",
+    "./evidence/intellectual-property/StatementofIPOwnershipforR\u00e9gimAZone.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_security.md",
+    "./jax-response/evidence-attachments/JF-CHESNO2-bank-statements-unauthorized-transfers.md",
+    "./evidence/analysis/timelines/timeline_with_trial_balances.pdf",
+    "./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/danie_bantjie.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_association.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/discredit_daniel.md",
+    "./evidence/emails/Re_MEDIATIONNOTES-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/evidence/UK_Bank_Statement_Shopify_Payments_Analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_investigation_targets.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_account_takeover.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sophisticated_financial_crimes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/unauthorized_financial_control.md",
+    "./UPDATED_DRAFTS/analysis-main/extract_trial_balance_data.py",
+    "./UPDATED_DRAFTS/SARS_AUDIT_EMAIL_BANTJIES_INSTRUCTIONS_SMOKING_GUN.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_review.md",
+    "./ad-hypergraph-mapping/bantjies_hypergraph_analysis_report.json",
+    "./jax-response/evidence-attachments/dan-technical/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_crime_quantification.md",
+    "./evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_this.md",
+    "./evidence/2025-11-14-batch/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/BANTJIES_DEBT_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_structure_establishment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_email_package.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_evidence_verification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/prepare_opening_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/victim_impact_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_analysis.md",
+    "./.github/agents/Complete_Gizmo_Classification_FINAL.md",
+    "./2DO/x/regima.com/dan@regima.com/AD NOTES - DANIEL JAMES FAUCITT.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_statement_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proves_financial_motive.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_statement_submission.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_manipulation.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Final TB's.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_flow_reconstruction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_sends_complete.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_email_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/subpoena_danie_bantjes.md",
+    "./jax-dan-response/evidence-attachments/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_context.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/making_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/prepare_press_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_infrastructure.md",
+    "./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_misappropriation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_analyst.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/material_false_statement.md",
+    "./2DO/x/regima.zone/jax@regima.zone/FW_ Email restriction.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_expenses.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251009/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_interest.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_system.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_controls.md",
+    "./docs/legal/affidavits/FINAL_ANSWERING_AFFIDAVIT_COMPLETE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_cycle.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/how_email.md",
+    "./evidence/annexures/JF-WS1_DANIEL_WITNESS_STATEMENT_HAS_ANYTHING_CHANGED.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_debt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_identifies_financial.md",
+    "./jax-response/evidence-attachments/JF-CHESNO4-insolvency-assessment-pre-daniel.md",
+    "./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md",
+    "./backups/pre-consolidation/jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-FINAL.docx",
+    "./evidence/annexures/JF-RF2_EMAIL_PROVIDING_PASSWORDS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_hub_sustainability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_institution_serving_regima_group.md",
+    "./scripts/verify-financial-evidence.js",
+    "./UPDATED_DRAFTS/analysis-main/bank_statement_shopify_correlation_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_decision.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/collect_witness_statements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_loop.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/harass_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_reporting_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_role.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_financial_actors.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/morning_danie.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_targeting_phase.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/combined_financial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_financial_review.md",
+    "./reports/FINANCIAL_LOSS_EVIDENCE_VERIFICATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bernadine_wright.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/staggered_financial_year.md",
+    "./FINAL_ANSWERING_AFFIDAVIT_COMPLETE.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_statement_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/your_statement.md",
+    "./jax-dan-response/evidence-attachments/JF5_COMPARISON_DRAFT_VS_FINAL.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_daniel_told.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_case.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_crimes_unit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_false_impartiality.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/eliminated_daniel.md",
+    "./2DO/x/regima.zone/jax@regima.zone/meeeting confirmed 2 pm Friday, 26 September 2025 THE LEONARDO JACQUI & DANIEL F.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_consolidation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/individual_financial_liability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_cc.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_evidence_analysis_report.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/unknown_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_revelations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_weapon.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_exploitation.md",
+    "./jax-dan-response/rule-42-rescission/FOUNDING_AFFIDAVIT_Daniel_Faucitt_Rule_42.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trial_balances.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_balance.md",
+    "./evidence/annexures/JF-CHESNO2_BANK_STATEMENTS_UNAUTHORIZED_TRANSFERS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_flow_indicators.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_motivations.md",
+    "./2DO/x/regima.zone/dan@regima.zone/Fw_ STOCK2SHOP (PTY) Ltd Statement of Account for period 01 Jan 25 - 19 Jun 25.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_submission_for.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_access.md",
+    "./jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_operations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_financial_harm.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251012/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/false_statements_were.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_james_faucitt.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_activity.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ Finally a Solution to the Tech Scaling Problem for Diagnostics - Re_ General.pdf",
+    "./UPDATED_DRAFTS/analysis-main/DANIEL_AUTONOMY_STRATEGY.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_debt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_intelligence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_to.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/ongoing_financial_exploitation.md",
+    "./docs/reports/completion/DANIEL_TECHNICAL_PERSPECTIVE_IMPLEMENTATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_timeline.md",
+    "./jax-dan-response/evidence-attachments/COMPREHENSIVE_FINANCIAL_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_financial_management.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/invert_financial_reality.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_email_receipt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_analysis.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF4_SARS_AUDIT_WITH_EMAILS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/section_financial_evidence.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ FNB Statement_ _REGIMA SA (PTY) LTD - 2025-03-06 - 62707308252.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_forensics.md",
+    "./lex/DAN_BANK_STATEMENTS_ANALYSIS_R500K_TRANSFER_2025-11-18.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/following_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pending_final_determination.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_isolation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_evidence_summary.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251009/email_analysis_findings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_motivation.md",
+    "./evidence/annexures/JF-CHESNO4_INSOLVENCY_ASSESSMENT_PRE_DANIEL.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rynette_farrar_daniel.md",
+    "./2DO/x/regima.com/dan@regima.com/FINAL DRAFT.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/create_financial_chaos.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/different_financial_year.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_system_protections.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_investigation.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.json",
+    "./docs/legal/annexures/JF08/evidence_package_20251009/email_analysis_findings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_content.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/recommended_hawks_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_perez_repository.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_strain_management.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_sender.md",
+    "./jax-response/evidence-attachments/dan-technical/JF-BS1_R500K_PAYMENT_BANK_STATEMENT.md",
+    "./UPDATED_DRAFTS/DANIE_BANTJIES_PERJURY_ANALYSIS_COMPREHENSIVE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/march_2025_bank_statement_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/denying_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_financial_risks.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/accountant_danie_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_pressure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_platform.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_financial_observations.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/FAUCIT _ MEETING FOR FRIDAY, 3 OCTOBER 2025.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/why_bantjies.md",
+    "./jax-dan-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.md",
+    "./evidence/bantjies_investment_payout_forecast.txt",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/unknown_email_intermediary.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/BantjiesInvestmentPayoutDates2026-05.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_knowledge.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_documents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_statement_data.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_income.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_financial_manipulation.md",
+    "./Revenue_Stream_Hijacking_by_Rynette/01_POPIA_Compliant_System/Customer_Communication/Regima_Zone_Email_System.md",
+    "./jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-FINAL.docx",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ Final TB for RegimA Skin Treatments as at 28 Feb 2018.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/protect_daniel_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_planning.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_reality.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_aspects.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/investigate_bernadine_wright.md",
+    "./backups/pre-consolidation/jax-response/source-documents/ANSWERING_AFFIDAVIT_-_JACQUELINE_FAUCITT_(FINAL_DRAFT_FOR_REVIEW_BYJAX).docx",
+    "./evidence/correspondence/dan-bantjies-jun2025/2025-06-10_BANTJIES_TO_ALL_GROUP_RESULTS.eml",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_impersonation.md",
+    "./docs/legal/affidavits/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/investigate_bantjies.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251012/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_survives.md",
+    "./UPDATED_DRAFTS/REVENUE_STREAM_HIJACKING_FINANCIAL_STRANGULATION_ANALYSIS.md",
+    "./evidence/witness-statements/templates/TEMPLATE_GENERIC_WITNESS_STATEMENT.md",
+    "./jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/mr_daniel_jacobus_bantjes.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/ocr-analysis-email-cc-implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/personal_financial_harm.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251009/email-body.html",
+    "./jax-response/evidence-attachments/dan-technical/JF5_COMPARISON_DRAFT_VS_FINAL.md",
+    "./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_WITNESS_STATEMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_flow_direction.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/rezonance/timeline/timeline_with_trial_balances.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/rwd_financial_analysis-v2.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_rationality.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/get_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_motive_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_strangulation.md",
+    "./evidence/2025-11-14-batch-2/2025-11-07-SentItems-DanielFaucitt-ExplanationwhyRule42.pdf",
+    "./evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_records.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_harm.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trial_balance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_statements_disproving.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/immediate_financial_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_trustee_appointment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/final_payment.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251009/email_analysis_findings.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.md",
+    "./evidence/2025-11-14-batch-3/BANK_STATEMENTS_SEPTEMBER_11_ANALYSIS.md",
+    "./evidence/2025-11-14-batch/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/party_statements.md",
+    "./jax-response/source-documents/FINAL_AFFIDAVIT_CHANGES_LOG.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_insights.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/email-body.html",
+    "./ANNEXURES/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_financial_losses.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/regima_financial_2025/vva_financial_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/uses_bantjies.md",
+    "./evidence/annexures/JF-RF1_EMAIL_GRANTING_SYSTEM_ACCESS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_addresses_detected.md",
+    "./evidence/annexures/JF-BS1_BANK_STATEMENT_16_JULY_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_strain.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_institutions.md",
+    "./docs/reports/completion/TASK_COMPLETION_JF-BS1_BANK_STATEMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/financial_flow_network.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_statement_start.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/ongoing_financial_harm.md",
+    "./evidence/witness_statements/DANIEL_WITNESS_STATEMENT_JF5_SETTLEMENT_EXCHANGE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/statement_addition.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_statements.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/SL-TRIALBALANCE2020.xlsx",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_weaponization_analysis.md",
+    "./evidence/legal-analysis/DANIEL_EXPARTE_LEGAL_FRAMEWORK_ANALYSIS.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/knew_bantjies.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_metrics.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_year_complexity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_financial_strangulation.md",
+    "./tests/final-integration-comprehensive-test.js",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_system_targeting.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/WW-TrialBalanceFEB20.xlsx",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_systems.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_statements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_support.md",
+    "./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_perez.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/when_bantjies.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/1-Critical/PARA_10_5-10_10_23_DAN_FINANCIAL.md",
+    "./final_workflow_demonstration.py",
+    "ANNEXURES/JF05/"
+  ],
+  "ad_res_j7_references": [
+    "See files related to: Email, Danie, Bantjies, final, trial, balances, Bernadine, Wright,, Peter,, Rynette,, Daniel, financial, statement, finalization, meeting"
+  ],
+  "crime_category": "data_violations",
+  "phase": "PHASE_000",
+  "event_subtype": "evidence_documentation_financial_system_control",
+  "github_pages_reference": "https://cogpy.github.io/revstream1/applications.md#event_h008",
+  "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+  "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+  "evidence_urls": [
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/financial_relationships.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/financial_flow_agents.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/REG-TRIALBALANCE.xlsx",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/email_communication_compromise.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/if_bantjies.md"
+  ],
+  "github_pages_url": "https://cogpy.github.io/revstream1/events/EVENT_H008.html",
+  "timeline_reference": "https://cogpy.github.io/revstream1/timeline.html#EVENT_H008",
+  "related_application": "APPLICATION_1",
+  "application_url": "https://cogpy.github.io/revstream1/application-1.html",
+  "ad_res_j7_evidence": [
+    {
+      "source": "case_2025_137857/",
+      "description": "Case documentation and analysis",
+      "url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857"
+    },
+    {
+      "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "description": "Complete evidence catalog (2,866 files)",
+      "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
+    }
+  ],
+  "ad_res_j7_cross_references": [
+    "Evidence documented in ad-res-j7 repository",
+    "See ANNEXURES for event EVENT_H008",
+    "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+  ],
+  "evidence_references": [
+    "case_2025_137857/02_evidence/",
+    "ANNEXURES/",
+    "docs/"
+  ]
+}
+```

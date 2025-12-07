@@ -1,340 +1,387 @@
-# R5.2M SLG Stock Missing & Large Invoice
+---
+layout: default
+title: R5.2M SLG Stock Missing & Large Invoice
+---
+# R5.2M SLG Stock Missing & Large Invoice (EVENT_028)
 
-**Event ID:** `EVENT_028`
 **Date:** 2025-02-25
 
-- **Category:** transfer_pricing_fraud
-- **Event Type:** stock_theft_and_invoice
-- **Perpetrators:** 
-  - PERSON_001
-  - PERSON_002
-  - PERSON_007
-  - PERSON_003
-- **Victims:** 
-  - ORG_004
-  - TRUST_001
-- **Entities Involved:** 
-  - ORG_004
-  - ORG_002
-  - ORG_009
-- **Description:** R5.2M SLG stock missing with simultaneous R5.2M invoice from SLG to RST. Stock physically disappeared, same type later supplied by Adderory to RegimA. Systematic asset stripping begins.
-- **Financial Impact:** R5,200,000
-- **Legal Significance:** systematic_asset_stripping_transfer_pricing_fraud
-- **Evidence:** 
-  - financial_records
-  - invoice_documentation
-  - stock_reconciliation
-- **Pattern:** foundation_phase
-- **Critical:** True
-- **Additional Notes:** Same stock type supplied by Adderory (Rynette's son), demonstrates coordinated transfer pricing fraud
-- **Evidence Location:** ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md
-- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
-- **Related Applications:** 
-  - APPLICATION_1
-- **Evidence Files:** 
-  - ./UPDATED_DRAFTS/analysis-main/entities/missing_entity_profiles.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_transfer.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_manipulation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_profit_extraction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/limited_asset_recovery.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_witness_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_avoidance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_indicators.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(9).pdf
-  - ./2DO/x/regima.zone/emma@regima.zone/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(3).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_business_sabotage.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(7).pdf
-  - ./2DO/x/ensafrica.com/smunga@ensafrica.com/Re_ belongs to regimA.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_hiding.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_attack.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_seizure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_systematic_evidence.md
-  - ./2DO/x/regima.zone/ryan@regima.zone/Replit Invoice Sync Sign In.pdf
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_expense_dumping.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_shopify_invoices_provide.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(2).pdf
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(2).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_invoice_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/invoice_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_shopify_invoices.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_criminal_court.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_protection_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_systematic_takeover.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_freezing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_extraction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/inventory_assets.md
-  - ./2DO/x/regima.zone/jax@regima.zone/FW_ Replit Invoice Sync Sign In(1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_evidence_prevention.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_asset.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_harassment.md
-  - ./attached_assets/Pasted-Ah-Yes-The-attention-mechanism-is-exactly-the-missing-piece-here-You-ve-just-identified-some-1760634593896_1760634593897.txt
-  - ./UPDATED_DRAFTS/analysis-main/entities/stock_missing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_invoices.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_exclusion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/exposes_asset_stripping.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(2).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/their_shared_assets.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_coordination_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_systematic_escalation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/missing_documentation.md
-  - ./2DO/x/proton.me/jfaucitt@proton.me/REGIMA.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/missing_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_campaign_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_court_abuse.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_protection_scheme.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_asset_stripping.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_invoice_history.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_systematically.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(4).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_base_growth.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF01/Re_ belongs to regimA.eml
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(13).pdf
-  - ./2DO/x/regima.zone/emma@regima.zone/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/days_later.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_infrastructure_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/server_missing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_transfer_documents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_invoice_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_evidence_destruction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_evidence_tampering.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_scheme.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_property_assets.md
-  - ./legal_analysis_2025_11/scheme_files/south_african_forensic_analysis_systematic_fraud_narrative.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_stripping_preparation.md
-  - ./2DO/x/regima.com/dan@regima.com/Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/zone_shopify_invoices.md
-  - ./lex/evid/za/south_african_evidence_systematic_fraud_patterns.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_stock.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_was_missing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_deception.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(14).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_recovery_priorities.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/stripping_scheme.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_planning.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_takeover.md
-  - ./docs/technical/implementation/SYSTEMATIC_CROSS_REFERENCING_IMPLEMENTATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fixed_asset_investment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shopify_invoices.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/office_assets.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_corporate_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_exploitation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_payment_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/systematic_sabotage_and_curatorship_fraud_evidence.md
-  - ./attached_assets/Pasted-Ah-Yes-The-attention-mechanism-is-exactly-the-missing-piece-here-You-ve-just-identified-some-1760633957168_1760633957168.txt
-  - ./UPDATED_DRAFTS/analysis-main/entities/hijacking_asset_stripping.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/creating_systematic_chaos.md
-  - ./ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_recovery.md
-  - ./2DO/x/regima.zone/dan@regima.zone/Fw_ STOCK2SHOP (PTY) Ltd Statement of Account for period 01 Jan 25 - 19 Jun 25.pdf
-  - ./case_2025_137857/02_evidence/misc/Re_ belongs to regimA.eml
-  - ./case_2025_137857/02_evidence/emails/Re_ belongs to regimA.eml
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_failures.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_forfeiture_unit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/assets_subject.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/missing_type_hints.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_orchestration.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(1).pdf
-  - ./evidence/annexures/JF-ITS1_IT_SERVICE_INVOICES_AND_CONTRACTS.md
-  - ./UPDATED_DRAFTS/analysis-main/post_murder_systematic_takeover_2023_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_psychological_manipulation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_asset_recovery.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(2).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_perjury_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_four_simultaneous.md
-  - ./lex/frn/za/south_african_forensic_analysis_systematic_fraud_narrative.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_stripping.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(5).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_invoice_claims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/missing_data.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/invoice_bomb.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(6).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/large_invoice.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_invoice_evidence_provides.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_recovery_cooperation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_recovery.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_court_jurisdiction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_recovery_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fixed_assets.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_technical_assets.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_category.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_protection_strategy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/provide_invoices.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_controller.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_theft_during.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_invoice.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/technology_mapping_missing.md
-  - ./2DO/x/regima.zone/jax@regima.zone/FW_ Replit Invoice Sync Sign In.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_invoice_payment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_expansion_strategy.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(4).pdf
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_execution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_systematic_removal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_nature.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Jacqui Faucitt invoice inv 170015.pdf
-  - ./2DO/x/rzo.io/d@rzo.io/RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Billin.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_suggests_systematic_transfer_pricing_mani.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_approach.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/Shopify_Invoices_RegimA_2016-2025.txt
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_shielding.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(3).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_asset_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_sabotage.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/missing_dependencies_if.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/border_assets.md
-  - ./docs/legal/annexures/JF01/Re_ belongs to regimA.eml
-  - ./UPDATED_DRAFTS/analysis-main/entities/two_invoice_companies.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(11).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_base_value.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_utilization_enhancement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_freezing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_loss.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_missing_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/personal_assets.md
-  - ./ANNEXURES/JF01/Re_ belongs to regimA.eml
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_enables_systematic.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(10).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_systematically_destroyed.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_invoices_previously.md
-  - ./UPDATED_DRAFTS/analysis-main/IT_INVOICE_ACCOUNT_SEIZURE_SECTION_REVISION_LOG.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_assets.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_escalation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_stripping_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_gaslighting_deployment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_systematic_strategy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_exploitation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_revenue_stream.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_corporate_network_and_asset_stripping.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_shopify_invoices.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/assets_under_threat.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_dependent.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_coordination.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/invoice_records.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/international_data_theft_and_invoice_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/business_assets.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_tracing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_utilization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_value.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_begins.md
-  - ./UPDATED_DRAFTS/analysis-main/IT_INVOICE_ACCOUNT_SEIZURE_SECTION.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf
-  - ./2DO/x/regima.com/dan@regima.com/Re_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_stripping.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/stock_thresholds_triggering.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_abuse.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/CROSS_REFERENCE_Bank_vs_Invoices.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/current_assets.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(8).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_base_expansion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/triggered_stock_changes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_systematic_takeover.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_asset_development.md
-  - ./lex/SYSTEMATIC_PERSECUTION_BASED_ON_PERJURY_2025-11-18.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_reform.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_shopify.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/camden_asset_recovery.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/prevents_asset_freezing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_concealment_scheme.md
-  - ./2DO/x/proton.me/jfaucitt@proton.me/regimaskin.co.za belongs to regimA.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_invoice_analysis_reveals_a.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/review_of_her_access_permissions_across_all_regima.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_forfeiture_powers.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_protection_trigger.md
-  - ./UPDATED_DRAFTS/SLG_R5_4M_STOCK_THEFT_TO_ADDERORY_COMPREHENSIVE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_distribution_priority.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_avalanche_begins.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_court_manipulation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_foundation_building.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/missing_information.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF5_ADDERORY_DOMAIN_WITH_EMAILS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_transfer_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_simultaneously.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(12).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/missing_financial_records.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/technology_assets.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_planning_indicators.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shopify_invoices_provide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_freeze_application.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/stock_monitoring.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_deletion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_invoice.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_concealment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_material_non.md
-  - ./UPDATED_DRAFTS/analysis-main/PERSONAL_VS_TRUST_ASSETS_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_forfeiture.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_base.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_invoice_reality.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_business_disruption.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_recovery_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_freeze.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_assets.md
-  - ./2DO/x/regima.com/dan@regima.com/Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to present.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/assets_dissipated.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_gaslighting_tactics.md
-  - ./UPDATED_DRAFTS/analysis-main/IT_INVOICE_ACCOUNT_SEIZURE_SECTION_FACT_BASED.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/investigating_adderory.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(3).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_preservation_order.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_asset.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres.pdf
-  - ./2DO/x/regima.zone/emma@regima.zone/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(2).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_cover.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_asset_value.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_reframing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/affected_stocks.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_forfeiture.md
-  - ./ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/emergency_asset_freeze.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/framework_stock.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_campaign.md
-  - ./2DO/x/riskinternational.co.za/stef@riskinternational.co.za/FW_ Jacqui Faucitt invoice inv 170015.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_preservation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_asset_control.md
-  - ./analyze_shopify_invoices.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_dissipation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/mike_bostock.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_court_avoidance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/justify_asset_seizure.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(3).pdf
-  - ./2DO/x/regima.zone/jax@regima.zone/FW_ Replit_ Invoice Payment Failed for RegimA.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_recovery_precedents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/missing_documents_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_shows_systematic.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_backing.md
-  - ./2DO/x/regima.zone/emma@regima.zone/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(1).pdf
-- **Ad Res J7 References:** 
-  - See files related to: R5.2M, stock, missing, simultaneous, R5.2M, invoice, Stock, physically, disappeared,, later, supplied, Adderory, RegimA., Systematic, asset, stripping, begins.
-- **Crime Category:** business_relationship
-- **Phase:** PHASE_001
-- **Event Subtype:** transfer_pricing_fraud_stock_theft_and_invoice
-- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_028
-- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
-- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
-- **Evidence Urls:** 
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/missing_entity_profiles.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/systematic_transfer.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/systematic_financial_manipulation.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/systematic_profit_extraction.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/limited_asset_recovery.md
-- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_028.html
-- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_028
-- **Related Application:** APPLICATION_1
-- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
-- **Ad Res J7 Evidence:** 
-  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
-  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}
+**Description:**
+R5.2M SLG stock missing with simultaneous R5.2M invoice from SLG to RST. Stock physically disappeared, same type later supplied by Adderory to RegimA. Systematic asset stripping begins.
+
+## Evidence References
+
+No specific evidence linked.
+
+## Raw Data
+
+```json
+{
+  "event_id": "EVENT_028",
+  "date": "2025-02-25",
+  "title": "R5.2M SLG Stock Missing & Large Invoice",
+  "category": "transfer_pricing_fraud",
+  "event_type": "stock_theft_and_invoice",
+  "perpetrators": [
+    "PERSON_001",
+    "PERSON_002",
+    "PERSON_007",
+    "PERSON_003"
+  ],
+  "victims": [
+    "ORG_004",
+    "TRUST_001"
+  ],
+  "entities_involved": [
+    "ORG_004",
+    "ORG_002",
+    "ORG_009"
+  ],
+  "description": "R5.2M SLG stock missing with simultaneous R5.2M invoice from SLG to RST. Stock physically disappeared, same type later supplied by Adderory to RegimA. Systematic asset stripping begins.",
+  "financial_impact": "R5,200,000",
+  "legal_significance": "systematic_asset_stripping_transfer_pricing_fraud",
+  "evidence": [
+    "financial_records",
+    "invoice_documentation",
+    "stock_reconciliation"
+  ],
+  "pattern": "foundation_phase",
+  "critical": true,
+  "additional_notes": "Same stock type supplied by Adderory (Rynette's son), demonstrates coordinated transfer pricing fraud",
+  "evidence_location": "ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md",
+  "extended_evidence_note": "See ad-res-j7 repository for detailed supporting documentation",
+  "related_applications": [
+    "APPLICATION_1"
+  ],
+  "evidence_files": [
+    "./UPDATED_DRAFTS/analysis-main/entities/missing_entity_profiles.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_transfer.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_manipulation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_profit_extraction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/limited_asset_recovery.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_witness_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_avoidance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_indicators.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(9).pdf",
+    "./2DO/x/regima.zone/emma@regima.zone/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(3).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_business_sabotage.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(7).pdf",
+    "./2DO/x/ensafrica.com/smunga@ensafrica.com/Re_ belongs to regimA.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_hiding.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_attack.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_seizure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_systematic_evidence.md",
+    "./2DO/x/regima.zone/ryan@regima.zone/Replit Invoice Sync Sign In.pdf",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_expense_dumping.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_shopify_invoices_provide.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(2).pdf",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(2).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_invoice_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/invoice_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_shopify_invoices.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_criminal_court.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_protection_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_systematic_takeover.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_freezing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_extraction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/inventory_assets.md",
+    "./2DO/x/regima.zone/jax@regima.zone/FW_ Replit Invoice Sync Sign In(1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_evidence_prevention.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_asset.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_harassment.md",
+    "./attached_assets/Pasted-Ah-Yes-The-attention-mechanism-is-exactly-the-missing-piece-here-You-ve-just-identified-some-1760634593896_1760634593897.txt",
+    "./UPDATED_DRAFTS/analysis-main/entities/stock_missing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_invoices.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_exclusion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/exposes_asset_stripping.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(2).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/their_shared_assets.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_coordination_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_systematic_escalation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/missing_documentation.md",
+    "./2DO/x/proton.me/jfaucitt@proton.me/REGIMA.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/missing_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_campaign_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_court_abuse.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_protection_scheme.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_asset_stripping.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_invoice_history.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_peter_systematically.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(4).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_base_growth.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF01/Re_ belongs to regimA.eml",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(13).pdf",
+    "./2DO/x/regima.zone/emma@regima.zone/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/days_later.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_infrastructure_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/server_missing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_transfer_documents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_invoice_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_evidence_destruction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_evidence_tampering.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_scheme.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_property_assets.md",
+    "./legal_analysis_2025_11/scheme_files/south_african_forensic_analysis_systematic_fraud_narrative.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_stripping_preparation.md",
+    "./2DO/x/regima.com/dan@regima.com/Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/zone_shopify_invoices.md",
+    "./lex/evid/za/south_african_evidence_systematic_fraud_patterns.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_stock.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_was_missing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_deception.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(14).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_recovery_priorities.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/stripping_scheme.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_planning.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_takeover.md",
+    "./docs/technical/implementation/SYSTEMATIC_CROSS_REFERENCING_IMPLEMENTATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fixed_asset_investment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shopify_invoices.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/office_assets.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_corporate_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_exploitation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_payment_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/systematic_sabotage_and_curatorship_fraud_evidence.md",
+    "./attached_assets/Pasted-Ah-Yes-The-attention-mechanism-is-exactly-the-missing-piece-here-You-ve-just-identified-some-1760633957168_1760633957168.txt",
+    "./UPDATED_DRAFTS/analysis-main/entities/hijacking_asset_stripping.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/creating_systematic_chaos.md",
+    "./ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_recovery.md",
+    "./2DO/x/regima.zone/dan@regima.zone/Fw_ STOCK2SHOP (PTY) Ltd Statement of Account for period 01 Jan 25 - 19 Jun 25.pdf",
+    "./case_2025_137857/02_evidence/misc/Re_ belongs to regimA.eml",
+    "./case_2025_137857/02_evidence/emails/Re_ belongs to regimA.eml",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_failures.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_forfeiture_unit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/assets_subject.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/missing_type_hints.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_orchestration.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(1).pdf",
+    "./evidence/annexures/JF-ITS1_IT_SERVICE_INVOICES_AND_CONTRACTS.md",
+    "./UPDATED_DRAFTS/analysis-main/post_murder_systematic_takeover_2023_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_psychological_manipulation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_asset_recovery.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(2).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_perjury_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_four_simultaneous.md",
+    "./lex/frn/za/south_african_forensic_analysis_systematic_fraud_narrative.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_stripping.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(5).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_invoice_claims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/missing_data.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/invoice_bomb.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(6).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/large_invoice.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_invoice_evidence_provides.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_recovery_cooperation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_recovery.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_court_jurisdiction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_recovery_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fixed_assets.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_technical_assets.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_category.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_protection_strategy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/provide_invoices.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_controller.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_theft_during.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_invoice.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/technology_mapping_missing.md",
+    "./2DO/x/regima.zone/jax@regima.zone/FW_ Replit Invoice Sync Sign In.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_invoice_payment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_expansion_strategy.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(4).pdf",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_execution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/infrastructure_systematic_removal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_nature.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Jacqui Faucitt invoice inv 170015.pdf",
+    "./2DO/x/rzo.io/d@rzo.io/RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Billin.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_suggests_systematic_transfer_pricing_mani.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_approach.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/Shopify_Invoices_RegimA_2016-2025.txt",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_shielding.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(3).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_asset_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_financial_sabotage.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/missing_dependencies_if.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/border_assets.md",
+    "./docs/legal/annexures/JF01/Re_ belongs to regimA.eml",
+    "./UPDATED_DRAFTS/analysis-main/entities/two_invoice_companies.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(11).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_base_value.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_utilization_enhancement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_freezing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_loss.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_missing_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/personal_assets.md",
+    "./ANNEXURES/JF01/Re_ belongs to regimA.eml",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_enables_systematic.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(10).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_systematically_destroyed.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_invoices_previously.md",
+    "./UPDATED_DRAFTS/analysis-main/IT_INVOICE_ACCOUNT_SEIZURE_SECTION_REVISION_LOG.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/strategic_assets.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_escalation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_stripping_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_gaslighting_deployment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_systematic_strategy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_exploitation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_revenue_stream.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_corporate_network_and_asset_stripping.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_shopify_invoices.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/assets_under_threat.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_dependent.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_coordination.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/invoice_records.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/international_data_theft_and_invoice_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/business_assets.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_tracing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_utilization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_value.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conspiracy_begins.md",
+    "./UPDATED_DRAFTS/analysis-main/IT_INVOICE_ACCOUNT_SEIZURE_SECTION.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd.pdf",
+    "./2DO/x/regima.com/dan@regima.com/Re_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_stripping.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/stock_thresholds_triggering.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_abuse.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/CROSS_REFERENCE_Bank_vs_Invoices.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/current_assets.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(8).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_base_expansion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/triggered_stock_changes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_systematic_takeover.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/strategic_asset_development.md",
+    "./lex/SYSTEMATIC_PERSECUTION_BASED_ON_PERJURY_2025-11-18.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_reform.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_shopify.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/camden_asset_recovery.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/prevents_asset_freezing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_concealment_scheme.md",
+    "./2DO/x/proton.me/jfaucitt@proton.me/regimaskin.co.za belongs to regimA.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_invoice_analysis_reveals_a.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/review_of_her_access_permissions_across_all_regima.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_forfeiture_powers.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_protection_trigger.md",
+    "./UPDATED_DRAFTS/SLG_R5_4M_STOCK_THEFT_TO_ADDERORY_COMPREHENSIVE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_distribution_priority.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_avalanche_begins.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_court_manipulation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_foundation_building.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/missing_information.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF5_ADDERORY_DOMAIN_WITH_EMAILS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_transfer_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_simultaneously.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(12).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/missing_financial_records.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/technology_assets.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_planning_indicators.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_shopify_invoices_provide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_freeze_application.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/stock_monitoring.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_deletion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_invoice.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_concealment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_material_non.md",
+    "./UPDATED_DRAFTS/analysis-main/PERSONAL_VS_TRUST_ASSETS_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_forfeiture.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ RegimA Worldwide - Sage - Rynette using Pete@regima.com - Accounts Locked Bi(1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_base.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_invoice_reality.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_business_disruption.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_recovery_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_freeze.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_assets.md",
+    "./2DO/x/regima.com/dan@regima.com/Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to present.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/assets_dissipated.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_gaslighting_tactics.md",
+    "./UPDATED_DRAFTS/analysis-main/IT_INVOICE_ACCOUNT_SEIZURE_SECTION_FACT_BASED.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/investigating_adderory.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd(3).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_preservation_order.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_asset.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres.pdf",
+    "./2DO/x/regima.zone/emma@regima.zone/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(2).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_cover.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_asset_value.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_reframing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/affected_stocks.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_forfeiture.md",
+    "./ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/emergency_asset_freeze.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/framework_stock.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_campaign.md",
+    "./2DO/x/riskinternational.co.za/stef@riskinternational.co.za/FW_ Jacqui Faucitt invoice inv 170015.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_preservation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_asset_control.md",
+    "./analyze_shopify_invoices.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_dissipation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/mike_bostock.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_court_avoidance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/justify_asset_seizure.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(3).pdf",
+    "./2DO/x/regima.zone/jax@regima.zone/FW_ Replit_ Invoice Payment Failed for RegimA.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_recovery_precedents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/missing_documents_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/timeline_shows_systematic.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_backing.md",
+    "./2DO/x/regima.zone/emma@regima.zone/Re_ Invoices paid by RegimA Zone UK card 7147 over the period 2023-07-01 to pres(1).pdf"
+  ],
+  "ad_res_j7_references": [
+    "See files related to: R5.2M, stock, missing, simultaneous, R5.2M, invoice, Stock, physically, disappeared,, later, supplied, Adderory, RegimA., Systematic, asset, stripping, begins."
+  ],
+  "crime_category": "business_relationship",
+  "phase": "PHASE_001",
+  "event_subtype": "transfer_pricing_fraud_stock_theft_and_invoice",
+  "github_pages_reference": "https://cogpy.github.io/revstream1/applications.md#event_028",
+  "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+  "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+  "evidence_urls": [
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/missing_entity_profiles.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/systematic_transfer.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/systematic_financial_manipulation.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/systematic_profit_extraction.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/limited_asset_recovery.md"
+  ],
+  "github_pages_url": "https://cogpy.github.io/revstream1/events/EVENT_028.html",
+  "timeline_reference": "https://cogpy.github.io/revstream1/timeline.html#EVENT_028",
+  "related_application": "APPLICATION_1",
+  "application_url": "https://cogpy.github.io/revstream1/application-1.html",
+  "ad_res_j7_evidence": [
+    {
+      "source": "case_2025_137857/",
+      "description": "Case documentation and analysis",
+      "url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857"
+    },
+    {
+      "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "description": "Complete evidence catalog (2,866 files)",
+      "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
+    }
+  ],
+  "timeline_phase": "PHASE_002",
+  "ad_res_j7_cross_references": [
+    "Evidence documented in ad-res-j7 repository",
+    "See ANNEXURES for event EVENT_028",
+    "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+  ],
+  "evidence_references": [
+    "case_2025_137857/02_evidence/",
+    "ANNEXURES/",
+    "docs/"
+  ]
+}
+```

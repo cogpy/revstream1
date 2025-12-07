@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-12-07T05:34:21.790076",
+  "ad_res_j7_analysis": {
+    "total_annexures": 13,
+    "annexure_folders": [
+      "JF01",
+      "JF02",
+      "JF03",
+      "JF04",
+      "JF05",
+      "JF06",
+      "JF07",
+      "JF08",
+      "JF09",
+      "JF10",
+      "JF11",
+      "JF12",
+      "JF13"
+    ],
+    "case_evidence_directories": [
+      "01_court_documents",
+      "02_evidence",
+      "03_analysis",
+      "05_medical_records",
+      "06_financial_fraud",
+      "07_legal_research"
+    ]
+  },
+  "evidence_mapping": {
+    "total_events_mapped": 77,
+    "evidence_categories": 7
+  }
+}

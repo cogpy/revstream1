@@ -1,902 +1,948 @@
-# Peter Files Founding Affidavit with Material Non-Disclosures
+---
+layout: default
+title: Peter Files Founding Affidavit with Material Non-Disclosures
+---
+# Peter Files Founding Affidavit with Material Non-Disclosures (EVENT_060)
 
-**Event ID:** `EVENT_060`
 **Date:** 2025-08-13
 
-- **Category:** perjury
-- **Event Type:** false_court_filing
-- **Perpetrators:** 
-  - PERSON_001
-- **Victims:** 
-  - PERSON_004
-  - PERSON_005
-- **Entities Involved:** 
-  - ORG_001
-- **Description:** Peter files founding affidavit containing material non-disclosures and perjury regarding email control, filed 2 days after settlement agreement
-- **Legal Significance:** perjury_material_non_disclosure_manufactured_crisis
-- **Evidence:** 
-  - founding_affidavit_2025_08_13
-- **Pattern:** cover_up_phase
-- **Critical:** True
-- **Timeline Phase:** PHASE_006
-- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
-- **Related Applications:** 
-  - APPLICATION_2
-  - APPLICATION_3
-- **Evidence Files:** 
-  - ./lex/SCHEDULE_MATERIAL_NON_DISCLOSURES_2025-11-18_UPDATED.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjured_affidavits.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/core_framework_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_communication_compromise.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/1.2.MAT4719-AnsweringAffidavit-CORRECTED.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_entities_profiled.md
-  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_12_3_DAN_SETTLEMENT_TIMING.json
-  - ./evidence/annexures/JF-DLA1_PETER_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_enforcement.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/draft_affidavit_enhanced.md
-  - ./case_2025_137857/02_evidence/misc/Peter Faucitt _ Jacqui Faucitt and others.msg
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_analysis.md
-  - ./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/agreements_are.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/citizenship_settlement_anomalies.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_mapping_shopify_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/ensures_peter.md
-  - ./UPDATED_DRAFTS/DRAFT_EVALUATION_WITH_DANIE_BANTJIES_PERJURY.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/ocr-email-cc-analysis-critical-findings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/source_files.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/ocr-analysis-email-cc-implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/dan_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_transfers.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/controls_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_server_records.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/next_steps_after.md
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/RESPONDING_AFFIDAVIT_DRAFT_backup_20251013_115433.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANSWERING_AFFIDAVIT_JACQUELINE_FAUCITT.md
-  - ./2DO/x/regima.com/jax@regima.com/Artwork Files.pdf
-  - ./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025/email-body.html
-  - ./jax-dan-response/evidence-attachments/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx
-  - ./backups/pre-consolidation/jax-dan-response/peters_causation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/files_delivered.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_peak_performance.md
-  - ./docs/reports/affidavit_case_simulation_results.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreements_both.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_correspondence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_owed_duties.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/remove_redundant_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/how_agreement_prevents.md
-  - ./legal-hypergraphql/evaluate-case-affidavits.js
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_andrew.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_potential_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/if_peter_filed.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/since_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_control_evidence.md
-  - ./jax-dan-response/evidence-attachments/PETERS_CAUSATION_SECTION_DRAFT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/damage_assessment_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/files_analyzed.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/why_peter_escalates.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/Affidavit_Amendment_Recommendations.json
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/material_impact.md
-  - ./case_2025_137857/02_evidence/misc/Peter Faucitt _ Jacqui Faucitt and others.eml
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_address.md
-  - ./jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.json
-  - ./evidence/2025-11-14-batch-3/settlement_agreements_detailed_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_hijacking.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/modifying_elements_after.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/the_interdict_affidavits_enhanced.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_settlement_vulnerability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/files_modified.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_provided.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_files_overview.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/agreement_analyzer.md
-  - ./evidence/correspondence/JF8C_PETER_REFUSAL_TO_ENGAGE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/generated_analysis_files.md
-  - ./UPDATED_DRAFTS/analysis-main/scripts/enhance_affidavits.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence_analysis.md
-  - ./docs/reports/completion/TASK_COMPLETION_PETERS_WITHDRAWALS_JF-PA.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/0558631 Settlement agreement (sgd).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_validation.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251009/email_analysis_findings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Analysis_-_Summary_of_Three-Part_Classification.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_recipients_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/material_evidence_summary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_files_second.md
-  - ./legal-hypergraphql/affidavit-plan-generator.js
-  - ./2DO/x/regima.zone/jax@regima.zone/Fw_ THEIR FOUNDING PAPERS(1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_authentication.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_pete.md
-  - ./docs/legal/annexures/JF08/evidence_package_20250606/email-body.html
-  - ./docs/legal/affidavits/AFFIDAVIT_shopify_evidence_comprehensive_FACT_BASED.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/any_peter_faucitt.md
-  - ./backups/pre-consolidation/jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-ENHANCED.docx
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(1).pdf
-  - ./jax-dan-response/PETERS_CAUSATION_INTEGRATION_GUIDE.md
-  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Response Affidavit.pdf
-  - ./jax-response/evidence-attachments/dan-technical/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_from.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v5.json
-  - ./UPDATED_DRAFTS/analysis-main/RESPONDING_AFFIDAVIT_DRAFT_FACT_BASED.md
-  - ./jax-dan-response/evidence-attachments/Dan_Technical_Infrastructure_Affidavit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/files_changed.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_party_disclosures.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/why_these_agreements.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ I NEED TO SEE THE AMOUNT IN MY PERSONAL ACCOUNT - [External Email](1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/analysis/SETTLEMENT_TROJAN_HORSE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/AFFIDAVIT_shopify_evidence_comprehensive.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Analysis_-_Part_3_Circumstantial_and_Inferred_Points.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/immediately_after_murder.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md
-  - ./jax-dan-response/evidence-attachments/JF5_DRAFT_SETTLEMENT_AGREEMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_hijacking.md
-  - ./jax-dan-response/medium_priority_responses/settlement_and_timing.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ DRAFT ANSWERING AFFIDA.pdf
-  - ./UPDATED_DRAFTS/analysis-main/affidavits/invariant-guilt-framework/Supplementary_Affidavit_Invariant_Guilt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/configuration_files.md
-  - ./ANNEXURES/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_affected_while_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/material_non.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/available_predefined_profiles.md
-  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_emails.md
-  - ./backups/affidavits/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES.json
-  - ./UPDATED_DRAFTS/analysis-main/src/data_processing/cleanup_outdated_files.py
-  - ./backups/pre-consolidation/jax-dan-response/settlement_and_timing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_file.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/expert_affidavit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_august.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_clause_type.md
-  - ./jax-dan-response/settlement_and_timing.md
-  - ./2DO/x/regima.com/dan@regima.com/Responding Affidavit - v5.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_after_kayla.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_re.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_evidence_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/protected_disclosures_act.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/impact_profiles.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_negotiation.md
-  - ./evidence/annexures/JF5-DRAFT_SETTLEMENT_AGREEMENT_INITIAL.md
-  - ./evidence/property_unit9_southview_park/email-body.html
-  - ./2DO/x/regima.com/dan@regima.com/FIRST DRAFT_ NOTICE OF WITHDRAWAL FROM SETTLEMENT AGREEMENTS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/prepare_prosecution_materials.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
-  - ./docs/reports/completion/FINAL_AFFIDAVITS_SUMMARY.md
-  - ./jax-dan-response/evidence-attachments/JF5_FINAL_SETTLEMENT_AGREEMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_pattern.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf
-  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025.pdf
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_4_SETTLEMENT_AND_TIMING.md
-  - ./2DO/x/regima.zone/jax@regima.zone/FW_ Mandate Agreement _ Client information.pdf
-  - ./jax-response/dan-response-materials/comprehensive_material_non_disclosure.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-2025-09-30.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF5_ADDERORY_DOMAIN_WITH_EMAILS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_evidence_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/using_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/identify_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/0558631 Settlement agreement (medical testing) (sgd).pdf
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_shopify_evidence_comprehensive_enhanced.md
-  - ./UPDATED_DRAFTS/analysis-main/models/frameworks/settlement_agreement_analysis.md
-  - ./docs/legal/evidence/EVIDENCE_INVENTORY_AND_AFFIDAVIT_CHECKLIST.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/for_peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_claims.md
-  - ./affidavit_work/analysis/Affidavit_Analysis_-_Summary_of_Three-Part_Classification.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_files.md
-  - ./jax-response/evidence-attachments/dan-technical/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/establishes_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/negotiated_settlement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regarding_buffer.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/PETERS_CAUSATION_SECTION_DRAFT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/while_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_recipients.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE-ENHANCED.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_email_campaign.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_compliance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_regarding_regima_group.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/founding_affidavit_key_enhanced.md
-  - ./evidence/legal-documents/settlement-mediation/0558631_Settlement_agreement_(sgd).pdf
-  - ./UPDATED_DRAFTS/analysis-main/memorandum_of_agreement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_node.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/documentation_files_created.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/Affidavit_Amendment_Recommendations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/personal_email_usage.md
-  - ./jax-dan-response/evidence-attachments/PETERS_CAUSATION_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_email.md
-  - ./docs/reports/verification/TASK_VERIFICATION_PETERS_PARTICIPATION.md
-  - ./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v4.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_exposing_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_review.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_files_processed.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_spoofing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/material_evidence_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/ocr-analysis-email-cc-implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/why_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/forensic_analysis/MEDICAL_TESTING_AGREEMENT_FORENSIC_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/facilitate_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_fraud.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/CONVERTED_EMAIL_EVIDENCE_-_COURT-READY_DOCUMENTATION_(UPDATED).pdf
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE - ENHANCED_backup_20251013_130927.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_court_response.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/clarified_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_only.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/secure_email_communications.md
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_shopify_evidence_comprehensive_FACT_BASED_backup_20251013_120719.md
-  - ./UPDATED_DRAFTS/2_YEAR_ACCOUNTING_BLACKOUT_AFTER_KAYLA_EMAIL_SEIZURE.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/obtain_peter.md
-  - ./jax-response/peter-interdict/peter-faucitt-interdict-complete.json
-  - ./UPDATED_DRAFTS/analysis-main/EVIDENCE_EXTRACTION_NEW_EMAILS.md
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/settlement-agreement-jf5/JF5-FINAL_Settlement_Agreement_Signed_Version.md
-  - ./jax-response/evidence-attachments/dan-technical/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_files.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(2).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_compliance_directive.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_after_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/exploit_peter.md
-  - ./jax-response/peter-interdict/peter-faucitt-interdict-combined.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/maintain_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/additional_profiles.md
-  - ./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/peter-faucitt-interdict/peter-faucitt-interdict-combined.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/agreement_obligations.md
-  - ./docs/legal/affidavits/AFFIDAVIT_CASE_SIMULATION_ANALYSIS.md
-  - ./2DO/x/regima.com/dan@regima.com/TECHNICAL AFFIDAVITS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_andrew_faucitt.md
-  - ./2DO/x/regima.com/dan@regima.com/NOTICE OF WITHDRAWAL FROM SETTLEMENT AGREEMENTS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/output_files_the.md
-  - ./docs/legal/affidavits/jax-affidavit-financial-hemorrhage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_peter.md
-  - ./jax-dan-response/peters_causation.md
-  - ./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_addresses.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF8_LINDA_EMPLOYMENT_WITH_EMAILS.pdf
-  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-complete.md
-  - ./2DO/x/regima.com/dan@regima.com/MATERIAL NON-DISCLOSURE.pdf
-  - ./docs/legal/annexures/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md
-  - ./UPDATED_DRAFTS/analysis-main/RESPONDING_AFFIDAVIT_DRAFT_REVISION_LOG.md
-  - ./backups/pre-consolidation/jax-response/source-documents/FINAL_AFFIDAVIT_CHANGES_LOG.md
-  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-combined.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/impersonating_peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_optimization.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_vulnerability_analyzer.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_is.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/files_processed.md
-  - ./evidence/annexures/JF-PA1_PETER_WITHDRAWAL_EXAMPLE_1.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_servers.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v3.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_communication_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_signing.md
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_shopify_evidence_comprehensive_backup_20251013_114310.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/compensate_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_systematically.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/material_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/abuse_affidavit_enhanced.md
-  - ./jax-dan-response/peters_discovery.md
-  - ./ANNEXURES/JF08/evidence_package_20251012/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025_automated/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/aware_settlement_agreements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_email_address.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/document_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statement_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/from_email_accounts.md
-  - ./jax-response/dan-response-materials/peters_discovery.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enhanced_individual_profiles.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_package.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/prevent_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/RESPONDING_AFFIDAVIT_DRAFT_enhanced.md
-  - ./evidence/2025-11-14-batch-4/NOTICEOFWITHDRAWLFROMSETTLEMENTS.msg
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/03_supporting_affidavit_bantjies_medical.md
-  - ./evidence/2025-11-14-batch-4/NOTICEOFWITHDRAWLFROMSETTLEMENTS.zip
-  - ./UPDATED_DRAFTS/analysis-main/entities/legacy_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_charge.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/demonstrate_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/coerced_settlement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_may.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_regarding_financial_analysis_of_regima_group.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_FINAL_SETTLEMENT_AGREEMENT.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md
-  - ./jax-dan-response/AD/3-Medium-Priority/PARA_12_3_DAN_SETTLEMENT_TIMING.md
-  - ./affidavit_work/corrections/Affidavit_Critical_Corrections_-_URGENT.docx
-  - ./2DO/x/regima.zone/jax@regima.zone/FW_ NOTICE OF WITHDRAWL FROM SETTLEMENTS.pdf
-  - ./jax-dan-response/evidence-attachments/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_perjury_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/RESPONDING_AFFIDAVIT_DRAFT_FACT_BASED_backup_20251013_113146.md
-  - ./UPDATED_DRAFTS/analysis-main/tests/test_affidavit_enhancement.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/affidavit_review.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/false_affidavit_enhanced.md
-  - ./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v3.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_verification.md
-  - ./jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./jax-response/evidence-attachments/dan-technical/Dan_Technical_Infrastructure_Affidavit.md
-  - ./1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_to_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_avoids.md
-  - ./evidence/2025-11-14-batch/settlement_agreements_detailed_analysis.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v5.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_information.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v4.json
-  - ./ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_proves.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/email_compliance_directive_2025-07-08.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/immediate_access_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/using_peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_shopify_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence_shows.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_filed.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_type.md
-  - ./jax-response/source-documents/FINAL_AFFIDAVIT_SUMMARY.md
-  - ./affidavit_work/corrections/Affidavit_Critical_Addition_-_Jacqui_as_Responsible_Person.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/raw_materials_liquidation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/report_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-combined.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_files.md
-  - ./jax-response/evidence-attachments/dan-technical/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_type_classification.md
-  - ./evidence/correspondence/JF8B_EMAIL_COOPERATION_CHAINS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/against_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE - ENHANCED.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/abuse_affidavit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_elements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_kayla.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_change.md
-  - ./2DO/x/regima.com/dan@regima.com/BIG FONT JAX - Affidavit with AD PARAGRAPHS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/received_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_files.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251009/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_progress.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_data_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/documentation_files.md
-  - ./jax-dan-response/evidence-attachments/JF5_DRAFT_AGREEMENT_INITIAL_VERSION.md
-  - ./UPDATED_DRAFTS/analysis-main/tests/unit/test_medical_testing_agreement_analyzer.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_prosecution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/demonstrates_peter.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_12_3_DAN_SETTLEMENT_TIMING.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251009/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/reveals_email_address.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_revelation_impact.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Critical_Corrections_-_URGENT.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/management_agreement.md
-  - ./2DO/x/regima.com/dan@regima.com/Conditions That Breach_Void the Settlements.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_email_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/enhanced_affidavit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_server.md
-  - ./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v3.md
-  - ./lex/SYSTEMATIC_PERSECUTION_BASED_ON_PERJURY_2025-11-18.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_settlement_risk.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shareholder_agreement_implementation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_email.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF3_STRATEGIC_LOGISTICS_WITH_EMAILS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_assessment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/unassailable_perjury_evidence.md
-  - ./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v5.md
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/draft_affidavit_backup_20251013_123423.md
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/the_interdict_affidavits_backup_20251013_125016.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/using_predefined_profiles.md
-  - ./docs/legal/affidavits/daniel-affidavit-strategic-logistics.md
-  - ./jax-response/dan-response-materials/settlement_and_timing.md
-  - ./backups/affidavits/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v2.md
-  - ./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json
-  - ./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_ENHANCEMENT_SYSTEM.md
-  - ./affidavit_work/analysis/Affidavit_Analysis_-_Part_2_Strong_Supporting_Evidence.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_jurisdiction.md
-  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-combined.json
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ ALL COMMENTS ON AFFIDAVIT RECEIVED TODAY.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_files_added.md
-  - ./jax-response/evidence-attachments/settlement-agreement-jf5/JF5-FINAL_Settlement_Agreement_Signed_Version.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/data_files.md
-  - ./jax-dan-response/evidence-attachments/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.BACKUP_backup_20251013_130827.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_date.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/immediate_aftermath.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md
-  - ./jax-response/AD/1-Critical/PETER_TRUST_POWER_ABUSE_LEX_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_improvements.md
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/ENHANCED_AFFIDAVIT_PROCESSING_FIX_backup_20251013_112138.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/enhanced_affidavit_enhanced.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/verified_email_control.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/ENHANCED_AFFIDAVIT_PROCESSING_FIX_enhanced.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/create_peter.md
-  - ./2DO/x/regima.com/dan@regima.com/Consequences of Peter Exceeding the Interdict.pdf
-  - ./jax-response/source-documents/ANSWERING_AFFIDAVIT_-_JACQUELINE_FAUCITT_(FINAL_DRAFT_FOR_REVIEW_BYJAX).docx
-  - ./tests/affidavit-v3-annexure-verification.test.js
-  - ./UPDATED_DRAFTS/analysis-main/entities/regarding_communication_interception.md
-  - ./ANNEXURES/SF4_SARS_Audit_Email.md
-  - ./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v5.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_warehouse_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/.github/workflows/enhance-affidavits.yml
-  - ./UPDATED_DRAFTS/analysis-main/entities/between_peter_faucitt.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_pressure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_cannot.md
-  - ./docs/legal/annexures/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shows_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/output_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_impersonation_escalation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_considerations.md
-  - ./affidavit_work/analysis/Affidavit_Analysis_-_Part_1_Irrefutable_Proof.docx
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md
-  - ./UPDATED_DRAFTS/1.2. MAT4719 - DRAFT Answering Affidavit.docx
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE_backup_20251013_130901.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/entity_files.md
-  - ./jax-response/analysis-output/Affidavit_Amendment_Recommendations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_chain.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/analysis_files_generated.md
-  - ./UPDATED_DRAFTS/analysis-main/AFFIDAVIT_ENHANCEMENT_DEMO_RESULTS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_document_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_investment_agreement.md
-  - ./jax-response/evidence-attachments/dan-technical/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md
-  - ./legal-hypergraphql/affidavit-evaluator.js
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_analysis_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/citizenship_settlement_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_vulnerability.md
-  - ./docs/AFFIDAVIT_V3_ANNEXURE_QUICK_REFERENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_scheme_value.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_communications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/appears_peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_ENHANCEMENT_DEMO_RESULTS_enhanced.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/RESPONDING_AFFIDAVIT_DRAFT_REVISION_LOG_enhanced.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/trial_balance_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_email_print.md
-  - ./jax-response/evidence-attachments/dan-technical/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_ENHANCEMENT_SYSTEM_enhanced.md
-  - ./jax-dan-response/evidence-attachments/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/if_peter_faucitt.md
-  - ./jax-response/evidence-attachments/dan-technical/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./SIMULATION_RESULTS/AFFIDAVIT_CASE_SIMULATION_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domains.md
-  - ./backups/affidavits/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v2.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/draft_response_materials.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/founding_affidavit_key.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/executive_summary_after.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/markdown_files.md
-  - ./UPDATED_DRAFTS/analysis-main/create_entity_files.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/call_option_agreement.md
-  - ./jax-response/evidence-attachments/dan-technical/SECTION_4_SETTLEMENT_AND_TIMING.md
-  - ./docs/AFFIDAVIT_V3_ANNEXURE_VERIFICATION_COMPLETE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/implementation_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/how_agreement_exploits.md
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/affidavit_review_backup_20251013_125916.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_evidence_submission.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Firstly - Regarding the only (false) claim made against Jacqui Faucitt.pdf
-  - ./2DO/x/regima.zone/jax@regima.zone/Re_ ALL COMMENTS ON AFFIDAVIT RECEIVED TODAY.pdf
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/files_first_interdict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_proof.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/remove_peter.md
-  - ./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v4.json
-  - ./2DO/x/regima.com/dan@regima.com/AD Paragraph Numbers from Peter's Founding Affidavit (in order) MOSTLY COMPLETE.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/predefined_agent_profiles.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence_invalid.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/schema_files_created.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_address_evidence.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/THEIR FOUNDING PAPERS.pdf
-  - ./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md
-  - ./UPDATED_DRAFTS/analysis-main/affidavits/Implementation_Guide_Affidavit_Mitigation.md
-  - ./2DO/x/ensafrica.com/smunga@ensafrica.com/Peter Faucitt _ Jacqui Faucitt and others.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/large_duplicate_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/test_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreements.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/1.2. MAT4719 - Answering Affidavit.docx
-  - ./FINAL_ANSWERING_AFFIDAVIT_ABRIDGED.docx
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/expert_affidavit_enhanced.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_did.md
-  - ./docs/legal/analysis/AFFIDAVIT_CASE_SIMULATION_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/updates_peter_faucitt.md
-  - ./evidence/annexures/JF-PA2_PETER_WITHDRAWAL_EXAMPLE_2.md
-  - ./UPDATED_DRAFTS/analysis-main/settlement_vulnerability_report_case_2025_137857_20251008_073926.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/created_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_access.md
-  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_evidence_generation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shareholder_agreement.md
-  - ./jax-response/source-documents/SECTION_3_ADDITION_DANS_TECHNICAL_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/JUNE_6_10_EMAILS_DANIE_BANTJIES.txt
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_control_structure.md
-  - ./evidence/annexures/JF5-FINAL_SETTLEMENT_AGREEMENT_SIGNED.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sue_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shareholder_agreement_gaps.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_settlements.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_shopify_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/RESPONDING_AFFIDAVIT_DRAFT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/second_interdict_filed.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_email_proves.md
-  - ./jax-dan-response/evidence-attachments/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/RESPONDING_AFFIDAVIT_DRAFT_FACT_BASED_enhanced.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF6_KAYLA_ESTATE_WITH_EMAILS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_clients_likely_diverted_to_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_settlement_agreement.md
-  - ./2DO/x/regima.com/dan@regima.com/Mr.Bantjies Forgot to Include in His Affidavit.pdf
-  - ./jax-response/source-documents/FINAL_ASSESSMENT_Jacqui_Affidavit_(Reconstructed_Version).docx
-  - ./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.BACKUP.docx
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/abuse_affidavit_backup_20251013_123155.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_details.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/reveals_email.md
-  - ./jax-response/evidence-attachments/dan-technical/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE-ENHANCED.docx
-  - ./2DO/x/regima.com/dan@regima.com/MATERIAL NON-DISCLOSURE AND EXCLUDED INFORMATION.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/material_false_statements.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_criminal_complaint.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/medical_testing_settlement.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Proof of addresses _ Mandates - [External Email].pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_nullification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_vulnerability_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/assumed_peter.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ I NEED TO SEE THE AMOUNT IN MY PERSONAL ACCOUNT - [External Email].pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_capacity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_email.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Analysis_-_Part_1_Irrefutable_Proof.docx
-  - ./run_affidavit_case_simulation.py
-  - ./docs/legal/affidavits/FINAL_ANSWERING_AFFIDAVIT_ABRIDGED.md
-  - ./applications/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/any_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_structure_modifications.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_evidence_the.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_DRAFT_AGREEMENT_INITIAL_VERSION.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/Email-2025-08-11-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/src/affidavit_enhancement/affidavit_processor.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_revelation.md
-  - ./jax-dan-response/criminal-complaint/annexures/ANNEXURE_JAF2_Settlement_Agreements_Reference.md
-  - ./ANNEXURES/JF08/evidence_package_20251009/email_analysis_findings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/how_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/both_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/primary_integration_files.md
-  - ./UPDATED_DRAFTS/analysis-main/uk_funding_sa_operations_perjury_evidence.md
-  - ./case_2025_137857/02_evidence/evidence_package_20250606/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_interdict_affidavits.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_trojan_horse.md
-  - ./jax-response/evidence-attachments/dan-technical/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/makes_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/psychological_settlement_special.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_cc_equals.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250606/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_citizenship_assessment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_exploitation_details.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_plus_email.md
-  - ./ANNEXURES/JF08/evidence_package_20250606/email-body.html
-  - ./jax-dan-response/evidence-attachments/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/if_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/files_included.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/citizenship_settlement_analyzer.md
-  - ./jax-dan-response/criminal-complaint/SUPPORTING_AFFIDAVIT_Jacqueline_Faucitt_POPIA_Obstruction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_decision.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_sends_email.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/Email_Attachments_Extraction_Summary.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_matters_agreement.md
-  - ./affidavit_work/analysis/Affidavit_Analysis_-_Part_3_Circumstantial_and_Inferred_Points.docx
-  - ./2DO/x/regima.zone/dan@regima.zone/We've Got a New Email Address!.pdf
-  - ./WIP/KF0019_ANSWERING_AFFIDAVIT_JACQUELINE.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_12_3_DAN_SETTLEMENT_TIMING.json
-  - ./evidence/legal-documents/settlement-mediation/0558631_Settlement_agreement_(medical_testing)_(sgd).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/all_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_similarities.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/confirm_peter.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/challenge_settlement_structure.md
-  - ./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_12_3_DAN_SETTLEMENT_TIMING.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_repeatedly.md
-  - ./backups/pre-consolidation/jax-dan-response/comprehensive_material_non_disclosure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_this_evidence.md
-  - ./ANNEXURES/JF08/evidence_package_20251009/email-body.html
-  - ./evidence/legal-documents/court-filings/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf
-  - ./jax-response/evidence-attachments/dan-technical/JF5_FINAL_SETTLEMENT_AGREEMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_shopify_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/original_email_date.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/false_affidavit.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025-137.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_files.md
-  - ./jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.md
-  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_hijacking.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/program_files.md
-  - ./backups/pre-consolidation/jax-dan-response/medium_priority_responses/confirmatory_affidavits.md
-  - ./2DO/x/regima.zone/jax@regima.zone/NOTICE OF WITHDRAWL FROM SETTLEMENTS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/ensure_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/python_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/court_order_filed.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/Dan_Technical_Infrastructure_Affidavit.md
-  - ./jax-dan-response/AD/1-Critical/EVIDENCE_ANNEXURE_OUTLINE_MAPPED_TO_FILES.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/basic_settlement_vulnerability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_type.md
-  - ./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(1).pdf
-  - ./jax-response/peter-interdict/peter-faucitt-interdict-combined.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/void_settlements.md
-  - ./2DO/x/regima.zone/jax@regima.zone/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_material_non.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/whether_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_shopify_evidence_comprehensive_REVISION_LOG_enhanced.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Critical_Addition_-_Jacqui_as_Responsible_Person.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_records.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_DRAFT_SETTLEMENT_AGREEMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/reference_all_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_enforceability.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/1.2. MAT4719 - Answering Affidavit.BACKUP.docx
-  - ./jax-dan-response/comprehensive_material_non_disclosure.md
-  - ./jax-response/evidence-attachments/settlement-agreement-jf5/JF5-DRAFT_Settlement_Agreement_Initial_Version.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/commercial_settlement_matrix.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_REVIEW_SYSTEM.md
-  - ./jax-dan-response/annexures/2025-11-14-evidence-batch/ANNEXURE_C_Trustee_Appointment_Email_2024-07-01.md
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/expert_affidavit_backup_20251013_122506.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/settlement_vulnerability_demonstration_guide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/help_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_has.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/predefined_profiles.md
-  - ./jax-response/evidence-attachments/dan-technical/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md
-  - ./backups/pre-consolidation/jax-response/source-documents/FINAL_ASSESSMENT_Jacqui_Affidavit_(Reconstructed_Version).docx
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Firstly - Regarding the only (false) claim made against Jacqui Faucitt(1).pdf
-  - ./backups/pre-consolidation/jax-dan-response/peters_discovery.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_security.md
-  - ./jax-response/evidence-attachments/dan-technical/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx
-  - ./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md
-  - ./UPDATED_DRAFTS/analysis-main/models/frameworks/citizenship_settlement_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/strength_after_validation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/through_coercive_agreement.md
-  - ./UPDATED_DRAFTS/SARS_AUDIT_EMAIL_BANTJIES_INSTRUCTIONS_SMOKING_GUN.md
-  - ./UPDATED_DRAFTS/analysis-main/ENHANCED_AFFIDAVIT_PROCESSING_FIX.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/files_added.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/files_created.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/share_purchase_agreements.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/affidavit_review_enhanced.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/different_settlement_clause.md
-  - ./2DO/x/regima.zone/jax@regima.zone/ALL COMMENTS ON AFFIDAVIT RECEIVED TODAY.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/material_evidence_report.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_email_package.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/missing_entity_profiles.md
-  - ./docs/legal/affidavits/ANSWERING_AFFIDAVIT_JACQUELINE_FAUCITT.md
-  - ./UPDATED_DRAFTS/analysis-main/peter_fiduciary_breach_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/peter-faucitt-interdict/peter-faucitt-interdict-complete.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/material_misrepresentation.md
-  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-complete.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/draft_affidavit.md
-  - ./evidence/2025-11-14-batch-4/NOTICEOFWITHDRAWLFROMSETTLEMENTS.eml
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_email_evidence.md
-  - ./evidence/2025-11-14-batch-2/settlement_agreements_detailed_analysis.md
-  - ./jax-dan-response/AD/3-Medium-Priority/PARA_12_3_DAN_SETTLEMENT_TIMING.json
-  - ./jax-response/evidence-attachments/dan-technical/JF5_DRAFT_AGREEMENT_INITIAL_VERSION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/only_peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_context.md
-  - ./jax-dan-response/evidence-attachments/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/02_supporting_affidavit_shopify_rynette.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md
-  - ./jax-response/evidence-attachments/dan-technical/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/material_false_statement.md
-  - ./2DO/x/regima.zone/jax@regima.zone/FW_ Email restriction.pdf
-  - ./jax-dan-response/evidence-attachments/SECTION_4_SETTLEMENT_AND_TIMING.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/reports_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/founding_affidavit_key_backup_20251013_124320.md
-  - ./backups/pre-consolidation/jax-dan-response/medium_priority_responses/settlement_and_timing.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251009/email-body.html
-  - ./2DO/x/elliottattorneys.co.za/keegan@elliottattorneys.co.za/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/existing_settlement_framework.md
-  - ./docs/legal/affidavits/FINAL_ANSWERING_AFFIDAVIT_COMPLETE.md
-  - ./lex/SCHEDULE_MATERIAL_NON_DISCLOSURES_2025-11-18.md
-  - ./UPDATED_DRAFTS/analysis-main/affidavits/Mitigation_Strategies_Answering_Affidavit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/how_email.md
-  - ./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md
-  - ./evidence/annexures/JF-PA3_PETER_WITHDRAWAL_EXAMPLE_3.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/against_peter_faucitt.md
-  - ./backups/pre-consolidation/jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-FINAL.docx
-  - ./UPDATED_DRAFTS/analysis-main/tools/integrated_settlement_citizenship_analysis.py
-  - ./evidence/annexures/JF-RF2_EMAIL_PROVIDING_PASSWORDS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_charges.md
-  - ./2DO/x/regima.com/dan@regima.com/BIG FONT - Original Founding Affidavit with AD PARAGRAPHS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/01_main_responding_affidavit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/material_evidence_only.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/material_falsity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/RESPONDING_AFFIDAVIT_DRAFT_REVISION_LOG_backup_20251013_112138.md
-  - ./jax-response/dan-response-materials/peters_causation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/performance_after_may.md
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/enhanced_affidavit_backup_20251013_130121.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_analysis.md
-  - ./FINAL_ANSWERING_AFFIDAVIT_COMPLETE.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/create_peter_faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_18_acceptance_trusteeship_peter.md
-  - ./jax-dan-response/criminal-complaint/CRIMINAL_COMPLAINT_POPIA_Section_107_Peter_Faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_cc.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Analysis_-_Part_2_Strong_Supporting_Evidence.docx
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/unknown_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_revelations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/psychological_settlement_agreements.md
-  - ./jax-dan-response/rule-42-rescission/FOUNDING_AFFIDAVIT_Daniel_Faucitt_Rule_42.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/owes_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_evidence_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proves_peter.md
-  - ./evidence/annexures/JF-PA4_PETER_WITHDRAWAL_EXAMPLE_4.md
-  - ./jax-dan-response/medium_priority_responses/confirmatory_affidavits.md
-  - ./SIMULATION_RESULTS/run_affidavit_case_simulation.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_bank_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement.md
-  - ./UPDATED_DRAFTS/analysis-main/tools/citizenship_settlement_analyzer.py
-  - ./UPDATED_DRAFTS/analysis-main/tests/unit/test_settlement_vulnerability_analyzer.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_exposed.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/main_settlement_agreement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/appears_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_files_ex.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251012/email-body.html
-  - ./jax-dan-response/rule-42-rescission/UPDATED_AFFIDAVIT_SECTIONS_Para_40-60_2025-11-14.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regarding_fund_misallocation.md
-  - ./lex/RULE_42_MATERIAL_NON_DISCLOSURE_MAPPING_2025-11-18.md
-  - ./legal_analysis_2025_11/court_documents/2025_08_19_-_Peter_Faucitt_Interdict.pdf
-  - ./UPDATED_DRAFTS/analysis-main/AFFIDAVIT_shopify_evidence_comprehensive_REVISION_LOG.md
-  - ./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.json
-  - ./UPDATED_DRAFTS/analysis-main/docs/1.2. MAT4719 - Answering Affidavit - ENHANCED.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/files_destroyed.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_to.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/case_draft_docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF4_SARS_AUDIT_WITH_EMAILS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_email_receipt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_nullification.md
-  - ./jax-dan-response/evidence-attachments/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/files_second_interdict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/specific_perjury_instances.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence_summary.md
-  - ./lex/URGENT_APPLICATION_MATERIAL_NON_DISCLOSURES_2025-11-18.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251009/email_analysis_findings.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & 1 OTHER (CASE NR_ 2025-137857).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/remove_duplicate_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/needs_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/void_settlement.md
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/false_affidavit_backup_20251013_125220.md
-  - ./UPDATED_DRAFTS/analysis-main/scripts/manage_affidavit_reviews.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_interdict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_output_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regarding_director.md
-  - ./database/data/affidavit_sections_20251102_185041.csv
-  - ./UPDATED_DRAFTS/analysis-main/entities/integrated_settlement_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_happens_after.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/because_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/analysis_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/original_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/case_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_content.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/attached_files.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251009/email_analysis_findings.md
-  - ./jax-response/analysis-output/Affidavit_Amendment_Recommendations.json
-  - ./UPDATED_DRAFTS/UK_Funding_SA_Operations_Comprehensive_Perjury_Evidence.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_sender.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/material_facts_review.md
-  - ./docs/legal/affidavits/EVIDENCE_INVENTORY_AND_AFFIDAVIT_CHECKLIST.md
-  - ./UPDATED_DRAFTS/DANIE_BANTJIES_PERJURY_ANALYSIS_COMPREHENSIVE.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v3.md
-  - ./jax-response/evidence-attachments/dan-technical/JF5_DRAFT_SETTLEMENT_AGREEMENT.md
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_shopify_evidence_comprehensive_REVISION_LOG_backup_20251013_121544.md
-  - ./2DO/x/regima.com/dan@regima.com/Original AD Paragraphs from Founding Affidavit (MOSTLY COMPLETE).pdf
-  - ./affidavit_work/analysis/PETERS_CLAIMS_VS_DOCUMENTED_EVIDENCE_COMPARATIVE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_entity_profiles.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/medical_testing_agreement.md
-  - ./jax-dan-response/evidence-attachments/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE-ENHANCED.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/were_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/has_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/unknown_email_intermediary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/for_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_31_memorandum_agreement_cession.md
-  - ./SIMULATION_RESULTS/affidavit_case_simulation_results.json
-  - ./docs/legal/AFFIDAVIT_SHOPIFY_REVENUE_PROVISIONS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_made_material.md
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/settlement-agreement-jf5/JF5-DRAFT_Settlement_Agreement_Initial_Version.md
-  - ./Revenue_Stream_Hijacking_by_Rynette/01_POPIA_Compliant_System/Customer_Communication/Regima_Zone_Email_System.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_filed_secret.md
-  - ./evidence/legal-documents/settlement-mediation/NOTICEOFWITHDRAWLFROMSETTLEMENTS.eml
-  - ./jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-FINAL.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_documents_filed.md
-  - ./UPDATED_DRAFTS/analysis-main/tools/settlement_vulnerability_analyzer.py
-  - ./backups/affidavits/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_entity_profiles.md
-  - ./backups/pre-consolidation/jax-response/source-documents/ANSWERING_AFFIDAVIT_-_JACQUELINE_FAUCITT_(FINAL_DRAFT_FOR_REVIEW_BYJAX).docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_impersonation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_perjury_centerpiece.md
-  - ./UPDATED_DRAFTS/analysis-main/tools/medical_testing_agreement_analyzer.py
-  - ./docs/legal/affidavits/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251012/email-body.html
-  - ./UPDATED_DRAFTS/WAREHOUSE_FRAUD_PERJURY_CENTRAL_EVIDENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_relationship_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_peter_exploits.md
-  - ./scripts/verify_affidavit_v3_annexures.py
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/perjured_affidavits_backup_20251013_124109.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/ocr-analysis-email-cc-implications.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251009/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/south_african_settlement.md
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_ENHANCEMENT_DEMO_RESULTS_backup_20251013_115207.md
-  - ./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_ENHANCEMENT_SYSTEM_backup_20251013_122318.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-complete.md
-  - ./docs/legal/affidavits/AFFIDAVIT_shopify_evidence_comprehensive.md
-  - ./jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json
-  - ./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_structure_recommendations.md
-  - ./jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_clause.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/void_agreements.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251009/email_analysis_findings.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_shopify_evidence_comprehensive_FACT_BASED_enhanced.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fieldstone_africa_perjury.md
-  - ./2DO/x/regima.zone/jax@regima.zone/RE_ Firstly - Regarding the only (false) claim made against Jacqui Faucitt.pdf
-  - ./jax-response/source-documents/FINAL_AFFIDAVIT_CHANGES_LOG.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/email-body.html
-  - ./ANNEXURES/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_breakdown.md
-  - ./evidence/annexures/JF-RF1_EMAIL_GRANTING_SYSTEM_ACCESS.md
-  - ./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/perjured_affidavits_enhanced.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_addresses_detected.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/dermal_commission_agreement.md
-  - ./2DO/x/regima.zone/jax@regima.zone/Fw_ THEIR FOUNDING PAPERS.pdf
-  - ./evidence/witness_statements/DANIEL_WITNESS_STATEMENT_JF5_SETTLEMENT_EXCHANGE.md
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & 1 OTHER (CASE NR_ 2025-137857).pdf
-  - ./UPDATED_DRAFTS/analysis-main/AFFIDAVIT_shopify_evidence_comprehensive_FACT_BASED.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_intent_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/tests/unit/test_citizenship_settlement_analyzer.py
-  - ./jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-ENHANCED.docx
-  - ./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ DRAFT ANSWERING AFFIDAVIT.pdf
-  - ./evidence/2025-11-14-batch-3/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf
-  - ./2DO/x/elliottattorneys.co.za/keegan@elliottattorneys.co.za/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025(1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/affidavits/Legal_Critique_Answering_Affidavit.md
-  - ./jax-response/evidence-attachments/dan-technical/PETERS_CAUSATION_SECTION_DRAFT.md
-  - ./2DO/x/regima.zone/jax@regima.zone/Firstly - Regarding the only (false) claim made against Jacqui Faucitt.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/first_respondent_peter.md
-  - ./docs/legal/evidence/EXPERT_TESTIMONY_PREPARATION_MATERIALS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_systems.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_settlements_are.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_perjury_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/raw_materials.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supported_peter.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v4.md
-  - ./jax-response/peter-interdict/peter-faucitt-interdict-complete.md
-  - ./scripts/validate_json_files.py
-  - ./2DO/x/regima.zone/jax@regima.zone/Re_ BIG FONT JAX - Affidavit with AD PARAGRAPHS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_pete.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/destroys_peter.md
-- **Ad Res J7 References:** 
-  - See files related to: Peter, files, founding, affidavit, containing, material, disclosures, perjury, regarding, email, control,, filed, after, settlement, agreement
-- **Crime Category:** data_violations
-- **Phase:** PHASE_006
-- **Event Subtype:** perjury_false_court_filing
-- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_060
-- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
-- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
-- **Evidence Urls:** 
-  - https://github.com/cogpy/ad-res-j7/blob/main/lex/SCHEDULE_MATERIAL_NON_DISCLOSURES_2025-11-18_UPDATED.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/perjured_affidavits.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/core_framework_files.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/email_communication_compromise.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/docs/1.2.MAT4719-AnsweringAffidavit-CORRECTED.docx
-- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_060.html
-- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_060
-- **Related Application:** APPLICATION_1
-- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
-- **Ad Res J7 Evidence:** 
-  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
-  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}
+**Description:**
+Peter files founding affidavit containing material non-disclosures and perjury regarding email control, filed 2 days after settlement agreement
+
+## Evidence References
+
+No specific evidence linked.
+
+## Raw Data
+
+```json
+{
+  "event_id": "EVENT_060",
+  "date": "2025-08-13",
+  "title": "Peter Files Founding Affidavit with Material Non-Disclosures",
+  "category": "perjury",
+  "event_type": "false_court_filing",
+  "perpetrators": [
+    "PERSON_001"
+  ],
+  "victims": [
+    "PERSON_004",
+    "PERSON_005"
+  ],
+  "entities_involved": [
+    "ORG_001"
+  ],
+  "description": "Peter files founding affidavit containing material non-disclosures and perjury regarding email control, filed 2 days after settlement agreement",
+  "legal_significance": "perjury_material_non_disclosure_manufactured_crisis",
+  "evidence": [
+    "founding_affidavit_2025_08_13"
+  ],
+  "pattern": "cover_up_phase",
+  "critical": true,
+  "timeline_phase": "PHASE_006",
+  "extended_evidence_note": "See ad-res-j7 repository for detailed supporting documentation",
+  "related_applications": [
+    "APPLICATION_2",
+    "APPLICATION_3"
+  ],
+  "evidence_files": [
+    "./lex/SCHEDULE_MATERIAL_NON_DISCLOSURES_2025-11-18_UPDATED.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjured_affidavits.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/core_framework_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_communication_compromise.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/1.2.MAT4719-AnsweringAffidavit-CORRECTED.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_entities_profiled.md",
+    "./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_12_3_DAN_SETTLEMENT_TIMING.json",
+    "./evidence/annexures/JF-DLA1_PETER_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_enforcement.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/draft_affidavit_enhanced.md",
+    "./case_2025_137857/02_evidence/misc/Peter Faucitt _ Jacqui Faucitt and others.msg",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_analysis.md",
+    "./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/agreements_are.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/citizenship_settlement_anomalies.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_mapping_shopify_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/ensures_peter.md",
+    "./UPDATED_DRAFTS/DRAFT_EVALUATION_WITH_DANIE_BANTJIES_PERJURY.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/ocr-email-cc-analysis-critical-findings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/source_files.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/ocr-analysis-email-cc-implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/dan_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_transfers.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/controls_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_server_records.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/next_steps_after.md",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/RESPONDING_AFFIDAVIT_DRAFT_backup_20251013_115433.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANSWERING_AFFIDAVIT_JACQUELINE_FAUCITT.md",
+    "./2DO/x/regima.com/jax@regima.com/Artwork Files.pdf",
+    "./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025/email-body.html",
+    "./jax-dan-response/evidence-attachments/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx",
+    "./backups/pre-consolidation/jax-dan-response/peters_causation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/files_delivered.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_peak_performance.md",
+    "./docs/reports/affidavit_case_simulation_results.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_agreements_both.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_correspondence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_owed_duties.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/remove_redundant_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/how_agreement_prevents.md",
+    "./legal-hypergraphql/evaluate-case-affidavits.js",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_andrew.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_potential_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/if_peter_filed.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/since_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_control_evidence.md",
+    "./jax-dan-response/evidence-attachments/PETERS_CAUSATION_SECTION_DRAFT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/damage_assessment_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/files_analyzed.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/why_peter_escalates.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/Affidavit_Amendment_Recommendations.json",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/material_impact.md",
+    "./case_2025_137857/02_evidence/misc/Peter Faucitt _ Jacqui Faucitt and others.eml",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_address.md",
+    "./jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.json",
+    "./evidence/2025-11-14-batch-3/settlement_agreements_detailed_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domain_hijacking.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/modifying_elements_after.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/the_interdict_affidavits_enhanced.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_settlement_vulnerability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/files_modified.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_peter_provided.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_files_overview.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/agreement_analyzer.md",
+    "./evidence/correspondence/JF8C_PETER_REFUSAL_TO_ENGAGE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/generated_analysis_files.md",
+    "./UPDATED_DRAFTS/analysis-main/scripts/enhance_affidavits.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_evidence_analysis.md",
+    "./docs/reports/completion/TASK_COMPLETION_PETERS_WITHDRAWALS_JF-PA.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/0558631 Settlement agreement (sgd).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_validation.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251009/email_analysis_findings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Analysis_-_Summary_of_Three-Part_Classification.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_recipients_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/material_evidence_summary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_files_second.md",
+    "./legal-hypergraphql/affidavit-plan-generator.js",
+    "./2DO/x/regima.zone/jax@regima.zone/Fw_ THEIR FOUNDING PAPERS(1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_authentication.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_pete.md",
+    "./docs/legal/annexures/JF08/evidence_package_20250606/email-body.html",
+    "./docs/legal/affidavits/AFFIDAVIT_shopify_evidence_comprehensive_FACT_BASED.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/any_peter_faucitt.md",
+    "./backups/pre-consolidation/jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-ENHANCED.docx",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(1).pdf",
+    "./jax-dan-response/PETERS_CAUSATION_INTEGRATION_GUIDE.md",
+    "./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ Evidence - Response Affidavit.pdf",
+    "./jax-response/evidence-attachments/dan-technical/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_from.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v5.json",
+    "./UPDATED_DRAFTS/analysis-main/RESPONDING_AFFIDAVIT_DRAFT_FACT_BASED.md",
+    "./jax-dan-response/evidence-attachments/Dan_Technical_Infrastructure_Affidavit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/files_changed.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_party_disclosures.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/why_these_agreements.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ I NEED TO SEE THE AMOUNT IN MY PERSONAL ACCOUNT - [External Email](1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/analysis/SETTLEMENT_TROJAN_HORSE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/AFFIDAVIT_shopify_evidence_comprehensive.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Analysis_-_Part_3_Circumstantial_and_Inferred_Points.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/immediately_after_murder.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md",
+    "./jax-dan-response/evidence-attachments/JF5_DRAFT_SETTLEMENT_AGREEMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_hijacking.md",
+    "./jax-dan-response/medium_priority_responses/settlement_and_timing.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ DRAFT ANSWERING AFFIDA.pdf",
+    "./UPDATED_DRAFTS/analysis-main/affidavits/invariant-guilt-framework/Supplementary_Affidavit_Invariant_Guilt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/configuration_files.md",
+    "./ANNEXURES/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_affected_while_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/material_non.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/available_predefined_profiles.md",
+    "./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_emails.md",
+    "./backups/affidavits/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES.json",
+    "./UPDATED_DRAFTS/analysis-main/src/data_processing/cleanup_outdated_files.py",
+    "./backups/pre-consolidation/jax-dan-response/settlement_and_timing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_file.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/expert_affidavit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_august.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_clause_type.md",
+    "./jax-dan-response/settlement_and_timing.md",
+    "./2DO/x/regima.com/dan@regima.com/Responding Affidavit - v5.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_after_kayla.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_re.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_evidence_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/protected_disclosures_act.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/impact_profiles.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_negotiation.md",
+    "./evidence/annexures/JF5-DRAFT_SETTLEMENT_AGREEMENT_INITIAL.md",
+    "./evidence/property_unit9_southview_park/email-body.html",
+    "./2DO/x/regima.com/dan@regima.com/FIRST DRAFT_ NOTICE OF WITHDRAWAL FROM SETTLEMENT AGREEMENTS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domain_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/prepare_prosecution_materials.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md",
+    "./docs/reports/completion/FINAL_AFFIDAVITS_SUMMARY.md",
+    "./jax-dan-response/evidence-attachments/JF5_FINAL_SETTLEMENT_AGREEMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_pattern.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf",
+    "./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025.pdf",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_4_SETTLEMENT_AND_TIMING.md",
+    "./2DO/x/regima.zone/jax@regima.zone/FW_ Mandate Agreement _ Client information.pdf",
+    "./jax-response/dan-response-materials/comprehensive_material_non_disclosure.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-2025-09-30.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF5_ADDERORY_DOMAIN_WITH_EMAILS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_evidence_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/using_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/identify_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/0558631 Settlement agreement (medical testing) (sgd).pdf",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_shopify_evidence_comprehensive_enhanced.md",
+    "./UPDATED_DRAFTS/analysis-main/models/frameworks/settlement_agreement_analysis.md",
+    "./docs/legal/evidence/EVIDENCE_INVENTORY_AND_AFFIDAVIT_CHECKLIST.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/for_peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_claims.md",
+    "./affidavit_work/analysis/Affidavit_Analysis_-_Summary_of_Three-Part_Classification.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_files.md",
+    "./jax-response/evidence-attachments/dan-technical/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/establishes_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/negotiated_settlement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regarding_buffer.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/PETERS_CAUSATION_SECTION_DRAFT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/while_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_recipients.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE-ENHANCED.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/coordinated_email_campaign.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_compliance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_regarding_regima_group.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/founding_affidavit_key_enhanced.md",
+    "./evidence/legal-documents/settlement-mediation/0558631_Settlement_agreement_(sgd).pdf",
+    "./UPDATED_DRAFTS/analysis-main/memorandum_of_agreement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_node.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/documentation_files_created.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/Affidavit_Amendment_Recommendations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/personal_email_usage.md",
+    "./jax-dan-response/evidence-attachments/PETERS_CAUSATION_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_email.md",
+    "./docs/reports/verification/TASK_VERIFICATION_PETERS_PARTICIPATION.md",
+    "./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v4.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_exposing_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_review.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_files_processed.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_spoofing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/material_evidence_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/ocr-analysis-email-cc-implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/why_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/forensic_analysis/MEDICAL_TESTING_AGREEMENT_FORENSIC_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/facilitate_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_fraud.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/CONVERTED_EMAIL_EVIDENCE_-_COURT-READY_DOCUMENTATION_(UPDATED).pdf",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE - ENHANCED_backup_20251013_130927.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_court_response.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/clarified_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_only.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/secure_email_communications.md",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_shopify_evidence_comprehensive_FACT_BASED_backup_20251013_120719.md",
+    "./UPDATED_DRAFTS/2_YEAR_ACCOUNTING_BLACKOUT_AFTER_KAYLA_EMAIL_SEIZURE.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/obtain_peter.md",
+    "./jax-response/peter-interdict/peter-faucitt-interdict-complete.json",
+    "./UPDATED_DRAFTS/analysis-main/EVIDENCE_EXTRACTION_NEW_EMAILS.md",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/settlement-agreement-jf5/JF5-FINAL_Settlement_Agreement_Signed_Version.md",
+    "./jax-response/evidence-attachments/dan-technical/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_files.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(2).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_compliance_directive.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/escalation_after_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/exploit_peter.md",
+    "./jax-response/peter-interdict/peter-faucitt-interdict-combined.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/maintain_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/additional_profiles.md",
+    "./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/peter-faucitt-interdict/peter-faucitt-interdict-combined.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/agreement_obligations.md",
+    "./docs/legal/affidavits/AFFIDAVIT_CASE_SIMULATION_ANALYSIS.md",
+    "./2DO/x/regima.com/dan@regima.com/TECHNICAL AFFIDAVITS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_andrew_faucitt.md",
+    "./2DO/x/regima.com/dan@regima.com/NOTICE OF WITHDRAWAL FROM SETTLEMENT AGREEMENTS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/output_files_the.md",
+    "./docs/legal/affidavits/jax-affidavit-financial-hemorrhage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/coordinated_peter.md",
+    "./jax-dan-response/peters_causation.md",
+    "./jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_addresses.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF8_LINDA_EMPLOYMENT_WITH_EMAILS.pdf",
+    "./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-complete.md",
+    "./2DO/x/regima.com/dan@regima.com/MATERIAL NON-DISCLOSURE.pdf",
+    "./docs/legal/annexures/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md",
+    "./UPDATED_DRAFTS/analysis-main/RESPONDING_AFFIDAVIT_DRAFT_REVISION_LOG.md",
+    "./backups/pre-consolidation/jax-response/source-documents/FINAL_AFFIDAVIT_CHANGES_LOG.md",
+    "./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-combined.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/impersonating_peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_optimization.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_vulnerability_analyzer.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_peter_is.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/files_processed.md",
+    "./evidence/annexures/JF-PA1_PETER_WITHDRAWAL_EXAMPLE_1.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_servers.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v3.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_communication_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_signing.md",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_shopify_evidence_comprehensive_backup_20251013_114310.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/compensate_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_peter_systematically.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/material_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/abuse_affidavit_enhanced.md",
+    "./jax-dan-response/peters_discovery.md",
+    "./ANNEXURES/JF08/evidence_package_20251012/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025_automated/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/aware_settlement_agreements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_email_address.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/document_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_statement_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/from_email_accounts.md",
+    "./jax-response/dan-response-materials/peters_discovery.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enhanced_individual_profiles.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_package.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/prevent_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/RESPONDING_AFFIDAVIT_DRAFT_enhanced.md",
+    "./evidence/2025-11-14-batch-4/NOTICEOFWITHDRAWLFROMSETTLEMENTS.msg",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/03_supporting_affidavit_bantjies_medical.md",
+    "./evidence/2025-11-14-batch-4/NOTICEOFWITHDRAWLFROMSETTLEMENTS.zip",
+    "./UPDATED_DRAFTS/analysis-main/entities/legacy_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_charge.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/demonstrate_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/coerced_settlement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_may.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_regarding_financial_analysis_of_regima_group.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_FINAL_SETTLEMENT_AGREEMENT.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md",
+    "./jax-dan-response/AD/3-Medium-Priority/PARA_12_3_DAN_SETTLEMENT_TIMING.md",
+    "./affidavit_work/corrections/Affidavit_Critical_Corrections_-_URGENT.docx",
+    "./2DO/x/regima.zone/jax@regima.zone/FW_ NOTICE OF WITHDRAWL FROM SETTLEMENTS.pdf",
+    "./jax-dan-response/evidence-attachments/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_perjury_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/RESPONDING_AFFIDAVIT_DRAFT_FACT_BASED_backup_20251013_113146.md",
+    "./UPDATED_DRAFTS/analysis-main/tests/test_affidavit_enhancement.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/affidavit_review.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/false_affidavit_enhanced.md",
+    "./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v3.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_verification.md",
+    "./jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./jax-response/evidence-attachments/dan-technical/Dan_Technical_Infrastructure_Affidavit.md",
+    "./1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_to_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_peter_avoids.md",
+    "./evidence/2025-11-14-batch/settlement_agreements_detailed_analysis.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v5.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_information.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v4.json",
+    "./ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_proves.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/email_compliance_directive_2025-07-08.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/immediate_access_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/using_peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_shopify_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_evidence_shows.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/interdict_filed.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_type.md",
+    "./jax-response/source-documents/FINAL_AFFIDAVIT_SUMMARY.md",
+    "./affidavit_work/corrections/Affidavit_Critical_Addition_-_Jacqui_as_Responsible_Person.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/raw_materials_liquidation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/report_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-combined.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_files.md",
+    "./jax-response/evidence-attachments/dan-technical/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_type_classification.md",
+    "./evidence/correspondence/JF8B_EMAIL_COOPERATION_CHAINS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/against_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE - ENHANCED.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domain.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/abuse_affidavit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_elements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_kayla.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domain_change.md",
+    "./2DO/x/regima.com/dan@regima.com/BIG FONT JAX - Affidavit with AD PARAGRAPHS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/received_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_files.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251009/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_progress.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_data_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/timeline_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/documentation_files.md",
+    "./jax-dan-response/evidence-attachments/JF5_DRAFT_AGREEMENT_INITIAL_VERSION.md",
+    "./UPDATED_DRAFTS/analysis-main/tests/unit/test_medical_testing_agreement_analyzer.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_prosecution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/demonstrates_peter.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_12_3_DAN_SETTLEMENT_TIMING.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251009/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/reveals_email_address.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_revelation_impact.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Critical_Corrections_-_URGENT.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/management_agreement.md",
+    "./2DO/x/regima.com/dan@regima.com/Conditions That Breach_Void the Settlements.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_email_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/enhanced_affidavit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_server.md",
+    "./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v3.md",
+    "./lex/SYSTEMATIC_PERSECUTION_BASED_ON_PERJURY_2025-11-18.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_settlement_risk.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shareholder_agreement_implementation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_email.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF3_STRATEGIC_LOGISTICS_WITH_EMAILS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_assessment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/unassailable_perjury_evidence.md",
+    "./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v5.md",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/draft_affidavit_backup_20251013_123423.md",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/the_interdict_affidavits_backup_20251013_125016.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/using_predefined_profiles.md",
+    "./docs/legal/affidavits/daniel-affidavit-strategic-logistics.md",
+    "./jax-response/dan-response-materials/settlement_and_timing.md",
+    "./backups/affidavits/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v2.md",
+    "./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json",
+    "./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_ENHANCEMENT_SYSTEM.md",
+    "./affidavit_work/analysis/Affidavit_Analysis_-_Part_2_Strong_Supporting_Evidence.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_jurisdiction.md",
+    "./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-combined.json",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ ALL COMMENTS ON AFFIDAVIT RECEIVED TODAY.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_files_added.md",
+    "./jax-response/evidence-attachments/settlement-agreement-jf5/JF5-FINAL_Settlement_Agreement_Signed_Version.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/data_files.md",
+    "./jax-dan-response/evidence-attachments/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.BACKUP_backup_20251013_130827.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_date.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/immediate_aftermath.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md",
+    "./jax-response/AD/1-Critical/PETER_TRUST_POWER_ABUSE_LEX_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_improvements.md",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/ENHANCED_AFFIDAVIT_PROCESSING_FIX_backup_20251013_112138.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/enhanced_affidavit_enhanced.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/verified_email_control.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/ENHANCED_AFFIDAVIT_PROCESSING_FIX_enhanced.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/create_peter.md",
+    "./2DO/x/regima.com/dan@regima.com/Consequences of Peter Exceeding the Interdict.pdf",
+    "./jax-response/source-documents/ANSWERING_AFFIDAVIT_-_JACQUELINE_FAUCITT_(FINAL_DRAFT_FOR_REVIEW_BYJAX).docx",
+    "./tests/affidavit-v3-annexure-verification.test.js",
+    "./UPDATED_DRAFTS/analysis-main/entities/regarding_communication_interception.md",
+    "./ANNEXURES/SF4_SARS_Audit_Email.md",
+    "./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v5.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_warehouse_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/.github/workflows/enhance-affidavits.yml",
+    "./UPDATED_DRAFTS/analysis-main/entities/between_peter_faucitt.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_pressure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_peter_cannot.md",
+    "./docs/legal/annexures/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shows_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/output_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_impersonation_escalation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_considerations.md",
+    "./affidavit_work/analysis/Affidavit_Analysis_-_Part_1_Irrefutable_Proof.docx",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md",
+    "./UPDATED_DRAFTS/1.2. MAT4719 - DRAFT Answering Affidavit.docx",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE_backup_20251013_130901.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/entity_files.md",
+    "./jax-response/analysis-output/Affidavit_Amendment_Recommendations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_chain.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/analysis_files_generated.md",
+    "./UPDATED_DRAFTS/analysis-main/AFFIDAVIT_ENHANCEMENT_DEMO_RESULTS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_document_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_investment_agreement.md",
+    "./jax-response/evidence-attachments/dan-technical/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md",
+    "./legal-hypergraphql/affidavit-evaluator.js",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_analysis_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/citizenship_settlement_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_vulnerability.md",
+    "./docs/AFFIDAVIT_V3_ANNEXURE_QUICK_REFERENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_scheme_value.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_communications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/appears_peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_ENHANCEMENT_DEMO_RESULTS_enhanced.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/RESPONDING_AFFIDAVIT_DRAFT_REVISION_LOG_enhanced.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/trial_balance_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_email_print.md",
+    "./jax-response/evidence-attachments/dan-technical/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_ENHANCEMENT_SYSTEM_enhanced.md",
+    "./jax-dan-response/evidence-attachments/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/if_peter_faucitt.md",
+    "./jax-response/evidence-attachments/dan-technical/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./SIMULATION_RESULTS/AFFIDAVIT_CASE_SIMULATION_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domains.md",
+    "./backups/affidavits/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v2.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/draft_response_materials.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/founding_affidavit_key.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/executive_summary_after.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/markdown_files.md",
+    "./UPDATED_DRAFTS/analysis-main/create_entity_files.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/call_option_agreement.md",
+    "./jax-response/evidence-attachments/dan-technical/SECTION_4_SETTLEMENT_AND_TIMING.md",
+    "./docs/AFFIDAVIT_V3_ANNEXURE_VERIFICATION_COMPLETE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/implementation_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/how_agreement_exploits.md",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/affidavit_review_backup_20251013_125916.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_evidence_submission.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Firstly - Regarding the only (false) claim made against Jacqui Faucitt.pdf",
+    "./2DO/x/regima.zone/jax@regima.zone/Re_ ALL COMMENTS ON AFFIDAVIT RECEIVED TODAY.pdf",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/files_first_interdict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_proof.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/remove_peter.md",
+    "./jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v4.json",
+    "./2DO/x/regima.com/dan@regima.com/AD Paragraph Numbers from Peter's Founding Affidavit (in order) MOSTLY COMPLETE.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/predefined_agent_profiles.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_evidence_invalid.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/schema_files_created.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_address_evidence.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/THEIR FOUNDING PAPERS.pdf",
+    "./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+    "./UPDATED_DRAFTS/analysis-main/affidavits/Implementation_Guide_Affidavit_Mitigation.md",
+    "./2DO/x/ensafrica.com/smunga@ensafrica.com/Peter Faucitt _ Jacqui Faucitt and others.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/large_duplicate_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/test_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_agreements.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/1.2. MAT4719 - Answering Affidavit.docx",
+    "./FINAL_ANSWERING_AFFIDAVIT_ABRIDGED.docx",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/expert_affidavit_enhanced.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_peter_did.md",
+    "./docs/legal/analysis/AFFIDAVIT_CASE_SIMULATION_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/updates_peter_faucitt.md",
+    "./evidence/annexures/JF-PA2_PETER_WITHDRAWAL_EXAMPLE_2.md",
+    "./UPDATED_DRAFTS/analysis-main/settlement_vulnerability_report_case_2025_137857_20251008_073926.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/created_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_access.md",
+    "./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_evidence_generation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shareholder_agreement.md",
+    "./jax-response/source-documents/SECTION_3_ADDITION_DANS_TECHNICAL_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/JUNE_6_10_EMAILS_DANIE_BANTJIES.txt",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_control_structure.md",
+    "./evidence/annexures/JF5-FINAL_SETTLEMENT_AGREEMENT_SIGNED.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sue_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shareholder_agreement_gaps.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_settlements.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_shopify_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/RESPONDING_AFFIDAVIT_DRAFT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/second_interdict_filed.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_email_proves.md",
+    "./jax-dan-response/evidence-attachments/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/RESPONDING_AFFIDAVIT_DRAFT_FACT_BASED_enhanced.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF6_KAYLA_ESTATE_WITH_EMAILS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_clients_likely_diverted_to_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_settlement_agreement.md",
+    "./2DO/x/regima.com/dan@regima.com/Mr.Bantjies Forgot to Include in His Affidavit.pdf",
+    "./jax-response/source-documents/FINAL_ASSESSMENT_Jacqui_Affidavit_(Reconstructed_Version).docx",
+    "./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.BACKUP.docx",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/abuse_affidavit_backup_20251013_123155.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_details.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/reveals_email.md",
+    "./jax-response/evidence-attachments/dan-technical/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE-ENHANCED.docx",
+    "./2DO/x/regima.com/dan@regima.com/MATERIAL NON-DISCLOSURE AND EXCLUDED INFORMATION.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/material_false_statements.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_criminal_complaint.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/medical_testing_settlement.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ Proof of addresses _ Mandates - [External Email].pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_nullification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_vulnerability_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/assumed_peter.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ I NEED TO SEE THE AMOUNT IN MY PERSONAL ACCOUNT - [External Email].pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_capacity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_email.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Analysis_-_Part_1_Irrefutable_Proof.docx",
+    "./run_affidavit_case_simulation.py",
+    "./docs/legal/affidavits/FINAL_ANSWERING_AFFIDAVIT_ABRIDGED.md",
+    "./applications/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/any_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_structure_modifications.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_evidence_the.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_DRAFT_AGREEMENT_INITIAL_VERSION.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/Email-2025-08-11-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/src/affidavit_enhancement/affidavit_processor.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_revelation.md",
+    "./jax-dan-response/criminal-complaint/annexures/ANNEXURE_JAF2_Settlement_Agreements_Reference.md",
+    "./ANNEXURES/JF08/evidence_package_20251009/email_analysis_findings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/how_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/both_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/primary_integration_files.md",
+    "./UPDATED_DRAFTS/analysis-main/uk_funding_sa_operations_perjury_evidence.md",
+    "./case_2025_137857/02_evidence/evidence_package_20250606/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_interdict_affidavits.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_trojan_horse.md",
+    "./jax-response/evidence-attachments/dan-technical/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/makes_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/psychological_settlement_special.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_cc_equals.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250606/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_citizenship_assessment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_exploitation_details.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_plus_email.md",
+    "./ANNEXURES/JF08/evidence_package_20250606/email-body.html",
+    "./jax-dan-response/evidence-attachments/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/if_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/files_included.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/citizenship_settlement_analyzer.md",
+    "./jax-dan-response/criminal-complaint/SUPPORTING_AFFIDAVIT_Jacqueline_Faucitt_POPIA_Obstruction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_decision.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rynette_sends_email.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/Email_Attachments_Extraction_Summary.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_matters_agreement.md",
+    "./affidavit_work/analysis/Affidavit_Analysis_-_Part_3_Circumstantial_and_Inferred_Points.docx",
+    "./2DO/x/regima.zone/dan@regima.zone/We've\u2009Got\u2009a\u2009New\u2009Email\u2009Address!.pdf",
+    "./WIP/KF0019_ANSWERING_AFFIDAVIT_JACQUELINE.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/3-Medium-Priority/PARA_12_3_DAN_SETTLEMENT_TIMING.json",
+    "./evidence/legal-documents/settlement-mediation/0558631_Settlement_agreement_(medical_testing)_(sgd).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/all_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domain_similarities.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/confirm_peter.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/challenge_settlement_structure.md",
+    "./jax-response/AD/dan-perspective/3-Medium-Priority/PARA_12_3_DAN_SETTLEMENT_TIMING.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_peter_repeatedly.md",
+    "./backups/pre-consolidation/jax-dan-response/comprehensive_material_non_disclosure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_this_evidence.md",
+    "./ANNEXURES/JF08/evidence_package_20251009/email-body.html",
+    "./evidence/legal-documents/court-filings/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf",
+    "./jax-response/evidence-attachments/dan-technical/JF5_FINAL_SETTLEMENT_AGREEMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_shopify_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/original_email_date.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/false_affidavit.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025-137.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_files.md",
+    "./jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.md",
+    "./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_hijacking.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/program_files.md",
+    "./backups/pre-consolidation/jax-dan-response/medium_priority_responses/confirmatory_affidavits.md",
+    "./2DO/x/regima.zone/jax@regima.zone/NOTICE OF WITHDRAWL FROM SETTLEMENTS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/ensure_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/python_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/court_order_filed.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/Dan_Technical_Infrastructure_Affidavit.md",
+    "./jax-dan-response/AD/1-Critical/EVIDENCE_ANNEXURE_OUTLINE_MAPPED_TO_FILES.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/basic_settlement_vulnerability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_type.md",
+    "./2DO/x/regima.com/dan@regima.com/Re_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857(1).pdf",
+    "./jax-response/peter-interdict/peter-faucitt-interdict-combined.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/void_settlements.md",
+    "./2DO/x/regima.zone/jax@regima.zone/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ 2025-137857.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_material_non.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/whether_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_shopify_evidence_comprehensive_REVISION_LOG_enhanced.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Critical_Addition_-_Jacqui_as_Responsible_Person.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_records.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF5_DRAFT_SETTLEMENT_AGREEMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/reference_all_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_enforceability.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/1.2. MAT4719 - Answering Affidavit.BACKUP.docx",
+    "./jax-dan-response/comprehensive_material_non_disclosure.md",
+    "./jax-response/evidence-attachments/settlement-agreement-jf5/JF5-DRAFT_Settlement_Agreement_Initial_Version.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/commercial_settlement_matrix.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_REVIEW_SYSTEM.md",
+    "./jax-dan-response/annexures/2025-11-14-evidence-batch/ANNEXURE_C_Trustee_Appointment_Email_2024-07-01.md",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/expert_affidavit_backup_20251013_122506.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/settlement_vulnerability_demonstration_guide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/help_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_has.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/predefined_profiles.md",
+    "./jax-response/evidence-attachments/dan-technical/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md",
+    "./backups/pre-consolidation/jax-response/source-documents/FINAL_ASSESSMENT_Jacqui_Affidavit_(Reconstructed_Version).docx",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ Firstly - Regarding the only (false) claim made against Jacqui Faucitt(1).pdf",
+    "./backups/pre-consolidation/jax-dan-response/peters_discovery.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_security.md",
+    "./jax-response/evidence-attachments/dan-technical/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx",
+    "./jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md",
+    "./UPDATED_DRAFTS/analysis-main/models/frameworks/citizenship_settlement_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/strength_after_validation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/through_coercive_agreement.md",
+    "./UPDATED_DRAFTS/SARS_AUDIT_EMAIL_BANTJIES_INSTRUCTIONS_SMOKING_GUN.md",
+    "./UPDATED_DRAFTS/analysis-main/ENHANCED_AFFIDAVIT_PROCESSING_FIX.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/files_added.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/files_created.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/share_purchase_agreements.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/affidavit_review_enhanced.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/different_settlement_clause.md",
+    "./2DO/x/regima.zone/jax@regima.zone/ALL COMMENTS ON AFFIDAVIT RECEIVED TODAY.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/material_evidence_report.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_email_package.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/missing_entity_profiles.md",
+    "./docs/legal/affidavits/ANSWERING_AFFIDAVIT_JACQUELINE_FAUCITT.md",
+    "./UPDATED_DRAFTS/analysis-main/peter_fiduciary_breach_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/peter-faucitt-interdict/peter-faucitt-interdict-complete.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/material_misrepresentation.md",
+    "./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-complete.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/draft_affidavit.md",
+    "./evidence/2025-11-14-batch-4/NOTICEOFWITHDRAWLFROMSETTLEMENTS.eml",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_email_evidence.md",
+    "./evidence/2025-11-14-batch-2/settlement_agreements_detailed_analysis.md",
+    "./jax-dan-response/AD/3-Medium-Priority/PARA_12_3_DAN_SETTLEMENT_TIMING.json",
+    "./jax-response/evidence-attachments/dan-technical/JF5_DRAFT_AGREEMENT_INITIAL_VERSION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/only_peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_context.md",
+    "./jax-dan-response/evidence-attachments/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/02_supporting_affidavit_shopify_rynette.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md",
+    "./jax-response/evidence-attachments/dan-technical/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/material_false_statement.md",
+    "./2DO/x/regima.zone/jax@regima.zone/FW_ Email restriction.pdf",
+    "./jax-dan-response/evidence-attachments/SECTION_4_SETTLEMENT_AND_TIMING.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/reports_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/founding_affidavit_key_backup_20251013_124320.md",
+    "./backups/pre-consolidation/jax-dan-response/medium_priority_responses/settlement_and_timing.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251009/email-body.html",
+    "./2DO/x/elliottattorneys.co.za/keegan@elliottattorneys.co.za/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/existing_settlement_framework.md",
+    "./docs/legal/affidavits/FINAL_ANSWERING_AFFIDAVIT_COMPLETE.md",
+    "./lex/SCHEDULE_MATERIAL_NON_DISCLOSURES_2025-11-18.md",
+    "./UPDATED_DRAFTS/analysis-main/affidavits/Mitigation_Strategies_Answering_Affidavit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/how_email.md",
+    "./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md",
+    "./evidence/annexures/JF-PA3_PETER_WITHDRAWAL_EXAMPLE_3.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/against_peter_faucitt.md",
+    "./backups/pre-consolidation/jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-FINAL.docx",
+    "./UPDATED_DRAFTS/analysis-main/tools/integrated_settlement_citizenship_analysis.py",
+    "./evidence/annexures/JF-RF2_EMAIL_PROVIDING_PASSWORDS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_charges.md",
+    "./2DO/x/regima.com/dan@regima.com/BIG FONT - Original Founding Affidavit with AD PARAGRAPHS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/01_main_responding_affidavit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/material_evidence_only.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/material_falsity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/RESPONDING_AFFIDAVIT_DRAFT_REVISION_LOG_backup_20251013_112138.md",
+    "./jax-response/dan-response-materials/peters_causation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/performance_after_may.md",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/enhanced_affidavit_backup_20251013_130121.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_analysis.md",
+    "./FINAL_ANSWERING_AFFIDAVIT_COMPLETE.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/create_peter_faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_18_acceptance_trusteeship_peter.md",
+    "./jax-dan-response/criminal-complaint/CRIMINAL_COMPLAINT_POPIA_Section_107_Peter_Faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_cc.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Analysis_-_Part_2_Strong_Supporting_Evidence.docx",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/unknown_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_revelations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/psychological_settlement_agreements.md",
+    "./jax-dan-response/rule-42-rescission/FOUNDING_AFFIDAVIT_Daniel_Faucitt_Rule_42.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/owes_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_evidence_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proves_peter.md",
+    "./evidence/annexures/JF-PA4_PETER_WITHDRAWAL_EXAMPLE_4.md",
+    "./jax-dan-response/medium_priority_responses/confirmatory_affidavits.md",
+    "./SIMULATION_RESULTS/run_affidavit_case_simulation.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_bank_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement.md",
+    "./UPDATED_DRAFTS/analysis-main/tools/citizenship_settlement_analyzer.py",
+    "./UPDATED_DRAFTS/analysis-main/tests/unit/test_settlement_vulnerability_analyzer.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_exposed.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/main_settlement_agreement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/appears_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_files_ex.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251012/email-body.html",
+    "./jax-dan-response/rule-42-rescission/UPDATED_AFFIDAVIT_SECTIONS_Para_40-60_2025-11-14.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regarding_fund_misallocation.md",
+    "./lex/RULE_42_MATERIAL_NON_DISCLOSURE_MAPPING_2025-11-18.md",
+    "./legal_analysis_2025_11/court_documents/2025_08_19_-_Peter_Faucitt_Interdict.pdf",
+    "./UPDATED_DRAFTS/analysis-main/AFFIDAVIT_shopify_evidence_comprehensive_REVISION_LOG.md",
+    "./backups/pre-consolidation/jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.json",
+    "./UPDATED_DRAFTS/analysis-main/docs/1.2. MAT4719 - Answering Affidavit - ENHANCED.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/files_destroyed.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_to.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/case_draft_docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF4_SARS_AUDIT_WITH_EMAILS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_email_receipt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_nullification.md",
+    "./jax-dan-response/evidence-attachments/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/files_second_interdict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/specific_perjury_instances.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_evidence_summary.md",
+    "./lex/URGENT_APPLICATION_MATERIAL_NON_DISCLOSURES_2025-11-18.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251009/email_analysis_findings.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & 1 OTHER (CASE NR_ 2025-137857).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/remove_duplicate_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/needs_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/void_settlement.md",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/false_affidavit_backup_20251013_125220.md",
+    "./UPDATED_DRAFTS/analysis-main/scripts/manage_affidavit_reviews.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_interdict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_output_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regarding_director.md",
+    "./database/data/affidavit_sections_20251102_185041.csv",
+    "./UPDATED_DRAFTS/analysis-main/entities/integrated_settlement_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_happens_after.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/because_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/analysis_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/original_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/case_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_content.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/attached_files.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251009/email_analysis_findings.md",
+    "./jax-response/analysis-output/Affidavit_Amendment_Recommendations.json",
+    "./UPDATED_DRAFTS/UK_Funding_SA_Operations_Comprehensive_Perjury_Evidence.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_sender.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/material_facts_review.md",
+    "./docs/legal/affidavits/EVIDENCE_INVENTORY_AND_AFFIDAVIT_CHECKLIST.md",
+    "./UPDATED_DRAFTS/DANIE_BANTJIES_PERJURY_ANALYSIS_COMPREHENSIVE.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v3.md",
+    "./jax-response/evidence-attachments/dan-technical/JF5_DRAFT_SETTLEMENT_AGREEMENT.md",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_shopify_evidence_comprehensive_REVISION_LOG_backup_20251013_121544.md",
+    "./2DO/x/regima.com/dan@regima.com/Original AD Paragraphs from Founding Affidavit (MOSTLY COMPLETE).pdf",
+    "./affidavit_work/analysis/PETERS_CLAIMS_VS_DOCUMENTED_EVIDENCE_COMPARATIVE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_entity_profiles.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/medical_testing_agreement.md",
+    "./jax-dan-response/evidence-attachments/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE-ENHANCED.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/were_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/has_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/unknown_email_intermediary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/for_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_31_memorandum_agreement_cession.md",
+    "./SIMULATION_RESULTS/affidavit_case_simulation_results.json",
+    "./docs/legal/AFFIDAVIT_SHOPIFY_REVENUE_PROVISIONS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rynette_made_material.md",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/settlement-agreement-jf5/JF5-DRAFT_Settlement_Agreement_Initial_Version.md",
+    "./Revenue_Stream_Hijacking_by_Rynette/01_POPIA_Compliant_System/Customer_Communication/Regima_Zone_Email_System.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_filed_secret.md",
+    "./evidence/legal-documents/settlement-mediation/NOTICEOFWITHDRAWLFROMSETTLEMENTS.eml",
+    "./jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-FINAL.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_documents_filed.md",
+    "./UPDATED_DRAFTS/analysis-main/tools/settlement_vulnerability_analyzer.py",
+    "./backups/affidavits/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_entity_profiles.md",
+    "./backups/pre-consolidation/jax-response/source-documents/ANSWERING_AFFIDAVIT_-_JACQUELINE_FAUCITT_(FINAL_DRAFT_FOR_REVIEW_BYJAX).docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_impersonation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_perjury_centerpiece.md",
+    "./UPDATED_DRAFTS/analysis-main/tools/medical_testing_agreement_analyzer.py",
+    "./docs/legal/affidavits/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251012/email-body.html",
+    "./UPDATED_DRAFTS/WAREHOUSE_FRAUD_PERJURY_CENTRAL_EVIDENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiduciary_relationship_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_peter_exploits.md",
+    "./scripts/verify_affidavit_v3_annexures.py",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/perjured_affidavits_backup_20251013_124109.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/ocr-analysis-email-cc-implications.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251009/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/south_african_settlement.md",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_ENHANCEMENT_DEMO_RESULTS_backup_20251013_115207.md",
+    "./UPDATED_DRAFTS/analysis-main/backups/affidavits/AFFIDAVIT_ENHANCEMENT_SYSTEM_backup_20251013_122318.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/peter-faucitt-interdict-complete.md",
+    "./docs/legal/affidavits/AFFIDAVIT_shopify_evidence_comprehensive.md",
+    "./jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json",
+    "./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_structure_recommendations.md",
+    "./jax-dan-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_clause.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/void_agreements.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251009/email_analysis_findings.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/AFFIDAVIT_shopify_evidence_comprehensive_FACT_BASED_enhanced.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fieldstone_africa_perjury.md",
+    "./2DO/x/regima.zone/jax@regima.zone/RE_ Firstly - Regarding the only (false) claim made against Jacqui Faucitt.pdf",
+    "./jax-response/source-documents/FINAL_AFFIDAVIT_CHANGES_LOG.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/email-body.html",
+    "./ANNEXURES/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/settlement_agreement_breakdown.md",
+    "./evidence/annexures/JF-RF1_EMAIL_GRANTING_SYSTEM_ACCESS.md",
+    "./UPDATED_DRAFTS/analysis-main/enhanced_affidavits/perjured_affidavits_enhanced.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_addresses_detected.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/dermal_commission_agreement.md",
+    "./2DO/x/regima.zone/jax@regima.zone/Fw_ THEIR FOUNDING PAPERS.pdf",
+    "./evidence/witness_statements/DANIEL_WITNESS_STATEMENT_JF5_SETTLEMENT_EXCHANGE.md",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Fw_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & 1 OTHER (CASE NR_ 2025-137857).pdf",
+    "./UPDATED_DRAFTS/analysis-main/AFFIDAVIT_shopify_evidence_comprehensive_FACT_BASED.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_intent_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/tests/unit/test_citizenship_settlement_analyzer.py",
+    "./jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-ENHANCED.docx",
+    "./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ DRAFT ANSWERING AFFIDAVIT.pdf",
+    "./evidence/2025-11-14-batch-3/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf",
+    "./2DO/x/elliottattorneys.co.za/keegan@elliottattorneys.co.za/RE_ PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ CASE NO_ CASE NO_ 2025(1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/affidavits/Legal_Critique_Answering_Affidavit.md",
+    "./jax-response/evidence-attachments/dan-technical/PETERS_CAUSATION_SECTION_DRAFT.md",
+    "./2DO/x/regima.zone/jax@regima.zone/Firstly - Regarding the only (false) claim made against Jacqui Faucitt.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/first_respondent_peter.md",
+    "./docs/legal/evidence/EXPERT_TESTIMONY_PREPARATION_MATERIALS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_systems.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_settlements_are.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_perjury_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/raw_materials.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supported_peter.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v4.md",
+    "./jax-response/peter-interdict/peter-faucitt-interdict-complete.md",
+    "./scripts/validate_json_files.py",
+    "./2DO/x/regima.zone/jax@regima.zone/Re_ BIG FONT JAX - Affidavit with AD PARAGRAPHS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_pete.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/destroys_peter.md"
+  ],
+  "ad_res_j7_references": [
+    "See files related to: Peter, files, founding, affidavit, containing, material, disclosures, perjury, regarding, email, control,, filed, after, settlement, agreement"
+  ],
+  "crime_category": "data_violations",
+  "phase": "PHASE_006",
+  "event_subtype": "perjury_false_court_filing",
+  "github_pages_reference": "https://cogpy.github.io/revstream1/applications.md#event_060",
+  "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+  "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+  "evidence_urls": [
+    "https://github.com/cogpy/ad-res-j7/blob/main/lex/SCHEDULE_MATERIAL_NON_DISCLOSURES_2025-11-18_UPDATED.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/perjured_affidavits.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/core_framework_files.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/email_communication_compromise.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/docs/1.2.MAT4719-AnsweringAffidavit-CORRECTED.docx"
+  ],
+  "github_pages_url": "https://cogpy.github.io/revstream1/events/EVENT_060.html",
+  "timeline_reference": "https://cogpy.github.io/revstream1/timeline.html#EVENT_060",
+  "related_application": "APPLICATION_1",
+  "application_url": "https://cogpy.github.io/revstream1/application-1.html",
+  "ad_res_j7_evidence": [
+    {
+      "source": "case_2025_137857/",
+      "description": "Case documentation and analysis",
+      "url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857"
+    },
+    {
+      "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "description": "Complete evidence catalog (2,866 files)",
+      "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
+    }
+  ],
+  "ad_res_j7_cross_references": [
+    "Evidence documented in ad-res-j7 repository",
+    "See ANNEXURES for event EVENT_060",
+    "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+  ],
+  "evidence_references": [
+    "case_2025_137857/02_evidence/",
+    "ANNEXURES/",
+    "docs/"
+  ]
+}
+```

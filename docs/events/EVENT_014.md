@@ -1,1492 +1,1543 @@
-# Email Impersonation Pattern and Domain Switch Instruction
+---
+layout: default
+title: Email Impersonation Pattern and Domain Switch Instruction
+---
+# Email Impersonation Pattern and Domain Switch Instruction (EVENT_014)
 
-**Event ID:** `EVENT_014`
 **Date:** 2025-06-20
 
-- **Category:** revenue_theft
-- **Event Type:** email_impersonation
-- **Perpetrators:** 
-  - PERSON_002
-- **Victims:** 
-  - PERSON_005
-  - customers
-- **Entities Involved:** 
-  - PLATFORM_001
-  - DOMAIN_002
-- **Description:** R3.1M+ losses enabled by email control. Pattern of impersonation supporting criminal conspiracy charges. Email control facilitated fraud related to platform paid by Dan's UK company since July 2023. Email from Gee in Aug explained to Jax that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email'.
-- **Financial Impact:** R3,141,647.70
-- **Legal Significance:** pattern_of_impersonation_supporting_criminal_conspiracy_charges
-- **Evidence:** 
-  - email_records
-  - customer_communications
-  - gee_email_to_jax
-- **Shopify Related:** True
-- **Pattern:** consolidation_phase
-- **Timeline Phase:** PHASE_004
-- **Shopify Connection:** {'connected': True, 'note': 'Email control used to issue directives about platform paid by RegimA Zone Ltd', 'revelation': "Email impersonation facilitated fraud related to Shopify platform Dan's UK company had been paying for since July 2023"}
-- **Crime Type:** Email hijacking, identity theft, business impersonation, computer fraud
-- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
-- **Related Applications:** 
-  - APPLICATION_1
-  - APPLICATION_2
-- **Evidence Files:** 
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_analysis_module.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_complete_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_analysis.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/escalated_impersonation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_account_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_referral_accepted.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_property_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_research_platforms.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rental_fraud_flow.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_distraction_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/scalability_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/combined_platform_performance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/controlled_group.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_use.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_control_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_recognition_tools.md
-  - ./docs/legal/README_CIVIL_CRIMINAL_SPLIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_case_preparation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_detected.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/previous_impersonation_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_intent.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/semantic_pattern_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/concealing_criminal_property.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_proceeds_analysis.md
-  - ./case_2025_137857/02_evidence/evidence_package_20250606/RezonanceFebr2023.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/combined_annual_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/private_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/intermediary_control.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING(2).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enhanced_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_proving_conspiracy.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_criminals.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_trading.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/file_enhanced_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_through_testing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_language.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_controls.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_evidence_matrix.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pension_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/selection_control.md
-  - ./lex/cmp/za/south_african_company_law_forensic_accounting.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_level.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/controlled_professional_selection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_disruption.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_framework.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enabling_further_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/since_zod.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_enhancement_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supplier_control_account.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/own_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_invoice.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_forfeiture.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_platform.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rental_fraud_estimate.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/information_control.md
-  - ./WIP/RULE42(1)(a)APPLICATION-RESCISSIONFORFRAUD.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_recipients.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/formal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_email_campaign.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025/FORMALNOTICE-CESSATIONOFCRIMINALINSTRUCTIONS.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/deceptive_language_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_documents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/narrative_construction_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_documentation.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_spoofing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_identified.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_documentation_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/year_fraud_projection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_fraud.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/CONVERTED_EMAIL_EVIDENCE_-_COURT-READY_DOCUMENTATION_(UPDATED).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_scripts.md
-  - ./WIP/RULE42_APPLICATION_RESCISSION_FOR_FRAUD.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/unexplained_wealth_orders.md
-  - ./UPDATED_DRAFTS/analysis-main/EVIDENCE_EXTRACTION_NEW_EMAILS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/phase_criminal_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_witness_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_matters_act.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_focus.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_environment_failures.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/version_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/subsidiary_and_holding_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/consistent_payment_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_appointment_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/controlled_group_definitions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_estate_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_mechanics.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_party_attribution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/are_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_communication_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/platform_synchronization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_elements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_this.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/digital_platform_migration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_statement_email.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2022to28February2023.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/coercive_control_success.md
-  - ./UPDATED_DRAFTS/analysis-main/coordinated_card_cancellation_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/file_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/controls_pete.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/historical_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_backdating_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_record_impact.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/attention_pattern_coherence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/integrated_criminal_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_information.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_party_procedures.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shield_criminal_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/after_shopify_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence_shows.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_quantification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_penalties.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251009/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/reveals_email_address.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_email_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/actual_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/hierarchical_control.md
-  - ./lex/cmp/za/south_african_company_law_director_loan_accounts.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/obtain_supporting_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/high_priority_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/backdating_fraud.md
-  - ./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/design_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_date.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/instant_payment_platform.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/extortion_pattern.md
-  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v3.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_recognition_document.md
-  - ./docs/legal/annexures/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_asset_value.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_misconduct_charges.md
-  - ./jax-response/evidence-attachments/dan-technical/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_liability_two.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_semantic_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_asset_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/victim_company_agents.md
-  - ./UPDATED_DRAFTS/Fraudulent_Use_of_Interdict_and_Warehouse_Sabotage (1).docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_payment_fraud.md
-  - ./jax-response/evidence-attachments/dan-technical/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_potential_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/computer_fraud_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charge.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/expense_attribution_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_filing.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/convergent_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/customer_control_account.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_circumstantial_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_admissions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_structure.md
-  - ./lex/refinements-2025-11-16/south_african_civil_law_temporal_pattern_detection_enhanced_v2.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_criminal_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation_avoidance.md
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/other_criminals.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_control_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_requiring.md
-  - ./backups/pre-consolidation/jax-dan-response/CRIMINAL_ENTERPRISE_EVIDENCE_STRUCTURE.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_interference_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_coordination.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_seeking.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_evolution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_team.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_control_change.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal_acts.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ I NEED TO SEE THE AMOUNT IN MY PERSONAL ACCOUNT - [External Email].pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_platform.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/unauthorized_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_court_jurisdiction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/federal_criminal_jurisdiction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_network.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_case.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_breach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enable_criminal_continuation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_integration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_cases_table.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_stress_diagnoses.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_sequence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_cc_equals.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_plus_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/entity_control_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_offences_alleged.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_relationships.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_matters_agreement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enhances_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/handling_verbal_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_similarities.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_allocation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_elements_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/attorney_impersonation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_damages.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_context.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/primary_criminal_violations.md
-  - ./ANNEXURES/JF08/evidence_package_20251009/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/deception_pattern_tracking.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/before_shopify_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_code.md
-  - ./evidence/computer-expenses/Consolidated Net Trading Profits/Losses Analysis Template.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_objective.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/curatorship_fraud_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_destruction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/reference_all_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/core_criminal_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_act.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
-  - ./jax-response/evidence-attachments/CHESNO-FRAUD-EVIDENCE-INDEX.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enables_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/unauthorized_financial_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_pattern_recognition.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_witnesses.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_recognition_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_billing_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/through_action_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/personal_criminal_liability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_continuation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_significance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_effectiveness.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/for_criminal_prosecution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_email_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/07_nov_2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_group.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_context.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/02_supporting_affidavit_shopify_rynette.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/invoice_fraud.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_sequence_evidence.md
-  - ./2DO/x/regima.zone/jax@regima.zone/FW_ Email restriction.pdf
-  - ./UPDATED_DRAFTS/analysis-main/evidence/rezonance/financial_reports/payment_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_through_misrepresentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_cycle.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/court_filing_impersonation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/primary_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_categories.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/since_minipass.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/call_serious_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_sequence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_invoice_conspiracy.md
-  - ./legal_analysis_2025_11/scheme_files/south_african_forensic_analysis_systematic_fraud_narrative.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_case_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_interdict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/information_control_escalation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_cc.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/unknown_email.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/systematic_sabotage_and_curatorship_fraud_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/border_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_control_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_mechanisms_mapped.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251012/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_pattern_recognition.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_chain.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_penalty.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/deterrence_requires_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_to.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/limited_criminal_authority.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_impersonation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/no_criminal_authority.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/clear_criminal_motive.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_bank_interference.md
-  - ./jax-dan-response/evidence-attachments/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251009/email_analysis_findings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/operational_control_indicators.md
-  - ./jax-dan-response/annexures/2025-11-14-evidence-batch/ANNEXURE_A_Sage_Screenshot_Control_User_Access_2025-06-20.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_layer.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/core_conspiracy_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_claim_debunked.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/ICO_GDPR_criminal_prosecution_guide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_content.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/year_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/factors_supporting_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_submission_pattern.md
-  - ./UPDATED_DRAFTS/MASTER_CONSPIRACY_TIMELINE_2021_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/consistent_performance_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_uk_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_evidence.md
-  - ./2DO/x/regima.zone/emma@regima.zone/Re_ Payment platform Sumup A CLEAR COPY OF THE LICENCE.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/commerce_platform_utilization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/unknown_email_intermediary.md
-  - ./jax-dan-response/criminal-complaint/annexures/ANNEXURE_JAF8_Evidence_Pattern_Analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_report.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/entity_criminal_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/initial_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/event_pattern_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_analysis_opportunities.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/platform_migration.md
-  - ./evidence/annexures/JF-CHESNO3_POLICE_REPORTS_FRAUD_INVESTIGATION.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251012/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/advanced_pattern_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/additional_criminal_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_control_centers.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/august_2025_fraudulent_appointment_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_sabotage_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/identity_theft_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_charges.md
-  - ./jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rezonance_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_justice.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/investment_company_representatives.md
-  - ./ANNEXURES/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_addresses_detected.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/d_j_p_company.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/patterns_found.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/orchestrated_disruption_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_significance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_controls.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_masterminds.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/protect_criminal_justice.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_fraud_losses.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/technology_platforms.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_referral_protocols.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/medical_control_community.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_curatorship_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/specific_fraud_threat.md
-  - ./2DO/x/regima.zone/emma@regima.zone/Sumup payment platform.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_claims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_exposure.md
-  - ./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_dashboard.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_detector.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_criminal_court.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/dan_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/telephone_impersonation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/continued_impersonation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/running_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_offenses_this.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/identify_company_creditors.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/linguistic_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/operational_control.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF12/criminal_matter_safety_guide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corrected_criminal_scheme.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_interdict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/since_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_supporting_daniel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_criminal_elements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/why_criminal_prosecution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_address.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_hijacking.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_threatens_legal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/patterns_identified.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_authentication.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_accounting_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_legal_weaponization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enhanced_existing_charges.md
-  - ./ANNEXURES/JF08/evidence_package_20250606/RezonanceFebr2023.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_recovery.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_enablement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/primary_intent_patterns.md
-  - ./docs/strategic/fraud-analysis/SNEAKY_FRAUD_MECHANISM.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_from.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/controlled_disclosure.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ I NEED TO SEE THE AMOUNT IN MY PERSONAL ACCOUNT - [External Email](1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/continue_criminal_coordination.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pension_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_will_exercise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_amount.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shipping_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/exclusive_access_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_strategy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/if_criminal_referral.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_indicator.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_company.md
-  - ./lex/cri/za/south_african_criminal_law.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_re.md
-  - ./evidence/legal-documents/formal-notices/FORMAL_NOTICE_CESSATION_CRIMINAL_INSTRUCTIONS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/accounting_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_timeline_integration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_evidence_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/monthly_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/relevant_sections_supporting.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/channel_control_verification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/avoids_criminal_courts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/primary_criminal_agent.md
-  - ./2DO/x/proton.me/jfaucitt@proton.me/regimaskin.co.za belongs to regimA.pdf
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF5_ADDERORY_DOMAIN_WITH_EMAILS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/platform_fees.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/controls_faucitt_family.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/misallocation_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_entity_connections.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_transfer.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sister_controlled_group.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_payment_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/banking_law_criminal.md
-  - ./lex/cmp/za/south_african_company_law_self_dealing_detection.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_pattern_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/double_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_files.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/wire_fraud_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_points.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/primary_fraud_elements.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ New Pty Company (New Name) and Share Certificates Combo (Service-1743068).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/jurisdiction_control.md
-  - ./2DO/x/regima.com/dan@regima.com/URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_jurisdiction_required.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_warning.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/phase_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/potential_criminal_acts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/transfer_pricing_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_prosecution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/update_criminal_authorities.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_mechanisms.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_master_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_compliance_directive.md
-  - ./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/emergent_pattern_detection.md
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_visualizer.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_control.md
-  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v5.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_criminal_liability.md
-  - ./docs/legal/CORRECTED_FRAUD_PROVISIONS.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF8_LINDA_EMPLOYMENT_WITH_EMAILS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_servers.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/incapacity_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/call_action_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/shopify_platform_ownership_verification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/advanced_attention_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/level_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_weight_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025_automated/email-body.html
-  - ./docs/legal/frameworks/EMPLOYMENT_FRAUD_FRAMEWORK.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_mechanism_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_pattern_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/communication_channel_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enable_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_analysis_the.md
-  - ./jax-response/evidence-attachments/dan-technical/JF-RESTORE2_TECHNOLOGY_PLATFORM_VALUATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_scheme.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_theory.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_detection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/september_20_2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_regarding_financial_analysis_of_regima_group.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/platform_provider.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complex_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/computer_platform_expenses.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_records.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination_pattern.md
-  - ./2DO/x/regima.com/dan@regima.com/Partial Contributions to Timeline_ RegimA _Group_ Financial Fraud (2017-2025).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_verification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_purpose.md
-  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v4.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/version_control_integration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_evidence_destruction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/her_actual_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_value.md
-  - ./UPDATED_DRAFTS/analysis-main/PROFIT_EXTRACTION_FRAUD_ANALYSIS.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme_discovered.md
-  - ./ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/specific_vulnerability_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_loan_flows.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_sophistication.md
-  - ./backups/pre-consolidation/jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_coordination.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/explained_like_you.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_definition.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/previously_unexplained_aggressive.md
-  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v6.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud_conspiracy.md
-  - ./legal_analysis_2025_11/scheme_files/south_african_company_law_director_loan_accounts.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/enabled_fraud_instruments.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud_report.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251009/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/attorney_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_revelation_impact.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_and_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_cluster.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_email.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF3_STRATEGIC_LOGISTICS_WITH_EMAILS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_acts.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/FORMAL NOTICE - CESSATION OF CRIMINAL INSTRUCTIONS.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/void_fraudulent_interdict.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_case_framework.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_representation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_conspiracy_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/customer_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_conduct.md
-  - ./UPDATED_DRAFTS/analysis-main/src/fraud_analysis/payment_fraud_analyzer.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/annual_tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_shield.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_continuation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_platform.md
-  - ./ANNEXURES/SF4_SARS_Audit_Email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/cryptography_controls.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/revised_criminal_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_assertion.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/federal_criminal_activity.md
-  - ./docs/strategic/fraud-analysis/TRUE_FRAUD_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_companies.md
-  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/cumulative_control_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/border_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_sanctions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/mail_fraud.md
-  - ./jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_financial_access.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/expected_fraudulent_allocations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/prepare_criminal_referral.md
-  - ./lex-inference-engine/output/criminal_case_cross_reference.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/information_controller.md
-  - ./UPDATED_DRAFTS/analysis-main/tax_fraud_scheme_analysis.md
-  - ./jax-dan-response/evidence-attachments/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md
-  - ./2DO/x/proton.me/regizone@proton.me/Fw_ regimaskin.co.za domain lookup results.pdf
-  - ./case_2025_137857/02_evidence/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/framework_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/common_law_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_actors_table.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/when_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/creditor_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_address_evidence.md
-  - ./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/jax_confronted_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/july_13_2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_attorney.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_account_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_strategy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/business_interference_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_access.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_documentation.md
-  - ./UPDATED_DRAFTS/TRUSTEE_CONSPIRACY_COMPREHENSIVE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_justice_delay.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/coordinated_timing_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_email_proves.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_context.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/jurisdictional_criminal_justice.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_details.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_crimes_connection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/initial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/potential_criminal_liability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_owes_money.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_elements_established.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_criminal_complaint.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/premeditated_criminal_entrapment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_supported.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proves_premeditated_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_platform_continued_operations_during_t.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/20_nov_2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_investigation.md
-  - ./lex/cmp/za/south_african_company_law_regulatory_compliance.scm
-  - ./UPDATED_DRAFTS/analysis-main/tests/integration/test_court_impersonation_protection.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/jurisdictional_criminal_investigation.md
-  - ./Revenue_Stream_Hijacking_by_Rynette/01_POPIA_Compliant_System/Shopify_Platform/Platform_Configuration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/information_warfare_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_platform_investment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/platform_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/tools/ai_fraud_detector.py
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250606/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/enhanced_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_pattern_analysis.md
-  - ./jax-dan-response/criminal-complaint/SUPPORTING_AFFIDAVIT_Jacqueline_Faucitt_POPIA_Obstruction.md
-  - ./2DO/x/regima.zone/dan@regima.zone/We've Got a New Email Address!.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/platform_integration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/platform_overview.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/personal_data_criminally.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_impersonation.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/criminal-sequence-evidence-report.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_leads.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250606/RezonanceFebr2023.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_loans.md
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_flow_diagram.png
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_hijacking.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/FORMAL NOTICE - CESSATION OF CRIMINAL INSTRUCTIONS.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/original_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/all_transactions_since.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/entire_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/business_operations_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/false_impartiality_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/failure_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_crimes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_records.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enable_criminal_activity.md
-  - ./jax-dan-response/annexures/2025-11-14-evidence-batch/ANNEXURE_C_Trustee_Appointment_Email_2024-07-01.md
-  - ./docs/legal/annexures/JF12/criminal_matter_safety_guide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/national_fraud_intelligence.md
-  - ./UPDATED_DRAFTS/RYNETTE_SON_4_YEAR_CONSPIRACY_2021_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/separate_criminal_liability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/serious_fraud_office.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_party_definition.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_this.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_email_package.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_patterns_identified.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/south_african_criminal.md
-  - ./2DO/x/regima.zone/jax@regima.zone/Fw_ Payment platform Sumup.pdf
-  - ./jax-dan-response/evidence-attachments/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_considerations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/attention_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_risks.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_law_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_procedure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/how_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/weight_patterns.md
-  - ./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md
-  - ./2DO/x/regima.zone/jax@regima.zone/Fw_ Payment platform Sumup A CLEAR COPY OF THE LICENCE.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_criminal_proceeds.md
-  - ./evidence/annexures/JF-RF2_EMAIL_PROVIDING_PASSWORDS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/using_interdict_against_company_a_to_sabotage_comp.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_loop.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_relationship_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_stress_exploitation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_flow.md
-  - ./jax-response/evidence-attachments/dan-technical/comprehensive_fraud_timeline_2017_2025.md
-  - ./lex/evid/za/south_african_evidence_systematic_fraud_patterns.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraud_exposed.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_scope_extension.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_control_account.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_elements_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_pattern_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/illegal_control.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_payment_fraud.md
-  - ./docs/legal/annexures/JF08/evidence_package_20250606/RezonanceFebr2023.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/zone_platform_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/interest_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_theft_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_invoice_claims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_evidence_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enables_tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/1_in_2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_actors.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/reset_impersonation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_criminal_exposure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/witness_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_community.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/wire_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2022to28February2023.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_analysis_documents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_code_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/scapegoating_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/surface_pattern_recognition.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_platform.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/vulnerability_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_financial_manipulation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_masterstroke.md
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_overview_enhanced.png
-  - ./UPDATED_DRAFTS/analysis-main/entities/tests_related.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_counsel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_structure_created.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/ocr-analysis-email-cc-implications.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251009/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/requires_criminal.md
-  - ./jax-dan-response/evidence-attachments/JF-RESTORE2_TECHNOLOGY_PLATFORM_VALUATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/additional_criminal.md
-  - ./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/instructed_by.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/deduction_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_network_control.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251009/email_analysis_findings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/exclusive_access_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/flow_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/revised_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_financial_losses.md
-  - ./evidence/annexures/JF-RF1_EMAIL_GRANTING_SYSTEM_ACCESS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/cascade_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/appointed_professional_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/vva_supporting_group.md
-  - ./evidence/accounting/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_systems.md
-  - ./ANNEXURES/JF12/criminal_matter_safety_guide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_documents.md
-  - ./backups/pre-consolidation/jax-response/evidence-attachments/CHESNO-FRAUD-EVIDENCE-INDEX.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_control.md
-  - ./case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.eml
-  - ./UPDATED_DRAFTS/analysis-main/entities/victim_company.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_mapping_shopify_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_precedence.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/ocr-email-cc-analysis-critical-findings.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/ocr-analysis-email-cc-implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corrected_criminal_proceeds.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_case_timelines.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/temporal_pattern_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/what_control_does.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/faucitt_family_trust_conspiracy_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_director_sabotaging_his_own_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_if.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/impersonation_indicators.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/holding_company_definitions.md
-  - ./docs/strategic/fraud-analysis/ULTIMATE_FRAUD_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_panel.md
-  - ./UPDATED_DRAFTS/HMRC_PENSION_CORRESPONDENCE_REDIRECTION_FRAUD_COMPREHENSIVE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_capacity_factors.md
-  - ./UPDATED_DRAFTS/analysis-main/fraudulent_interdict_and_warehouse_sabotage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/observer_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sophisticated_criminal_system.md
-  - ./legal_analysis_2025_11/scheme_files/south_african_civil_procedure_ex_parte_fraud_rescission.scm
-  - ./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025_automated/FORMALNOTICE-CESSATIONOFCRIMINALINSTRUCTIONS.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/no_direct_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_recipients_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_destruction_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_authority.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_criminal_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/cost_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/for_controllers.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/frequency_pattern_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_risk.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/information_control_network.md
-  - ./docs/legal/analysis/criminal-enterprise-evidence-structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/attention_pattern_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/south_africa_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_evidence_submission.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_offences_under.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_pattern_demonstration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_emails.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/for_uk_company.md
-  - ./case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.msg
-  - ./UPDATED_DRAFTS/analysis-main/evidence/international_data_theft_and_invoice_fraud.md
-  - ./evidence/2025-11-14-batch/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_evidence_files.md
-  - ./evidence/witness-statements/templates/TEMPLATE_DANIEL_SHOPIFY_PLATFORM_OWNERSHIP.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_director.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/inventory_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_debt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_formalization.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_vulnerability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_control_strategy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/attorney_control.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/hypergnn_fraud_highlights.png
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_objective.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_position_enabled.md
-  - ./evidence/2025-11-14-batch-3/RezonanceFebr2023.PDF
-  - ./UPDATED_DRAFTS/CURATORSHIP_FRAUD_PLAN_COMPREHENSIVE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/year_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_regarding_regima_group.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_deregistration_attempts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_context.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/cost_reallocation_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/entities_controlled.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_hijacking_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/ocr-analysis-email-cc-implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/premeditated_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_sequence_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_escalation_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/secure_email_communications.md
-  - ./UPDATED_DRAFTS/2_YEAR_ACCOUNTING_BLACKOUT_AFTER_KAYLA_EMAIL_SEIZURE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_criminal_justice.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/formal_criminal_complaint.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_platform_ownership.md
-  - ./UPDATED_DRAFTS/analysis-main/skintwin-integration-plan/existing_platform_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/entity_tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_participants.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/computer_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_breakdown.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_amendment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/federal_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_enhanced.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_case_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/operational_control_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_representations.md
-  - ./lex/civ/za/south_african_civil_law_platform_unjust_enrichment.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/13_july_2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/desperate_escalation_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_pattern_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_interference_recognition.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pension_fraud_action.md
-  - ./evidence/legal-documents/formal-notices/FORMAL_NOTICE_CESSATION_CRIMINAL_INSTRUCTIONS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_intent_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_email_address.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_guide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/from_email_accounts.md
-  - ./2DO/x/proton.me/regizone@proton.me/regimaskin.co.za domain lookup results.pdf
-  - ./docs/legal/criminal-enterprise-evidence-structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_counsel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/other_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_elements.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/06_financial_fraud/hmrc_pension_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enforcement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/public_narrative_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/freight_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_integration.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_suspicious_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_threats.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/information_warfare_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_flow_for.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_report.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/email_compliance_directive_2025-07-08.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_proves.md
-  - ./UPDATED_DRAFTS/Shopify_Platform_Ownership_Verification.docx
-  - ./legal_analysis_2025_11/docx/RULE42(1)(a)APPLICATION-RESCISSIONFORFRAUD.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/architecture_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_fraud_investigation.md
-  - ./backups/pre-consolidation/jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domain_change.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/state_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/original_impersonation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/cost_controls.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_separation_all.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_server.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_funding.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/information_flow_patterns.md
-  - ./lex/CURATORSHIP_SETUP_PATTERN_ANALYSIS_2025-11-18.md
-  - ./docs/reports/verification/CHESNO_FRAUD_DOCUMENTATION_VERIFICATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_framework_documents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_legal_action.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/holding_company.md
-  - ./lex/cmp/za/south_african_company_law_regulatory_compliance_enhanced_v2.scm
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF03/hmrc_pension_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_pattern_proves.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/verified_email_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/hidden_patterns_identified.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_procedure_act.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_preparation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_criminal_conspiracy.md
-  - ./2DO/x/rzo.io/d@rzo.io/Rezonance Febr 2023.PDF.pdf
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/CRIMINAL_ENTERPRISE_ANNEXURE_STRUCTURE.md
-  - ./UPDATED_DRAFTS/analysis-main/UNAUTHORIZED_CONTROL_EVIDENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/document_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_chain.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/entity_sabotage_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/platform_suspension_risk.md
-  - ./UPDATED_DRAFTS/analysis-main/rezonance_payment_fraud_update.py
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_platform_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_filing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_communications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_exposed.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trial_balance_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_courts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_elements.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/criminal_matter_safety_guide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_offenses_related.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/deception_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_curatorship.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/identity_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/mar_15_2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_approach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/investment_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/violation_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_courts_would.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/document_control_update.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_sabotaging_his_own_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/strategy_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/creates_tax_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_data.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_elements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_scheme.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_interaction_patterns.md
-  - ./UPDATED_DRAFTS/JUNE_6_10_EMAILS_DANIE_BANTJIES.txt
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_envir.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_scenarios.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF6_KAYLA_ESTATE_WITH_EMAILS.pdf
-  - ./ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_nodes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_provisions_supporting.md
-  - ./jax-response/evidence-attachments/dan-technical/CRIMINAL_ENTERPRISE_ANNEXURE_STRUCTURE.md
-  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v2.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/reveals_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_scheme.md
-  - ./lex/cmp/za/south_african_company_law.scm
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_flow_diagram.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_matters.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/curatorship_scam_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/broader_impersonation_scheme.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/no_criminal_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/identity_appropriation_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_revelation.md
-  - ./ANNEXURES/JF08/evidence_package_20251009/email_analysis_findings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution.md
-  - ./docs/legal/frameworks/MISREPRESENTATION_FRAUD_FRAMEWORK.md
-  - ./case_2025_137857/02_evidence/evidence_package_20250606/email-body.html
-  - ./legal_analysis_2025_11/scheme_files/south_african_civil_law_platform_unjust_enrichment.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/behavioral_pattern_paragraphs.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_pattern_detection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_sa_is_listed_as_a_store_with_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_platform_fees.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_warning_issued.md
-  - ./ANNEXURES/JF08/evidence_package_20250606/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_method.md
-  - ./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_mechanism_hyperedges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_criminal.md
-  - ./evidence/correspondence/dan-bantjies-jun2025/2025-06-06_DAN_TO_BANTJIES_FRAUD_REPORTS.eml
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/Email_Attachments_Extraction_Summary.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_patterns_detected.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_framework.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/coordination_pattern_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_disguise.md
-  - ./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_interference_impact.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/original_email_date.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/j_p_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tier_control_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraud_mechanism.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_complete_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_weaponization_pattern.md
-  - ./2DO/x/proton.me/regizone@proton.me/Fw_ regimaskin.co.za domain lookup results(1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_control_dataset.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_coordination_indicators.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_operation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_investigations.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-RESTORE2_TECHNOLOGY_PLATFORM_VALUATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/broader_impersonation_response.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_seizure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/unified_platform_management.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/primary_pattern_recognition.md
-  - ./jax-response/dan-response-materials/CRIMINAL_ENTERPRISE_EVIDENCE_STRUCTURE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/immediate_tax_fraud.md
-  - ./lex/cmp/za/south_african_company_law_director_collective_action.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/action_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_security.md
-  - ./UPDATED_DRAFTS/analysis-main/criminal-case-timeline-outline-sa.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/coordination_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_network.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/platform_analytics.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/additional_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/early_criminal_referral.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_confirmation.md
-  - ./evidence/annexures/JF-RESTORE2_TAX_LOSSES_DOCUMENTATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_recognition.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/12_nov_2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_lexis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_matter_response.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/under_criminal_finances.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/south_african_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_value.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/continuing_criminal_enterprise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/no_single_controlling.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/employee_communication_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_consolidation.md
-  - ./jax-response/evidence-attachments/dan-technical/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_owner.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/commerce_platform_development.md
-  - ./UPDATED_DRAFTS/analysis-main/ownership_intersection_fraud_map.png
-  - ./UPDATED_DRAFTS/analysis-main/entities/money_laundering_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/lay_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/banking_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/behavioral_pattern_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_dataset.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/concepts_explained.md
-  - ./UPDATED_DRAFTS/analysis-main/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_theft_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_detection_risks.md
-  - ./UPDATED_DRAFTS/analysis-main/CRITICAL_FRAUD_TIMELINE_UPDATE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_party_disclosure.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/06_financial_fraud/hmrc_pension_fraud_action_plan.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_weapon.md
-  - ./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2023.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/enhanced_criminal_liability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_method.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_offences.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_sender.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/holding_company_definition.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_case_all.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_confirms_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/hypergnn_fraud_highlights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_reality.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/primary_federal_charges.md
-  - ./Revenue_Stream_Hijacking_by_Rynette/01_POPIA_Compliant_System/Customer_Communication/Regima_Zone_Email_System.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_implementation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/witness_intimidation_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_impersonation.md
-  - ./docs/legal/affidavits/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md
-  - ./UPDATED_DRAFTS/WAREHOUSE_FRAUD_PERJURY_CENTRAL_EVIDENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/22_nov_2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/platform_risk.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/criminal_matter_safety_guide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complete_criminal_network.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_court_referral.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/controlled_medical_care.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates_all.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_proceeds.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_applicable.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/analysis/CURATORSHIP_SCAM_PATTERN_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/account_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/layer_attention_patterns.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/strategy_protects_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_established.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_liability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_insights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/gaslighting_pattern_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enhanced_federal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_start.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates_everything.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_instructions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_fraud.md
-  - ./ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sep_20_2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_criminal_acts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/temporal_patterns_the.md
-  - ./lex/SHOPIFY_REVENUE_FRAUD_REGIMA_ZONE_UK_OWNERSHIP_2025-11-18.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_control_mechanism.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_architecture.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_affiliation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/infrastructure_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_dark_sky_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_communication_compromise.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_treaties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/factory_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_destruction_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/british_citizen_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supplier_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/controls_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_strategy_framework.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_server_records.md
-  - ./docs/legal/evidence/EVIDENCE_VERIFICATION_R10_227M_LOSSES.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_maintenance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/february_28_2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/murder_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_correspondence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/action_intent_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/uk_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_penalties_available.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_card_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_referral.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING(1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_investigations.md
-  - ./docs/strategic/fraud-analysis/CORRECTED_FRAUD_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_platform_hijacking.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/platform_infrastructure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/identify_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_act.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/implement_pattern_recognition.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_counsel.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251009/email_analysis_findings.md
-  - ./lex/frn/za/south_african_forensic_analysis_systematic_fraud_narrative.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/comprehensive_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_proceedings.md
-  - ./docs/legal/annexures/JF08/evidence_package_20250606/email-body.html
-  - ./jax-response/evidence-attachments/dan-technical/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_criminal_liability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_elements_established.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_party_disclosures.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_courts_act.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_name.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/escalating_control_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/process_was_fraudulent.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_links.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_appointment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_avoidance.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF03/hmrc_pension_fraud_action_plan.md
-  - ./lex/cmp/za/south_african_company_law_non_director_control.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_file.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_tax_savings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_necessary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/steinhoff_fraud_case.md
-  - ./evidence/property_unit9_southview_park/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_party_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/impersonation_infrastructure_expansion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation_authority.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/brief_criminal_counsel.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_matter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/user_access_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/previously_unexplained_events.md
-  - ./docs/legal/CHARITY_FRAUD_PROVISIONS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/customer_payment_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/annual_criminal_proceeds.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enhances_all_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_claims.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/RezonanceFebr2023.PDF
-  - ./UPDATED_DRAFTS/analysis-main/entities/prior_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/extreme_criminality.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/was_fraudulent.md
-  - ./docs/strategic/fraud-analysis/ADMIN_FEE_FRAUD_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_community.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_appointment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/personal_email_usage.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_continuation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_court_avoidance.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_pattern_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_matters.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_investigations_team.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_mechanism.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_purpose_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/communication_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_criminal_attorney.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/forwarding_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/narrative_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/card_cancellation_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/revenue_stream_hijacking_by_rynette/shopify_platform_analysis/Platform_Transparency_Analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_addresses.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_detection_framework.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/consolidate_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_case_under.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_scale.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_required.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/computer_platforms.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/original_criminal_reports.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_summary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_conspiracy_motive.md
-  - ./ANNEXURES/JF08/evidence_package_20251012/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraudulent_concealment.md
-  - ./UPDATED_DRAFTS/analysis-main/comprehensive_revenue_hijacking_tax_fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_standard.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/forex_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_package.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/new_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/potential_losses_prevented.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/03_supporting_affidavit_bantjies_medical.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_losses.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/platform_expenses.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_discovery.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/attorney_conspiracy_exclusion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminals.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_liability_transfer.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/all_control_points.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/interdict_abuse_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/requires_criminal_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/active_impersonation_alerts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_clarifies_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_perjury_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/jurisdiction_selection_control.md
-  - ./UPDATED_DRAFTS/BANTJIES_ULTIMATE_CONTROL_POWER_STRUCTURE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/ICO_criminal_complaint_template.txt
-  - ./UPDATED_DRAFTS/analysis-main/entities/january_15_2023.md
-  - ./UPDATED_DRAFTS/analysis-main/ownership_intersection_fraud_map.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/ownership_patterns.md
-  - ./docs/strategic/fraud-analysis/CHARITY_FRAUD_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminals_will_face.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/historical_control.md
-  - ./evidence/correspondence/JF8B_EMAIL_COOPERATION_CHAINS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/why_the_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/estimated_total_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/establishing_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/attorney_conspiracy_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/border_criminal_liability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation_obstruction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_platform_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_indicators.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_findings_links.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_cooperation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/coercive_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_type.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_pattern_demonstrated.md
-  - ./affidavit_work/analysis/Affidavit_Analysis_-_Part_2_Strong_Supporting_Evidence.docx
-  - ./lex/cmp/za/south_african_company_law_enhanced.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/card_payment_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/document_intent_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/temporal_attention_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_request.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/border_conspiracy_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/semantic_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/obstruction_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_impersonation_escalation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/adaptation_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_schemes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_proven.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/serious_criminality.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/gaslighting_pattern_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_act.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_purpose.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_risk_connection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_operation_your.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_email_print.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/general_update_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_element.md
-  - ./UPDATED_DRAFTS/analysis-main/fraud_scheme_overview_enhanced.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_indicators.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/both_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/retaliatory_pattern_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_domains.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/internal_controls.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_network.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_accounts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shared_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/take_legal_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/updated_criminal_case.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_counterclaims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence_invalid.md
-  - ./jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/exposes_criminal_appropriation.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_referrals.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/theft_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_appropriation_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_prevention.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_packages.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/intercompany_transactions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/commerce_automation_platform.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_referral.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_facilitation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_survival.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/cloud_platform.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_threshold.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/jurisdiction_strategy_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_annual_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_law.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/maintains_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/impersonation_framework.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_adjustments.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_complaint_process.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/06_nov_2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_case.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_required.md
-  - ./2DO/x/rzo.io/d@rzo.io/Fw_ Proof of addresses _ Mandates - [External Email].pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/group_financial_fraud.md
-  - ./ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/backdating_fraud_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_controller.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/clear_criminal_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/deemed_control_through.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/Email-2025-08-11-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_expense_allocation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/july_22_2023.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/advanced_pattern_recognition.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/entity_relationship_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_broader_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_amount.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/communication_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/march_15_2023.md
-  - ./UPDATED_DRAFTS/BANTJIES_DEBTOR_MOTIVE_CRIMINAL_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/how_criminal_enterprises.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/year_criminal_proceeds.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/action_fraud_report.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rynette_sends_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_synthesis_across.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/mail_redirection_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/existing_fraud_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_structure_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_seizure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_proceeds.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/connected_financial_fraud.md
-  - ./implementation/phase3_civil_criminal_separation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/centralized_bookkeeping_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/potential_international_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_selection_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_efficiency.md
-  - ./case_2025_137857/07_legal_research/criminal_matter_safety_guide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/attention_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_fraud_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/07_legal_research/criminal_matter_safety_guide.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/domain_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_asset.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/documents_prove_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/consistent_operational_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/delays_criminal_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_criminal_incentive.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_separation.md
-  - ./docs/legal/ULTIMATE_FRAUD_PROVISIONS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_and_regima_sa_shopify_platforms.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_complaint.md
-  - ./UPDATED_DRAFTS/SARS_AUDIT_EMAIL_BANTJIES_INSTRUCTIONS_SMOKING_GUN.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/lost_business_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_classification_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/excess_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/state_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_unauthorized_controller.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/allocation_fraud.md
-  - ./lex/refinements-2025-11-15/south_african_civil_law_temporal_pattern_detection_enhanced.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/shopify_systems_explained.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_criminal_cooperation.md
-  - ./case_2025_137857/02_evidence/evidence_package_20251009/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_control_system.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_controls.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/subsidiary_controlled_group.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_stress_diagnosis.md
-  - ./docs/legal/analysis/CIVIL_CRIMINAL_CASE_SPLIT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enabled_fraud_threats.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/perjury_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/actual_controller.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/cancel_company_cards.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_supporting_respondents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_control_achievement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/platform_costs.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/border_conspiracy.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_referral_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation_would.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_transactions.md
-  - ./jax-dan-response/criminal-complaint/CRIMINAL_COMPLAINT_POPIA_Section_107_Peter_Faucitt.md
-  - ./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Analysis_-_Part_2_Strong_Supporting_Evidence.docx
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_revelations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_implications.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_vehicle.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proves_conspiracy_elements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/specific_fraud_mechanism.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_protection.md
-  - ./lex/civ-proc/za/south_african_civil_procedure_ex_parte_fraud.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_crime_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_allegations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/primary_criminal_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/zone_platform.md
-  - ./jax-dan-response/evidence-attachments/comprehensive_fraud_timeline_2017_2025.md
-  - ./UPDATED_DRAFTS/analysis-main/case_2025_137857/case_draft_docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF4_SARS_AUDIT_WITH_EMAILS.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_email_receipt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_company_records.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_obstruction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/access_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_evidence_summary.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_fraud_scheme.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/network_pattern_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_benefits.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_intent.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/intercompany_analysis_deficit.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_attorney_hawks.md
-  - ./docs/legal/annexures/JF08/evidence_package_20251009/email_analysis_findings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_freezing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_structure_insights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/common_test_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_interlocking_criminal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_template.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/demonstrates_criminal_planning.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/to_uk_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_begins.md
-  - ./lex/FAKE_ACCOUNTS_FABRICATION_FRAUD_2025-11-18.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_fraud_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_case_timeline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/control_agents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_facilitation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/witness_intimidation_pattern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_process_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/racketeering_pattern_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/route_criminal_activity.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/feb_28_2023.md
-  - ./lex/civ/za/south_african_civil_procedure_ex_parte_fraud_rescission.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_conduct.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/supporting_models.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_zone_platform_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/conspiracy_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme_evolution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pattern_learning.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/email-body.html
-  - ./UPDATED_DRAFTS/analysis-main/entities/cancel_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_intent_peter.md
-  - ./lex/cmp/za/south_african_company_law_regulatory_compliance_enhanced.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/escalation_pattern_this.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/technical_controls.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_legal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_support.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_pattern_analysis.md
-  - ANNEXURES/JF05/
-- **Ad Res J7 References:** 
-  - See files related to: R3.1M+, losses, enabled, email, control., Pattern, impersonation, supporting, criminal, conspiracy, charges., Email, control, facilitated, fraud, related, platform, Dan's, company, since, 2023., Email, explained, instructed, 'don't, regima.zone, regimaskin.co.za, email'.
-- **Crime Category:** fraud
-- **Phase:** PHASE_004
-- **Event Subtype:** revenue_theft_email_impersonation
-- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_014
-- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
-- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
-- **Evidence Urls:** 
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/fraud_analysis_module.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/the_complete_criminal.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/control_analysis.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/escalated_impersonation.md
-- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_014.html
-- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_014
-- **Related Application:** APPLICATION_1
-- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
-- **Ad Res J7 Evidence:** 
-  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
-  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}
+**Description:**
+R3.1M+ losses enabled by email control. Pattern of impersonation supporting criminal conspiracy charges. Email control facilitated fraud related to platform paid by Dan's UK company since July 2023. Email from Gee in Aug explained to Jax that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email'.
+
+## Evidence References
+
+No specific evidence linked.
+
+## Raw Data
+
+```json
+{
+  "event_id": "EVENT_014",
+  "date": "2025-06-20",
+  "title": "Email Impersonation Pattern and Domain Switch Instruction",
+  "category": "revenue_theft",
+  "event_type": "email_impersonation",
+  "perpetrators": [
+    "PERSON_002"
+  ],
+  "victims": [
+    "PERSON_005",
+    "customers"
+  ],
+  "entities_involved": [
+    "PLATFORM_001",
+    "DOMAIN_002",
+    "BANK_ACCOUNT_001"
+  ],
+  "description": "R3.1M+ losses enabled by email control. Pattern of impersonation supporting criminal conspiracy charges. Email control facilitated fraud related to platform paid by Dan's UK company since July 2023. Email from Gee in Aug explained to Jax that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email'.",
+  "financial_impact": "R3,141,647.70",
+  "legal_significance": "pattern_of_impersonation_supporting_criminal_conspiracy_charges",
+  "evidence": [
+    "email_records",
+    "customer_communications",
+    "gee_email_to_jax"
+  ],
+  "shopify_related": true,
+  "pattern": "consolidation_phase",
+  "timeline_phase": "PHASE_004",
+  "shopify_connection": {
+    "connected": true,
+    "note": "Email control used to issue directives about platform paid by RegimA Zone Ltd",
+    "revelation": "Email impersonation facilitated fraud related to Shopify platform Dan's UK company had been paying for since July 2023"
+  },
+  "crime_type": "Email hijacking, identity theft, business impersonation, computer fraud",
+  "extended_evidence_note": "See ad-res-j7 repository for detailed supporting documentation",
+  "related_applications": [
+    "APPLICATION_1",
+    "APPLICATION_2"
+  ],
+  "evidence_files": [
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_analysis_module.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_complete_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_analysis.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/escalated_impersonation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_account_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_referral_accepted.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_property_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_research_platforms.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rental_fraud_flow.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_distraction_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/scalability_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/combined_platform_performance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/controlled_group.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_use.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_control_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_recognition_tools.md",
+    "./docs/legal/README_CIVIL_CRIMINAL_SPLIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_case_preparation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_detected.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/previous_impersonation_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_intent.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/semantic_pattern_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/concealing_criminal_property.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_proceeds_analysis.md",
+    "./case_2025_137857/02_evidence/evidence_package_20250606/RezonanceFebr2023.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_evidence_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/combined_annual_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/private_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/intermediary_control.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING(2).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/corporate_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enhanced_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/timeline_proving_conspiracy.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_criminals.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_trading.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/file_enhanced_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_through_testing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_language.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_controls.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_evidence_matrix.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pension_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/selection_control.md",
+    "./lex/cmp/za/south_african_company_law_forensic_accounting.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_level.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/controlled_professional_selection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_disruption.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_framework.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enabling_further_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/since_zod.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_enhancement_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supplier_control_account.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/own_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_invoice.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_forfeiture.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_platform.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rental_fraud_estimate.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/information_control.md",
+    "./WIP/RULE42(1)(a)APPLICATION-RESCISSIONFORFRAUD.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_recipients.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/formal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/coordinated_email_campaign.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025/FORMALNOTICE-CESSATIONOFCRIMINALINSTRUCTIONS.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/deceptive_language_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_documents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/narrative_construction_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_documentation.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_spoofing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_identified.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_documentation_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/year_fraud_projection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_fraud.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/CONVERTED_EMAIL_EVIDENCE_-_COURT-READY_DOCUMENTATION_(UPDATED).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_scripts.md",
+    "./WIP/RULE42_APPLICATION_RESCISSION_FOR_FRAUD.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/unexplained_wealth_orders.md",
+    "./UPDATED_DRAFTS/analysis-main/EVIDENCE_EXTRACTION_NEW_EMAILS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/phase_criminal_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_witness_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_matters_act.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_focus.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_environment_failures.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/version_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/subsidiary_and_holding_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/consistent_payment_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_appointment_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/controlled_group_definitions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_estate_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_mechanics.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_party_attribution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/are_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_communication_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/platform_synchronization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_elements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_this.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/digital_platform_migration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_statement_email.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2022to28February2023.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/coercive_control_success.md",
+    "./UPDATED_DRAFTS/analysis-main/coordinated_card_cancellation_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/file_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/controls_pete.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/historical_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_backdating_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_record_impact.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/attention_pattern_coherence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/integrated_criminal_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_information.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_party_procedures.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shield_criminal_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/after_shopify_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_evidence_shows.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_quantification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_penalties.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251009/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/reveals_email_address.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_email_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/actual_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/hierarchical_control.md",
+    "./lex/cmp/za/south_african_company_law_director_loan_accounts.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/obtain_supporting_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/high_priority_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/backdating_fraud.md",
+    "./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/design_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_date.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/instant_payment_platform.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/extortion_pattern.md",
+    "./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v3.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_recognition_document.md",
+    "./docs/legal/annexures/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_asset_value.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_misconduct_charges.md",
+    "./jax-response/evidence-attachments/dan-technical/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_liability_two.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_semantic_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_asset_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/victim_company_agents.md",
+    "./UPDATED_DRAFTS/Fraudulent_Use_of_Interdict_and_Warehouse_Sabotage (1).docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_payment_fraud.md",
+    "./jax-response/evidence-attachments/dan-technical/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_potential_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/computer_fraud_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charge.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/expense_attribution_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_filing.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/convergent_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/customer_control_account.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_circumstantial_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_admissions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_structure.md",
+    "./lex/refinements-2025-11-16/south_african_civil_law_temporal_pattern_detection_enhanced_v2.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/ongoing_criminal_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation_avoidance.md",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/other_criminals.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_control_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_requiring.md",
+    "./backups/pre-consolidation/jax-dan-response/CRIMINAL_ENTERPRISE_EVIDENCE_STRUCTURE.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_interference_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conspiracy_coordination.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_seeking.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_evolution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_team.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/accounting_control_change.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal_acts.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ I NEED TO SEE THE AMOUNT IN MY PERSONAL ACCOUNT - [External Email].pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_platform.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/unauthorized_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_court_jurisdiction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/federal_criminal_jurisdiction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conspiracy_network.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_case.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_breach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enable_criminal_continuation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_integration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_cases_table.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_stress_diagnoses.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_sequence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_cc_equals.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_plus_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/entity_control_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_offences_alleged.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_relationships.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_matters_agreement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enhances_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/handling_verbal_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domain_similarities.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_allocation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conspiracy_elements_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/attorney_impersonation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_damages.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_context.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/primary_criminal_violations.md",
+    "./ANNEXURES/JF08/evidence_package_20251009/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/deception_pattern_tracking.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/before_shopify_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_code.md",
+    "./evidence/computer-expenses/Consolidated Net Trading Profits/Losses Analysis Template.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_objective.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/curatorship_fraud_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_destruction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/reference_all_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_annual_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/core_criminal_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_act.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+    "./jax-response/evidence-attachments/CHESNO-FRAUD-EVIDENCE-INDEX.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enables_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/unauthorized_financial_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/timeline_pattern_recognition.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_witnesses.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_recognition_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_billing_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/through_action_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/personal_criminal_liability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_continuation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_significance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_effectiveness.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/for_criminal_prosecution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_email_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/07_nov_2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_group.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_context.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/02_supporting_affidavit_shopify_rynette.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/invoice_fraud.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/strategic_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_sequence_evidence.md",
+    "./2DO/x/regima.zone/jax@regima.zone/FW_ Email restriction.pdf",
+    "./UPDATED_DRAFTS/analysis-main/evidence/rezonance/financial_reports/payment_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_through_misrepresentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_cycle.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/court_filing_impersonation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/primary_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_categories.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/since_minipass.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/call_serious_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_sequence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_invoice_conspiracy.md",
+    "./legal_analysis_2025_11/scheme_files/south_african_forensic_analysis_systematic_fraud_narrative.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_case_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_interdict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/information_control_escalation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_cc.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/unknown_email.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/systematic_sabotage_and_curatorship_fraud_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/border_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/accounting_control_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_mechanisms_mapped.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251012/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/escalation_pattern_recognition.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conspiracy_chain.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_penalty.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/deterrence_requires_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_to.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/limited_criminal_authority.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_impersonation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/no_criminal_authority.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/clear_criminal_motive.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_bank_interference.md",
+    "./jax-dan-response/evidence-attachments/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251009/email_analysis_findings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/operational_control_indicators.md",
+    "./jax-dan-response/annexures/2025-11-14-evidence-batch/ANNEXURE_A_Sage_Screenshot_Control_User_Access_2025-06-20.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_layer.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/core_conspiracy_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_claim_debunked.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/ICO_GDPR_criminal_prosecution_guide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_content.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/year_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_group_financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/factors_supporting_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_submission_pattern.md",
+    "./UPDATED_DRAFTS/MASTER_CONSPIRACY_TIMELINE_2021_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/consistent_performance_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_uk_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_evidence.md",
+    "./2DO/x/regima.zone/emma@regima.zone/Re_ Payment platform Sumup A CLEAR COPY OF THE LICENCE.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/commerce_platform_utilization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/unknown_email_intermediary.md",
+    "./jax-dan-response/criminal-complaint/annexures/ANNEXURE_JAF8_Evidence_Pattern_Analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_report.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/entity_criminal_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/initial_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/event_pattern_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_analysis_opportunities.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/platform_migration.md",
+    "./evidence/annexures/JF-CHESNO3_POLICE_REPORTS_FRAUD_INVESTIGATION.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251012/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/advanced_pattern_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/additional_criminal_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_control_centers.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/august_2025_fraudulent_appointment_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_sabotage_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/identity_theft_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_charges.md",
+    "./jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rezonance_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_justice.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/investment_company_representatives.md",
+    "./ANNEXURES/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_addresses_detected.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/d_j_p_company.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/patterns_found.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/orchestrated_disruption_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_significance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_controls.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_masterminds.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/protect_criminal_justice.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_fraud_losses.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/technology_platforms.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_referral_protocols.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/medical_control_community.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_curatorship_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/specific_fraud_threat.md",
+    "./2DO/x/regima.zone/emma@regima.zone/Sumup payment platform.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_claims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_exposure.md",
+    "./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_dashboard.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_detector.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_criminal_court.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/dan_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/telephone_impersonation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/continued_impersonation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/running_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_offenses_this.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/identify_company_creditors.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/linguistic_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/operational_control.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF12/criminal_matter_safety_guide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corrected_criminal_scheme.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_interdict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/since_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_supporting_daniel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_criminal_elements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/why_criminal_prosecution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_address.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domain_hijacking.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_threatens_legal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/patterns_identified.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_authentication.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_accounting_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_legal_weaponization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enhanced_existing_charges.md",
+    "./ANNEXURES/JF08/evidence_package_20250606/RezonanceFebr2023.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_recovery.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_enablement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/primary_intent_patterns.md",
+    "./docs/strategic/fraud-analysis/SNEAKY_FRAUD_MECHANISM.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_from.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/controlled_disclosure.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ I NEED TO SEE THE AMOUNT IN MY PERSONAL ACCOUNT - [External Email](1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/continue_criminal_coordination.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pension_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_will_exercise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_amount.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shipping_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/exclusive_access_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_strategy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/if_criminal_referral.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_indicator.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_company.md",
+    "./lex/cri/za/south_african_criminal_law.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_re.md",
+    "./evidence/legal-documents/formal-notices/FORMAL_NOTICE_CESSATION_CRIMINAL_INSTRUCTIONS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/accounting_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_timeline_integration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conspiracy_evidence_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domain_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/monthly_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/relevant_sections_supporting.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/channel_control_verification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/avoids_criminal_courts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/primary_criminal_agent.md",
+    "./2DO/x/proton.me/jfaucitt@proton.me/regimaskin.co.za belongs to regimA.pdf",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF5_ADDERORY_DOMAIN_WITH_EMAILS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/platform_fees.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/controls_faucitt_family.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/misallocation_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_entity_connections.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_transfer.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sister_controlled_group.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_payment_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/banking_law_criminal.md",
+    "./lex/cmp/za/south_african_company_law_self_dealing_detection.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/escalation_pattern_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/double_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_files.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/wire_fraud_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_points.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/primary_fraud_elements.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ New Pty Company (New Name) and Share Certificates Combo (Service-1743068).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/jurisdiction_control.md",
+    "./2DO/x/regima.com/dan@regima.com/URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_jurisdiction_required.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_warning.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/phase_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/potential_criminal_acts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/transfer_pricing_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_prosecution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/update_criminal_authorities.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_mechanisms.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_master_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_compliance_directive.md",
+    "./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/emergent_pattern_detection.md",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_visualizer.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_control.md",
+    "./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v5.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_criminal_liability.md",
+    "./docs/legal/CORRECTED_FRAUD_PROVISIONS.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF8_LINDA_EMPLOYMENT_WITH_EMAILS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_servers.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/incapacity_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/call_action_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/shopify_platform_ownership_verification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/advanced_attention_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/level_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_weight_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025_automated/email-body.html",
+    "./docs/legal/frameworks/EMPLOYMENT_FRAUD_FRAMEWORK.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_mechanism_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_pattern_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/communication_channel_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enable_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_analysis_the.md",
+    "./jax-response/evidence-attachments/dan-technical/JF-RESTORE2_TECHNOLOGY_PLATFORM_VALUATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_scheme.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/escalation_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_theory.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_detection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/september_20_2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/coordinated_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_regarding_financial_analysis_of_regima_group.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/platform_provider.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complex_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/computer_platform_expenses.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_records.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_coordination_pattern.md",
+    "./2DO/x/regima.com/dan@regima.com/Partial Contributions to Timeline_ RegimA _Group_ Financial Fraud (2017-2025).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_verification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_purpose.md",
+    "./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v4.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/version_control_integration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_evidence_destruction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/her_actual_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_value.md",
+    "./UPDATED_DRAFTS/analysis-main/PROFIT_EXTRACTION_FRAUD_ANALYSIS.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme_discovered.md",
+    "./ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/specific_vulnerability_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_loan_flows.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_sophistication.md",
+    "./backups/pre-consolidation/jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_coordination.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/explained_like_you.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_definition.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domain.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/previously_unexplained_aggressive.md",
+    "./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v6.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_fraud_conspiracy.md",
+    "./legal_analysis_2025_11/scheme_files/south_african_company_law_director_loan_accounts.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/enabled_fraud_instruments.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_fraud_report.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251009/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/attorney_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_revelation_impact.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_and_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_cluster.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_email.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF3_STRATEGIC_LOGISTICS_WITH_EMAILS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_acts.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/FORMAL NOTICE - CESSATION OF CRIMINAL INSTRUCTIONS.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/void_fraudulent_interdict.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_case_framework.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_representation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_conspiracy_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/customer_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_conduct.md",
+    "./UPDATED_DRAFTS/analysis-main/src/fraud_analysis/payment_fraud_analyzer.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/annual_tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_shield.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_continuation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_platform.md",
+    "./ANNEXURES/SF4_SARS_Audit_Email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/cryptography_controls.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/revised_criminal_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_assertion.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/federal_criminal_activity.md",
+    "./docs/strategic/fraud-analysis/TRUE_FRAUD_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_companies.md",
+    "./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/cumulative_control_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/border_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_sanctions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/mail_fraud.md",
+    "./jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_financial_access.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/expected_fraudulent_allocations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/prepare_criminal_referral.md",
+    "./lex-inference-engine/output/criminal_case_cross_reference.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/information_controller.md",
+    "./UPDATED_DRAFTS/analysis-main/tax_fraud_scheme_analysis.md",
+    "./jax-dan-response/evidence-attachments/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md",
+    "./2DO/x/proton.me/regizone@proton.me/Fw_ regimaskin.co.za domain lookup results.pdf",
+    "./case_2025_137857/02_evidence/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/framework_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/common_law_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_actors_table.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/when_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/creditor_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_address_evidence.md",
+    "./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/jax_confronted_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/july_13_2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_attorney.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_account_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_strategy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/business_interference_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_access.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_documentation.md",
+    "./UPDATED_DRAFTS/TRUSTEE_CONSPIRACY_COMPREHENSIVE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_justice_delay.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/coordinated_timing_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_email_proves.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_context.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/jurisdictional_criminal_justice.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_details.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_crimes_connection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/initial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/potential_criminal_liability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_owes_money.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conspiracy_elements_established.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_criminal_complaint.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/premeditated_criminal_entrapment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_supported.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proves_premeditated_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_platform_continued_operations_during_t.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/20_nov_2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_investigation.md",
+    "./lex/cmp/za/south_african_company_law_regulatory_compliance.scm",
+    "./UPDATED_DRAFTS/analysis-main/tests/integration/test_court_impersonation_protection.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/jurisdictional_criminal_investigation.md",
+    "./Revenue_Stream_Hijacking_by_Rynette/01_POPIA_Compliant_System/Shopify_Platform/Platform_Configuration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/information_warfare_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/strategic_platform_investment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/platform_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/tools/ai_fraud_detector.py",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250606/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/enhanced_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_pattern_analysis.md",
+    "./jax-dan-response/criminal-complaint/SUPPORTING_AFFIDAVIT_Jacqueline_Faucitt_POPIA_Obstruction.md",
+    "./2DO/x/regima.zone/dan@regima.zone/We've\u2009Got\u2009a\u2009New\u2009Email\u2009Address!.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/platform_integration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/platform_overview.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/personal_data_criminally.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_impersonation.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/criminal-sequence-evidence-report.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_leads.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20250606/RezonanceFebr2023.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_loans.md",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_flow_diagram.png",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_hijacking.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/FORMAL NOTICE - CESSATION OF CRIMINAL INSTRUCTIONS.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/original_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/all_transactions_since.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/entire_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/business_operations_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/false_impartiality_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/failure_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_crimes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_records.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enable_criminal_activity.md",
+    "./jax-dan-response/annexures/2025-11-14-evidence-batch/ANNEXURE_C_Trustee_Appointment_Email_2024-07-01.md",
+    "./docs/legal/annexures/JF12/criminal_matter_safety_guide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/national_fraud_intelligence.md",
+    "./UPDATED_DRAFTS/RYNETTE_SON_4_YEAR_CONSPIRACY_2021_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/separate_criminal_liability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/serious_fraud_office.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_party_definition.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_this.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_email_package.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_patterns_identified.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/south_african_criminal.md",
+    "./2DO/x/regima.zone/jax@regima.zone/Fw_ Payment platform Sumup.pdf",
+    "./jax-dan-response/evidence-attachments/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_considerations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/attention_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_risks.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_law_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_procedure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/how_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/weight_patterns.md",
+    "./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md",
+    "./2DO/x/regima.zone/jax@regima.zone/Fw_ Payment platform Sumup A CLEAR COPY OF THE LICENCE.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_criminal_proceeds.md",
+    "./evidence/annexures/JF-RF2_EMAIL_PROVIDING_PASSWORDS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/using_interdict_against_company_a_to_sabotage_comp.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_loop.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_relationship_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_stress_exploitation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_flow.md",
+    "./jax-response/evidence-attachments/dan-technical/comprehensive_fraud_timeline_2017_2025.md",
+    "./lex/evid/za/south_african_evidence_systematic_fraud_patterns.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraud_exposed.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_scope_extension.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_control_account.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_elements_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_pattern_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/illegal_control.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_payment_fraud.md",
+    "./docs/legal/annexures/JF08/evidence_package_20250606/RezonanceFebr2023.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/zone_platform_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conspiracy_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/interest_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_theft_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_invoice_claims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_evidence_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enables_tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/1_in_2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_actors.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/reset_impersonation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_criminal_exposure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/witness_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_community.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/wire_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251012/Regima-1March2022to28February2023.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_analysis_documents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_code_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/scapegoating_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/surface_pattern_recognition.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_platform.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/vulnerability_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_financial_manipulation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_masterstroke.md",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_overview_enhanced.png",
+    "./UPDATED_DRAFTS/analysis-main/entities/tests_related.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_counsel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_structure_created.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/ocr-analysis-email-cc-implications.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/02_evidence/evidence_package_20251009/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/requires_criminal.md",
+    "./jax-dan-response/evidence-attachments/JF-RESTORE2_TECHNOLOGY_PLATFORM_VALUATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/additional_criminal.md",
+    "./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/instructed_by.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/deduction_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_network_control.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251009/email_analysis_findings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/exclusive_access_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/flow_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/revised_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_financial_losses.md",
+    "./evidence/annexures/JF-RF1_EMAIL_GRANTING_SYSTEM_ACCESS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/cascade_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/appointed_professional_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/vva_supporting_group.md",
+    "./evidence/accounting/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_systems.md",
+    "./ANNEXURES/JF12/criminal_matter_safety_guide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_fraud_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_documents.md",
+    "./backups/pre-consolidation/jax-response/evidence-attachments/CHESNO-FRAUD-EVIDENCE-INDEX.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corporate_control.md",
+    "./case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.eml",
+    "./UPDATED_DRAFTS/analysis-main/entities/victim_company.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_mapping_shopify_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_precedence.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/ocr-email-cc-analysis-critical-findings.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/ocr-analysis-email-cc-implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corrected_criminal_proceeds.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_case_timelines.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/temporal_pattern_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/what_control_does.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/faucitt_family_trust_conspiracy_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_director_sabotaging_his_own_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_if.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/impersonation_indicators.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/holding_company_definitions.md",
+    "./docs/strategic/fraud-analysis/ULTIMATE_FRAUD_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_panel.md",
+    "./UPDATED_DRAFTS/HMRC_PENSION_CORRESPONDENCE_REDIRECTION_FRAUD_COMPREHENSIVE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_capacity_factors.md",
+    "./UPDATED_DRAFTS/analysis-main/fraudulent_interdict_and_warehouse_sabotage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/observer_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sophisticated_criminal_system.md",
+    "./legal_analysis_2025_11/scheme_files/south_african_civil_procedure_ex_parte_fraud_rescission.scm",
+    "./UPDATED_DRAFTS/analysis-main/evidence/formal_notice_july_2025_automated/FORMALNOTICE-CESSATIONOFCRIMINALINSTRUCTIONS.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/no_direct_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_recipients_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_destruction_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_authority.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_criminal_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/cost_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/for_controllers.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/frequency_pattern_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_risk.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/information_control_network.md",
+    "./docs/legal/analysis/criminal-enterprise-evidence-structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/attention_pattern_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/south_africa_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_evidence_submission.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_offences_under.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_pattern_demonstration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_emails.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/for_uk_company.md",
+    "./case_2025_137857/02_evidence/misc/Fw_ regimaskin.co.za domain lookup results.msg",
+    "./UPDATED_DRAFTS/analysis-main/evidence/international_data_theft_and_invoice_fraud.md",
+    "./evidence/2025-11-14-batch/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_evidence_files.md",
+    "./evidence/witness-statements/templates/TEMPLATE_DANIEL_SHOPIFY_PLATFORM_OWNERSHIP.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_director.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/inventory_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_debt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_formalization.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conspiracy_vulnerability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_control_strategy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/attorney_control.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/hypergnn_fraud_highlights.png",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_objective.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_position_enabled.md",
+    "./evidence/2025-11-14-batch-3/RezonanceFebr2023.PDF",
+    "./UPDATED_DRAFTS/CURATORSHIP_FRAUD_PLAN_COMPREHENSIVE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/year_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_regarding_regima_group.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_deregistration_attempts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_context.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/cost_reallocation_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/entities_controlled.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_hijacking_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/ocr-analysis-email-cc-implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/premeditated_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_sequence_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_escalation_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/secure_email_communications.md",
+    "./UPDATED_DRAFTS/2_YEAR_ACCOUNTING_BLACKOUT_AFTER_KAYLA_EMAIL_SEIZURE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_criminal_justice.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/formal_criminal_complaint.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_platform_ownership.md",
+    "./UPDATED_DRAFTS/analysis-main/skintwin-integration-plan/existing_platform_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/entity_tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_participants.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/computer_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_breakdown.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_amendment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/federal_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_enhanced.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_case_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/operational_control_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_representations.md",
+    "./lex/civ/za/south_african_civil_law_platform_unjust_enrichment.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/13_july_2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/desperate_escalation_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_pattern_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_interference_recognition.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pension_fraud_action.md",
+    "./evidence/legal-documents/formal-notices/FORMAL_NOTICE_CESSATION_CRIMINAL_INSTRUCTIONS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_intent_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_email_address.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_guide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/from_email_accounts.md",
+    "./2DO/x/proton.me/regizone@proton.me/regimaskin.co.za domain lookup results.pdf",
+    "./docs/legal/criminal-enterprise-evidence-structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_counsel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/other_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conspiracy_elements.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/06_financial_fraud/hmrc_pension_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enforcement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/public_narrative_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/freight_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_integration.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_suspicious_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_threats.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/information_warfare_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_flow_for.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_report.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/email_compliance_directive_2025-07-08.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_proves.md",
+    "./UPDATED_DRAFTS/Shopify_Platform_Ownership_Verification.docx",
+    "./legal_analysis_2025_11/docx/RULE42(1)(a)APPLICATION-RESCISSIONFORFRAUD.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/architecture_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_fraud_investigation.md",
+    "./backups/pre-consolidation/jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domain_change.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/state_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/original_impersonation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/cost_controls.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_separation_all.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_server.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_funding.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/information_flow_patterns.md",
+    "./lex/CURATORSHIP_SETUP_PATTERN_ANALYSIS_2025-11-18.md",
+    "./docs/reports/verification/CHESNO_FRAUD_DOCUMENTATION_VERIFICATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_framework_documents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_legal_action.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/holding_company.md",
+    "./lex/cmp/za/south_african_company_law_regulatory_compliance_enhanced_v2.scm",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF03/hmrc_pension_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_pattern_proves.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/verified_email_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/hidden_patterns_identified.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_procedure_act.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_preparation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_criminal_conspiracy.md",
+    "./2DO/x/rzo.io/d@rzo.io/Rezonance Febr 2023.PDF.pdf",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/CRIMINAL_ENTERPRISE_ANNEXURE_STRUCTURE.md",
+    "./UPDATED_DRAFTS/analysis-main/UNAUTHORIZED_CONTROL_EVIDENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/document_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_chain.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/entity_sabotage_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/platform_suspension_risk.md",
+    "./UPDATED_DRAFTS/analysis-main/rezonance_payment_fraud_update.py",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_platform_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_filing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_communications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conspiracy_exposed.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trial_balance_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_courts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_elements.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/criminal_matter_safety_guide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_offenses_related.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/deception_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_curatorship.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/identity_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/mar_15_2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_approach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/investment_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/violation_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_courts_would.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/document_control_update.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_sabotaging_his_own_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/strategy_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/creates_tax_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_data.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_elements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_scheme.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_interaction_patterns.md",
+    "./UPDATED_DRAFTS/JUNE_6_10_EMAILS_DANIE_BANTJIES.txt",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_envir.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_scenarios.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF6_KAYLA_ESTATE_WITH_EMAILS.pdf",
+    "./ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_nodes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_provisions_supporting.md",
+    "./jax-response/evidence-attachments/dan-technical/CRIMINAL_ENTERPRISE_ANNEXURE_STRUCTURE.md",
+    "./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced_v2.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/reveals_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_scheme.md",
+    "./lex/cmp/za/south_african_company_law.scm",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_flow_diagram.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_matters.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/curatorship_scam_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/broader_impersonation_scheme.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/no_criminal_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/identity_appropriation_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_revelation.md",
+    "./ANNEXURES/JF08/evidence_package_20251009/email_analysis_findings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution.md",
+    "./docs/legal/frameworks/MISREPRESENTATION_FRAUD_FRAMEWORK.md",
+    "./case_2025_137857/02_evidence/evidence_package_20250606/email-body.html",
+    "./legal_analysis_2025_11/scheme_files/south_african_civil_law_platform_unjust_enrichment.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/behavioral_pattern_paragraphs.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_pattern_detection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_sa_is_listed_as_a_store_with_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_platform_fees.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_warning_issued.md",
+    "./ANNEXURES/JF08/evidence_package_20250606/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_method.md",
+    "./lex/cmp/za/south_african_company_law_forensic_accounting_enhanced.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_mechanism_hyperedges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_criminal.md",
+    "./evidence/correspondence/dan-bantjies-jun2025/2025-06-06_DAN_TO_BANTJIES_FRAUD_REPORTS.eml",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/Email_Attachments_Extraction_Summary.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_patterns_detected.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_framework.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/coordination_pattern_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_disguise.md",
+    "./ANNEXURES/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_interference_impact.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/original_email_date.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/j_p_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tier_control_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraud_mechanism.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_complete_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_weaponization_pattern.md",
+    "./2DO/x/proton.me/regizone@proton.me/Fw_ regimaskin.co.za domain lookup results(1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_control_dataset.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_coordination_indicators.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_operation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_investigations.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-RESTORE2_TECHNOLOGY_PLATFORM_VALUATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/broader_impersonation_response.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_seizure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/unified_platform_management.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/primary_pattern_recognition.md",
+    "./jax-response/dan-response-materials/CRIMINAL_ENTERPRISE_EVIDENCE_STRUCTURE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/immediate_tax_fraud.md",
+    "./lex/cmp/za/south_african_company_law_director_collective_action.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/action_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_security.md",
+    "./UPDATED_DRAFTS/analysis-main/criminal-case-timeline-outline-sa.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/coordination_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_network.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/platform_analytics.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/additional_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/early_criminal_referral.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/ongoing_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_confirmation.md",
+    "./evidence/annexures/JF-RESTORE2_TAX_LOSSES_DOCUMENTATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_recognition.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/12_nov_2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_lexis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_matter_response.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/under_criminal_finances.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/south_african_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_value.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/continuing_criminal_enterprise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/no_single_controlling.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/employee_communication_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_consolidation.md",
+    "./jax-response/evidence-attachments/dan-technical/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_owner.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/commerce_platform_development.md",
+    "./UPDATED_DRAFTS/analysis-main/ownership_intersection_fraud_map.png",
+    "./UPDATED_DRAFTS/analysis-main/entities/money_laundering_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/lay_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/banking_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/behavioral_pattern_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_dataset.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/concepts_explained.md",
+    "./UPDATED_DRAFTS/analysis-main/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corporate_theft_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_detection_risks.md",
+    "./UPDATED_DRAFTS/analysis-main/CRITICAL_FRAUD_TIMELINE_UPDATE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_party_disclosure.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/06_financial_fraud/hmrc_pension_fraud_action_plan.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_weapon.md",
+    "./evidence/rezonance-misallocation/REZONANCE_PASTEL_ACCOUNT_FEB_2023.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/enhanced_criminal_liability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_method.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_offences.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_sender.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/holding_company_definition.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_case_all.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/timeline_confirms_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/hypergnn_fraud_highlights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_reality.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/primary_federal_charges.md",
+    "./Revenue_Stream_Hijacking_by_Rynette/01_POPIA_Compliant_System/Customer_Communication/Regima_Zone_Email_System.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_implementation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/witness_intimidation_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_impersonation.md",
+    "./docs/legal/affidavits/SUPPORTING_AFFIDAVIT_DANIEL_JAMES_FAUCITT.md",
+    "./UPDATED_DRAFTS/WAREHOUSE_FRAUD_PERJURY_CENTRAL_EVIDENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/22_nov_2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/platform_risk.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/criminal_matter_safety_guide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complete_criminal_network.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_court_referral.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/controlled_medical_care.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates_all.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_proceeds.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_applicable.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/analysis/CURATORSHIP_SCAM_PATTERN_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/account_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/layer_attention_patterns.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/strategy_protects_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_established.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_liability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_insights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/gaslighting_pattern_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enhanced_federal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_start.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_vitiates_everything.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_instructions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_fraud.md",
+    "./ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sep_20_2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_criminal_acts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/temporal_patterns_the.md",
+    "./lex/SHOPIFY_REVENUE_FRAUD_REGIMA_ZONE_UK_OWNERSHIP_2025-11-18.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_control_mechanism.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_architecture.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_affiliation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/infrastructure_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_dark_sky_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_communication_compromise.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_treaties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/factory_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_destruction_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/british_citizen_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supplier_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/controls_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_strategy_framework.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_server_records.md",
+    "./docs/legal/evidence/EVIDENCE_VERIFICATION_R10_227M_LOSSES.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_maintenance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/february_28_2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/murder_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_correspondence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/action_intent_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/uk_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_penalties_available.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_card_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_referral.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING(1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_investigations.md",
+    "./docs/strategic/fraud-analysis/CORRECTED_FRAUD_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_platform_hijacking.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/platform_infrastructure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/identify_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_act.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/implement_pattern_recognition.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_counsel.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251009/email_analysis_findings.md",
+    "./lex/frn/za/south_african_forensic_analysis_systematic_fraud_narrative.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/comprehensive_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_proceedings.md",
+    "./docs/legal/annexures/JF08/evidence_package_20250606/email-body.html",
+    "./jax-response/evidence-attachments/dan-technical/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corporate_criminal_liability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_elements_established.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_party_disclosures.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_courts_act.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_name.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/escalating_control_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/process_was_fraudulent.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_links.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fraudulent_appointment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_avoidance.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF03/hmrc_pension_fraud_action_plan.md",
+    "./lex/cmp/za/south_african_company_law_non_director_control.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_file.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_tax_savings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_necessary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/steinhoff_fraud_case.md",
+    "./evidence/property_unit9_southview_park/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_party_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/impersonation_infrastructure_expansion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation_authority.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/brief_criminal_counsel.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_matter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/user_access_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/previously_unexplained_events.md",
+    "./docs/legal/CHARITY_FRAUD_PROVISIONS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/customer_payment_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/annual_criminal_proceeds.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enhances_all_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_claims.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/RezonanceFebr2023.PDF",
+    "./UPDATED_DRAFTS/analysis-main/entities/prior_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/extreme_criminality.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/was_fraudulent.md",
+    "./docs/strategic/fraud-analysis/ADMIN_FEE_FRAUD_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_community.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_appointment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/personal_email_usage.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_continuation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_court_avoidance.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_pattern_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_matters.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_investigations_team.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_mechanism.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_purpose_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/communication_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_criminal_attorney.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_exploitation_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/forwarding_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/narrative_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/card_cancellation_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/revenue_stream_hijacking_by_rynette/shopify_platform_analysis/Platform_Transparency_Analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_addresses.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_detection_framework.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/consolidate_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_case_under.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_scale.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_required.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/computer_platforms.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/original_criminal_reports.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_summary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_conspiracy_motive.md",
+    "./ANNEXURES/JF08/evidence_package_20251012/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraudulent_concealment.md",
+    "./UPDATED_DRAFTS/analysis-main/comprehensive_revenue_hijacking_tax_fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_standard.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/forex_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_package.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/new_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/potential_losses_prevented.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/rescission_application/03_supporting_affidavit_bantjies_medical.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_losses.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/platform_expenses.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_discovery.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/attorney_conspiracy_exclusion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminals.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_liability_transfer.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/all_control_points.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/interdict_abuse_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/requires_criminal_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/active_impersonation_alerts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_clarifies_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_perjury_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/jurisdiction_selection_control.md",
+    "./UPDATED_DRAFTS/BANTJIES_ULTIMATE_CONTROL_POWER_STRUCTURE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/ICO_criminal_complaint_template.txt",
+    "./UPDATED_DRAFTS/analysis-main/entities/january_15_2023.md",
+    "./UPDATED_DRAFTS/analysis-main/ownership_intersection_fraud_map.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/ownership_patterns.md",
+    "./docs/strategic/fraud-analysis/CHARITY_FRAUD_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminals_will_face.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/historical_control.md",
+    "./evidence/correspondence/JF8B_EMAIL_COOPERATION_CHAINS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/why_the_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/estimated_total_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/establishing_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/attorney_conspiracy_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/border_criminal_liability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation_obstruction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_platform_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_indicators.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_findings_links.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_cooperation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/coercive_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_type.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/escalation_pattern_demonstrated.md",
+    "./affidavit_work/analysis/Affidavit_Analysis_-_Part_2_Strong_Supporting_Evidence.docx",
+    "./lex/cmp/za/south_african_company_law_enhanced.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/card_payment_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/document_intent_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/temporal_attention_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_request.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/border_conspiracy_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/semantic_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/obstruction_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_impersonation_escalation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/adaptation_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_fraud_schemes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conspiracy_proven.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/serious_criminality.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/gaslighting_pattern_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_act.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_purpose.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_risk_connection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_operation_your.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_email_print.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/general_update_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_element.md",
+    "./UPDATED_DRAFTS/analysis-main/fraud_scheme_overview_enhanced.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_fraud_indicators.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/both_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/retaliatory_pattern_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_domains.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/internal_controls.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_network.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_accounts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shared_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/take_legal_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/updated_criminal_case.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_counterclaims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_evidence_invalid.md",
+    "./jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/exposes_criminal_appropriation.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_referrals.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/theft_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_appropriation_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_prevention.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_packages.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/intercompany_transactions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/commerce_automation_platform.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_referral.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_facilitation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_survival.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/cloud_platform.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_threshold.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/jurisdiction_strategy_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_annual_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_law.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/maintains_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/impersonation_framework.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_adjustments.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_complaint_process.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/06_nov_2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_case.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charges_required.md",
+    "./2DO/x/rzo.io/d@rzo.io/Fw_ Proof of addresses _ Mandates - [External Email].pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/group_financial_fraud.md",
+    "./ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conspiracy_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conspiracy_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/peter_faucitt_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/backdating_fraud_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_controller.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/clear_criminal_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/deemed_control_through.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/Email-2025-08-11-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_expense_allocation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/july_22_2023.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/advanced_pattern_recognition.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/entity_relationship_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_broader_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_amount.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/communication_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/march_15_2023.md",
+    "./UPDATED_DRAFTS/BANTJIES_DEBTOR_MOTIVE_CRIMINAL_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/how_criminal_enterprises.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/year_criminal_proceeds.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/action_fraud_report.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rynette_sends_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_synthesis_across.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/mail_redirection_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/existing_fraud_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_structure_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_seizure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_proceeds.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/connected_financial_fraud.md",
+    "./implementation/phase3_civil_criminal_separation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/centralized_bookkeeping_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/potential_international_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_selection_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_efficiency.md",
+    "./case_2025_137857/07_legal_research/criminal_matter_safety_guide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/attention_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_fraud_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/07_legal_research/criminal_matter_safety_guide.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/domain_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_asset.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/documents_prove_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/consistent_operational_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/delays_criminal_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_criminal_incentive.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_separation.md",
+    "./docs/legal/ULTIMATE_FRAUD_PROVISIONS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_and_regima_sa_shopify_platforms.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_complaint.md",
+    "./UPDATED_DRAFTS/SARS_AUDIT_EMAIL_BANTJIES_INSTRUCTIONS_SMOKING_GUN.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/lost_business_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_classification_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/excess_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/state_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_unauthorized_controller.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/allocation_fraud.md",
+    "./lex/refinements-2025-11-15/south_african_civil_law_temporal_pattern_detection_enhanced.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/shopify_systems_explained.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_criminal_cooperation.md",
+    "./case_2025_137857/02_evidence/evidence_package_20251009/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_control_system.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_controls.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/subsidiary_controlled_group.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_stress_diagnosis.md",
+    "./docs/legal/analysis/CIVIL_CRIMINAL_CASE_SPLIT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enabled_fraud_threats.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/perjury_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/actual_controller.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/cancel_company_cards.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_supporting_respondents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_control_achievement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/platform_costs.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/border_conspiracy.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_referral_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_investigation_would.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_transactions.md",
+    "./jax-dan-response/criminal-complaint/CRIMINAL_COMPLAINT_POPIA_Section_107_Peter_Faucitt.md",
+    "./UPDATED_DRAFTS/analysis-main/docs/Affidavit_Analysis_-_Part_2_Strong_Supporting_Evidence.docx",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_revelations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_implications.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_vehicle.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proves_conspiracy_elements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/specific_fraud_mechanism.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_activity_protection.md",
+    "./lex/civ-proc/za/south_african_civil_procedure_ex_parte_fraud.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_crime_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_allegations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/primary_criminal_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/zone_platform.md",
+    "./jax-dan-response/evidence-attachments/comprehensive_fraud_timeline_2017_2025.md",
+    "./UPDATED_DRAFTS/analysis-main/case_2025_137857/case_draft_docs/FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF4_SARS_AUDIT_WITH_EMAILS.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_email_receipt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_uk_company_records.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_obstruction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/access_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_evidence_summary.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_fraud_scheme.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/network_pattern_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_benefits.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_intent.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/intercompany_analysis_deficit.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_attorney_hawks.md",
+    "./docs/legal/annexures/JF08/evidence_package_20251009/email_analysis_findings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_asset_freezing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_structure_insights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/common_test_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_enterprise_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_interlocking_criminal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_template.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/demonstrates_criminal_planning.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/to_uk_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conspiracy_begins.md",
+    "./lex/FAKE_ACCOUNTS_FABRICATION_FRAUD_2025-11-18.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corporate_fraud_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_case_timeline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/control_agents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_fraud_facilitation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/witness_intimidation_pattern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_process_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/racketeering_pattern_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/route_criminal_activity.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/feb_28_2023.md",
+    "./lex/civ/za/south_african_civil_procedure_ex_parte_fraud_rescission.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_conduct.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/supporting_models.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_zone_platform_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/conspiracy_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_scheme_evolution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pattern_learning.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF08/evidence_package_20250606/email-body.html",
+    "./UPDATED_DRAFTS/analysis-main/entities/cancel_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_intent_peter.md",
+    "./lex/cmp/za/south_african_company_law_regulatory_compliance_enhanced.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/escalation_pattern_this.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/technical_controls.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_legal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_prosecution_support.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_pattern_analysis.md",
+    "ANNEXURES/JF05/"
+  ],
+  "ad_res_j7_references": [
+    "See files related to: R3.1M+, losses, enabled, email, control., Pattern, impersonation, supporting, criminal, conspiracy, charges., Email, control, facilitated, fraud, related, platform, Dan's, company, since, 2023., Email, explained, instructed, 'don't, regima.zone, regimaskin.co.za, email'."
+  ],
+  "crime_category": "fraud",
+  "phase": "PHASE_004",
+  "event_subtype": "revenue_theft_email_impersonation",
+  "github_pages_reference": "https://cogpy.github.io/revstream1/applications.md#event_014",
+  "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+  "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+  "evidence_urls": [
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/fraud_analysis_module.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/the_complete_criminal.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/control_analysis.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/backups/pre-consolidation/jax-dan-response/evidence-attachments/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/escalated_impersonation.md"
+  ],
+  "github_pages_url": "https://cogpy.github.io/revstream1/events/EVENT_014.html",
+  "timeline_reference": "https://cogpy.github.io/revstream1/timeline.html#EVENT_014",
+  "related_application": "APPLICATION_1",
+  "application_url": "https://cogpy.github.io/revstream1/application-1.html",
+  "ad_res_j7_evidence": [
+    {
+      "source": "case_2025_137857/",
+      "description": "Case documentation and analysis",
+      "url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857"
+    },
+    {
+      "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "description": "Complete evidence catalog (2,866 files)",
+      "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
+    }
+  ],
+  "ad_res_j7_cross_references": [
+    "Evidence documented in ad-res-j7 repository",
+    "See ANNEXURES for event EVENT_014",
+    "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+  ],
+  "evidence_references": [
+    "case_2025_137857/02_evidence/",
+    "ANNEXURES/",
+    "docs/"
+  ]
+}
+```

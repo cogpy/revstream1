@@ -1,287 +1,333 @@
-# Trust Asset Misappropriation
+---
+layout: default
+title: Trust Asset Misappropriation
+---
+# Trust Asset Misappropriation (EVENT_018)
 
-**Event ID:** `EVENT_018`
 **Date:** 2025-07-25
 
-- **Category:** trust_violations
-- **Event Type:** asset_theft
-- **Perpetrators:** 
-  - PERSON_001
-- **Victims:** 
-  - TRUST_001
-  - beneficiaries
-- **Entities Involved:** 
-  - TRUST_001
-  - trust_assets
-- **Description:** Trust property theft. Documented theft of trust property and breach of fiduciary duty
-- **Financial Impact:** unknown_amount
-- **Legal Significance:** documented_theft_of_trust_property_and_breach_of_fiduciary_duty
-- **Evidence:** 
-  - asset_transfer_records
-  - trust_property_documentation
-- **Pattern:** control_seizure_phase
-- **Timeline Phase:** PHASE_005
-- **Crime Type:** Trust asset theft, breach of fiduciary duty
-- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
-- **Related Applications:** 
-  - APPLICATION_2
-  - APPLICATION_3
-- **Evidence Files:** 
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_impartiality_breach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/peter_fiduciary_breach_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/theft_operation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_evidence_documented.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_corruption.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_law_expert.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/cookie_theft_works.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v4.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/owned_property.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_trustee_position.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/breach_notification_failure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/family_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/proves_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/mitigation_strategies_documented.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/data_breach_notification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/documented_evidence_weight.md
-  - ./lex/RYNETTE_NOT_TRUSTEE_CORRECTION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_revenue.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_reality_documented.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/identity_theft_risk.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/from_trust_records.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/faucitt_family_trust_conspiracy_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/documented_revenue_loss.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/documented_shopify.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_12_deed_of_trust_title.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_violation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/mechanism_documented_previous.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_property_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/constructive_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_theft_connection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_breach_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/documented_facts.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_07_trust_registration_form.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_trust_documents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/jax_forwards_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/predicate_acts_documented.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md
-  - ./backups/pre-consolidation/jax-response/revenue-theft/email-impersonation-pattern-jf3a/JF3C_Identity_Theft_Documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_05_trust_clauses_8-14.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_with_fiduciary_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/theft_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/customer_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_documented_truth.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_investment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/theft_story.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v3.scm
-  - ./lex/trs/za/south_african_trust_law_enhanced_v6.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_duty_analysis.md
-  - ./lex/trs/za/south_african_trust_law_trustee_beneficiary_conflicts.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_property_assets.md
-  - ./jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_governance_breach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/indirect_theft_elements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_duty_breach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/destruction_scale_documented.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_customer_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_name.md
-  - ./lex/trs/za/south_african_trust_law_temporal_analysis.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/breach_notification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/appointed_trustee.md
-  - ./UPDATED_DRAFTS/TRUSTEE_CONSPIRACY_COMPREHENSIVE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_18_acceptance_trusteeship_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/intellectual_property_destruction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_duty_breaches.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_duty_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_identity_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_crimes.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_24_trust_application_form.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/disclose_trustee_status.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_portfolio.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_for_breach_of_director_duties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/concealing_criminal_property.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/documented_across_all.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_management.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/protects_estate_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_operations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_marketing_investment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_theft_pattern.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ TRUSTEE Fw_ Copy of your ID.pdf
-  - ./UPDATED_DRAFTS/analysis-main/TRUST_IMPLICATIONS_UK_PAYMENTS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_beneficiary_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_04_appointment_main_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/trust_registration_forms.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/use_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/constructive_trust_on.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_hub.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_08_trust_cover.md
-  - ./UPDATED_DRAFTS/analysis-main/TRUST_DEED_LEGAL_FRAMEWORK_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/identity_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/original_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_eu_contract_and_breach_documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_dissolution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_breach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_theft_continues.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/documented_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/attempted_theft.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v5.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_law.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/data_breach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_eu_contract_and_breach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_duties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_used.md
-  - ./UPDATED_DRAFTS/analysis-main/deed_of_trust_reconstructed.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_theft_during.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_22_trust_deed_3-6.3.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/identity_theft_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/data_breach_impact.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_services.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_law.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_breach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_relationship.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/data_theft_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_theft_magnitude.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_11_acceptance_trusteeship_jacqueline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_theft_patterns.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/customer_data_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_asset_investigation.md
-  - ./UPDATED_DRAFTS/TRUSTEE_POWERS_VS_BENEFICIARY_RIGHTS_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/custom_property.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_14_trust_registration_contact.md
-  - ./lex/trs/za/south_african_trust_law.scm
-  - ./lex/trs/za/south_african_trust_law_enhanced_v7.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_duty.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/previously_documented.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/spec_compliance_property.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_violations_documented.md
-  - ./2DO/x/regima.com/dan@regima.com/RegimA Dr H - Commercial Property Payment Schedule(1).pdf
-  - ./UPDATED_DRAFTS/analysis-main/evidence/COVERT_TRUSTEE_WEAPONIZATION_PROOF.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_suggesting_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/become_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_actual.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/data_breach_report.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/revenue_theft_period.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sa_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_27_trust_clauses_15-19.md
-  - ./affidavit_work/analysis/PETERS_CLAIMS_VS_DOCUMENTED_EVIDENCE_COMPARATIVE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_03_trust_clauses_6.13-6.22.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/similar_fiduciary_breaches.md
-  - ./lex/trs/za/south_african_trust_law_enhanced.scm
-  - ./UPDATED_DRAFTS/analysis-main/evidence/international_data_theft_and_invoice_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/faucitt_family_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_improvements.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v2.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/continued_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/breaches_professional_standards.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/enables_theft.md
-  - ./jax-response/revenue-theft/email-impersonation-pattern-jf3a/JF3C_Identity_Theft_Documentation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_theft_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_evolution.md
-  - ./2DO/x/regima.com/dan@regima.com/Conditions That Breach_Void the Settlements.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/breach_notifications_required.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/deduction_theft.md
-  - ./UPDATED_DRAFTS/JACQUI_BETRAYAL_BY_CO_TRUSTEES_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_28_trust_clauses_6.30-6.34.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/documented_rynette.md
-  - ./2DO/x/regima.zone/jax@regima.zone/TRUSTEE Fw_ Copy of your ID.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/documented_financial_events.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_duty_when.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/documented_events.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_for_fiduciary_breach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_theft_quantification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/family_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/data_breach_liability.md
-  - ./UPDATED_DRAFTS/SLG_R5_4M_STOCK_THEFT_TO_ADDERORY_COMPREHENSIVE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/data_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_relationship_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/intellectual_property_commission.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/skin_treatments_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_installation.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_16_declaration_by_trustees.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_value_creation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_status.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/south_african_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_recoverable.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/newly_documented.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_15_trust_clauses_6.3-6.12.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_duties_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustees_personally_liable.md
-  - ./evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./evidence/2025-11-14-batch-3/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_documents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/identity_theft_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_data_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/PERSONAL_VS_TRUST_ASSETS_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/theft_allegations_against.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_01_trust_clauses_6.23-6.29.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/how_trustee_role.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v8.scm
-  - ./jax-response/AD/1-Critical/PETER_TRUST_POWER_ABUSE_LEX_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_financial_hub.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/security_breach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_trustee_appointment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_rental.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/investment_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_information.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_17_trust_registration_amendment.md
-  - ./jax-dan-response/annexures/2025-11-14-evidence-batch/ANNEXURE_C_Trustee_Appointment_Email_2024-07-01.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_fraud.md
-  - ./evidence/2025-11-14-batch/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_20_declaration_trustees_signatures.md
-  - ./UPDATED_DRAFTS/analysis-main/trustee_acceptance_forms.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_breach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/main_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_expansion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_crimes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_position_creates.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_standards_breach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_founder.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/related_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_letter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_catastrophic_breach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/backdated_trustee_appointment.md
-  - ./2DO/x/regima.com/dan@regima.com/RegimA Dr H - Commercial Property Payment Schedule.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_eu_breach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/identity_theft_damages.md
-  - ./jax-dan-response/rule-42-rescission/annexures/ANNEXURE_DF4_Trustee_Appointment_2024-07-01.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/key_documented_facts.md
-  - ./UPDATED_DRAFTS/analysis-main/revenue_stream_theft_scheme_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_portfolio_expansion.md
-- **Ad Res J7 References:** 
-  - See files related to: Trust, property, theft., Documented, theft, trust, property, breach, fiduciary
-- **Crime Category:** revenue_theft
-- **Phase:** PHASE_005
-- **Event Subtype:** trust_violations_asset_theft
-- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_018
-- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
-- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
-- **Evidence Urls:** 
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/professional_impartiality_breach.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/direct_theft.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/estate_theft.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/peter_fiduciary_breach_analysis.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/revenue_stream_theft.md
-- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_018.html
-- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_018
-- **Related Application:** APPLICATION_1
-- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
-- **Ad Res J7 Evidence:** 
-  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
-  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}
+**Description:**
+Trust property theft. Documented theft of trust property and breach of fiduciary duty
+
+## Evidence References
+
+No specific evidence linked.
+
+## Raw Data
+
+```json
+{
+  "event_id": "EVENT_018",
+  "date": "2025-07-25",
+  "title": "Trust Asset Misappropriation",
+  "category": "trust_violations",
+  "event_type": "asset_theft",
+  "perpetrators": [
+    "PERSON_001"
+  ],
+  "victims": [
+    "TRUST_001",
+    "beneficiaries"
+  ],
+  "entities_involved": [
+    "TRUST_001",
+    "trust_assets"
+  ],
+  "description": "Trust property theft. Documented theft of trust property and breach of fiduciary duty",
+  "financial_impact": "unknown_amount",
+  "legal_significance": "documented_theft_of_trust_property_and_breach_of_fiduciary_duty",
+  "evidence": [
+    "asset_transfer_records",
+    "trust_property_documentation"
+  ],
+  "pattern": "control_seizure_phase",
+  "timeline_phase": "PHASE_005",
+  "crime_type": "Trust asset theft, breach of fiduciary duty",
+  "extended_evidence_note": "See ad-res-j7 repository for detailed supporting documentation",
+  "related_applications": [
+    "APPLICATION_2",
+    "APPLICATION_3"
+  ],
+  "evidence_files": [
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_impartiality_breach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/peter_fiduciary_breach_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/revenue_stream_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/theft_operation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_evidence_documented.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiduciary_corruption.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_law_expert.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/cookie_theft_works.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v4.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/owned_property.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_trustee_position.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/breach_notification_failure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/family_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/proves_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/mitigation_strategies_documented.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/data_breach_notification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/documented_evidence_weight.md",
+    "./lex/RYNETTE_NOT_TRUSTEE_CORRECTION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_revenue.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_reality_documented.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/identity_theft_risk.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/from_trust_records.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_skin_treatments_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/faucitt_family_trust_conspiracy_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/documented_revenue_loss.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/documented_shopify.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_12_deed_of_trust_title.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiduciary_violation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/mechanism_documented_previous.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_property_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/constructive_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_theft_connection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiduciary_breach_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/documented_facts.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_07_trust_registration_form.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_trust_documents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/jax_forwards_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/predicate_acts_documented.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md",
+    "./backups/pre-consolidation/jax-response/revenue-theft/email-impersonation-pattern-jf3a/JF3C_Identity_Theft_Documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_05_trust_clauses_8-14.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_with_fiduciary_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/theft_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/customer_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_documented_truth.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_investment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/theft_story.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v3.scm",
+    "./lex/trs/za/south_african_trust_law_enhanced_v6.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiduciary_duty_analysis.md",
+    "./lex/trs/za/south_african_trust_law_trustee_beneficiary_conflicts.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_property_assets.md",
+    "./jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corporate_governance_breach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/indirect_theft_elements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiduciary_duty_breach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/destruction_scale_documented.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_customer_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_name.md",
+    "./lex/trs/za/south_african_trust_law_temporal_analysis.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/breach_notification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/appointed_trustee.md",
+    "./UPDATED_DRAFTS/TRUSTEE_CONSPIRACY_COMPREHENSIVE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_18_acceptance_trusteeship_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/intellectual_property_destruction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiduciary_duty_breaches.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiduciary_duty_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_identity_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_crimes.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_24_trust_application_form.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/disclose_trustee_status.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_portfolio.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_for_breach_of_director_duties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/concealing_criminal_property.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/documented_across_all.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_management.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/protects_estate_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_operations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_marketing_investment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_theft_pattern.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ TRUSTEE Fw_ Copy of your ID.pdf",
+    "./UPDATED_DRAFTS/analysis-main/TRUST_IMPLICATIONS_UK_PAYMENTS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_beneficiary_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_04_appointment_main_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/trust_registration_forms.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/use_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/constructive_trust_on.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_hub.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_08_trust_cover.md",
+    "./UPDATED_DRAFTS/analysis-main/TRUST_DEED_LEGAL_FRAMEWORK_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/identity_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/original_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_eu_contract_and_breach_documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_dissolution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_breach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_theft_continues.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/documented_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/attempted_theft.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v5.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/revenue_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_law.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/data_breach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_eu_contract_and_breach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiduciary_duties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_used.md",
+    "./UPDATED_DRAFTS/analysis-main/deed_of_trust_reconstructed.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_theft_during.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_22_trust_deed_3-6.3.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/identity_theft_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/data_breach_impact.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_services.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_law.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_breach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiduciary_relationship.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/data_theft_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_theft_magnitude.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_11_acceptance_trusteeship_jacqueline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corporate_theft_patterns.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/customer_data_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_asset_investigation.md",
+    "./UPDATED_DRAFTS/TRUSTEE_POWERS_VS_BENEFICIARY_RIGHTS_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/custom_property.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_14_trust_registration_contact.md",
+    "./lex/trs/za/south_african_trust_law.scm",
+    "./lex/trs/za/south_african_trust_law_enhanced_v7.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiduciary_duty.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/previously_documented.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/spec_compliance_property.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_violations_documented.md",
+    "./2DO/x/regima.com/dan@regima.com/RegimA Dr H - Commercial Property Payment Schedule(1).pdf",
+    "./UPDATED_DRAFTS/analysis-main/evidence/COVERT_TRUSTEE_WEAPONIZATION_PROOF.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/timeline_suggesting_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/become_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_actual.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/data_breach_report.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/revenue_theft_period.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sa_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_27_trust_clauses_15-19.md",
+    "./affidavit_work/analysis/PETERS_CLAIMS_VS_DOCUMENTED_EVIDENCE_COMPARATIVE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_03_trust_clauses_6.13-6.22.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/similar_fiduciary_breaches.md",
+    "./lex/trs/za/south_african_trust_law_enhanced.scm",
+    "./UPDATED_DRAFTS/analysis-main/evidence/international_data_theft_and_invoice_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/faucitt_family_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_improvements.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v2.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/continued_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/breaches_professional_standards.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/enables_theft.md",
+    "./jax-response/revenue-theft/email-impersonation-pattern-jf3a/JF3C_Identity_Theft_Documentation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_theft_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_evolution.md",
+    "./2DO/x/regima.com/dan@regima.com/Conditions That Breach_Void the Settlements.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/breach_notifications_required.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/deduction_theft.md",
+    "./UPDATED_DRAFTS/JACQUI_BETRAYAL_BY_CO_TRUSTEES_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_28_trust_clauses_6.30-6.34.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/documented_rynette.md",
+    "./2DO/x/regima.zone/jax@regima.zone/TRUSTEE Fw_ Copy of your ID.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/documented_financial_events.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiduciary_duty_when.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/documented_events.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_for_fiduciary_breach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_theft_quantification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/family_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/data_breach_liability.md",
+    "./UPDATED_DRAFTS/SLG_R5_4M_STOCK_THEFT_TO_ADDERORY_COMPREHENSIVE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/data_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiduciary_relationship_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/intellectual_property_commission.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/skin_treatments_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_installation.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_16_declaration_by_trustees.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_value_creation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_status.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/south_african_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_recoverable.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/newly_documented.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_15_trust_clauses_6.3-6.12.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_duties_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustees_personally_liable.md",
+    "./evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./evidence/2025-11-14-batch-3/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_documents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/identity_theft_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_data_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/PERSONAL_VS_TRUST_ASSETS_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/theft_allegations_against.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_01_trust_clauses_6.23-6.29.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/how_trustee_role.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v8.scm",
+    "./jax-response/AD/1-Critical/PETER_TRUST_POWER_ABUSE_LEX_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_financial_hub.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/security_breach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_trustee_appointment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_rental.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/investment_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_information.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_17_trust_registration_amendment.md",
+    "./jax-dan-response/annexures/2025-11-14-evidence-batch/ANNEXURE_C_Trustee_Appointment_Email_2024-07-01.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_fraud.md",
+    "./evidence/2025-11-14-batch/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_20_declaration_trustees_signatures.md",
+    "./UPDATED_DRAFTS/analysis-main/trustee_acceptance_forms.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiduciary_breach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/main_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_expansion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_crimes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_position_creates.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_standards_breach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_founder.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/related_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_letter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_catastrophic_breach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/backdated_trustee_appointment.md",
+    "./2DO/x/regima.com/dan@regima.com/RegimA Dr H - Commercial Property Payment Schedule.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_eu_breach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/identity_theft_damages.md",
+    "./jax-dan-response/rule-42-rescission/annexures/ANNEXURE_DF4_Trustee_Appointment_2024-07-01.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/key_documented_facts.md",
+    "./UPDATED_DRAFTS/analysis-main/revenue_stream_theft_scheme_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_portfolio_expansion.md"
+  ],
+  "ad_res_j7_references": [
+    "See files related to: Trust, property, theft., Documented, theft, trust, property, breach, fiduciary"
+  ],
+  "crime_category": "revenue_theft",
+  "phase": "PHASE_005",
+  "event_subtype": "trust_violations_asset_theft",
+  "github_pages_reference": "https://cogpy.github.io/revstream1/applications.md#event_018",
+  "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+  "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+  "evidence_urls": [
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/professional_impartiality_breach.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/direct_theft.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/estate_theft.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/peter_fiduciary_breach_analysis.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/revenue_stream_theft.md"
+  ],
+  "github_pages_url": "https://cogpy.github.io/revstream1/events/EVENT_018.html",
+  "timeline_reference": "https://cogpy.github.io/revstream1/timeline.html#EVENT_018",
+  "related_application": "APPLICATION_1",
+  "application_url": "https://cogpy.github.io/revstream1/application-1.html",
+  "ad_res_j7_evidence": [
+    {
+      "source": "case_2025_137857/",
+      "description": "Case documentation and analysis",
+      "url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857"
+    },
+    {
+      "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "description": "Complete evidence catalog (2,866 files)",
+      "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
+    }
+  ],
+  "ad_res_j7_cross_references": [
+    "Evidence documented in ad-res-j7 repository",
+    "See ANNEXURES for event EVENT_018",
+    "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+  ],
+  "evidence_references": [
+    "case_2025_137857/02_evidence/",
+    "ANNEXURES/",
+    "docs/"
+  ]
+}
+```

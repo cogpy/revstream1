@@ -1,475 +1,521 @@
-# Unauthorized Beneficiary Changes
+---
+layout: default
+title: Unauthorized Beneficiary Changes
+---
+# Unauthorized Beneficiary Changes (EVENT_006)
 
-**Event ID:** `EVENT_006`
 **Date:** 2025-05-02
 
-- **Category:** trust_violations
-- **Event Type:** beneficiary_manipulation
-- **Perpetrators:** 
-  - PERSON_001
-  - PERSON_002
-- **Victims:** 
-  - TRUST_001
-  - legitimate_beneficiaries
-- **Entities Involved:** 
-  - TRUST_001
-- **Description:** Exclusion of legitimate beneficiaries. Direct violation of trust obligations and beneficiary rights
-- **Financial Impact:** unknown_amount
-- **Legal Significance:** direct_violation_of_trust_obligations_and_beneficiary_rights
-- **Evidence:** 
-  - trust_amendment_documents
-  - beneficiary_correspondence
-- **Pattern:** escalation_phase
-- **Timeline Phase:** PHASE_003
-- **Crime Type:** Trust deed violations, unauthorized beneficiary amendments
-- **Extended Evidence Note:** See ad-res-j7 repository for detailed supporting documentation
-- **Related Applications:** 
-  - APPLICATION_1
-- **Evidence Files:** 
-  - ./UPDATED_DRAFTS/analysis-main/entities/compliance_violation_detection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_transfers.md
-  - ./evidence/annexures/JF-DLA1_PETER_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_law_expert.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/common_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_trustee_position.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/family_trustee.md
-  - ./lex/RYNETTE_NOT_TRUSTEE_CORRECTION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_shopify_investment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/directors_conduct.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/faucitt_family_trust_conspiracy_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_director_sabotaging_his_own_company.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_12_deed_of_trust_title.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_property_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_involvement.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/critical_trust_documents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/unlimited_obligations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_with_fiduciary_rights.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v3.scm
-  - ./lex/trs/za/south_african_trust_law_trustee_beneficiary_conflicts.scm
-  - ./jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/compliance_directive.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_control.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING(1).pdf
-  - ./UPDATED_DRAFTS/HMRC_PENSION_CORRESPONDENCE_REDIRECTION_FRAUD_COMPREHENSIVE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/appointed_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/civil_recovery_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/victim_rights_denial.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/establishing_legitimate_foundation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_sabotaging_his.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/managing_director.md
-  - ./UPDATED_DRAFTS/analysis-main/TRUST_IMPLICATIONS_UK_PAYMENTS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_direction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_beneficiary_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_parties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_capacity_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/root_directory.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_foundation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/constructive_trust_on.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/no_direct_control.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/medical_testing_obligations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/constitutional_rights.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING(2).pdf
-  - ./docs/legal/POPIA_VIOLATION_EVIDENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/deed_of_trust_reconstructed.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_22_trust_deed_3-6.3.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/research_directions.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/constitutional_violations.md
-  - ./UPDATED_DRAFTS/TRUSTEE_POWERS_VS_BENEFICIARY_RIGHTS_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_14_trust_registration_contact.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/directors_fee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/directory_structure_map.md
-  - ./lex/cmp/za/south_african_company_law_non_director_control.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/pete_director.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_protocols.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/become_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/principles_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/benefit_redirection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/appeal_rights_clarification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/loyalty_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_action_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_violation_queries.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_director.md
-  - ./jax-dan-response/evidence-attachments/JF-DLA2_JACQUELINE_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_compliance_directive_has_been_properly_anal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/constitutional_rights_defense.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_28_trust_clauses_6.30-6.34.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/national_director.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_theft_quantification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/civil_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_marketing.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/information_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/the_fastest_directory.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/source_directory.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_15_trust_clauses_6.3-6.12.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_duties_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/analysis_directory.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/consent_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/payment_misdirection.md
-  - ./2DO/x/regima.com/dan@regima.com/URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rights_granted.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/keep_root_directory.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/care_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/customer_redirection_scheme.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_supabase.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_violations_alleged.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/correspondence_redirection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_ownership.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/violation_proof.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/directory_structure_example.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_authority.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/court_documents_directory.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_inclusion_if.md
-  - ./jax-dan-response/rule-42-rescission/annexures/ANNEXURE_DF4_Trustee_Appointment_2024-07-01.pdf
-  - ./jax-response/evidence-attachments/dan-technical/DIRECTOR_LOAN_PRACTICE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_theft.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/permanent_redirect.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/border_medical_obligations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/specific_violations_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/email_compliance_directive.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/international_human_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/BENEFICIARY_RENUNCIATION_ANALYSIS.md
-  - ./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/property_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/agreement_obligations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/constitutional_violation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/civic_rights_limitation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_physical_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_receipt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_criminal_liability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_compliance_directive_evidence_into_the_rzon.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/company_estate_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/constructive_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_07_trust_registration_form.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/jax_forwards_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/customer_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/combined_direct_costs.md
-  - ./jax-response/evidence-attachments/dan-technical/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/commercially_impossible_legitimately.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_direct_loss.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_removal.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/indirect_theft_elements.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/monitoring_obligations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_director.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/language_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/witness_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_ethics_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_crimes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_losses.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/disclose_trustee_status.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_for_breach_of_director_duties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/attorney_conspiracy_exclusion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/complex_obligations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_claim.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/beneficiary_confirmation.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_04_appointment_main_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/your_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/trust_registration_forms.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_structure_should.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/by_directory.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_director.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/directory_structure_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_08_trust_cover.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_shopify_plus.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/establish_legitimate_foundation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/original_trust.md
-  - ./jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v5.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/beneficiary_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_used.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bank_accounts_redirected.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/standards_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/email_compliance_directive_2025-07-08.md
-  - ./2DO/x/rzo.io/d@rzo.io/POPIA Violation Notice - Sent to Pete on 8 July 2025.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_rights.md
-  - ./lex/trs/za/south_african_trust_law.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_personal_liability.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/equals_direct.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_beneficiary_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/identify_all_beneficiaries.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rights_commission.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_violations_documented.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/villa_via_exclusion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_operating_as_a_legitimate.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_framework_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_actual.md
-  - ./jax-dan-response/AD/1-Critical/PARA_7_6_DAN_DIRECTOR_LOAN.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_competition.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_27_trust_clauses_15-19.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_03_trust_clauses_6.13-6.22.md
-  - ./lex/trs/za/south_african_trust_law_enhanced.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_duty_conflicts.md
-  - ./legal_analysis_2025_11/scheme_files/south_african_company_law_director_loan_accounts.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/constitutional_rights_violations.md
-  - ./jax-dan-response/evidence-attachments/DIRECTOR_LOAN_PRACTICE_ANALYSIS.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v2.scm
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/DIRECTOR_LOAN_PRACTICE_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_and_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/law_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/patient_rights_protection.md
-  - ./UPDATED_DRAFTS/JACQUI_BETRAYAL_BY_CO_TRUSTEES_ANALYSIS.md
-  - ./2DO/x/regima.zone/jax@regima.zone/TRUSTEE Fw_ Copy of your ID.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/economic_crime_directorate.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_statement.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_20_declaration_trustees_signatures.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_violations_table.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/misdirected_request.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_activities.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_16_declaration_by_trustees.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_rights.md
-  - ./lex/cmp/za/south_african_company_law_director_loan_accounts.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/illegitimate_transfers.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA2_JACQUELINE_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_gains.md
-  - ./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/PERSONAL_VS_TRUST_ASSETS_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_01_trust_clauses_6.23-6.29.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/how_trustee_role.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/derivative_action_rights.md
-  - ./jax-response/AD/1-Critical/PETER_TRUST_POWER_ABUSE_LEX_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/no_legitimate_civil.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_disputes.md
-  - ./jax-response/AD/dan-perspective/1-Critical/PARA_7_6_DAN_DIRECTOR_LOAN.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/court_directive.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/specific_violations.md
-  - ./evidence/2025-11-14-batch/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_operations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_operating_as_a_legitimate_business_w.md
-  - ./jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./evidence/compliance/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/directed_graph.md
-  - ./UPDATED_DRAFTS/9TH_PRONG_WAREHOUSE_SABOTAGE_POPIA_VIOLATION_COMPREHENSIVE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/civil_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_relationship_edges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_explanation_the.md
-  - ./jax-response/evidence-attachments/dan-technical/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_director.md
-  - ./jax-dan-response/annexures/DAN-DL/DAN-DL-001-010_Consolidated_Director_Loan_Annexures.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_violations.md
-  - ./backups/pre-consolidation/jax-dan-response/AD/1-Critical/PARA_7_6_DAN_DIRECTOR_LOAN.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/human_rights_act.md
-  - ./evidence/emails/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_customer_payments.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/from_trust_records.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/systematic_exclusion.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/estoppel_violation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_relationships.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_payer.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_violation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/violation_charges.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/political_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment.md
-  - ./backups/pre-consolidation/jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_sabotaging_his_own_company.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_foundation_period.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v6.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_law_violations.md
-  - ./docs/JAX_RESPONSE_DIRECTORY_CONSOLIDATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/constitutional_rights_cases.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ SA Legislation - Directors.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_name.md
-  - ./UPDATED_DRAFTS/TRUSTEE_CONSPIRACY_COMPREHENSIVE_ANALYSIS.md
-  - ./evidence/2025-11-14-batch-3/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_24_trust_application_form.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/victim_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/victim_rights_protection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/british_citizenship_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_dissolution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_breach.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_law_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_law.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/directory_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/service_provider_obligations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rights_disconnect_principle.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_operations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_law.md
-  - ./evidence/2025-11-14-batch-3/POPIA_VIOLATION_EVIDENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/human_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/create_medical_obligations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/medical_testing_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_conflicts.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiscal_obligations_separation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_asset_investigation.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence/COVERT_TRUSTEE_WEAPONIZATION_PROOF.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/temporary_redirect.md
-  - ./docs/legal/annexures/JF10/ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/mail_redirection_fraud.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/faucitt_family_trust.md
-  - ./evidence/director_loan_accounts/ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/lifetime_director_disqualification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/primary_criminal_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_impersonation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legal_violations_data.md
-  - ./evidence/annexures/JF-DLA2_JAX_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/correspondence_redirection_based.md
-  - ./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/POPIA_VIOLATION_EVIDENCE.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/beneficiary_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/reporting_obligations.md
-  - ./docs/reports/completion/TASK_COMPLETION_DIRECTOR_LOAN_STATEMENTS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rights_charter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/pension_correspondence_redirection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/medical_ethics_violations.md
-  - ./evidence/annexures/JF-DLA3_DANIEL_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/act_violation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/autonomy_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustees_personally_liable.md
-  - ./evidence/2025-11-14-batch-3/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_documents.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_loan.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v8.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/strategic_misdirection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_information.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/cultural_competency_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_17_trust_registration_amendment.md
-  - ./jax-dan-response/annexures/2025-11-14-evidence-batch/ANNEXURE_C_Trustee_Appointment_Email_2024-07-01.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_identity.md
-  - ./UPDATED_DRAFTS/analysis-main/trustee_acceptance_forms.md
-  - ./lex/cmp/za/south_african_company_law_director_collective_action.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/estate_beneficiaries.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_duties.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/advocate_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_founder.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_compliance_directive_evidence_provides_an_e.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/consumer_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_expenses.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/rights_violated.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_email.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/actual_payment_direction.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/evidence_directory.md
-  - ./evidence/2025-11-14-batch/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf
-  - ./lex/trs/za/south_african_trust_law_enhanced_v4.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/rights_vindication.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_damages.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/civic_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/medical_autonomy_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_application.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/directed_lattice.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fraud_law_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/cooperation_obligations.md
-  - ./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/transparency_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_shopify.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/investigation_direction.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_05_trust_clauses_8-14.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_reporting_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/forensic_analysis_directory.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/family_court_misdirection.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/good_faith_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/treaty_obligations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/jurisdictional_medical_obligations.md
-  - ./lex/trs/za/south_african_trust_law_temporal_analysis.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_18_acceptance_trusteeship_peter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/voting_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fiduciary_duty_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_costs.md
-  - ./2DO/x/regima.com/dan@regima.com/SA Legislation - Directors.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_financial_harm.md
-  - ./2DO/x/regima.com/dan@regima.com/Fw_ TRUSTEE Fw_ Copy of your ID.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/use_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/act_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/TRUST_DEED_LEGAL_FRAMEWORK_ANALYSIS.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bidirectional_sync.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/shadow_director_provisions.md
-  - ./jax-response/evidence-attachments/dan-technical/JF-DLA2_JACQUELINE_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/ongoing_obligations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_delinquency_proceedings.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_structure.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_email_receipt.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/asset_recovery_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_disqualification.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/cultural_competency_violation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_liability.md
-  - ./ANNEXURES/JF10/ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_success.md
-  - ./UPDATED_DRAFTS/analysis-main/evidence_md/image_11_acceptance_trusteeship_jacqueline.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/debt_direction_fabrication.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/ensure_victim_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_standards_violation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regarding_director.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/privacy_violations.md
-  - ./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md
-  - ./lex/trs/za/south_african_trust_law_enhanced_v7.scm
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_compliance_directive_to_evidence_folder.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/regima_compliance_directive_evidence.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/total_direct_revenue.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/tax_obligations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/timeline_suggesting_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_revenue_loss.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/sa_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_financial_risks.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_loss.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/corporate_governance_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/companies_act_violation.md
-  - ./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF10/ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/directed_tree.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trust_evolution.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/family_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/professional_standards_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_installation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/criminal_law_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/creditor_rights_violated.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_status.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/south_african_trust.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/directory_structure_the.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/financial_flow_direction.md
-  - ./evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf
-  - ./UPDATED_DRAFTS/analysis-main/entities/compliance_violation.md
-  - ./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_expenses.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_medical_concern.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/recovery_rights.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/faucitt_director.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/month_direct_loss.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_claims.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/bantjies_trustee_appointment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/transfer_pricing_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_foundation.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/director_loan_draw.md
-  - ./lex/POPIA_VIOLATION_NOTICE_RETALIATION_TIMELINE_2025-11-18.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/main_trustee.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_crimes.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_position_creates.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/prevents_legitimate_dispute.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/fundamental_legal_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/redirect_revenue_streams.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_letter.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/companies_act_violations.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_hawks.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/backdated_trustee_appointment.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/direct_fraud_losses.md
-  - ./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_growth.md
-- **Ad Res J7 References:** 
-  - See files related to: Exclusion, legitimate, beneficiaries., Direct, violation, trust, obligations, beneficiary, rights
-- **Crime Category:** trust_violations
-- **Phase:** PHASE_003
-- **Event Subtype:** trust_violations_beneficiary_manipulation
-- **Github Pages Reference:** https://cogpy.github.io/revstream1/applications.md#event_006
-- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
-- **Comprehensive Evidence Index:** https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md
-- **Evidence Urls:** 
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/compliance_violation_detection.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/legitimate_transfers.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/evidence/annexures/JF-DLA1_PETER_DIRECTOR_LOAN_ACCOUNT.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/trust_law_expert.md
-  - https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/common_violations.md
-- **Github Pages Url:** https://cogpy.github.io/revstream1/events/EVENT_006.html
-- **Timeline Reference:** https://cogpy.github.io/revstream1/timeline.html#EVENT_006
-- **Related Application:** APPLICATION_1
-- **Application Url:** https://cogpy.github.io/revstream1/application-1.html
-- **Ad Res J7 Evidence:** 
-  - {'source': 'case_2025_137857/', 'description': 'Case documentation and analysis', 'url': 'https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857'}
-  - {'source': 'COMPREHENSIVE_EVIDENCE_INDEX.md', 'description': 'Complete evidence catalog (2,866 files)', 'url': 'https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md'}
+**Description:**
+Exclusion of legitimate beneficiaries. Direct violation of trust obligations and beneficiary rights
+
+## Evidence References
+
+No specific evidence linked.
+
+## Raw Data
+
+```json
+{
+  "event_id": "EVENT_006",
+  "date": "2025-05-02",
+  "title": "Unauthorized Beneficiary Changes",
+  "category": "trust_violations",
+  "event_type": "beneficiary_manipulation",
+  "perpetrators": [
+    "PERSON_001",
+    "PERSON_002"
+  ],
+  "victims": [
+    "TRUST_001",
+    "legitimate_beneficiaries"
+  ],
+  "entities_involved": [
+    "TRUST_001"
+  ],
+  "description": "Exclusion of legitimate beneficiaries. Direct violation of trust obligations and beneficiary rights",
+  "financial_impact": "unknown_amount",
+  "legal_significance": "direct_violation_of_trust_obligations_and_beneficiary_rights",
+  "evidence": [
+    "trust_amendment_documents",
+    "beneficiary_correspondence"
+  ],
+  "pattern": "escalation_phase",
+  "timeline_phase": "PHASE_003",
+  "crime_type": "Trust deed violations, unauthorized beneficiary amendments",
+  "extended_evidence_note": "See ad-res-j7 repository for detailed supporting documentation",
+  "related_applications": [
+    "APPLICATION_1"
+  ],
+  "evidence_files": [
+    "./UPDATED_DRAFTS/analysis-main/entities/compliance_violation_detection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_transfers.md",
+    "./evidence/annexures/JF-DLA1_PETER_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_law_expert.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/common_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_trustee_position.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/family_trustee.md",
+    "./lex/RYNETTE_NOT_TRUSTEE_CORRECTION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_shopify_investment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/directors_conduct.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/faucitt_family_trust_conspiracy_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_director_sabotaging_his_own_company.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_12_deed_of_trust_title.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_property_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_involvement.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/critical_trust_documents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/unlimited_obligations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_with_fiduciary_rights.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v3.scm",
+    "./lex/trs/za/south_african_trust_law_trustee_beneficiary_conflicts.scm",
+    "./jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/compliance_directive.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_control.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING(1).pdf",
+    "./UPDATED_DRAFTS/HMRC_PENSION_CORRESPONDENCE_REDIRECTION_FRAUD_COMPREHENSIVE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/appointed_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/civil_recovery_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/victim_rights_denial.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/establishing_legitimate_foundation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_sabotaging_his.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/managing_director.md",
+    "./UPDATED_DRAFTS/analysis-main/TRUST_IMPLICATIONS_UK_PAYMENTS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_direction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_beneficiary_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_parties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_capacity_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/root_directory.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_foundation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/constructive_trust_on.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/no_direct_control.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/medical_testing_obligations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/constitutional_rights.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING(2).pdf",
+    "./docs/legal/POPIA_VIOLATION_EVIDENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/deed_of_trust_reconstructed.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_22_trust_deed_3-6.3.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/research_directions.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/constitutional_violations.md",
+    "./UPDATED_DRAFTS/TRUSTEE_POWERS_VS_BENEFICIARY_RIGHTS_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_14_trust_registration_contact.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/directors_fee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/directory_structure_map.md",
+    "./lex/cmp/za/south_african_company_law_non_director_control.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/pete_director.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_protocols.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/become_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/principles_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/benefit_redirection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/appeal_rights_clarification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/loyalty_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_action_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_violation_queries.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_director.md",
+    "./jax-dan-response/evidence-attachments/JF-DLA2_JACQUELINE_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_compliance_directive_has_been_properly_anal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/constitutional_rights_defense.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_28_trust_clauses_6.30-6.34.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/national_director.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_theft_quantification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/civil_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_marketing.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/information_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/the_fastest_directory.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/source_directory.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_15_trust_clauses_6.3-6.12.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_duties_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/analysis_directory.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/consent_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/payment_misdirection.md",
+    "./2DO/x/regima.com/dan@regima.com/URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/multiple_criminal_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rights_granted.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/keep_root_directory.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/care_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/customer_redirection_scheme.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_supabase.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_violations_alleged.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/correspondence_redirection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_ownership.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/violation_proof.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/directory_structure_example.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ URGENT_ MANDATORY COMPLIANCE DIRECTIVE - PERSONAL CRIMINAL LIABILITY WARNING.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_authority.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/court_documents_directory.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_inclusion_if.md",
+    "./jax-dan-response/rule-42-rescission/annexures/ANNEXURE_DF4_Trustee_Appointment_2024-07-01.pdf",
+    "./jax-response/evidence-attachments/dan-technical/DIRECTOR_LOAN_PRACTICE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_theft.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/permanent_redirect.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/border_medical_obligations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/specific_violations_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/email_compliance_directive.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/international_human_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/BENEFICIARY_RENUNCIATION_ANALYSIS.md",
+    "./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/property_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/agreement_obligations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/constitutional_violation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/civic_rights_limitation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_physical_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_receipt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_criminal_liability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_compliance_directive_evidence_into_the_rzon.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/company_estate_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/constructive_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_07_trust_registration_form.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/jax_forwards_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/customer_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/combined_direct_costs.md",
+    "./jax-response/evidence-attachments/dan-technical/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/commercially_impossible_legitimately.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_direct_loss.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_removal.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/indirect_theft_elements.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/monitoring_obligations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_director.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/language_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/witness_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_ethics_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_crimes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_losses.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/disclose_trustee_status.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_for_breach_of_director_duties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/attorney_conspiracy_exclusion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/complex_obligations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_claim.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/beneficiary_confirmation.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_04_appointment_main_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/your_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/trust_registration_forms.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_structure_should.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/by_directory.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corporate_director.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/directory_structure_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_08_trust_cover.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_shopify_plus.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/establish_legitimate_foundation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/original_trust.md",
+    "./jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v5.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/beneficiary_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_used.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bank_accounts_redirected.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/standards_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/email_compliance_directive_2025-07-08.md",
+    "./2DO/x/rzo.io/d@rzo.io/POPIA Violation Notice - Sent to Pete on 8 July 2025.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_rights.md",
+    "./lex/trs/za/south_african_trust_law.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_personal_liability.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/equals_direct.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_beneficiary_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/identify_all_beneficiaries.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rights_commission.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_violations_documented.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/villa_via_exclusion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_operating_as_a_legitimate.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_framework_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_actual.md",
+    "./jax-dan-response/AD/1-Critical/PARA_7_6_DAN_DIRECTOR_LOAN.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_competition.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_27_trust_clauses_15-19.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_03_trust_clauses_6.13-6.22.md",
+    "./lex/trs/za/south_african_trust_law_enhanced.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_duty_conflicts.md",
+    "./legal_analysis_2025_11/scheme_files/south_african_company_law_director_loan_accounts.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/constitutional_rights_violations.md",
+    "./jax-dan-response/evidence-attachments/DIRECTOR_LOAN_PRACTICE_ANALYSIS.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v2.scm",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/DIRECTOR_LOAN_PRACTICE_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_and_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/law_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/patient_rights_protection.md",
+    "./UPDATED_DRAFTS/JACQUI_BETRAYAL_BY_CO_TRUSTEES_ANALYSIS.md",
+    "./2DO/x/regima.zone/jax@regima.zone/TRUSTEE Fw_ Copy of your ID.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/economic_crime_directorate.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_statement.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_20_declaration_trustees_signatures.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_violations_table.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/misdirected_request.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_activities.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_16_declaration_by_trustees.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_rights.md",
+    "./lex/cmp/za/south_african_company_law_director_loan_accounts.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/illegitimate_transfers.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA2_JACQUELINE_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_gains.md",
+    "./backups/pre-consolidation/jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/PERSONAL_VS_TRUST_ASSETS_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_01_trust_clauses_6.23-6.29.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/how_trustee_role.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/derivative_action_rights.md",
+    "./jax-response/AD/1-Critical/PETER_TRUST_POWER_ABUSE_LEX_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/no_legitimate_civil.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_disputes.md",
+    "./jax-response/AD/dan-perspective/1-Critical/PARA_7_6_DAN_DIRECTOR_LOAN.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/court_directive.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/specific_violations.md",
+    "./evidence/2025-11-14-batch/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_operations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_sa_was_operating_as_a_legitimate_business_w.md",
+    "./jax-dan-response/evidence-attachments/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./evidence/compliance/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/directed_graph.md",
+    "./UPDATED_DRAFTS/9TH_PRONG_WAREHOUSE_SABOTAGE_POPIA_VIOLATION_COMPREHENSIVE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/civil_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_relationship_edges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_explanation_the.md",
+    "./jax-response/evidence-attachments/dan-technical/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/daniel_faucitt_director.md",
+    "./jax-dan-response/annexures/DAN-DL/DAN-DL-001-010_Consolidated_Director_Loan_Annexures.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_violations.md",
+    "./backups/pre-consolidation/jax-dan-response/AD/1-Critical/PARA_7_6_DAN_DIRECTOR_LOAN.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/human_rights_act.md",
+    "./evidence/emails/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_customer_payments.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/from_trust_records.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/systematic_exclusion.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/estoppel_violation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_relationships.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_payer.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiduciary_violation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/violation_charges.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/political_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment.md",
+    "./backups/pre-consolidation/jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_sabotaging_his_own_company.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_foundation_period.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v6.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_law_violations.md",
+    "./docs/JAX_RESPONSE_DIRECTORY_CONSOLIDATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/constitutional_rights_cases.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ SA Legislation - Directors.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_name.md",
+    "./UPDATED_DRAFTS/TRUSTEE_CONSPIRACY_COMPREHENSIVE_ANALYSIS.md",
+    "./evidence/2025-11-14-batch-3/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_24_trust_application_form.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/victim_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/victim_rights_protection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/british_citizenship_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_dissolution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_breach.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corporate_law_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_law.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/directory_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/service_provider_obligations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rights_disconnect_principle.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_operations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_law.md",
+    "./evidence/2025-11-14-batch-3/POPIA_VIOLATION_EVIDENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/human_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/create_medical_obligations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/medical_testing_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_conflicts.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiscal_obligations_separation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_asset_investigation.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence/COVERT_TRUSTEE_WEAPONIZATION_PROOF.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/temporary_redirect.md",
+    "./docs/legal/annexures/JF10/ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/mail_redirection_fraud.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/faucitt_family_trust.md",
+    "./evidence/director_loan_accounts/ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/lifetime_director_disqualification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/primary_criminal_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_impersonation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legal_violations_data.md",
+    "./evidence/annexures/JF-DLA2_JAX_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/correspondence_redirection_based.md",
+    "./evidence/2025-11-14-batch-3/AnnexuresDRAFTS/POPIA_VIOLATION_EVIDENCE.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/beneficiary_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/reporting_obligations.md",
+    "./docs/reports/completion/TASK_COMPLETION_DIRECTOR_LOAN_STATEMENTS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rights_charter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/danie_bantjies_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/pension_correspondence_redirection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/medical_ethics_violations.md",
+    "./evidence/annexures/JF-DLA3_DANIEL_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/act_violation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/autonomy_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustees_personally_liable.md",
+    "./evidence/2025-11-14-batch-3/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_documents.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_loan.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v8.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/strategic_misdirection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_information.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/cultural_competency_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_17_trust_registration_amendment.md",
+    "./jax-dan-response/annexures/2025-11-14-evidence-batch/ANNEXURE_C_Trustee_Appointment_Email_2024-07-01.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_identity.md",
+    "./UPDATED_DRAFTS/analysis-main/trustee_acceptance_forms.md",
+    "./lex/cmp/za/south_african_company_law_director_collective_action.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/estate_beneficiaries.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_duties.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/advocate_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_founder.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_compliance_directive_evidence_provides_an_e.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/consumer_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_expenses.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/rights_violated.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_email.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/actual_payment_direction.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/evidence_directory.md",
+    "./evidence/2025-11-14-batch/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf",
+    "./lex/trs/za/south_african_trust_law_enhanced_v4.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/rights_vindication.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_damages.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/civic_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/medical_autonomy_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_application.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/directed_lattice.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fraud_law_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/cooperation_obligations.md",
+    "./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/transparency_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_shopify.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/investigation_direction.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_05_trust_clauses_8-14.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_reporting_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/forensic_analysis_directory.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/family_court_misdirection.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/good_faith_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/treaty_obligations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/jurisdictional_medical_obligations.md",
+    "./lex/trs/za/south_african_trust_law_temporal_analysis.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_worldwide_distribution_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_18_acceptance_trusteeship_peter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/voting_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fiduciary_duty_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_costs.md",
+    "./2DO/x/regima.com/dan@regima.com/SA Legislation - Directors.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_financial_harm.md",
+    "./2DO/x/regima.com/dan@regima.com/Fw_ TRUSTEE Fw_ Copy of your ID.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/use_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/act_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/TRUST_DEED_LEGAL_FRAMEWORK_ANALYSIS.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bidirectional_sync.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/shadow_director_provisions.md",
+    "./jax-response/evidence-attachments/dan-technical/JF-DLA2_JACQUELINE_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/ongoing_obligations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_delinquency_proceedings.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_structure.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_email_receipt.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/asset_recovery_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_disqualification.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/cultural_competency_violation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_liability.md",
+    "./ANNEXURES/JF10/ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_success.md",
+    "./UPDATED_DRAFTS/analysis-main/evidence_md/image_11_acceptance_trusteeship_jacqueline.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/debt_direction_fabrication.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/ensure_victim_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_standards_violation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regarding_director.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/privacy_violations.md",
+    "./backups/pre-consolidation/jax-dan-response/evidence-attachments/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+    "./lex/trs/za/south_african_trust_law_enhanced_v7.scm",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_compliance_directive_to_evidence_folder.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/regima_compliance_directive_evidence.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/total_direct_revenue.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/tax_obligations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/timeline_suggesting_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_revenue_loss.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/sa_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_financial_risks.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_loss.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/corporate_governance_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/companies_act_violation.md",
+    "./FINAL_AFFIDAVIT_PACKAGE/ANNEXURES/JF10/ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/directed_tree.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trust_evolution.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/family_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/professional_standards_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_installation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/criminal_law_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/creditor_rights_violated.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/secret_trustee_status.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/south_african_trust.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/directory_structure_the.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/financial_flow_direction.md",
+    "./evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
+    "./UPDATED_DRAFTS/analysis-main/entities/compliance_violation.md",
+    "./jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_expenses.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_medical_concern.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/recovery_rights.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/faucitt_director.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/month_direct_loss.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_claims.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/bantjies_trustee_appointment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/transfer_pricing_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_foundation.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/director_loan_draw.md",
+    "./lex/POPIA_VIOLATION_NOTICE_RETALIATION_TIMELINE_2025-11-18.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/main_trustee.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_crimes.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_position_creates.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/prevents_legitimate_dispute.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/fundamental_legal_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/redirect_revenue_streams.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/trustee_appointment_letter.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/companies_act_violations.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_hawks.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/backdated_trustee_appointment.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/direct_fraud_losses.md",
+    "./UPDATED_DRAFTS/analysis-main/entities/legitimate_business_growth.md"
+  ],
+  "ad_res_j7_references": [
+    "See files related to: Exclusion, legitimate, beneficiaries., Direct, violation, trust, obligations, beneficiary, rights"
+  ],
+  "crime_category": "trust_violations",
+  "phase": "PHASE_003",
+  "event_subtype": "trust_violations_beneficiary_manipulation",
+  "github_pages_reference": "https://cogpy.github.io/revstream1/applications.md#event_006",
+  "evidence_repository": "https://github.com/cogpy/ad-res-j7",
+  "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md",
+  "evidence_urls": [
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/compliance_violation_detection.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/legitimate_transfers.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/evidence/annexures/JF-DLA1_PETER_DIRECTOR_LOAN_ACCOUNT.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/trust_law_expert.md",
+    "https://github.com/cogpy/ad-res-j7/blob/main/UPDATED_DRAFTS/analysis-main/entities/common_violations.md"
+  ],
+  "github_pages_url": "https://cogpy.github.io/revstream1/events/EVENT_006.html",
+  "timeline_reference": "https://cogpy.github.io/revstream1/timeline.html#EVENT_006",
+  "related_application": "APPLICATION_1",
+  "application_url": "https://cogpy.github.io/revstream1/application-1.html",
+  "ad_res_j7_evidence": [
+    {
+      "source": "case_2025_137857/",
+      "description": "Case documentation and analysis",
+      "url": "https://github.com/cogpy/ad-res-j7/tree/main/case_2025_137857"
+    },
+    {
+      "source": "COMPREHENSIVE_EVIDENCE_INDEX.md",
+      "description": "Complete evidence catalog (2,866 files)",
+      "url": "https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md"
+    }
+  ],
+  "ad_res_j7_cross_references": [
+    "Evidence documented in ad-res-j7 repository",
+    "See ANNEXURES for event EVENT_006",
+    "Cross-referenced in COMPREHENSIVE_EVIDENCE_INDEX.md"
+  ],
+  "evidence_references": [
+    "case_2025_137857/02_evidence/",
+    "ANNEXURES/",
+    "docs/"
+  ]
+}
+```
