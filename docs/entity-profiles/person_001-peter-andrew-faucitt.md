@@ -1,190 +1,129 @@
-# Entity Profile: Peter Andrew Faucitt
+# PERSON_001: Peter Andrew Faucitt
+
+**ID Number:** 820430 5708 18 5  
+**Role:** Primary Perpetrator  
+**Agent Type:** Antagonist  
+**Legal Scenario Mapping:** Director AB - dual director of Company A (RST) and Company B (RegimA SA)
 
 ---
 
-## Entity Information
+## Evidence Support
 
-| Field | Value |
-|-------|-------|
-| **Entity ID** | PERSON_001 |
-| **Entity Name** | Peter Andrew Faucitt |
-| **Entity Type** | Natural Person |
-| **Category** | persons |
-| **ID Number** | 820430 5708 18 5 |
-| **Role** | primary_perpetrator |
-| **Agent Type** | antagonist |
-| **Legal Status** | applicant_in_case_2025_137857 |
+### Annexure References
+- **JF8C:** Peter's refusal to engage
+- **JF8D:** System access restrictions imposed
+- **JF9:** Timeline analysis showing pattern of misconduct
+- **JF10:** Legal analysis of fiduciary breaches
 
----
-
-## Summary Statistics
-
-| Metric | Value |
-|--------|-------|
-| **Events Involved** | 5 |
-| **Outgoing Relations** | 3 |
-| **Incoming Relations** | 1 |
-| **Total Financial Impact** | R24,145,000.00 |
+**Evidence Strength:** Strong (4+ annexures)
 
 ---
 
 ## Primary Actions
 
-- Trust Structure Manipulation
-- Unauthorized Transfers
-- Trustee Misconduct
-- Warehouse Popi Violations
-- Account Manipulation
-- Trust Asset Misappropriation
-- Trust Breach
+1. Trust structure manipulation
+2. Unauthorized transfers
+3. Trustee misconduct
+4. Warehouse POPI violations
+5. Account manipulation
+6. Trust asset misappropriation
+7. Trust breach
+8. Fiduciary duty breach
+9. Conflict of interest violation
+10. Instructed fraud to Rynette
+11. Oppressive conduct against Daniel
+12. Revenue stream hijacking from RegimA SA to RST
 
 ---
 
-## Events Timeline
+## Legal Violations
 
-This entity is involved in **5 events** across the case timeline.
+### Companies Act s76: Fiduciary Duty Breaches
+**Evidence:** JF9, JF10, JF3  
+**Strength:** Strong  
+**Burden of Proof Met:** Civil (50%) - **EXCEEDED**
 
-### PHASE_000
-
-#### EVENT_048: Untitled Event
-
-**Date:** Unknown  
-**Financial Impact:** N/A  
-
-
-
-**Evidence:**
-- `./UPDATED_DRAFTS/analysis-main/entities/financial_relationships.md`
-- `./UPDATED_DRAFTS/analysis-main/entities/financial_flow_agents.md`
-- `./UPDATED_DRAFTS/analysis-main/evidence/trial_balances_2020/REG-TRIALBALANCE.xlsx`
-- *...and 652 more*
-
-### PHASE_006
-
-#### EVENT_049: Untitled Event
-
-**Date:** Unknown  
-**Financial Impact:** unknown  
-
-
-
-**Evidence:**
-- `./lex/SCHEDULE_MATERIAL_NON_DISCLOSURES_2025-11-18_UPDATED.md`
-- `./UPDATED_DRAFTS/analysis-main/entities/perjured_affidavits.md`
-- `./UPDATED_DRAFTS/analysis-main/docs/1.2.MAT4719-AnsweringAffidavit-CORRECTED.docx`
-- *...and 333 more*
-
-### Phase 0: Historical Foundation
-
-#### EVENT_071: Forced Separation and Ejection
-
-**Date:** 2016  
-**Financial Impact:** Unknown  
-
-Peter Faucitt forcibly ejected Dan and Kay from business premises, confiscated equipment, and instructed staff to disregard their authority. This forced Dan and Kay to build independent operations.
-
-**Evidence:**
-- `2016_forced_separation_and_independent_business_building.md`
-
-### Phase 6: Cover-up Phase
-
-#### EVENT_070: Systematic Account Emptying
-
-**Date:** 2025-09-11  
-**Financial Impact:** R5,460,000.00  
-
-R5.46M transferred from all operating accounts to savings accounts, leaving minimal balances insufficient for business operations. This represents 99.3% of operating funds removed.
-
-**Evidence:**
-- `CCE20250911_0000.jpg`
-- `CCE20250911_0001.jpg`
-- `CCE20250911_0002.jpg`
-- *...and 5 more*
-
-### Phase 7: Debt Accumulation
-
-#### EVENT_073: Bantjies First Payment Due
-
-**Date:** 2026-05  
-**Financial Impact:** R18,685,000.00  
-
-First payment of R18.685M due to Bantjies under call option agreement. This establishes financial motive for curatorship conspiracy and revenue hijacking.
-
-**Evidence:**
-- `BantjiesInvestmentPayoutDates2026-05.pdf`
+**Violations:**
+- Diversion of corporate opportunity from RegimA SA to RST
+- Acting against interests of RegimA SA
+- Using position to benefit RST unlawfully
+- Instructing Rynette to commit fraud for RegimA SA
+- Failing to act in good faith toward RegimA SA
+- Exposing RegimA SA to legal risk
+- Facilitating criminal conduct
 
 ---
 
-## Relationships
+### Companies Act s75: Conflict of Interest
+**Evidence:** JF9, JF10  
+**Strength:** Strong  
+**Burden of Proof Met:** Civil (50%) - **EXCEEDED**
 
-### Outgoing Relations (3)
-
-Relations where this entity is the **source**:
-
-#### CONTROLS
-
-- **→ BANK_ACCOUNT_001**: Peter Faucitt controls Regima Skin Savings Account, used in systematic emptying
-- **→ BANK_ACCOUNT_002**: Peter Faucitt controls Villa Via Savings Account, used in systematic emptying
-- **→ BANK_ACCOUNT_003**: Peter Faucitt controls Strategic Savings Account, used in systematic emptying
-
-### Incoming Relations (1)
-
-Relations where this entity is the **target**:
-
-#### FINANCIAL_OBLIGATION
-
-- **PERSON_003 →**: Bantjies has R70.58M debt obligation to Peter Faucitt under call option agreement
+**Violations:**
+- Failed to disclose conflicts between RST and RegimA SA
+- Failed to recuse from decisions affecting RegimA SA
+- Participated in decisions benefiting RST at expense of RegimA SA
 
 ---
 
-## Financial Impact Analysis
+### Companies Act s162: Delinquent Director Grounds
+**Evidence:** JF9, JF10, JF3, SF2  
+**Strength:** Strong  
+**Burden of Proof Met:** Civil (50%) - **EXCEEDED**
 
-### Impact by Category
+**Statutory Grounds:**
+- Grossly abused position as director of RegimA SA
+- Intentionally inflicted harm on RegimA SA
+- Acted dishonestly
+- Committed fraud against RegimA SA
+- Acted with gross negligence
 
-| Category | Amount |
-|----------|--------|
-| Debt Obligation | R18,685,000.00 |
-| Financial Strangulation | R5,460,000.00 |
-| **TOTAL** | **R24,145,000.00** |
-
----
-
-## Evidence References
-
-This entity is referenced in **905 evidence files**:
-
-- `./1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md`
-- `./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md`
-- `./1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md`
-- `./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/PETER ANDREW FAUCITT _ JACQUELINE FAUCITT & OTHERS _ DRAFT ANSWERING AFFIDAVIT.pdf`
-- `./2DO/x/ianlevitt.co.za/Natan@ianlevitt.co.za/Re_ ALL COMMENTS ON AFFIDAVIT RECEIVED TODAY.pdf`
-- `./2DO/x/proton.me/regizone@proton.me/Fw_ Statements.pdf`
-- `./2DO/x/regima.com/dan@regima.com/AD Paragraph Numbers from Peter's Founding Affidavit (in order) MOSTLY COMPLETE.pdf`
-- `./2DO/x/regima.com/dan@regima.com/BIG FONT - Original Founding Affidavit with AD PARAGRAPHS.pdf`
-- `./2DO/x/regima.com/dan@regima.com/BIG FONT JAX - Affidavit with AD PARAGRAPHS.pdf`
-- `./2DO/x/regima.com/dan@regima.com/Fw_ I NEED TO SEE THE AMOUNT IN MY PERSONAL ACCOUNT - [External Email](1).pdf`
-- *...and 895 more*
+**Consequences:** Banned 7 years to life
 
 ---
 
-## GitHub Pages References
+## Criminal Liability
 
-- [Entity Reference](https://cogpy.github.io/revstream1/evidence-index-enhanced.md#person_001)
+### Fraud
+**Evidence:** SF2, JF3, JF9  
+**Strength:** Strong (if instruction emails available)  
+**Burden of Proof:** Criminal (95%) - **ACHIEVABLE**
 
-**Event References:**
-- [application-2-evidence.md#account-emptying](https://cogpy.github.io/revstream1/application-2-evidence.md#account-emptying)
-- [application-2-evidence.md#bantjies-debt](https://cogpy.github.io/revstream1/application-2-evidence.md#bantjies-debt)
-- [application-2-evidence.md#historical-foundation](https://cogpy.github.io/revstream1/application-2-evidence.md#historical-foundation)
-- [applications.md#event_048](https://cogpy.github.io/revstream1/applications.md#event_048)
-- [applications.md#event_049](https://cogpy.github.io/revstream1/applications.md#event_049)
-
----
-
-## Extended Evidence Repository
-
-For additional evidence and supporting documentation, see the [ad-res-j7 repository](https://github.com/cogpy/ad-res-j7).
+**Elements:**
+- False representation via fraudulent records
+- Prejudice to RegimA SA
+- Intent to deceive and divert revenue
 
 ---
 
-*Entity profile generated: 2025-11-25 07:09:36*  
-*Data models version: Entities v19.0, Events v20.0, Relations v16.0*
+### Theft/Unlawful Diversion
+**Evidence:** JF3, JF4, bank transfer records  
+**Strength:** Strong  
+**Burden of Proof:** Criminal (95%) - **ACHIEVABLE**
+
+**Elements:**
+- Unlawful appropriation of RegimA SA revenue
+- Intent to permanently deprive RegimA SA
+
+---
+
+## Financial Impact
+
+**Direct Involvement:** R10,269,727.90  
+**Revenue Diverted from RegimA SA to RST:** R10,269,727.90
+
+**Primary Categories:**
+- Revenue theft
+- Trust violations
+- Financial manipulation
+- Revenue stream hijacking
+
+---
+
+## Timeline Events
+
+EVENT_001, EVENT_002, EVENT_003, EVENT_006, EVENT_007, EVENT_008, EVENT_016, EVENT_017, EVENT_018, EVENT_019, EVENT_020
+
+---
+
+*Evidence references link to the [ad-res-j7 repository](https://github.com/cogpy/ad-res-j7).*

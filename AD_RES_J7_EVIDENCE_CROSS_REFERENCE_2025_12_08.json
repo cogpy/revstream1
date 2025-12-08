@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "generated": "2025-12-08T05:34:46.716155",
+    "purpose": "Cross-reference between revstream1 data models and ad-res-j7 evidence",
+    "total_annexures": 12,
+    "total_evidence_files": 2866,
+    "evidence_repository": "cogpy/ad-res-j7"
+  },
+  "critical_evidence": {
+    "JF1_SHOPIFY_PLUS_EMAIL": {
+      "title": "The Forensic Time Capsule",
+      "date": "2017-07-26",
+      "priority": "CRITICAL",
+      "significance": "Single most important piece of evidence in entire case",
+      "proves": [
+        "Kayla Pretorius personally managed Shopify Plus onboarding",
+        "Daniel was directly involved (CC'd on communications)",
+        "Independent business operations (no 'head office' involvement)",
+        "Direct client relationship management",
+        "Use of independent email addresses (kayp@rzo.io, kayla@regima.zone)",
+        "Personal phone number (011 615 29869) - later appropriated"
+      ],
+      "refutes": [
+        "Applicant's claim of centralized 'head office' control",
+        "Applicant's claim that Daniel never operated independent businesses",
+        "Applicant's claim that Daniel is 'delusional'",
+        "Applicant's claim that Jacqui has 'dementia'"
+      ],
+      "legal_significance": "Contemporaneous documentary evidence from neutral third party (Shopify Inc.) - unalterable historical record",
+      "entities_affected": [
+        "PERSON_005",
+        "PERSON_008",
+        "ORG_014"
+      ],
+      "events_affected": [
+        "EVENT_H003",
+        "EVENT_H004"
+      ]
+    },
+    "SF2_SAGE_SCREENSHOTS": {
+      "title": "Sage Screenshots - Rynette's Control",
+      "priority": "HIGH",
+      "significance": "Proves Rynette's control of accounting systems",
+      "proves": [
+        "Rynette Farrar controlled Sage accounting system",
+        "System access for financial manipulation",
+        "Ability to redirect payments and alter records"
+      ],
+      "entities_affected": [
+        "PERSON_002"
+      ],
+      "events_affected": [
+        "EVENT_003",
+        "EVENT_004"
+      ]
+    },
+    "JF4_DANIEL_BANK_RECORDS": {
+      "title": "Daniel's Personal Bank Records (Full Transparency)",
+      "date_range": "2025-06 to 2025-10",
+      "priority": "HIGH",
+      "significance": "Complete financial transparency from Daniel",
+      "proves": [
+        "Complete financial transparency",
+        "Legitimate banking transactions",
+        "No evidence of hidden assets",
+        "Proper financial management"
+      ],
+      "refutes": [
+        "Claims of financial misconduct",
+        "Claims of asset concealment",
+        "Claims of fraudulent transactions"
+      ],
+      "entities_affected": [
+        "PERSON_005"
+      ]
+    }
+  },
+  "annexure_mapping": {
+    "JF1": "Shopify Plus Email (26 July 2017) - THE FORENSIC TIME CAPSULE",
+    "JF2": "Shopify Sales Reports",
+    "JF3": "Financial Records and Analysis",
+    "JF4": "Daniel Faucitt Personal Bank Records",
+    "JF5": "Correspondence Evidence (JF8 Series)",
+    "JF6": "Court Documents and Filings",
+    "JF7": "Screenshots and Visual Evidence",
+    "JF8": "Evidence Packages (May-October 2025)",
+    "JF9": "Timeline Analysis",
+    "JF10": "Legal Analysis and Opinions",
+    "JF11": "Supporting Documentation",
+    "JF12": "Additional Evidence",
+    "SF1": "Bantjies Debt Documentation",
+    "SF2": "Sage Screenshots - Rynette Control",
+    "SF3": "Strategic Logistics Stock Adjustment",
+    "SF4": "SARS Audit Email",
+    "SF5": "Adderory Company Registration & Stock Supply",
+    "SF6": "Kayla Pretorius Estate Documentation",
+    "SF7": "Court Order - Kayla Email Seizure",
+    "SF8": "Linda Employment Records"
+  },
+  "burden_of_proof_analysis": {
+    "civil_claims": {
+      "threshold": "50% (balance of probabilities)",
+      "status": "EXCEEDED",
+      "evidence_strength": "Strong - multiple corroborating sources",
+      "key_evidence": [
+        "JF1",
+        "JF2",
+        "JF3",
+        "JF4",
+        "SF2"
+      ]
+    },
+    "criminal_claims": {
+      "threshold": "95% (beyond reasonable doubt)",
+      "fraud": {
+        "status": "ACHIEVABLE with instruction emails",
+        "evidence_strength": "Strong if Peter→Rynette instruction emails available",
+        "key_evidence": [
+          "SF2",
+          "JF3",
+          "JF9"
+        ]
+      },
+      "theft": {
+        "status": "ACHIEVABLE",
+        "evidence_strength": "Strong",
+        "key_evidence": [
+          "JF3",
+          "JF4",
+          "bank transfer records"
+        ]
+      },
+      "destruction_of_evidence": {
+        "status": "STRONG",
+        "evidence_strength": "Strong",
+        "key_evidence": [
+          "JF1 (preserved evidence)",
+          "JF8 (timing of evidence packages)"
+        ]
+      }
+    }
+  }
+}
