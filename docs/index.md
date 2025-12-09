@@ -1,7 +1,7 @@
 # Revenue Stream Hijacking Case 2025-137857
 ## Evidence-Based Documentation Portal
 
-**Last Updated:** 2025-12-08 05:37:51  
+**Last Updated:** 2025-12-09 02:47:14
 **Evidence Repository:** [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)  
 **Total Evidence Files:** 2,866  
 **Total Annexures:** 12 (JF1-JF12, SF1-SF8)
@@ -185,20 +185,21 @@
 - [Application 2: Section 163 Oppression Remedy](application-2.html) | [Evidence](application-2-evidence.html)
 - [Application 3: CIPC Companies Act Complaint](application-3.html) | [Evidence](application-3-evidence.html)
 
-### Data Models
-- [Entities](entities/) - All persons, organizations, and trusts
-- [Events](events/) - Chronological event records
+### Data Models (Updated 2025-12-09)
+- [Entities](../data_models/entities/entities_refined_2025_12_09_v28.json) - All persons, organizations, and trusts (23 entities with evidence strength)
+- [Events](../data_models/events/events_refined_2025_12_09_v32.json) - Chronological event records (43 events with actors field)
+- [Timeline](../data_models/timelines/timeline_refined_2025_12_09_v21.json) - Timeline entries (43 entries from 2017-2025)
 - [Entity Profiles](entity-profiles/) - Detailed entity profiles
-- [Timeline](timeline.html) - Interactive timeline visualization
+- [Timeline Visualization](timeline.html) - Interactive timeline (requires update)
 
 ### Evidence Index
 - [Evidence Index](evidence-index-enhanced.html) - Comprehensive evidence catalog
 - [Evidence Quick Reference](evidence-quick-reference.html) - Fast lookup guide
 
-### Legal Filings
-- [CIPC Complaint (Evidence Enhanced)](../CIPC_COMPLAINT_EVIDENCE_ENHANCED_2025_12_08.md)
-- [Commercial Crime Submission (Evidence Enhanced)](../COMMERCIAL_CRIME_EVIDENCE_ENHANCED_2025_12_08.md)
-- [Answering Affidavit (Evidence Enhanced)](../ANSWERING_AFFIDAVIT_EVIDENCE_ENHANCED_2025_12_08.md)
+### Legal Filings (Updated 2025-12-09)
+- [Answering Affidavit (Refined)](../ANSWERING_AFFIDAVIT_REFINED_2025_12_09.md)
+- [CIPC Complaint (Evidence Enhanced)](../CIPC_COMPLAINT_FINAL_EVIDENCE_ENHANCED_2025_12_09.md)
+- [Commercial Crime Submission (Evidence Enhanced)](../COMMERCIAL_CRIME_FINAL_EVIDENCE_ENHANCED_2025_12_09.md)](../ANSWERING_AFFIDAVIT_EVIDENCE_ENHANCED_2025_12_08.md)
 
 ---
 
