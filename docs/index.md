@@ -92,6 +92,35 @@
 
 ---
 
+
+---
+
+## 🔵 NEW OPERATIONAL EVIDENCE (2025-12-08) - SF10 Sales Workflow
+
+### Professional, Automated E-Commerce Operations Proven
+
+**Annexure:** SF10 (PowerPoint Presentation)  
+**Source:** Internal documentation
+
+**What it proves:**
+- ✅ **Sophisticated three-system integration:** Shopify ↔ Sage ↔ Courier Guy
+- ✅ **Automated accounting:** Tax invoices automatically generated in Sage when orders fulfilled in Shopify
+- ✅ **Professional business operations:** Refutes claims of disorganized or improper business practices
+- ✅ **Critical role of Sage:** Essential for tax invoice generation and accounting
+- ✅ **Impact of Sage expiry (SF2B):** Halts tax invoice generation and disrupts operations
+
+**Key Personnel Identified:**
+- **Kent:** Customer order handler (Shopify access)
+- **EL (Eldridge Davids):** Customer order handler (Shopify & Sage access, per SF2A)
+
+**Legal Significance:**
+- **Refutes claims of disorganization** in oppression application
+- **Corroborates Shopify operations** for revenue hijacking claims
+- **Demonstrates impact of Sage obstruction** (SF2B)
+
+
+---
+
 ## 🔴 NEW CRITICAL EVIDENCE (2025-12-08) - SF9 Attorney Letter
 
 ### R63M Revenue Hijacking Quantum Established

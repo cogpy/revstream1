@@ -1,0 +1,68 @@
+Phone
+
+CUSTOMER
+
+Kent
+EL
+
+Their orders to Kent/EL
+Email
+
+Shopify
+
+Email proforma invoice to customer
+
+Create Proforma
+Invoice
+
+CUSTOMER
+
+SHOPIFY
+
+Kent
+
+Receive POP
+
+Fulfill order
+
+EL
+
+SHOPIFY
+Once the order is
+marked as fulfilled
+
+COURIER GUY
+
+Shipment is loaded on the
+Courier Guy portal. Tracking
+Number is generated
+
+Email POP to Kent / EL
+
+Pays Proforma Invoice
+
+Pull order through
+automatically
+
+COURIER GUY
+Collect parcels
+
+SAGE
+Tax Invoice is created &
+automatically emailed
+
+COURIER GUY
+Deliver parcel or notify us if
+there is a problem
+
+CUSTOMER
+Received proper Tax
+Invoice
+
+COURIER GUY
+
+We get notify whether delivery
+was successful or if parcel will
+return if unsuccessful
+
+
