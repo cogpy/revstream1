@@ -1,0 +1,1386 @@
+{
+  "metadata": {
+    "version": "22.0",
+    "created_date": "2025-12-09",
+    "description": "Timeline model for Revenue Stream Hijacking case 2025-137857",
+    "case_number": "2025-137857",
+    "modeling_approach": "event_based_timeline_generation",
+    "last_updated": "2025-12-09T05:35:03.770121",
+    "changes": "Added timeline entries for EVENT_078, EVENT_079, EVENT_080",
+    "total_entries": 3,
+    "date_range": {
+      "start": "2017-06-30",
+      "end": "2025-09-11"
+    },
+    "phases": {
+      "foundation_phase": "Pre-March 2025 - Setup and initial actions",
+      "escalation_phase": "March-May 2025 - Intensification of fraud",
+      "exposure_phase": "June-July 2025 - Discovery and initial response",
+      "response_phase": "August 2025+ - Legal action and evidence gathering"
+    }
+  },
+  "timeline_entries": [
+    {
+      "timeline_id": "TL_H001",
+      "date": "2017-06-30",
+      "title": "First ReZonance Invoice to RST",
+      "description": "First invoice from ReZonance to RegimA Skin Treatments for Google GSuite services (R250.80), marking the beginning of business relationship",
+      "category": "business_relationship",
+      "event_type": "service_initiation",
+      "phase": "foundation_phase",
+      "actors": [
+        "ORG_008",
+        "ORG_002"
+      ],
+      "actor_names": [
+        "ReZonance (Pty) Ltd",
+        "Regima Skin Treatments CC"
+      ],
+      "financial_impact": "R250.80",
+      "legal_significance": "establishment_of_business_relationship_and_trust",
+      "evidence": [
+        "invoice_2017_06_30",
+        "service_agreement"
+      ],
+      "evidence_support": {
+        "evidence": [
+          "SF6 - Kayla Pretorius estate documentation"
+        ],
+        "significance": "Trigger event for business appropriation",
+        "timeline_correlation": "JF9 - Timeline shows immediate system access changes"
+      },
+      "pattern": "historical_foundation",
+      "source_event_id": "EVENT_H001"
+    },
+    {
+      "timeline_id": "TL_H002",
+      "date": "2017-09-30",
+      "title": "ReZonance Service Expansion",
+      "description": "Major service expansion with multiple enterprise services (R100,000+), substantial increase in service provision and financial exposure",
+      "category": "business_relationship",
+      "event_type": "service_expansion",
+      "phase": "foundation_phase",
+      "actors": [
+        "ORG_008",
+        "regima_group"
+      ],
+      "actor_names": [
+        "ReZonance (Pty) Ltd",
+        "regima_group"
+      ],
+      "financial_impact": "R100,000+",
+      "legal_significance": "establishment_of_operational_dependency",
+      "evidence": [
+        "invoices_2017_09_30",
+        "service_expansion_documentation"
+      ],
+      "evidence_support": {
+        "evidence": [
+          "JF1 - Shopify Plus email (preserved evidence)",
+          "JF8 - Evidence packages started next day"
+        ],
+        "significance": "Attempted evidence destruction, but JF1 proves prior state",
+        "criminal_implication": "Destruction of evidence, obstruction of justice"
+      },
+      "pattern": "historical_foundation",
+      "source_event_id": "EVENT_H002"
+    },
+    {
+      "timeline_id": "TL_H003",
+      "date": "2019-03-01",
+      "title": "Financial Year Commencement RST/SLG",
+      "description": "Financial year commencement for RegimA Skin Treatments and Strategic Logistics, beginning of period covered by trial balance evidence",
+      "category": "financial_structure",
+      "event_type": "financial_year_start",
+      "phase": "foundation_phase",
+      "actors": [
+        "ORG_002",
+        "ORG_004"
+      ],
+      "actor_names": [
+        "Regima Skin Treatments CC",
+        "Strategic Logistics Group"
+      ],
+      "financial_impact": "unknown",
+      "legal_significance": "foundation_for_inter_company_financial_manipulation",
+      "evidence": [
+        "trial_balance_documentation"
+      ],
+      "evidence_support": {},
+      "pattern": "historical_foundation",
+      "source_event_id": "EVENT_H003"
+    },
+    {
+      "timeline_id": "TL_H004",
+      "date": "2019-05-01",
+      "title": "Financial Year Commencement Villa Via",
+      "description": "Villa Via operates on different financial year, creating complexity in group reporting and enabling profit extraction concealment",
+      "category": "financial_structure",
+      "event_type": "financial_year_start",
+      "phase": "foundation_phase",
+      "actors": [
+        "ORG_005"
+      ],
+      "actor_names": [
+        "Villa Via"
+      ],
+      "financial_impact": "unknown",
+      "legal_significance": "structural_complexity_enabling_fraud",
+      "evidence": [
+        "VV-TRIALBALANCEAPR20202.xlsx"
+      ],
+      "evidence_support": {},
+      "pattern": "historical_foundation",
+      "source_event_id": "EVENT_H004"
+    },
+    {
+      "timeline_id": "TL_H005",
+      "date": "2020-02-20",
+      "title": "Multiple Adjusting Journal Entries",
+      "description": "Significant inter-company cost reallocations: RWW R500K stock provision write-back, RWW R810K admin fee reallocation, SLG R252K admin fee reallocation, SLG R80K production cost transfer to RST",
+      "category": "financial_manipulation",
+      "event_type": "inter_company_adjustments",
+      "phase": "foundation_phase",
+      "actors": [
+        "PERSON_007",
+        "ORG_002",
+        "ORG_001",
+        "PERSON_001",
+        "PERSON_002",
+        "ORG_004"
+      ],
+      "actor_names": [
+        "Danie Bantjies",
+        "Regima Skin Treatments CC",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Peter Andrew Faucitt",
+        "Rynette Farrar",
+        "Strategic Logistics Group"
+      ],
+      "financial_impact": "R1,642,000",
+      "legal_significance": "evidence_of_systematic_inter_company_manipulation",
+      "evidence": [
+        "trial_balance_AJEs",
+        "general_ledger_entries"
+      ],
+      "evidence_support": {},
+      "pattern": "historical_foundation",
+      "source_event_id": "EVENT_H005"
+    },
+    {
+      "timeline_id": "TL_H006",
+      "date": "2020-02-28",
+      "title": "Year-End Adjustments and Interest Payment",
+      "description": "SLG pays R414,334.09 interest to RST per loan agreement, RST advances R750K loan to RWW for production costs, Directors' fee adjustment R784K in RST",
+      "category": "financial_manipulation",
+      "event_type": "profit_concentration",
+      "phase": "foundation_phase",
+      "actors": [
+        "PERSON_007",
+        "ORG_002",
+        "ORG_001",
+        "PERSON_001",
+        "PERSON_002",
+        "ORG_004"
+      ],
+      "actor_names": [
+        "Danie Bantjies",
+        "Regima Skin Treatments CC",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Peter Andrew Faucitt",
+        "Rynette Farrar",
+        "Strategic Logistics Group"
+      ],
+      "financial_impact": "R1,948,334.09",
+      "legal_significance": "profit_concentration_in_director_controlled_entity",
+      "evidence": [
+        "REG-TRIALBALANCE.xlsx",
+        "SL-TRIALBALANCE2020.xlsx"
+      ],
+      "evidence_support": {},
+      "pattern": "historical_foundation",
+      "source_event_id": "EVENT_H006"
+    },
+    {
+      "timeline_id": "TL_H007",
+      "date": "2020-04-30",
+      "title": "Villa Via Year-End Profit Extraction",
+      "description": "Villa Via generates R4.4M monthly rental income with R3.7M profit, Members loan account R22.8M indicating systematic capital extraction",
+      "category": "profit_extraction",
+      "event_type": "capital_extraction",
+      "phase": "foundation_phase",
+      "actors": [
+        "TRUST_001",
+        "ORG_001",
+        "ORG_005",
+        "PERSON_001",
+        "ORG_004"
+      ],
+      "actor_names": [
+        "Family Trust",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Villa Via",
+        "Peter Andrew Faucitt",
+        "Strategic Logistics Group"
+      ],
+      "financial_impact": "R22,800,000",
+      "legal_significance": "evidence_of_capital_extraction_mechanism",
+      "evidence": [
+        "VV-TRIALBALANCEAPR20202.xlsx"
+      ],
+      "evidence_support": {},
+      "pattern": "historical_foundation",
+      "source_event_id": "EVENT_H007"
+    },
+    {
+      "timeline_id": "TL_H008",
+      "date": "2020-08-13",
+      "title": "Bantjies Trial Balance Email Distribution",
+      "description": "Email from Danie Bantjies with final trial balances to Bernadine Wright, Jax, Peter, Rynette, Daniel for financial statement finalization meeting",
+      "category": "evidence_documentation",
+      "event_type": "financial_system_control",
+      "phase": "foundation_phase",
+      "actors": [
+        "PERSON_007",
+        "PERSON_010"
+      ],
+      "actor_names": [
+        "Danie Bantjies",
+        "Bernadine Wright"
+      ],
+      "financial_impact": "unknown",
+      "legal_significance": "evidence_of_bantjies_control_over_financial_systems",
+      "evidence": [
+        "Email-body.html",
+        "trial_balance_attachments"
+      ],
+      "evidence_support": {},
+      "pattern": "historical_foundation",
+      "source_event_id": "EVENT_H008"
+    },
+    {
+      "timeline_id": "TL_D001",
+      "date": "2022-03-01",
+      "title": "ReZonance Opening Balance Debt",
+      "description": "Opening balance showing substantial accumulated debt to ReZonance (R971,587.93), evidence of unpaid services over extended period",
+      "category": "debt_accumulation",
+      "event_type": "unpaid_debt",
+      "phase": "foundation_phase",
+      "actors": [
+        "ORG_008",
+        "regima_group",
+        "PERSON_008",
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "actor_names": [
+        "ReZonance (Pty) Ltd",
+        "regima_group",
+        "Kayla",
+        "Peter Andrew Faucitt",
+        "Rynette Farrar"
+      ],
+      "financial_impact": "R971,587.93",
+      "legal_significance": "systematic_non_payment_of_legitimate_debts",
+      "evidence": [
+        "rezonance_account_statements",
+        "aged_debtor_reports"
+      ],
+      "evidence_support": {},
+      "pattern": "debt_accumulation",
+      "source_event_id": "EVENT_D001"
+    },
+    {
+      "timeline_id": "TL_D002",
+      "date": "2022-07-11",
+      "title": "First Structured Payment to ReZonance",
+      "description": "First structured payment to ReZonance (R40,000), attempt to manage debt through partial payments",
+      "category": "debt_management",
+      "event_type": "partial_payment",
+      "phase": "foundation_phase",
+      "actors": [
+        "ORG_008",
+        "regima_group"
+      ],
+      "actor_names": [
+        "ReZonance (Pty) Ltd",
+        "regima_group"
+      ],
+      "financial_impact": "R40,000",
+      "legal_significance": "acknowledgment_of_debt_through_payment",
+      "evidence": [
+        "payment_records",
+        "bank_statements"
+      ],
+      "evidence_support": {},
+      "pattern": "debt_accumulation",
+      "source_event_id": "EVENT_D002"
+    },
+    {
+      "timeline_id": "TL_D003",
+      "date": "2023-02-28",
+      "title": "ReZonance Final Balance Persistent Debt",
+      "description": "Final balance showing persistent debt to ReZonance (R1,035,361.34) despite payment claims, debt continues to grow",
+      "category": "debt_accumulation",
+      "event_type": "unpaid_debt",
+      "phase": "foundation_phase",
+      "actors": [
+        "ORG_008",
+        "regima_group",
+        "PERSON_008",
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "actor_names": [
+        "ReZonance (Pty) Ltd",
+        "regima_group",
+        "Kayla",
+        "Peter Andrew Faucitt",
+        "Rynette Farrar"
+      ],
+      "financial_impact": "R1,035,361.34",
+      "legal_significance": "ongoing_systematic_non_payment",
+      "evidence": [
+        "rezonance_final_statement",
+        "payment_reconciliation"
+      ],
+      "evidence_support": {},
+      "pattern": "debt_accumulation",
+      "source_event_id": "EVENT_D003"
+    },
+    {
+      "timeline_id": "TL_D004",
+      "date": "2023-03-15",
+      "title": "False Payment Claim #1 to ReZonance",
+      "description": "RegimA claims payment of R470,000 to ReZonance not reflected in ReZonance records, first documented false payment claim",
+      "category": "fraud",
+      "event_type": "false_payment_claim",
+      "phase": "foundation_phase",
+      "actors": [
+        "ORG_008",
+        "regima_group",
+        "PERSON_008",
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "actor_names": [
+        "ReZonance (Pty) Ltd",
+        "regima_group",
+        "Kayla",
+        "Peter Andrew Faucitt",
+        "Rynette Farrar"
+      ],
+      "financial_impact": "R470,000",
+      "legal_significance": "fraudulent_payment_claims_to_conceal_debt",
+      "evidence": [
+        "false_payment_documentation",
+        "rezonance_account_reconciliation"
+      ],
+      "evidence_support": {},
+      "pattern": "debt_accumulation",
+      "source_event_id": "EVENT_D004"
+    },
+    {
+      "timeline_id": "TL_D005",
+      "date": "2023-09-20",
+      "title": "False Payment Claim #2 to ReZonance",
+      "description": "Additional false payment claims totaling R765,361.34 to ReZonance, escalation of fraudulent payment claims",
+      "category": "fraud",
+      "event_type": "false_payment_claim",
+      "phase": "foundation_phase",
+      "actors": [
+        "ORG_008",
+        "regima_group",
+        "PERSON_008",
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "actor_names": [
+        "ReZonance (Pty) Ltd",
+        "regima_group",
+        "Kayla",
+        "Peter Andrew Faucitt",
+        "Rynette Farrar"
+      ],
+      "financial_impact": "R765,361.34",
+      "legal_significance": "systematic_fraud_pattern_escalation",
+      "evidence": [
+        "false_payment_claims_documentation"
+      ],
+      "evidence_support": {},
+      "pattern": "debt_accumulation",
+      "source_event_id": "EVENT_D005"
+    },
+    {
+      "timeline_id": "TL_022",
+      "date": "2025-02-14",
+      "title": "R900,000 Unauthorized Transfers from RegimA SA",
+      "description": "Peter made unauthorized transfers of R900,000 from RegimA SA without Daniel's authority as co-director",
+      "category": "financial_manipulation",
+      "event_type": "unauthorized_transfer",
+      "phase": "foundation_phase",
+      "actors": [
+        "ORG_006",
+        "PERSON_005",
+        "PERSON_001"
+      ],
+      "actor_names": [
+        "RegimA SA",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt"
+      ],
+      "financial_impact": "R900,000",
+      "legal_significance": "unauthorized_transfer_without_co_director_authority",
+      "evidence": [
+        "bank_transfer_records",
+        "authorization_absence"
+      ],
+      "evidence_support": {},
+      "pattern": "foundation_phase",
+      "source_event_id": "EVENT_022"
+    },
+    {
+      "timeline_id": "TL_001",
+      "date": "2025-03-01",
+      "title": "RegimA SA Revenue Diversion Started",
+      "description": "Diversion of revenue streams from RegimA SA initiated, marking the beginning of systematic revenue hijacking",
+      "category": "revenue_theft",
+      "event_type": "diversion_initiation",
+      "phase": "escalation_phase",
+      "actors": [
+        "ORG_006",
+        "PERSON_002",
+        "PERSON_005",
+        "PERSON_001"
+      ],
+      "actor_names": [
+        "RegimA SA",
+        "Rynette Farrar",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "initial_implementation_of_systematic_financial_fraud",
+      "evidence": [
+        "financial_records",
+        "bank_statements"
+      ],
+      "evidence_support": {
+        "evidence": [
+          "JF9 - Timeline analysis",
+          "JF10 - Legal analysis"
+        ],
+        "significance": "Foundation of fraudulent scheme"
+      },
+      "pattern": "foundation_phase",
+      "source_event_id": "EVENT_001"
+    },
+    {
+      "timeline_id": "TL_024",
+      "date": "2025-03-01",
+      "title": "R5.4M Stock Disappears from Strategic Logistics",
+      "description": "R5.4M worth of stock physically disappears from Strategic Logistics warehouse. Represents 46% of annual sales, 10x historical adjustment rate. Same stock type later supplied by Adderory (Rynette's son's company) to RegimA.",
+      "category": "transfer_pricing_fraud",
+      "event_type": "stock_theft",
+      "phase": "escalation_phase",
+      "actors": [
+        "PERSON_007",
+        "TRUST_001",
+        "PERSON_003",
+        "PERSON_001",
+        "PERSON_002",
+        "ORG_004"
+      ],
+      "actor_names": [
+        "Danie Bantjies",
+        "Family Trust",
+        "PERSON_003",
+        "Peter Andrew Faucitt",
+        "Rynette Farrar",
+        "Strategic Logistics Group"
+      ],
+      "financial_impact": "R5,400,000",
+      "legal_significance": "largest_single_identifiable_theft_transfer_pricing_fraud",
+      "evidence": [
+        "stock_reconciliation_reports",
+        "warehouse_records",
+        "adderory_supply_documentation"
+      ],
+      "evidence_support": {},
+      "pattern": "foundation_phase",
+      "source_event_id": "EVENT_024"
+    },
+    {
+      "timeline_id": "TL_002",
+      "date": "2025-03-15",
+      "title": "Trust Structure Establishment",
+      "description": "Foundation for R2.85M+ trust violations established through trust structure manipulation",
+      "category": "trust_violations",
+      "event_type": "trust_manipulation",
+      "phase": "escalation_phase",
+      "actors": [
+        "TRUST_001",
+        "beneficiaries",
+        "PERSON_001"
+      ],
+      "actor_names": [
+        "Family Trust",
+        "beneficiaries",
+        "Peter Andrew Faucitt"
+      ],
+      "financial_impact": "R2,851,247.35",
+      "legal_significance": "initial_documentation_of_trust_structure_manipulation",
+      "evidence": [
+        "trust_documentation",
+        "beneficiary_records"
+      ],
+      "evidence_support": {
+        "evidence": [
+          "JF3 - Financial records",
+          "JF4 - Bank statements"
+        ],
+        "significance": "Direct evidence of theft"
+      },
+      "pattern": "foundation_phase",
+      "source_event_id": "EVENT_002"
+    },
+    {
+      "timeline_id": "TL_025",
+      "date": "2025-03-15",
+      "title": "R5.4M Stock Adjustment Processed Without Investigation",
+      "description": "R5.4M written off as simple 'stock adjustment' without investigation, supporting documentation, or proper authorization. Bantjies as accountant should have investigated 46% loss but did not, demonstrating complicity.",
+      "category": "accounting_fraud",
+      "event_type": "fraudulent_accounting_entry",
+      "phase": "escalation_phase",
+      "actors": [
+        "PERSON_007",
+        "PERSON_002",
+        "TRUST_001",
+        "ORG_004"
+      ],
+      "actor_names": [
+        "Danie Bantjies",
+        "Rynette Farrar",
+        "Family Trust",
+        "Strategic Logistics Group"
+      ],
+      "financial_impact": "R5,400,000",
+      "legal_significance": "accounting_fraud_breach_of_professional_duty",
+      "evidence": [
+        "general_ledger_entries",
+        "lack_of_investigation_documentation"
+      ],
+      "evidence_support": {},
+      "pattern": "foundation_phase",
+      "source_event_id": "EVENT_025"
+    },
+    {
+      "timeline_id": "TL_003",
+      "date": "2025-03-30",
+      "title": "Two Years Unallocated Expenses Dumped",
+      "description": "Rynette and Peter dumped two years' worth of unallocated expenses from all companies into RegimA Worldwide and pressured Daniel to sign off within 12 hours for SARS VAT & Annual Accounts. Daniel used time until June 6th to finalize reports and uncover fraud.",
+      "category": "financial_manipulation",
+      "event_type": "expense_dumping",
+      "phase": "escalation_phase",
+      "actors": [
+        "all_companies",
+        "ORG_001",
+        "PERSON_001",
+        "PERSON_002",
+        "PERSON_005"
+      ],
+      "actor_names": [
+        "all_companies",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Peter Andrew Faucitt",
+        "Rynette Farrar",
+        "Daniel James Faucitt"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "systematic_financial_manipulation_and_pressure_tactics",
+      "evidence": [
+        "email_records",
+        "accounting_records",
+        "SARS_submissions"
+      ],
+      "evidence_support": {},
+      "pattern": "foundation_phase",
+      "source_event_id": "EVENT_003"
+    },
+    {
+      "timeline_id": "TL_004",
+      "date": "2025-04-01",
+      "title": "Payment Redirection Scheme",
+      "description": "Part of R4.28M+ financial diversions. Payments redirected from platform owned/paid by RegimA Zone Ltd (UK)",
+      "category": "financial_manipulation",
+      "event_type": "payment_diversion",
+      "phase": "escalation_phase",
+      "actors": [
+        "bank_accounts",
+        "PLATFORM_001",
+        "ORG_003",
+        "PERSON_001",
+        "PERSON_002",
+        "PERSON_005"
+      ],
+      "actor_names": [
+        "bank_accounts",
+        "Shopify Platform",
+        "RegimA Zone Ltd",
+        "Peter Andrew Faucitt",
+        "Rynette Farrar",
+        "Daniel James Faucitt"
+      ],
+      "financial_impact": "R4,276,832.85",
+      "legal_significance": "initial_implementation_of_systematic_financial_fraud",
+      "evidence": [
+        "bank_records",
+        "payment_gateway_logs"
+      ],
+      "evidence_support": {},
+      "pattern": "initial_theft_phase",
+      "source_event_id": "EVENT_004"
+    },
+    {
+      "timeline_id": "TL_005",
+      "date": "2025-04-14",
+      "title": "Bank Account Change Letter for RegimA Worldwide",
+      "description": "Setup for R3.14M+ revenue theft. First documented act in coordinated scheme. Attempted redirect of payments from Dan's UK-funded infrastructure",
+      "category": "revenue_theft",
+      "event_type": "bank_account_manipulation",
+      "phase": "escalation_phase",
+      "actors": [
+        "PERSON_002",
+        "PLATFORM_001",
+        "PERSON_005",
+        "ORG_001"
+      ],
+      "actor_names": [
+        "Rynette Farrar",
+        "Shopify Platform",
+        "Daniel James Faucitt",
+        "Regima Worldwide Distribution (PTY) LTD"
+      ],
+      "financial_impact": "R3,141,647.70",
+      "legal_significance": "first_documented_act_in_coordinated_scheme",
+      "evidence": [
+        "bank_letter",
+        "account_change_documentation"
+      ],
+      "evidence_support": {},
+      "pattern": "initial_theft_phase",
+      "source_event_id": "EVENT_005"
+    },
+    {
+      "timeline_id": "TL_006",
+      "date": "2025-05-02",
+      "title": "Unauthorized Beneficiary Changes",
+      "description": "Exclusion of legitimate beneficiaries. Direct violation of trust obligations and beneficiary rights",
+      "category": "trust_violations",
+      "event_type": "beneficiary_manipulation",
+      "phase": "escalation_phase",
+      "actors": [
+        "TRUST_001",
+        "PERSON_002",
+        "legitimate_beneficiaries",
+        "PERSON_001"
+      ],
+      "actor_names": [
+        "Family Trust",
+        "Rynette Farrar",
+        "legitimate_beneficiaries",
+        "Peter Andrew Faucitt"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "direct_violation_of_trust_obligations_and_beneficiary_rights",
+      "evidence": [
+        "trust_amendment_documents",
+        "beneficiary_correspondence"
+      ],
+      "evidence_support": {},
+      "pattern": "escalation_phase",
+      "source_event_id": "EVENT_006"
+    },
+    {
+      "timeline_id": "TL_007",
+      "date": "2025-05-15",
+      "title": "Jacqui Confronts Rynette About R1,035,000 Debt",
+      "description": "Jacqui confronted Rynette regarding R1,035,000 owed by RegimA Skin Treatments to Rezonance since Feb 2023. Jacqui stated these funds were part of Kayla's estate and keeping them would be profiting from proceeds of murder.",
+      "category": "financial_dispute",
+      "event_type": "confrontation",
+      "phase": "escalation_phase",
+      "actors": [
+        "PERSON_004",
+        "ORG_002",
+        "estate_of_kayla",
+        "PERSON_002",
+        "rezonance"
+      ],
+      "actor_names": [
+        "Jacqueline Faucitt",
+        "Regima Skin Treatments CC",
+        "estate_of_kayla",
+        "Rynette Farrar",
+        "rezonance"
+      ],
+      "financial_impact": "R1,035,000",
+      "legal_significance": "confrontation_triggering_subsequent_retaliation",
+      "evidence": [
+        "confrontation_records",
+        "debt_documentation"
+      ],
+      "evidence_support": {},
+      "pattern": "escalation_phase",
+      "source_event_id": "EVENT_007"
+    },
+    {
+      "timeline_id": "TL_008",
+      "date": "2025-05-15",
+      "title": "Unauthorized Transfers (R850K+)",
+      "description": "R850,000+ unauthorized transfers. Direct evidence of financial authority abuse and theft. R850K+ included revenue from platform paid by UK company (28 months)",
+      "category": "financial_manipulation",
+      "event_type": "unauthorized_transfer",
+      "phase": "escalation_phase",
+      "actors": [
+        "bank_accounts",
+        "PLATFORM_001",
+        "ORG_001",
+        "PERSON_001",
+        "PERSON_005"
+      ],
+      "actor_names": [
+        "bank_accounts",
+        "Shopify Platform",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Peter Andrew Faucitt",
+        "Daniel James Faucitt"
+      ],
+      "financial_impact": "R850,000",
+      "legal_significance": "direct_evidence_of_financial_authority_abuse_and_theft",
+      "evidence": [
+        "bank_transfer_records",
+        "authorization_logs"
+      ],
+      "evidence_support": {},
+      "pattern": "escalation_phase",
+      "source_event_id": "EVENT_008"
+    },
+    {
+      "timeline_id": "TL_009",
+      "date": "2025-05-22",
+      "title": "Shopify Audit Trail Hijacking",
+      "description": "CRITICAL EVENT: R1M+ monthly revenue → R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
+      "category": "revenue_theft",
+      "event_type": "evidence_destruction",
+      "phase": "escalation_phase",
+      "actors": [
+        "PERSON_004",
+        "PLATFORM_001",
+        "coordinated_action",
+        "ORG_003",
+        "PERSON_005"
+      ],
+      "actor_names": [
+        "Jacqueline Faucitt",
+        "Shopify Platform",
+        "coordinated_action",
+        "RegimA Zone Ltd",
+        "Daniel James Faucitt"
+      ],
+      "financial_impact": "R1,000,000+ monthly",
+      "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
+      "evidence": [
+        "platform_access_logs",
+        "audit_trail_records",
+        "business_shutdown_documentation"
+      ],
+      "evidence_support": {},
+      "pattern": "escalation_phase",
+      "source_event_id": "EVENT_009"
+    },
+    {
+      "timeline_id": "TL_010",
+      "date": "2025-05-29",
+      "title": "Domain Registration (Identity Fraud)",
+      "description": "Customer hijacking platform. Family conspiracy escalation and digital impersonation. Domain registered to impersonate business on Dan's UK-funded platform. New domain regimaskin.co.za registered by Adderory (Rynette's son's company) following Shopify shutdown.",
+      "category": "revenue_theft",
+      "event_type": "identity_fraud",
+      "phase": "escalation_phase",
+      "actors": [
+        "PERSON_003",
+        "DOMAIN_002",
+        "customers",
+        "PERSON_002",
+        "PERSON_005"
+      ],
+      "actor_names": [
+        "PERSON_003",
+        "DOMAIN_002",
+        "customers",
+        "Rynette Farrar",
+        "Daniel James Faucitt"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "family_conspiracy_escalation_and_digital_impersonation",
+      "evidence": [
+        "domain_registration_records",
+        "whois_data"
+      ],
+      "evidence_support": {},
+      "pattern": "escalation_phase",
+      "source_event_id": "EVENT_010"
+    },
+    {
+      "timeline_id": "TL_011",
+      "date": "2025-06-06",
+      "title": "Daniel Finalizes Fraud Reports",
+      "description": "Daniel finalized reports uncovering fraud after using time from March 30 deadline extension",
+      "category": "fraud_discovery",
+      "event_type": "fraud_uncovering",
+      "phase": "exposure_phase",
+      "actors": [
+        "PERSON_005"
+      ],
+      "actor_names": [
+        "Daniel James Faucitt"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "fraud_discovery_and_documentation",
+      "evidence": [
+        "fraud_reports",
+        "analysis_documentation"
+      ],
+      "evidence_support": {},
+      "pattern": "consolidation_phase",
+      "source_event_id": "EVENT_011"
+    },
+    {
+      "timeline_id": "TL_012",
+      "date": "2025-06-07",
+      "title": "Secret Card Cancellations",
+      "description": "Secret cancellation of cards to sabotage Daniel's ability to pay creditors. Rynette may have opened 8 ABSA accounts using Daniel's stolen card.",
+      "category": "financial_manipulation",
+      "event_type": "payment_sabotage",
+      "phase": "exposure_phase",
+      "actors": [
+        "PERSON_002",
+        "bank_accounts",
+        "PERSON_005",
+        "PERSON_001"
+      ],
+      "actor_names": [
+        "Rynette Farrar",
+        "bank_accounts",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "sabotage_of_payment_capability",
+      "evidence": [
+        "bank_records",
+        "card_cancellation_logs"
+      ],
+      "evidence_support": {},
+      "pattern": "consolidation_phase",
+      "source_event_id": "EVENT_012"
+    },
+    {
+      "timeline_id": "TL_023",
+      "date": "2025-06-10",
+      "title": "Bantjies Dismisses Audit Request",
+      "description": "CRITICAL EVENT: Bantjies dismisses Daniel's audit request 4 days after Daniel exposed Villa Via fraud. Audit would have discovered R5.4M stock adjustment fraud and systematic inter-company manipulation. Demonstrates consciousness of guilt and protection of fraud scheme.",
+      "category": "fraud_concealment",
+      "event_type": "audit_blocking",
+      "phase": "exposure_phase",
+      "actors": [
+        "PERSON_007",
+        "PERSON_004",
+        "TRUST_001",
+        "ORG_002",
+        "ORG_001",
+        "PERSON_005",
+        "ORG_004"
+      ],
+      "actor_names": [
+        "Danie Bantjies",
+        "Jacqueline Faucitt",
+        "Family Trust",
+        "Regima Skin Treatments CC",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Daniel James Faucitt",
+        "Strategic Logistics Group"
+      ],
+      "financial_impact": "R5,400,000+ concealed",
+      "legal_significance": "consciousness_of_guilt_audit_blocking_breach_of_fiduciary_duty",
+      "evidence": [
+        "audit_request_documentation",
+        "dismissal_correspondence",
+        "timeline_correlation"
+      ],
+      "evidence_support": {},
+      "pattern": "consolidation_phase",
+      "source_event_id": "EVENT_023"
+    },
+    {
+      "timeline_id": "TL_026",
+      "date": "2025-06-10",
+      "title": "Bantjies Dismisses Audit Request",
+      "description": "Bantjies dismisses Daniel's audit request 4 days after fraud exposure (June 6), demonstrating consciousness of guilt and conflict of interest given R18.685M debt to trust",
+      "category": "fraud_concealment",
+      "event_type": "audit_dismissal",
+      "phase": "exposure_phase",
+      "actors": [
+        "PERSON_007",
+        "PERSON_005",
+        "TRUST_001",
+        "regima_group"
+      ],
+      "actor_names": [
+        "Danie Bantjies",
+        "Daniel James Faucitt",
+        "Family Trust",
+        "regima_group"
+      ],
+      "financial_impact": "R18,685,000",
+      "legal_significance": "consciousness_of_guilt_conflict_of_interest_breach_of_fiduciary_duty",
+      "evidence": [
+        "audit_request_dismissal_documentation",
+        "bantjies_debt_records"
+      ],
+      "evidence_support": {},
+      "pattern": "consolidation_phase",
+      "source_event_id": "EVENT_026"
+    },
+    {
+      "timeline_id": "TL_013",
+      "date": "2025-06-18",
+      "title": "Systematic Trust Violations",
+      "description": "Trustee misconduct and self-dealing. Clear evidence of trustee misconduct and self-dealing",
+      "category": "trust_violations",
+      "event_type": "trustee_misconduct",
+      "phase": "exposure_phase",
+      "actors": [
+        "TRUST_001",
+        "beneficiaries",
+        "PERSON_001"
+      ],
+      "actor_names": [
+        "Family Trust",
+        "beneficiaries",
+        "Peter Andrew Faucitt"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "clear_evidence_of_trustee_misconduct_and_self_dealing",
+      "evidence": [
+        "trust_transaction_records",
+        "conflict_of_interest_documentation"
+      ],
+      "evidence_support": {},
+      "pattern": "consolidation_phase",
+      "source_event_id": "EVENT_013"
+    },
+    {
+      "timeline_id": "TL_014",
+      "date": "2025-06-20",
+      "title": "Email Impersonation Pattern and Domain Switch Instruction",
+      "description": "R3.1M+ losses enabled by email control. Pattern of impersonation supporting criminal conspiracy charges. Email control facilitated fraud related to platform paid by Dan's UK company since July 2023. Email from Gee in Aug explained to Jax that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email'.",
+      "category": "revenue_theft",
+      "event_type": "email_impersonation",
+      "phase": "exposure_phase",
+      "actors": [
+        "PLATFORM_001",
+        "DOMAIN_002",
+        "customers",
+        "PERSON_002",
+        "PERSON_005"
+      ],
+      "actor_names": [
+        "Shopify Platform",
+        "DOMAIN_002",
+        "customers",
+        "Rynette Farrar",
+        "Daniel James Faucitt"
+      ],
+      "financial_impact": "R3,141,647.70",
+      "legal_significance": "pattern_of_impersonation_supporting_criminal_conspiracy_charges",
+      "evidence": [
+        "email_records",
+        "customer_communications",
+        "gee_email_to_jax"
+      ],
+      "evidence_support": {},
+      "pattern": "consolidation_phase",
+      "source_event_id": "EVENT_014"
+    },
+    {
+      "timeline_id": "TL_027",
+      "date": "2025-06-20",
+      "title": "Domain Switch Email Instruction",
+      "description": "Gee instructed to send email: 'don't use regima.zone only use regimaskin.co.za email', active customer diversion to fraudulent domain owned by Adderory",
+      "category": "customer_hijacking",
+      "event_type": "domain_diversion_instruction",
+      "phase": "exposure_phase",
+      "actors": [
+        "PERSON_009",
+        "DOMAIN_002",
+        "ORG_003",
+        "PERSON_002",
+        "DOMAIN_001",
+        "PERSON_005"
+      ],
+      "actor_names": [
+        "Gee",
+        "DOMAIN_002",
+        "RegimA Zone Ltd",
+        "Rynette Farrar",
+        "DOMAIN_001",
+        "Daniel James Faucitt"
+      ],
+      "financial_impact": "unknown",
+      "legal_significance": "active_customer_hijacking_and_revenue_diversion",
+      "evidence": [
+        "gee_email_instruction",
+        "domain_switch_email"
+      ],
+      "evidence_support": {},
+      "pattern": "consolidation_phase",
+      "source_event_id": "EVENT_027"
+    },
+    {
+      "timeline_id": "TL_079",
+      "date": "2025-06-20",
+      "title": "Rynette Farrar Dual Account Access - Peter Email Impersonation",
+      "description": "Sage user access screenshot reveals Rynette Farrar has two user accounts with access to RegimA Worldwide Distribution: Pete@regima.com (Peter's email) and rynette@regima.zone (her own email).",
+      "category": "",
+      "event_type": "",
+      "phase": "exposure_phase",
+      "actors": [
+        "PERSON_002",
+        "PERSON_001"
+      ],
+      "actor_names": [
+        "Rynette Farrar",
+        "Peter Andrew Faucitt"
+      ],
+      "financial_impact": "none",
+      "legal_significance": "",
+      "evidence": [],
+      "evidence_support": {
+        "primary_evidence": "SF2A - Sage Control User Access screenshot (20 June 2025)",
+        "evidence_strength": "strong",
+        "significance": "Proves Rynette has access to Peter's email and can impersonate him in accounting system"
+      },
+      "pattern": "",
+      "source_event_id": "EVENT_079"
+    },
+    {
+      "timeline_id": "TL_015",
+      "date": "2025-06-30",
+      "title": "Coordinated Fund Diversions",
+      "description": "Complex financial flow manipulation. Evidence of sophisticated financial crime coordination. Fund diversions targeted revenue from infrastructure continuously funded by RegimA Zone Ltd",
+      "category": "financial_manipulation",
+      "event_type": "fund_diversion",
+      "phase": "exposure_phase",
+      "actors": [
+        "PLATFORM_001",
+        "ORG_001",
+        "associates",
+        "multiple_accounts",
+        "PERSON_001",
+        "PERSON_002",
+        "PERSON_005"
+      ],
+      "actor_names": [
+        "Shopify Platform",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "associates",
+        "multiple_accounts",
+        "Peter Andrew Faucitt",
+        "Rynette Farrar",
+        "Daniel James Faucitt"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "evidence_of_sophisticated_financial_crime_coordination",
+      "evidence": [
+        "bank_transfer_records",
+        "financial_flow_analysis"
+      ],
+      "evidence_support": {},
+      "pattern": "consolidation_phase",
+      "source_event_id": "EVENT_015"
+    },
+    {
+      "timeline_id": "TL_016",
+      "date": "2025-07-08",
+      "title": "Warehouse POPI Violations",
+      "description": "Complete operational shutdown. Documented evidence of systematic business destruction. Shutdown of operations for platform continuously funded by RegimA Zone Ltd (28 months)",
+      "category": "revenue_theft",
+      "event_type": "operational_shutdown",
+      "phase": "exposure_phase",
+      "actors": [
+        "warehouse_operations",
+        "PLATFORM_001",
+        "ORG_001",
+        "customers",
+        "PERSON_001",
+        "PERSON_005"
+      ],
+      "actor_names": [
+        "warehouse_operations",
+        "Shopify Platform",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "customers",
+        "Peter Andrew Faucitt",
+        "Daniel James Faucitt"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "documented_evidence_of_systematic_business_destruction",
+      "evidence": [
+        "warehouse_records",
+        "popi_violation_documentation"
+      ],
+      "evidence_support": {},
+      "pattern": "control_seizure_phase",
+      "source_event_id": "EVENT_016"
+    },
+    {
+      "timeline_id": "TL_017",
+      "date": "2025-07-12",
+      "title": "Account Manipulation",
+      "description": "Financial control seizure. Documented evidence of financial system abuse and unauthorized control. Control seized over accounts receiving Shopify revenue from Dan's UK-paid platform",
+      "category": "financial_manipulation",
+      "event_type": "account_control_seizure",
+      "phase": "exposure_phase",
+      "actors": [
+        "bank_accounts",
+        "PLATFORM_001",
+        "ORG_001",
+        "PERSON_001",
+        "PERSON_005"
+      ],
+      "actor_names": [
+        "bank_accounts",
+        "Shopify Platform",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Peter Andrew Faucitt",
+        "Daniel James Faucitt"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "documented_evidence_of_financial_system_abuse_and_unauthorized_control",
+      "evidence": [
+        "account_access_logs",
+        "control_change_documentation"
+      ],
+      "evidence_support": {},
+      "pattern": "control_seizure_phase",
+      "source_event_id": "EVENT_017"
+    },
+    {
+      "timeline_id": "TL_078",
+      "date": "2025-07-23",
+      "title": "Sage Accounting System Subscription Expired",
+      "description": "Sage accounting system subscription for RegimA Worldwide Distribution expired. Rynette Farrar identified as subscription owner with sole control over reactivation.",
+      "category": "",
+      "event_type": "",
+      "phase": "exposure_phase",
+      "actors": [
+        "PERSON_002"
+      ],
+      "actor_names": [
+        "Rynette Farrar"
+      ],
+      "financial_impact": "none",
+      "legal_significance": "",
+      "evidence": [],
+      "evidence_support": {
+        "primary_evidence": "SF2B - Sage expiry notice screenshot (25 August 2025)",
+        "evidence_strength": "strong",
+        "significance": "Demonstrates obstruction of access to financial records for over 1 month"
+      },
+      "pattern": "",
+      "source_event_id": "EVENT_078"
+    },
+    {
+      "timeline_id": "TL_018",
+      "date": "2025-07-25",
+      "title": "Trust Asset Misappropriation",
+      "description": "Trust property theft. Documented theft of trust property and breach of fiduciary duty",
+      "category": "trust_violations",
+      "event_type": "asset_theft",
+      "phase": "exposure_phase",
+      "actors": [
+        "TRUST_001",
+        "trust_assets",
+        "beneficiaries",
+        "PERSON_001"
+      ],
+      "actor_names": [
+        "Family Trust",
+        "trust_assets",
+        "beneficiaries",
+        "Peter Andrew Faucitt"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "documented_theft_of_trust_property_and_breach_of_fiduciary_duty",
+      "evidence": [
+        "asset_transfer_records",
+        "trust_property_documentation"
+      ],
+      "evidence_support": {},
+      "pattern": "control_seizure_phase",
+      "source_event_id": "EVENT_018"
+    },
+    {
+      "timeline_id": "TL_019",
+      "date": "2025-08-10",
+      "title": "Trust Breach Evidence",
+      "description": "Complete compromise of trust integrity. Systematic evidence of ongoing trust law violations",
+      "category": "trust_violations",
+      "event_type": "ongoing_violations",
+      "phase": "response_phase",
+      "actors": [
+        "TRUST_001",
+        "beneficiaries",
+        "PERSON_001"
+      ],
+      "actor_names": [
+        "Family Trust",
+        "beneficiaries",
+        "Peter Andrew Faucitt"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "systematic_evidence_of_ongoing_trust_law_violations",
+      "evidence": [
+        "trust_violation_documentation",
+        "ongoing_breach_records"
+      ],
+      "evidence_support": {},
+      "pattern": "cover_up_phase",
+      "source_event_id": "EVENT_019"
+    },
+    {
+      "timeline_id": "TL_026",
+      "date": "2025-08-15",
+      "title": "Gee Email Explaining Domain Switch Instruction",
+      "description": "Email from Gee to Jax explaining that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email' on June 20, 2025. Confirms customer hijacking scheme.",
+      "category": "revenue_theft",
+      "event_type": "witness_testimony",
+      "phase": "response_phase",
+      "actors": [
+        "DOMAIN_002",
+        "PERSON_009"
+      ],
+      "actor_names": [
+        "DOMAIN_002",
+        "Gee"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "witness_testimony_confirming_customer_hijacking",
+      "evidence": [
+        "gee_email_to_jax"
+      ],
+      "evidence_support": {},
+      "pattern": "cover_up_phase",
+      "source_event_id": "EVENT_026"
+    },
+    {
+      "timeline_id": "TL_020",
+      "date": "2025-08-20",
+      "title": "Financial Evidence Concealment",
+      "description": "Cover-up operations demonstrating guilt. Consciousness of guilt through evidence destruction attempts. Cover-up attempt to conceal fact that RWD ZA has no independent revenue stream - all revenue from Dan's UK-funded Shopify platform",
+      "category": "financial_manipulation",
+      "event_type": "evidence_concealment",
+      "phase": "response_phase",
+      "actors": [
+        "PLATFORM_001",
+        "ORG_001",
+        "financial_records",
+        "coordinated_network",
+        "PERSON_005"
+      ],
+      "actor_names": [
+        "Shopify Platform",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "financial_records",
+        "coordinated_network",
+        "Daniel James Faucitt"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "consciousness_of_guilt_through_evidence_destruction_attempts",
+      "evidence": [
+        "concealment_documentation",
+        "evidence_destruction_records"
+      ],
+      "evidence_support": {},
+      "pattern": "cover_up_phase",
+      "source_event_id": "EVENT_020"
+    },
+    {
+      "timeline_id": "TL_021",
+      "date": "2025-09-11",
+      "title": "Accounts Emptied",
+      "description": "Accounts emptied, potentially because Daniel was still managing to pay creditors despite 6 months of sabotage",
+      "category": "financial_manipulation",
+      "event_type": "account_draining",
+      "phase": "response_phase",
+      "actors": [
+        "bank_accounts",
+        "ORG_001",
+        "PERSON_001",
+        "PERSON_002",
+        "PERSON_005"
+      ],
+      "actor_names": [
+        "bank_accounts",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Peter Andrew Faucitt",
+        "Rynette Farrar",
+        "Daniel James Faucitt"
+      ],
+      "financial_impact": "unknown_amount",
+      "legal_significance": "final_stage_of_financial_destruction",
+      "evidence": [
+        "bank_statements",
+        "account_balance_records"
+      ],
+      "evidence_support": {},
+      "pattern": "cover_up_phase",
+      "source_event_id": "EVENT_021"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2025-06-20",
+      "event_id": "EVENT_079",
+      "title": "Rynette Dual Account Access Discovered",
+      "description": "Discovery of Rynette's dual account access in Sage (Pete@regima.com AND rynette@regima.zone)",
+      "category": "identity_fraud",
+      "significance": "criminal",
+      "evidence": [
+        "SF2A"
+      ]
+    },
+    {
+      "date": "2025-07-23",
+      "event_id": "EVENT_078",
+      "title": "Sage Subscription Expired - Access Obstruction",
+      "description": "Sage accounting subscription expired, Rynette controls reactivation, all parties denied access for over 1 month",
+      "category": "obstruction_of_access",
+      "significance": "section_163_oppression",
+      "evidence": [
+        "SF2B"
+      ]
+    },
+    {
+      "date": "2025-10-23",
+      "event_id": "EVENT_080",
+      "title": "R63M Formal Demand by Ian Levitt Attorneys",
+      "description": "Attorney letter demanding R60.25M revenue + $150K platform fees, total ~R63M, 48-hour deadline (ignored)",
+      "category": "legal_action",
+      "significance": "quantum_establishment",
+      "evidence": [
+        "SF9"
+      ]
+    }
+  ]
+}

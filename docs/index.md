@@ -1,7 +1,7 @@
 # Revenue Stream Hijacking Case 2025-137857
 ## Evidence-Based Documentation Portal
 
-**Last Updated:** 2025-12-09 02:47:14
+**Last Updated:** 2025-12-09 05:37:02
 **Evidence Repository:** [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)  
 **Total Evidence Files:** 2,866  
 **Total Annexures:** 12 (JF1-JF12, SF1-SF8)
@@ -254,3 +254,42 @@
 ---
 
 *This documentation portal is automatically generated and updated with evidence cross-references from the ad-res-j7 repository.*
+
+---
+
+##  Entity Relationship Diagram
+
+```mermaid
+graph TD;
+    subgraph "Ownership Relations"
+        PERSON_005[PERSON_005] -->|owns| ORG_003[ORG_003];
+        ORG_003[ORG_003] -->|owns| PLATFORM_001[PLATFORM_001];
+        ORG_003[ORG_003] -->|owns| DOMAIN_001[DOMAIN_001];
+        PERSON_003[PERSON_003] -->|owns| DOMAIN_002[DOMAIN_002];
+        director[director] -->|partial_ownership| ORG_002[ORG_002];
+        director[director] -->|partial_ownership| ORG_005[ORG_005];
+        PERSON_001,PERSON_005[PERSON_001,PERSON_005] -->|owns| ORG_012[ORG_012];
+    end
+    subgraph "Control Relations"
+        PERSON_001[PERSON_001] -->|directorial_control| ORG_001[ORG_001];
+        PERSON_002[PERSON_002] -->|financial_controller| financial_systems[financial_systems];
+        PERSON_005[PERSON_005] -->|platform_operator| PLATFORM_001[PLATFORM_001];
+        PERSON_004[PERSON_004] -->|platform_operator| PLATFORM_001[PLATFORM_001];
+        PERSON_001[PERSON_001] -->|fiduciary_control| TRUST_001[TRUST_001];
+        [] -->|controls_as_director| [];
+        [] -->|controls_as_director| [];
+        [] -->|controls_sage_accounting| [];
+        PERSON_002[PERSON_002] -->|controls_bank_account| BANK_ACCOUNT_001[BANK_ACCOUNT_001];
+        PERSON_001[PERSON_001] -->|controls_bank_account| BANK_ACCOUNT_002[BANK_ACCOUNT_002];
+        PERSON_002[PERSON_002] -->|subscription_ownership| SAGE_SUBSCRIPTION[SAGE_SUBSCRIPTION];
+    end
+    subgraph "Conspiracy Relations"
+        PERSON_001[PERSON_001] ---|co-conspirators| PERSON_002[PERSON_002];
+        PERSON_002[PERSON_002] ---|co-conspirators| PERSON_003[PERSON_003];
+        PERSON_001[PERSON_001] ---|co-conspirators| associates[associates];
+        PERSON_007[PERSON_007] ---|co-conspirators| PERSON_001[PERSON_001];
+    end
+    subgraph "Access & Impersonation Relations"
+        PERSON_002[PERSON_002] -->|impersonates| PERSON_001[PERSON_001];
+    end
+```
