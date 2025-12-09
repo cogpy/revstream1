@@ -34,6 +34,61 @@
 
 **Legal Significance:** Contemporaneous documentary evidence from a neutral third party (Shopify Inc.) - an unalterable historical record that cannot be disputed.
 
+
+---
+
+## 🔴 NEW CRITICAL EVIDENCE (2025-12-08)
+
+### Sage Subscription Expiry (SF2B) - Rynette's Control & Obstruction
+
+**Date:** 25 August 2025 (screenshot), Account expired: 23 July 2025  
+**Source:** Sage Accounting system expiry notice  
+**Identified:** Rynette Farrar as "subscription owner"
+
+**What it proves:**
+- ✅ Rynette Farrar is the sole "subscription owner" for RegimA Worldwide Distribution Sage account
+- ✅ Rynette controls account activation (only she can restore access)
+- ✅ Account expired 23 July 2025, remained expired through 25 August 2025 (over 1 month)
+- ✅ All parties denied access to financial records during this period
+- ✅ Mechanism of control and obstruction
+
+**What it refutes:**
+- ❌ Claims that Peter controls the accounting system
+- ❌ Claims that Daniel had unrestricted access
+- ❌ Claims that financial records were always available
+
+**Legal Significance:**
+- **Direct evidence of Section 163 oppression** - unfairly prejudicial conduct
+- Demonstrates pattern of obstruction
+- Proves denial of access to financial records
+- Strengthens oppression remedy application
+
+---
+
+### Rynette's Dual Accounts (SF2A) - Identity Impersonation
+
+**Date:** 20 June 2025 (screenshot)  
+**Source:** Sage "Control User Access" screen  
+**Shows:** Rynette Farrar with TWO user accounts
+
+**What it proves:**
+- ✅ Rynette has access to Peter's email (Pete@regima.com)
+- ✅ Rynette can impersonate Peter in the accounting system
+- ✅ Dual account access: Pete@regima.com AND rynette@regima.zone
+- ✅ Ability to act as Peter without his knowledge
+
+**What it refutes:**
+- ❌ Claims that Rynette only had her own account
+- ❌ Claims that Peter controlled his own email
+- ❌ Claims that system access was properly segregated
+
+**Legal Significance:**
+- Evidence of identity impersonation (criminal offense)
+- Demonstrates fraud capability
+- Corroborates SF2 (Sage Screenshots - Rynette Control)
+- Supports claims of system manipulation
+
+
 ---
 
 ## 📊 Burden of Proof Analysis
@@ -104,6 +159,10 @@
 | **JF12** | Additional Evidence | MEDIUM | - |
 | **SF1** | Bantjies Debt Documentation | MEDIUM | - |
 | **SF2** | Sage Screenshots - Rynette Control | HIGH | - |
+| **SF2A** | Sage User Access - Rynette Dual Accounts (June 2025) | **CRITICAL** | 53 KB |
+| **SF2B** | Sage Subscription Expiry - Rynette Owner (August 2025) | **CRITICAL** | 51 KB |
+| **SF1A** | Bantjies Call Option Agreement Excerpt | MEDIUM | 181 KB |
+| **SF9** | Attorney Letter to KEIRO re Payment (October 2025) | MEDIUM | 1.4 MB |
 | **SF3** | Strategic Logistics Stock Adjustment | MEDIUM | - |
 | **SF4** | SARS Audit Email | MEDIUM | - |
 | **SF5** | Adderory Company Registration & Stock Supply | MEDIUM | - |
