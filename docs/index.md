@@ -89,6 +89,38 @@
 - Supports claims of system manipulation
 
 
+
+---
+
+## 🔴 NEW CRITICAL EVIDENCE (2025-12-08) - SF9 Attorney Letter
+
+### R63M Revenue Hijacking Quantum Established
+
+**Annexure:** SF9  
+**Date:** 23 October 2025  
+**Source:** Ian Levitt Attorneys (representing Jacqui Faucitt)  
+**To:** Elliot Attorneys Inc (representing Peter Faucitt)
+
+**What it proves:**
+- ✅ **R60,251,961.60** revenue outstanding from RegimA Worldwide Distribution
+- ✅ **$150,000** in platform fees outstanding
+- ✅ **Total: ~R63M**
+- ✅ **Source:** Emma Wallis (RegimA Zone UK)
+- ✅ **Period:** July 2023 - October 2025 (27 months)
+- ✅ **Formal demand** with 48-hour deadline (ignored)
+
+**What it refutes:**
+- ❌ Claims that Peter is owed money (he owes R63M)
+- ❌ Claims that Daniel doesn't have independent business operations
+- ❌ Claims that RWW owns the Shopify stores
+
+**Legal Significance:**
+- **Attorney-documented quantum** for all claims
+- **Corroborates JF1** "Forensic Time Capsule" (Shopify ownership)
+- **Establishes pattern** of financial misconduct
+- **Formal demand** creates legal obligation
+
+
 ---
 
 ## 📊 Burden of Proof Analysis

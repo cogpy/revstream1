@@ -3,7 +3,31 @@
 **ID Number:** 820430 5708 18 5  
 **Role:** Primary Perpetrator  
 **Agent Type:** Antagonist  
-**Legal Scenario Mapping:** Director AB - dual director of Company A (RST) and Company B (RegimA SA)
+**Legal Scenario Mapping:** Director AB
+
+---
+
+## 🔴 NEW CRITICAL EVIDENCE (2025-12-08) - SF9 Attorney Letter
+
+### R63M Liability to RegimA Zone UK
+
+**Annexure:** SF9  
+**Date:** 23 October 2025
+
+**What it proves:**
+- **R60,251,961.60** revenue outstanding from RegimA Worldwide Distribution
+- **$150,000** in platform fees outstanding
+- **Total: ~R63M**
+- **Period:** July 2023 - October 2025 (27 months)
+- **Formal demand** with 48-hour deadline (ignored)
+
+**Legal Significance:**
+- **Attorney-documented quantum** for theft and damages
+- **Establishes Peter as debtor** (owes R63M), not creditor
+- **Corroborates JF1** (Shopify ownership)
+- **Pattern of financial misconduct**
+
+ - dual director of Company A (RST) and Company B (RegimA SA)
 
 ---
 
