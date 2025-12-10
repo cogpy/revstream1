@@ -1,243 +1,217 @@
 #!/usr/bin/env python3
 """
-Analyze and refine entities, relations, events, and timelines for case 2025-137857
+Analyze and refine entities, relations, events, and timelines
+Cross-reference with ad-res-j7 evidence repository
 """
 import json
 import os
 from datetime import datetime
-from collections import defaultdict
+from pathlib import Path
 
 # Paths
-BASE_DIR = "/home/ubuntu/revstream1"
-ENTITIES_FILE = f"{BASE_DIR}/data_models/entities/entities_final_corrected_2025_12_05.json"
-RELATIONS_FILE = f"{BASE_DIR}/data_models/relations/relations_refined_2025_12_05_v21.json"
-EVENTS_FILE = f"{BASE_DIR}/data_models/events/events_refined_2025_12_06_v28.json"
-TIMELINE_FILE = f"{BASE_DIR}/data_models/timelines/timeline_refined_2025_12_06_v19.json"
+ENTITIES_FILE = "data_models/entities/entities_sf10_integrated_2025_12_09.json"
+RELATIONS_FILE = "data_models/relations/relations_refined_2025_12_09_v23.json"
+EVENTS_FILE = "data_models/events/events_refined_2025_12_09_v33.json"
+TIMELINE_FILE = "data_models/timelines/timeline_refined_2025_12_09_v22.json"
+AD_RES_J7_PATH = "/home/ubuntu/ad-res-j7"
 
 def load_json(filepath):
     """Load JSON file"""
     with open(filepath, 'r') as f:
         return json.load(f)
 
-def extract_financial_amount(financial_impact):
-    """Extract financial amount from various formats"""
-    if not financial_impact:
-        return 0
-    
-    if isinstance(financial_impact, str):
-        # Direct string amount
-        try:
-            return float(financial_impact.replace('R', '').replace(',', '').strip())
-        except:
-            return 0
-    elif isinstance(financial_impact, dict):
-        # Dictionary with amount field
-        amount = financial_impact.get('amount', '0')
-        if isinstance(amount, str):
-            try:
-                return float(amount.replace('R', '').replace(',', '').strip())
-            except:
-                return 0
-        elif isinstance(amount, (int, float)):
-            return float(amount)
-    
-    return 0
+def save_json(data, filepath):
+    """Save JSON file with formatting"""
+    with open(filepath, 'w') as f:
+        json.dump(data, f, indent=2)
+    print(f"Saved: {filepath}")
 
 def analyze_entities(entities_data):
-    """Analyze entities structure and completeness"""
-    print("=" * 80)
-    print("ENTITIES ANALYSIS")
-    print("=" * 80)
+    """Analyze entities for completeness and evidence support"""
+    issues = []
+    improvements = []
     
-    metadata = entities_data.get('metadata', {})
-    print(f"\nVersion: {metadata.get('version', 'N/A')}")
-    print(f"Last Updated: {metadata.get('last_updated', 'N/A')}")
-    print(f"Case Number: {metadata.get('case_number', 'N/A')}")
+    persons = entities_data.get('entities', {}).get('persons', [])
+    organizations = entities_data.get('entities', {}).get('organizations', [])
     
-    entities = entities_data.get('entities', {})
-    persons = entities.get('persons', [])
-    orgs = entities.get('organizations', [])
+    print(f"\n=== ENTITIES ANALYSIS ===")
+    print(f"Total Persons: {len(persons)}")
+    print(f"Total Organizations: {len(organizations)}")
     
-    print(f"\nTotal Persons: {len(persons)}")
-    print(f"Total Organizations: {len(orgs)}")
+    # Check for missing evidence support
+    for person in persons:
+        entity_id = person.get('entity_id')
+        name = person.get('name')
+        evidence_support = person.get('evidence_support', {})
+        
+        if not evidence_support or not evidence_support.get('evidence_refs'):
+            issues.append(f"{entity_id} ({name}): Missing evidence references")
+        
+        # Check for criminal liability documentation
+        if person.get('agent_type') == 'antagonist':
+            if not person.get('criminal_liability'):
+                improvements.append(f"{entity_id} ({name}): Add criminal liability assessment")
     
-    # Analyze key persons
-    print("\n--- Key Persons ---")
-    for person in persons[:5]:
-        print(f"  {person.get('entity_id')}: {person.get('name')} - {person.get('role')}")
-        print(f"    Events: {person.get('involvement_events', 0)}")
-        print(f"    Financial Impact: {person.get('financial_impact', {}).get('direct_involvement', 'N/A')}")
-    
-    return {
-        'total_persons': len(persons),
-        'total_orgs': len(orgs),
-        'persons': persons,
-        'orgs': orgs
-    }
+    return issues, improvements
 
 def analyze_relations(relations_data):
-    """Analyze relations structure and completeness"""
-    print("\n" + "=" * 80)
-    print("RELATIONS ANALYSIS")
-    print("=" * 80)
+    """Analyze relations for completeness"""
+    issues = []
+    improvements = []
     
-    metadata = relations_data.get('metadata', {})
-    print(f"\nVersion: {metadata.get('version', 'N/A')}")
-    print(f"Last Updated: {metadata.get('last_updated', 'N/A')}")
+    print(f"\n=== RELATIONS ANALYSIS ===")
     
-    relations = relations_data.get('relations', {})
+    for category, relations in relations_data.get('relations', {}).items():
+        print(f"{category}: {len(relations)} relations")
+        
+        for rel in relations:
+            rel_id = rel.get('relation_id')
+            
+            # Check for evidence
+            if not rel.get('evidence') and not rel.get('ad_res_j7_references'):
+                issues.append(f"{rel_id}: Missing evidence documentation")
+            
+            # Check for SF evidence integration
+            evidence = rel.get('evidence', [])
+            if not any('SF' in str(e) for e in evidence):
+                improvements.append(f"{rel_id}: Consider adding SF evidence references")
     
-    # Count relations by type
-    relation_types = {}
-    total_relations = 0
-    
-    for rel_type, rel_list in relations.items():
-        count = len(rel_list) if isinstance(rel_list, list) else 0
-        relation_types[rel_type] = count
-        total_relations += count
-    
-    print(f"\nTotal Relations: {total_relations}")
-    print("\n--- Relations by Type ---")
-    for rel_type, count in sorted(relation_types.items(), key=lambda x: x[1], reverse=True):
-        print(f"  {rel_type}: {count}")
-    
-    return {
-        'total_relations': total_relations,
-        'relation_types': relation_types,
-        'relations': relations
-    }
+    return issues, improvements
 
 def analyze_events(events_data):
-    """Analyze events structure and completeness"""
-    print("\n" + "=" * 80)
-    print("EVENTS ANALYSIS")
-    print("=" * 80)
-    
-    metadata = events_data.get('metadata', {})
-    print(f"\nVersion: {metadata.get('version', 'N/A')}")
-    print(f"Last Updated: {metadata.get('last_updated', 'N/A')}")
+    """Analyze events for completeness and chronology"""
+    issues = []
+    improvements = []
     
     events = events_data.get('events', [])
-    print(f"\nTotal Events: {len(events)}")
+    print(f"\n=== EVENTS ANALYSIS ===")
+    print(f"Total Events: {len(events)}")
     
-    # Analyze event categories
-    categories = defaultdict(int)
-    financial_events = 0
-    total_financial_impact = 0
-    
+    # Check chronological order
+    dates = []
     for event in events:
-        for cat in event.get('categories', []):
-            categories[cat] += 1
+        event_id = event.get('event_id')
+        date = event.get('date')
         
-        if event.get('financial_impact'):
-            financial_events += 1
-            amount = extract_financial_amount(event.get('financial_impact'))
-            total_financial_impact += amount
+        if date:
+            dates.append((date, event_id))
+        else:
+            issues.append(f"{event_id}: Missing date")
+        
+        # Check evidence support
+        if not event.get('evidence') and not event.get('evidence_support'):
+            issues.append(f"{event_id}: Missing evidence")
+        
+        # Check for financial impact quantification
+        if event.get('category') in ['revenue_theft', 'financial_manipulation', 'transfer_pricing_fraud']:
+            if event.get('financial_impact') == 'unknown_amount':
+                improvements.append(f"{event_id}: Quantify financial impact if possible")
     
-    print(f"\nEvents with Financial Impact: {financial_events}")
-    print(f"Total Financial Impact: R{total_financial_impact:,.2f}")
+    # Check if sorted
+    sorted_dates = sorted(dates, key=lambda x: x[0])
+    if dates != sorted_dates:
+        issues.append("Events not in chronological order")
     
-    print("\n--- Top Event Categories ---")
-    for cat, count in sorted(categories.items(), key=lambda x: x[1], reverse=True)[:10]:
-        print(f"  {cat}: {count}")
-    
-    # Check evidence references
-    events_with_evidence = sum(1 for e in events if e.get('evidence_references'))
-    events_with_ad_res_j7 = sum(1 for e in events if e.get('ad_res_j7_cross_references'))
-    
-    print(f"\nEvents with Evidence References: {events_with_evidence}/{len(events)}")
-    print(f"Events with ad-res-j7 Cross-References: {events_with_ad_res_j7}/{len(events)}")
-    
-    return {
-        'total_events': len(events),
-        'financial_events': financial_events,
-        'total_financial_impact': total_financial_impact,
-        'events': events,
-        'categories': dict(categories)
-    }
+    return issues, improvements
 
 def analyze_timeline(timeline_data):
-    """Analyze timeline structure and completeness"""
-    print("\n" + "=" * 80)
-    print("TIMELINE ANALYSIS")
-    print("=" * 80)
+    """Analyze timeline for gaps and improvements"""
+    issues = []
+    improvements = []
+    
+    timeline_entries = timeline_data.get('timeline_entries', [])
+    print(f"\n=== TIMELINE ANALYSIS ===")
+    print(f"Total Timeline Entries: {len(timeline_entries)}")
     
     metadata = timeline_data.get('metadata', {})
-    print(f"\nVersion: {metadata.get('version', 'N/A')}")
-    print(f"Last Updated: {metadata.get('last_updated', 'N/A')}")
+    print(f"Date Range: {metadata.get('date_range', {}).get('start')} to {metadata.get('date_range', {}).get('end')}")
     
-    timeline_events = timeline_data.get('timeline_events', [])
-    print(f"\nTotal Timeline Events: {len(timeline_events)}")
+    # Check for evidence support in each entry
+    for entry in timeline_entries:
+        tl_id = entry.get('timeline_id')
+        
+        if not entry.get('evidence') and not entry.get('evidence_support'):
+            issues.append(f"{tl_id}: Missing evidence support")
+        
+        # Check for actor identification
+        if not entry.get('actors') and not entry.get('actor_names'):
+            improvements.append(f"{tl_id}: Add actor identification")
     
-    # Analyze date ranges
-    dates = []
-    for event in timeline_events:
-        date_str = event.get('date')
-        if date_str:
-            try:
-                dates.append(datetime.strptime(date_str, '%Y-%m-%d'))
-            except:
-                pass
+    return issues, improvements
+
+def check_sf_evidence_integration():
+    """Check which SF evidence files exist in ad-res-j7"""
+    sf_evidence = {}
+    annexures_path = Path(AD_RES_J7_PATH) / "ANNEXURES"
     
-    if dates:
-        print(f"Date Range: {min(dates).strftime('%Y-%m-%d')} to {max(dates).strftime('%Y-%m-%d')}")
-        print(f"Duration: {(max(dates) - min(dates)).days} days")
+    if annexures_path.exists():
+        for item in annexures_path.iterdir():
+            if item.name.startswith('SF'):
+                sf_evidence[item.name] = str(item)
     
-    return {
-        'total_timeline_events': len(timeline_events),
-        'timeline_events': timeline_events
-    }
+    print(f"\n=== SF EVIDENCE IN AD-RES-J7 ===")
+    for sf_name in sorted(sf_evidence.keys()):
+        print(f"  {sf_name}")
+    
+    return sf_evidence
 
 def main():
     """Main analysis function"""
-    print("Starting comprehensive data model analysis...")
-    print(f"Timestamp: {datetime.now().isoformat()}\n")
+    print("=" * 80)
+    print("REVSTREAM1 DATA MODEL ANALYSIS")
+    print("=" * 80)
     
-    # Load all data
+    # Load data
     entities_data = load_json(ENTITIES_FILE)
     relations_data = load_json(RELATIONS_FILE)
     events_data = load_json(EVENTS_FILE)
     timeline_data = load_json(TIMELINE_FILE)
     
     # Analyze each component
-    entities_analysis = analyze_entities(entities_data)
-    relations_analysis = analyze_relations(relations_data)
-    events_analysis = analyze_events(events_data)
-    timeline_analysis = analyze_timeline(timeline_data)
+    entity_issues, entity_improvements = analyze_entities(entities_data)
+    relation_issues, relation_improvements = analyze_relations(relations_data)
+    event_issues, event_improvements = analyze_events(events_data)
+    timeline_issues, timeline_improvements = analyze_timeline(timeline_data)
     
-    # Generate summary report
-    print("\n" + "=" * 80)
-    print("SUMMARY REPORT")
-    print("=" * 80)
-    print(f"\nTotal Entities: {entities_analysis['total_persons'] + entities_analysis['total_orgs']}")
-    print(f"  - Persons: {entities_analysis['total_persons']}")
-    print(f"  - Organizations: {entities_analysis['total_orgs']}")
-    print(f"\nTotal Relations: {relations_analysis['total_relations']}")
-    print(f"Total Events: {events_analysis['total_events']}")
-    print(f"Total Timeline Events: {timeline_analysis['total_timeline_events']}")
-    print(f"\nFinancial Impact: R{events_analysis['total_financial_impact']:,.2f}")
+    # Check SF evidence
+    sf_evidence = check_sf_evidence_integration()
     
-    # Save analysis report
+    # Compile report
     report = {
-        'timestamp': datetime.now().isoformat(),
-        'case_number': '2025-137857',
-        'summary': {
-            'total_entities': entities_analysis['total_persons'] + entities_analysis['total_orgs'],
-            'total_persons': entities_analysis['total_persons'],
-            'total_orgs': entities_analysis['total_orgs'],
-            'total_relations': relations_analysis['total_relations'],
-            'total_events': events_analysis['total_events'],
-            'total_timeline_events': timeline_analysis['total_timeline_events'],
-            'total_financial_impact': events_analysis['total_financial_impact']
-        }
+        "analysis_date": datetime.now().isoformat(),
+        "summary": {
+            "total_issues": len(entity_issues) + len(relation_issues) + len(event_issues) + len(timeline_issues),
+            "total_improvements": len(entity_improvements) + len(relation_improvements) + len(event_improvements) + len(timeline_improvements)
+        },
+        "entities": {
+            "issues": entity_issues,
+            "improvements": entity_improvements
+        },
+        "relations": {
+            "issues": relation_issues,
+            "improvements": relation_improvements
+        },
+        "events": {
+            "issues": event_issues,
+            "improvements": event_improvements
+        },
+        "timeline": {
+            "issues": timeline_issues,
+            "improvements": timeline_improvements
+        },
+        "sf_evidence_available": list(sf_evidence.keys())
     }
     
-    report_file = f"{BASE_DIR}/ANALYSIS_REPORT_{datetime.now().strftime('%Y_%m_%d')}.json"
-    with open(report_file, 'w') as f:
-        json.dump(report, f, indent=2)
+    # Save report
+    save_json(report, "ANALYSIS_REPORT_2025_12_10.json")
     
-    print(f"\nAnalysis report saved to: {report_file}")
-    return report
+    # Print summary
+    print(f"\n{'=' * 80}")
+    print("ANALYSIS SUMMARY")
+    print(f"{'=' * 80}")
+    print(f"Total Issues: {report['summary']['total_issues']}")
+    print(f"Total Improvement Opportunities: {report['summary']['total_improvements']}")
+    print(f"\nDetailed report saved to: ANALYSIS_REPORT_2025_12_10.json")
 
 if __name__ == "__main__":
     main()

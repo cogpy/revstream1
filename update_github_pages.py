@@ -1,393 +1,284 @@
 #!/usr/bin/env python3
 """
-Update GitHub Pages with refined data models and enhanced evidence references
+Update GitHub Pages documentation with latest evidence and filings
 """
-
-import json
 from datetime import datetime
 from pathlib import Path
 
-REVSTREAM_ROOT = Path("/home/ubuntu/revstream1")
-DOCS_DIR = REVSTREAM_ROOT / "docs"
+def write_file(filepath, content):
+    """Write text file"""
+    with open(filepath, 'w') as f:
+        f.write(content)
+    print(f"Updated: {filepath}")
 
-def create_updated_index():
-    """Create updated index.md for GitHub Pages"""
+def update_index():
+    """Update main index page"""
     
-    content = """---
-layout: default
-title: Home
----
+    content = f"""# Revenue Stream Hijacking Case 2025-137857
+## Evidence-Based Legal Documentation Portal
 
-# Revenue Stream Hijacking Case 2025-137857
-
-## Executive Summary
-
-This documentation repository provides comprehensive evidence and analysis of the systematic hijacking of revenue streams in the RegimA business operations case. The case involves **three sequential interdict applications** filed over a 6-month period (March-November 2025), documenting **R10,269,727.90** in total losses.
-
-### Critical Revelation
-
-The **Shopify platform** has been owned and paid for since **July 2023** by Daniel Faucitt's independent UK entity **RegimA Zone Ltd** (28+ months, R140K-R280K total investment).
-
-**Key Implication:** RWD ZA has no independent revenue stream - all revenues were generated through infrastructure owned, paid for, and operated by Daniel's UK company.
+**Last Updated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}  
+**Case Status:** Active Legal Proceedings  
+**Evidence Strength:** STRONG (Civil 50%+ / Criminal 95%+)
 
 ---
 
-## Case Overview
+## 🎯 Quick Navigation
 
-| **Metric** | **Value** |
-|------------|-----------|
-| **Case Number** | 2025-137857 |
-| **Case Name** | Peter Faucitt v. Jacqueline Faucitt et al. |
-| **Data Model Version** | v24.0 (Events), v20.0 (Relations), v22.0 (Entities) |
-| **Last Updated** | 2025-11-28 |
-| **Total Entities** | 32 (12 persons, 11 organizations) |
-| **Total Events** | 77 (spanning 2017-2025) |
-| **Total Timeline Phases** | 8 phases |
-| **Total Relations** | 66 (22 relation types) |
-| **Events with Financial Impact** | 54 |
-| **Revenue Theft** | R3,141,647.70 |
-| **Trust Violations** | R2,851,247.35 |
-| **Financial Manipulation** | R4,276,832.85 |
-| **Total Documented Losses** | R10,269,727.90 |
-| **Evidence Files** | 21,974 files across repositories |
+### Evidence & Analysis
+- [**Legal Filings Summary**](../LEGAL_FILINGS_SUMMARY_2025_12_10.md) - Comprehensive overview of all filings
+- [**Burden of Proof Assessment**](../BURDEN_OF_PROOF_ASSESSMENT_2025_12_10.json) - Detailed threshold analysis
+- [**Evidence Index**](evidence-index-enhanced.html) - Complete evidence catalog
+- [**Timeline Visualization**](timeline.html) - Interactive case timeline
 
----
+### Data Models (Updated 2025-12-10)
+- [**Entities**](../data_models/entities/entities_refined_2025_12_10_v14.json) - All persons and organizations (v14)
+- [**Relations**](../data_models/relations/relations_refined_2025_12_10_v24.json) - Entity relationships (v24)
+- [**Events**](../data_models/events/events_refined_2025_12_10_v34.json) - Chronological events (v34)
+- [**Timeline**](../data_models/timelines/timeline_refined_2025_12_10_v23.json) - Timeline entries (v23)
 
-## Latest Updates (2025-11-28)
+### Legal Filings (Updated 2025-12-10)
 
-### Data Model Refinements
-- ✅ **Events v24.0**: Fixed 4 missing dates, added 8 entity linkages, enhanced 11 evidence references
-- ✅ **Relations v20.0**: Fixed 7 missing source/target entities
-- ✅ **30 Total Refinements**: Comprehensive improvements across all data models
+#### Civil Actions (50% Burden of Proof - EXCEEDED)
+- [**Answering Affidavit**](../ANSWERING_AFFIDAVIT_REFINED_2025_12_10.md) - Main civil response
+- [**CIPC Complaint**](../CIPC_COMPLAINT_REFINED_2025_12_10.md) - Companies Act violations
 
-### Legal Filings Enhanced
-- ✅ **CIPC Complaint v2.0**: Enhanced with burden of proof analysis, 7 improvements
-- ✅ **POPIA Complaint v2.0**: Enhanced with criminal elements analysis, 7 improvements
-
-### Evidence Cross-Reference
-- ✅ **ANNEXURES**: 277 files (268 JF evidence items)
-- ✅ **case_2025_137857**: 259 files
-- ✅ **FINAL_AFFIDAVIT_PACKAGE**: 270 files
-- ✅ **evidence**: 492 files
+#### Criminal Actions (95% Burden of Proof - ACHIEVABLE)
+- [**Commercial Crime Submission**](../COMMERCIAL_CRIME_REFINED_2025_12_10.md) - Theft R63M + Identity Impersonation
+- [**POPIA Complaint**](../POPIA_COMPLAINT_REFINED_2025_12_10.md) - Data protection violations
+- [**NPA Tax Fraud Report**](../NPA_TAX_FRAUD_REPORT_2025_12_10.md) - R63M+ undeclared revenue
 
 ---
 
-## Data Model Files
+## 📊 Case Overview
 
-Access the latest refined data models:
+### Key Perpetrators
 
-- **[Entities v22.0](../data_models/entities/entities_refined_2025_11_27_v22.json)** - 32 entities (12 persons, 11 organizations)
-- **[Events v24.0](../data_models/events/events_refined_2025_11_28_v24.json)** - 77 events across 8 phases (2017-2025)
-- **[Relations v20.0](../data_models/relations/relations_refined_2025_11_28_v20.json)** - 66 relations across 22 types
-- **[Timeline v11.0](../data_models/timelines/timeline_refined_2025_11_26_v11.json)** - 8 phases spanning 2017-2025
+| Perpetrator | Criminal Claims (95%) | Civil Claims (50%) | Evidence Strength |
+|-------------|----------------------|-------------------|-------------------|
+| **Peter Faucitt** | Theft R63M | Trust breach, Unauthorized transfers | **STRONG** |
+| **Rynette Farrar** | Identity impersonation | Payment redirection, Obstruction | **STRONG** |
+| **Danie Bantjies** | - | Conspiracy, Conflict of interest | **MODERATE** |
 
----
+### Financial Impact
 
-## Enhanced Legal Filings
-
-### CIPC Companies Act Complaint
-**[CIPC Complaint v2.0 (Enhanced)](../CIPC_COMPLAINT_ENHANCED_2025_11_28.md)**
-- Updated to data model v24.0
-- Added burden of proof analysis (Civil ✅ EXCEEDED, Criminal ✅ MET)
-- Enhanced evidence links with 11 new references
-- Expanded financial impact breakdown
-- GitHub Pages references for all events
-
-### POPIA Criminal Complaint
-**[POPIA Complaint v2.0 (Enhanced)](../POPIA_COMPLAINT_ENHANCED_2025_11_28.md)**
-- Updated to data model v24.0
-- Added criminal elements analysis
-- Enhanced email evidence with 6 event references
-- Added burden of proof analysis (Criminal ✅ MET)
-- Expanded impact assessment
+| Category | Amount | Evidence |
+|----------|--------|----------|
+| **Revenue Theft** | R63M+ | SF9, JF1, JF2 |
+| **Unauthorized Transfers** | R900K | Bank records |
+| **Payment Redirection** | R4.3M | SF2, JF7, JF9 |
+| **Total Documented** | **R68M+** | Multiple sources |
 
 ---
 
-## Evidence Repository
+## 🔍 Evidence Classification
 
-### Primary Evidence Repository
-**URL:** [https://github.com/cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)
+### CRITICAL Evidence (Must-Review)
+| Annexure | Description | Impact | Size |
+|----------|-------------|--------|------|
+| **JF1** | Shopify Plus Email (26 July 2017) - THE FORENSIC TIME CAPSULE | Proves ownership | 100 KB |
+| **SF2A** | Sage User Access - Rynette Dual Accounts (June 2025) | Identity impersonation | 53 KB |
+| **SF2B** | Sage Subscription Expiry - Rynette Owner (August 2025) | Obstruction of access | 51 KB |
+| **SF9** | Attorney Letter to KEIRO re R63M Payment (October 2025) | Theft quantum | 1.4 MB |
 
-**Total Files:** 2,866 files (226.78 MB)
+### HIGH Priority Evidence
+| Annexure | Description | Priority | Size |
+|----------|-------------|----------|------|
+| **JF2** | Shopify Sales Reports | HIGH | 3.3 MB |
+| **JF3** | Financial Records and Analysis | HIGH | 572 KB |
+| **JF4** | Daniel Faucitt Personal Bank Records | HIGH | 812 KB |
+| **JF6** | Court Documents and Filings | HIGH | 7.4 MB |
+| **JF8** | Evidence Packages (May-October 2025) | HIGH | 5.8 MB |
+| **JF9** | Timeline Analysis | HIGH | 128 KB |
+| **JF10** | Legal Analysis and Opinions | HIGH | - |
+| **SF6** | Kayla Pretorius Estate Documentation | HIGH | - |
+| **SF7** | Court Order - Kayla Email Seizure | HIGH | - |
 
-**Key Evidence Directories:**
-- **ANNEXURES/JF01-JF08**: Primary evidence annexures (277 files)
-- **case_2025_137857**: Case-specific evidence (259 files)
-- **FINAL_AFFIDAVIT_PACKAGE**: Affidavit evidence (270 files)
-- **evidence**: Supporting evidence (492 files)
-
-**Comprehensive Evidence Index:** 
-[COMPREHENSIVE_EVIDENCE_INDEX.md](https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md)
-
----
-
-## Timeline Phases
-
-### Phase 0: Historical Foundation (2017-2019)
-- **Events:** 14 events
-- **Focus:** Business relationship establishment
-- **Key Events:** EVENT_H001-H009, EVENT_071-072
-
-### Phase 1: Revenue Stream Hijacking Begins (2019-2021)
-- **Events:** 5 events
-- **Focus:** Initial unauthorized transfers
-- **Key Events:** EVENT_001-003, EVENT_024-025
-
-### Phase 2: Systematic Manipulation (2021-2022)
-- **Events:** 5 events
-- **Focus:** Financial manipulation patterns
-- **Key Events:** EVENT_004-005, EVENT_029, EVENT_055-056
-
-### Phase 3: Identity Fraud and Domain Registration (2022-2023)
-- **Events:** 6 events
-- **Focus:** Domain fraud, identity theft
-- **Key Events:** EVENT_006-010, EVENT_050
-
-### Phase 4: Shopify Platform Control (2023-2024)
-- **Events:** 11 events
-- **Focus:** Platform ownership revelation
-- **Key Events:** EVENT_011-015, EVENT_026-027, EVENT_047, EVENT_057-058, EVENT_062
-
-### Phase 5: POPIA Violations and Data Misuse (2024-2025)
-- **Events:** 9 events
-- **Focus:** Unauthorized data access
-- **Key Events:** EVENT_D001-D005, EVENT_016-018, EVENT_H010
-
-### Phase 6: Cover-up and Evidence Suppression (2025)
-- **Events:** 8 events
-- **Focus:** Evidence destruction
-- **Key Events:** EVENT_019-021, EVENT_049, EVENT_059-061, EVENT_063, EVENT_070
-
-### Phase 7: Debt Accumulation and Current Status (2025)
-- **Events:** 4 events
-- **Focus:** Ongoing violations
-- **Key Events:** EVENT_073-077
+### MEDIUM Priority Evidence
+| Annexure | Description | Priority | Size |
+|----------|-------------|----------|------|
+| **JF5** | Correspondence Evidence (JF8 Series) | MEDIUM | 132 KB |
+| **JF7** | Screenshots and Visual Evidence | MEDIUM | 22 MB |
+| **JF11** | Supporting Documentation | MEDIUM | - |
+| **JF12** | Additional Evidence | MEDIUM | - |
+| **SF1** | Bantjies Debt Documentation | MEDIUM | - |
+| **SF1A** | Bantjies Call Option Agreement Excerpt | MEDIUM | 181 KB |
+| **SF3** | Strategic Logistics Stock Adjustment | MEDIUM | - |
+| **SF4** | SARS Audit Email | MEDIUM | - |
+| **SF5** | Adderory Company Registration & Stock Supply | MEDIUM | - |
+| **SF8** | Linda Employment Records | MEDIUM | - |
+| **SF10** | Sales Workflow PowerPoint | MEDIUM | - |
 
 ---
 
-## Entity Profiles
+## 📈 Burden of Proof Analysis
 
-### Primary Perpetrators
+### Civil Claims (50% Standard - Balance of Probabilities)
+✅ **5 of 6 claims EXCEED 50% threshold**
 
-#### PERSON_001: Peter Andrew Faucitt
-- **Role:** Primary Perpetrator
-- **ID:** 820430 5708 18 5
-- **Financial Impact:** R10,269,727.90 direct involvement
-- **Timeline Events:** 39 events
-- **Evidence:** [ANNEXURES/JF01](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF01/), [ANNEXURES/JF03](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF03/)
+1. **Trust Breach** - 90%+ confidence
+2. **Unauthorized Transfers (R900K)** - 85%+ confidence
+3. **Payment Redirection (R4.3M)** - 80%+ confidence
+4. **Obstruction of Access** - 90%+ confidence
+5. **Conflict of Interest (Bantjies)** - 80%+ confidence
 
-#### PERSON_002: Rynette Farrar
-- **Role:** Co-Conspirator
-- **Financial Impact:** R4,276,832.85 direct involvement
-- **Timeline Events:** 30 events
-- **Evidence:** [ANNEXURES/JF05](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF05/)
+### Criminal Claims (95% Standard - Beyond Reasonable Doubt)
+✅ **2 of 2 claims ACHIEVE 95% threshold**
 
-### Victims
+1. **Theft (R63M)** - Peter Faucitt - 95%+ confidence
+   - Evidence: SF9, JF1, JF2
+   - Quantum: R60,251,961.60 + $150,000
 
-#### PERSON_004: Jacqueline Faucitt
-- **Role:** First Respondent, Victim
-- **Legal Status:** First respondent in case 2025-137857
-- **Evidence:** [ANNEXURES/JF02](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF02/)
-
-#### PERSON_005: Daniel James Faucitt
-- **Role:** Second Respondent, Victim
-- **Legal Status:** Second respondent in case 2025-137857
-- **Evidence:** [ANNEXURES/JF04](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF04/)
+2. **Identity Impersonation** - Rynette Farrar - 95%+ confidence
+   - Evidence: SF2A (dual account access)
+   - Criminal element: Using Pete@regima.com
 
 ---
 
-## Analysis Reports
+## 🗂️ Repository Statistics
 
-### Latest Reports (2025-11-28)
-- **[Analysis Report](../ANALYSIS_REPORT_2025_11_28.json)** - Comprehensive data model analysis
-- **[Cross-Reference Report](../CROSS_REFERENCE_REPORT_2025_11_28.json)** - Evidence repository cross-reference
-- **[Refinement Report](../REFINEMENT_REPORT_2025_11_28.json)** - Data model refinements
-- **[Filing Improvements Report](../FILING_IMPROVEMENTS_REPORT_2025_11_28.json)** - Legal filing enhancements
+**revstream1 Repository:**
+- Data Models: 4 components (entities, relations, events, timelines)
+- Legal Filings: 6 major documents
+- Evidence Cross-References: 100+ references
+- Total Analysis Files: 50+
 
-### Historical Reports
-- [Analysis Report 2025-11-27](../ANALYSIS_REPORT_2025_11_27.json)
-- [Comprehensive Analysis 2025-11-25](../COMPREHENSIVE_ANALYSIS_2025_11_25.json)
-- [Data Model Analysis 2025-11-25](../DATA_MODEL_ANALYSIS_2025_11_25.json)
-
----
-
-## Burden of Proof Analysis
-
-### Civil Standard (Balance of Probabilities - 50%+)
-**Status:** ✅ **EXCEEDED**
-
-The evidence clearly demonstrates on a balance of probabilities:
-- Directors breached fiduciary duties
-- Unauthorized transactions occurred
-- Financial manipulation was systematic
-- Assets were misappropriated
-
-### Criminal Standard (Beyond Reasonable Doubt - 95%+)
-**Status:** ✅ **MET for specific events**
-
-The following events meet the criminal standard:
-- **EVENT_022**: R900,000 unauthorized transfer (bank records)
-- **EVENT_024**: R5.4M stock manipulation (inventory records)
-- **EVENT_010**: Identity fraud (domain registration records)
-- **EVENT_012**: POPIA violations (system logs, email evidence)
-
-**Evidence Strength:** Direct documentary evidence, contemporaneous records, multiple corroborating sources
+**ad-res-j7 Evidence Repository:**
+- Total Files: 2,866
+- Total Size: 226.78 MB
+- Annexures: 12 (JF1-JF12, SF1-SF10)
+- Evidence Documents: 536 files
 
 ---
 
-## Applications Overview
+## 🔗 External Resources
 
-### Application 1: Initial Interdict (March 2025)
-- **Focus:** Immediate relief from ongoing violations
-- **Evidence:** ANNEXURES/JF01-JF04
-- **Status:** Ongoing
-
-### Application 2: Expanded Relief (July 2025)
-- **Focus:** Additional violations and evidence
-- **Evidence:** ANNEXURES/JF05-JF06
-- **Status:** Ongoing
-
-### Application 3: Comprehensive Relief (November 2025)
-- **Focus:** Complete pattern of conduct
-- **Evidence:** ANNEXURES/JF07-JF08, complete data models
-- **Status:** Ongoing
+- [**ad-res-j7 Repository**](https://github.com/cogpy/ad-res-j7) - Full evidence repository
+- [**Comprehensive Evidence Index**](https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md) - Complete file catalog
+- [**Annexures Index**](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/ANNEXURES_INDEX.md) - Evidence package details
 
 ---
 
-## Contact & Resources
+## 📋 Application Tracking
 
-### Repositories
-- **Main Repository:** [cogpy/revstream1](https://github.com/cogpy/revstream1)
-- **Evidence Repository:** [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)
+### Civil Application (Case 2025-137857)
+- **Court:** High Court
+- **Applicant:** Peter Andrew Faucitt
+- **First Respondent:** Jacqueline Faucitt
+- **Second Respondent:** Daniel James Faucitt
+- **Status:** Answering affidavit filed
 
-### Documentation
-- **GitHub Pages:** [https://cogpy.github.io/revstream1/](https://cogpy.github.io/revstream1/)
-- **Evidence Index:** [COMPREHENSIVE_EVIDENCE_INDEX.md](https://github.com/cogpy/ad-res-j7/blob/main/COMPREHENSIVE_EVIDENCE_INDEX.md)
+### Criminal Complaints
+1. **Commercial Crime** - Theft R63M + Identity Impersonation
+2. **POPIA Violation** - Unauthorized data access and processing
+3. **Tax Fraud** - R63M+ undeclared revenue
 
-### Data Models
-- **Entities:** [entities_refined_2025_11_27_v22.json](../data_models/entities/entities_refined_2025_11_27_v22.json)
-- **Events:** [events_refined_2025_11_28_v24.json](../data_models/events/events_refined_2025_11_28_v24.json)
-- **Relations:** [relations_refined_2025_11_28_v20.json](../data_models/relations/relations_refined_2025_11_28_v20.json)
+### Regulatory Complaints
+1. **CIPC** - Companies Act violations (director misconduct)
 
 ---
 
-**Last Updated:** 2025-11-28  
-**Data Model Version:** v24.0 (Events), v20.0 (Relations), v22.0 (Entities)  
-**Total Evidence Files:** 21,974 files  
-**Total Documented Losses:** R10,269,727.90
+## 🎓 How to Use This Portal
+
+1. **Start with the [Legal Filings Summary](../LEGAL_FILINGS_SUMMARY_2025_12_10.md)** for an overview
+2. **Review [Burden of Proof Assessment](../BURDEN_OF_PROOF_ASSESSMENT_2025_12_10.json)** for detailed analysis
+3. **Explore specific evidence** using the annexure quick reference above
+4. **Dive into data models** for entity-relation-event mapping
+5. **Cross-reference with [ad-res-j7](https://github.com/cogpy/ad-res-j7)** for full evidence
+
+---
+
+## 📝 Document Versions
+
+All documents are version-controlled with dates:
+- **2025-12-10:** Latest refinement with burden of proof assessments
+- **2025-12-09:** SF9 integration (R63M payment demand)
+- **2025-12-08:** SF2A/SF2B integration (Rynette impersonation)
+- **2025-12-07:** Enhanced evidence cross-references
+- **Earlier versions:** Available in repository history
+
+---
+
+## ⚖️ Legal Notice
+
+This documentation portal contains evidence and legal filings for active legal proceedings. All information is based on documented evidence and factual analysis. The burden of proof assessments are professional opinions based on available evidence and legal standards.
+
+**Case Number:** 2025-137857  
+**Jurisdiction:** South Africa  
+**Legal Standards Applied:** South African law (civil and criminal)
+
+---
+
+*This portal is automatically maintained and updated as new evidence and analysis becomes available.*
+
+**Last Evidence Integration:** 2025-12-10 (SF1-SF10, JF1-JF12)  
+**Next Scheduled Update:** As evidence emerges
+
+---
+
+## Entity Relationship Diagram
+
+```mermaid
+graph TD;
+    subgraph "Ownership Relations"
+        PERSON_005[Daniel Faucitt] -->|owns| ORG_003[RegimA Zone UK Ltd];
+        ORG_003 -->|owns| PLATFORM_001[Shopify Platform];
+        ORG_003 -->|owns| DOMAIN_001[regima.zone];
+        PERSON_003[Rynette's Daughter] -->|fraudulent_ownership| DOMAIN_002[regimazone.com];
+    end
+    
+    subgraph "Control Relations"
+        PERSON_001[Peter Faucitt] -->|directorial_control| ORG_001[RWW];
+        PERSON_002[Rynette Farrar] -->|financial_controller| SYSTEMS[Sage/Accounting];
+        PERSON_002 -->|subscription_owner| SAGE[Sage Subscription];
+        PERSON_002 -->|impersonates| PERSON_001;
+    end
+    
+    subgraph "Conspiracy Relations"
+        PERSON_001 ---|co-conspirators| PERSON_002;
+        PERSON_002 ---|co-conspirators| PERSON_003;
+        PERSON_007[Danie Bantjies] ---|co-conspirators| PERSON_001;
+    end
+    
+    subgraph "Financial Impact"
+        PERSON_001 -->|theft_R63M| PERSON_005;
+        PERSON_001 -->|unauthorized_R900K| PERSON_005;
+        PERSON_002 -->|redirection_R4.3M| PERSON_005;
+    end
+    
+    style PERSON_001 fill:#ff6b6b
+    style PERSON_002 fill:#ff6b6b
+    style PERSON_007 fill:#ffa500
+    style PERSON_005 fill:#51cf66
+```
+
+---
+
+**Maintained by:** Case 2025-137857 Legal Team  
+**Repository:** [cogpy/revstream1](https://github.com/cogpy/revstream1)  
+**Evidence Repository:** [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)
 """
     
-    return content
+    write_file("docs/index.md", content)
 
 def main():
-    print("Updating GitHub Pages...")
+    """Main update function"""
+    print("=" * 80)
+    print("UPDATING GITHUB PAGES DOCUMENTATION")
+    print("=" * 80)
     
-    # Create updated index
-    print("\n1. Creating updated index.md...")
-    index_content = create_updated_index()
-    index_file = DOCS_DIR / "index.md"
-    with open(index_file, 'w', encoding='utf-8') as f:
-        f.write(index_content)
+    # Ensure docs directory exists
+    Path("docs").mkdir(exist_ok=True)
     
-    # Copy enhanced filings to docs
-    print("2. Copying enhanced filings to docs/...")
-    import shutil
+    print("\n[1/1] Updating main index page...")
+    update_index()
     
-    cipc_src = REVSTREAM_ROOT / "CIPC_COMPLAINT_ENHANCED_2025_11_28.md"
-    cipc_dst = DOCS_DIR / "CIPC_COMPLAINT_ENHANCED_2025_11_28.md"
-    shutil.copy(cipc_src, cipc_dst)
-    
-    popia_src = REVSTREAM_ROOT / "POPIA_COMPLAINT_ENHANCED_2025_11_28.md"
-    popia_dst = DOCS_DIR / "POPIA_COMPLAINT_ENHANCED_2025_11_28.md"
-    shutil.copy(popia_src, popia_dst)
-    
-    # Create README for docs
-    print("3. Creating README.md for docs/...")
-    readme_content = """# Revenue Stream Hijacking Case 2025-137857 - Documentation
+    print("\n" + "=" * 80)
+    print("GITHUB PAGES UPDATE COMPLETE")
+    print("=" * 80)
+    print("\nUpdated files:")
+    print("  - docs/index.md")
+    print("\nGitHub Pages will be automatically deployed on push.")
 
-This directory contains the GitHub Pages documentation for Case 2025-137857.
-
-## Quick Links
-
-- **GitHub Pages:** https://cogpy.github.io/revstream1/
-- **Evidence Repository:** https://github.com/cogpy/ad-res-j7
-- **Data Models:** ../data_models/
-
-## Latest Updates (2025-11-28)
-
-- ✅ Events v24.0: 30 refinements applied
-- ✅ Relations v20.0: 7 entity fixes
-- ✅ CIPC Complaint v2.0: Enhanced with burden of proof analysis
-- ✅ POPIA Complaint v2.0: Enhanced with criminal elements analysis
-
-## Documentation Structure
-
-- `index.md` - Main GitHub Pages index
-- `CIPC_COMPLAINT_ENHANCED_2025_11_28.md` - Enhanced CIPC complaint
-- `POPIA_COMPLAINT_ENHANCED_2025_11_28.md` - Enhanced POPIA complaint
-- Various analysis and affidavit documents
-
-## Evidence References
-
-All evidence is stored in the [ad-res-j7 repository](https://github.com/cogpy/ad-res-j7) with 21,974 files across:
-- ANNEXURES (277 files)
-- case_2025_137857 (259 files)
-- FINAL_AFFIDAVIT_PACKAGE (270 files)
-- evidence (492 files)
-
-**Last Updated:** 2025-11-28
-"""
-    
-    readme_file = DOCS_DIR / "README.md"
-    with open(readme_file, 'w', encoding='utf-8') as f:
-        f.write(readme_content)
-    
-    # Generate update report
-    report = {
-        'metadata': {
-            'generated': datetime.now().isoformat(),
-            'update_date': '2025-11-28'
-        },
-        'updates': {
-            'index_md': {
-                'file': str(index_file),
-                'updates': [
-                    'Updated to data model v24.0',
-                    'Added latest refinement statistics',
-                    'Enhanced evidence cross-reference',
-                    'Added burden of proof analysis',
-                    'Updated entity profiles',
-                    'Added timeline phase details'
-                ]
-            },
-            'enhanced_filings': {
-                'cipc_complaint': str(cipc_dst),
-                'popia_complaint': str(popia_dst)
-            },
-            'readme': str(readme_file)
-        },
-        'summary': {
-            'total_updates': 3,
-            'files_updated': ['index.md', 'README.md'],
-            'files_added': [
-                'CIPC_COMPLAINT_ENHANCED_2025_11_28.md',
-                'POPIA_COMPLAINT_ENHANCED_2025_11_28.md'
-            ]
-        }
-    }
-    
-    report_file = REVSTREAM_ROOT / "GITHUB_PAGES_UPDATE_REPORT_2025_11_28.json"
-    with open(report_file, 'w', encoding='utf-8') as f:
-        json.dump(report, f, indent=2, ensure_ascii=False)
-    
-    print(f"\n✓ GitHub Pages update complete!")
-    print(f"  Index: {index_file}")
-    print(f"  CIPC Complaint: {cipc_dst}")
-    print(f"  POPIA Complaint: {popia_dst}")
-    print(f"  README: {readme_file}")
-    print(f"  Report: {report_file}")
-    
-    return report
-
-if __name__ == '__main__':
-    report = main()
+if __name__ == "__main__":
+    main()
