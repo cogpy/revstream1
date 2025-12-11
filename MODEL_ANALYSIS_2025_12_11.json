@@ -1,0 +1,53 @@
+{
+  "analysis_date": "2025-12-11T05:37:48.701150",
+  "entities": {
+    "total_persons": 9,
+    "total_orgs": 10,
+    "issues": [],
+    "recommendations": []
+  },
+  "events": {
+    "total_events": 44,
+    "date_range": "2017-06-30 to 2025-10-23",
+    "missing_evidence": [],
+    "missing_quantum": []
+  },
+  "relations": {
+    "total_relations": 74,
+    "relation_types": [
+      "ownership_relations",
+      "control_relations",
+      "conspiracy_relations",
+      "dependency_relations",
+      "financial_relations",
+      "victim_perpetrator_relations",
+      "employment_relations",
+      "evidence_destruction_relations",
+      "temporal_relations",
+      "debt_relations",
+      "estate_relations",
+      "witness_relations",
+      "conflict_relations",
+      "email_control_relations",
+      "trustee_relations",
+      "beneficiary_relations",
+      "professional_correspondence_relations",
+      "capital_extraction_relations",
+      "inter_company_loan_relations",
+      "knowledge_acquisition_relations",
+      "strategic_coordination_relations",
+      "professional_relations",
+      "access_relations"
+    ],
+    "missing_evidence": []
+  },
+  "timeline": {
+    "total_entries": 43,
+    "phases": {
+      "foundation_phase": 14,
+      "escalation_phase": 12,
+      "exposure_phase": 13,
+      "response_phase": 4
+    }
+  }
+}

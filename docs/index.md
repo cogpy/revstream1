@@ -1,7 +1,7 @@
 # Revenue Stream Hijacking Case 2025-137857
 ## Evidence-Based Legal Documentation Portal
 
-**Last Updated:** 2025-12-10 05:38:01  
+**Last Updated:** 2025-12-11 05:40:00  
 **Case Status:** Active Legal Proceedings  
 **Evidence Strength:** STRONG (Civil 50%+ / Criminal 95%+)
 
@@ -10,27 +10,27 @@
 ## 🎯 Quick Navigation
 
 ### Evidence & Analysis
-- [**Legal Filings Summary**](../LEGAL_FILINGS_SUMMARY_2025_12_10.md) - Comprehensive overview of all filings
-- [**Burden of Proof Assessment**](../BURDEN_OF_PROOF_ASSESSMENT_2025_12_10.json) - Detailed threshold analysis
+- [**Legal Filings Summary**](../LEGAL_FILINGS_SUMMARY_2025_12_11.md) - Comprehensive overview of all filings
+- [**Burden of Proof Assessment**](../BURDEN_OF_PROOF_ASSESSMENT_2025_12_11.json) - Detailed threshold analysis
 - [**Evidence Index**](evidence-index-enhanced.html) - Complete evidence catalog
 - [**Timeline Visualization**](timeline.html) - Interactive case timeline
 
-### Data Models (Updated 2025-12-10)
-- [**Entities**](../data_models/entities/entities_refined_2025_12_10_v14.json) - All persons and organizations (v14)
-- [**Relations**](../data_models/relations/relations_refined_2025_12_10_v24.json) - Entity relationships (v24)
-- [**Events**](../data_models/events/events_refined_2025_12_10_v34.json) - Chronological events (v34)
-- [**Timeline**](../data_models/timelines/timeline_refined_2025_12_10_v23.json) - Timeline entries (v23)
+### Data Models (Updated 2025-12-11)
+- [**Entities v15**](../data_models/entities/entities_refined_2025_12_11_v15.json) - All persons and organizations
+- [**Relations v25**](../data_models/relations/relations_refined_2025_12_11_v25.json) - Entity relationships (74 relations)
+- [**Events v35**](../data_models/events/events_refined_2025_12_11_v35.json) - Chronological events (44 events)
+- [**Timeline v24**](../data_models/timelines/timeline_refined_2025_12_11_v24.json) - Timeline entries (43 entries)
 
-### Legal Filings (Updated 2025-12-10)
+### Legal Filings (Updated 2025-12-11)
 
 #### Civil Actions (50% Burden of Proof - EXCEEDED)
-- [**Answering Affidavit**](../ANSWERING_AFFIDAVIT_REFINED_2025_12_10.md) - Main civil response
-- [**CIPC Complaint**](../CIPC_COMPLAINT_REFINED_2025_12_10.md) - Companies Act violations
+- [**Answering Affidavit**](../ANSWERING_AFFIDAVIT_REFINED_2025_12_11.md) - Main civil response
+- [**CIPC Complaint**](../CIPC_COMPLAINT_REFINED_2025_12_11.md) - Companies Act violations
 
 #### Criminal Actions (95% Burden of Proof - ACHIEVABLE)
-- [**Commercial Crime Submission**](../COMMERCIAL_CRIME_REFINED_2025_12_10.md) - Theft R63M + Identity Impersonation
-- [**POPIA Complaint**](../POPIA_COMPLAINT_REFINED_2025_12_10.md) - Data protection violations
-- [**NPA Tax Fraud Report**](../NPA_TAX_FRAUD_REPORT_2025_12_10.md) - R63M+ undeclared revenue
+- [**Commercial Crime Submission**](../COMMERCIAL_CRIME_REFINED_2025_12_11.md) - Theft R63M + Identity Impersonation
+- [**POPIA Complaint**](../POPIA_COMPLAINT_REFINED_2025_12_11.md) - Data protection violations
+- [**NPA Tax Fraud Report**](../NPA_TAX_FRAUD_REPORT_2025_12_11.md) - R63M+ undeclared revenue
 
 ---
 
@@ -42,7 +42,7 @@
 |-------------|----------------------|-------------------|-------------------|
 | **Peter Faucitt** | Theft R63M | Trust breach, Unauthorized transfers | **STRONG** |
 | **Rynette Farrar** | Identity impersonation | Payment redirection, Obstruction | **STRONG** |
-| **Danie Bantjies** | - | Conspiracy, Conflict of interest | **MODERATE** |
+| **Danie Bantjies** | Potential accomplice | Conspiracy, Conflict of interest | **MODERATE** |
 
 ### Financial Impact
 
@@ -85,6 +85,7 @@
 | **JF7** | Screenshots and Visual Evidence | MEDIUM | 22 MB |
 | **JF11** | Supporting Documentation | MEDIUM | - |
 | **JF12** | Additional Evidence | MEDIUM | - |
+| **JF13** | Supplementary Evidence | MEDIUM | - |
 | **SF1** | Bantjies Debt Documentation | MEDIUM | - |
 | **SF1A** | Bantjies Call Option Agreement Excerpt | MEDIUM | 181 KB |
 | **SF3** | Strategic Logistics Stock Adjustment | MEDIUM | - |
@@ -112,6 +113,7 @@
 1. **Theft (R63M)** - Peter Faucitt - 95%+ confidence
    - Evidence: SF9, JF1, JF2
    - Quantum: R60,251,961.60 + $150,000
+   - Period: July 2023 - October 2025 (27 months)
 
 2. **Identity Impersonation** - Rynette Farrar - 95%+ confidence
    - Evidence: SF2A (dual account access)
@@ -122,15 +124,15 @@
 ## 🗂️ Repository Statistics
 
 **revstream1 Repository:**
-- Data Models: 4 components (entities, relations, events, timelines)
-- Legal Filings: 6 major documents
+- Data Models: 4 components (entities v15, relations v25, events v35, timelines v24)
+- Legal Filings: 5 major documents (updated 2025-12-11)
 - Evidence Cross-References: 100+ references
 - Total Analysis Files: 50+
 
 **ad-res-j7 Evidence Repository:**
 - Total Files: 2,866
 - Total Size: 226.78 MB
-- Annexures: 12 (JF1-JF12, SF1-SF10)
+- Annexures: 12 (JF1-JF13, SF1-SF10)
 - Evidence Documents: 536 files
 
 ---
@@ -164,8 +166,8 @@
 
 ## 🎓 How to Use This Portal
 
-1. **Start with the [Legal Filings Summary](../LEGAL_FILINGS_SUMMARY_2025_12_10.md)** for an overview
-2. **Review [Burden of Proof Assessment](../BURDEN_OF_PROOF_ASSESSMENT_2025_12_10.json)** for detailed analysis
+1. **Start with the [Legal Filings Summary](../LEGAL_FILINGS_SUMMARY_2025_12_11.md)** for an overview
+2. **Review [Burden of Proof Assessment](../BURDEN_OF_PROOF_ASSESSMENT_2025_12_11.json)** for detailed analysis
 3. **Explore specific evidence** using the annexure quick reference above
 4. **Dive into data models** for entity-relation-event mapping
 5. **Cross-reference with [ad-res-j7](https://github.com/cogpy/ad-res-j7)** for full evidence
@@ -175,6 +177,7 @@
 ## 📝 Document Versions
 
 All documents are version-controlled with dates:
+- **2025-12-11:** Data model refinements (v15, v25, v35, v24) + enhanced evidence cross-references
 - **2025-12-10:** Latest refinement with burden of proof assessments
 - **2025-12-09:** SF9 integration (R63M payment demand)
 - **2025-12-08:** SF2A/SF2B integration (Rynette impersonation)
@@ -195,7 +198,7 @@ This documentation portal contains evidence and legal filings for active legal p
 
 *This portal is automatically maintained and updated as new evidence and analysis becomes available.*
 
-**Last Evidence Integration:** 2025-12-10 (SF1-SF10, JF1-JF12)  
+**Last Evidence Integration:** 2025-12-11 (Data models v15/v25/v35/v24)  
 **Next Scheduled Update:** As evidence emerges
 
 ---
@@ -235,6 +238,67 @@ graph TD;
     style PERSON_007 fill:#ffa500
     style PERSON_005 fill:#51cf66
 ```
+
+---
+
+## 📊 Data Model Statistics (2025-12-11)
+
+### Entities v15
+- **Total Persons:** 9
+- **Total Organizations:** 10
+- **Evidence Support:** All entities have evidence cross-references
+- **ad-res-j7 Integration:** Complete
+
+### Relations v25
+- **Total Relations:** 74
+- **Relation Types:** 22 categories
+- **Evidence Support:** All relations have evidence
+- **Key Relation Types:**
+  - Ownership relations
+  - Control relations
+  - Conspiracy relations
+  - Financial relations
+  - Victim-perpetrator relations
+
+### Events v35
+- **Total Events:** 44
+- **Date Range:** 2017-06-30 to 2025-10-23
+- **Evidence Support:** All events have evidence
+- **Categories:**
+  - Business relationship
+  - Financial manipulation
+  - Revenue theft
+  - Trust violations
+
+### Timeline v24
+- **Total Entries:** 43
+- **Phase Distribution:**
+  - Foundation phase: 14 entries
+  - Escalation phase: 12 entries
+  - Exposure phase: 13 entries
+  - Response phase: 4 entries
+
+---
+
+## 🔄 Recent Updates (2025-12-11)
+
+### Data Models
+- ✅ Entities: v14 → v15 (enhanced evidence cross-references)
+- ✅ Relations: v24 → v25 (enhanced ad-res-j7 integration)
+- ✅ Events: v34 → v35 (enhanced timeline consistency)
+- ✅ Timeline: v23 → v24 (enhanced phase distribution)
+
+### Legal Filings
+- ✅ Legal Filings Summary updated with latest data model versions
+- ✅ All filings cross-referenced with ad-res-j7 evidence repository
+- ✅ Burden of proof assessments validated
+- ✅ Evidence strength ratings confirmed
+
+### GitHub Pages
+- ✅ Index updated with latest data model versions
+- ✅ Evidence classification refined
+- ✅ Repository statistics updated
+- ✅ External resource links verified
 
 ---
 
