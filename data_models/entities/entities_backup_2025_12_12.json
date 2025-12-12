@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "9.0_EVIDENCE_ENHANCED",
+    "version": "8.0",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2025-12-12T05:37:57.342408",
-    "changes": "Enhanced all entity profiles with ad-res-j7 evidence cross-references (2025-12-12)"
+    "last_updated": "2025-11-18",
+    "changes": "Correction 2025-11-19: Clarified RegimaSA vs RegimA SA; added new findings from financial documents, Sage screenshots, and Bantjes email"
   },
   "entities": {
     "persons": [
@@ -52,22 +52,7 @@
           "EVENT_018",
           "EVENT_019",
           "EVENT_020"
-        ],
-        "evidence": [
-          "JF01 - Shopify Plus email evidence",
-          "JF04 - CIPC company records",
-          "JF07 - Financial transaction records",
-          "JF08 - Email correspondence and fraud evidence",
-          "JF09 - Court order timeline cross-reference"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF01 - Shopify platform ownership evidence",
-          "ANNEXURES/JF04 - Company registration documents",
-          "ANNEXURES/JF07 - Bank statements and financial records",
-          "ANNEXURES/JF08/evidence_package_20251012 - Comprehensive fraud timeline",
-          "1-CIVIL-RESPONSE - Answering affidavit documentation"
-        ],
-        "evidence_enhanced": "2025-12-12T05:37:57.342354"
+        ]
       },
       {
         "entity_id": "PERSON_002",
@@ -119,20 +104,7 @@
           "pete_email": "Pete@regima.com",
           "evidence": "Sage screenshot 2025-06-20 shows Rynette with user account Pete@regima.com",
           "significance": "Direct proof of email control"
-        },
-        "evidence": [
-          "JF05 - Sage accounting system control evidence",
-          "JF07 - Payment redirection documentation",
-          "JF08 - Email impersonation evidence",
-          "JF09 - Domain registration fraud evidence"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF05 - Sage screenshots and accounting control",
-          "ANNEXURES/JF07 - Bank account manipulation evidence",
-          "ANNEXURES/JF08/evidence_package_20251009 - Email analysis findings",
-          "ANNEXURES/JF09 - Court order interference documentation"
-        ],
-        "evidence_enhanced": "2025-12-12T05:37:57.342384"
+        }
       },
       {
         "entity_id": "PERSON_004",
@@ -147,18 +119,7 @@
           "shopify_platform_operator",
           "regima_zone_ltd_operator"
         ],
-        "legal_status": "first_respondent_in_case_2025_137857",
-        "evidence": [
-          "JF01 - Shopify platform operator evidence",
-          "JF02 - Business operations documentation",
-          "1-CIVIL-RESPONSE - Answering affidavit"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF01 - Shopify evidence",
-          "ANNEXURES/JF02 - Business documentation",
-          "1-CIVIL-RESPONSE/annexures - Response documentation"
-        ],
-        "evidence_enhanced": "2025-12-12T05:37:57.342386"
+        "legal_status": "first_respondent_in_case_2025_137857"
       },
       {
         "entity_id": "PERSON_005",
@@ -179,20 +140,7 @@
           "platform_investment": "R140,000 - R280,000",
           "investment_duration": "28_months"
         },
-        "legal_status": "second_respondent_in_case_2025_137857",
-        "evidence": [
-          "JF01 - Shopify Plus subscription ownership",
-          "JF02 - RegimA Zone Ltd company documentation",
-          "JF06 - Platform investment evidence",
-          "1-CIVIL-RESPONSE - Answering affidavit"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF02 - UK company documentation",
-          "ANNEXURES/JF06 - Investment and payment records",
-          "1-CIVIL-RESPONSE/annexures - Response documentation"
-        ],
-        "evidence_enhanced": "2025-12-12T05:37:57.342388"
+        "legal_status": "second_respondent_in_case_2025_137857"
       },
       {
         "entity_id": "PERSON_006",
@@ -270,20 +218,7 @@
             "Computer expenses in excess of 20% of revenue"
           ],
           "significance": "Acknowledges massive financial deterioration but dismisses detailed audit"
-        },
-        "evidence": [
-          "JF03 - Trial balance email August 13, 2020",
-          "JF04 - Trust documentation showing unknown trustee status",
-          "JF07 - Financial records showing R18.685M debt",
-          "JF08 - June 10, 2025 audit dismissal email"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF03 - HMRC pension fraud analysis",
-          "ANNEXURES/JF04 - Trust and company documentation",
-          "ANNEXURES/JF07 - Debt and financial conflict evidence",
-          "ANNEXURES/JF08/evidence_package_20250606 - Email evidence extraction"
-        ],
-        "evidence_enhanced": "2025-12-12T05:37:57.342390"
+        }
       },
       {
         "entity_id": "PERSON_008",
@@ -308,16 +243,7 @@
         "timeline_events": [
           "EVENT_023",
           "EVENT_054"
-        ],
-        "evidence": [
-          "JF03 - Estate creditor documentation",
-          "JF09 - Court order interference evidence"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF03 - Estate and debt documentation",
-          "ANNEXURES/JF09 - Court order timeline"
-        ],
-        "evidence_enhanced": "2025-12-12T05:37:57.342392"
+        ]
       },
       {
         "entity_id": "PERSON_009",
@@ -388,16 +314,7 @@
           "EVENT_024",
           "EVENT_027"
         ],
-        "additional_notes": "Rynette's son, registered Adderory companies April 2021 (pre-planning), registered fraudulent domain regimaskin.co.za May 29 2025, supplied same stock type that disappeared from SLG",
-        "evidence": [
-          "JF08 - Domain registration using Daniel's identity",
-          "JF09 - Identity fraud documentation"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF08 - Domain registration fraud evidence",
-          "ANNEXURES/JF09 - Identity theft documentation"
-        ],
-        "evidence_enhanced": "2025-12-12T05:37:57.342397"
+        "additional_notes": "Rynette's son, registered Adderory companies April 2021 (pre-planning), registered fraudulent domain regimaskin.co.za May 29 2025, supplied same stock type that disappeared from SLG"
       },
       {
         "entity_id": "PERSON_011",
@@ -482,18 +399,7 @@
           "revenue_claims": "R3,141,647.70",
           "actual_ownership": "zero_infrastructure_ownership"
         },
-        "legal_status": "third_respondent_in_case_2025_137857",
-        "evidence": [
-          "JF04 - CIPC company records",
-          "JF05 - Sage subscription evidence",
-          "JF07 - Financial records"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF04 - Company registration",
-          "ANNEXURES/JF05 - Accounting system control",
-          "ANNEXURES/JF07 - Financial evidence"
-        ],
-        "evidence_enhanced": "2025-12-12T05:37:57.342400"
+        "legal_status": "third_respondent_in_case_2025_137857"
       },
       {
         "entity_id": "ORG_002",
@@ -511,16 +417,7 @@
           "related_to_ORG_001",
           "director_charges_self_rent"
         ],
-        "legal_status": "fourth_respondent_in_case_2025_137857",
-        "evidence": [
-          "JF04 - CIPC company records",
-          "JF07 - Financial records showing revenue hijacking"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF04 - Company documentation",
-          "ANNEXURES/JF07 - Revenue diversion evidence"
-        ],
-        "evidence_enhanced": "2025-12-12T05:37:57.342402"
+        "legal_status": "fourth_respondent_in_case_2025_137857"
       },
       {
         "entity_id": "ORG_003",
@@ -552,18 +449,7 @@
         "relationships": [
           "owned_by_PERSON_005",
           "infrastructure_provider_for_ORG_001"
-        ],
-        "evidence": [
-          "JF01 - Shopify Plus subscription ownership",
-          "JF02 - UK company registration",
-          "JF06 - Platform payment records"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF01 - Shopify ownership",
-          "ANNEXURES/JF02 - UK entity documentation",
-          "ANNEXURES/JF06 - Investment evidence"
-        ],
-        "evidence_enhanced": "2025-12-12T05:37:57.342404"
+        ]
       },
       {
         "entity_id": "ORG_004",

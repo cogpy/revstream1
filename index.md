@@ -191,14 +191,14 @@ November 2025: Application 3 filed (contact interdict)
 ## Data & Evidence Integrity
 
 This case is supported by a robust and comprehensive data model:
-- **Entities v26.0:** 32 entities (12 persons, 11 organizations, 4 bank accounts, etc.)
-- **Events v28.0:** 77 events across 8 phases, all phases assigned
-- **Relations v21.0:** 72 relations across 22 categories, including bank account control
-- **Timeline v19.0:** 77 chronologically organized entries
-- **Evidence Files:** 2,866 files (226.78 MB) in ad-res-j7 repository
+- **Entities v9.0_EVIDENCE_ENHANCED:** 31 entities (persons, organizations, bank accounts, etc.)
+- **Events v35.0:** 44 events across multiple phases
+- **Relations v6.0:** 22 relations across multiple categories
+- **Timeline v24.0:** Chronologically organized entries
+- **Evidence Files:** 268 annexure files across 13 annexures (JF01-JF13)
+- **Extended Evidence:** 78 affidavits, 672 analysis files in ad-res-j7 repository
 
-All data models have been refined and cross-referenced with evidence files in the ad-res-j7 repository (updated 2025-12-05).
-
+All data models have been refined and cross-referenced with evidence files in the ad-res-j7 repository (updated 2025-12-12).
 ---
 
 ## Extended Evidence Repository
@@ -219,11 +219,23 @@ Browse all evidence files organized by category with direct links to source docu
 
 ## Navigation
 
-- **[Legal Framework Analysis](legal-framework.md)** - **NEW:** Companies Act violations and remedies
-- **[Interactive Timeline](timeline.html)** - Comprehensive timeline with evidence references
-- **[View All Applications Side-by-Side](applications.md)** - Comparative analysis of all three applications
-- **[Letter of Demand Refutation](letter-of-demand-refutation.md)** - Refutation of Rynette Farrar's false denials
-- **[Evidence Index](evidence-index.md)** - Complete evidence catalog with links
+### Primary Documentation
+- **[Legal Filings Index](docs/filings/index.md)** - All legal filings organized by category
+- **[Evidence Reference Guide](docs/evidence/index.md)** - Comprehensive annexure reference
+- **[Interactive Timeline](timeline.html)** - Chronological event visualization
+- **[Applications Comparison](applications.md)** - Side-by-side application analysis
+
+### Legal Framework
+- **[Legal Framework Analysis](legal-framework.md)** - Companies Act violations and remedies
+- **[Letter of Demand Refutation](letter-of-demand-refutation.md)** - Response to false claims
+
+### Evidence & Analysis
+- **[Complete Evidence Index](evidence-index.md)** - Full evidence catalog
+- **[Data Models](data_models/)** - Entities, events, relations, timelines
+
+### External Resources
+- **[Extended Evidence Repository](https://github.com/cogpy/ad-res-j7)** - 268 annexure files, 78 affidavits
+- **[GitHub Repository](https://github.com/cogpy/revstream1)** - Source repository
 
 ---
 
@@ -245,5 +257,5 @@ The pattern of events supports charges of organized criminal enterprise, systema
 
 **Repository:** [github.com/cogpy/revstream1](https://github.com/cogpy/revstream1)  
 **License:** See LICENSE file for details  
-**Last Updated:** 2025-12-05
-**Data Models:** Entities v26.0, Events v28.0, Relations v21.0, Timeline v19.0
+**Last Updated:** 2025-12-12
+**Data Models:** Entities v9.0_EVIDENCE_ENHANCED, Events v35.0, Relations v6.0, Timeline v24.0

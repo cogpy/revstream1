@@ -1,0 +1,374 @@
+{
+  "entity_enhancements": [
+    {
+      "entity_id": "PERSON_001",
+      "name": "Peter Andrew Faucitt",
+      "type": "persons",
+      "current_evidence_count": 0,
+      "timeline_events_count": 11,
+      "suggestions": [
+        "No evidence references found",
+        "Financial impact claimed but limited evidence",
+        "Involved in 11 events but only 0 evidence items"
+      ]
+    },
+    {
+      "entity_id": "PERSON_002",
+      "name": "Rynette Farrar",
+      "type": "persons",
+      "current_evidence_count": 0,
+      "timeline_events_count": 7,
+      "suggestions": [
+        "No evidence references found",
+        "Financial impact claimed but limited evidence",
+        "Involved in 7 events but only 0 evidence items"
+      ]
+    },
+    {
+      "entity_id": "PERSON_004",
+      "name": "Jacqueline Faucitt",
+      "type": "persons",
+      "current_evidence_count": 0,
+      "timeline_events_count": 0,
+      "suggestions": [
+        "No evidence references found"
+      ]
+    },
+    {
+      "entity_id": "PERSON_005",
+      "name": "Daniel James Faucitt",
+      "type": "persons",
+      "current_evidence_count": 0,
+      "timeline_events_count": 0,
+      "suggestions": [
+        "No evidence references found",
+        "Financial impact claimed but limited evidence"
+      ]
+    },
+    {
+      "entity_id": "PERSON_006",
+      "name": "Linda",
+      "type": "persons",
+      "current_evidence_count": 0,
+      "timeline_events_count": 0,
+      "suggestions": [
+        "No evidence references found"
+      ]
+    },
+    {
+      "entity_id": "PERSON_007",
+      "name": "Danie Bantjies",
+      "type": "persons",
+      "current_evidence_count": 0,
+      "timeline_events_count": 3,
+      "suggestions": [
+        "No evidence references found",
+        "Financial impact claimed but limited evidence"
+      ]
+    },
+    {
+      "entity_id": "PERSON_008",
+      "name": "Kayla",
+      "type": "persons",
+      "current_evidence_count": 0,
+      "timeline_events_count": 2,
+      "suggestions": [
+        "No evidence references found",
+        "Financial impact claimed but limited evidence"
+      ]
+    },
+    {
+      "entity_id": "PERSON_009",
+      "name": "Gee",
+      "type": "persons",
+      "current_evidence_count": 0,
+      "timeline_events_count": 1,
+      "suggestions": [
+        "No evidence references found"
+      ]
+    },
+    {
+      "entity_id": "PERSON_010",
+      "name": "Bernadine Wright",
+      "type": "persons",
+      "current_evidence_count": 0,
+      "timeline_events_count": 1,
+      "suggestions": [
+        "No evidence references found"
+      ]
+    },
+    {
+      "entity_id": "PERSON_003",
+      "name": "Adderory (Rynette's Son)",
+      "type": "persons",
+      "current_evidence_count": 0,
+      "timeline_events_count": 4,
+      "suggestions": [
+        "No evidence references found",
+        "Financial impact claimed but limited evidence"
+      ]
+    },
+    {
+      "entity_id": "PERSON_011",
+      "name": "Chantal",
+      "type": "persons",
+      "current_evidence_count": 0,
+      "timeline_events_count": 2,
+      "suggestions": [
+        "No evidence references found"
+      ]
+    },
+    {
+      "entity_id": "PERSON_012",
+      "name": "Jax",
+      "type": "persons",
+      "current_evidence_count": 0,
+      "timeline_events_count": 2,
+      "suggestions": [
+        "No evidence references found"
+      ]
+    },
+    {
+      "entity_id": "ORG_001",
+      "name": "Regima Worldwide Distribution (PTY) LTD",
+      "type": "organizations",
+      "current_evidence_count": 0,
+      "timeline_events_count": 0,
+      "suggestions": [
+        "No evidence references found",
+        "Financial impact claimed but limited evidence"
+      ]
+    },
+    {
+      "entity_id": "ORG_002",
+      "name": "Regima Skin Treatments CC",
+      "type": "organizations",
+      "current_evidence_count": 0,
+      "timeline_events_count": 0,
+      "suggestions": [
+        "No evidence references found"
+      ]
+    },
+    {
+      "entity_id": "ORG_003",
+      "name": "RegimA Zone Ltd",
+      "type": "organizations",
+      "current_evidence_count": 0,
+      "timeline_events_count": 0,
+      "suggestions": [
+        "No evidence references found"
+      ]
+    },
+    {
+      "entity_id": "ORG_004",
+      "name": "Strategic Logistics Group",
+      "type": "organizations",
+      "current_evidence_count": 0,
+      "timeline_events_count": 0,
+      "suggestions": [
+        "No evidence references found",
+        "Financial impact claimed but limited evidence"
+      ]
+    },
+    {
+      "entity_id": "ORG_005",
+      "name": "Villa Via",
+      "type": "organizations",
+      "current_evidence_count": 0,
+      "timeline_events_count": 0,
+      "suggestions": [
+        "No evidence references found",
+        "Financial impact claimed but limited evidence"
+      ]
+    },
+    {
+      "entity_id": "ORG_006",
+      "name": "RegimA SA",
+      "type": "organizations",
+      "current_evidence_count": 0,
+      "timeline_events_count": 1,
+      "suggestions": [
+        "No evidence references found"
+      ]
+    },
+    {
+      "entity_id": "ORG_008",
+      "name": "ReZonance (Pty) Ltd",
+      "type": "organizations",
+      "current_evidence_count": 0,
+      "timeline_events_count": 5,
+      "suggestions": [
+        "No evidence references found",
+        "Financial impact claimed but limited evidence"
+      ]
+    },
+    {
+      "entity_id": "ORG_009",
+      "name": "Adderory (Pty) Ltd",
+      "type": "organizations",
+      "current_evidence_count": 0,
+      "timeline_events_count": 4,
+      "suggestions": [
+        "No evidence references found",
+        "Financial impact claimed but limited evidence"
+      ]
+    },
+    {
+      "entity_id": "ORG_010",
+      "name": "Adderory Skin (Pty) Ltd",
+      "type": "organizations",
+      "current_evidence_count": 0,
+      "timeline_events_count": 2,
+      "suggestions": [
+        "No evidence references found",
+        "Financial impact claimed but limited evidence"
+      ]
+    },
+    {
+      "entity_id": "PLATFORM_001",
+      "name": "Shopify Platform",
+      "type": "platforms",
+      "current_evidence_count": 0,
+      "timeline_events_count": 0,
+      "suggestions": [
+        "No evidence references found",
+        "Financial impact claimed but limited evidence"
+      ]
+    },
+    {
+      "entity_id": "DOMAIN_001",
+      "name": "unknown",
+      "type": "domains",
+      "current_evidence_count": 0,
+      "timeline_events_count": 0,
+      "suggestions": [
+        "No evidence references found"
+      ]
+    },
+    {
+      "entity_id": "DOMAIN_002",
+      "name": "unknown",
+      "type": "domains",
+      "current_evidence_count": 0,
+      "timeline_events_count": 0,
+      "suggestions": [
+        "No evidence references found"
+      ]
+    },
+    {
+      "entity_id": "TRUST_001",
+      "name": "Family Trust",
+      "type": "trust_entities",
+      "current_evidence_count": 0,
+      "timeline_events_count": 0,
+      "suggestions": [
+        "No evidence references found"
+      ]
+    },
+    {
+      "entity_id": "TRUST_001",
+      "name": "Faucitt Family Trust",
+      "type": "trusts",
+      "current_evidence_count": 0,
+      "timeline_events_count": 0,
+      "suggestions": [
+        "No evidence references found",
+        "Financial impact claimed but limited evidence"
+      ]
+    },
+    {
+      "entity_id": "BANK_001",
+      "name": "unknown",
+      "type": "bank_accounts",
+      "current_evidence_count": 0,
+      "timeline_events_count": 0,
+      "suggestions": [
+        "No evidence references found"
+      ]
+    }
+  ],
+  "event_enhancements": [
+    {
+      "event_id": "EVENT_H003",
+      "date": "2019-03-01",
+      "title": "Financial Year Commencement RST/SLG",
+      "category": "financial_structure",
+      "current_evidence_count": 1,
+      "suggestions": [
+        "Financial impact unknown but only 1 evidence items"
+      ]
+    },
+    {
+      "event_id": "EVENT_H004",
+      "date": "2019-05-01",
+      "title": "Financial Year Commencement Villa Via",
+      "category": "financial_structure",
+      "current_evidence_count": 1,
+      "suggestions": [
+        "Financial impact unknown but only 1 evidence items"
+      ]
+    },
+    {
+      "event_id": "EVENT_H007",
+      "date": "2020-04-30",
+      "title": "Villa Via Year-End Profit Extraction",
+      "category": "profit_extraction",
+      "current_evidence_count": 1,
+      "suggestions": [
+        "Financial impact R22,800,000 but only 1 evidence items"
+      ]
+    },
+    {
+      "event_id": "EVENT_D004",
+      "date": "2023-03-15",
+      "title": "False Payment Claim #1 to ReZonance",
+      "category": "fraud",
+      "current_evidence_count": 2,
+      "suggestions": [
+        "Criminal category 'fraud' needs stronger evidence"
+      ]
+    },
+    {
+      "event_id": "EVENT_D005",
+      "date": "2023-09-20",
+      "title": "False Payment Claim #2 to ReZonance",
+      "category": "fraud",
+      "current_evidence_count": 1,
+      "suggestions": [
+        "Financial impact R765,361.34 but only 1 evidence items",
+        "Criminal category 'fraud' needs stronger evidence"
+      ]
+    },
+    {
+      "event_id": "EVENT_026",
+      "date": "2025-08-15",
+      "title": "Gee Email Explaining Domain Switch Instruction",
+      "category": "revenue_theft",
+      "current_evidence_count": 1,
+      "suggestions": [
+        "Financial impact unknown_amount but only 1 evidence items"
+      ]
+    }
+  ],
+  "evidence_summary": {
+    "annexures": {
+      "JF01": 2,
+      "JF02": 3,
+      "JF03": 5,
+      "JF04": 6,
+      "JF05": 7,
+      "JF06": 5,
+      "JF07": 186,
+      "JF08": 38,
+      "JF09": 8,
+      "JF10": 3,
+      "JF11": 1,
+      "JF12": 1,
+      "JF13": 3
+    },
+    "affidavits": 78,
+    "applications": 12,
+    "criminal_case": 5,
+    "analysis_files": 672
+  }
+}
