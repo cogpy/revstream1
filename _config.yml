@@ -15,17 +15,22 @@ kramdown:
 
 # Collections
 collections:
+  filings:
+    output: true
+    permalink: /filings/:path/
   evidence:
     output: true
     permalink: /evidence/:path/
+  analysis:
+    output: true
+    permalink: /analysis/:path/
 
 # Navigation
 header_pages:
   - index.md
-  - applications.md
-  - letter-of-demand-refutation.md
-  - evidence-index.md
-
+  - filings/index.md
+  - evidence/index.md
+  - analysis/index.md
 
 # Exclude from processing
 exclude:
@@ -39,6 +44,11 @@ exclude:
   - LICENSE
   - "*.png"
   - "*.mmd"
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # Plugins
 plugins:

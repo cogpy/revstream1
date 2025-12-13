@@ -1,122 +1,124 @@
-# Application 1: Section 162 Delinquent Director - Evidence
+---
+layout: default
+title: Application 1 Evidence
+---
 
-**Last Updated:** 2025-12-08
+# Application 1: Ex Parte Interdict - Evidence Index
 
-## Evidence Supporting Delinquent Director Application
-
-### Primary Evidence
-
-#### 1. Fiduciary Duty Breaches (Companies Act s76)
-**Annexures:** JF9, JF10  
-**Strength:** Strong  
-**Burden of Proof:** Civil (50%) - **EXCEEDED**
-
-**Evidence:**
-- JF9: Timeline analysis showing systematic pattern of misconduct
-- JF10: Legal analysis documenting specific fiduciary breaches
-- JF3: Financial records showing revenue diversion from RegimA SA to RST
-
-**Violations Proven:**
-- Diversion of corporate opportunity from RegimA SA to RST
-- Acting against interests of RegimA SA
-- Using position to benefit RST unlawfully
-- Instructing Rynette to commit fraud for RegimA SA
-- Failing to act in good faith toward RegimA SA
+**Case Number:** 2025-137857  
+**Application Type:** Ex parte urgent application  
+**Filed:** August 13, 2025  
+**Targets:** Jacqueline Faucitt and Daniel Faucitt
 
 ---
 
-#### 2. Conflict of Interest (Companies Act s75)
-**Annexures:** JF9, JF10  
-**Strength:** Strong  
-**Burden of Proof:** Civil (50%) - **EXCEEDED**
+## Overview
 
-**Evidence:**
-- Failed to disclose conflicts between RST and RegimA SA
-- Failed to recuse from decisions affecting RegimA SA
-- Participated in decisions benefiting RST at expense of RegimA SA
+This page provides a comprehensive index of evidence supporting Application 1, organized by category and cross-referenced with the extended evidence repository at [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7).
 
 ---
 
-#### 3. Fraud and Dishonesty
-**Annexures:** SF2, JF3, JF9  
-**Strength:** Strong (if instruction emails available)  
-**Burden of Proof:** Criminal (95%) - **ACHIEVABLE**
+## Evidence Categories
 
-**Evidence:**
-- SF2: Sage screenshots showing Rynette's control of accounting system
-- JF3: Financial records showing fraudulent revenue diversion
-- JF9: Timeline showing coordinated fraud pattern
+### 1. POPIA Violations
 
----
+**Primary Evidence:**
+- POPIA Violation Notice sent to Peter on 8 July 2025
+- Warehouse access violations
+- Unauthorized data processing
 
-### Supporting Evidence
+**Repository References:**
+- `evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf`
+- `ad-res-j7/ANNEXURES/JF03/popia_violations/`
 
-#### Kayla Pretorius - Independent Business Operations (JF1)
-**The "Forensic Time Capsule"**
-
-This evidence is critical because it establishes the independent nature of the business operations that were later hijacked.
-
-**Proves:**
-- Kayla personally managed Shopify Plus (26 July 2017)
-- Daniel was directly involved (CC'd on email)
-- Independent email addresses used (kayp@rzo.io, kayla@regima.zone)
-- Personal phone number (011 615 29869) - later appropriated
-
-**Refutes Applicant's Claims:**
-- No "head office" control existed
-- Daniel did operate independent businesses
-- Claims of "delusion" are false
+**Related Events:**
+- EVENT_H003: POPIA violation notice
+- EVENT_H004: Warehouse access violations
 
 ---
 
-#### Financial Transparency (JF4)
-**Daniel's Personal Bank Records**
+### 2. Trustee Misconduct
 
-**Date Range:** June 2025 - October 2025  
-**Significance:** Complete financial transparency
+**Primary Evidence:**
+- Trust deed manipulation
+- Unauthorized trustee actions
+- Breach of fiduciary duty
 
-**Proves:**
-- No hidden assets
-- Legitimate banking transactions
-- Proper financial management
-- Nothing to hide
+**Repository References:**
+- `evidence/trust_violations/trustee_misconduct/`
+- `ad-res-j7/ANNEXURES/JF01/trust_documents/`
 
-**Refutes:**
-- Claims of financial misconduct
-- Claims of asset concealment
-
----
-
-#### System Access Restrictions (JF8D)
-**Evidence of Oppressive Conduct**
-
-**Proves:**
-- Peter imposed system access restrictions
-- Daniel prevented from exercising director duties
-- Unfairly prejudicial conduct
+**Related Events:**
+- EVENT_001: Trust structure manipulation
+- EVENT_002: Unauthorized transfers
 
 ---
 
-## Evidence Strength Summary
+### 3. ReZonance Payment System
 
-| Ground | Evidence | Strength | Burden Met |
-|--------|----------|----------|------------|
-| Fiduciary Breach (s76) | JF9, JF10, JF3 | Strong | ✅ Civil (50%) |
-| Conflict of Interest (s75) | JF9, JF10 | Strong | ✅ Civil (50%) |
-| Fraud | SF2, JF3, JF9 | Strong* | ⚖️ Criminal (95%)* |
-| Theft | JF3, JF4 | Strong | ✅ Criminal (95%) |
-| Destruction of Evidence | JF1, JF8 | Strong | ✅ Criminal (95%) |
+**Primary Evidence:**
+- Payment system hijacking
+- Revenue stream diversion
+- Unauthorized payment redirections
 
-*Achievable with Peter→Rynette instruction emails
+**Repository References:**
+- `evidence/rezonance/`
+- `ad-res-j7/evidence/rezonance/`
 
----
-
-## Next Steps
-
-1. Obtain Peter→Rynette instruction emails (if available)
-2. Prepare formal application with annexures
-3. File with CIPC and/or High Court
+**Related Events:**
+- EVENT_004: Payment system hijacking
+- EVENT_005: Revenue diversion
 
 ---
 
-*Evidence references link to the [ad-res-j7 repository](https://github.com/cogpy/ad-res-j7).*
+### 4. Email Control and Correspondence
+
+**Primary Evidence:**
+- Email account hijacking
+- Unauthorized access to business communications
+- Evidence destruction via email deletion
+
+**Repository References:**
+- `evidence/emails/`
+- `ad-res-j7/ANNEXURES/JF05/correspondence/`
+
+**Related Events:**
+- EVENT_006: Email control seizure
+- EVENT_007: Communication interception
+
+---
+
+## Cross-References to ad-res-j7
+
+The extended evidence repository at [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7) contains:
+
+- **2,866 files** of supporting evidence
+- **226.78 MB** of documentation
+- Comprehensive evidence index in `COMPREHENSIVE_EVIDENCE_INDEX.md`
+
+### Key Directories:
+- `ANNEXURES/` - Formal evidence annexures
+- `case_2025_137857/` - Case-specific documentation
+- `FINAL_AFFIDAVIT_PACKAGE/` - Supporting affidavits
+- `evidence/` - Categorized evidence files
+
+---
+
+## Data Model Integration
+
+This evidence index is integrated with the refined data models:
+
+- **Entities Model:** Version 23.0
+- **Events Model:** Version 25.0
+- **Relations Model:** Version 20.0
+
+All evidence references are cross-validated against these models to ensure consistency and completeness.
+
+---
+
+## Navigation
+
+- [← Back to Application 1 Details](application-1.md)
+- [View All Applications](applications.md)
+- [Complete Evidence Index](evidence-index-comprehensive.md)
+- [Home](index.md)

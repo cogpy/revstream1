@@ -149,11 +149,11 @@ Added evidence references to 7 critical events:
 Fixed broken evidence links in 5 files:
 
 **Link Mappings Applied:**
-- `#popia-evidence` → `evidence-index-enhanced.md`
-- `#sage-evidence` → `evidence-index-enhanced.md`
-- `#cipc-evidence` → `evidence-index-enhanced.md`
-- `#rezonance-evidence` → `evidence-index-enhanced.md,24,25FEBS-DanielFaucitt-Outlook.pdf`
-- `#email-evidence` → `evidence-index-enhanced.md`
+- `#popia-evidence` → `evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf`
+- `#sage-evidence` → `evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf`
+- `#cipc-evidence` → `evidence/cipc/347975701_REGIMA_SA_K201708793507.Pdf`
+- `#rezonance-evidence` → `evidence/rezonance/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf`
+- `#email-evidence` → `evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf`
 - And more...
 
 **Files Updated:**

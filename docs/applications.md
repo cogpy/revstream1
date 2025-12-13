@@ -86,11 +86,11 @@ MARCH 15 ──────────────────── AUGUST 20,
 
 ### Critical Evidence Concealed
 
-1. **POPIA Context:** [Violation notice](evidence-index-enhanced.md) sent July 8 → interdict filed Aug 13 (retaliatory)
+1. **POPIA Context:** [Violation notice](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf) sent July 8 → interdict filed Aug 13 (retaliatory)
 2. **Shopify Platform:** Owned by Daniel's UK company since July 2023, not RWD ZA
-3. **ReZonance Seizure:** [Peter and Rynette took control](evidence-index-enhanced.md,24,25FEBS-DanielFaucitt-Outlook.pdf) after Kayla's death
-4. **Sage Control:** [Accounting system seized](evidence-index-enhanced.md), legitimate directors locked out
-5. **Trustee Misconduct:** [Peter's own violations](evidence-index-enhanced.md) as trustee
+3. **ReZonance Seizure:** [Peter and Rynette took control](evidence/rezonance/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf) after Kayla's death
+4. **Sage Control:** [Accounting system seized](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf), legitimate directors locked out
+5. **Trustee Misconduct:** [Peter's own violations](evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf) as trustee
 
 ### Legal Issues
 - Material non-disclosure warranting rescission
@@ -126,7 +126,7 @@ MARCH 15 ──────────────────── AUGUST 20,
 
 ### Why Respondents Withdrew
 
-**Critical Discovery:** [CIPC records](evidence-index-enhanced.md) prove backdating fraud:
+**Critical Discovery:** [CIPC records](evidence/cipc/347975701_REGIMA_SA_K201708793507.Pdf) prove backdating fraud:
 - K OZ CREATIVE → REGIMA SA name change: **2021-03-09**
 - Peter presented 2019 financial statements for "REGIMA SA"
 - Entity was "K OZ CREATIVE" in 2019
@@ -135,7 +135,7 @@ MARCH 15 ──────────────────── AUGUST 20,
 **Additional Evidence:**
 - [R500K fabrication](BANK_STATEMENT_ANALYSIS_R500K_FABRICATION.txt) in bank statements
 - [Fraudulent shell company operations](FRAUDULENT_SHELL_COMPANY_ANALYSIS.md)
-- [Sage control](evidence-index-enhanced.md) makes "investigation" illegitimate
+- [Sage control](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf) makes "investigation" illegitimate
 
 ### Legal Issues
 - Agreements obtained without full disclosure
@@ -167,8 +167,8 @@ MARCH 15 ──────────────────── AUGUST 20,
   - [Shopify platform ownership](Revenue_Stream/02_Hijacking/SHOPIFY_REVENUE_REVELATION_ANALYSIS.md) by Daniel's UK company
   - RWD ZA has no independent revenue stream
   - [R10.27M documented fraud](Revenue_Stream/02_Hijacking/KEY_EVENTS_TIMELINE_MARCH_AUGUST_2025.md)
-  - [ReZonance payment system seizure](evidence-index-enhanced.md,24,25FEBS-DanielFaucitt-Outlook.pdf)
-  - [Sage accounting takeover](evidence-index-enhanced.md)
+  - [ReZonance payment system seizure](evidence/rezonance/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf)
+  - [Sage accounting takeover](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf)
 
 **"Disruptive" Behavior:**
 - CEO requesting to be copied on company correspondence (her fiduciary duty)
@@ -250,7 +250,7 @@ The three applications follow the **textbook curatorship conspiracy pattern:**
 #### 1. POPIA Evidence
 **Relevant to:** Application 1 (trigger), Application 3 (warehouse violations)
 
-📄 [POPIA Violation Notice - July 8, 2025](evidence-index-enhanced.md)
+📄 [POPIA Violation Notice - July 8, 2025](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf)
 
 **Timeline:**
 - July 8, 2025: POPIA notice sent
@@ -261,7 +261,7 @@ The three applications follow the **textbook curatorship conspiracy pattern:**
 #### 2. CIPC Evidence
 **Relevant to:** Application 2 (primary), Application 1 (corporate control)
 
-📄 [CIPC WinDeed Report](evidence-index-enhanced.md)
+📄 [CIPC WinDeed Report](evidence/cipc/347975701_REGIMA_SA_K201708793507.Pdf)
 
 **Critical Facts:**
 - Name change 2021-03-09: K OZ CREATIVE → REGIMA SA
@@ -285,7 +285,7 @@ The three applications follow the **textbook curatorship conspiracy pattern:**
 #### 4. ReZonance Evidence
 **Relevant to:** Application 1 (seizure), Application 2 (forensics), Application 3 (suppression)
 
-📄 [ReZonance Correspondence 2023-2025](evidence-index-enhanced.md,24,25FEBS-DanielFaucitt-Outlook.pdf)
+📄 [ReZonance Correspondence 2023-2025](evidence/rezonance/FW_RezonceREZONANCE23,24,25FEBS-DanielFaucitt-Outlook.pdf)
 
 **Shows:**
 - Pre-Kayla death: Functioning system
@@ -295,7 +295,7 @@ The three applications follow the **textbook curatorship conspiracy pattern:**
 #### 5. Sage Accounting Evidence
 **Relevant to:** All applications (operational control)
 
-📄 [Sage Control Analysis](evidence-index-enhanced.md)
+📄 [Sage Control Analysis](evidence/sage/SAGE_SCREENSHOTS_CONTROL_ANALYSIS.md.pdf)
 
 **Shows:**
 - Peter and Rynette seized accounting system
@@ -310,8 +310,8 @@ The three applications follow the **textbook curatorship conspiracy pattern:**
 #### 6. Email/Corporate Evidence
 **Relevant to:** All applications (corporate structure, roles)
 
-📄 [Operating Entity Lists](evidence-index-enhanced.md&OperatingEntityLists-DanielFaucitt-Outlook.pdf)
-📄 [Trustee Correspondence](evidence-index-enhanced.md)
+📄 [Operating Entity Lists](evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf)
+📄 [Trustee Correspondence](evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf)
 
 **Shows:**
 - Complex corporate structures
@@ -321,7 +321,7 @@ The three applications follow the **textbook curatorship conspiracy pattern:**
 #### 7. Trademark Evidence
 **Relevant to:** Application 1 (ownership misrepresentation), Application 3 (brand truth)
 
-📄 [Trademark Registration UK00914297063](evidence-index-enhanced.md,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf)
+📄 [Trademark Registration UK00914297063](evidence/trademark/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf)
 
 **Shows:** RegimA Zone trademark owned by Daniel's entities
 
@@ -388,7 +388,7 @@ All three applications built on foundation of **158-day revenue hijacking campai
 
 ### Theory 003: Corporate Misconduct
 
-**Application 1:** [CIPC timeline](evidence-index-enhanced.md), Sage seizure, ReZonance takeover
+**Application 1:** [CIPC timeline](evidence/cipc/347975701_REGIMA_SA_K201708793507.Pdf), Sage seizure, ReZonance takeover
 **Application 2:** **CIPC backdating fraud** - 2019 "REGIMA SA" statements impossible
 **Application 3:** Suppression of corporate truth from employees
 
@@ -432,7 +432,7 @@ All three applications built on foundation of **158-day revenue hijacking campai
 
 | **Evidence** | **App 1** | **App 2** | **App 3** | **Significance** |
 |--------------|-----------|-----------|-----------|------------------|
-| [POPIA](evidence-index-enhanced.md) | ✓✓✓ Trigger | ✓ Context | ✓✓ Violations | Retaliatory motive |
+| [POPIA](evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf) | ✓✓✓ Trigger | ✓ Context | ✓✓ Violations | Retaliatory motive |
 | [CIPC](evidence-index-enhanced.md#cipc) | ✓ Timeline | ✓✓✓ Fraud | ✓ Control | Backdating fraud proof |
 | [Shopify Platform](Revenue_Stream/02_Hijacking/SHOPIFY_REVENUE_REVELATION_ANALYSIS.md) | ✓✓✓ Concealed | ✓✓ Context | ✓✓✓ Suppressed | Central fraud |
 | [ReZonance](evidence-index-enhanced.md#rezonance) | ✓✓ Seizure | ✓ Forensics | ✓✓ Suppression | Payment system takeover |

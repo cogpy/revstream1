@@ -1,95 +1,119 @@
-# Application 3: CIPC Companies Act Complaint - Evidence
+---
+layout: default
+title: Application 3 Evidence
+---
 
-**Last Updated:** 2025-12-08
+# Application 3: Contact Interdict - Evidence Index
 
-## Evidence Supporting CIPC Complaint
-
-### Primary Evidence
-
-#### 1. Companies Act Violations
-**Annexures:** JF9, JF10, JF3  
-**Strength:** Strong  
-**Burden of Proof:** Administrative/Civil
-
-**Violations:**
-- Section 75: Conflict of Interest (not disclosed)
-- Section 76: Fiduciary Duty Breaches
-- Section 77: Personal Liability Grounds
-- Section 162: Delinquent Director Grounds
+**Case Number:** 2025-137857  
+**Application Type:** Urgent application  
+**Filed:** November 4, 2025  
+**Target:** Jacqueline Faucitt (First Respondent)  
+**Hearing Date:** November 18, 2025
 
 ---
 
-#### 2. Fraudulent Financial Records
-**Annexures:** SF2, JF3, JF9  
-**Strength:** Strong
+## Overview
 
-**Evidence:**
-- SF2: Sage screenshots showing Rynette's system control
-- JF3: Financial records showing fraudulent entries
-- JF9: Timeline showing pattern of fraud
-
-**Proves:**
-- Submission of fraudulent records to CIPC
-- Manipulation of accounting systems
-- Revenue diversion scheme
+This page provides a comprehensive index of evidence supporting Application 3, focusing on harassment and unauthorized business contact.
 
 ---
 
-#### 3. SARS Tax Fraud
-**Annexures:** SF4, JF3  
-**Strength:** Strong
+## Evidence Categories
 
-**Evidence:**
-- SF4: SARS audit email
-- JF3: Financial records showing discrepancies
-- Revenue diversion affecting tax liability
+### 1. Email Correspondence
 
-**Implications:**
-- Tax fraud (revenue not properly declared)
-- SARS audit triggered by discrepancies
+**Primary Evidence:**
+- Harassment emails (end of September 2025)
+- Training session dispute (September 30, 2025)
+- Demand for desistance (October 1, 2025)
 
----
+**Repository References:**
+- `evidence/emails/`
+- `ad-res-j7/ANNEXURES/JF05/correspondence/`
 
-### Supporting Evidence
-
-#### The "Forensic Time Capsule" (JF1)
-**Establishes True Business Structure**
-
-**Significance:** Proves the actual business structure, contradicting fraudulent records.
+**Related Events:**
+- EVENT_063: Harassment allegations
+- EVENT_064: Training session dispute
+- EVENT_065: Desistance demand
 
 ---
 
-#### Court Documents (JF6)
-**Pattern of Litigation**
+### 2. Sage Control Analysis
 
-**Evidence:**
-- 99 court documents
-- Multiple applications by Peter
-- Aggressive litigation strategy
-- Refusal to resolve amicably
+**Primary Evidence:**
+- Sage accounting system access logs
+- Unauthorized system modifications
+- Financial data manipulation
 
----
+**Repository References:**
+- `evidence/sage/`
+- `ad-res-j7/evidence/sage/`
 
-## Evidence Strength Summary
-
-| Violation | Evidence | Strength | Action |
-|-----------|----------|----------|--------|
-| s75 Conflict of Interest | JF9, JF10 | Strong | CIPC Investigation |
-| s76 Fiduciary Breach | JF9, JF10, JF3 | Strong | CIPC Investigation |
-| s77 Personal Liability | JF3, JF9 | Strong | CIPC Investigation |
-| s162 Delinquent Director | All | Strong | Formal Application |
-| Fraudulent Records | SF2, JF3 | Strong | CIPC + Criminal |
-| Tax Fraud | SF4, JF3 | Strong | NPA Referral |
+**Related Events:**
+- EVENT_013: Sage system manipulation
+- EVENT_014: Access control violations
 
 ---
 
-## Recommended Actions
+### 3. Trademark Documentation
 
-1. **CIPC Complaint:** File formal complaint with all annexures
-2. **NPA Tax Fraud Report:** Refer to National Prosecuting Authority
-3. **SARS Notification:** Notify SARS of fraudulent records
-4. **Commercial Crime:** Submit to Commercial Crime Unit
+**Primary Evidence:**
+- Trademark registration records
+- Unauthorized trademark use
+- Brand identity theft
+
+**Repository References:**
+- `evidence/trademark/`
+- `ad-res-j7/evidence/trademark/`
+
+**Related Events:**
+- EVENT_H006: Trademark violations
+- EVENT_H007: Brand identity theft
 
 ---
 
-*Evidence references link to the [ad-res-j7 repository](https://github.com/cogpy/ad-res-j7).*
+### 4. Business Contact Records
+
+**Primary Evidence:**
+- Unauthorized contact with business entities
+- Client communication interception
+- Supplier relationship interference
+
+**Repository References:**
+- `evidence/business_contact/`
+- `ad-res-j7/evidence/correspondence/`
+
+**Related Events:**
+- EVENT_066: Unauthorized client contact
+- EVENT_067: Supplier interference
+
+---
+
+## Cross-References to ad-res-j7
+
+The extended evidence repository contains:
+
+- Complete email archives
+- System access logs
+- Trademark documentation
+- Business correspondence records
+
+---
+
+## Data Model Integration
+
+This evidence index is integrated with the refined data models:
+
+- **Entities Model:** Version 23.0
+- **Events Model:** Version 25.0
+- **Relations Model:** Version 20.0
+
+---
+
+## Navigation
+
+- [← Back to Application 3 Details](application-3.md)
+- [View All Applications](applications.md)
+- [Complete Evidence Index](evidence-index-comprehensive.md)
+- [Home](index.md)
