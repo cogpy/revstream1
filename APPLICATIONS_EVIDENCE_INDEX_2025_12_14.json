@@ -1,0 +1,171 @@
+{
+  "generated": "2025-12-14T05:38:15.470285",
+  "applications": {
+    "application_1": {
+      "title": "Ex Parte Interdict (August 13, 2025)",
+      "type": "ex_parte_urgent_application",
+      "burden_of_proof": "civil_50_percent",
+      "evidence_references": [
+        {
+          "evidence_id": "JF01",
+          "title": "Shopify Plus Email (26 July 2017)",
+          "location": "ANNEXURES/JF01/",
+          "priority": "CRITICAL",
+          "proves": [
+            "Kayla Pretorius personally managed Shopify Plus onboarding",
+            "Daniel Faucitt directly involved (CC'd on communications)",
+            "Independent business operations (no 'head office' involvement)",
+            "Use of independent email addresses (kayp@rzo.io, kayla@regima.zone)",
+            "Personal phone number (011 615 29869) - later appropriated"
+          ],
+          "refutes": [
+            "Applicant's claim of centralized 'head office' control",
+            "Applicant's claim that Daniel never operated independent businesses"
+          ]
+        },
+        {
+          "evidence_id": "JF06",
+          "title": "Court Documents and Filings",
+          "location": "ANNEXURES/JF06/",
+          "priority": "HIGH",
+          "proves": [
+            "Complete procedural history",
+            "Applicant's applications and claims",
+            "Attorney correspondence and withdrawals"
+          ],
+          "refutes": []
+        },
+        {
+          "evidence_id": "JF08",
+          "title": "Evidence Packages (May-October 2025)",
+          "location": "ANNEXURES/JF08/",
+          "priority": "HIGH",
+          "proves": [
+            "Systematic evidence gathering over time",
+            "Progressive development of case",
+            "Chronological evidence trail"
+          ],
+          "refutes": []
+        },
+        {
+          "evidence_id": "SF6",
+          "title": "Kayla Pretorius Estate Documentation",
+          "location": "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
+          "priority": "CRITICAL",
+          "proves": [
+            "Kayla's role in business operations",
+            "Estate documentation",
+            "Trigger event for business appropriation"
+          ],
+          "refutes": []
+        }
+      ]
+    },
+    "application_2": {
+      "title": "Settlement Agreement Enforcement (October 2025)",
+      "type": "application_to_make_settlement_order",
+      "burden_of_proof": "civil_50_percent",
+      "evidence_references": [
+        {
+          "evidence_id": "JF05",
+          "title": "Correspondence Evidence (JF8 Series)",
+          "location": "ANNEXURES/JF05/",
+          "priority": "MEDIUM",
+          "proves": [
+            "Respondents made good faith attempts to cooperate",
+            "Applicant refused to engage constructively",
+            "System access restrictions imposed by Applicant"
+          ],
+          "refutes": [
+            "Claims that Respondents refused to cooperate",
+            "Claims that Respondents withheld information"
+          ]
+        },
+        {
+          "evidence_id": "JF06",
+          "title": "Court Documents and Filings",
+          "location": "ANNEXURES/JF06/",
+          "priority": "HIGH",
+          "proves": [
+            "Complete procedural history",
+            "Applicant's applications and claims",
+            "Attorney correspondence and withdrawals"
+          ],
+          "refutes": []
+        }
+      ]
+    },
+    "application_3": {
+      "title": "Third Application (November 2025)",
+      "type": "further_relief",
+      "burden_of_proof": "civil_50_percent",
+      "evidence_references": [
+        {
+          "evidence_id": "JF01",
+          "title": "Shopify Plus Email (26 July 2017)",
+          "location": "ANNEXURES/JF01/",
+          "priority": "CRITICAL",
+          "proves": [
+            "Kayla Pretorius personally managed Shopify Plus onboarding",
+            "Daniel Faucitt directly involved (CC'd on communications)",
+            "Independent business operations (no 'head office' involvement)",
+            "Use of independent email addresses (kayp@rzo.io, kayla@regima.zone)",
+            "Personal phone number (011 615 29869) - later appropriated"
+          ],
+          "refutes": [
+            "Applicant's claim of centralized 'head office' control",
+            "Applicant's claim that Daniel never operated independent businesses"
+          ]
+        },
+        {
+          "evidence_id": "JF02",
+          "title": "Shopify Sales Reports",
+          "location": "ANNEXURES/JF02/",
+          "priority": "HIGH",
+          "proves": [
+            "Active Shopify Plus business operations",
+            "Revenue generation through independent channels",
+            "Business performance tracking"
+          ],
+          "refutes": []
+        },
+        {
+          "evidence_id": "JF07",
+          "title": "Screenshots and Visual Evidence",
+          "location": "ANNEXURES/JF07/",
+          "priority": "MEDIUM",
+          "proves": [
+            "Visual documentation of systems and accounts",
+            "Sage accounting system screenshots",
+            "Business operations documentation"
+          ],
+          "refutes": []
+        },
+        {
+          "evidence_id": "JF08",
+          "title": "Evidence Packages (May-October 2025)",
+          "location": "ANNEXURES/JF08/",
+          "priority": "HIGH",
+          "proves": [
+            "Systematic evidence gathering over time",
+            "Progressive development of case",
+            "Chronological evidence trail"
+          ],
+          "refutes": []
+        },
+        {
+          "evidence_id": "SF2",
+          "title": "Sage Screenshots - Rynette Control",
+          "location": "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md",
+          "priority": "CRITICAL",
+          "proves": [
+            "Rynette Farrar's direct control of Sage accounting system",
+            "Account manipulation capabilities",
+            "System access for fraudulent record submission"
+          ],
+          "refutes": []
+        }
+      ]
+    }
+  }
+}

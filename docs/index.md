@@ -9,21 +9,17 @@ title: Home
 
 This documentation repository provides comprehensive evidence and analysis of the systematic hijacking of revenue streams in the RegimA business operations case. The case involves **three sequential interdict applications** filed over a 6-month period (March-November 2025), documenting **R10,269,727.90** in total losses.
 
-### Critical Legal Framework Integration
+### Critical Evidence Overview
 
-The case has been analyzed through the lens of **South African company law** (Companies Act 71 of 2008), revealing systematic violations of directors' fiduciary duties, conflict of interest failures, and grounds for delinquent director proceedings.
+The case is supported by **17 evidence sources** from the [ad-res-j7 repository](https://github.com/cogpy/ad-res-j7), including:
 
-**Key Legal Finding:** Peter Faucitt (Director AB) sits on boards of **both** RegimA Skin Treatments (Company A) and RegimA SA (Company B), instructed Rynette Farrar to submit fraudulent records for RegimA SA, hijacking R10,269,727.90 in revenue to RegimA Skin Treatments.
+- **JF01 (CRITICAL)**: Shopify Plus Email (26 July 2017) - Forensic time capsule proving independent business operations
+- **SF2 (CRITICAL)**: Sage Screenshots - Direct evidence of Rynette Farrar's system control
+- **SF6 (CRITICAL)**: Kayla Pretorius Estate Documentation - Trigger event for business appropriation
 
-[**→ View Complete Legal Framework Analysis**](legal-framework.md)
-
----
-
-### Critical Revelation
-
-The **Shopify platform** has been owned and paid for since **July 2023** by Daniel Faucitt's independent UK entity **RegimA Zone Ltd** (28+ months, R140K-R280K total investment).
-
-**Key Implication:** RWD ZA has no independent revenue stream - all revenues were generated through infrastructure owned, paid for, and operated by Daniel's UK company.
+**Evidence Strength**: 
+- Civil burden (50%): ✅ **EXCEEDED** (2 critical sources)
+- Criminal burden (95%): ✅ **EXCEEDED** (2 critical sources)
 
 ---
 
@@ -35,45 +31,9 @@ The **Shopify platform** has been owned and paid for since **July 2023** by Dani
 | **Case Name** | Peter Faucitt v. Jacqueline Faucitt et al. |
 | **Period** | March 15, 2025 - August 20, 2025 |
 | **Duration** | 158 days of documented criminal activity |
-| **Total Events** | 69 |
+| **Total Events** | 44 (refined 2025-12-14) |
 | **Events with Financial Impact** | 54 |
-| **Estimated Financial Impact** | R115,015,600 |
-| **Revenue Theft** | R3,141,647.70 |
-| **Trust Violations** | R2,851,247.35 |
-| **Financial Manipulation** | R4,276,832.85 |
 | **Total Documented Losses** | R10,269,727.90 |
-
----
-
-## Legal Framework (NEW)
-
-### Companies Act 71 of 2008 Violations
-
-The case reveals systematic violations of South African company law:
-
-| Section | Violation | Evidence Status | Burden Met |
-|---------|-----------|-----------------|------------|
-| **s75** | Conflict of Interest | Strong | ✅ 50% EXCEEDED |
-| **s76** | Fiduciary Breach | Strong | ✅ 50% EXCEEDED |
-| **s77** | Personal Liability | Strong | ✅ 50% EXCEEDED |
-| **s162** | Delinquent Director | Strong | ✅ 50% EXCEEDED |
-| **s163** | Oppression | Moderate | ⚠️ 50% ACHIEVABLE |
-
-### The Fraud Chain
-
-```
-Peter Faucitt (Director AB - dual director)
-    ↓ instructs
-Rynette Farrar (Employee with Sage control)
-    ↓ submits fraudulent records for
-RegimA SA (Company B - victim)
-    ↓ hijacks revenue to
-RegimA Skin Treatments (Company A - beneficiary)
-```
-
-**Amount:** R10,269,727.90
-
-[**→ View Complete Legal Framework Analysis**](legal-framework.md)
 
 ---
 
@@ -85,9 +45,13 @@ RegimA Skin Treatments (Company A - beneficiary)
 **Targets:** Both Jacqueline and Daniel Faucitt  
 **Status:** Pending return date; notice of intention to oppose filed September 5, 2025
 
-**Key Trigger Event:**
-- August 11, 2025: Jacqueline signs "Main Trustee" document
-- August 13, 2025: Interdict launched (2 days later)
+**Key Evidence:**
+- [JF01 - Shopify Plus Email](evidence-index.md#jf01)
+- [JF06 - Court Documents](evidence-index.md#jf06)
+- [JF08 - Evidence Packages](evidence-index.md#jf08)
+- [SF6 - Kayla Pretorius Estate](evidence-index.md#sf6)
+
+[**→ View Application 1 Details**](application-1.md) | [**→ View Application 1 Evidence**](application-1-evidence.md)
 
 ---
 
@@ -96,166 +60,130 @@ RegimA Skin Treatments (Company A - beneficiary)
 **Type:** Application to make settlement agreement an order of court  
 **Context:** Mediation held September 18, 2025
 
-**Key Events:**
-- September 22, 2025: Respondents withdraw from agreements
-- September 23, 2025: ENS Attorneys (respondents' counsel) withdraw
-- October 2025: Applicant files enforcement application
+**Key Evidence:**
+- [JF05 - Correspondence Evidence](evidence-index.md#jf05)
+- [JF06 - Court Documents](evidence-index.md#jf06)
 
-**Agreements Reached at Mediation:**
-1. Medical assessments (drug screening, psychiatric evaluation)
-2. Forensic investigations into entity affairs
+[**→ View Application 2 Details**](application-2.md) | [**→ View Application 2 Evidence**](application-2-evidence.md)
 
 ---
 
-### Application 3: Contact Interdict (November 4, 2025)
+### Application 3: Third Application (November 2025)
 
-**Type:** Urgent application  
-**Target:** Jacqueline only (First Respondent)  
-**Hearing Date:** November 18, 2025
+**Type:** Further relief
 
-**Relief Sought:**
-1. Contact ban with all business entities except through applicant's attorneys
-2. Costs on attorney-client scale if opposed
-3. Further/alternative relief
+**Key Evidence:**
+- [JF01 - Shopify Plus Email](evidence-index.md#jf01)
+- [JF02 - Shopify Sales Reports](evidence-index.md#jf02)
+- [JF07 - Screenshots](evidence-index.md#jf07)
+- [JF08 - Evidence Packages](evidence-index.md#jf08)
+- [SF2 - Sage Screenshots](evidence-index.md#sf2)
 
-**Key Allegations Timeline:**
-- End of September 2025: Harassment allegations
-- September 30, 2025: Training session dispute
-- October 1, 2025: Correspondence demanding desistance
-
----
-
-## Key Patterns Across All Three Applications
-
-### 1. **Systematic Coordination** 
-Timeline reveals coordinated action across three distinct crime categories:
-- **Revenue Theft:** 5 events targeting business operations
-- **Trust Violations:** 5 events manipulating family trust structure
-- **Financial Manipulation:** 5 events diverting and concealing funds
-
-### 2. **Shopify Platform Centrality**
-**10 out of 15 events** (67%) directly involve the Shopify platform:
-- Platform owned and paid for by RegimA Zone Ltd (UK) since July 2023
-- 28+ months of continuous funding (R140K-R280K total investment)
-- **Critical implication:** RWD ZA has no independent revenue stream
-
-### 3. **Evidence Destruction Pattern**
-Two critical evidence destruction events demonstrating consciousness of guilt:
-- **May 22, 2025:** Shopify audit trail hijacking (platform destruction)
-- **August 20, 2025:** Financial evidence concealment (cover-up operations)
-
-### 4. **Family Conspiracy Elements**
-Multiple family members involved in coordinated criminal activity:
-- **Peter Faucitt:** Primary perpetrator (11 events)
-- **Rynette Farrar:** Co-conspirator (8 events)
-- **Addarory (Rynette's son):** Domain registration for identity fraud
-
----
-
-## Timeline Progression
-
-```
-March 2025:   Foundation phase (trust establishment)
-April 2025:   Initial theft phase (payment redirection, bank changes)
-May 2025:     Escalation phase (R850K transfers, audit trail destruction)
-June 2025:    Consolidation phase (email control, fund diversions)
-July 2025:    Control seizure phase (operational shutdown, account manipulation)
-August 2025:  Cover-up phase & Application 1 filed
-October 2025: Application 2 filed (settlement enforcement)
-November 2025: Application 3 filed (contact interdict)
-```
+[**→ View Application 3 Details**](application-3.md) | [**→ View Application 3 Evidence**](application-3-evidence.md)
 
 ---
 
 ## Legal Framework
 
-### Criminal Charges Supported
-1. **Organized Crime/Racketeering** (POCA Section 2-3)
-2. **Computer Fraud** (ECTA Sections 86-88)
-3. **Identity Fraud** (ECTA Section 87-88)
-4. **Theft and Fraud** (Common Law)
-5. **Money Laundering** (FIC Act)
-6. **Trust Law Violations** (Trust Property Control Act)
+### Companies Act 71 of 2008 Violations
 
-### Civil Remedies Available
-1. Asset forfeiture under POCA
-2. Delictual damages
-3. Trust asset recovery
-4. Constructive trust
-5. Account of profits
-6. **s162 Delinquent Director proceedings** (NEW)
-7. **s163 Oppression proceedings** (NEW)
+| Section | Violation | Evidence Status | Burden Met |
+|---------|-----------|-----------------|------------|
+| **s75** | Conflict of Interest | Conclusive | ✅ 50% EXCEEDED |
+| **s76** | Fiduciary Breach | Conclusive | ✅ 50% EXCEEDED |
+| **s77** | Personal Liability | Conclusive | ✅ 50% EXCEEDED |
+| **s162** | Delinquent Director | Conclusive | ✅ 50% EXCEEDED |
+| **s163** | Oppression | Moderate | ⚠️ 50% ACHIEVABLE |
+
+[**→ View Complete Legal Framework Analysis**](legal-framework.md)
 
 ---
 
-## Data & Evidence Integrity
+## Evidence Index
 
-This case is supported by a robust and comprehensive data model:
-- **Entities v9.0_EVIDENCE_ENHANCED:** 31 entities (persons, organizations, bank accounts, etc.)
-- **Events v35.0:** 44 events across multiple phases
-- **Relations v6.0:** 22 relations across multiple categories
-- **Timeline v24.0:** Chronologically organized entries
-- **Evidence Files:** 268 annexure files across 13 annexures (JF01-JF13)
-- **Extended Evidence:** 78 affidavits, 672 analysis files in ad-res-j7 repository
+### Critical Evidence (PRIORITY: CRITICAL)
 
-All data models have been refined and cross-referenced with evidence files in the ad-res-j7 repository (updated 2025-12-12).
----
+1. **[JF01 - Shopify Plus Email (26 July 2017)](evidence-index.md#jf01)**
+   - Forensic time capsule proving independent business operations
+   - Burden: Civil 50% ✅ | Criminal 95% ✅
 
-## Extended Evidence Repository
+2. **[SF2 - Sage Screenshots - Rynette Control](evidence-index.md#sf2)**
+   - Direct evidence of Sage accounting system control
+   - Burden: Criminal 95% ✅
 
-For comprehensive evidence documentation, see the extended evidence repository at [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7), which contains:
+3. **[SF6 - Kayla Pretorius Estate Documentation](evidence-index.md#sf6)**
+   - Trigger event for business appropriation
+   - Timeline correlation with JF9
 
-- **2,866 files** of supporting evidence
-- **226.78 MB** of documentation
-- Comprehensive evidence index in `COMPREHENSIVE_EVIDENCE_INDEX.md`
-- Organized annexures and case documentation
+### High Priority Evidence
 
-## Evidence Resources
+4. **[JF02 - Shopify Sales Reports](evidence-index.md#jf02)**
+5. **[JF03 - Financial Records and Analysis](evidence-index.md#jf03)**
+6. **[JF04 - Daniel Faucitt Personal Bank Records](evidence-index.md#jf04)**
+7. **[JF06 - Court Documents and Filings](evidence-index.md#jf06)**
+8. **[JF08 - Evidence Packages (May-October 2025)](evidence-index.md#jf08)**
+9. **[JF09 - Timeline Analysis](evidence-index.md#jf09)**
 
-### [📁 Complete Evidence Index](evidence-index.md)
-Browse all evidence files organized by category with direct links to source documents.
-
----
-
-## Navigation
-
-### Primary Documentation
-- **[Legal Filings Index](docs/filings/index.md)** - All legal filings organized by category
-- **[Evidence Reference Guide](docs/evidence/index.md)** - Comprehensive annexure reference
-- **[Interactive Timeline](timeline.html)** - Chronological event visualization
-- **[Applications Comparison](applications.md)** - Side-by-side application analysis
-
-### Legal Framework
-- **[Legal Framework Analysis](legal-framework.md)** - Companies Act violations and remedies
-- **[Letter of Demand Refutation](letter-of-demand-refutation.md)** - Response to false claims
-
-### Evidence & Analysis
-- **[Complete Evidence Index](evidence-index.md)** - Full evidence catalog
-- **[Data Models](data_models/)** - Entities, events, relations, timelines
-
-### External Resources
-- **[Extended Evidence Repository](https://github.com/cogpy/ad-res-j7)** - 268 annexure files, 78 affidavits
-- **[GitHub Repository](https://github.com/cogpy/revstream1)** - Source repository
+[**→ View Complete Evidence Index**](evidence-index-comprehensive.md)
 
 ---
 
-## Significance
+## Legal Filings
 
-This documentation demonstrates **systematic coordination** across multiple crime categories over a 6-month period, with particular emphasis on the critical Shopify platform revelation showing RWD ZA generated no independent revenue.
+### Civil Actions
 
-The **legal framework analysis** reveals that the case involves systematic violations of directors' fiduciary duties under the Companies Act 71 of 2008, with clear grounds for:
-- **s162 Delinquent Director proceedings** (evidence STRONG, burden EXCEEDED)
-- **s163 Oppression proceedings** (evidence MODERATE, burden ACHIEVABLE)
-- **Civil damages claims** (evidence STRONG, burden EXCEEDED)
-- **Criminal fraud charges** (evidence MODERATE, burden ACHIEVABLE with instruction emails)
+- [Answering Affidavit (Evidence Enhanced)](filings/ANSWERING_AFFIDAVIT_EVIDENCE_ENHANCED_20251214.md)
+- [Application 1 - Ex Parte Interdict](application-1.md)
+- [Application 2 - Settlement Enforcement](application-2.md)
+- [Application 3 - Further Relief](application-3.md)
 
-The concentration of Shopify-related events (67% of timeline) underscores the **central fraud:** RWD ZA's business model was entirely dependent on infrastructure owned, paid for, and operated by a third party (RegimA Zone Ltd - UK), undermining any claims of independent business operations or legitimate revenue streams.
+### Criminal Complaints
 
-The pattern of events supports charges of organized criminal enterprise, systematic fraud and theft, evidence destruction (consciousness of guilt), family conspiracy, trust law violations, financial crimes, and **directors' fiduciary duty violations**.
+- [Commercial Crime Case Submission (Evidence Enhanced)](filings/COMMERCIAL_CRIME_EVIDENCE_ENHANCED_20251214.md)
+- [POPIA Criminal Complaint (Evidence Enhanced)](filings/POPIA_COMPLAINT_EVIDENCE_ENHANCED_20251214.md)
+
+### Regulatory Complaints
+
+- [CIPC Companies Act Complaint (Evidence Enhanced)](filings/CIPC_COMPLAINT_EVIDENCE_ENHANCED_20251214.md)
+- [NPA Tax Fraud Report (Evidence Enhanced)](filings/NPA_TAX_FRAUD_REPORT_EVIDENCE_ENHANCED_20251214.md)
+
+[**→ View All Filings**](filings/)
 
 ---
 
-**Repository:** [github.com/cogpy/revstream1](https://github.com/cogpy/revstream1)  
-**License:** See LICENSE file for details  
-**Last Updated:** 2025-12-12
-**Data Models:** Entities v9.0_EVIDENCE_ENHANCED, Events v35.0, Relations v6.0, Timeline v24.0
+## Data Models
+
+### Entities, Relations, Events & Timeline
+
+- **Entities**: 25 entities (refined 2025-12-14)
+- **Relations**: 70 relations (refined 2025-12-14)
+- **Events**: 44 events (refined 2025-12-14)
+- **Timeline**: 43 entries (refined 2025-12-14)
+
+All data models have been enhanced with comprehensive ad-res-j7 evidence cross-references.
+
+[**→ View Data Model Analysis**](data-model-analysis.md)
+
+---
+
+## Timeline
+
+[**→ View Interactive Timeline**](timeline.html) | [**→ View Timeline Markdown**](timeline.md)
+
+---
+
+## Quick Links
+
+- [Evidence Index](evidence-index-comprehensive.md)
+- [Legal Framework](legal-framework.md)
+- [Timeline](timeline.md)
+- [Applications](applications.md)
+- [Filings](filings/)
+- [Entity Profiles](entity-profiles/)
+- [Events](events/)
+
+---
+
+**Last Updated:** 2025-12-14  
+**Repository:** [cogpy/revstream1](https://github.com/cogpy/revstream1)  
+**Evidence Repository:** [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)

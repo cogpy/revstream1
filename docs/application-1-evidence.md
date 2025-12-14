@@ -3,122 +3,68 @@ layout: default
 title: Application 1 Evidence
 ---
 
-# Application 1: Ex Parte Interdict - Evidence Index
+# Application 1: Ex Parte Interdict (August 13, 2025)
 
-**Case Number:** 2025-137857  
-**Application Type:** Ex parte urgent application  
-**Filed:** August 13, 2025  
-**Targets:** Jacqueline Faucitt and Daniel Faucitt
+## Evidence References
 
----
-
-## Overview
-
-This page provides a comprehensive index of evidence supporting Application 1, organized by category and cross-referenced with the extended evidence repository at [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7).
+**Type:** ex_parte_urgent_application  
+**Burden of Proof:** civil_50_percent
 
 ---
 
-## Evidence Categories
+### JF01: Shopify Plus Email (26 July 2017)
 
-### 1. POPIA Violations
+**Location:** `ANNEXURES/JF01/`  
+**Priority:** CRITICAL
 
-**Primary Evidence:**
-- POPIA Violation Notice sent to Peter on 8 July 2025
-- Warehouse access violations
-- Unauthorized data processing
+#### Proves
+- ✅ Kayla Pretorius personally managed Shopify Plus onboarding
+- ✅ Daniel Faucitt directly involved (CC'd on communications)
+- ✅ Independent business operations (no 'head office' involvement)
+- ✅ Use of independent email addresses (kayp@rzo.io, kayla@regima.zone)
+- ✅ Personal phone number (011 615 29869) - later appropriated
 
-**Repository References:**
-- `evidence/popia/POPIAViolationNotice-SenttoPeteon8July2025-DanielFaucitt-Outlook.pdf`
-- `ad-res-j7/ANNEXURES/JF03/popia_violations/`
-
-**Related Events:**
-- EVENT_H003: POPIA violation notice
-- EVENT_H004: Warehouse access violations
-
----
-
-### 2. Trustee Misconduct
-
-**Primary Evidence:**
-- Trust deed manipulation
-- Unauthorized trustee actions
-- Breach of fiduciary duty
-
-**Repository References:**
-- `evidence/trust_violations/trustee_misconduct/`
-- `ad-res-j7/ANNEXURES/JF01/trust_documents/`
-
-**Related Events:**
-- EVENT_001: Trust structure manipulation
-- EVENT_002: Unauthorized transfers
+#### Refutes
+- ❌ Applicant's claim of centralized 'head office' control
+- ❌ Applicant's claim that Daniel never operated independent businesses
 
 ---
 
-### 3. ReZonance Payment System
+### JF06: Court Documents and Filings
 
-**Primary Evidence:**
-- Payment system hijacking
-- Revenue stream diversion
-- Unauthorized payment redirections
+**Location:** `ANNEXURES/JF06/`  
+**Priority:** HIGH
 
-**Repository References:**
-- `evidence/rezonance/`
-- `ad-res-j7/evidence/rezonance/`
-
-**Related Events:**
-- EVENT_004: Payment system hijacking
-- EVENT_005: Revenue diversion
+#### Proves
+- ✅ Complete procedural history
+- ✅ Applicant's applications and claims
+- ✅ Attorney correspondence and withdrawals
 
 ---
 
-### 4. Email Control and Correspondence
+### JF08: Evidence Packages (May-October 2025)
 
-**Primary Evidence:**
-- Email account hijacking
-- Unauthorized access to business communications
-- Evidence destruction via email deletion
+**Location:** `ANNEXURES/JF08/`  
+**Priority:** HIGH
 
-**Repository References:**
-- `evidence/emails/`
-- `ad-res-j7/ANNEXURES/JF05/correspondence/`
-
-**Related Events:**
-- EVENT_006: Email control seizure
-- EVENT_007: Communication interception
+#### Proves
+- ✅ Systematic evidence gathering over time
+- ✅ Progressive development of case
+- ✅ Chronological evidence trail
 
 ---
 
-## Cross-References to ad-res-j7
+### SF6: Kayla Pretorius Estate Documentation
 
-The extended evidence repository at [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7) contains:
+**Location:** `ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md`  
+**Priority:** CRITICAL
 
-- **2,866 files** of supporting evidence
-- **226.78 MB** of documentation
-- Comprehensive evidence index in `COMPREHENSIVE_EVIDENCE_INDEX.md`
-
-### Key Directories:
-- `ANNEXURES/` - Formal evidence annexures
-- `case_2025_137857/` - Case-specific documentation
-- `FINAL_AFFIDAVIT_PACKAGE/` - Supporting affidavits
-- `evidence/` - Categorized evidence files
+#### Proves
+- ✅ Kayla's role in business operations
+- ✅ Estate documentation
+- ✅ Trigger event for business appropriation
 
 ---
 
-## Data Model Integration
 
-This evidence index is integrated with the refined data models:
-
-- **Entities Model:** Version 23.0
-- **Events Model:** Version 25.0
-- **Relations Model:** Version 20.0
-
-All evidence references are cross-validated against these models to ensure consistency and completeness.
-
----
-
-## Navigation
-
-- [← Back to Application 1 Details](application-1.md)
-- [View All Applications](applications.md)
-- [Complete Evidence Index](evidence-index-comprehensive.md)
-- [Home](index.md)
+[**← Back to Application 1**](application-1.md) | [**View Evidence Index**](evidence-index-comprehensive.md)
