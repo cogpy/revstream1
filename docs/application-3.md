@@ -1,3 +1,7 @@
+**[<< Back to Comprehensive Evidence Index](./EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md)**
+
+---
+
 ---
 layout: default
 title: Application 3 - Contact Interdict

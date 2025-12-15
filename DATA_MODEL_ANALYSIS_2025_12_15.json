@@ -1,0 +1,98 @@
+{
+  "analysis_date": "2025-12-15T05:37:35.486375",
+  "version": "v36",
+  "entities_analysis": {
+    "total_count": 27,
+    "breakdown": {
+      "persons": 13,
+      "organizations": 12,
+      "platforms": 1,
+      "bank_accounts": 1
+    },
+    "version": "10.0_COMPREHENSIVE_EVIDENCE",
+    "last_updated": "2025-12-14T05:36:53.165409"
+  },
+  "events_analysis": {
+    "total_events": 44,
+    "categories": {
+      "business_relationship": 2,
+      "financial_structure": 2,
+      "financial_manipulation": 11,
+      "profit_extraction": 1,
+      "evidence_documentation": 1,
+      "debt_accumulation": 2,
+      "debt_management": 1,
+      "fraud": 2,
+      "revenue_theft": 7,
+      "transfer_pricing_fraud": 1,
+      "trust_violations": 5,
+      "accounting_fraud": 1,
+      "financial_dispute": 1,
+      "fraud_discovery": 1,
+      "fraud_concealment": 2,
+      "customer_hijacking": 1,
+      "unknown": 2,
+      "legal_action": 1
+    },
+    "with_evidence": 44,
+    "without_evidence": 0,
+    "evidence_coverage": "100.0%"
+  },
+  "relations_analysis": {
+    "total_relations": 30,
+    "breakdown": {
+      "ownership": 7,
+      "control": 8,
+      "financial": 11,
+      "conspiracy": 4
+    },
+    "version": "7.0_EVIDENCE_ENHANCED"
+  },
+  "timeline_analysis": {
+    "total_entries": 43,
+    "date_range": {
+      "start": "2017-06-30",
+      "end": "2025-09-11"
+    },
+    "phases": {
+      "foundation_phase": 14,
+      "escalation_phase": 12,
+      "exposure_phase": 13,
+      "response_phase": 4
+    }
+  },
+  "improvements": [],
+  "evidence_gaps": [],
+  "recommendations": [
+    {
+      "priority": "HIGH",
+      "category": "evidence_integration",
+      "recommendation": "Enhance all events with specific ANNEXURE references from ad-res-j7",
+      "affected_items": 0
+    },
+    {
+      "priority": "HIGH",
+      "category": "timeline_refinement",
+      "recommendation": "Add more granular timeline entries for critical fraud events in March-May 2025",
+      "rationale": "Escalation phase needs more detailed tracking"
+    },
+    {
+      "priority": "MEDIUM",
+      "category": "entity_enhancement",
+      "recommendation": "Add more detailed financial impact tracking per entity",
+      "rationale": "Better burden of proof documentation"
+    },
+    {
+      "priority": "MEDIUM",
+      "category": "relations_expansion",
+      "recommendation": "Map more conspiracy relations based on SF evidence files",
+      "rationale": "SF1-SF8 contain additional relationship evidence"
+    },
+    {
+      "priority": "HIGH",
+      "category": "github_pages",
+      "recommendation": "Create comprehensive evidence index linking all applications to ANNEXURES",
+      "rationale": "Clear evidence trail for each legal claim"
+    }
+  ]
+}

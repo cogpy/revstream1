@@ -46,10 +46,10 @@ The case is supported by **17 evidence sources** from the [ad-res-j7 repository]
 **Status:** Pending return date; notice of intention to oppose filed September 5, 2025
 
 **Key Evidence:**
-- [JF01 - Shopify Plus Email](evidence-index.md#jf01)
-- [JF06 - Court Documents](evidence-index.md#jf06)
-- [JF08 - Evidence Packages](evidence-index.md#jf08)
-- [SF6 - Kayla Pretorius Estate](evidence-index.md#sf6)
+- [JF01 - Shopify Plus Email](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf01)
+- [JF06 - Court Documents](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf06)
+- [JF08 - Evidence Packages](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf08)
+- [SF6 - Kayla Pretorius Estate](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#sf6)
 
 [**→ View Application 1 Details**](application-1.md) | [**→ View Application 1 Evidence**](application-1-evidence.md)
 
@@ -61,8 +61,8 @@ The case is supported by **17 evidence sources** from the [ad-res-j7 repository]
 **Context:** Mediation held September 18, 2025
 
 **Key Evidence:**
-- [JF05 - Correspondence Evidence](evidence-index.md#jf05)
-- [JF06 - Court Documents](evidence-index.md#jf06)
+- [JF05 - Correspondence Evidence](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf05)
+- [JF06 - Court Documents](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf06)
 
 [**→ View Application 2 Details**](application-2.md) | [**→ View Application 2 Evidence**](application-2-evidence.md)
 
@@ -73,11 +73,11 @@ The case is supported by **17 evidence sources** from the [ad-res-j7 repository]
 **Type:** Further relief
 
 **Key Evidence:**
-- [JF01 - Shopify Plus Email](evidence-index.md#jf01)
-- [JF02 - Shopify Sales Reports](evidence-index.md#jf02)
-- [JF07 - Screenshots](evidence-index.md#jf07)
-- [JF08 - Evidence Packages](evidence-index.md#jf08)
-- [SF2 - Sage Screenshots](evidence-index.md#sf2)
+- [JF01 - Shopify Plus Email](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf01)
+- [JF02 - Shopify Sales Reports](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf02)
+- [JF07 - Screenshots](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf07)
+- [JF08 - Evidence Packages](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf08)
+- [SF2 - Sage Screenshots](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#sf2)
 
 [**→ View Application 3 Details**](application-3.md) | [**→ View Application 3 Evidence**](application-3-evidence.md)
 
@@ -103,26 +103,26 @@ The case is supported by **17 evidence sources** from the [ad-res-j7 repository]
 
 ### Critical Evidence (PRIORITY: CRITICAL)
 
-1. **[JF01 - Shopify Plus Email (26 July 2017)](evidence-index.md#jf01)**
+1. **[JF01 - Shopify Plus Email (26 July 2017)](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf01)**
    - Forensic time capsule proving independent business operations
    - Burden: Civil 50% ✅ | Criminal 95% ✅
 
-2. **[SF2 - Sage Screenshots - Rynette Control](evidence-index.md#sf2)**
+2. **[SF2 - Sage Screenshots - Rynette Control](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#sf2)**
    - Direct evidence of Sage accounting system control
    - Burden: Criminal 95% ✅
 
-3. **[SF6 - Kayla Pretorius Estate Documentation](evidence-index.md#sf6)**
+3. **[SF6 - Kayla Pretorius Estate Documentation](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#sf6)**
    - Trigger event for business appropriation
    - Timeline correlation with JF9
 
 ### High Priority Evidence
 
-4. **[JF02 - Shopify Sales Reports](evidence-index.md#jf02)**
-5. **[JF03 - Financial Records and Analysis](evidence-index.md#jf03)**
-6. **[JF04 - Daniel Faucitt Personal Bank Records](evidence-index.md#jf04)**
-7. **[JF06 - Court Documents and Filings](evidence-index.md#jf06)**
-8. **[JF08 - Evidence Packages (May-October 2025)](evidence-index.md#jf08)**
-9. **[JF09 - Timeline Analysis](evidence-index.md#jf09)**
+4. **[JF02 - Shopify Sales Reports](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf02)**
+5. **[JF03 - Financial Records and Analysis](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf03)**
+6. **[JF04 - Daniel Faucitt Personal Bank Records](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf04)**
+7. **[JF06 - Court Documents and Filings](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf06)**
+8. **[JF08 - Evidence Packages (May-October 2025)](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf08)**
+9. **[JF09 - Timeline Analysis](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf09)**
 
 [**→ View Complete Evidence Index**](evidence-index-comprehensive.md)
 

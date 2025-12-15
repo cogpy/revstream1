@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "analysis_date": "2025-12-15T05:38:25.007001",
+    "source_repository": "ad-res-j7",
+    "total_sf_files": 8
+  },
+  "sf_evidence": {
+    "SF1": {
+      "title": "Bantjies Debt Documentation",
+      "file": "SF1_Bantjies_Debt_Documentation.md",
+      "entities_involved": [
+        "PERSON_001",
+        "PERSON_002",
+        "ORG_001"
+      ],
+      "events_referenced": [
+        "EVENT_010",
+        "EVENT_011"
+      ],
+      "legal_significance": "Demonstrates debt manipulation and financial engineering",
+      "burden_of_proof": "civil_50_percent",
+      "content_length": 7005,
+      "exists": true
+    },
+    "SF2": {
+      "title": "Sage Screenshots - Rynette Control",
+      "file": "SF2_Sage_Screenshots_Rynette_Control.md",
+      "entities_involved": [
+        "PERSON_002",
+        "ORG_002",
+        "ORG_003"
+      ],
+      "events_referenced": [
+        "EVENT_003",
+        "EVENT_007",
+        "EVENT_008"
+      ],
+      "legal_significance": "Direct evidence of unauthorized system access and control",
+      "burden_of_proof": "civil_50_percent",
+      "content_length": 10106,
+      "exists": true
+    },
+    "SF3": {
+      "title": "Strategic Logistics Stock Adjustment",
+      "file": "SF3_Strategic_Logistics_Stock_Adjustment.md",
+      "entities_involved": [
+        "ORG_009",
+        "PERSON_002"
+      ],
+      "events_referenced": [
+        "EVENT_012",
+        "EVENT_013"
+      ],
+      "legal_significance": "Evidence of inventory fraud and transfer pricing manipulation",
+      "burden_of_proof": "civil_50_percent",
+      "content_length": 10633,
+      "exists": true
+    },
+    "SF4": {
+      "title": "SARS Audit Email",
+      "file": "SF4_SARS_Audit_Email.md",
+      "entities_involved": [
+        "PERSON_001",
+        "PERSON_002",
+        "ORG_002"
+      ],
+      "events_referenced": [
+        "EVENT_014"
+      ],
+      "legal_significance": "Tax fraud evidence - potential criminal liability",
+      "burden_of_proof": "criminal_95_percent",
+      "content_length": 10919,
+      "exists": true
+    },
+    "SF5": {
+      "title": "Adderory Company Registration & Stock Supply",
+      "file": "SF5_Adderory_Company_Registration_Stock_Supply.md",
+      "entities_involved": [
+        "ORG_010",
+        "PERSON_002"
+      ],
+      "events_referenced": [
+        "EVENT_015"
+      ],
+      "legal_significance": "Shell company creation for fraud purposes",
+      "burden_of_proof": "civil_50_percent",
+      "content_length": 11455,
+      "exists": true
+    },
+    "SF6": {
+      "title": "Kayla Pretorius Estate Documentation",
+      "file": "SF6_Kayla_Pretorius_Estate_Documentation.md",
+      "entities_involved": [
+        "PERSON_003",
+        "PERSON_005",
+        "ORG_002"
+      ],
+      "events_referenced": [
+        "EVENT_H001",
+        "EVENT_001"
+      ],
+      "legal_significance": "Critical evidence of business appropriation after death",
+      "burden_of_proof": "civil_50_percent",
+      "content_length": 11722,
+      "exists": true
+    },
+    "SF7": {
+      "title": "Court Order - Kayla Email Seizure",
+      "file": "SF7_Court_Order_Kayla_Email_Seizure.md",
+      "entities_involved": [
+        "PERSON_003",
+        "PERSON_001"
+      ],
+      "events_referenced": [
+        "EVENT_016"
+      ],
+      "legal_significance": "Evidence of post-mortem email account seizure",
+      "burden_of_proof": "civil_50_percent",
+      "content_length": 10144,
+      "exists": true
+    },
+    "SF8": {
+      "title": "Linda Employment Records",
+      "file": "SF8_Linda_Employment_Records.md",
+      "entities_involved": [
+        "PERSON_006",
+        "ORG_002"
+      ],
+      "events_referenced": [
+        "EVENT_017"
+      ],
+      "legal_significance": "Payroll fraud and employment manipulation",
+      "burden_of_proof": "civil_50_percent",
+      "content_length": 11697,
+      "exists": true
+    }
+  }
+}
