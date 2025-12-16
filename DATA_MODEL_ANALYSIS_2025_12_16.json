@@ -1,0 +1,184 @@
+{
+  "timestamp": "2025-12-16T05:36:54.581892",
+  "current_state": {
+    "entities": {
+      "persons": 13,
+      "organizations": 12,
+      "platforms": 1,
+      "domains": 2
+    },
+    "relations": {
+      "ownership": 7,
+      "control": 8,
+      "financial": 11,
+      "conspiracy": 4
+    },
+    "events": {
+      "total": 68,
+      "with_financial_impact": 57
+    },
+    "timeline": {
+      "total_entries": 0
+    }
+  },
+  "evidence_sources": {
+    "JF01": "Shopify Plus Email (26 July 2017) - CRITICAL",
+    "JF02": "Shopify Sales Reports - HIGH",
+    "JF03": "Financial Records and Analysis - HIGH",
+    "JF04": "Daniel Faucitt Personal Bank Records - HIGH",
+    "JF05": "Correspondence Evidence - MEDIUM",
+    "JF06": "Court Documents and Filings - HIGH",
+    "JF07": "Screenshots and Visual Evidence - MEDIUM",
+    "JF08": "Evidence Packages (May-October 2025) - HIGH",
+    "JF09": "Timeline Analysis - HIGH",
+    "JF10": "Additional Evidence",
+    "JF11": "Additional Evidence",
+    "JF12": "Additional Evidence",
+    "SF1": "Bantjies Debt Documentation",
+    "SF2": "Sage Screenshots - Rynette Control - CRITICAL",
+    "SF3": "Strategic Logistics Stock Adjustment",
+    "SF4": "SARS Audit Email",
+    "SF5": "Adderory Company Registration Stock Supply",
+    "SF6": "Kayla Pretorius Estate Documentation - CRITICAL",
+    "SF7": "Court Order Kayla Email Seizure",
+    "SF8": "Linda Employment Records"
+  },
+  "improvements_needed": [
+    {
+      "type": "entity_evidence",
+      "entity_id": "PERSON_006",
+      "name": "Linda",
+      "issue": "Insufficient ad-res-j7 evidence references",
+      "current_count": 0,
+      "recommended_action": "Add specific evidence file references from ad-res-j7"
+    },
+    {
+      "type": "entity_evidence",
+      "entity_id": "PERSON_009",
+      "name": "Gee",
+      "issue": "Insufficient ad-res-j7 evidence references",
+      "current_count": 0,
+      "recommended_action": "Add specific evidence file references from ad-res-j7"
+    },
+    {
+      "type": "entity_evidence",
+      "entity_id": "PERSON_010",
+      "name": "Bernadine Wright",
+      "issue": "Insufficient ad-res-j7 evidence references",
+      "current_count": 0,
+      "recommended_action": "Add specific evidence file references from ad-res-j7"
+    },
+    {
+      "type": "entity_evidence",
+      "entity_id": "PERSON_011",
+      "name": "Chantal",
+      "issue": "Insufficient ad-res-j7 evidence references",
+      "current_count": 0,
+      "recommended_action": "Add specific evidence file references from ad-res-j7"
+    },
+    {
+      "type": "entity_evidence",
+      "entity_id": "PERSON_012",
+      "name": "Jax",
+      "issue": "Insufficient ad-res-j7 evidence references",
+      "current_count": 0,
+      "recommended_action": "Add specific evidence file references from ad-res-j7"
+    },
+    {
+      "type": "entity_evidence",
+      "entity_id": "PERSON_012",
+      "name": "Marisca Meyer",
+      "issue": "Insufficient ad-res-j7 evidence references",
+      "current_count": 0,
+      "recommended_action": "Add specific evidence file references from ad-res-j7"
+    },
+    {
+      "type": "event_evidence",
+      "event_id": "EVENT_051",
+      "title": null,
+      "date": "2020-02-20",
+      "issue": "No evidence references",
+      "recommended_action": "Add evidence references from JF/SF series"
+    },
+    {
+      "type": "event_evidence",
+      "event_id": "EVENT_052",
+      "title": null,
+      "date": "2020-02-28",
+      "issue": "No evidence references",
+      "recommended_action": "Add evidence references from JF/SF series"
+    },
+    {
+      "type": "event_evidence",
+      "event_id": "EVENT_053",
+      "title": null,
+      "date": "2020-04-30",
+      "issue": "No evidence references",
+      "recommended_action": "Add evidence references from JF/SF series"
+    },
+    {
+      "type": "event_evidence",
+      "event_id": "EVENT_048",
+      "title": null,
+      "date": "2020-08-13",
+      "issue": "No evidence references",
+      "recommended_action": "Add evidence references from JF/SF series"
+    },
+    {
+      "type": "event_evidence",
+      "event_id": "EVENT_050",
+      "title": null,
+      "date": "2025-05-15",
+      "issue": "No evidence references",
+      "recommended_action": "Add evidence references from JF/SF series"
+    },
+    {
+      "type": "event_evidence",
+      "event_id": "EVENT_047",
+      "title": null,
+      "date": "2025-06-10",
+      "issue": "No evidence references",
+      "recommended_action": "Add evidence references from JF/SF series"
+    },
+    {
+      "type": "event_evidence",
+      "event_id": "EVENT_049",
+      "title": null,
+      "date": "2025-08-13",
+      "issue": "No evidence references",
+      "recommended_action": "Add evidence references from JF/SF series"
+    }
+  ],
+  "suggestions": [
+    {
+      "priority": "CRITICAL",
+      "category": "Evidence Integration",
+      "action": "Ensure all entities have comprehensive ad-res-j7 references",
+      "impact": "Strengthens burden of proof for both civil (50%) and criminal (95%) standards"
+    },
+    {
+      "priority": "HIGH",
+      "category": "Timeline Enhancement",
+      "action": "Add critical evidence dates from SF6 (Kayla Pretorius death) and SF2 (Sage control)",
+      "impact": "Establishes clear timeline of conspiracy and evidence destruction"
+    },
+    {
+      "priority": "HIGH",
+      "category": "Event Refinement",
+      "action": "Link all financial impact events to specific evidence sources",
+      "impact": "Quantifies damages with documentary support"
+    },
+    {
+      "priority": "MEDIUM",
+      "category": "Relation Enhancement",
+      "action": "Add conspiracy relations based on SF2 (Rynette control) evidence",
+      "impact": "Demonstrates coordinated action and joint liability"
+    },
+    {
+      "priority": "MEDIUM",
+      "category": "GitHub Pages",
+      "action": "Update all application evidence pages with direct links to ad-res-j7 files",
+      "impact": "Improves navigation and evidence accessibility"
+    }
+  ]
+}

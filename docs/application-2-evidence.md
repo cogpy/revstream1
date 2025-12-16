@@ -1,44 +1,69 @@
 ---
 layout: default
-title: Application 2 Evidence
+title: Application 2 - Evidence
 ---
 
-# Application 2: Settlement Agreement Enforcement (October 2025)
+# APPLICATION 2 EVIDENCE
+## Settlement Agreement Enforcement (October 2025)
 
-## Evidence References
-
-**Type:** application_to_make_settlement_order  
-**Burden of Proof:** civil_50_percent
-
----
-
-### JF05: Correspondence Evidence (JF8 Series)
-
-**Location:** `ANNEXURES/JF05/`  
-**Priority:** MEDIUM
-
-#### Proves
-- ✅ Respondents made good faith attempts to cooperate
-- ✅ Applicant refused to engage constructively
-- ✅ System access restrictions imposed by Applicant
-
-#### Refutes
-- ❌ Claims that Respondents refused to cooperate
-- ❌ Claims that Respondents withheld information
+[← Back to Application 2](application-2.md) | [Home](index.md)
 
 ---
 
-### JF06: Court Documents and Filings
+## EVIDENCE
 
-**Location:** `ANNEXURES/JF06/`  
-**Priority:** HIGH
+### 1. JF05 - Correspondence Evidence
 
-#### Proves
-- ✅ Complete procedural history
-- ✅ Applicant's applications and claims
-- ✅ Attorney correspondence and withdrawals
+**Location**: [ANNEXURES/JF05](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF05)
+
+**Proves**: 
+- Respondents made good faith attempts to cooperate
+- Pattern of obstruction from Applicant
+- System access restrictions imposed by Applicant
+
+[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf05)
 
 ---
 
+### 2. JF06 - Court Documents and Filings
 
-[**← Back to Application 2**](application-2.md) | [**View Evidence Index**](evidence-index-comprehensive.md)
+**Location**: [ANNEXURES/JF06](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF06)
+
+**Contents**: Mediation documentation, settlement agreement, court filings
+
+[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf06)
+
+---
+
+### 3. JF04 - Daniel Faucitt Personal Bank Records
+
+**Location**: [ANNEXURES/JF04](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF04)
+
+**Proves**: Financial transparency, compliance with settlement terms
+
+[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf04)
+
+---
+
+### 4. JF08 - Evidence Packages
+
+**Location**: [ANNEXURES/JF08](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08)
+
+**Relevant Packages**: evidence_package_20251009, evidence_package_20251012
+
+[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf08)
+
+---
+
+## EVIDENCE SUMMARY
+
+| Evidence | Priority | Direct Link |
+|----------|----------|-------------|
+| JF05 | MEDIUM | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF05) |
+| JF06 | HIGH | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF06) |
+| JF04 | HIGH | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF04) |
+| JF08 | HIGH | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08) |
+
+---
+
+[← Back to Application 2](application-2.md) | [Home](index.md) | [Complete Evidence Index](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md)

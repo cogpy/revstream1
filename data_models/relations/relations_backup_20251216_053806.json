@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "8.0_EVIDENCE_ENHANCED",
+    "version": "7.0_EVIDENCE_ENHANCED",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2025-12-16T05:38:06.599590",
-    "changes": "Enhanced with comprehensive ad-res-j7 evidence (2025-12-16)"
+    "last_updated": "2025-12-14T05:36:53.168345",
+    "changes": "Enhanced with ad-res-j7 evidence cross-references (2025-12-14)"
   },
   "relations": {
     "ownership_relations": [
@@ -148,12 +148,7 @@
           "director_appointment",
           "operational_decisions"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168372",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168372"
       },
       {
         "relation_id": "REL_CTRL_002",
@@ -170,12 +165,7 @@
           "payment_redirection_2025_04_01",
           "bank_account_change_2025_04_14"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168374",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168374"
       },
       {
         "relation_id": "REL_CTRL_003",
@@ -188,12 +178,7 @@
           "platform_access_logs",
           "operational_records"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168376",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168376"
       },
       {
         "relation_id": "REL_CTRL_004",
@@ -206,12 +191,7 @@
           "platform_access_logs",
           "operational_records"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168377",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168377"
       },
       {
         "relation_id": "REL_CTRL_005",
@@ -229,12 +209,7 @@
           "trust_asset_misappropriation",
           "systematic_trust_violations"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168378",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168378"
       },
       {
         "relation_id": "REL_CTRL_006",
@@ -246,12 +221,7 @@
           "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors' Report page 4"
         ],
         "significance": "Establishes Peter's control and fiduciary duties; contradicts claims of separation from Regima entities",
-        "evidence_verified": "2025-12-14T05:36:53.168380",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168380"
       },
       {
         "relation_id": "REL_CTRL_007",
@@ -263,12 +233,7 @@
           "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors' Report page 4"
         ],
         "significance": "Establishes Daniel's control and fiduciary duties",
-        "evidence_verified": "2025-12-14T05:36:53.168381",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168381"
       },
       {
         "relation_id": "REL_CTRL_008",
@@ -281,12 +246,7 @@
           "Subscription owner: Rynette Farrar"
         ],
         "significance": "Can deny access to financial records by not renewing subscription; system expired July 23, 2025",
-        "evidence_verified": "2025-12-14T05:36:53.168383",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168383"
       }
     ],
     "conspiracy_relations": [
@@ -422,12 +382,7 @@
           "bank_statements",
           "transaction_logs"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168395",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168395"
       },
       {
         "relation_id": "REL_FIN_002",
@@ -445,12 +400,7 @@
           "bank_statements",
           "transaction_logs"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168397",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168397"
       },
       {
         "relation_id": "REL_FIN_003",
@@ -466,12 +416,7 @@
           "bank_statements",
           "transaction_logs"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168398",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168398"
       },
       {
         "relation_id": "REL_FIN_004",
@@ -487,12 +432,7 @@
           "bank_statements",
           "transaction_logs"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168399",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168399"
       },
       {
         "relation_id": "REL_FIN_005",
@@ -511,12 +451,7 @@
           "transaction_logs",
           "bank_statements"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168401",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168401"
       },
       {
         "relation_id": "REL_FIN_006",
@@ -532,12 +467,7 @@
           "transaction_logs",
           "bank_statements"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168402",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168402"
       },
       {
         "relation_id": "REL_FIN_007",
@@ -553,12 +483,7 @@
           "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 2, page 11"
         ],
         "significance": "Establishes financial relationship between RegimaSA and ReZonance during debt accumulation period",
-        "evidence_verified": "2025-12-14T05:36:53.168404",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168404"
       },
       {
         "relation_id": "REL_FIN_008",
@@ -574,12 +499,7 @@
           "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 4, page 11"
         ],
         "significance": "Establishes Daniel's financial investment and interest in RegimaSA",
-        "evidence_verified": "2025-12-14T05:36:53.168405",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168405"
       },
       {
         "relation_id": "REL_FIN_009",
@@ -595,12 +515,7 @@
           "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 5, page 11"
         ],
         "significance": "Establishes financial relationship with Unicorn Dynamics, another related party entity",
-        "evidence_verified": "2025-12-14T05:36:53.168406",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168406"
       },
       {
         "relation_id": "REL_FIN_010",
@@ -615,12 +530,7 @@
           "Rez-WWD.pdf - Supplier Transactions Report"
         ],
         "significance": "Large debt payments reducing ReZonance debt from R85k to R22k",
-        "evidence_verified": "2025-12-14T05:36:53.168408",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168408"
       },
       {
         "relation_id": "REL_FIN_011",
@@ -635,12 +545,7 @@
           "Unicorn-WWD.pdf - Supplier Transactions Report"
         ],
         "significance": "Cleared all Unicorn Dynamics debts by Feb 2023",
-        "evidence_verified": "2025-12-14T05:36:53.168409",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence",
-          "ANNEXURES/JF03 - Financial records"
-        ]
+        "evidence_verified": "2025-12-14T05:36:53.168409"
       }
     ],
     "victim_perpetrator_relations": [

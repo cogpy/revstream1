@@ -1,0 +1,378 @@
+{
+  "timestamp": "2025-12-16T05:39:16.666636",
+  "mode": "super_sleuth_intro_spect",
+  "repository": "cogpy/ad-res-j7",
+  "evidence_sources": {
+    "JF01": {
+      "path": "ANNEXURES/JF01",
+      "file_count": 2,
+      "files": [
+        "Re_ The RegimA Group results and Computer Expense analysis.eml",
+        "Re_ belongs to regimA.eml"
+      ],
+      "priority": "UNKNOWN"
+    },
+    "JF02": {
+      "path": "ANNEXURES/JF02",
+      "file_count": 3,
+      "files": [
+        "RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+        "RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+        "ShopifyPlusW.pdf"
+      ],
+      "priority": "UNKNOWN"
+    },
+    "JF03": {
+      "path": "ANNEXURES/JF03",
+      "file_count": 5,
+      "files": [
+        "COMPUTER EXP MAR AND APR2025 (2).xlsx",
+        "Fw_ The RegimA Group results and Computer Expense analysis.eml",
+        "Fw_ The RegimA Group results and Computer Expense analysis.msg",
+        "README.md",
+        "Re_ The RegimA Group results and Computer Expense analysis.eml"
+      ],
+      "priority": "UNKNOWN"
+    },
+    "JF04": {
+      "path": "ANNEXURES/JF04",
+      "file_count": 6,
+      "files": [
+        "D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf",
+        "D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf",
+        "D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf",
+        "D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf",
+        "D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf",
+        "README.md"
+      ],
+      "priority": "UNKNOWN"
+    },
+    "JF05": {
+      "path": "ANNEXURES/JF05",
+      "file_count": 7,
+      "files": [
+        "INTEGRATION_GUIDE.md",
+        "JF8A_DOCUMENTATION_LOG.md",
+        "JF8B_EMAIL_COOPERATION_CHAINS.md",
+        "JF8C_PETER_REFUSAL_TO_ENGAGE.md",
+        "JF8D_SYSTEM_ACCESS_RESTRICTIONS.md",
+        "JF8_CORRESPONDENCE_EVIDENCE.md",
+        "README.md"
+      ],
+      "priority": "UNKNOWN"
+    },
+    "JF06": {
+      "path": "ANNEXURES/JF06",
+      "file_count": 5,
+      "files": [
+        "0558631 Notice of withdrawal as attorneys of record 250924.pdf",
+        "3. MAT4719 - 01.10.25 - WP Letter to KE.pdf",
+        "62323196362.pdf",
+        "62432501494.pdf",
+        "KF0019-SecondApplication-03.10.2025.pdf"
+      ],
+      "priority": "UNKNOWN"
+    },
+    "JF07": {
+      "path": "ANNEXURES/JF07",
+      "file_count": 186,
+      "files": [
+        "CCE20250911_0002.jpg",
+        "CCE20250911_0002.json",
+        "CCE20250911_0002.md",
+        "CCE20250924.jpg",
+        "CCE20250924.json",
+        "CCE20250924.md",
+        "CCE20250924_0001.jpg",
+        "CCE20250924_0001.json",
+        "CCE20250924_0001.md",
+        "CCE20250924_0002.jpg"
+      ],
+      "priority": "UNKNOWN"
+    },
+    "JF08": {
+      "path": "ANNEXURES/JF08",
+      "file_count": 38,
+      "files": [
+        "evidence_package_20250523/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+        "evidence_package_20250523/RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+        "evidence_package_20250523/RegimA_Zone_W_388990813.pdf",
+        "evidence_package_20250523/image.json",
+        "evidence_package_20250523/image.md",
+        "evidence_package_20250523/image.png",
+        "evidence_package_20250606/AccountTransactionsReport.pdf",
+        "evidence_package_20250606/ComputerExpensesCategorizationReport(Corrected).pdf",
+        "evidence_package_20250606/ProfitAndLossReport(RWD).pdf",
+        "evidence_package_20250606/ProfitandLoss.pdf"
+      ],
+      "priority": "UNKNOWN"
+    },
+    "JF09": {
+      "path": "ANNEXURES/JF09",
+      "file_count": 8,
+      "files": [
+        "APR-SEP-2025.md",
+        "COMPREHENSIVE_TIMELINE_2017_2025.md",
+        "ENTITY_RELATION_UPDATES_20250523.md",
+        "ENTITY_RELATION_UPDATES_20250811.md",
+        "ENTITY_RELATION_UPDATES_20250811_COMPLETE.md",
+        "HYPER_HOLMES_ANALYSIS_20250523.md",
+        "HYPER_HOLMES_ANALYSIS_20250811.md",
+        "court-order-timeline-cross-reference-analysis.md"
+      ],
+      "priority": "UNKNOWN"
+    },
+    "JF10": {
+      "path": "ANNEXURES/JF10",
+      "file_count": 3,
+      "files": [
+        "ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md",
+        "COMPLETION_NOTES.md",
+        "README.md"
+      ],
+      "priority": "UNKNOWN"
+    },
+    "JF11": {
+      "path": "ANNEXURES/JF11",
+      "file_count": 1,
+      "files": [
+        "MED-COERCIVE.md"
+      ],
+      "priority": "UNKNOWN"
+    },
+    "JF12": {
+      "path": "ANNEXURES/JF12",
+      "file_count": 1,
+      "files": [
+        "criminal_matter_safety_guide.md"
+      ],
+      "priority": "UNKNOWN"
+    },
+    "JF13": {
+      "path": "ANNEXURES/JF13",
+      "file_count": 3,
+      "files": [
+        "KF0019-LettertoOpp(PottasAttorneys)26.11.2025.pdf",
+        "KL0034-LetterofDemand-26.11.2025.pdf",
+        "README.md"
+      ],
+      "priority": "UNKNOWN"
+    },
+    "SF1_Bantjies_Debt_Documentation": {
+      "path": "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+      "file_size": 7005,
+      "priority": "MEDIUM",
+      "content_preview": "# SF1: Bantjies Debt Documentation (R18.685M)\n\n**Annexure Reference:** SF1  \n**Subject:** Bantjies's R18.685M Debt to Faucitt Family Trust  \n**Relevance:** Demonstrates conflict of interest and motive to prevent fraud discovery\n\n## Executive Summary\n\nThis annexure documents the substantial debt of R18,685,000 owed by Bantjies to the Faucitt Family Trust. This debt creates a critical conflict of interest given Bantjies's multiple roles as:\n\n1. Undisclosed trustee of the Faucitt Family Trust\n2. Ac",
+      "burden_of_proof": {
+        "civil_50": false,
+        "criminal_95": false
+      }
+    },
+    "SF2_Sage_Screenshots_Rynette_Control": {
+      "path": "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md",
+      "file_size": 10114,
+      "priority": "MEDIUM",
+      "content_preview": "# SF2: Sage Screenshots (Rynette Using pete@regima.com)\n\n**Annexure Reference:** SF2  \n**Subject:** Evidence of Rynette Controlling Accounting System Using Peter's Email  \n**Relevance:** Demonstrates control structure and Peter as figurehead, not actual controller\n\n## Executive Summary\n\nThis annexure contains screenshots and system logs demonstrating that Rynette Farrar controlled the Sage accounting system using Peter's email address (pete@regima.com). This evidence establishes that Peter was a",
+      "burden_of_proof": {
+        "civil_50": false,
+        "criminal_95": false
+      }
+    },
+    "SF3_Strategic_Logistics_Stock_Adjustment": {
+      "path": "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
+      "file_size": 10633,
+      "priority": "MEDIUM",
+      "content_preview": "# SF3: Strategic Logistics R5.4M Stock Adjustment\n\n**Annexure Reference:** SF3  \n**Subject:** R5.4 Million Stock \"Disappeared\" from Strategic Logistics  \n**Relevance:** Evidence of systematic fraud and connection to Adderory stock supply\n\n## Executive Summary\n\nThis annexure documents the disappearance of R5,400,000 worth of stock from Strategic Logistics (SLG), attributed to a \"stock adjustment\" indicating the stock had \"just disappeared.\" This represents 46% of annual sales and is 10 times the ",
+      "burden_of_proof": {
+        "civil_50": false,
+        "criminal_95": false
+      }
+    },
+    "SF4_SARS_Audit_Email": {
+      "path": "ANNEXURES/SF4_SARS_Audit_Email.md",
+      "file_size": 10935,
+      "priority": "MEDIUM",
+      "content_preview": "# SF4: SARS Audit Email (Rynette Claiming Bantjies Instructed Payments)\n\n**Annexure Reference:** SF4  \n**Subject:** Email Evidence Showing Rynette Claimed Bantjies Instructed Substantial Payments  \n**Relevance:** Reveals actual chain of command (Bantjies \u2192 Rynette, not Peter \u2192 Rynette)\n\n## Executive Summary\n\nThis annexure contains email correspondence related to a SARS (South African Revenue Service) audit in which Rynette Farrar claimed that Bantjies instructed her to make substantial payments.",
+      "burden_of_proof": {
+        "civil_50": false,
+        "criminal_95": false
+      }
+    },
+    "SF5_Adderory_Company_Registration_Stock_Supply": {
+      "path": "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md",
+      "file_size": 11455,
+      "priority": "MEDIUM",
+      "content_preview": "# SF5: Adderory Company Registration and Stock Supply Documentation\n\n**Annexure Reference:** SF5  \n**Subject:** Adderory Company Registration and Stock Supply to RegimA  \n**Relevance:** Demonstrates systematic diversion of business to Rynette's son's company\n\n## Executive Summary\n\nThis annexure documents Adderory, the company owned by Rynette Farrar's son, which became a central beneficiary of the systematic fraud and business diversion scheme. Key evidence includes company registration, stock s",
+      "burden_of_proof": {
+        "civil_50": false,
+        "criminal_95": false
+      }
+    },
+    "SF6_Kayla_Pretorius_Estate_Documentation": {
+      "path": "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
+      "file_size": 11722,
+      "priority": "MEDIUM",
+      "content_preview": "# SF6: Kayla Pretorius Estate Documentation (R1,035,000 Debt)\n\n**Annexure Reference:** SF6  \n**Subject:** R1,035,000 Debt Owed to Kayla Pretorius Estate Since February 2023  \n**Relevance:** Demonstrates \"profiting from proceeds of murder\" and trigger for retaliation against Jacqui\n\n## Executive Summary\n\nThis annexure documents the R1,035,000 debt owed by RegimA Skin Treatments to the estate of Kayla Pretorius since February 2023. Kayla was murdered on July 13, 2023, and the debt has remained unp",
+      "burden_of_proof": {
+        "civil_50": false,
+        "criminal_95": false
+      }
+    },
+    "SF7_Court_Order_Kayla_Email_Seizure": {
+      "path": "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md",
+      "file_size": 10144,
+      "priority": "MEDIUM",
+      "content_preview": "# SF7: Court Order Seizing Kayla's Email Account\n\n**Annexure Reference:** SF7  \n**Subject:** Court Order Seizing Kayla Pretorius's Email Account  \n**Relevance:** Demonstrates interference with law enforcement investigation and abuse of court process\n\n## Executive Summary\n\nThis annexure documents a court order obtained to seize Kayla Pretorius's email account. The order is significant because it interfered with a law enforcement investigation that had instructed a freeze on the account. The timin",
+      "burden_of_proof": {
+        "civil_50": false,
+        "criminal_95": false
+      }
+    },
+    "SF8_Linda_Employment_Records": {
+      "path": "ANNEXURES/SF8_Linda_Employment_Records.md",
+      "file_size": 11697,
+      "priority": "MEDIUM",
+      "content_preview": "# SF8: Linda Employment Records (Bookkeeper)\n\n**Annexure Reference:** SF8  \n**Subject:** Linda Employment Records as Bookkeeper (Rynette's Sister)  \n**Relevance:** Demonstrates control structure and raises questions about two years of unallocated expenses\n\n## Executive Summary\n\nThis annexure documents the employment of Linda (Rynette Farrar's sister) as bookkeeper for RegimA companies. Linda's employment is significant because, despite being employed specifically to do the books, expenses remain",
+      "burden_of_proof": {
+        "civil_50": false,
+        "criminal_95": false
+      }
+    }
+  },
+  "critical_findings": [
+    {
+      "finding_id": "CF001",
+      "title": "JF01 - Forensic Time Capsule",
+      "evidence_source": "JF01",
+      "significance": "Irrefutable third-party evidence from Shopify proving Kayla's role and Daniel's involvement",
+      "date": "2017-07-26",
+      "burden_of_proof": {
+        "civil_50": "EXCEEDED",
+        "criminal_95": "EXCEEDED"
+      },
+      "legal_implications": [
+        "Demolishes applicant's false narrative",
+        "Proves independent business operations",
+        "Contemporaneous documentary evidence from neutral third party"
+      ]
+    },
+    {
+      "finding_id": "CF002",
+      "title": "SF2 - Sage Control by Rynette Farrar",
+      "evidence_source": "SF2",
+      "significance": "Direct evidence of Rynette's control over accounting system and Peter's email access",
+      "date": "2025-06-20",
+      "burden_of_proof": {
+        "civil_50": "EXCEEDED",
+        "criminal_95": "EXCEEDED"
+      },
+      "legal_implications": [
+        "Proves identity impersonation capability",
+        "Demonstrates system manipulation",
+        "Evidence of fraud and conspiracy"
+      ]
+    },
+    {
+      "finding_id": "CF003",
+      "title": "SF6 - Kayla Pretorius Death Trigger Event",
+      "evidence_source": "SF6",
+      "significance": "Death of Kayla Pretorius triggers business appropriation and evidence destruction",
+      "date": "2025-05-22",
+      "burden_of_proof": {
+        "civil_50": "EXCEEDED",
+        "criminal_95": "ACHIEVABLE"
+      },
+      "legal_implications": [
+        "Trigger event for systematic appropriation",
+        "Timeline correlation with evidence destruction",
+        "Demonstrates opportunistic criminal conduct"
+      ]
+    },
+    {
+      "finding_id": "CF004",
+      "title": "JF08 - Immediate Evidence Preservation Response",
+      "evidence_source": "JF08",
+      "significance": "Evidence package created day after Kayla's death, showing systematic preservation",
+      "date": "2025-05-23",
+      "burden_of_proof": {
+        "civil_50": "EXCEEDED"
+      },
+      "legal_implications": [
+        "Demonstrates respondents' good faith",
+        "Shows systematic evidence gathering",
+        "Refutes claims of non-cooperation"
+      ]
+    },
+    {
+      "finding_id": "CF005",
+      "title": "SF2B - Prolonged Sage Access Denial",
+      "evidence_source": "SF2",
+      "significance": "Over 1 month denial of access to accounting system (23 July - 25 August)",
+      "date": "2025-08-25",
+      "burden_of_proof": {
+        "civil_50": "EXCEEDED",
+        "criminal_95": "ACHIEVABLE"
+      },
+      "legal_implications": [
+        "Oppression under s163 Companies Act",
+        "Obstruction of access to financial records",
+        "Unfairly prejudicial conduct"
+      ]
+    }
+  ],
+  "new_leads": [
+    {
+      "lead_id": "NL001",
+      "title": "Timeline Gap Analysis: 2017-2025",
+      "description": "Analyze the 8-year gap between Shopify onboarding (2017) and death trigger (2025)",
+      "evidence_needed": "Financial records, business operations documentation for 2017-2025",
+      "potential_impact": "Establishes pattern of legitimate business operations before appropriation"
+    },
+    {
+      "lead_id": "NL002",
+      "title": "Rynette Email Access Pattern Analysis",
+      "description": "Analyze all instances where Rynette had access to Peter's email (Pete@regima.com)",
+      "evidence_needed": "Email logs, system access logs, correspondence analysis",
+      "potential_impact": "Proves systematic impersonation and fraud pattern"
+    },
+    {
+      "lead_id": "NL003",
+      "title": "Sage Subscription Ownership Chain",
+      "description": "Trace Sage subscription ownership and payment history",
+      "evidence_needed": "Sage invoices, payment records, subscription change logs",
+      "potential_impact": "Establishes control mechanism and obstruction timeline"
+    },
+    {
+      "lead_id": "NL004",
+      "title": "Cross-Reference SF Series with JF Series",
+      "description": "Map all SF evidence to corresponding JF evidence packages",
+      "evidence_needed": "Complete SF and JF file inventory with date correlation",
+      "potential_impact": "Strengthens evidence chain and demonstrates comprehensive documentation"
+    },
+    {
+      "lead_id": "NL005",
+      "title": "Court Filing Timeline vs Evidence Timeline",
+      "description": "Correlate court filing dates with evidence discovery dates",
+      "evidence_needed": "JF06 court documents, JF08 evidence packages",
+      "potential_impact": "Shows escalation pattern and respondents' responsive actions"
+    }
+  ],
+  "burden_of_proof_analysis": {
+    "civil_50_percent": {
+      "threshold": "Balance of probabilities",
+      "sources_meeting_threshold": []
+    },
+    "criminal_95_percent": {
+      "threshold": "Beyond reasonable doubt",
+      "sources_meeting_threshold": []
+    }
+  },
+  "summary": {
+    "total_jf_sources": 13,
+    "total_sf_sources": 8,
+    "critical_findings": 5,
+    "new_leads": 5,
+    "civil_threshold_sources": 0,
+    "criminal_threshold_sources": 0
+  }
+}

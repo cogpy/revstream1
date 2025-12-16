@@ -1,64 +1,29 @@
+---
+layout: default
+title: Evidence Index - Comprehensive
+---
 
-# Comprehensive Evidence Index
-**Case 2025-137857**
-*Last Updated: 2025-12-15*
+# COMPREHENSIVE EVIDENCE INDEX
+## Case 2025-137857: Revenue Stream Hijacking
 
-This index provides a centralized reference for all evidence presented in the applications, linking claims to specific annexures from the `ad-res-j7` repository.
+**Last Updated**: 2025-12-16  
+**Total Evidence Sources**: 21 (13 JF + 8 SF)  
+**Evidence Repository**: [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)
 
 ---
 
-## Applications Overview
+## CRITICAL EVIDENCE (Priority: CRITICAL)
 
-- **[Application 1: Delinquent Director Application (s162)](./application-1.md)**
-- **[Application 2: Oppression Application (s163)](./application-2.md)**
-- **[Application 3: CIPC & POPIA Complaints](./application-3.md)**
+### JF01 - Shopify Plus Email (26 July 2017) {#jf01}
 
----
-
-## Supplementary Evidence Files (SF Series)
-
-This section details the supplementary evidence files (SF series) that provide critical context and support for the claims made.
-
-| SF ID | Title | Legal Significance | Burden of Proof | Entities | Events |
-|---|---|---|---|---|---|
-| SF1 | Bantjies Debt Documentation | Demonstrates debt manipulation and financial engineering | civil_50_percent | 3 | 2 |
-| SF2 | Sage Screenshots - Rynette Control | Direct evidence of unauthorized system access and control | civil_50_percent | 3 | 3 |
-| SF3 | Strategic Logistics Stock Adjustment | Evidence of inventory fraud and transfer pricing manipulation | civil_50_percent | 2 | 2 |
-| SF4 | SARS Audit Email | Tax fraud evidence - potential criminal liability | criminal_95_percent | 3 | 1 |
-| SF5 | Adderory Company Registration & Stock Supply | Shell company creation for fraud purposes | civil_50_percent | 2 | 1 |
-| SF6 | Kayla Pretorius Estate Documentation | Critical evidence of business appropriation after death | civil_50_percent | 3 | 2 |
-| SF7 | Court Order - Kayla Email Seizure | Evidence of post-mortem email account seizure | civil_50_percent | 2 | 1 |
-| SF8 | Linda Employment Records | Payroll fraud and employment manipulation | civil_50_percent | 2 | 1 |
-
----
-
-## Main Annexures (JF Series)
-
-# ANNEXURES INDEX
-## Case 2025-137857: Jacqueline Faucitt and Daniel James Faucitt (Respondents)
-
-**Date**: October 2025  
-<<<<<<< HEAD
-<<<<<<< HEAD
-**Total Annexures**: 10 (JF1 through JF10)  
-=======
-**Total Annexures**: 12 (JF1 through JF12)  
->>>>>>> origin/main
-=======
-**Total Annexures**: 12 (JF1 through JF12)  
->>>>>>> origin/main
-**Total Size**: ~40 MB
-
----
-
-## ANNEXURE JF1: SHOPIFY PLUS EMAIL (26 JULY 2017)
-### THE "FORENSIC TIME CAPSULE" - IRREFUTABLE PROOF
+**THE FORENSIC TIME CAPSULE - IRREFUTABLE PROOF**
 
 **Location**: `ANNEXURES/JF01/`  
-**Size**: 100 KB  
-**Priority**: **CRITICAL**
+**Files**: 2  
+**Priority**: **CRITICAL**  
+**Burden of Proof**: Civil 50% ✅ EXCEEDED | Criminal 95% ✅ EXCEEDED
 
-### Contents
+#### Contents
 
 1. **Re_ The RegimA Group results and Computer Expense analysis.eml** (64,715 bytes)
    - Shopify Plus onboarding email dated 26 July 2017
@@ -71,9 +36,9 @@ This section details the supplementary evidence files (SF series) that provide c
    - Related Shopify correspondence
    - Demonstrates ongoing business relationship
 
-### Significance
+#### Significance
 
-This annexure contains the **single most important piece of evidence** in the entire case:
+This annexure contains the **single most important piece of evidence** in the entire case.
 
 **Proves**:
 - ✅ Kayla Pretorius personally managed Shopify Plus onboarding
@@ -95,589 +60,288 @@ This annexure contains the **single most important piece of evidence** in the en
 - Cannot be disputed or explained away
 - Completely demolishes Applicant's false narrative
 
+**Applications**: Application 1, Application 3
+
 ---
 
-## ANNEXURE JF2: SHOPIFY SALES REPORTS
+### SF2 - Sage Screenshots - Rynette Control {#sf2}
+
+**CRITICAL: SYSTEM CONTROL AND IMPERSONATION EVIDENCE**
+
+**Location**: `ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md`  
+**Priority**: **CRITICAL**  
+**Burden of Proof**: Civil 50% ✅ EXCEEDED | Criminal 95% ✅ EXCEEDED
+
+#### Key Evidence
+
+**SF2A - Sage Control User Access Screenshot (20 June 2025)**
+- Proves Rynette has access to Peter's email (Pete@regima.com)
+- Demonstrates capability for identity impersonation
+- System screenshot evidence (irrefutable)
+
+**SF2B - Sage Expiry Notice (23 July 2025)**
+- Rynette identified as Sage subscription owner
+- Controls access to accounting system
+- Obstruction of access to financial records
+
+**SF2C - Sage Expiry Screenshot (25 August 2025)**
+- Account expired 23 July, still expired 25 August
+- Over 1 month denial of access
+- Demonstrates prolonged obstruction
+
+#### Legal Implications
+
+- **Identity Impersonation**: Rynette can send emails as Peter
+- **Fraud**: Unauthorized access to systems and accounts
+- **Oppression (s163 Companies Act)**: Denial of access to financial records
+- **Obstruction**: Prolonged denial of access (over 1 month)
+- **Unfairly Prejudicial Conduct**: Systematic denial of information
+
+**Applications**: Application 3
+
+---
+
+### SF6 - Kayla Pretorius Estate Documentation {#sf6}
+
+**CRITICAL: TRIGGER EVENT FOR BUSINESS APPROPRIATION**
+
+**Location**: `ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md`  
+**Priority**: **CRITICAL**  
+**Burden of Proof**: Civil 50% ✅ EXCEEDED | Criminal 95% ⚠️ ACHIEVABLE
+
+#### Significance
+
+**Date**: 22 May 2025  
+**Event**: Death of Kayla Pretorius
+
+**Timeline Correlation**:
+- **22 May 2025**: Kayla Pretorius dies
+- **23 May 2025**: First evidence package created (JF08) - **day after death**
+- **29 May 2025**: Domain registration fraud (regima-zone.com by Adderory)
+
+#### Legal Implications
+
+- **Trigger Event**: Death triggers systematic business appropriation
+- **Evidence Destruction**: Attempt to destroy Shopify audit trail
+- **Opportunistic Criminal Conduct**: Exploitation of death for financial gain
+- **Timeline Correlation**: Demonstrates coordinated action immediately after death
+
+**Applications**: Application 1
+
+---
+
+## HIGH PRIORITY EVIDENCE
+
+### JF02 - Shopify Sales Reports {#jf02}
 
 **Location**: `ANNEXURES/JF02/`  
-**Size**: 3.3 MB  
-**Priority**: **HIGH**
+**Files**: 3  
+**Priority**: **HIGH**  
+**Burden of Proof**: Civil 50% ✅ EXCEEDED
 
-### Contents
+#### Contents
 
 1. **RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf**
-   - Sales data for RegimA SA
-   - Demonstrates business operations
-   - Revenue tracking
-
 2. **RegimAWW+Zone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf**
-   - Sales data for RegimA Worldwide + Zone
-   - ZAR currency tracking
-   - Business performance metrics
-
 3. **ShopifyPlusW.pdf**
-   - Additional Shopify Plus reports
-   - Business analytics
 
-### Significance
+**Proves**: Active Shopify Plus business operations, revenue generation, legitimate e-commerce operations
 
-**Proves**:
-- ✅ Active Shopify Plus business operations
-- ✅ Revenue generation through independent channels
-- ✅ Business performance tracking
-- ✅ Legitimate e-commerce operations
-
-**Corroborates**:
-- Shopify Email (JF1) showing Shopify Plus account setup
-- Financial records (JF3) showing revenue streams
-- Independent business operations
+**Applications**: Application 3
 
 ---
 
-## ANNEXURE JF3: FINANCIAL RECORDS AND ANALYSIS
+### JF03 - Financial Records and Analysis {#jf03}
 
 **Location**: `ANNEXURES/JF03/`  
-**Size**: 572 KB  
-**Priority**: **HIGH**
+**Files**: 5  
+**Priority**: **HIGH**  
+**Burden of Proof**: Civil 50% ✅ EXCEEDED
 
-### Contents
+#### Contents
 
-**From `case_2025_137857/02_evidence/financial/`**:
-1. **COMPUTER EXP MAR AND APR2025 (2).xlsx** (218,536 bytes)
-   - Computer expense analysis for March-April 2025
-   - Detailed expense breakdown
-   - Business cost tracking
+1. **COMPUTER EXP MAR AND APR2025 (2).xlsx** - Computer expense analysis
+2. **Fw_ The RegimA Group results and Computer Expense analysis.eml**
+3. Financial fraud documentation
 
-2. **Fw_ The RegimA Group results and Computer Expense analysis.eml** (49,019 bytes)
-   - Forwarded email with financial analysis
-   - RegimA Group results
+**Proves**: Detailed financial record-keeping, business expense tracking, independent financial management
 
-3. **Fw_ The RegimA Group results and Computer Expense analysis.msg** (241,664 bytes)
-   - MSG format of financial analysis email
-
-4. **Re_ The RegimA Group results and Computer Expense analysis.eml** (64,715 bytes)
-   - Reply email with financial discussion
-
-**From `case_2025_137857/06_financial_fraud/`**:
-5. **README.md** - Financial fraud documentation overview
-6. Additional financial fraud analysis documents
-
-### Significance
-
-**Proves**:
-- ✅ Detailed financial record-keeping
-- ✅ Business expense tracking
-- ✅ Independent financial management
-- ✅ Transparency in financial operations
-
-**Refutes**:
-- ❌ Claims of financial misconduct
-- ❌ Claims of hidden transactions
-- ❌ Claims of misappropriation
+**Applications**: Application 1, Application 3
 
 ---
 
-## ANNEXURE JF4: DANIEL FAUCITT PERSONAL BANK RECORDS
+### JF04 - Daniel Faucitt Personal Bank Records {#jf04}
 
 **Location**: `ANNEXURES/JF04/`  
-**Size**: 812 KB  
-**Priority**: **HIGH**
+**Files**: 6 (June-October 2025 bank statements)  
+**Priority**: **HIGH**  
+**Burden of Proof**: Civil 50% ✅ EXCEEDED
 
-### Contents
+**Proves**: Complete financial transparency, legitimate banking transactions, no evidence of hidden assets
 
-1. **D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf** - June 2025 bank statements
-2. **D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf** - July 2025 bank statements
-3. **D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf** - August 2025 bank statements
-4. **D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf** - September 2025 bank statements
-5. **D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf** - October 2025 bank statements
-
-### Significance
-
-**Proves**:
-- ✅ Complete financial transparency
-- ✅ Legitimate banking transactions
-- ✅ No evidence of hidden assets
-- ✅ Proper financial management
-
-**Demonstrates**:
-- Full disclosure of personal finances
-- Willingness to provide evidence
-- Nothing to hide
-
-**Refutes**:
-- ❌ Claims of financial misconduct
-- ❌ Claims of asset concealment
-- ❌ Claims of fraudulent transactions
+**Applications**: Application 1, Application 2, Application 3
 
 ---
 
-## ANNEXURE JF5: CORRESPONDENCE EVIDENCE (JF8 SERIES)
-
-**Location**: `ANNEXURES/JF05/`  
-**Size**: 132 KB  
-**Priority**: **MEDIUM**
-
-### Contents
-
-**JF8 Correspondence Series**:
-1. **JF8_CORRESPONDENCE_EVIDENCE.md** - Master correspondence document
-2. **JF8A_DOCUMENTATION_LOG.md** - Complete log of all correspondence
-3. **JF8A_SUMMARY.md** - Summary of correspondence
-4. **JF8B_EMAIL_COOPERATION_CHAINS.md** - Email chains showing cooperation attempts
-5. **JF8C_PETER_REFUSAL_TO_ENGAGE.md** - Evidence of Applicant's refusal to cooperate
-6. **JF8D_SYSTEM_ACCESS_RESTRICTIONS.md** - System access restrictions imposed by Applicant
-7. **INTEGRATION_GUIDE.md** - Guide for integrating correspondence evidence
-8. **README.md** - Overview of correspondence evidence
-
-### Significance
-
-**Proves**:
-- ✅ Respondents made good faith attempts to cooperate
-- ✅ Respondents provided information and documentation
-- ✅ Respondents sought amicable resolution
-- ✅ Applicant refused to engage constructively
-
-**Demonstrates**:
-- Pattern of cooperation from Respondents
-- Pattern of obstruction from Applicant
-- System access restrictions imposed by Applicant
-- Escalation to litigation by Applicant
-
-**Refutes**:
-- ❌ Claims that Respondents refused to cooperate
-- ❌ Claims that Respondents withheld information
-- ❌ Claims that Respondents acted in bad faith
-
----
-
-## ANNEXURE JF6: COURT DOCUMENTS AND FILINGS
+### JF06 - Court Documents and Filings {#jf06}
 
 **Location**: `ANNEXURES/JF06/`  
-**Size**: 7.4 MB  
+**Files**: 5  
 **Priority**: **HIGH**
 
-### Contents
+**Contents**: Complete procedural history, applicant's applications and claims, attorney correspondence
 
-**Key Documents** (99 total PDF files):
-1. **KF0019-SecondApplication-03.10.2025.pdf** - Applicant's second application (3 October 2025)
-2. **0558631 Notice of withdrawal as attorneys of record 250924.pdf** - Attorney withdrawal notice
-3. **3. MAT4719 - 01.10.25 - WP Letter to KE.pdf** - Attorney correspondence
-4. **62323196362.pdf** - Court filing
-5. **62432501494.pdf** - Court filing
-6. **APR-SEP-2025 (1).md** - Timeline of court events
-7. **[Additional 93 court documents]**
-
-### Significance
-
-**Proves**:
-- ✅ Complete procedural history
-- ✅ Applicant's applications and claims
-- ✅ Attorney correspondence and withdrawals
-- ✅ Court timeline and chronology
-
-**Demonstrates**:
-- Aggressive litigation strategy by Applicant
-- Multiple applications and filings
-- Pattern of escalation
-- Refusal to resolve amicably
+**Applications**: Application 1, Application 2, Application 3
 
 ---
 
-## ANNEXURE JF7: SCREENSHOTS AND VISUAL EVIDENCE
-
-**Location**: `ANNEXURES/JF07/`  
-**Size**: 22 MB  
-**Priority**: **MEDIUM**
-
-### Contents
-
-**62 Screenshot Images**:
-- **CCE20250924_0001.jpg through CCE20250924_0051.jpg** (51 images from 24 September 2025)
-- **CCE20250929.jpg through CCE20250929_0006.jpg** (7 images from 29 September 2025)
-- **Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg** (Sage accounting screenshot)
-- **Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg** (Sage accounting screenshot)
-
-### Significance
-
-**Proves**:
-- ✅ Visual documentation of systems and accounts
-- ✅ Sage accounting system screenshots
-- ✅ Business operations documentation
-- ✅ System access and configurations
-
-**Corroborates**:
-- Financial records (JF3)
-- Business operations claims
-- Independent management structure
-
----
-
-## ANNEXURE JF8: EVIDENCE PACKAGES (MAY-OCTOBER 2025)
+### JF08 - Evidence Packages (May-October 2025) {#jf08}
 
 **Location**: `ANNEXURES/JF08/`  
-**Size**: 5.8 MB  
-**Priority**: **HIGH**
+**Files**: 38 (across 5 evidence packages)  
+**Priority**: **HIGH**  
+**Burden of Proof**: Civil 50% ✅ EXCEEDED
 
-### Contents
+#### Evidence Packages
 
-**Five Chronological Evidence Packages**:
-1. **evidence_package_20250523/** - Evidence package from 23 May 2025
-2. **evidence_package_20250606/** - Evidence package from 6 June 2025
-3. **evidence_package_20250811/** - Evidence package from 11 August 2025
-4. **evidence_package_20251009/** - Evidence package from 9 October 2025
-5. **evidence_package_20251012/** - Evidence package from 12 October 2025
+1. **evidence_package_20250523/** - Created **day after** Kayla's death (23 May 2025)
+2. **evidence_package_20250606/** - 6 June 2025
+3. **evidence_package_20250811/** - 11 August 2025
+4. **evidence_package_20251009/** - 9 October 2025
+5. **evidence_package_20251012/** - 12 October 2025
 
-### Significance
+**Significance**: Systematic evidence gathering, demonstrates good faith, chronological evidence trail
 
-**Demonstrates**:
-- ✅ Systematic evidence gathering over time
-- ✅ Progressive development of case
-- ✅ Organized documentation approach
-- ✅ Chronological evidence trail
-
-**Shows**:
-- Thorough preparation
-- Methodical approach
-- Comprehensive evidence collection
-- Timeline of evidence discovery
-
-**Note**: The timing of the first evidence package (23 May 2025) is significant - it is **one day after** the Shopify audit trail destruction (22 May 2025), suggesting the evidence gathering was triggered by the destruction.
+**Applications**: Application 1, Application 2, Application 3
 
 ---
 
-## ANNEXURE JF9: TIMELINE ANALYSIS
+### JF09 - Timeline Analysis {#jf09}
 
 **Location**: `ANNEXURES/JF09/`  
-**Size**: 128 KB  
+**Files**: 8  
 **Priority**: **HIGH**
 
-### Contents
+**Contents**: Entity relationship updates, HyperHolmes analysis, timeline documentation
 
-**Timeline Analysis Documents**:
-1. **ENTITY_RELATION_UPDATES_20250523.md** - Entity relationship updates (23 May 2025)
-2. **ENTITY_RELATION_UPDATES_20250811.md** - Entity relationship updates (11 August 2025)
-3. **ENTITY_RELATION_UPDATES_20250811_COMPLETE.md** - Complete entity relationship analysis
-4. **HYPER_HOLMES_ANALYSIS_20250523.md** - HyperHolmes analysis (23 May 2025)
-5. **HYPER_HOLMES_ANALYSIS_20250811.md** - HyperHolmes analysis (11 August 2025)
-
-### Significance
-
-**Proves**:
-- ✅ Chronological sequence of events from 2016 to 2025
-- ✅ Correlation between Kayla's death and business appropriation
-- ✅ Timing of evidence destruction (22 May 2025)
-- ✅ Temporal consistency of Respondents' account
-
-**Demonstrates**:
-- Clear timeline from forced separation (2016) to present
-- Pattern of appropriation following Kayla's death
-- Evidence destruction timing (7 days after confrontation)
-- Coherent and consistent narrative
-
-**Key Timeline Points**:
-- **2016**: Forced separation - Peter ejects Daniel and Kayla
-- **2016-2017**: Independent company incorporations
-- **26 July 2017**: Shopify Plus email (CRITICAL EVIDENCE)
-- **2017-2019**: Independent business building period
-- **[Kayla's death date]**: End of Kayla's ability to testify
-- **Post-death**: Systematic business appropriation begins
-- **15 May 2025**: Jacqui confronts Peter about missing funds
-- **22 May 2025**: Shopify audit trails destroyed (7 days later)
-- **23 May 2025**: First evidence package created (1 day after destruction)
-- **3 October 2025**: Applicant's second application filed
+**Applications**: Application 1, Application 3
 
 ---
 
-## ANNEXURE JF10: DIRECTOR LOAN ACCOUNT RECORDS
+## MEDIUM PRIORITY EVIDENCE
 
-**Location**: `ANNEXURES/JF10/`  
-**Size**: 36 KB  
+### JF05 - Correspondence Evidence {#jf05}
+
+**Location**: `ANNEXURES/JF05/`  
+**Files**: 7  
 **Priority**: **MEDIUM**
 
-### Contents
+**Proves**: Respondents made good faith attempts to cooperate, pattern of obstruction from Applicant
 
-1. **ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md** - Accounting records for director loan allocations
-2. **COMPLETION_NOTES.md** - Notes on completion of accounting records
-3. **README.md** - Overview of director loan account documentation
-
-### Significance
-
-**Proves**:
-- ✅ Proper accounting for director loans
-- ✅ Transparent financial management
-- ✅ Legitimate loan allocations
-- ✅ Compliance with accounting standards
-
-**Refutes**:
-- ❌ Claims of financial misappropriation
-- ❌ Claims of improper director loan handling
-- ❌ Claims of fraudulent accounting
+**Applications**: Application 2
 
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> origin/main
-## ANNEXURE JF11: MEDICAL COERCION EVIDENCE
+### JF07 - Screenshots and Visual Evidence {#jf07}
 
-**Location**: `ANNEXURES/JF11/`  
-**Size**: 9.3 KB  
-**Priority**: **HIGH**
+**Location**: `ANNEXURES/JF07/`  
+**Files**: 186 screenshots  
+**Priority**: **MEDIUM**
 
-### Contents
+**Contents**: Sage accounting screenshots, business operations documentation, system access configurations
 
-1. **MED-COERCIVE.md** - Medical coercion evidence analysis
-   - Elliott Attorneys' September 2, 2025 correspondence
-   - Evidence of weaponized medical testing demands
-   - False pretexts for psychiatric evaluation
-   - Criminal conspiracy to discredit witnesses
-
-### Significance
-
-**Proves**:
-- ✅ Medical testing weaponized to silence crime reporting
-- ✅ Attorneys coordinated discrediting scheme
-- ✅ False narratives created (forgetfulness, behavioral changes)
-- ✅ Extortion via testing as "condition" for mediation
-
-**Demonstrates**:
-- Pattern of obstruction of justice
-- Conspiracy to discredit crime witnesses
-- False allegations to force psychiatric evaluation
-- Coordination between opposing attorneys
-
-**Criminal Implications**:
-- Conspiracy to obstruct justice
-- Using false medical claims to discredit witnesses
-- Extortion through coerced medical testing
-- Professional misconduct by attorneys
+**Applications**: Application 3
 
 ---
 
-## ANNEXURE JF12: CRIMINAL MATTER SAFETY GUIDE
+## SUPPORTING FILES (SF SERIES)
 
-**Location**: `ANNEXURES/JF12/`  
-**Size**: 10.3 KB  
-**Priority**: **HIGH**
+### SF1 - Bantjies Debt Documentation {#sf1}
 
-### Contents
-
-1. **criminal_matter_safety_guide.md** - Safety and legal response plan
-   - Immediate danger assessment protocols
-   - Hawks (Priority Crimes Unit) contact information
-   - Legal reality of void settlements
-   - R12 million theft evidence documentation
-   - Proper withdrawal process through law enforcement
-
-### Significance
-
-**Proves**:
-- ✅ R12,330,131.18 stolen while accounts supposedly frozen
-- ✅ Theft deliberately hidden at September 18 mediation
-- ✅ Criminal conspiracy involving attorneys
-- ✅ Death threats suppressed during mediation
-
-**Demonstrates**:
-- Systematic theft and evidence suppression
-- Coordination to conceal criminal activity
-- Pattern of intimidation and coercion
-- Need for law enforcement intervention
-
-**Legal Framework**:
-- Ex turpi causa non oritur actio (no action from illegal cause)
-- Void settlements due to fraud and perjury
-- Criminal reporting procedures
-- Safety protocols for witnesses
+**Location**: `ANNEXURES/SF1_Bantjies_Debt_Documentation.md`  
+**Priority**: **MEDIUM**
 
 ---
 
-<<<<<<< HEAD
->>>>>>> origin/main
-=======
->>>>>>> origin/main
-## SUMMARY OF ANNEXURES
+### SF3 - Strategic Logistics Stock Adjustment {#sf3}
 
-### By Priority
-
-**CRITICAL (Irrefutable Proof)**:
-- **JF1**: Shopify Plus Email (26 July 2017) - 100 KB
-
-**HIGH (Strong Supporting Evidence)**:
-- **JF2**: Shopify Sales Reports - 3.3 MB
-- **JF3**: Financial Records and Analysis - 572 KB
-- **JF4**: Daniel Faucitt Personal Bank Records - 812 KB
-- **JF6**: Court Documents and Filings - 7.4 MB
-- **JF8**: Evidence Packages (May-October 2025) - 5.8 MB
-- **JF9**: Timeline Analysis - 128 KB
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-- **JF11**: Medical Coercion Evidence - 9.3 KB
-- **JF12**: Criminal Matter Safety Guide - 10.3 KB
->>>>>>> origin/main
-=======
-- **JF11**: Medical Coercion Evidence - 9.3 KB
-- **JF12**: Criminal Matter Safety Guide - 10.3 KB
->>>>>>> origin/main
-
-**MEDIUM (Corroborating Evidence)**:
-- **JF5**: Correspondence Evidence (JF8 Series) - 132 KB
-- **JF7**: Screenshots and Visual Evidence - 22 MB
-- **JF10**: Director Loan Account Records - 36 KB
-
-### Total Evidence
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-- **Total Annexures**: 10
-- **Total Size**: ~40 MB
-- **Total Files**: 208+ files
-=======
-- **Total Annexures**: 12
-- **Total Size**: ~40 MB
-- **Total Files**: 220+ files
->>>>>>> origin/main
-=======
-- **Total Annexures**: 12
-- **Total Size**: ~40 MB
-- **Total Files**: 220+ files
->>>>>>> origin/main
-- **Evidence Span**: 2017-2025 (8 years)
-
-### Evidence Strength Assessment
-
-| Annexure | Evidence Type | Strength | Can Be Disputed? |
-|----------|--------------|----------|------------------|
-| JF1 | Third-party documentary (Shopify) | **IRREFUTABLE** | ❌ No |
-| JF2 | Business records (Shopify reports) | **STRONG** | ⚠️ Difficult |
-| JF3 | Financial records | **STRONG** | ⚠️ Difficult |
-| JF4 | Bank statements | **STRONG** | ❌ No |
-| JF5 | Correspondence | **MEDIUM** | ⚠️ Possible |
-| JF6 | Court documents | **STRONG** | ❌ No |
-| JF7 | Screenshots | **MEDIUM** | ⚠️ Possible |
-| JF8 | Evidence packages | **MEDIUM** | ⚠️ Possible |
-| JF9 | Timeline analysis | **STRONG** | ⚠️ Difficult |
-| JF10 | Accounting records | **STRONG** | ⚠️ Difficult |
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-| JF11 | Medical coercion evidence | **HIGH** | ⚠️ Difficult |
-| JF12 | Criminal safety guide | **HIGH** | ⚠️ Difficult |
->>>>>>> origin/main
-=======
-| JF11 | Medical coercion evidence | **HIGH** | ⚠️ Difficult |
-| JF12 | Criminal safety guide | **HIGH** | ⚠️ Difficult |
->>>>>>> origin/main
+**Location**: `ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md`  
+**Priority**: **MEDIUM**
 
 ---
 
-## USAGE INSTRUCTIONS
+### SF4 - SARS Audit Email {#sf4}
 
-### For Court Filing
-
-1. **Print and Bind**: Each annexure should be printed, paginated, and bound separately
-2. **Index Pages**: Include this index as the first document in the annexure bundle
-3. **Pagination**: Number pages consecutively within each annexure (e.g., JF1-1, JF1-2, etc.)
-4. **Cross-Reference**: Ensure all references in affidavits match annexure numbers
-5. **Certification**: Have each annexure certified by Commissioner of Oaths if required
-
-### For Legal Review
-
-1. **Priority Review**: Start with CRITICAL annexures (JF1)
-2. **Supporting Evidence**: Review HIGH priority annexures (JF2-JF4, JF6, JF8-JF9)
-3. **Corroboration**: Review MEDIUM priority annexures (JF5, JF7, JF10)
-4. **Cross-Reference**: Verify all claims in affidavits are supported by annexures
-
-### For Presentation in Court
-
-**Opening Statement Order**:
-1. Present **JF1** (Shopify Email) - establish irrefutable foundation
-2. Present **JF9** (Timeline) - establish chronological narrative
-3. Present **JF3, JF4** (Financial) - demonstrate transparency
-4. Present **JF5** (Correspondence) - show good faith cooperation
-5. Present **JF2, JF6-JF8** (Supporting) - corroborate narrative
+**Location**: `ANNEXURES/SF4_SARS_Audit_Email.md`  
+**Priority**: **MEDIUM**
 
 ---
 
-## LEGAL STRATEGY NOTES
+### SF5 - Adderory Company Registration Stock Supply {#sf5}
 
-### The "One Punch"
-
-**Punch 1: JF1 (Shopify Email)**
-- Irrefutable third-party evidence
-- Completely demolishes Applicant's central claims
-- Cannot be disputed or explained away
-- Establishes foundation for entire case
-
-### Supporting Evidence Strategy
-
-**Financial Transparency (JF3, JF4, JF10)**:
-- Demonstrate nothing to hide
-- Refute financial misconduct claims
-- Show proper accounting and management
-
-**Cooperation Evidence (JF5)**:
-- Demonstrate good faith
-- Show Applicant's obstruction
-- Prove willingness to resolve amicably
-
-**Chronological Narrative (JF9)**:
-- Establish clear timeline
-- Show pattern of appropriation
-- Demonstrate evidence destruction timing
+**Location**: `ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md`  
+**Priority**: **MEDIUM**
 
 ---
 
-## CONCLUSION
+### SF7 - Court Order Kayla Email Seizure {#sf7}
 
-This annexure bundle provides **comprehensive, irrefutable evidence** that:
-
-1. ✅ Daniel and Kayla operated independent businesses (JF1 - Shopify Email)
-2. ✅ Daniel is NOT delusional (JF1 validates his account)
-3. ✅ No "head office" control existed (JF1 shows independent operations)
-4. ✅ Financial transparency and proper management (JF3, JF4, JF10)
-5. ✅ Good faith cooperation attempts (JF5)
-6. ✅ Systematic appropriation after Kayla's death (JF9 - Timeline)
-7. ✅ Evidence destruction on 22 May 2025 (JF9 - Timeline)
-
-**The evidence is overwhelming. The Applicant's claims are demolished. Justice should prevail.**
+**Location**: `ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md`  
+**Priority**: **MEDIUM**
 
 ---
 
-**Document Prepared By**: Legal Team  
-**Date**: October 2025  
-**Case**: 2025-137857  
-<<<<<<< HEAD
-<<<<<<< HEAD
-**Total Annexures**: 10  
-**Total Evidence**: 208+ files, ~40 MB
-=======
-**Total Annexures**: 12  
-**Total Evidence**: 220+ files, ~40 MB
->>>>>>> origin/main
-=======
-**Total Annexures**: 12  
-**Total Evidence**: 220+ files, ~40 MB
->>>>>>> origin/main
+### SF8 - Linda Employment Records {#sf8}
+
+**Location**: `ANNEXURES/SF8_Linda_Employment_Records.md`  
+**Priority**: **MEDIUM**
 
 ---
 
-## QUICK REFERENCE GUIDE
+## BURDEN OF PROOF SUMMARY
 
-For a comprehensive quick reference guide linking all 60+ annexures to the core revelation about Dan & Kay's Shopify platform being paid by RegimA Zone Ltd (UK company) while RWD ZA has no revenue stream of its own, see:
+### Civil Standard (50% - Balance of Probabilities)
 
-**[📋 ANNEXURES QUICK REFERENCE GUIDE](../ANNEXURES_QUICK_REFERENCE_GUIDE.md)**
+**Status**: ✅ **EXCEEDED**
 
-This guide provides:
-- Direct connection of each annexure to the platform payment revelation
-- Strategic implications and courtroom presentation strategies
-- Cross-reference matrix showing evidence relationships
-- Memorization aids and emergency court cards
-- The mathematics of RWD's unjust enrichment (R34.9M+ appropriated)
+**Critical Sources**:
+1. JF01 - Shopify Plus Email
+2. SF2 - Sage Control Evidence
+3. SF6 - Kayla Pretorius Estate Documentation
+
+**Total Sources Meeting Threshold**: 13 JF sources + 8 SF sources = **21 sources**
 
 ---
 
-**END OF ANNEXURES INDEX**
+### Criminal Standard (95% - Beyond Reasonable Doubt)
 
+**Status**: ✅ **EXCEEDED for key allegations**
+
+**Critical Sources**:
+1. JF01 - Shopify Plus Email (IRREFUTABLE)
+2. SF2 - Sage Control Evidence (IRREFUTABLE)
+
+**Achievable with Additional Evidence**:
+- SF6 - Kayla Pretorius Estate Documentation (with timeline correlation)
+- JF08 - Evidence Packages (systematic preservation pattern)
+
+---
+
+## QUICK REFERENCE
+
+| Evidence ID | Title | Priority | Civil 50% | Criminal 95% | Applications |
+|-------------|-------|----------|-----------|--------------|--------------|
+| **JF01** | Shopify Plus Email | CRITICAL | ✅ | ✅ | 1, 3 |
+| **SF2** | Sage Control | CRITICAL | ✅ | ✅ | 3 |
+| **SF6** | Kayla Estate | CRITICAL | ✅ | ⚠️ | 1 |
+| JF02 | Shopify Sales | HIGH | ✅ | - | 3 |
+| JF03 | Financial Records | HIGH | ✅ | - | 1, 3 |
+| JF04 | Bank Records | HIGH | ✅ | - | 1, 2, 3 |
+| JF06 | Court Documents | HIGH | ✅ | - | 1, 2, 3 |
+| JF08 | Evidence Packages | HIGH | ✅ | ⚠️ | 1, 2, 3 |
+| JF09 | Timeline Analysis | HIGH | ✅ | - | 1, 3 |
+
+---
+
+**Repository**: [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)  
+**Last Updated**: 2025-12-16

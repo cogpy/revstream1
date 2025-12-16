@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "11.0_COMPREHENSIVE_EVIDENCE_ENHANCED",
+    "version": "10.0_COMPREHENSIVE_EVIDENCE",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2025-12-16T05:38:06.599564",
-    "changes": "Comprehensive evidence enhancement (2025-12-16)"
+    "last_updated": "2025-12-14T05:36:53.165409",
+    "changes": "Comprehensive ad-res-j7 evidence integration (2025-12-14)"
   },
   "entities": {
     "persons": [
@@ -66,10 +66,9 @@
           "ANNEXURES/JF06 - Court applications and filings",
           "ANNEXURES/JF08/evidence_package_20251012 - Comprehensive fraud timeline",
           "1-CIVIL-RESPONSE - Answering affidavit documentation",
-          "SF2_Sage_Screenshots_Rynette_Control.md - System control evidence",
-          "SF6_Kayla_Pretorius_Estate_Documentation.md - Trigger event for appropriation"
+          "SF2_Sage_Screenshots_Rynette_Control.md - System control evidence"
         ],
-        "evidence_enhanced": "2025-12-16T05:38:06.599495",
+        "evidence_enhanced": "2025-12-14T05:36:53.165436",
         "evidence_strength": "conclusive",
         "criminal_threshold": "95%_exceeded"
       },
@@ -131,12 +130,12 @@
           "JF09 - Domain registration fraud evidence"
         ],
         "ad_res_j7_references": [
-          "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - CRITICAL: Proves system control",
-          "ANNEXURES/JF08 - Evidence packages showing payment redirection",
-          "ANNEXURES/JF05 - Correspondence showing coordination",
-          "ANNEXURES/JF03 - Financial records showing unauthorized transactions"
+          "SF2_Sage_Screenshots_Rynette_Control.md - Direct evidence of Sage system control",
+          "ANNEXURES/JF07 - Screenshots showing account manipulation",
+          "ANNEXURES/JF08/evidence_package_20250606 - Payment redirection evidence",
+          "1-CIVIL-RESPONSE/financial-flows - Bank account change documentation"
         ],
-        "evidence_enhanced": "2025-12-16T05:38:06.599519",
+        "evidence_enhanced": "2025-12-14T05:36:53.165439",
         "evidence_strength": "conclusive",
         "criminal_threshold": "95%_exceeded"
       },
@@ -160,12 +159,11 @@
           "1-CIVIL-RESPONSE - Answering affidavit"
         ],
         "ad_res_j7_references": [
-          "ANNEXURES/JF05 - Correspondence evidence",
-          "ANNEXURES/JF06 - Court documents and filings",
-          "ANNEXURES/JF08 - Evidence packages",
-          "1-CIVIL-RESPONSE - Answering affidavit"
+          "1-CIVIL-RESPONSE/ANSWERING_AFFIDAVIT_JACQUELINE_FAUCITT.md - Primary affidavit",
+          "ANNEXURES/JF06 - Court documents and responses",
+          "ANNEXURES/JF08/evidence_package_20250811 - Trust documentation"
         ],
-        "evidence_enhanced": "2025-12-16T05:38:06.599525",
+        "evidence_enhanced": "2025-12-14T05:36:53.165441",
         "evidence_strength": "conclusive"
       },
       {
@@ -195,12 +193,13 @@
           "1-CIVIL-RESPONSE - Answering affidavit"
         ],
         "ad_res_j7_references": [
-          "ANNEXURES/JF01 - Shopify Plus email (THE FORENSIC TIME CAPSULE)",
-          "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - CRITICAL: Death and estate",
-          "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Email seizure order",
-          "ANNEXURES/JF02 - Shopify sales reports under her management"
+          "ANNEXURES/JF01 - Shopify Plus email (CC'd, business involvement)",
+          "ANNEXURES/JF02 - Shopify sales reports for RegimA Zone Ltd",
+          "ANNEXURES/JF04 - Personal bank records (complete transparency)",
+          "1-CIVIL-RESPONSE - Answering affidavit and evidence",
+          "SF5_Adderory_Company_Registration_Stock_Supply.md - Company ownership"
         ],
-        "evidence_enhanced": "2025-12-16T05:38:06.599532",
+        "evidence_enhanced": "2025-12-14T05:36:53.165443",
         "evidence_strength": "conclusive"
       },
       {
@@ -214,11 +213,7 @@
           "sister_of_PERSON_002",
           "employed_bookkeeper"
         ],
-        "additional_notes": "Employed to do books while Rynette controlled accounts system",
-        "ad_res_j7_references": [
-          "ANNEXURES/SF8_Linda_Employment_Records.md - Employment documentation"
-        ],
-        "evidence_enhanced": "2025-12-16T05:38:06.599539"
+        "additional_notes": "Employed to do books while Rynette controlled accounts system"
       },
       {
         "entity_id": "PERSON_007",
@@ -407,13 +402,12 @@
           "JF09 - Identity fraud documentation"
         ],
         "ad_res_j7_references": [
-          "ANNEXURES/JF01 - Shopify Plus email (CC'd, proves involvement)",
-          "ANNEXURES/JF04 - Personal bank records (full transparency)",
-          "ANNEXURES/JF06 - Court documents and responses",
-          "ANNEXURES/JF08 - Evidence packages compiled by Daniel",
-          "SF6_Kayla_Pretorius_Estate_Documentation.md - Relationship context"
+          "SF6_Kayla_Pretorius_Estate_Documentation.md - Estate and business role documentation",
+          "SF7_Court_Order_Kayla_Email_Seizure.md - Court order evidence",
+          "ANNEXURES/JF01 - Shopify Plus email (kayp@rzo.io, kayla@regima.zone)",
+          "ANNEXURES/JF08/evidence_package_20250523 - Business operations evidence"
         ],
-        "evidence_enhanced": "2025-12-16T05:38:06.599556",
+        "evidence_enhanced": "2025-12-14T05:36:53.165450",
         "evidence_strength": "strong"
       },
       {

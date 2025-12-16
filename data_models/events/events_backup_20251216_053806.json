@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "9.0_EVIDENCE_ENHANCED",
+    "version": "8.0",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 62,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2025-12-16T05:38:06.599641",
-    "changes": "Enhanced all events with evidence references (2025-12-16)"
+    "last_updated": "2025-11-18",
+    "changes": "Correction 2025-11-19: Clarified RegimaSA vs RegimA SA; added new findings from financial documents, Sage screenshots, and Bantjes email"
   },
   "events": [
     {
@@ -156,12 +156,7 @@
       "additional_notes": "RWW R500K stock provision write-back, RWW R810K admin fee reallocation, SLG R252K admin fee reallocation, SLG R80K production cost transfer to RST",
       "perpetrators": [
         "PERSON_007"
-      ],
-      "evidence": [
-        "JF08 - Evidence packages",
-        "JF09 - Timeline analysis"
-      ],
-      "evidence_enhanced": "2025-12-16T05:38:06.599602"
+      ]
     },
     {
       "event_id": "EVENT_H006",
@@ -213,12 +208,7 @@
       "additional_notes": "Year-end adjustment showing established inter-company loan structure",
       "perpetrators": [
         "PERSON_007"
-      ],
-      "evidence": [
-        "JF08 - Evidence packages",
-        "JF09 - Timeline analysis"
-      ],
-      "evidence_enhanced": "2025-12-16T05:38:06.599605"
+      ]
     },
     {
       "event_id": "EVENT_H007",
@@ -267,12 +257,7 @@
       "perpetrators": [
         "PERSON_001",
         "PERSON_007"
-      ],
-      "evidence": [
-        "JF08 - Evidence packages",
-        "JF09 - Timeline analysis"
-      ],
-      "evidence_enhanced": "2025-12-16T05:38:06.599607"
+      ]
     },
     {
       "event_id": "EVENT_H008",
@@ -322,12 +307,7 @@
       "additional_notes": "Email from Danie Bantjies to Bernadine Wright, Jacqui, Peter, Rynette, and Daniel with final trial balances for financial statement finalization meeting",
       "perpetrators": [
         "PERSON_007"
-      ],
-      "evidence": [
-        "JF08 - Evidence packages",
-        "JF09 - Timeline analysis"
-      ],
-      "evidence_enhanced": "2025-12-16T05:38:06.599609"
+      ]
     },
     {
       "event_id": "EVENT_H018",
@@ -1058,12 +1038,7 @@
         "note": "Transfers included revenue from Shopify platform funded by RegimA Zone Ltd",
         "revelation": "R850K+ transferred included revenue from platform paid by Dan's UK company over 28 months"
       },
-      "crime_type": "Unauthorized fund transfers, breach of fiduciary duty",
-      "evidence": [
-        "JF08 - Evidence packages",
-        "JF09 - Timeline analysis"
-      ],
-      "evidence_enhanced": "2025-12-16T05:38:06.599617"
+      "crime_type": "Unauthorized fund transfers, breach of fiduciary duty"
     },
     {
       "event_id": "EVENT_009",
@@ -1088,9 +1063,7 @@
       "evidence": [
         "platform_access_logs",
         "audit_trail_records",
-        "business_shutdown_documentation",
-        "SF6 - Kayla Pretorius Estate Documentation",
-        "JF01 - Preserved Shopify evidence"
+        "business_shutdown_documentation"
       ],
       "shopify_related": true,
       "pattern": "escalation_phase",
@@ -1101,8 +1074,7 @@
         "note": "CRITICAL: Audit trail destroyed for platform continuously paid by Dan & Jax UK company (RegimA Zone Ltd) - evidence that RWD ZA has no independent revenue stream",
         "revelation": "Destruction of audit trails for platform owned, paid for, and operated by RegimA Zone Ltd (UK) since July 2023, proving RWD ZA generated no independent revenue"
       },
-      "crime_type": "Evidence destruction, computer fraud, business sabotage",
-      "evidence_enhanced": "2025-12-16T05:38:06.599619"
+      "crime_type": "Evidence destruction, computer fraud, business sabotage"
     },
     {
       "event_id": "EVENT_010",
@@ -1291,12 +1263,7 @@
       "additional_notes": "Bantjies dismisses audit with 'I am going away for 2 weeks' on June 10, 2025, just 4 days after Daniel provided comprehensive reports exposing fraud on June 6, 2025",
       "perpetrators": [
         "PERSON_001"
-      ],
-      "evidence": [
-        "JF08 - Evidence packages",
-        "JF09 - Timeline analysis"
-      ],
-      "evidence_enhanced": "2025-12-16T05:38:06.599622"
+      ]
     },
     {
       "event_id": "EVENT_058",
@@ -1371,8 +1338,7 @@
       "evidence": [
         "email_records",
         "customer_communications",
-        "gee_email_to_jax",
-        "SF2A - Sage Control User Access screenshot"
+        "gee_email_to_jax"
       ],
       "shopify_related": true,
       "pattern": "consolidation_phase",
@@ -1382,8 +1348,7 @@
         "note": "Email control used to issue directives about platform paid by RegimA Zone Ltd",
         "revelation": "Email impersonation facilitated fraud related to Shopify platform Dan's UK company had been paying for since July 2023"
       },
-      "crime_type": "Email hijacking, identity theft, business impersonation, computer fraud",
-      "evidence_enhanced": "2025-12-16T05:38:06.599625"
+      "crime_type": "Email hijacking, identity theft, business impersonation, computer fraud"
     },
     {
       "event_id": "EVENT_027",
@@ -1408,8 +1373,7 @@
       "legal_significance": "active_customer_hijacking_and_revenue_diversion",
       "evidence": [
         "gee_email_instruction",
-        "domain_switch_email",
-        "SF2A - Sage Control User Access screenshot"
+        "domain_switch_email"
       ],
       "pattern": "consolidation_phase",
       "critical": true,
@@ -1420,8 +1384,7 @@
         "note": "Email control used to issue directives about platform paid by RegimA Zone Ltd",
         "revelation": "Email impersonation facilitated fraud related to Shopify platform Dan's UK company had been paying for since July 2023"
       },
-      "crime_type": "Email hijacking, identity theft, business impersonation, computer fraud",
-      "evidence_enhanced": "2025-12-16T05:38:06.599626"
+      "crime_type": "Email hijacking, identity theft, business impersonation, computer fraud"
     },
     {
       "event_id": "EVENT_015",
@@ -1629,12 +1592,7 @@
       "perpetrators": [
         "PERSON_001",
         "PERSON_002"
-      ],
-      "evidence": [
-        "JF08 - Evidence packages",
-        "JF09 - Timeline analysis"
-      ],
-      "evidence_enhanced": "2025-12-16T05:38:06.599630"
+      ]
     },
     {
       "event_id": "EVENT_060",
@@ -1884,12 +1842,10 @@
       "financial_impact": 0,
       "significance": "Rynette can deny access to financial records by not renewing Sage subscription",
       "evidence": [
-        "Sage screenshot 2025-08-25 - Accounting Registration Expired",
-        "SF2B - Sage expiry notice"
+        "Sage screenshot 2025-08-25 - Accounting Registration Expired"
       ],
       "timeline_phase": "PHASE_006",
-      "related_events": [],
-      "evidence_enhanced": "2025-12-16T05:38:06.599633"
+      "related_events": []
     },
     {
       "event_id": "EVENT_066",
