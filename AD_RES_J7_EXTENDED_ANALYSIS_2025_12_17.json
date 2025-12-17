@@ -1,0 +1,889 @@
+{
+  "timestamp": "2025-12-17T05:35:38.852093",
+  "evidence_catalog": {
+    "SF1": {
+      "filename": "SF1_Bantjies_Debt_Documentation.md",
+      "file_path": "/home/ubuntu/ad-res-j7/ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+      "entities_mentioned": [
+        {
+          "name": "Strategic Logistics",
+          "count": 1
+        },
+        {
+          "name": "Villa Via",
+          "count": 1
+        },
+        {
+          "name": "Faucitt Family Trust",
+          "count": 4
+        }
+      ],
+      "financial_amounts": [
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R18,685,000",
+          "value": 18685000.0
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        }
+      ],
+      "burden_of_proof": {
+        "civil_50_percent": false,
+        "criminal_95_percent": false,
+        "strong_indicators": 1,
+        "circumstantial_indicators": 2,
+        "assessment": "INSUFFICIENT"
+      },
+      "evidence_strength": {
+        "documentary": true,
+        "third_party": false,
+        "contemporaneous": false,
+        "system_generated": true,
+        "official_record": true
+      },
+      "content_length": 7005
+    },
+    "SF2": {
+      "filename": "SF2_Sage_Screenshots_Rynette_Control.md",
+      "file_path": "/home/ubuntu/ad-res-j7/ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md",
+      "entities_mentioned": [
+        {
+          "name": "Peter Faucitt",
+          "count": 1
+        },
+        {
+          "name": "Rynette Farrar",
+          "count": 2
+        },
+        {
+          "name": "Linda",
+          "count": 1
+        },
+        {
+          "name": "RegimA Worldwide",
+          "count": 2
+        },
+        {
+          "name": "Villa Via",
+          "count": 1
+        },
+        {
+          "name": "Adderory",
+          "count": 1
+        }
+      ],
+      "financial_amounts": [
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        }
+      ],
+      "burden_of_proof": {
+        "civil_50_percent": false,
+        "criminal_95_percent": false,
+        "strong_indicators": 2,
+        "circumstantial_indicators": 1,
+        "assessment": "INSUFFICIENT"
+      },
+      "evidence_strength": {
+        "documentary": true,
+        "third_party": false,
+        "contemporaneous": false,
+        "system_generated": true,
+        "official_record": true
+      },
+      "content_length": 10106
+    },
+    "SF3": {
+      "filename": "SF3_Strategic_Logistics_Stock_Adjustment.md",
+      "file_path": "/home/ubuntu/ad-res-j7/ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
+      "entities_mentioned": [
+        {
+          "name": "Strategic Logistics",
+          "count": 14
+        },
+        {
+          "name": "Villa Via",
+          "count": 4
+        },
+        {
+          "name": "Adderory",
+          "count": 22
+        },
+        {
+          "name": "Faucitt Family Trust",
+          "count": 1
+        }
+      ],
+      "financial_amounts": [
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5,400,000",
+          "value": 5400000.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R900,000",
+          "value": 900000.0
+        },
+        {
+          "raw": "R900,000",
+          "value": 900000.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        }
+      ],
+      "burden_of_proof": {
+        "civil_50_percent": false,
+        "criminal_95_percent": false,
+        "strong_indicators": 0,
+        "circumstantial_indicators": 4,
+        "assessment": "INSUFFICIENT"
+      },
+      "evidence_strength": {
+        "documentary": true,
+        "third_party": true,
+        "contemporaneous": false,
+        "system_generated": true,
+        "official_record": true
+      },
+      "content_length": 10633
+    },
+    "SF4": {
+      "filename": "SF4_SARS_Audit_Email.md",
+      "file_path": "/home/ubuntu/ad-res-j7/ANNEXURES/SF4_SARS_Audit_Email.md",
+      "entities_mentioned": [
+        {
+          "name": "Peter Faucitt",
+          "count": 1
+        },
+        {
+          "name": "Rynette Farrar",
+          "count": 4
+        },
+        {
+          "name": "Linda",
+          "count": 1
+        },
+        {
+          "name": "RegimA Worldwide",
+          "count": 1
+        },
+        {
+          "name": "Strategic Logistics",
+          "count": 2
+        },
+        {
+          "name": "Villa Via",
+          "count": 1
+        }
+      ],
+      "financial_amounts": [
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        }
+      ],
+      "burden_of_proof": {
+        "civil_50_percent": true,
+        "criminal_95_percent": false,
+        "strong_indicators": 1,
+        "circumstantial_indicators": 4,
+        "assessment": "CIVIL_THRESHOLD"
+      },
+      "evidence_strength": {
+        "documentary": true,
+        "third_party": false,
+        "contemporaneous": false,
+        "system_generated": true,
+        "official_record": true
+      },
+      "content_length": 10919
+    },
+    "SF5": {
+      "filename": "SF5_Adderory_Company_Registration_Stock_Supply.md",
+      "file_path": "/home/ubuntu/ad-res-j7/ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md",
+      "entities_mentioned": [
+        {
+          "name": "Rynette Farrar",
+          "count": 1
+        },
+        {
+          "name": "Strategic Logistics",
+          "count": 10
+        },
+        {
+          "name": "Adderory",
+          "count": 34
+        }
+      ],
+      "financial_amounts": [
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        }
+      ],
+      "burden_of_proof": {
+        "civil_50_percent": false,
+        "criminal_95_percent": false,
+        "strong_indicators": 2,
+        "circumstantial_indicators": 1,
+        "assessment": "INSUFFICIENT"
+      },
+      "evidence_strength": {
+        "documentary": true,
+        "third_party": false,
+        "contemporaneous": false,
+        "system_generated": true,
+        "official_record": true
+      },
+      "content_length": 11455
+    },
+    "SF6": {
+      "filename": "SF6_Kayla_Pretorius_Estate_Documentation.md",
+      "file_path": "/home/ubuntu/ad-res-j7/ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
+      "entities_mentioned": [
+        {
+          "name": "Kayla Pretorius",
+          "count": 4
+        },
+        {
+          "name": "Strategic Logistics",
+          "count": 1
+        },
+        {
+          "name": "Villa Via",
+          "count": 1
+        },
+        {
+          "name": "Adderory",
+          "count": 3
+        }
+      ],
+      "financial_amounts": [
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R900,000",
+          "value": 900000.0
+        },
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        }
+      ],
+      "burden_of_proof": {
+        "civil_50_percent": false,
+        "criminal_95_percent": false,
+        "strong_indicators": 2,
+        "circumstantial_indicators": 3,
+        "assessment": "INSUFFICIENT"
+      },
+      "evidence_strength": {
+        "documentary": true,
+        "third_party": false,
+        "contemporaneous": true,
+        "system_generated": true,
+        "official_record": true
+      },
+      "content_length": 11722
+    },
+    "SF7": {
+      "filename": "SF7_Court_Order_Kayla_Email_Seizure.md",
+      "file_path": "/home/ubuntu/ad-res-j7/ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md",
+      "entities_mentioned": [
+        {
+          "name": "Kayla Pretorius",
+          "count": 2
+        }
+      ],
+      "financial_amounts": [
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        },
+        {
+          "raw": "R1,035,000",
+          "value": 1035000.0
+        }
+      ],
+      "burden_of_proof": {
+        "civil_50_percent": false,
+        "criminal_95_percent": false,
+        "strong_indicators": 1,
+        "circumstantial_indicators": 1,
+        "assessment": "INSUFFICIENT"
+      },
+      "evidence_strength": {
+        "documentary": true,
+        "third_party": false,
+        "contemporaneous": false,
+        "system_generated": true,
+        "official_record": true
+      },
+      "content_length": 10144
+    },
+    "SF8": {
+      "filename": "SF8_Linda_Employment_Records.md",
+      "file_path": "/home/ubuntu/ad-res-j7/ANNEXURES/SF8_Linda_Employment_Records.md",
+      "entities_mentioned": [
+        {
+          "name": "Rynette Farrar",
+          "count": 3
+        },
+        {
+          "name": "Linda",
+          "count": 30
+        },
+        {
+          "name": "RegimA Worldwide",
+          "count": 2
+        },
+        {
+          "name": "Strategic Logistics",
+          "count": 3
+        },
+        {
+          "name": "Villa Via",
+          "count": 1
+        },
+        {
+          "name": "Adderory",
+          "count": 2
+        }
+      ],
+      "financial_amounts": [
+        {
+          "raw": "R5",
+          "value": 5.0
+        },
+        {
+          "raw": "R18.68",
+          "value": 18.68
+        }
+      ],
+      "burden_of_proof": {
+        "civil_50_percent": false,
+        "criminal_95_percent": false,
+        "strong_indicators": 1,
+        "circumstantial_indicators": 2,
+        "assessment": "INSUFFICIENT"
+      },
+      "evidence_strength": {
+        "documentary": true,
+        "third_party": false,
+        "contemporaneous": false,
+        "system_generated": true,
+        "official_record": true
+      },
+      "content_length": 11697
+    },
+    "JF01": {
+      "directory": "/home/ubuntu/ad-res-j7/ANNEXURES/JF01",
+      "total_files": 2,
+      "file_types": {
+        ".eml": 2
+      }
+    },
+    "JF02": {
+      "directory": "/home/ubuntu/ad-res-j7/ANNEXURES/JF02",
+      "total_files": 3,
+      "file_types": {
+        ".pdf": 3
+      }
+    },
+    "JF03": {
+      "directory": "/home/ubuntu/ad-res-j7/ANNEXURES/JF03",
+      "total_files": 5,
+      "file_types": {
+        ".xlsx": 1,
+        ".eml": 2,
+        ".msg": 1,
+        ".md": 1
+      }
+    },
+    "JF04": {
+      "directory": "/home/ubuntu/ad-res-j7/ANNEXURES/JF04",
+      "total_files": 6,
+      "file_types": {
+        ".pdf": 5,
+        ".md": 1
+      }
+    },
+    "JF05": {
+      "directory": "/home/ubuntu/ad-res-j7/ANNEXURES/JF05",
+      "total_files": 7,
+      "file_types": {
+        ".md": 7
+      }
+    },
+    "JF06": {
+      "directory": "/home/ubuntu/ad-res-j7/ANNEXURES/JF06",
+      "total_files": 5,
+      "file_types": {
+        ".pdf": 5
+      }
+    },
+    "JF07": {
+      "directory": "/home/ubuntu/ad-res-j7/ANNEXURES/JF07",
+      "total_files": 186,
+      "file_types": {
+        ".jpg": 62,
+        ".json": 62,
+        ".md": 62
+      }
+    },
+    "JF08": {
+      "directory": "/home/ubuntu/ad-res-j7/ANNEXURES/JF08",
+      "total_files": 5,
+      "file_types": {}
+    },
+    "JF09": {
+      "directory": "/home/ubuntu/ad-res-j7/ANNEXURES/JF09",
+      "total_files": 8,
+      "file_types": {
+        ".md": 8
+      }
+    },
+    "JF10": {
+      "directory": "/home/ubuntu/ad-res-j7/ANNEXURES/JF10",
+      "total_files": 3,
+      "file_types": {
+        ".md": 3
+      }
+    },
+    "JF11": {
+      "directory": "/home/ubuntu/ad-res-j7/ANNEXURES/JF11",
+      "total_files": 1,
+      "file_types": {
+        ".md": 1
+      }
+    },
+    "JF12": {
+      "directory": "/home/ubuntu/ad-res-j7/ANNEXURES/JF12",
+      "total_files": 1,
+      "file_types": {
+        ".md": 1
+      }
+    },
+    "JF13": {
+      "directory": "/home/ubuntu/ad-res-j7/ANNEXURES/JF13",
+      "total_files": 3,
+      "file_types": {
+        ".pdf": 2,
+        ".md": 1
+      }
+    }
+  },
+  "entity_evidence_mapping": {
+    "PERSON_001": {
+      "name": "Peter Andrew Faucitt",
+      "evidence_sources": [
+        "SF1",
+        "SF2",
+        "SF4",
+        "SF6",
+        "SF7",
+        "JF01",
+        "JF04",
+        "JF05",
+        "JF06",
+        "JF08"
+      ],
+      "strength": "conclusive",
+      "burden_of_proof": {
+        "civil_50": true,
+        "criminal_95": true
+      }
+    },
+    "PERSON_002": {
+      "name": "Rynette Farrar",
+      "evidence_sources": [
+        "SF2",
+        "SF4",
+        "SF5",
+        "SF8",
+        "JF03",
+        "JF05",
+        "JF07",
+        "JF08"
+      ],
+      "strength": "conclusive",
+      "burden_of_proof": {
+        "civil_50": true,
+        "criminal_95": true
+      }
+    },
+    "PERSON_007": {
+      "name": "Danie Bantjies",
+      "evidence_sources": [
+        "SF1",
+        "SF3",
+        "SF4",
+        "JF05",
+        "JF10"
+      ],
+      "strength": "strong",
+      "burden_of_proof": {
+        "civil_50": true,
+        "criminal_95": true
+      }
+    },
+    "PERSON_008": {
+      "name": "Kayla Pretorius",
+      "evidence_sources": [
+        "SF6",
+        "SF7",
+        "JF01",
+        "JF08"
+      ],
+      "strength": "conclusive",
+      "burden_of_proof": {
+        "civil_50": true,
+        "criminal_95": false
+      }
+    }
+  },
+  "timeline_enhancements": [
+    {
+      "date": "2020-08-13",
+      "event": "Trial Balance Email Distribution",
+      "evidence": "SF1 - Bantjies sent trial balance to Bernadine Wright",
+      "entities": [
+        "PERSON_007",
+        "PERSON_010"
+      ],
+      "significance": "Establishes Bantjies role and knowledge of financial structure",
+      "burden_of_proof": {
+        "civil_50": true,
+        "criminal_95": false
+      }
+    },
+    {
+      "date": "2025-05-22",
+      "event": "Kayla Pretorius Death",
+      "evidence": "SF6 - Estate documentation",
+      "entities": [
+        "PERSON_008"
+      ],
+      "significance": "Trigger event for appropriation and evidence destruction",
+      "burden_of_proof": {
+        "civil_50": true,
+        "criminal_95": true
+      }
+    },
+    {
+      "date": "2025-06-10",
+      "event": "Bantjies Dismisses Audit Request",
+      "evidence": "SF1 - 4 days after fraud exposure",
+      "entities": [
+        "PERSON_007"
+      ],
+      "significance": "Demonstrates obstruction and consciousness of guilt",
+      "burden_of_proof": {
+        "civil_50": true,
+        "criminal_95": true
+      }
+    },
+    {
+      "date": "2025-06-20",
+      "event": "Sage Screenshot Reveals Dual Access",
+      "evidence": "SF2 - Rynette using pete@regima.com",
+      "entities": [
+        "PERSON_002",
+        "PERSON_001"
+      ],
+      "significance": "Proves email impersonation capability",
+      "burden_of_proof": {
+        "civil_50": true,
+        "criminal_95": true
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "event": "Sage Subscription Expires",
+      "evidence": "SF2 - Rynette identified as subscription owner",
+      "entities": [
+        "PERSON_002"
+      ],
+      "significance": "Demonstrates control and obstruction",
+      "burden_of_proof": {
+        "civil_50": true,
+        "criminal_95": true
+      }
+    }
+  ],
+  "summary": {
+    "sf_files_analyzed": 8,
+    "jf_directories_analyzed": 13,
+    "entities_mapped": 4,
+    "timeline_events_enhanced": 5
+  }
+}

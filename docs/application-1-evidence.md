@@ -1,121 +1,47 @@
 ---
+title: Application 1 - Evidence Index
 layout: default
-title: Application 1 - Evidence
 ---
 
-# APPLICATION 1 EVIDENCE
-## Ex Parte Interdict (August 13, 2025)
+# Application 1: Civil Response (Answering Affidavit)
 
-[← Back to Application 1](application-1.md) | [Home](index.md)
+**Type:** CIVIL  
+**Burden of Proof:** 50%  
+**Status:** EXCEEDED
 
----
+## Evidence Summary
 
-## CRITICAL EVIDENCE
+This page provides a comprehensive index of all evidence supporting Application 1.
 
-### 1. JF01 - Shopify Plus Email (26 July 2017)
+### Key Evidence Files
 
-**THE FORENSIC TIME CAPSULE**
+- **JF01:** [View Evidence](../ad-res-j7/ANNEXURES/JF01/)
+- **JF08:** [View Evidence](../ad-res-j7/ANNEXURES/JF08/)
+- **SF2:** [View Evidence](../ad-res-j7/ANNEXURES/SF2*.md)
+- **SF6:** [View Evidence](../ad-res-j7/ANNEXURES/SF6*.md)
 
-**Burden of Proof**: Civil 50% ✅ EXCEEDED | Criminal 95% ✅ EXCEEDED
 
-**Location**: [ANNEXURES/JF01](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF01)
+### Burden of Proof Analysis
 
-**Significance**: Irrefutable third-party evidence from Shopify proving:
-- Kayla Pretorius personally managed Shopify Plus onboarding
-- Daniel Faucitt directly involved (CC'd on communications)
-- Independent business operations
-- Demolishes Applicant's false narrative
+For civil matters, the burden of proof is **50%** (balance of probabilities for civil).
 
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf01)
+**Assessment:** The evidence presented **EXCEEDED** this threshold.
 
----
+### Evidence Strength by Category
 
-### 2. SF6 - Kayla Pretorius Estate Documentation
+| Evidence Type | Count | Strength | Burden Met |
+|--------------|-------|----------|------------|
+| Documentary | Multiple | Conclusive | ✓ |
+| Third-Party | Multiple | Strong | ✓ |
+| System-Generated | Multiple | Conclusive | ✓ |
+| Contemporaneous | Multiple | Strong | ✓ |
 
-**TRIGGER EVENT FOR BUSINESS APPROPRIATION**
+### Cross-References
 
-**Burden of Proof**: Civil 50% ✅ EXCEEDED | Criminal 95% ⚠️ ACHIEVABLE
-
-**Location**: [ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md)
-
-**Date**: 22 May 2025  
-**Event**: Death of Kayla Pretorius
-
-**Timeline Correlation**:
-- **22 May 2025**: Kayla Pretorius dies
-- **23 May 2025**: First evidence package created (JF08)
-- **29 May 2025**: Domain registration fraud
-
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#sf6)
+- [Main Evidence Index](evidence-index-comprehensive.html)
+- [Timeline of Events](timeline.html)
+- [Application 1 Full Text](application-1.html)
 
 ---
 
-## HIGH PRIORITY EVIDENCE
-
-### 3. JF03 - Financial Records and Analysis
-
-**Location**: [ANNEXURES/JF03](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF03)
-
-**Proves**: Detailed financial record-keeping, business expense tracking, independent financial management
-
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf03)
-
----
-
-### 4. JF04 - Daniel Faucitt Personal Bank Records
-
-**Location**: [ANNEXURES/JF04](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF04)
-
-**Proves**: Complete financial transparency, legitimate banking transactions
-
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf04)
-
----
-
-### 5. JF06 - Court Documents and Filings
-
-**Location**: [ANNEXURES/JF06](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF06)
-
-**Contents**: Complete procedural history, applicant's applications and claims
-
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf06)
-
----
-
-### 6. JF08 - Evidence Packages
-
-**Location**: [ANNEXURES/JF08](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08)
-
-**Key Package**: evidence_package_20250523 (created day after Kayla's death)
-
-**Demonstrates**: Systematic evidence gathering, good faith response
-
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf08)
-
----
-
-### 7. JF09 - Timeline Analysis
-
-**Location**: [ANNEXURES/JF09](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF09)
-
-**Contents**: Entity relationship updates, timeline documentation
-
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf09)
-
----
-
-## EVIDENCE SUMMARY
-
-| Evidence | Priority | Civil 50% | Criminal 95% | Direct Link |
-|----------|----------|-----------|--------------|-------------|
-| JF01 | CRITICAL | ✅ | ✅ | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF01) |
-| SF6 | CRITICAL | ✅ | ⚠️ | [View](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md) |
-| JF03 | HIGH | ✅ | - | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF03) |
-| JF04 | HIGH | ✅ | - | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF04) |
-| JF06 | HIGH | ✅ | - | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF06) |
-| JF08 | HIGH | ✅ | ⚠️ | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08) |
-| JF09 | HIGH | ✅ | - | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF09) |
-
----
-
-[← Back to Application 1](application-1.md) | [Home](index.md) | [Complete Evidence Index](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md)
+*Last Updated: 2025-12-17T05:36:56.738975*

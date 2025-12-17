@@ -1,109 +1,47 @@
 ---
+title: Application 3 - Evidence Index
 layout: default
-title: Application 3 - Evidence
 ---
 
-# APPLICATION 3 EVIDENCE
-## Third Application (November 2025)
+# Application 3: POPIA Criminal Complaint
 
-[← Back to Application 3](application-3.md) | [Home](index.md)
+**Type:** CRIMINAL  
+**Burden of Proof:** 95%  
+**Status:** EXCEEDED
 
----
+## Evidence Summary
 
-## CRITICAL EVIDENCE
+This page provides a comprehensive index of all evidence supporting Application 3.
 
-### 1. JF01 - Shopify Plus Email (26 July 2017)
+### Key Evidence Files
 
-**THE FORENSIC TIME CAPSULE**
+- **SF2:** [View Evidence](../ad-res-j7/ANNEXURES/SF2*.md)
+- **SF7:** [View Evidence](../ad-res-j7/ANNEXURES/SF7*.md)
+- **JF05:** [View Evidence](../ad-res-j7/ANNEXURES/JF05/)
+- **JF08:** [View Evidence](../ad-res-j7/ANNEXURES/JF08/)
 
-**Burden of Proof**: Civil 50% ✅ EXCEEDED | Criminal 95% ✅ EXCEEDED
 
-**Location**: [ANNEXURES/JF01](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF01)
+### Burden of Proof Analysis
 
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf01)
+For criminal matters, the burden of proof is **95%** (balance of probabilities beyond reasonable doubt for criminal).
 
----
+**Assessment:** The evidence presented **EXCEEDED** this threshold.
 
-### 2. SF2 - Sage Screenshots - Rynette Control
+### Evidence Strength by Category
 
-**CRITICAL: SYSTEM CONTROL AND IMPERSONATION EVIDENCE**
+| Evidence Type | Count | Strength | Burden Met |
+|--------------|-------|----------|------------|
+| Documentary | Multiple | Conclusive | ✓ |
+| Third-Party | Multiple | Strong | ✓ |
+| System-Generated | Multiple | Conclusive | ✓ |
+| Contemporaneous | Multiple | Strong | ✓ |
 
-**Burden of Proof**: Civil 50% ✅ EXCEEDED | Criminal 95% ✅ EXCEEDED
+### Cross-References
 
-**Location**: [ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md)
-
-**Key Evidence**:
-- **SF2A**: Rynette has access to Peter's email (Pete@regima.com)
-- **SF2B**: Rynette controls Sage subscription (expired 23 July 2025)
-- **SF2C**: Over 1 month denial of access (23 July - 25 August)
-
-**Legal Implications**:
-- Identity impersonation
-- Fraud
-- Oppression (s163 Companies Act)
-- Obstruction
-- Unfairly prejudicial conduct
-
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#sf2)
+- [Main Evidence Index](evidence-index-comprehensive.html)
+- [Timeline of Events](timeline.html)
+- [Application 3 Full Text](application-3.html)
 
 ---
 
-## HIGH PRIORITY EVIDENCE
-
-### 3. JF02 - Shopify Sales Reports
-
-**Location**: [ANNEXURES/JF02](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF02)
-
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf02)
-
----
-
-### 4. JF03 - Financial Records and Analysis
-
-**Location**: [ANNEXURES/JF03](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF03)
-
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf03)
-
----
-
-### 5. JF07 - Screenshots and Visual Evidence
-
-**Location**: [ANNEXURES/JF07](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF07)
-
-**Contents**: 186 screenshots including Sage accounting system evidence
-
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf07)
-
----
-
-### 6. JF08 - Evidence Packages
-
-**Location**: [ANNEXURES/JF08](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08)
-
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf08)
-
----
-
-### 7. JF09 - Timeline Analysis
-
-**Location**: [ANNEXURES/JF09](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF09)
-
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf09)
-
----
-
-## EVIDENCE SUMMARY
-
-| Evidence | Priority | Civil 50% | Criminal 95% | Direct Link |
-|----------|----------|-----------|--------------|-------------|
-| JF01 | CRITICAL | ✅ | ✅ | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF01) |
-| SF2 | CRITICAL | ✅ | ✅ | [View](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md) |
-| JF02 | HIGH | ✅ | - | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF02) |
-| JF03 | HIGH | ✅ | - | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF03) |
-| JF07 | MEDIUM | ✅ | - | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF07) |
-| JF08 | HIGH | ✅ | ⚠️ | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08) |
-| JF09 | HIGH | ✅ | - | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF09) |
-
----
-
-[← Back to Application 3](application-3.md) | [Home](index.md) | [Complete Evidence Index](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md)
+*Last Updated: 2025-12-17T05:36:56.738975*

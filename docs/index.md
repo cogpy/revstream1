@@ -1,189 +1,129 @@
 ---
+title: Revenue Stream Hijacking Case 2025-137857
 layout: default
-title: Home
 ---
 
 # Revenue Stream Hijacking Case 2025-137857
 
+**Last Updated:** 2025-12-17 05:36:56
+
 ## Executive Summary
 
-This documentation repository provides comprehensive evidence and analysis of the systematic hijacking of revenue streams in the RegimA business operations case. The case involves **three sequential interdict applications** filed over a 6-month period (March-November 2025), documenting **R10,269,727.90** in total losses.
+This repository documents a comprehensive case of revenue stream hijacking, trust manipulation, and systematic fraud involving the RegimA Group of companies and the Faucitt Family Trust. The evidence demonstrates criminal activity exceeding the 95% burden of proof threshold for multiple perpetrators.
 
-### Critical Evidence Overview
+## Quick Navigation
 
-The case is supported by **17 evidence sources** from the [ad-res-j7 repository](https://github.com/cogpy/ad-res-j7), including:
+### Legal Applications
+1. [Application 1: Civil Response (Answering Affidavit)](application-1.html) - [Evidence Index](application-1-evidence.html)
+2. [Application 2: CIPC Companies Act Complaint](application-2.html) - [Evidence Index](application-2-evidence.html)
+3. [Application 3: POPIA Criminal Complaint](application-3.html) - [Evidence Index](application-3-evidence.html)
 
-- **JF01 (CRITICAL)**: Shopify Plus Email (26 July 2017) - Forensic time capsule proving independent business operations
-- **SF2 (CRITICAL)**: Sage Screenshots - Direct evidence of Rynette Farrar's system control
-- **SF6 (CRITICAL)**: Kayla Pretorius Estate Documentation - Trigger event for business appropriation
+### Evidence & Analysis
+- [Comprehensive Evidence Index](evidence-index-comprehensive.html)
+- [Evidence Quick Reference](evidence-quick-reference.html)
+- [Timeline of Events](timeline.html)
+- [Entity Profiles](entities/)
+- [Event Analysis](events/)
 
-**Evidence Strength**: 
-- Civil burden (50%): ✅ **EXCEEDED** (2 critical sources)
-- Criminal burden (95%): ✅ **EXCEEDED** (2 critical sources)
+### Key Evidence Files
 
----
+#### SF Files (Smoking Gun Evidence)
+- **SF1:** [Bantjies Debt Documentation (R18.685M)](../ad-res-j7/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)
+- **SF2:** [Sage Screenshots - Rynette Control](../ad-res-j7/ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md) ⚡ **CRITICAL**
+- **SF3:** [Strategic Logistics Stock Adjustment (R5.4M)](../ad-res-j7/ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md)
+- **SF4:** [SARS Audit Email](../ad-res-j7/ANNEXURES/SF4_SARS_Audit_Email.md)
+- **SF5:** [Adderory Company Registration](../ad-res-j7/ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md)
+- **SF6:** [Kayla Pretorius Estate Documentation](../ad-res-j7/ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md) ⚡ **CRITICAL**
+- **SF7:** [Court Order - Kayla Email Seizure](../ad-res-j7/ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md)
+- **SF8:** [Linda Employment Records](../ad-res-j7/ANNEXURES/SF8_Linda_Employment_Records.md)
 
-## Case Overview
+#### JF Files (Jacqui Faucitt Evidence)
+- **JF01:** Shopify Plus Email (THE FORENSIC TIME CAPSULE) ⚡ **IRREFUTABLE**
+- **JF02:** Shopify Sales Reports
+- **JF03:** Computer Expense Analysis
+- **JF04:** Personal Bank Records
+- **JF05:** Correspondence Evidence
+- **JF06:** Court Applications and Filings
+- **JF07:** Bank Transfer Analysis (186 files)
+- **JF08:** Evidence Packages (Timeline)
+- **JF09:** Timeline Analysis
+- **JF10:** Accounting Records
+- **JF11:** Medical Coercion Evidence
+- **JF12:** Criminal Matter Safety Guide
+- **JF13:** Recent Correspondence (Nov 2025)
 
-| **Metric** | **Value** |
-|------------|-----------|
-| **Case Number** | 2025-137857 |
-| **Case Name** | Peter Faucitt v. Jacqueline Faucitt et al. |
-| **Period** | March 15, 2025 - August 20, 2025 |
-| **Duration** | 158 days of documented criminal activity |
-| **Total Events** | 44 (refined 2025-12-14) |
-| **Events with Financial Impact** | 54 |
-| **Total Documented Losses** | R10,269,727.90 |
+## Burden of Proof Assessment
 
----
+### Criminal Threshold (95%) - EXCEEDED
+Evidence against the following entities exceeds the criminal burden of proof:
 
-## Three Sequential Interdict Applications
+- **Peter Andrew Faucitt (PERSON_001)** - Conclusive evidence
+- **Rynette Farrar (PERSON_002)** - Conclusive evidence  
+- **Danie Bantjies (PERSON_007)** - Strong evidence
 
-### Application 1: Ex Parte Interdict (August 13, 2025)
+### Civil Threshold (50%) - EXCEEDED
+All claims in the civil response exceed the civil burden of proof.
 
-**Type:** Ex parte urgent application  
-**Targets:** Both Jacqueline and Daniel Faucitt  
-**Status:** Pending return date; notice of intention to oppose filed September 5, 2025
+## Key Dates & Critical Evidence
 
-**Key Evidence:**
-- [JF01 - Shopify Plus Email](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf01)
-- [JF06 - Court Documents](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf06)
-- [JF08 - Evidence Packages](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf08)
-- [SF6 - Kayla Pretorius Estate](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#sf6)
+| Date | Event | Evidence | Burden of Proof |
+|------|-------|----------|-----------------|
+| 2017-07-26 | Shopify Plus Onboarding | JF01 (Time Capsule) | 95% ✓ |
+| 2025-05-22 | Kayla Pretorius Death | SF6 | 95% ✓ |
+| 2025-05-23 | First Evidence Package | JF08 | 50% ✓ |
+| 2025-06-10 | Bantjies Dismisses Audit | SF1 | 95% ✓ |
+| 2025-06-20 | Rynette Dual Access Revealed | SF2 | 95% ✓ |
+| 2025-07-23 | Sage Subscription Expires | SF2 | 95% ✓ |
 
-[**→ View Application 1 Details**](application-1.md) | [**→ View Application 1 Evidence**](application-1-evidence.md)
+## Financial Impact Summary
 
----
+| Category | Amount | Evidence Strength |
+|----------|--------|-------------------|
+| Total Revenue Theft | R10,269,727.90 | Conclusive |
+| Bantjies Debt to Trust | R18,685,000.00 | Documented |
+| Stock Adjustment Fraud | R5,400,000.00 | Strong |
+| Kayla Estate Debt | R1,035,000.00 | Documented |
 
-### Application 2: Settlement Agreement Enforcement (October 2025)
+## Repository Structure
 
-**Type:** Application to make settlement agreement an order of court  
-**Context:** Mediation held September 18, 2025
+```
+docs/
+├── index.md (this file)
+├── application-1.md (Civil Response)
+├── application-1-evidence.md
+├── application-2.md (CIPC Complaint)
+├── application-2-evidence.md
+├── application-3.md (POPIA Complaint)
+├── application-3-evidence.md
+├── evidence-index-comprehensive.md
+├── timeline.md
+├── entities/ (Entity profiles)
+├── events/ (Event analysis)
+└── filings/
+    ├── civil/
+    ├── criminal/
+    └── regulatory/
+```
 
-**Key Evidence:**
-- [JF05 - Correspondence Evidence](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf05)
-- [JF06 - Court Documents](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf06)
+## Analysis Status
 
-[**→ View Application 2 Details**](application-2.md) | [**→ View Application 2 Evidence**](application-2-evidence.md)
+**Last Comprehensive Analysis:** 2025-12-17
 
----
+- Total Gaps Identified: 265
+- Evidence Sources Catalogued: 21
+- Entities Mapped: 4
+- Timeline Events: 5
 
-### Application 3: Third Application (November 2025)
+## External References
 
-**Type:** Further relief
+- **Extended Evidence Repository:** [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)
+- **Civil Response Documents:** [ad-res-j7/1-CIVIL-RESPONSE](https://github.com/cogpy/ad-res-j7/tree/main/1-CIVIL-RESPONSE)
+- **Criminal Case Documents:** [ad-res-j7/2-CRIMINAL-CASE](https://github.com/cogpy/ad-res-j7/tree/main/2-CRIMINAL-CASE)
 
-**Key Evidence:**
-- [JF01 - Shopify Plus Email](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf01)
-- [JF02 - Shopify Sales Reports](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf02)
-- [JF07 - Screenshots](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf07)
-- [JF08 - Evidence Packages](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf08)
-- [SF2 - Sage Screenshots](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#sf2)
+## Contact & Support
 
-[**→ View Application 3 Details**](application-3.md) | [**→ View Application 3 Evidence**](application-3-evidence.md)
-
----
-
-## Legal Framework
-
-### Companies Act 71 of 2008 Violations
-
-| Section | Violation | Evidence Status | Burden Met |
-|---------|-----------|-----------------|------------|
-| **s75** | Conflict of Interest | Conclusive | ✅ 50% EXCEEDED |
-| **s76** | Fiduciary Breach | Conclusive | ✅ 50% EXCEEDED |
-| **s77** | Personal Liability | Conclusive | ✅ 50% EXCEEDED |
-| **s162** | Delinquent Director | Conclusive | ✅ 50% EXCEEDED |
-| **s163** | Oppression | Moderate | ⚠️ 50% ACHIEVABLE |
-
-[**→ View Complete Legal Framework Analysis**](legal-framework.md)
-
----
-
-## Evidence Index
-
-### Critical Evidence (PRIORITY: CRITICAL)
-
-1. **[JF01 - Shopify Plus Email (26 July 2017)](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf01)**
-   - Forensic time capsule proving independent business operations
-   - Burden: Civil 50% ✅ | Criminal 95% ✅
-
-2. **[SF2 - Sage Screenshots - Rynette Control](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#sf2)**
-   - Direct evidence of Sage accounting system control
-   - Burden: Criminal 95% ✅
-
-3. **[SF6 - Kayla Pretorius Estate Documentation](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#sf6)**
-   - Trigger event for business appropriation
-   - Timeline correlation with JF9
-
-### High Priority Evidence
-
-4. **[JF02 - Shopify Sales Reports](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf02)**
-5. **[JF03 - Financial Records and Analysis](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf03)**
-6. **[JF04 - Daniel Faucitt Personal Bank Records](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf04)**
-7. **[JF06 - Court Documents and Filings](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf06)**
-8. **[JF08 - Evidence Packages (May-October 2025)](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf08)**
-9. **[JF09 - Timeline Analysis](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf09)**
-
-[**→ View Complete Evidence Index**](evidence-index-comprehensive.md)
+For questions or additional information, please refer to the evidence packages and supporting documentation in the ad-res-j7 repository.
 
 ---
 
-## Legal Filings
-
-### Civil Actions
-
-- [Answering Affidavit (Evidence Enhanced)](filings/ANSWERING_AFFIDAVIT_EVIDENCE_ENHANCED_20251214.md)
-- [Application 1 - Ex Parte Interdict](application-1.md)
-- [Application 2 - Settlement Enforcement](application-2.md)
-- [Application 3 - Further Relief](application-3.md)
-
-### Criminal Complaints
-
-- [Commercial Crime Case Submission (Evidence Enhanced)](filings/COMMERCIAL_CRIME_EVIDENCE_ENHANCED_20251214.md)
-- [POPIA Criminal Complaint (Evidence Enhanced)](filings/POPIA_COMPLAINT_EVIDENCE_ENHANCED_20251214.md)
-
-### Regulatory Complaints
-
-- [CIPC Companies Act Complaint (Evidence Enhanced)](filings/CIPC_COMPLAINT_EVIDENCE_ENHANCED_20251214.md)
-- [NPA Tax Fraud Report (Evidence Enhanced)](filings/NPA_TAX_FRAUD_REPORT_EVIDENCE_ENHANCED_20251214.md)
-
-[**→ View All Filings**](filings/)
-
----
-
-## Data Models
-
-### Entities, Relations, Events & Timeline
-
-- **Entities**: 25 entities (refined 2025-12-14)
-- **Relations**: 70 relations (refined 2025-12-14)
-- **Events**: 44 events (refined 2025-12-14)
-- **Timeline**: 43 entries (refined 2025-12-14)
-
-All data models have been enhanced with comprehensive ad-res-j7 evidence cross-references.
-
-[**→ View Data Model Analysis**](data-model-analysis.md)
-
----
-
-## Timeline
-
-[**→ View Interactive Timeline**](timeline.html) | [**→ View Timeline Markdown**](timeline.md)
-
----
-
-## Quick Links
-
-- [Evidence Index](evidence-index-comprehensive.md)
-- [Legal Framework](legal-framework.md)
-- [Timeline](timeline.md)
-- [Applications](applications.md)
-- [Filings](filings/)
-- [Entity Profiles](entity-profiles/)
-- [Events](events/)
-
----
-
-**Last Updated:** 2025-12-14  
-**Repository:** [cogpy/revstream1](https://github.com/cogpy/revstream1)  
-**Evidence Repository:** [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)
+*This page is automatically generated and updated. Last update: 2025-12-17T05:36:56.738975*

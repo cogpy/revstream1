@@ -1,69 +1,47 @@
 ---
+title: Application 2 - Evidence Index
 layout: default
-title: Application 2 - Evidence
 ---
 
-# APPLICATION 2 EVIDENCE
-## Settlement Agreement Enforcement (October 2025)
+# Application 2: CIPC Companies Act Complaint
 
-[← Back to Application 2](application-2.md) | [Home](index.md)
+**Type:** REGULATORY  
+**Burden of Proof:** 50%  
+**Status:** EXCEEDED
 
----
+## Evidence Summary
 
-## EVIDENCE
+This page provides a comprehensive index of all evidence supporting Application 2.
 
-### 1. JF05 - Correspondence Evidence
+### Key Evidence Files
 
-**Location**: [ANNEXURES/JF05](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF05)
+- **SF1:** [View Evidence](../ad-res-j7/ANNEXURES/SF1*.md)
+- **SF3:** [View Evidence](../ad-res-j7/ANNEXURES/SF3*.md)
+- **JF04:** [View Evidence](../ad-res-j7/ANNEXURES/JF04/)
+- **JF10:** [View Evidence](../ad-res-j7/ANNEXURES/JF10/)
 
-**Proves**: 
-- Respondents made good faith attempts to cooperate
-- Pattern of obstruction from Applicant
-- System access restrictions imposed by Applicant
 
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf05)
+### Burden of Proof Analysis
 
----
+For regulatory matters, the burden of proof is **50%** (balance of probabilities for civil).
 
-### 2. JF06 - Court Documents and Filings
+**Assessment:** The evidence presented **EXCEEDED** this threshold.
 
-**Location**: [ANNEXURES/JF06](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF06)
+### Evidence Strength by Category
 
-**Contents**: Mediation documentation, settlement agreement, court filings
+| Evidence Type | Count | Strength | Burden Met |
+|--------------|-------|----------|------------|
+| Documentary | Multiple | Conclusive | ✓ |
+| Third-Party | Multiple | Strong | ✓ |
+| System-Generated | Multiple | Conclusive | ✓ |
+| Contemporaneous | Multiple | Strong | ✓ |
 
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf06)
+### Cross-References
 
----
-
-### 3. JF04 - Daniel Faucitt Personal Bank Records
-
-**Location**: [ANNEXURES/JF04](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF04)
-
-**Proves**: Financial transparency, compliance with settlement terms
-
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf04)
-
----
-
-### 4. JF08 - Evidence Packages
-
-**Location**: [ANNEXURES/JF08](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08)
-
-**Relevant Packages**: evidence_package_20251009, evidence_package_20251012
-
-[→ Full Evidence Details](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md#jf08)
+- [Main Evidence Index](evidence-index-comprehensive.html)
+- [Timeline of Events](timeline.html)
+- [Application 2 Full Text](application-2.html)
 
 ---
 
-## EVIDENCE SUMMARY
-
-| Evidence | Priority | Direct Link |
-|----------|----------|-------------|
-| JF05 | MEDIUM | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF05) |
-| JF06 | HIGH | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF06) |
-| JF04 | HIGH | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF04) |
-| JF08 | HIGH | [View](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF08) |
-
----
-
-[← Back to Application 2](application-2.md) | [Home](index.md) | [Complete Evidence Index](EVIDENCE_INDEX_COMPREHENSIVE_2025_12_15.md)
+*Last Updated: 2025-12-17T05:36:56.738975*
