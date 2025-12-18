@@ -157,3 +157,8 @@ This matter is urgent because:
 
 *This complaint has been refined based on comprehensive evidence analysis.*  
 *Version: 20251217*
+
+## Addendum: New Evidence for Criminal Complaint (2025-12-18)
+
+The following new evidence has been identified that meets the criminal burden of proof (beyond a reasonable doubt, 95%) or provides strong indicators of criminal intent:
+

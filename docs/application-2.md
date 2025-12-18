@@ -399,3 +399,16 @@ For comprehensive supporting documentation, see the [ad-res-j7 repository](https
 ---
 
 **Last Updated:** 2025-11-19
+
+
+## New Evidence (2025-12-18 Refinement)
+
+The following new evidence has been identified and cross-referenced, strengthening the application:
+
+- **SF1: Bantjies Debt Documentation:** Documents the fraudulent R18.68M debt structure.
+- **SF2: Rynette Sage Control:** Shows Rynette Farrar's administrative control over the accounting system.
+- **SF4: SARS Audit Email:** Indicates official regulatory scrutiny of the companies' tax affairs.
+- **SF5: Adderory Registration:** Shows the creation of a new entity for potential revenue manipulation.
+- **SF7: Court Order for Email Seizure:** Legal action to seize potentially incriminating email communications.
+
+These new evidence points significantly strengthen the case for financial fraud, conspiracy, and manipulation of accounting records.

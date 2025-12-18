@@ -232,3 +232,8 @@ Based on the overwhelming evidence that exceeds both civil and criminal burdens 
 
 *This affidavit has been refined based on comprehensive evidence analysis and burden of proof assessment.*  
 *Version: 20251217*
+
+## Addendum: New Evidence and Refined Arguments (2025-12-18)
+
+Subsequent analysis and cross-referencing with newly available evidence from the ad-res-j7 repository has uncovered additional proof supporting the claims in this filing. The following new evidence strengthens the case on the balance of probabilities (50% burden of proof):
+

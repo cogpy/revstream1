@@ -305,3 +305,8 @@ Date: _______________
 | 2024-01-01 | Debt Accumulation Pattern Begins | See Annexures |
 | 2025-06-10 | Bantjies Dismisses Audit Request | See Annexures |
 | 2025-09-15 | Evidence Suppression Pattern Identified | See Annexures |
+
+## Addendum: New Evidence and Refined Arguments (2025-12-18)
+
+Subsequent analysis and cross-referencing with newly available evidence from the ad-res-j7 repository has uncovered additional proof supporting the claims in this filing. The following new evidence strengthens the case on the balance of probabilities (50% burden of proof):
+

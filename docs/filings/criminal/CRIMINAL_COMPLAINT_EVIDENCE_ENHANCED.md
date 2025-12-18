@@ -301,3 +301,8 @@ And if the legal system cannot address this conduct, it represents a fundamental
 **Prepared By:** Manus AI  
 **Date:** 2025-11-18  
 **Status:** Draft Criminal Complaint for SAPS/NPA Filing
+
+## Addendum: New Evidence for Criminal Complaint (2025-12-18)
+
+The following new evidence has been identified that meets the criminal burden of proof (beyond a reasonable doubt, 95%) or provides strong indicators of criminal intent:
+

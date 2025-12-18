@@ -1305,3 +1305,95 @@ This page presents a comprehensive, chronological timeline of all events in the 
 - See files related to: Murder, Kayla, Pretorius,, creating, estate, complications,, enforcement, investigation,, family, trauma., Estate, includes, ReZonance, R1,035,000.
 
 ---
+
+
+## Newly Identified Events (2025-12-18 Refinement)
+
+**Note:** The following events were identified through comprehensive cross-reference analysis with ad-res-j7 evidence files.
+
+### 2019-11-20 - Adderory company registration and stock supply arrangement
+
+**Event ID:** EVENT_082  
+**Category:** business_structure
+
+**Evidence:**  
+- [SF5: Adderory Company Registration Stock Supply](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md)
+
+**Description:** Adderory was registered as a company and established a stock supply relationship with RegimA, potentially as part of the scheme to manipulate revenue streams.
+
+### 2020-01-15 - Linda employment records documentation
+
+**Event ID:** EVENT_085  
+**Category:** employment_documentation
+
+**Evidence:**  
+- [SF8: Linda Employment Records](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF8_Linda_Employment_Records.md)
+
+**Description:** Employment records for Linda documenting company operations, employment practices, and operational structure.
+
+### 2020-02-28 - Bantjies documents R18.68M debt structure
+
+**Event ID:** EVENT_078  
+**Category:** accounting_fraud
+
+**Evidence:**  
+- [SF1: Bantjies Debt Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)
+
+**Description:** Bantjies documented complex debt relationships totaling R18,685,000 involving Strategic Logistics, Villa Via, and the Faucitt Family Trust.
+
+**Financial Impact:** R18,685,000.00
+
+### 2020-06-30 - Strategic Logistics stock adjustment manipulation
+
+**Event ID:** EVENT_080  
+**Category:** accounting_fraud
+
+**Evidence:**  
+- [SF3: Strategic Logistics Stock Adjustment](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md)
+
+**Description:** Irregular stock adjustments in Strategic Logistics accounts showing manipulation of inventory values and cost of goods sold.
+
+### 2020-08-15 - Rynette Farrar demonstrates Sage system control
+
+**Event ID:** EVENT_079  
+**Category:** system_control
+
+**Evidence:**  
+- [SF2: Sage Screenshots Rynette Control](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md)
+
+**Description:** Screenshots demonstrate that Rynette Farrar had administrative control over the Sage accounting system used by RegimA Skin Treatments, enabling manipulation of financial records.
+
+### 2021-03-15 - SARS audit notification email
+
+**Event ID:** EVENT_081  
+**Category:** regulatory_action
+
+**Evidence:**  
+- [SF4: SARS Audit Email](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF4_SARS_Audit_Email.md)
+
+**Description:** SARS notified the companies of a pending tax audit, indicating official scrutiny of tax affairs and potential discovery of financial irregularities.
+
+### 2021-09-10 - Kayla Pretorius estate documentation
+
+**Event ID:** EVENT_083  
+**Category:** legal_documentation
+
+**Evidence:**  
+- [SF6: Kayla Pretorius Estate Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md)
+
+**Description:** Estate documentation for Kayla Pretorius, whose email account later became subject to court-ordered seizure.
+
+### 2021-10-05 - Court order for Kayla email account seizure
+
+**Event ID:** EVENT_084  
+**Category:** legal_action
+
+**Evidence:**  
+- [SF7: Court Order Kayla Email Seizure](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md)
+
+**Description:** Court order obtained to seize the email account of Kayla Pretorius, indicating that communications in this account were deemed material to legal proceedings.
+
+**Legal Significance:** HIGH
+
+---
+

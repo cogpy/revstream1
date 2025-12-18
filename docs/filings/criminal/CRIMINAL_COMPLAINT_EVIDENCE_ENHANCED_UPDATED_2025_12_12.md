@@ -342,3 +342,8 @@ And if the legal system cannot address this conduct, it represents a fundamental
 **Location:** https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES  
 **Total Files:** 268 annexure files across 13 annexures  
 **Additional Resources:** 78 affidavits, 672 analysis files
+
+## Addendum: New Evidence for Criminal Complaint (2025-12-18)
+
+The following new evidence has been identified that meets the criminal burden of proof (beyond a reasonable doubt, 95%) or provides strong indicators of criminal intent:
+

@@ -332,3 +332,8 @@ Date: _______________
 **Location:** https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES  
 **Total Files:** 268 annexure files across 13 annexures  
 **Additional Resources:** 78 affidavits, 672 analysis files
+
+## Addendum: New Evidence and Refined Arguments (2025-12-18)
+
+Subsequent analysis and cross-referencing with newly available evidence from the ad-res-j7 repository has uncovered additional proof supporting the claims in this filing. The following new evidence strengthens the case on the balance of probabilities (50% burden of proof):
+

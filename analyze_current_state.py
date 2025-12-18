@@ -1,205 +1,232 @@
 #!/usr/bin/env python3
 """
-Comprehensive analysis of current data models state
+Comprehensive analysis of current entities, relations, events, and timelines
+in revstream1 repository with cross-reference to ad-res-j7 evidence.
 """
+
 import json
 import os
-from datetime import datetime
+from pathlib import Path
 from collections import defaultdict
+from datetime import datetime
 
-def load_json(filepath):
-    """Load JSON file"""
-    with open(filepath, 'r') as f:
-        return json.load(f)
+def analyze_entities():
+    """Analyze entity files in docs/entities/"""
+    entities_dir = Path("/home/ubuntu/revstream1/docs/entities")
+    entities = {}
+    
+    for entity_file in entities_dir.glob("*.md"):
+        entity_id = entity_file.stem
+        with open(entity_file, 'r') as f:
+            content = f.read()
+            entities[entity_id] = {
+                'file': str(entity_file),
+                'size': len(content),
+                'lines': len(content.split('\n'))
+            }
+    
+    return entities
 
-def analyze_entities(entities_data):
-    """Analyze entities structure"""
-    analysis = {
-        "total_entities": 0,
-        "entities_by_type": defaultdict(int),
-        "entities_with_evidence": 0,
-        "entities_with_ad_res_j7": 0,
-        "entities_with_github_pages": 0,
-        "entities_missing_evidence": [],
-        "entities_missing_cross_refs": []
-    }
+def analyze_events():
+    """Analyze event files in docs/events/"""
+    events_dir = Path("/home/ubuntu/revstream1/docs/events")
+    events = {}
     
-    for entity_type, entities in entities_data.get("entities", {}).items():
-        if isinstance(entities, list):
-            for entity in entities:
-                analysis["total_entities"] += 1
-                analysis["entities_by_type"][entity_type] += 1
-                
-                entity_id = entity.get("entity_id", "UNKNOWN")
-                
-                # Check evidence files
-                if entity.get("evidence_files"):
-                    analysis["entities_with_evidence"] += 1
-                else:
-                    analysis["entities_missing_evidence"].append(entity_id)
-                
-                # Check ad-res-j7 references
-                if entity.get("ad_res_j7_references"):
-                    analysis["entities_with_ad_res_j7"] += 1
-                else:
-                    analysis["entities_missing_cross_refs"].append(entity_id)
-                
-                # Check GitHub Pages reference
-                if entity.get("github_pages_reference"):
-                    analysis["entities_with_github_pages"] += 1
+    for event_file in events_dir.glob("*.md"):
+        event_id = event_file.stem
+        with open(event_file, 'r') as f:
+            content = f.read()
+            events[event_id] = {
+                'file': str(event_file),
+                'size': len(content),
+                'lines': len(content.split('\n')),
+                'has_evidence': 'Evidence:' in content or 'evidence' in content.lower()
+            }
     
-    return analysis
+    return events
 
-def analyze_events(events_data):
-    """Analyze events structure"""
-    analysis = {
-        "total_events": 0,
-        "events_by_category": defaultdict(int),
-        "events_with_evidence": 0,
-        "events_with_financial_impact": 0,
-        "events_missing_evidence": [],
-        "events_missing_cross_refs": [],
-        "timeline_coverage": defaultdict(int)
-    }
-    
-    for event in events_data.get("events", []):
-        analysis["total_events"] += 1
-        
-        event_id = event.get("event_id", "UNKNOWN")
-        category = event.get("category", "uncategorized")
-        analysis["events_by_category"][category] += 1
-        
-        # Check evidence
-        if event.get("evidence_files") or event.get("evidence_repository"):
-            analysis["events_with_evidence"] += 1
-        else:
-            analysis["events_missing_evidence"].append(event_id)
-        
-        # Check financial impact
-        if event.get("financial_impact"):
-            analysis["events_with_financial_impact"] += 1
-        
-        # Check cross-references
-        if not event.get("ad_res_j7_references"):
-            analysis["events_missing_cross_refs"].append(event_id)
-        
-        # Timeline coverage
-        date = event.get("date", "unknown")
-        if date != "unknown":
-            year_month = date[:7] if len(date) >= 7 else date
-            analysis["timeline_coverage"][year_month] += 1
-    
-    return analysis
-
-def analyze_relations(relations_data):
-    """Analyze relations structure"""
-    analysis = {
-        "total_relations": 0,
-        "relations_by_type": defaultdict(int),
-        "relations_with_evidence": 0,
-        "relations_missing_evidence": []
-    }
-    
-    for relation in relations_data.get("relations", []):
-        analysis["total_relations"] += 1
-        
-        relation_type = relation.get("relation_type", "unknown")
-        analysis["relations_by_type"][relation_type] += 1
-        
-        relation_id = relation.get("relation_id", "UNKNOWN")
-        
-        # Check evidence
-        if relation.get("evidence_files") or relation.get("evidence_repository"):
-            analysis["relations_with_evidence"] += 1
-        else:
-            analysis["relations_missing_evidence"].append(relation_id)
-    
-    return analysis
-
-def analyze_timeline(timeline_data):
+def analyze_timeline():
     """Analyze timeline structure"""
-    analysis = {
-        "total_phases": 0,
-        "phases": [],
-        "total_events_in_phases": 0,
-        "phase_gaps": [],
-        "phases_missing_evidence": []
+    timeline_file = Path("/home/ubuntu/revstream1/docs/timeline.md")
+    
+    with open(timeline_file, 'r') as f:
+        content = f.read()
+    
+    # Count phases
+    phases = content.count('## ')
+    # Count events
+    events = content.count('#### ')
+    # Count evidence links
+    evidence_links = content.count('github.com/cogpy/ad-res-j7')
+    
+    return {
+        'phases': phases,
+        'events': events,
+        'evidence_links': evidence_links,
+        'size': len(content)
     }
+
+def analyze_filings():
+    """Analyze legal filings structure"""
+    filings_dir = Path("/home/ubuntu/revstream1/docs/filings")
+    filings = {}
     
-    phases = timeline_data.get("timeline_phases", {})
-    for phase_key, phase_data in phases.items():
-        analysis["total_phases"] += 1
-        
-        phase_info = {
-            "phase_id": phase_data.get("phase_id"),
-            "phase_name": phase_data.get("phase_name"),
-            "start_date": phase_data.get("start_date"),
-            "end_date": phase_data.get("end_date"),
-            "event_count": len(phase_data.get("events", [])),
-            "financial_impact": phase_data.get("financial_impact", "Unknown")
-        }
-        analysis["phases"].append(phase_info)
-        analysis["total_events_in_phases"] += phase_info["event_count"]
-        
-        # Check for evidence references
-        if not phase_data.get("evidence_repository"):
-            analysis["phases_missing_evidence"].append(phase_data.get("phase_id"))
+    for filing_dir in filings_dir.iterdir():
+        if filing_dir.is_dir():
+            filing_files = list(filing_dir.glob("*.md"))
+            filings[filing_dir.name] = {
+                'count': len(filing_files),
+                'files': [f.name for f in filing_files]
+            }
     
-    return analysis
+    return filings
+
+def analyze_evidence_cross_refs():
+    """Analyze evidence cross-references from JSON files"""
+    json_files = [
+        "AD_RES_J7_EXTENDED_ANALYSIS_2025_12_17.json",
+        "AD_RES_J7_EVIDENCE_INVENTORY_2025_12_16.json",
+        "COMPREHENSIVE_ANALYSIS_REFINEMENT_2025_12_17.json"
+    ]
+    
+    evidence_catalog = {}
+    
+    for json_file in json_files:
+        filepath = Path(f"/home/ubuntu/revstream1/{json_file}")
+        if filepath.exists():
+            with open(filepath, 'r') as f:
+                try:
+                    data = json.load(f)
+                    if 'evidence_catalog' in data:
+                        evidence_catalog.update(data['evidence_catalog'])
+                except json.JSONDecodeError:
+                    pass
+    
+    return evidence_catalog
 
 def main():
-    """Main analysis function"""
-    base_path = "/home/ubuntu/revstream1/data_models"
+    print("=" * 80)
+    print("REVSTREAM1 CURRENT STATE ANALYSIS")
+    print("=" * 80)
+    print()
     
-    # Load latest data models
-    entities_path = f"{base_path}/entities/entities_refined_2025_11_23_v10.json"
-    events_path = f"{base_path}/events/events_refined_2025_11_23_v11.json"
-    relations_path = f"{base_path}/relations/relations_refined_2025_11_23_v8.json"
-    timeline_path = f"{base_path}/timelines/timeline_refined_2025_11_23_v9.json"
+    # Analyze entities
+    print("ENTITIES ANALYSIS")
+    print("-" * 80)
+    entities = analyze_entities()
+    print(f"Total entities: {len(entities)}")
     
-    print("Loading data models...")
-    entities_data = load_json(entities_path)
-    events_data = load_json(events_path)
-    relations_data = load_json(relations_path)
-    timeline_data = load_json(timeline_path)
+    entity_types = defaultdict(int)
+    for entity_id in entities.keys():
+        entity_type = entity_id.split('_')[0]
+        entity_types[entity_type] += 1
     
-    print("\n=== ANALYZING ENTITIES ===")
-    entities_analysis = analyze_entities(entities_data)
-    print(json.dumps(entities_analysis, indent=2, default=str))
+    print("\nEntity breakdown by type:")
+    for entity_type, count in sorted(entity_types.items()):
+        print(f"  {entity_type}: {count}")
+    print()
     
-    print("\n=== ANALYZING EVENTS ===")
-    events_analysis = analyze_events(events_data)
-    print(json.dumps(events_analysis, indent=2, default=str))
+    # Analyze events
+    print("EVENTS ANALYSIS")
+    print("-" * 80)
+    events = analyze_events()
+    print(f"Total events: {len(events)}")
+    events_with_evidence = sum(1 for e in events.values() if e['has_evidence'])
+    print(f"Events with evidence references: {events_with_evidence}")
+    print(f"Events without evidence: {len(events) - events_with_evidence}")
+    print()
     
-    print("\n=== ANALYZING RELATIONS ===")
-    relations_analysis = analyze_relations(relations_data)
-    print(json.dumps(relations_analysis, indent=2, default=str))
+    # Analyze timeline
+    print("TIMELINE ANALYSIS")
+    print("-" * 80)
+    timeline = analyze_timeline()
+    print(f"Phases: {timeline['phases']}")
+    print(f"Events in timeline: {timeline['events']}")
+    print(f"Evidence links to ad-res-j7: {timeline['evidence_links']}")
+    print(f"Timeline size: {timeline['size']:,} bytes")
+    print()
     
-    print("\n=== ANALYZING TIMELINE ===")
-    timeline_analysis = analyze_timeline(timeline_data)
-    print(json.dumps(timeline_analysis, indent=2, default=str))
+    # Analyze filings
+    print("LEGAL FILINGS ANALYSIS")
+    print("-" * 80)
+    filings = analyze_filings()
+    print(f"Total filing categories: {len(filings)}")
+    for filing_type, info in sorted(filings.items()):
+        print(f"  {filing_type}: {info['count']} files")
+    print()
     
-    # Generate comprehensive report
+    # Analyze evidence catalog
+    print("EVIDENCE CATALOG ANALYSIS")
+    print("-" * 80)
+    evidence_catalog = analyze_evidence_cross_refs()
+    print(f"Total evidence items cataloged: {len(evidence_catalog)}")
+    
+    # Analyze burden of proof
+    civil_ready = 0
+    criminal_ready = 0
+    for item_id, item_data in evidence_catalog.items():
+        if isinstance(item_data, dict) and 'burden_of_proof' in item_data:
+            bop = item_data['burden_of_proof']
+            if isinstance(bop, dict):
+                if bop.get('civil_50_percent'):
+                    civil_ready += 1
+                if bop.get('criminal_95_percent'):
+                    criminal_ready += 1
+    
+    print(f"Evidence meeting civil burden (50%): {civil_ready}")
+    print(f"Evidence meeting criminal burden (95%): {criminal_ready}")
+    print()
+    
+    # Save analysis report
     report = {
-        "analysis_date": datetime.now().isoformat(),
-        "entities": entities_analysis,
-        "events": events_analysis,
-        "relations": relations_analysis,
-        "timeline": timeline_analysis,
-        "metadata": {
-            "entities_version": entities_data.get("metadata", {}).get("version"),
-            "events_version": events_data.get("metadata", {}).get("version"),
-            "relations_version": relations_data.get("metadata", {}).get("version"),
-            "timeline_version": timeline_data.get("metadata", {}).get("version")
+        'timestamp': datetime.now().isoformat(),
+        'entities': {
+            'total': len(entities),
+            'by_type': dict(entity_types)
+        },
+        'events': {
+            'total': len(events),
+            'with_evidence': events_with_evidence,
+            'without_evidence': len(events) - events_with_evidence
+        },
+        'timeline': timeline,
+        'filings': filings,
+        'evidence_catalog': {
+            'total': len(evidence_catalog),
+            'civil_ready': civil_ready,
+            'criminal_ready': criminal_ready
         }
     }
     
-    # Save report
-    report_path = "/home/ubuntu/revstream1/CURRENT_STATE_ANALYSIS_2025_11_24.json"
-    with open(report_path, 'w') as f:
-        json.dump(report, f, indent=2, default=str)
+    output_file = Path("/home/ubuntu/revstream1/CURRENT_STATE_ANALYSIS_2025_12_18.json")
+    with open(output_file, 'w') as f:
+        json.dump(report, f, indent=2)
     
-    print(f"\n✅ Report saved to: {report_path}")
+    print(f"Analysis report saved to: {output_file}")
+    print()
+    
+    # Identify gaps and improvements needed
+    print("GAPS AND IMPROVEMENTS NEEDED")
+    print("-" * 80)
+    
+    gaps = []
+    
+    if len(events) - events_with_evidence > 0:
+        gaps.append(f"- {len(events) - events_with_evidence} events lack evidence references")
+    
+    if evidence_catalog:
+        insufficient = len(evidence_catalog) - civil_ready
+        if insufficient > 0:
+            gaps.append(f"- {insufficient} evidence items don't meet civil burden of proof")
+    
+    if gaps:
+        for gap in gaps:
+            print(gap)
+    else:
+        print("No major gaps identified")
+    
+    print()
+    print("=" * 80)
 
 if __name__ == "__main__":
     main()
