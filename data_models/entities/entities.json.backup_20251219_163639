@@ -5,8 +5,8 @@
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2025-12-19T16:36:39.166026",
-    "changes": "Added 0 new entities from ad-res-j7 evidence analysis"
+    "last_updated": "2025-12-19T16:36:13.580888",
+    "changes": "Added 2 new entities from ad-res-j7 evidence analysis"
   },
   "entities": {
     "persons": [

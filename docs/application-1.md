@@ -379,3 +379,46 @@ The interdict application may be voidable due to material non-disclosure of Bant
 - [EVENT_088: Bantjies certifies affidavit](events/EVENT_088.html)
 - [Relations Update 2025-12-19](RELATIONS_UPDATE_2025_12_19.html)
 
+
+
+---
+
+## New Evidence (2025-12-19 Refinement)
+
+### Evidence Strengthening Civil Action
+
+
+#### SF1: Bantjies R18.685M Debt
+- **Relevance**: Establishes motive and conflict of interest
+- **Burden of Proof**: Civil (HIGH)
+- **Impact**: Strengthens claims of conspiracy and obstruction
+
+#### SF2: Rynette Sage System Control
+- **Relevance**: Proves technical capability for financial manipulation
+- **Burden of Proof**: Civil (HIGH)
+- **Impact**: Direct evidence of system control and email access
+
+#### SF4: SARS Audit
+- **Relevance**: Independent regulatory verification
+- **Burden of Proof**: Civil (HIGH)
+- **Impact**: Third-party corroboration of irregularities
+
+#### SF5: Adderory Registration
+- **Relevance**: Potential fictitious supplier structure
+- **Burden of Proof**: Civil (MEDIUM)
+- **Impact**: Supports revenue manipulation claims
+
+#### SF7: Court-Ordered Email Seizure
+- **Relevance**: Judicial recognition of incriminating communications
+- **Burden of Proof**: Civil (HIGH)
+- **Impact**: Court acknowledgment of serious concerns
+
+### Integration with Existing Claims
+
+The new evidence from SF1-SF8 directly supports and strengthens the following claims in this application:
+1. Conspiracy to defraud (SF1: motive, SF2: capability)
+2. Financial manipulation (SF2: system control, SF4: regulatory verification)
+3. Obstruction of justice (SF1: audit dismissal motive)
+4. Breach of fiduciary duty (SF1: triple conflict)
+
+**See**: [Evidence Index 2025-12-19](evidence-index-2025-12-19.md) for complete details

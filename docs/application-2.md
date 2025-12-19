@@ -444,3 +444,36 @@ These new evidence points significantly strengthen the case for financial fraud,
 - [SF1 Full Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)
 - [Relations Update 2025-12-19](RELATIONS_UPDATE_2025_12_19.html)
 
+
+
+---
+
+## New Evidence (2025-12-19 Refinement)
+
+### Evidence Strengthening Criminal Complaint
+
+
+#### SF1: Bantjies Conflict of Interest
+- **Relevance**: Criminal motive for obstruction and fraud
+- **Burden of Proof**: Criminal (MEDIUM)
+- **Impact**: R18.685M debt establishes clear criminal motive
+
+#### SF2: Rynette System Control
+- **Relevance**: Criminal capability for fraud
+- **Burden of Proof**: Criminal (HIGH)
+- **Impact**: Direct proof of technical capability for financial crimes
+
+#### SF7: Court-Ordered Email Seizure
+- **Relevance**: Judicial recognition of criminal conduct
+- **Burden of Proof**: Criminal (MEDIUM)
+- **Impact**: Court order indicates serious legal concerns
+
+### Criminal Charges Supported
+
+The new evidence supports the following criminal charges:
+1. **Fraud** (SF1, SF2: motive and capability)
+2. **Breach of Fiduciary Duty** (SF1: trustee misconduct)
+3. **Obstruction of Justice** (SF1: audit dismissal)
+4. **Professional Misconduct** (SF1: Commissioner of Oaths abuse)
+
+**See**: [Evidence Index 2025-12-19](evidence-index-2025-12-19.md) for complete details

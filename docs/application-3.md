@@ -526,3 +526,41 @@ These new evidence points significantly strengthen the case for financial fraud,
 - [SF4 SARS Audit](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF4_SARS_Audit_Email.md)
 - [Relations Update 2025-12-19](RELATIONS_UPDATE_2025_12_19.html)
 
+
+
+---
+
+## New Evidence (2025-12-19 Refinement)
+
+### Evidence Strengthening Regulatory Complaints
+
+
+#### SF4: SARS Audit (Tax Authority)
+- **Relevance**: Regulatory verification of irregularities
+- **Burden of Proof**: Civil (HIGH)
+- **Impact**: Independent third-party corroboration
+
+#### SF1: Bantjies Professional Misconduct
+- **Relevance**: CIPC complaints - trustee misconduct
+- **Burden of Proof**: Civil (HIGH)
+- **Impact**: Breach of fiduciary duty, conflict of interest
+
+#### SF5: Adderory Registration (CIPC)
+- **Relevance**: Company registration irregularities
+- **Burden of Proof**: Civil (MEDIUM)
+- **Impact**: Potential fictitious entity creation
+
+#### SF2: POPIA Violations
+- **Relevance**: Unauthorized system access and control
+- **Burden of Proof**: Civil (HIGH)
+- **Impact**: Data protection violations by conflicted party
+
+### Regulatory Bodies Affected
+
+The new evidence supports complaints to:
+1. **SARS** (SF4: tax fraud, accounting irregularities)
+2. **CIPC** (SF1, SF5: trustee misconduct, company fraud)
+3. **Information Regulator** (SF2: POPIA violations)
+4. **NPA** (SF1, SF2: tax fraud, financial crimes)
+
+**See**: [Evidence Index 2025-12-19](evidence-index-2025-12-19.md) for complete details

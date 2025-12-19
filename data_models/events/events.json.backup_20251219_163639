@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "10.0_REFINED_2025_12_19",
+    "version": "9.0_EVIDENCE_ENHANCED",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 62,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2025-12-19T16:36:39.171138",
-    "changes": "Added 6 new events from ad-res-j7 evidence analysis"
+    "last_updated": "2025-12-16T05:38:06.599641",
+    "changes": "Enhanced all events with evidence references (2025-12-16)"
   },
   "events": [
     {
@@ -1082,7 +1082,7 @@
       "entities_involved": [
         "PLATFORM_001"
       ],
-      "description": "CRITICAL EVENT: R1M+ monthly revenue → R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
+      "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
       "financial_impact": "R1,000,000+ monthly",
       "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
       "evidence": [
@@ -1963,150 +1963,6 @@
           "amount": 50000.0
         }
       ]
-    },
-    {
-      "event_id": "EVENT_086",
-      "date": "2021-09-10",
-      "title": "Kayla Pretorius Estate Documentation",
-      "description": "Estate documentation for Kayla Pretorius, whose email account later became subject to court-ordered seizure",
-      "category": "legal_documentation",
-      "participants": [
-        "PERSON_013"
-      ],
-      "evidence": [
-        "SF6_Kayla_Pretorius_Estate_Documentation.md"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md"
-      ],
-      "burden_of_proof": {
-        "civil": "MEDIUM",
-        "criminal": "N/A"
-      },
-      "legal_significance": "MEDIUM",
-      "created": "2025-12-19T16:36:39.171056"
-    },
-    {
-      "event_id": "EVENT_087",
-      "date": "2021-10-05",
-      "title": "Court Order for Kayla Pretorius Email Account Seizure",
-      "description": "Court orders seizure of Kayla Pretorius email account for evidence of fraudulent activities",
-      "category": "legal_action",
-      "participants": [
-        "PERSON_013"
-      ],
-      "evidence": [
-        "SF7_Court_Order_Kayla_Email_Seizure.md"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md"
-      ],
-      "burden_of_proof": {
-        "civil": "HIGH",
-        "criminal": "MEDIUM"
-      },
-      "legal_significance": "HIGH",
-      "impact": "Court-ordered seizure indicates judicial recognition of potential incriminating communications",
-      "created": "2025-12-19T16:36:39.171065"
-    },
-    {
-      "event_id": "EVENT_088",
-      "date": "2021-03-15",
-      "title": "SARS Tax Audit Notification",
-      "description": "SARS notifies RegimA companies of tax audit, providing independent regulatory scrutiny",
-      "category": "regulatory_action",
-      "participants": [
-        "ORG_015",
-        "ORG_001"
-      ],
-      "evidence": [
-        "SF4_SARS_Audit_Email.md"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/SF4_SARS_Audit_Email.md"
-      ],
-      "burden_of_proof": {
-        "civil": "HIGH",
-        "criminal": "N/A"
-      },
-      "legal_significance": "HIGH",
-      "impact": "Independent third-party verification of financial irregularities",
-      "created": "2025-12-19T16:36:39.171068"
-    },
-    {
-      "event_id": "EVENT_089",
-      "date": "2020-02-28",
-      "title": "Bantjies R18.685M Debt to Faucitt Family Trust",
-      "description": "Documentation of Bantjies's R18,685,000 debt to Faucitt Family Trust, creating massive conflict of interest",
-      "category": "accounting_fraud",
-      "participants": [
-        "PERSON_007",
-        "TRUST_001"
-      ],
-      "financial_impact": "R18,685,000.00",
-      "evidence": [
-        "SF1_Bantjies_Debt_Documentation.md"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
-      ],
-      "burden_of_proof": {
-        "civil": "HIGH",
-        "criminal": "MEDIUM"
-      },
-      "legal_significance": "CRITICAL",
-      "impact": "Creates motive for Bantjies to prevent fraud discovery, dismiss audit requests, and support retaliatory legal action",
-      "conflict_of_interest": "Triple conflict: trustee + debtor + accountant",
-      "created": "2025-12-19T16:36:39.171070"
-    },
-    {
-      "event_id": "EVENT_090",
-      "date": "2020-08-15",
-      "title": "Rynette Farrar Demonstrates Sage System Control",
-      "description": "Screenshot evidence shows Rynette with control of Sage accounting system and access to Pete@regima.com email",
-      "category": "system_control",
-      "participants": [
-        "PERSON_002",
-        "ORG_001"
-      ],
-      "evidence": [
-        "SF2_Sage_Screenshots_Rynette_Control.md"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
-      ],
-      "burden_of_proof": {
-        "civil": "HIGH",
-        "criminal": "HIGH"
-      },
-      "legal_significance": "CRITICAL",
-      "impact": "Direct proof of technical capability to manipulate financial records through system-level access",
-      "technical_evidence": "Sage screenshot dated 2025-06-20",
-      "created": "2025-12-19T16:36:39.171073"
-    },
-    {
-      "event_id": "EVENT_091",
-      "date": "2019-11-20",
-      "title": "Adderory Company Registration and Stock Supply Arrangement",
-      "description": "Adderory company registration and stock supply arrangement with RegimA (potential fictitious supplier)",
-      "category": "business_structure",
-      "participants": [
-        "ORG_014",
-        "ORG_001"
-      ],
-      "evidence": [
-        "SF5_Adderory_Company_Registration_Stock_Supply.md"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md"
-      ],
-      "burden_of_proof": {
-        "civil": "MEDIUM",
-        "criminal": "LOW"
-      },
-      "legal_significance": "MEDIUM",
-      "impact": "Potential creation of fictitious or controlled supplier to manipulate revenue recognition",
-      "created": "2025-12-19T16:36:39.171076"
     }
   ]
 }

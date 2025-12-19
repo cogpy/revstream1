@@ -5,6 +5,37 @@ layout: default
 
 # Revenue Stream Hijacking Case 2025-137857
 
+
+## Latest Updates (2025-12-19)
+
+**Major Refinement**: Comprehensive evidence analysis and data model updates based on ad-res-j7 repository cross-reference.
+
+### Key Additions
+
+- **2 New Entities**: Kayla Pretorius (PERSON_013), SARS (ORG_015)
+- **4 New Relations**: Bantjies debt (R18.685M), Rynette system control, SARS audit, Adderory stock supply
+- **6 New Events**: Critical timeline events with burden of proof assessments
+- **Legal Filings**: Updated with comprehensive evidence addendums
+
+### Critical Evidence Highlights
+
+1. **SF1**: Bantjies R18.685M Debt - Establishes motive and triple conflict of interest
+2. **SF2**: Rynette Sage Control - Proves technical capability for financial manipulation
+3. **SF4**: SARS Audit - Independent regulatory verification
+4. **SF7**: Court-Ordered Email Seizure - Judicial recognition of incriminating communications
+
+### Quick Links
+
+- [Evidence Index](#evidence-index)
+- [New Entities & Relations](#new-entities-and-relations-2025-12-19)
+- [Timeline Updates](#timeline-updates-2025-12-19)
+- [Application 1 (Civil)](#application-1)
+- [Application 2 (Criminal)](#application-2)
+- [Application 3 (Regulatory)](#application-3)
+
+---
+
+
 **Last Updated:** 2025-12-17 05:36:56
 
 ## Executive Summary
