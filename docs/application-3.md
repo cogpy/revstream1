@@ -494,3 +494,35 @@ The following new evidence has been identified and cross-referenced, strengtheni
 - **SF7: Court Order for Email Seizure:** Legal action to seize potentially incriminating email communications.
 
 These new evidence points significantly strengthen the case for financial fraud, conspiracy, and manipulation of accounting records.
+
+
+## New Evidence - System Control and Access (2025-12-19)
+
+### SF1 & SF4: Bantjies Control Structure
+
+**POPIA Violation:** Unauthorized system access and control
+
+**Key Findings:**
+
+1. **Undisclosed Trustee:** Bantjies had trustee-level access without disclosure
+2. **Accountant Access:** Bantjies controlled financial systems as "accountant"
+3. **Conflict of Interest:** R18,685,000 debt creating motive for data manipulation
+4. **SARS Audit:** Independent verification of irregularities (SF4)
+
+**Data Protection Implications:**
+
+- Unauthorized access to personal and financial data
+- System control by conflicted party
+- Potential data manipulation to conceal debt
+- Obstruction of legitimate data access requests
+
+**Supporting Evidence:**
+- SF1: Bantjies Debt Documentation
+- SF2: Sage Screenshots (Rynette Control)
+- SF4: SARS Audit Email
+
+**Cross-References:**
+- [SF1 Full Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)
+- [SF4 SARS Audit](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF4_SARS_Audit_Email.md)
+- [Relations Update 2025-12-19](RELATIONS_UPDATE_2025_12_19.html)
+

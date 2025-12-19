@@ -24,6 +24,8 @@ This repository documents a comprehensive case of revenue stream hijacking, trus
 - [Timeline of Events](timeline.html)
 - [Entity Profiles](entities/)
 - [Event Analysis](events/)
+- [Entity Relations Update (2025-12-19)](RELATIONS_UPDATE_2025_12_19.html)
+
 
 ### Key Evidence Files
 

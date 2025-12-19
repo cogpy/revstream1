@@ -329,3 +329,53 @@ The following new evidence has been identified and cross-referenced, strengtheni
 - **SF7: Court Order for Email Seizure:** Legal action to seize potentially incriminating email communications.
 
 These new evidence points significantly strengthen the case for financial fraud, conspiracy, and manipulation of accounting records.
+
+
+## New Evidence - Bantjies Conflict of Interest (2025-12-19)
+
+### SF1: Bantjies Debt Documentation (R18.685M)
+
+**Evidence Type:** Documentary, financial records  
+**Burden of Proof:** Civil HIGH, Criminal MEDIUM
+
+**Key Findings:**
+
+1. **R18,685,000 Debt:** Bantjies owes R18,685,000 to the Faucitt Family Trust
+2. **Undisclosed Trustee:** Bantjies was appointed trustee in July 2024 but never disclosed this status
+3. **Triple Conflict:** Bantjies simultaneously held three incompatible positions:
+   - Trustee (fiduciary duty to trust)
+   - Debtor (personal interest in avoiding collection)
+   - Accountant (control over financial systems)
+
+**Timeline of Obstruction:**
+
+- **June 6, 2025:** Daniel reports fraud to Bantjies (EVENT_086)
+- **June 10, 2025:** Bantjies dismisses audit request (EVENT_087)
+- **August 1, 2025:** Bantjies certifies Peter's affidavit (EVENT_088)
+- **August 13, 2025:** Interdict granted against Jacqui and Daniel
+
+**Legal Implications:**
+
+- Breach of fiduciary duty
+- Conflict of interest
+- Professional misconduct (Commissioner of Oaths)
+- Material non-disclosure in court proceedings
+- Obstruction of fraud investigation
+
+**Impact on Civil Application:**
+
+This evidence demonstrates clear motive for the entire obstruction pattern. Bantjies had R18,685,000 reasons to:
+- Dismiss Daniel's legitimate audit request
+- Support Peter's interdict application
+- Certify affidavit with material omissions
+- Prevent discovery of fraud
+
+The interdict application may be voidable due to material non-disclosure of Bantjies's trustee status and debt.
+
+**Cross-References:**
+- [SF1 Full Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)
+- [EVENT_086: Daniel reports to Bantjies](events/EVENT_086.html)
+- [EVENT_087: Bantjies dismisses audit](events/EVENT_087.html)
+- [EVENT_088: Bantjies certifies affidavit](events/EVENT_088.html)
+- [Relations Update 2025-12-19](RELATIONS_UPDATE_2025_12_19.html)
+

@@ -412,3 +412,35 @@ The following new evidence has been identified and cross-referenced, strengtheni
 - **SF7: Court Order for Email Seizure:** Legal action to seize potentially incriminating email communications.
 
 These new evidence points significantly strengthen the case for financial fraud, conspiracy, and manipulation of accounting records.
+
+
+## New Evidence - Bantjies Undisclosed Trustee Status (2025-12-19)
+
+### SF1: Bantjies Debt Documentation
+
+**Regulatory Violation:** Undisclosed trustee status in court proceedings
+
+**Key Findings:**
+
+1. **Trustee Appointment:** Bantjies appointed as trustee in July 2024
+2. **Non-Disclosure:** Status not disclosed in Peter's founding affidavit
+3. **Commissioner Misconduct:** Bantjies certified affidavit omitting own status
+4. **Debt Concealment:** R18,685,000 debt to trust not disclosed
+
+**CIPC Implications:**
+
+- Director/trustee duties violation
+- Breach of fiduciary duty to trust
+- Conflict of interest in multiple roles
+- Material non-disclosure affecting trust governance
+
+**Supporting Evidence:**
+- Trust deed amendments
+- Master's Office records
+- Court affidavit with Bantjies's certification
+- Financial records showing R18.685M debt
+
+**Cross-References:**
+- [SF1 Full Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)
+- [Relations Update 2025-12-19](RELATIONS_UPDATE_2025_12_19.html)
+

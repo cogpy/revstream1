@@ -1,0 +1,595 @@
+{
+  "timestamp": "2025-12-19T05:34:03.222082",
+  "sf_files_analyzed": 8,
+  "new_entities_identified": [
+    {
+      "id": "PERSON_015",
+      "name": "Chantal",
+      "type": "PERSON",
+      "role": "Estate executor correspondent",
+      "evidence": [
+        "JF08",
+        "SF6"
+      ],
+      "significance": "Correspondence regarding Kayla Pretorius estate finalization"
+    }
+  ],
+  "new_relations_identified": [
+    {
+      "source": "PERSON_007",
+      "target": "TRUST_001",
+      "type": "DEBTOR",
+      "amount": "R18,685,000",
+      "evidence": "SF1",
+      "civil_burden": "HIGH",
+      "criminal_burden": "MEDIUM"
+    },
+    {
+      "source": "PERSON_007",
+      "target": "TRUST_001",
+      "type": "UNDISCLOSED_TRUSTEE",
+      "evidence": "SF1",
+      "civil_burden": "HIGH",
+      "criminal_burden": "HIGH"
+    },
+    {
+      "source": "ORG_015",
+      "target": "ORG_002",
+      "type": "TAX_AUDIT",
+      "evidence": "SF4",
+      "civil_burden": "HIGH",
+      "criminal_burden": "N/A"
+    }
+  ],
+  "new_events_identified": [
+    {
+      "id": "EVENT_086",
+      "date": "2025-06-06",
+      "title": "Daniel reports fraud to Bantjies (unknowingly to perpetrator)",
+      "category": "fraud_exposure",
+      "evidence": "SF1",
+      "entities": [
+        "PERSON_003",
+        "PERSON_007"
+      ],
+      "significance": "Daniel unknowingly reported fraud to conflicted party with R18.685M debt",
+      "civil_burden": "HIGH",
+      "criminal_burden": "MEDIUM"
+    },
+    {
+      "id": "EVENT_087",
+      "date": "2025-06-10",
+      "title": "Bantjies dismisses Daniel's audit request",
+      "category": "obstruction",
+      "evidence": "SF1",
+      "entities": [
+        "PERSON_007",
+        "PERSON_003"
+      ],
+      "financial_impact": "R18,685,000.00",
+      "significance": "Bantjies had R18.685M reasons to prevent audit discovery",
+      "civil_burden": "HIGH",
+      "criminal_burden": "HIGH"
+    },
+    {
+      "id": "EVENT_088",
+      "date": "2025-08-01",
+      "title": "Bantjies certifies Peter's affidavit as Commissioner of Oaths",
+      "category": "professional_misconduct",
+      "evidence": "SF1",
+      "entities": [
+        "PERSON_007",
+        "PERSON_001"
+      ],
+      "significance": "Ethical breach - certified affidavit omitting own trustee status and debt",
+      "civil_burden": "HIGH",
+      "criminal_burden": "HIGH"
+    }
+  ],
+  "evidence_strength_assessment": {
+    "SF1_Bantjies_Debt_Documentation": {
+      "file": "SF1_Bantjies_Debt_Documentation",
+      "path": "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+      "entities_mentioned": [
+        {
+          "name": "Bantjies",
+          "type": "persons",
+          "mentions": 38
+        },
+        {
+          "name": "RegimA",
+          "type": "organizations",
+          "mentions": 2
+        },
+        {
+          "name": "Strategic Logistics",
+          "type": "organizations",
+          "mentions": 1
+        },
+        {
+          "name": "Villa Via",
+          "type": "organizations",
+          "mentions": 1
+        },
+        {
+          "name": "SARS",
+          "type": "organizations",
+          "mentions": 1
+        },
+        {
+          "name": "Faucitt Family Trust",
+          "type": "organizations",
+          "mentions": 4
+        }
+      ],
+      "financial_amounts": [
+        "R5",
+        "R18.68",
+        "R18,685,000"
+      ],
+      "dates_mentioned": [
+        "August 2025",
+        "June 6, 2025",
+        "June 10, 2025",
+        "August 13, 2025"
+      ],
+      "legal_implications": [
+        "breach of fiduciary duty",
+        "conflict of interest",
+        "fraud",
+        "professional misconduct",
+        "ethical breach"
+      ],
+      "burden_of_proof": {
+        "civil_standard": "MEDIUM",
+        "criminal_standard": "LOW",
+        "evidence_type": [
+          "documentary",
+          "system_generated",
+          "official",
+          "communication"
+        ]
+      }
+    },
+    "SF2_Sage_Screenshots_Rynette_Control": {
+      "file": "SF2_Sage_Screenshots_Rynette_Control",
+      "path": "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md",
+      "entities_mentioned": [
+        {
+          "name": "Bantjies",
+          "type": "persons",
+          "mentions": 9
+        },
+        {
+          "name": "Peter Faucitt",
+          "type": "persons",
+          "mentions": 1
+        },
+        {
+          "name": "Rynette Farrar",
+          "type": "persons",
+          "mentions": 2
+        },
+        {
+          "name": "Linda",
+          "type": "persons",
+          "mentions": 1
+        },
+        {
+          "name": "RegimA",
+          "type": "organizations",
+          "mentions": 28
+        },
+        {
+          "name": "Villa Via",
+          "type": "organizations",
+          "mentions": 1
+        },
+        {
+          "name": "Adderory",
+          "type": "organizations",
+          "mentions": 1
+        },
+        {
+          "name": "SARS",
+          "type": "organizations",
+          "mentions": 2
+        }
+      ],
+      "financial_amounts": [
+        "R1,035,000",
+        "R18.68"
+      ],
+      "dates_mentioned": [
+        "June 7, 2025",
+        "June 6, 2025",
+        "May 22, 2025",
+        "May 15, 2025",
+        "March 30, 2025"
+      ],
+      "legal_implications": [
+        "fraud"
+      ],
+      "burden_of_proof": {
+        "civil_standard": "MEDIUM",
+        "criminal_standard": "LOW",
+        "evidence_type": [
+          "documentary",
+          "system_generated",
+          "official",
+          "communication"
+        ]
+      }
+    },
+    "SF3_Strategic_Logistics_Stock_Adjustment": {
+      "file": "SF3_Strategic_Logistics_Stock_Adjustment",
+      "path": "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
+      "entities_mentioned": [
+        {
+          "name": "Bantjies",
+          "type": "persons",
+          "mentions": 20
+        },
+        {
+          "name": "RegimA",
+          "type": "organizations",
+          "mentions": 12
+        },
+        {
+          "name": "Strategic Logistics",
+          "type": "organizations",
+          "mentions": 14
+        },
+        {
+          "name": "Villa Via",
+          "type": "organizations",
+          "mentions": 4
+        },
+        {
+          "name": "Adderory",
+          "type": "organizations",
+          "mentions": 22
+        },
+        {
+          "name": "SARS",
+          "type": "organizations",
+          "mentions": 5
+        },
+        {
+          "name": "Faucitt Family Trust",
+          "type": "organizations",
+          "mentions": 1
+        }
+      ],
+      "financial_amounts": [
+        "R5,400,000",
+        "R5",
+        "R1,035,000",
+        "R18.68",
+        "R900,000"
+      ],
+      "dates_mentioned": [
+        "June 10, 2025",
+        "June 6, 2025",
+        "March 30, 2025",
+        "May 29, 2025"
+      ],
+      "legal_implications": [
+        "breach of fiduciary duty",
+        "fraud"
+      ],
+      "burden_of_proof": {
+        "civil_standard": "MEDIUM",
+        "criminal_standard": "LOW",
+        "evidence_type": [
+          "documentary",
+          "system_generated",
+          "official",
+          "communication"
+        ]
+      }
+    },
+    "SF4_SARS_Audit_Email": {
+      "file": "SF4_SARS_Audit_Email",
+      "path": "ANNEXURES/SF4_SARS_Audit_Email.md",
+      "entities_mentioned": [
+        {
+          "name": "Bantjies",
+          "type": "persons",
+          "mentions": 62
+        },
+        {
+          "name": "Peter Faucitt",
+          "type": "persons",
+          "mentions": 1
+        },
+        {
+          "name": "Rynette Farrar",
+          "type": "persons",
+          "mentions": 4
+        },
+        {
+          "name": "Linda",
+          "type": "persons",
+          "mentions": 1
+        },
+        {
+          "name": "RegimA",
+          "type": "organizations",
+          "mentions": 5
+        },
+        {
+          "name": "Strategic Logistics",
+          "type": "organizations",
+          "mentions": 2
+        },
+        {
+          "name": "Villa Via",
+          "type": "organizations",
+          "mentions": 1
+        },
+        {
+          "name": "SARS",
+          "type": "organizations",
+          "mentions": 26
+        }
+      ],
+      "financial_amounts": [
+        "R5",
+        "R18.68"
+      ],
+      "dates_mentioned": [
+        "June 6, 2025",
+        "March 30, 2025",
+        "June 10, 2025"
+      ],
+      "legal_implications": [
+        "breach of fiduciary duty",
+        "conflict of interest",
+        "fraud"
+      ],
+      "burden_of_proof": {
+        "civil_standard": "MEDIUM",
+        "criminal_standard": "LOW",
+        "evidence_type": [
+          "system_generated",
+          "official",
+          "communication"
+        ]
+      }
+    },
+    "SF5_Adderory_Company_Registration_Stock_Supply": {
+      "file": "SF5_Adderory_Company_Registration_Stock_Supply",
+      "path": "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md",
+      "entities_mentioned": [
+        {
+          "name": "Bantjies",
+          "type": "persons",
+          "mentions": 2
+        },
+        {
+          "name": "Rynette Farrar",
+          "type": "persons",
+          "mentions": 1
+        },
+        {
+          "name": "RegimA",
+          "type": "organizations",
+          "mentions": 36
+        },
+        {
+          "name": "Strategic Logistics",
+          "type": "organizations",
+          "mentions": 10
+        },
+        {
+          "name": "Adderory",
+          "type": "organizations",
+          "mentions": 34
+        }
+      ],
+      "financial_amounts": [
+        "R5",
+        "R1,035,000"
+      ],
+      "dates_mentioned": [
+        "May 22, 2025",
+        "June 10, 2025",
+        "May 29, 2025",
+        "May 15, 2025",
+        "June 20, 2025"
+      ],
+      "legal_implications": [
+        "breach of fiduciary duty",
+        "fraud"
+      ],
+      "burden_of_proof": {
+        "civil_standard": "MEDIUM",
+        "criminal_standard": "LOW",
+        "evidence_type": [
+          "documentary",
+          "system_generated",
+          "communication"
+        ]
+      }
+    },
+    "SF6_Kayla_Pretorius_Estate_Documentation": {
+      "file": "SF6_Kayla_Pretorius_Estate_Documentation",
+      "path": "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
+      "entities_mentioned": [
+        {
+          "name": "Kayla Pretorius",
+          "type": "persons",
+          "mentions": 4
+        },
+        {
+          "name": "RegimA",
+          "type": "organizations",
+          "mentions": 9
+        },
+        {
+          "name": "Strategic Logistics",
+          "type": "organizations",
+          "mentions": 1
+        },
+        {
+          "name": "Villa Via",
+          "type": "organizations",
+          "mentions": 1
+        },
+        {
+          "name": "Adderory",
+          "type": "organizations",
+          "mentions": 3
+        }
+      ],
+      "financial_amounts": [
+        "R5",
+        "R1,035,000",
+        "R900,000"
+      ],
+      "dates_mentioned": [
+        "July 1, 2025",
+        "August 11, 2025",
+        "May 22, 2025",
+        "May 29, 2025",
+        "May 15, 2025",
+        "July 13, 2023",
+        "June 20, 2025",
+        "August 13, 2025"
+      ],
+      "legal_implications": [
+        "breach of fiduciary duty",
+        "fraud"
+      ],
+      "burden_of_proof": {
+        "civil_standard": "MEDIUM",
+        "criminal_standard": "LOW",
+        "evidence_type": [
+          "documentary",
+          "system_generated",
+          "official",
+          "communication"
+        ]
+      }
+    },
+    "SF7_Court_Order_Kayla_Email_Seizure": {
+      "file": "SF7_Court_Order_Kayla_Email_Seizure",
+      "path": "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md",
+      "entities_mentioned": [
+        {
+          "name": "Bantjies",
+          "type": "persons",
+          "mentions": 3
+        },
+        {
+          "name": "Kayla Pretorius",
+          "type": "persons",
+          "mentions": 2
+        },
+        {
+          "name": "RegimA",
+          "type": "organizations",
+          "mentions": 2
+        },
+        {
+          "name": "SARS",
+          "type": "organizations",
+          "mentions": 1
+        }
+      ],
+      "financial_amounts": [
+        "R1,035,000"
+      ],
+      "dates_mentioned": [
+        "May 15, 2025",
+        "July 13, 2023",
+        "June 10, 2025",
+        "August 13, 2025"
+      ],
+      "legal_implications": [
+        "fraud",
+        "criminal"
+      ],
+      "burden_of_proof": {
+        "civil_standard": "MEDIUM",
+        "criminal_standard": "LOW",
+        "evidence_type": [
+          "system_generated",
+          "official",
+          "communication"
+        ]
+      }
+    },
+    "SF8_Linda_Employment_Records": {
+      "file": "SF8_Linda_Employment_Records",
+      "path": "ANNEXURES/SF8_Linda_Employment_Records.md",
+      "entities_mentioned": [
+        {
+          "name": "Bantjies",
+          "type": "persons",
+          "mentions": 35
+        },
+        {
+          "name": "Rynette Farrar",
+          "type": "persons",
+          "mentions": 3
+        },
+        {
+          "name": "Linda",
+          "type": "persons",
+          "mentions": 30
+        },
+        {
+          "name": "RegimA",
+          "type": "organizations",
+          "mentions": 8
+        },
+        {
+          "name": "Strategic Logistics",
+          "type": "organizations",
+          "mentions": 3
+        },
+        {
+          "name": "Villa Via",
+          "type": "organizations",
+          "mentions": 1
+        },
+        {
+          "name": "Adderory",
+          "type": "organizations",
+          "mentions": 2
+        },
+        {
+          "name": "SARS",
+          "type": "organizations",
+          "mentions": 11
+        }
+      ],
+      "financial_amounts": [
+        "R5",
+        "R18.68"
+      ],
+      "dates_mentioned": [
+        "June 6, 2025",
+        "March 30, 2025",
+        "June 10, 2025"
+      ],
+      "legal_implications": [
+        "breach of fiduciary duty",
+        "conflict of interest",
+        "fraud"
+      ],
+      "burden_of_proof": {
+        "civil_standard": "MEDIUM",
+        "criminal_standard": "LOW",
+        "evidence_type": [
+          "documentary",
+          "system_generated",
+          "official",
+          "communication"
+        ]
+      }
+    }
+  }
+}

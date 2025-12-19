@@ -1397,3 +1397,68 @@ This page presents a comprehensive, chronological timeline of all events in the 
 
 ---
 
+
+
+## Newly Identified Events (2025-12-19 Refinement - Bantjies Conflict of Interest)
+
+These events were identified through comprehensive analysis of SF1 (Bantjies Debt Documentation). They reveal the critical R18,685,000 conflict of interest that drove the obstruction pattern.
+
+### 2025-06-06 - Daniel reports fraud to Bantjies (unknowingly to perpetrator)
+
+**Event ID:** EVENT_086  
+**Category:** fraud_exposure  
+
+**Description:** Daniel Faucitt reported the Villa Via fraud discovery to Danie Bantjies, unaware that Bantjies was an undisclosed trustee of the Faucitt Family Trust owing R18,685,000 to the trust. This was a critical turning point where Daniel unknowingly reported fraud to a conflicted party who had massive financial motive to suppress the investigation.
+
+**Evidence:**  
+- [SF1: Bantjies Debt Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)
+
+**Entities:** PERSON_003 (Daniel Faucitt), PERSON_007 (Danie Bantjies), TRUST_001 (Faucitt Family Trust)
+
+**Financial Context:** R18,685,000 - Bantjies's debt to the trust
+
+**Burden of Proof:** Civil HIGH, Criminal MEDIUM
+
+---
+
+### 2025-06-10 - Bantjies dismisses Daniel's audit request
+
+**Event ID:** EVENT_087  
+**Category:** obstruction  
+
+**Description:** Four days after Daniel reported the fraud, Bantjies dismissed Daniel's request for an independent audit. This dismissal occurred despite clear evidence of R22.8M in unexplained Villa Via transactions and Bantjies's fiduciary duty as trustee to investigate fraud. Bantjies had R18,685,000 reasons to prevent an audit that would likely discover his undisclosed trustee status and massive debt to the trust.
+
+**Evidence:**  
+- [SF1: Bantjies Debt Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)
+
+**Entities:** PERSON_007 (Danie Bantjies), PERSON_003 (Daniel Faucitt), TRUST_001 (Faucitt Family Trust)
+
+**Financial Impact:** R18,685,000.00
+
+**Burden of Proof:** Civil HIGH, Criminal HIGH
+
+**Significance:** Demonstrates breach of fiduciary duty, conflict of interest, and systematic obstruction
+
+---
+
+### 2025-08-01 - Bantjies certifies Peter's affidavit as Commissioner of Oaths
+
+**Event ID:** EVENT_088  
+**Category:** professional_misconduct  
+
+**Description:** Danie Bantjies, acting as Commissioner of Oaths, certified Peter Faucitt's founding affidavit for the interdict application against Jacqui and Daniel. This certification constituted professional misconduct because the affidavit omitted Bantjies's undisclosed trustee status and his R18,685,000 debt to the trust. The certification gave false legitimacy to a deceptive application that directly benefited Bantjies's conflicted position.
+
+**Evidence:**  
+- [SF1: Bantjies Debt Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)
+- Court records: Peter's founding affidavit with Bantjies's certification
+
+**Entities:** PERSON_007 (Danie Bantjies), PERSON_001 (Peter Faucitt), TRUST_001 (Faucitt Family Trust)
+
+**Financial Context:** R18,685,000 - Bantjies's debt creating motive to support Peter's application
+
+**Burden of Proof:** Civil HIGH, Criminal HIGH
+
+**Significance:** Abuse of Commissioner authority, breach of fiduciary duty, facilitation of fraud concealment
+
+---
+

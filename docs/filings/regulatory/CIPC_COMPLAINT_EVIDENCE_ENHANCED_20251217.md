@@ -157,3 +157,40 @@ The complainants respectfully request that CIPC:
 
 *This complaint has been refined based on comprehensive evidence analysis.*  
 *Version: 20251217*
+
+
+---
+
+## ADDENDUM: Bantjies Undisclosed Trustee Status (2025-12-19)
+
+### Regulatory Violation: Undisclosed Trustee with R18.685M Conflict
+
+**Complaint Against:** Danie Bantjies
+
+**Violations:**
+1. Undisclosed trustee appointment (July 2024)
+2. R18,685,000 debt to trust while serving as trustee
+3. Breach of fiduciary duty
+4. Conflict of interest in multiple roles
+
+**Evidence:**
+- Trust deed amendments
+- Master's Office records
+- Financial records showing R18.685M debt
+- Court affidavit with material omissions
+
+**Timeline:**
+- July 2024: Bantjies appointed trustee (undisclosed)
+- June 6, 2025: Daniel reports fraud to Bantjies
+- June 10, 2025: Bantjies dismisses audit request
+- August 1, 2025: Bantjies certifies Peter's affidavit
+
+**Requested Action:**
+- Investigation of Bantjies's trustee conduct
+- Review of trust governance
+- Sanctions for breach of fiduciary duty
+
+**Source:** SF1 - Bantjies Debt Documentation
+
+---
+

@@ -306,3 +306,147 @@ And if the legal system cannot address this conduct, it represents a fundamental
 
 The following new evidence has been identified that meets the criminal burden of proof (beyond a reasonable doubt, 95%) or provides strong indicators of criminal intent:
 
+
+---
+
+## ADDENDUM: New Evidence for Criminal Charges (2025-12-19)
+
+### Bantjies's Criminal Conduct - R18.685M Conflict of Interest
+
+### Charges Supported by New Evidence
+
+**1. Fraud (Material Non-Disclosure in Legal Proceedings)**
+
+**Elements:**
+- Unlawful misrepresentation
+- Intent to defraud
+- Actual or potential prejudice
+
+**Evidence:**
+- Bantjies certified Peter's affidavit as Commissioner of Oaths
+- Affidavit omitted Bantjies's undisclosed trustee status
+- Affidavit omitted Bantjies's R18,685,000 debt to the trust
+- Certification gave false legitimacy to deceptive application
+- Resulted in interdict against Jacqui and Daniel
+
+**Burden of Proof:** HIGH (approaching criminal standard)
+
+**Source:** SF1, court records, Peter's founding affidavit
+
+**2. Breach of Fiduciary Duty (Criminal Breach of Trust)**
+
+**Elements:**
+- Position of trust (trustee)
+- Breach of fiduciary duty
+- Personal benefit or prejudice to beneficiaries
+
+**Evidence:**
+- Bantjies appointed trustee July 2024
+- R18,685,000 debt to the trust
+- Dismissed Daniel's audit request (June 10, 2025)
+- Supported Peter's interdict application
+- Prevented fraud investigation
+
+**Motive:** R18,685,000 personal debt creating massive conflict of interest
+
+**Burden of Proof:** HIGH (documentary evidence of debt and trustee status)
+
+**Source:** SF1, trust deed, email correspondence
+
+**3. Obstruction of Justice**
+
+**Elements:**
+- Lawful investigation or proceeding
+- Act intended to obstruct
+- Knowledge of investigation
+
+**Evidence:**
+- Daniel reported fraud June 6, 2025
+- Bantjies dismissed audit request June 10, 2025 (4 days later)
+- Bantjies had R18.685M motive to prevent discovery
+- Certification of affidavit to remove oversight
+
+**Burden of Proof:** HIGH (clear timeline and motive)
+
+**Source:** SF1, correspondence, court records
+
+**4. Professional Misconduct (Abuse of Commissioner of Oaths Authority)**
+
+**Elements:**
+- Position as Commissioner of Oaths
+- Certification of false or misleading affidavit
+- Personal benefit from certification
+
+**Evidence:**
+- Bantjies certified affidavit omitting own trustee status
+- Bantjies certified affidavit omitting own R18.685M debt
+- Certification directly benefited Bantjies's position
+- Misuse of official capacity
+
+**Burden of Proof:** HIGH (official court documents)
+
+**Source:** Court records, SF1
+
+### Timeline of Criminal Conduct
+
+**June 6, 2025:** Daniel reports fraud to Bantjies (unknowingly to perpetrator)
+- **Criminal Element:** Bantjies concealed trustee status and debt
+
+**June 10, 2025:** Bantjies dismisses audit request
+- **Criminal Element:** Obstruction of justice, breach of fiduciary duty
+- **Motive:** R18,685,000 debt
+
+**August 1, 2025:** Bantjies certifies Peter's affidavit
+- **Criminal Element:** Fraud, professional misconduct, abuse of office
+
+**August 13, 2025:** Interdict granted
+- **Result:** Obstruction successful, oversight removed
+
+### Burden of Proof Analysis
+
+**Criminal Standard (Beyond Reasonable Doubt - 95%):**
+
+The following elements approach or meet the criminal burden of proof:
+
+1. **Undisclosed Trustee Status:** HIGH
+   - Official trust documents
+   - Master's Office records
+   - Court affidavit omission
+
+2. **Commissioner Misconduct:** HIGH
+   - Court records
+   - Certification with material omissions
+   - Personal benefit
+
+3. **Obstruction Pattern:** MEDIUM-HIGH
+   - Clear timeline
+   - Documentary evidence
+   - Established motive (R18.685M)
+
+4. **Breach of Fiduciary Duty:** MEDIUM-HIGH
+   - Trust deed
+   - Financial records
+   - Audit dismissal
+
+### Requested Action
+
+We request criminal investigation and prosecution of Danie Bantjies for:
+1. Fraud (material non-disclosure)
+2. Breach of fiduciary duty
+3. Obstruction of justice
+4. Professional misconduct (Commissioner of Oaths)
+
+### Supporting Evidence
+
+- **SF1:** Bantjies Debt Documentation (R18.685M)
+- **Trust Documents:** Trustee appointment, debt records
+- **Court Records:** Peter's affidavit with Bantjies's certification
+- **Correspondence:** Audit request and dismissal
+- **Timeline:** EVENT_086, EVENT_087, EVENT_088
+
+---
+
+**Addendum Date:** December 19, 2025  
+**Evidence Source:** SF1 (Bantjies Debt Documentation)  
+**Criminal Burden of Proof:** MEDIUM-HIGH to HIGH
+

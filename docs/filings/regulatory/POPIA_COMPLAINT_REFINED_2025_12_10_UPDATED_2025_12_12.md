@@ -357,3 +357,34 @@ Our investigation has identified multiple events directly related to POPIA viola
 **Location:** https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES  
 **Total Files:** 268 annexure files across 13 annexures  
 **Additional Resources:** 78 affidavits, 672 analysis files
+
+
+---
+
+## ADDENDUM: Bantjies System Control and Data Access (2025-12-19)
+
+### POPIA Violation: Unauthorized Access by Conflicted Party
+
+**Violation:** System access and control by party with undisclosed R18.685M conflict of interest
+
+**Evidence:**
+- Bantjies controlled financial systems as "accountant"
+- Bantjies was undisclosed trustee with R18.685M debt
+- System access enabled potential data manipulation
+- Obstruction of legitimate data access requests
+
+**Timeline:**
+- July 2024: Bantjies appointed trustee (undisclosed)
+- June 10, 2025: Bantjies dismisses audit request
+- Ongoing: Bantjies maintains system control
+
+**Data Protection Implications:**
+- Unauthorized access to personal and financial data
+- System control by conflicted party
+- Potential data manipulation to conceal debt
+- Obstruction of data subject rights
+
+**Source:** SF1, SF2 (Sage Screenshots), SF4 (SARS Audit)
+
+---
+
