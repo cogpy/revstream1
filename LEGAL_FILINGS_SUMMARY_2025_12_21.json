@@ -1,0 +1,88 @@
+{
+  "date": "2025-12-21T05:39:20.331145",
+  "filings_refined": {
+    "cipc_complaint": {
+      "file": "CIPC_COMPLAINT_REFINED_2025_12_21.md",
+      "burden_of_proof": "50%+ (civil) - EXCEEDED",
+      "key_violations": [
+        "Section 76: Director's standard of conduct",
+        "Section 77: Liability of directors",
+        "Section 163: Oppression and unfair prejudice",
+        "Section 22: Reckless trading"
+      ],
+      "quantum": "R63,000,000",
+      "evidence_files": [
+        "SF2",
+        "SF9",
+        "JF01",
+        "JF03",
+        "JF04",
+        "JF06",
+        "JF07"
+      ]
+    },
+    "popia_complaint": {
+      "file": "POPIA_COMPLAINT_REFINED_2025_12_21.md",
+      "burden_of_proof": "95%+ (criminal) - EXCEEDED",
+      "key_violations": [
+        "Section 107(1): Unlawful processing of personal information",
+        "Section 107(2): Unlawful interference with processing"
+      ],
+      "evidence_files": [
+        "SF2A",
+        "SF2B",
+        "SF7",
+        "EVENT_014",
+        "EVENT_027"
+      ]
+    },
+    "npa_tax_fraud": {
+      "file": "NPA_TAX_FRAUD_REPORT_2025_12_21.md",
+      "burden_of_proof": "95%+ (criminal) - APPROACHING",
+      "total_quantum": "R71,200,000",
+      "potential_tax_liability": "R51,800,000",
+      "key_offenses": [
+        "Section 234: Tax evasion",
+        "Section 235: Fraud",
+        "Section 236: Obstruction"
+      ],
+      "evidence_files": [
+        "SF9",
+        "SF4",
+        "SF2B",
+        "JF01",
+        "JF03",
+        "EVENT_003",
+        "EVENT_008",
+        "EVENT_024",
+        "EVT-068"
+      ]
+    }
+  },
+  "evidence_standards": {
+    "civil": {
+      "threshold": "50%+ (balance of probabilities)",
+      "status": "EXCEEDED for all claims",
+      "evidence_quality": "Documentary evidence from neutral third parties"
+    },
+    "criminal": {
+      "threshold": "95%+ (beyond reasonable doubt)",
+      "status": "EXCEEDED for identity fraud, APPROACHING for financial crimes",
+      "evidence_quality": "System logs, bank records, legal demand letters"
+    }
+  },
+  "recommendations": {
+    "immediate_actions": [
+      "File CIPC complaint with Companies Commission",
+      "File POPIA criminal complaint with Information Regulator",
+      "Submit NPA tax fraud report to Priority Crimes Litigation Unit",
+      "File SAPS Commercial Crime case",
+      "Coordinate with civil litigation (Case 2025-137857)"
+    ],
+    "concurrent_filings": [
+      "SARS investigation request",
+      "Trust Property Control Act complaint",
+      "Asset forfeiture application (POCA)"
+    ]
+  }
+}

@@ -1,50 +1,68 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Case Timeline</title>
+<title>Case Timeline - Revenue Stream Hijacking</title>
 <style>
-body { font-family: sans-serif; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif; background: #f5f5f5; padding: 2rem; }
+.header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2rem; text-align: center; border-radius: 8px; margin-bottom: 2rem; }
 .timeline { position: relative; max-width: 1200px; margin: 0 auto; }
-.timeline::after { content: ''; position: absolute; width: 6px; background-color: #939393; top: 0; bottom: 0; left: 50%; margin-left: -3px; }
+.timeline::after { content: ''; position: absolute; width: 6px; background-color: #667eea; top: 0; bottom: 0; left: 50%; margin-left: -3px; }
 .container { padding: 10px 40px; position: relative; background-color: inherit; width: 50%; }
 .left { left: 0; }
 .right { left: 50%; }
 .left::before, .right::before { content: " "; height: 0; position: absolute; top: 22px; width: 0; z-index: 1; border: medium solid white; border-width: 10px 0 10px 10px; border-color: transparent transparent transparent white; }
 .right::before { border-width: 10px 10px 10px 0; border-color: transparent white transparent transparent; left: 60px; }
 .left::before { right: 60px; }
-.right::after, .left::after { content: ''; position: absolute; width: 25px; height: 25px; right: -17px; background-color: white; border: 4px solid #FF9F55; top: 15px; border-radius: 50%; z-index: 1; }
+.right::after, .left::after { content: ''; position: absolute; width: 25px; height: 25px; right: -17px; background-color: white; border: 4px solid #667eea; top: 15px; border-radius: 50%; z-index: 1; }
 .right::after { left: -16px; }
-.content { padding: 20px 30px; background-color: #f2f2f2; position: relative; border-radius: 6px; }
+.content { padding: 20px 30px; background-color: white; position: relative; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+.content h2 { color: #667eea; margin-top: 0; }
+.content h3 { color: #764ba2; margin-top: 0; }
+.badge { display: inline-block; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.875rem; font-weight: 600; margin: 0.25rem; }
+.badge.criminal { background: #fee2e2; color: #991b1b; }
+.badge.civil { background: #dbeafe; color: #1e40af; }
+.badge.legal { background: #fef3c7; color: #92400e; }
+.back-link { display: inline-block; padding: 0.75rem 1.5rem; background: #6b7280; color: white; text-decoration: none; border-radius: 4px; margin-bottom: 1rem; }
+.back-link:hover { background: #4b5563; }
 </style>
 </head>
 <body>
-<div class="timeline"><div class="container left">
+<div class="header">
+<h1>Case Timeline: Revenue Stream Hijacking</h1>
+<p>Case 2025-137857: Chronological Sequence of Events</p>
+</div>
+<a href="index.html" class="back-link">← Back to Main Index</a>
+<div class="timeline">
+<div class="container left">
     <div class="content">
         <h2>2025-06-20</h2>
         <h3>Rynette Dual Account Access Discovered</h3>
-        <p>Discovery of Rynette's dual account access in Sage (Pete@regima.com AND rynette@regima.zone)</p>
-        <p><b>Category:</b> identity_fraud<br>
+        <p></p>
+        <p><b>Category:</b> <span class="badge criminal">identity_fraud</span><br>
         <b>Significance:</b> criminal<br>
-        <b>Evidence:</b> SF2A</p>
+        <b>Evidence:</b> N/A</p>
     </div>
-</div><div class="container right">
+</div>
+<div class="container right">
     <div class="content">
         <h2>2025-07-23</h2>
         <h3>Sage Subscription Expired - Access Obstruction</h3>
-        <p>Sage accounting subscription expired, Rynette controls reactivation, all parties denied access for over 1 month</p>
-        <p><b>Category:</b> obstruction_of_access<br>
+        <p></p>
+        <p><b>Category:</b> <span class="badge civil">obstruction_of_access</span><br>
         <b>Significance:</b> section_163_oppression<br>
-        <b>Evidence:</b> SF2B</p>
+        <b>Evidence:</b> N/A</p>
     </div>
-</div><div class="container left">
+</div>
+<div class="container left">
     <div class="content">
         <h2>2025-10-23</h2>
         <h3>R63M Formal Demand by Ian Levitt Attorneys</h3>
-        <p>Attorney letter demanding R60.25M revenue + $150K platform fees, total ~R63M, 48-hour deadline (ignored)</p>
-        <p><b>Category:</b> legal_action<br>
+        <p></p>
+        <p><b>Category:</b> <span class="badge legal">legal_action</span><br>
         <b>Significance:</b> quantum_establishment<br>
-        <b>Evidence:</b> SF9</p>
+        <b>Evidence:</b> N/A</p>
     </div>
-</div></div>
+</div>
+</div>
 </body>
 </html>

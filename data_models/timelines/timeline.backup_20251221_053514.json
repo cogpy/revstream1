@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "version": "13.0_REFINED_2025_12_21",
+    "version": "24_COMPREHENSIVE_2025_12_16",
     "created_date": "2025-12-16",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "chronological_event_sequencing_with_evidence",
-    "last_updated": "2025-12-21T05:35:14.147746",
+    "last_updated": "2025-12-16T05:38:06.599658",
     "changes": "Comprehensive rebuild with all evidence integrated",
     "total_events": 68
   },
@@ -1245,29 +1245,6 @@
         "account_balance_records"
       ],
       "legal_significance": "final_stage_of_financial_destruction"
-    }
-  ],
-  "timeline": [
-    {
-      "date": "2025-06-20",
-      "event_id": "EVENT_SF2A",
-      "title": "Rynette Dual Account Access Discovered",
-      "category": "identity_fraud",
-      "significance": "criminal"
-    },
-    {
-      "date": "2025-07-23",
-      "event_id": "EVENT_SF2B",
-      "title": "Sage Subscription Expired - Access Obstruction",
-      "category": "obstruction_of_access",
-      "significance": "section_163_oppression"
-    },
-    {
-      "date": "2025-10-23",
-      "event_id": "EVENT_SF9",
-      "title": "R63M Formal Demand by Ian Levitt Attorneys",
-      "category": "legal_action",
-      "significance": "quantum_establishment"
     }
   ]
 }

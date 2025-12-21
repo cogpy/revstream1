@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "13.0_REFINED_2025_12_21",
+    "version": "12.0_REFINED_2025_12_19",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2025-12-21T05:35:14.140108",
-    "changes": "Comprehensive refinement based on ad-res-j7 evidence cross-reference"
+    "last_updated": "2025-12-19T16:36:39.166026",
+    "changes": "Added 0 new entities from ad-res-j7 evidence analysis"
   },
   "entities": {
     "persons": [
@@ -58,8 +58,7 @@
           "JF04 - CIPC company records",
           "JF07 - Financial transaction records",
           "JF08 - Email correspondence and fraud evidence",
-          "JF09 - Court order timeline cross-reference",
-          "SF9 - Ian Levitt R63M demand letter"
+          "JF09 - Court order timeline cross-reference"
         ],
         "ad_res_j7_references": [
           "ANNEXURES/JF01 - Shopify Plus email showing business structure",
@@ -68,8 +67,7 @@
           "ANNEXURES/JF08/evidence_package_20251012 - Comprehensive fraud timeline",
           "1-CIVIL-RESPONSE - Answering affidavit documentation",
           "SF2_Sage_Screenshots_Rynette_Control.md - System control evidence",
-          "SF6_Kayla_Pretorius_Estate_Documentation.md - Trigger event for appropriation",
-          "SF9_Ian_Levitt_Demand_Letter.md - R63M formal demand (ignored)"
+          "SF6_Kayla_Pretorius_Estate_Documentation.md - Trigger event for appropriation"
         ],
         "evidence_enhanced": "2025-12-16T05:38:06.599495",
         "evidence_strength": "conclusive",
@@ -133,10 +131,10 @@
           "JF09 - Domain registration fraud evidence"
         ],
         "ad_res_j7_references": [
-          "SF2_Sage_Screenshots_Rynette_Control.md - Dual account access evidence",
-          "ANNEXURES/JF01 - Email impersonation patterns",
-          "ANNEXURES/JF07 - Sage system screenshots showing control",
-          "SF9_Ian_Levitt_Demand_Letter.md - Implicated in revenue theft scheme"
+          "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - CRITICAL: Proves system control",
+          "ANNEXURES/JF08 - Evidence packages showing payment redirection",
+          "ANNEXURES/JF05 - Correspondence showing coordination",
+          "ANNEXURES/JF03 - Financial records showing unauthorized transactions"
         ],
         "evidence_enhanced": "2025-12-16T05:38:06.599519",
         "evidence_strength": "conclusive",
@@ -409,10 +407,11 @@
           "JF09 - Identity fraud documentation"
         ],
         "ad_res_j7_references": [
-          "ANNEXURES/JF01 - Shopify Plus onboarding email (kayp@rzo.io)",
-          "SF6_Kayla_Pretorius_Estate_Documentation.md - Estate documentation",
-          "SF7_Court_Order_Kayla_Email_Seizure.md - Email account seizure order",
-          "ANNEXURES/JF08 - Evidence of independent business operations"
+          "ANNEXURES/JF01 - Shopify Plus email (CC'd, proves involvement)",
+          "ANNEXURES/JF04 - Personal bank records (full transparency)",
+          "ANNEXURES/JF06 - Court documents and responses",
+          "ANNEXURES/JF08 - Evidence packages compiled by Daniel",
+          "SF6_Kayla_Pretorius_Estate_Documentation.md - Relationship context"
         ],
         "evidence_enhanced": "2025-12-16T05:38:06.599556",
         "evidence_strength": "strong"
@@ -980,39 +979,6 @@
           "criminal": "N/A"
         },
         "additional_notes": "Official regulatory scrutiny provides independent third-party verification of financial irregularities; tax fraud carries criminal penalties"
-      },
-      {
-        "entity_id": "ORG_007",
-        "name": "Ian Levitt Attorneys",
-        "role": "legal_representative",
-        "agent_type": "neutral_third_party",
-        "involvement_events": 1,
-        "primary_actions": [
-          "formal_demand_letter",
-          "quantum_establishment"
-        ],
-        "relationships": [
-          "represents_PERSON_001",
-          "demands_from_PERSON_004_PERSON_005"
-        ],
-        "financial_impact": {
-          "demand_amount": "R63,000,000",
-          "components": [
-            "R60,250,000 revenue theft",
-            "$150,000 platform fees"
-          ]
-        },
-        "timeline_events": [
-          "EVENT_SF9"
-        ],
-        "evidence": [
-          "SF9 - Ian Levitt demand letter dated 2025-10-23"
-        ],
-        "ad_res_j7_references": [
-          "SF9_Ian_Levitt_Demand_Letter.md - Formal demand documentation"
-        ],
-        "evidence_strength": "conclusive",
-        "significance": "Establishes quantum and demonstrates ignored formal demand"
       }
     ],
     "platforms": [

@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "13.0_REFINED_2025_12_21",
+    "version": "10.0_REFINED_2025_12_19",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 62,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2025-12-21T05:35:14.142515",
+    "last_updated": "2025-12-19T16:36:39.171138",
     "changes": "Added 6 new events from ad-res-j7 evidence analysis"
   },
   "events": [
@@ -1082,7 +1082,7 @@
       "entities_involved": [
         "PLATFORM_001"
       ],
-      "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
+      "description": "CRITICAL EVENT: R1M+ monthly revenue → R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
       "financial_impact": "R1,000,000+ monthly",
       "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
       "evidence": [
@@ -2107,84 +2107,6 @@
       "legal_significance": "MEDIUM",
       "impact": "Potential creation of fictitious or controlled supplier to manipulate revenue recognition",
       "created": "2025-12-19T16:36:39.171076"
-    },
-    {
-      "event_id": "EVENT_SF9",
-      "date": "2025-10-23",
-      "title": "R63M Formal Demand by Ian Levitt Attorneys",
-      "description": "Attorney letter demanding R60.25M revenue + $150K platform fees, total ~R63M, 48-hour deadline (ignored)",
-      "category": "legal_action",
-      "significance": "quantum_establishment",
-      "participants": [
-        "ORG_007",
-        "PERSON_001",
-        "PERSON_004",
-        "PERSON_005"
-      ],
-      "evidence": [
-        "SF9"
-      ],
-      "legal_implications": [
-        "Establishes quantum of claim",
-        "Demonstrates attempt at pre-litigation resolution",
-        "Shows bad faith by ignoring formal demand",
-        "48-hour deadline ignored - escalation to litigation"
-      ],
-      "financial_impact": "R63,000,000",
-      "burden_of_proof": {
-        "civil": "exceeded_50%",
-        "criminal": "approaching_95%"
-      }
-    },
-    {
-      "event_id": "EVENT_SF2A",
-      "date": "2025-06-20",
-      "title": "Rynette Dual Account Access Discovered",
-      "description": "Discovery of Rynette's dual account access in Sage (Pete@regima.com AND rynette@regima.zone)",
-      "category": "identity_fraud",
-      "significance": "criminal",
-      "participants": [
-        "PERSON_002",
-        "PERSON_001"
-      ],
-      "evidence": [
-        "SF2A"
-      ],
-      "legal_implications": [
-        "Identity fraud",
-        "Unauthorized system access",
-        "POPIA violations",
-        "Coordinated fraud scheme"
-      ],
-      "burden_of_proof": {
-        "civil": "exceeded_50%",
-        "criminal": "exceeded_95%"
-      }
-    },
-    {
-      "event_id": "EVENT_SF2B",
-      "date": "2025-07-23",
-      "title": "Sage Subscription Expired - Access Obstruction",
-      "description": "Sage accounting subscription expired, Rynette controls reactivation, all parties denied access for over 1 month",
-      "category": "obstruction_of_access",
-      "significance": "section_163_oppression",
-      "participants": [
-        "PERSON_002",
-        "PERSON_001"
-      ],
-      "evidence": [
-        "SF2B"
-      ],
-      "legal_implications": [
-        "Section 163 Companies Act - oppression",
-        "Denial of access to company records",
-        "Obstruction of business operations",
-        "Coordinated control mechanism"
-      ],
-      "burden_of_proof": {
-        "civil": "exceeded_50%",
-        "criminal": "exceeded_95%"
-      }
     }
   ]
 }
