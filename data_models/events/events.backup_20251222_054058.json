@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "14.0_REFINED_2025_12_22",
+    "version": "13.0_REFINED_2025_12_21",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 62,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2025-12-22T05:40:58.380443",
-    "changes": "Added ad-res-j7 evidence references to all events"
+    "last_updated": "2025-12-21T05:35:14.142515",
+    "changes": "Added 6 new events from ad-res-j7 evidence analysis"
   },
   "events": [
     {
@@ -32,11 +32,7 @@
         "service_agreement"
       ],
       "pattern": "historical_foundation",
-      "timeline_phase": "PHASE_000",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380310"
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_H002",
@@ -60,11 +56,7 @@
         "service_expansion_documentation"
       ],
       "pattern": "historical_foundation",
-      "timeline_phase": "PHASE_000",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380318"
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_H003",
@@ -88,11 +80,7 @@
         "trial_balance_documentation"
       ],
       "pattern": "historical_foundation",
-      "timeline_phase": "PHASE_000",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380319"
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_H004",
@@ -115,11 +103,7 @@
         "VV-TRIALBALANCEAPR20202.xlsx"
       ],
       "pattern": "historical_foundation",
-      "timeline_phase": "PHASE_000",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380321"
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_H005",
@@ -149,13 +133,7 @@
         "general_ledger_entries"
       ],
       "pattern": "historical_foundation",
-      "timeline_phase": "PHASE_000",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF07",
-        "ANNEXURES/JF10",
-        "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380323"
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_051",
@@ -183,12 +161,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380324",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF07",
-        "ANNEXURES/JF10",
-        "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
-      ]
+      "evidence_enhanced": "2025-12-16T05:38:06.599602"
     },
     {
       "event_id": "EVENT_H006",
@@ -218,13 +191,7 @@
         "SL-TRIALBALANCE2020.xlsx"
       ],
       "pattern": "historical_foundation",
-      "timeline_phase": "PHASE_000",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF07",
-        "ANNEXURES/JF10",
-        "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380326"
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_052",
@@ -251,10 +218,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380330",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ]
+      "evidence_enhanced": "2025-12-16T05:38:06.599605"
     },
     {
       "event_id": "EVENT_H007",
@@ -281,11 +245,7 @@
       ],
       "pattern": "historical_foundation",
       "critical": true,
-      "timeline_phase": "PHASE_000",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380332"
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_053",
@@ -312,10 +272,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380334",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ]
+      "evidence_enhanced": "2025-12-16T05:38:06.599607"
     },
     {
       "event_id": "EVENT_H008",
@@ -339,11 +296,7 @@
         "trial_balance_attachments"
       ],
       "pattern": "historical_foundation",
-      "timeline_phase": "PHASE_000",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380336"
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_048",
@@ -374,11 +327,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380338",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
-        "ANNEXURES/JF10"
-      ]
+      "evidence_enhanced": "2025-12-16T05:38:06.599609"
     },
     {
       "event_id": "EVENT_H018",
@@ -399,12 +348,7 @@
         "trial_balance_email_2020_08_13"
       ],
       "pattern": "historical_foundation",
-      "timeline_phase": "PHASE_000",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
-        "ANNEXURES/JF10"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380340"
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_H009",
@@ -431,11 +375,7 @@
       "pattern": "pre_planning_phase",
       "additional_notes": "Registered April 2021, 4 years before May 2025 fraud escalation, demonstrates systematic pre-planning",
       "evidence_location": "ad-res-j7/1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md",
-      "timeline_phase": "PHASE_000",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380341"
+      "timeline_phase": "PHASE_000"
     },
     {
       "event_id": "EVENT_D001",
@@ -463,11 +403,7 @@
         "aged_debtor_reports"
       ],
       "pattern": "debt_accumulation",
-      "timeline_phase": "PHASE_005",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380343"
+      "timeline_phase": "PHASE_005"
     },
     {
       "event_id": "EVENT_D002",
@@ -491,11 +427,7 @@
         "bank_statements"
       ],
       "pattern": "debt_accumulation",
-      "timeline_phase": "PHASE_005",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380344"
+      "timeline_phase": "PHASE_005"
     },
     {
       "event_id": "EVENT_H010",
@@ -522,11 +454,7 @@
       "pattern": "historical_foundation_phase",
       "additional_notes": "Account access complications, law enforcement investigation ongoing, referenced in criminal case documentation",
       "evidence_location": "ad-res-j7/2-CRIMINAL-CASE/README.md",
-      "timeline_phase": "PHASE_005",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380346"
+      "timeline_phase": "PHASE_005"
     },
     {
       "event_id": "EVENT_D003",
@@ -554,11 +482,7 @@
         "payment_reconciliation"
       ],
       "pattern": "debt_accumulation",
-      "timeline_phase": "PHASE_005",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380347"
+      "timeline_phase": "PHASE_005"
     },
     {
       "event_id": "EVENT_D004",
@@ -587,11 +511,7 @@
       ],
       "pattern": "debt_accumulation",
       "critical": true,
-      "timeline_phase": "PHASE_005",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380349"
+      "timeline_phase": "PHASE_005"
     },
     {
       "event_id": "EVENT_D005",
@@ -619,11 +539,7 @@
       ],
       "pattern": "debt_accumulation",
       "critical": true,
-      "timeline_phase": "PHASE_005",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380350"
+      "timeline_phase": "PHASE_005"
     },
     {
       "event_id": "EVENT_023",
@@ -650,12 +566,7 @@
       ],
       "pattern": "pre_foundation_phase",
       "additional_notes": "Estate finalization timing correlates with revenue hijacking timeline, suggests coordination",
-      "evidence_location": "ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
-        "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380352"
+      "evidence_location": "ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md"
     },
     {
       "event_id": "EVENT_054",
@@ -677,11 +588,7 @@
       "evidence": [
         "chantal_letter_january_2025"
       ],
-      "pattern": "debt_accumulation",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380353"
+      "pattern": "debt_accumulation"
     },
     {
       "event_id": "EVENT_022",
@@ -705,13 +612,7 @@
         "bank_transfer_records",
         "authorization_absence"
       ],
-      "pattern": "foundation_phase",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF07",
-        "ANNEXURES/JF10",
-        "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380355"
+      "pattern": "foundation_phase"
     },
     {
       "event_id": "EVENT_028",
@@ -745,11 +646,7 @@
       "pattern": "foundation_phase",
       "critical": true,
       "additional_notes": "Same stock type supplied by Adderory (Rynette's son), demonstrates coordinated transfer pricing fraud",
-      "evidence_location": "ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380356"
+      "evidence_location": "ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md"
     },
     {
       "event_id": "EVENT_001",
@@ -775,13 +672,7 @@
         "bank_statements"
       ],
       "pattern": "foundation_phase",
-      "timeline_phase": "PHASE_001",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF01",
-        "ANNEXURES/JF02",
-        "ANNEXURES/JF07"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380358"
+      "timeline_phase": "PHASE_001"
     },
     {
       "event_id": "EVENT_024",
@@ -813,11 +704,7 @@
       ],
       "pattern": "foundation_phase",
       "critical": true,
-      "timeline_phase": "PHASE_001",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380360"
+      "timeline_phase": "PHASE_001"
     },
     {
       "event_id": "EVENT_002",
@@ -844,12 +731,7 @@
       ],
       "pattern": "foundation_phase",
       "timeline_phase": "PHASE_001",
-      "crime_type": "Fraudulent trust establishment, fiduciary duty violations",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380361"
+      "crime_type": "Fraudulent trust establishment, fiduciary duty violations"
     },
     {
       "event_id": "EVENT_025",
@@ -877,12 +759,7 @@
       ],
       "pattern": "foundation_phase",
       "timeline_phase": "PHASE_001",
-      "crime_type": "Fraudulent trust establishment, fiduciary duty violations",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
-        "ANNEXURES/JF10"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380363"
+      "crime_type": "Fraudulent trust establishment, fiduciary duty violations"
     },
     {
       "event_id": "EVENT_003",
@@ -912,13 +789,7 @@
       ],
       "pattern": "foundation_phase",
       "additional_notes": "Occurred while accounts system controlled by Rynette using Peter's email, despite Linda being employed as bookkeeper",
-      "timeline_phase": "PHASE_001",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF07",
-        "ANNEXURES/JF10",
-        "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380364"
+      "timeline_phase": "PHASE_001"
     },
     {
       "event_id": "EVENT_004",
@@ -953,13 +824,7 @@
         "note": "Payments redirected from platform owned and paid for by RegimA Zone Ltd (UK)",
         "revelation": "Customer payments were for sales on a Shopify platform continuously funded by Dan's UK company, not RWD ZA"
       },
-      "crime_type": "Payment fraud, unauthorized fund redirection",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF07",
-        "ANNEXURES/JF10",
-        "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380366"
+      "crime_type": "Payment fraud, unauthorized fund redirection"
     },
     {
       "event_id": "EVENT_005",
@@ -993,13 +858,7 @@
         "note": "Bank changes targeted revenue from Shopify platform paid by Dan's UK company",
         "revelation": "Attempted to redirect payments for sales on infrastructure owned and paid by RegimA Zone Ltd"
       },
-      "crime_type": "Fraudulent redirection of funds, theft by conversion",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF01",
-        "ANNEXURES/JF02",
-        "ANNEXURES/JF07"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380367"
+      "crime_type": "Fraudulent redirection of funds, theft by conversion"
     },
     {
       "event_id": "EVENT_029",
@@ -1027,11 +886,7 @@
       "pattern": "initial_theft_phase",
       "additional_notes": "Infrastructure control seizure between bank letter (Apr 14) and audit trail destruction (May 22)",
       "evidence_location": "ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md",
-      "timeline_phase": "PHASE_002",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380369"
+      "timeline_phase": "PHASE_002"
     },
     {
       "event_id": "EVENT_055",
@@ -1055,11 +910,7 @@
         "it_system_removal_instruction"
       ],
       "pattern": "escalation_phase",
-      "timeline_phase": "PHASE_002",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380370"
+      "timeline_phase": "PHASE_002"
     },
     {
       "event_id": "EVENT_056",
@@ -1082,11 +933,7 @@
         "office_inventory_records"
       ],
       "pattern": "escalation_phase",
-      "timeline_phase": "PHASE_002",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380372"
+      "timeline_phase": "PHASE_002"
     },
     {
       "event_id": "EVENT_006",
@@ -1114,12 +961,7 @@
       ],
       "pattern": "escalation_phase",
       "timeline_phase": "PHASE_003",
-      "crime_type": "Trust deed violations, unauthorized beneficiary amendments",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380373"
+      "crime_type": "Trust deed violations, unauthorized beneficiary amendments"
     },
     {
       "event_id": "EVENT_007",
@@ -1153,11 +995,7 @@
         "note": "Transfers included revenue from Shopify platform funded by RegimA Zone Ltd",
         "revelation": "R850K+ transferred included revenue from platform paid by Dan's UK company over 28 months"
       },
-      "crime_type": "Unauthorized fund transfers, breach of fiduciary duty",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380375"
+      "crime_type": "Unauthorized fund transfers, breach of fiduciary duty"
     },
     {
       "event_id": "EVENT_008",
@@ -1191,13 +1029,7 @@
         "note": "Transfers included revenue from Shopify platform funded by RegimA Zone Ltd",
         "revelation": "R850K+ transferred included revenue from platform paid by Dan's UK company over 28 months"
       },
-      "crime_type": "Unauthorized fund transfers, breach of fiduciary duty",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF07",
-        "ANNEXURES/JF10",
-        "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380376"
+      "crime_type": "Unauthorized fund transfers, breach of fiduciary duty"
     },
     {
       "event_id": "EVENT_050",
@@ -1231,10 +1063,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380378",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ]
+      "evidence_enhanced": "2025-12-16T05:38:06.599617"
     },
     {
       "event_id": "EVENT_009",
@@ -1273,12 +1102,7 @@
         "revelation": "Destruction of audit trails for platform owned, paid for, and operated by RegimA Zone Ltd (UK) since July 2023, proving RWD ZA generated no independent revenue"
       },
       "crime_type": "Evidence destruction, computer fraud, business sabotage",
-      "evidence_enhanced": "2025-12-22T05:40:58.380379",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF01",
-        "ANNEXURES/JF02",
-        "ANNEXURES/JF07"
-      ]
+      "evidence_enhanced": "2025-12-16T05:38:06.599619"
     },
     {
       "event_id": "EVENT_010",
@@ -1312,13 +1136,7 @@
         "note": "Domain registered to impersonate platform owned by RegimA Zone Ltd (UK)",
         "revelation": "Identity fraud to impersonate legitimate business operating on Dan's UK-funded infrastructure"
       },
-      "crime_type": "Identity fraud, family criminal conspiracy",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF01",
-        "ANNEXURES/JF02",
-        "ANNEXURES/JF07"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380381"
+      "crime_type": "Identity fraud, family criminal conspiracy"
     },
     {
       "event_id": "EVENT_011",
@@ -1341,11 +1159,7 @@
         "analysis_documentation"
       ],
       "pattern": "consolidation_phase",
-      "timeline_phase": "PHASE_004",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380382"
+      "timeline_phase": "PHASE_004"
     },
     {
       "event_id": "EVENT_057",
@@ -1368,11 +1182,7 @@
         "email_to_bantjies_2025_06_06"
       ],
       "pattern": "consolidation_phase",
-      "timeline_phase": "PHASE_004",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380384"
+      "timeline_phase": "PHASE_004"
     },
     {
       "event_id": "EVENT_012",
@@ -1398,13 +1208,7 @@
         "card_cancellation_logs"
       ],
       "pattern": "consolidation_phase",
-      "timeline_phase": "PHASE_004",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF07",
-        "ANNEXURES/JF10",
-        "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380387"
+      "timeline_phase": "PHASE_004"
     },
     {
       "event_id": "EVENT_023",
@@ -1436,12 +1240,7 @@
       "pattern": "consolidation_phase",
       "critical": true,
       "temporal_significance": "4_days_after_fraud_exposure",
-      "timeline_phase": "PHASE_004",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
-        "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380389"
+      "timeline_phase": "PHASE_004"
     },
     {
       "event_id": "EVENT_026",
@@ -1470,12 +1269,7 @@
       "pattern": "consolidation_phase",
       "critical": true,
       "additional_notes": "Bantjies had R18.685M reasons to prevent audit, which would discover debt and conflicts",
-      "timeline_phase": "PHASE_004",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
-        "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380391"
+      "timeline_phase": "PHASE_004"
     },
     {
       "event_id": "EVENT_047",
@@ -1502,11 +1296,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380392",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
-        "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
-      ]
+      "evidence_enhanced": "2025-12-16T05:38:06.599622"
     },
     {
       "event_id": "EVENT_058",
@@ -1529,11 +1319,7 @@
       ],
       "pattern": "consolidation_phase",
       "critical": true,
-      "timeline_phase": "PHASE_004",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380394"
+      "timeline_phase": "PHASE_004"
     },
     {
       "event_id": "EVENT_013",
@@ -1560,12 +1346,7 @@
       ],
       "pattern": "consolidation_phase",
       "timeline_phase": "PHASE_004",
-      "crime_type": "Fiduciary duty breach, trust asset mismanagement",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380395"
+      "crime_type": "Fiduciary duty breach, trust asset mismanagement"
     },
     {
       "event_id": "EVENT_014",
@@ -1602,12 +1383,7 @@
         "revelation": "Email impersonation facilitated fraud related to Shopify platform Dan's UK company had been paying for since July 2023"
       },
       "crime_type": "Email hijacking, identity theft, business impersonation, computer fraud",
-      "evidence_enhanced": "2025-12-22T05:40:58.380396",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF01",
-        "ANNEXURES/JF02",
-        "ANNEXURES/JF07"
-      ]
+      "evidence_enhanced": "2025-12-16T05:38:06.599625"
     },
     {
       "event_id": "EVENT_027",
@@ -1645,10 +1421,7 @@
         "revelation": "Email impersonation facilitated fraud related to Shopify platform Dan's UK company had been paying for since July 2023"
       },
       "crime_type": "Email hijacking, identity theft, business impersonation, computer fraud",
-      "evidence_enhanced": "2025-12-22T05:40:58.380398",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ]
+      "evidence_enhanced": "2025-12-16T05:38:06.599626"
     },
     {
       "event_id": "EVENT_015",
@@ -1684,13 +1457,7 @@
         "note": "Diverted funds from Shopify sales on platform owned by Dan's UK entity",
         "revelation": "Fund diversions targeted revenue generated on infrastructure continuously funded by RegimA Zone Ltd"
       },
-      "crime_type": "Systematic fund diversion, money laundering indicators",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF07",
-        "ANNEXURES/JF10",
-        "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380399"
+      "crime_type": "Systematic fund diversion, money laundering indicators"
     },
     {
       "event_id": "EVENT_016",
@@ -1725,13 +1492,7 @@
         "note": "Shutdown of operations for platform continuously funded by RegimA Zone Ltd (28 months)",
         "revelation": "Business sabotage of operations running on platform paid by Dan & Jax UK company since July 2023"
       },
-      "crime_type": "Business sabotage, POPI violations, employee endangerment",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF01",
-        "ANNEXURES/JF02",
-        "ANNEXURES/JF07"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380401"
+      "crime_type": "Business sabotage, POPI violations, employee endangerment"
     },
     {
       "event_id": "EVENT_017",
@@ -1765,13 +1526,7 @@
         "note": "Control seized over accounts receiving Shopify revenue from Dan's UK-paid platform",
         "revelation": "Seized control of accounts receiving revenue from Shopify platform owned and funded by RegimA Zone Ltd"
       },
-      "crime_type": "Bank account manipulation, unauthorized control seizure",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF07",
-        "ANNEXURES/JF10",
-        "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380402"
+      "crime_type": "Bank account manipulation, unauthorized control seizure"
     },
     {
       "event_id": "EVENT_018",
@@ -1799,12 +1554,7 @@
       ],
       "pattern": "control_seizure_phase",
       "timeline_phase": "PHASE_005",
-      "crime_type": "Trust asset theft, breach of fiduciary duty",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380404"
+      "crime_type": "Trust asset theft, breach of fiduciary duty"
     },
     {
       "event_id": "EVENT_019",
@@ -1831,12 +1581,7 @@
       ],
       "pattern": "cover_up_phase",
       "timeline_phase": "PHASE_006",
-      "crime_type": "Continuing trust violations, evidence concealment",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380405"
+      "crime_type": "Continuing trust violations, evidence concealment"
     },
     {
       "event_id": "EVENT_059",
@@ -1861,11 +1606,7 @@
       ],
       "pattern": "cover_up_phase",
       "critical": true,
-      "timeline_phase": "PHASE_006",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380407"
+      "timeline_phase": "PHASE_006"
     },
     {
       "event_id": "EVENT_049",
@@ -1893,11 +1634,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380408",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
-      ]
+      "evidence_enhanced": "2025-12-16T05:38:06.599630"
     },
     {
       "event_id": "EVENT_060",
@@ -1922,11 +1659,7 @@
       ],
       "pattern": "cover_up_phase",
       "critical": true,
-      "timeline_phase": "PHASE_006",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380412"
+      "timeline_phase": "PHASE_006"
     },
     {
       "event_id": "EVENT_026",
@@ -1949,13 +1682,7 @@
         "gee_email_to_jax"
       ],
       "pattern": "cover_up_phase",
-      "timeline_phase": "PHASE_006",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF01",
-        "ANNEXURES/JF02",
-        "ANNEXURES/JF07"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380413"
+      "timeline_phase": "PHASE_006"
     },
     {
       "event_id": "EVENT_020",
@@ -1990,13 +1717,7 @@
         "note": "Concealment of evidence showing Shopify platform paid by RegimA Zone Ltd, not RWD ZA",
         "revelation": "Cover-up attempt to conceal fact that RWD ZA has no independent revenue stream - all revenue from Dan's UK-funded Shopify platform"
       },
-      "crime_type": "Evidence destruction, financial record manipulation",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF07",
-        "ANNEXURES/JF10",
-        "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380415"
+      "crime_type": "Evidence destruction, financial record manipulation"
     },
     {
       "event_id": "EVENT_061",
@@ -2019,11 +1740,7 @@
       ],
       "pattern": "cover_up_phase",
       "critical": true,
-      "timeline_phase": "PHASE_006",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380416"
+      "timeline_phase": "PHASE_006"
     },
     {
       "event_id": "EVENT_021",
@@ -2050,13 +1767,7 @@
         "account_balance_records"
       ],
       "pattern": "cover_up_phase",
-      "timeline_phase": "PHASE_006",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF07",
-        "ANNEXURES/JF10",
-        "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380418"
+      "timeline_phase": "PHASE_006"
     },
     {
       "event_id": "EVENT_H011",
@@ -2084,11 +1795,7 @@
       "timeline_phase": "PHASE_000",
       "related_events": [
         "EVENT_H012"
-      ],
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380419"
+      ]
     },
     {
       "event_id": "EVENT_H012",
@@ -2123,11 +1830,7 @@
       "related_events": [
         "EVENT_H011",
         "EVENT_064"
-      ],
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380421"
+      ]
     },
     {
       "event_id": "EVENT_064",
@@ -2158,11 +1861,7 @@
         "EVENT_H011",
         "EVENT_H012"
       ],
-      "legal_significance": "Document preparation timing suggests response to legal proceedings; establishes Peter's directorship and control",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380423"
+      "legal_significance": "Document preparation timing suggests response to legal proceedings; establishes Peter's directorship and control"
     },
     {
       "event_id": "EVENT_065",
@@ -2190,10 +1889,7 @@
       ],
       "timeline_phase": "PHASE_006",
       "related_events": [],
-      "evidence_enhanced": "2025-12-22T05:40:58.380424",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ]
+      "evidence_enhanced": "2025-12-16T05:38:06.599633"
     },
     {
       "event_id": "EVENT_066",
@@ -2227,11 +1923,7 @@
         "R10m decline year-on-year for the Group, including Villa Via",
         "First time in history made a substantial trading loss",
         "Computer expenses in excess of 20% of revenue"
-      ],
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380426"
+      ]
     },
     {
       "event_id": "EVENT_067",
@@ -2270,11 +1962,7 @@
           "date": "2022-12-29",
           "amount": 50000.0
         }
-      ],
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380427"
+      ]
     },
     {
       "event_id": "EVENT_086",
@@ -2296,11 +1984,7 @@
         "criminal": "N/A"
       },
       "legal_significance": "MEDIUM",
-      "created": "2025-12-19T16:36:39.171056",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380429"
+      "created": "2025-12-19T16:36:39.171056"
     },
     {
       "event_id": "EVENT_087",
@@ -2323,12 +2007,7 @@
       },
       "legal_significance": "HIGH",
       "impact": "Court-ordered seizure indicates judicial recognition of potential incriminating communications",
-      "created": "2025-12-19T16:36:39.171065",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF06",
-        "1-CIVIL-RESPONSE"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380430"
+      "created": "2025-12-19T16:36:39.171065"
     },
     {
       "event_id": "EVENT_088",
@@ -2352,11 +2031,7 @@
       },
       "legal_significance": "HIGH",
       "impact": "Independent third-party verification of financial irregularities",
-      "created": "2025-12-19T16:36:39.171068",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/SF4_SARS_Audit_Email.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380432"
+      "created": "2025-12-19T16:36:39.171068"
     },
     {
       "event_id": "EVENT_089",
@@ -2382,12 +2057,7 @@
       "legal_significance": "CRITICAL",
       "impact": "Creates motive for Bantjies to prevent fraud discovery, dismiss audit requests, and support retaliatory legal action",
       "conflict_of_interest": "Triple conflict: trustee + debtor + accountant",
-      "created": "2025-12-19T16:36:39.171070",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
-        "ANNEXURES/JF10"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380433"
+      "created": "2025-12-19T16:36:39.171070"
     },
     {
       "event_id": "EVENT_090",
@@ -2412,11 +2082,7 @@
       "legal_significance": "CRITICAL",
       "impact": "Direct proof of technical capability to manipulate financial records through system-level access",
       "technical_evidence": "Sage screenshot dated 2025-06-20",
-      "created": "2025-12-19T16:36:39.171073",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380435"
+      "created": "2025-12-19T16:36:39.171073"
     },
     {
       "event_id": "EVENT_091",
@@ -2440,11 +2106,7 @@
       },
       "legal_significance": "MEDIUM",
       "impact": "Potential creation of fictitious or controlled supplier to manipulate revenue recognition",
-      "created": "2025-12-19T16:36:39.171076",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380436"
+      "created": "2025-12-19T16:36:39.171076"
     },
     {
       "event_id": "EVENT_SF9",
@@ -2472,12 +2134,7 @@
       "burden_of_proof": {
         "civil": "exceeded_50%",
         "criminal": "approaching_95%"
-      },
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF06",
-        "1-CIVIL-RESPONSE"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380438"
+      }
     },
     {
       "event_id": "EVENT_SF2A",
@@ -2502,11 +2159,7 @@
       "burden_of_proof": {
         "civil": "exceeded_50%",
         "criminal": "exceeded_95%"
-      },
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380439"
+      }
     },
     {
       "event_id": "EVENT_SF2B",
@@ -2531,11 +2184,7 @@
       "burden_of_proof": {
         "civil": "exceeded_50%",
         "criminal": "exceeded_95%"
-      },
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380441"
+      }
     }
   ]
 }

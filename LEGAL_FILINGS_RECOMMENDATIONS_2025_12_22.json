@@ -1,0 +1,90 @@
+{
+  "timestamp": "2025-12-22T05:44:50.058637",
+  "cipc_complaint": {
+    "priority": "HIGH",
+    "enhancements": [
+      "Add SF8 (Linda employment) - demonstrates employment structure manipulation",
+      "Add SF5 (Adderory registration) - shows competing business setup",
+      "Cross-reference all 77 events with ad-res-j7 evidence",
+      "Add burden of proof assessment for each violation",
+      "Include entity relationship diagram showing conspiracy network"
+    ],
+    "evidence_to_add": [
+      "SF5",
+      "SF8",
+      "JF13"
+    ],
+    "sections_to_enhance": [
+      "Section 76 violations",
+      "Section 163 oppression claims",
+      "Timeline of director misconduct"
+    ]
+  },
+  "popia_complaint": {
+    "priority": "CRITICAL",
+    "enhancements": [
+      "Add SF2 detailed analysis - dual email access proves POPIA violations",
+      "Add SF7 (Court email seizure) - judicial recognition of violations",
+      "Document each instance of unauthorized data access",
+      "Add criminal burden of proof (95%) assessments",
+      "Include technical analysis of system access violations"
+    ],
+    "evidence_to_add": [
+      "SF2",
+      "SF7",
+      "JF08"
+    ],
+    "sections_to_enhance": [
+      "Section 11 violations (lawful processing)",
+      "Section 19 violations (security measures)",
+      "Criminal liability under Section 107"
+    ]
+  },
+  "npa_tax_fraud": {
+    "priority": "HIGH",
+    "enhancements": [
+      "Add SF4 (SARS audit) - independent regulatory verification",
+      "Add SF3 (Stock adjustment) - R5.4M fraud concealment",
+      "Add transfer pricing analysis",
+      "Document inter-company loan manipulation",
+      "Add criminal burden of proof assessments"
+    ],
+    "evidence_to_add": [
+      "SF3",
+      "SF4",
+      "JF10"
+    ],
+    "sections_to_enhance": [
+      "Transfer pricing violations",
+      "Stock adjustment fraud",
+      "Inter-company loan manipulation"
+    ]
+  },
+  "commercial_crime": {
+    "priority": "CRITICAL",
+    "status": "TO BE CREATED",
+    "enhancements": [
+      "Create comprehensive commercial crime case submission",
+      "Include all SF files as primary evidence",
+      "Document R10.2M revenue theft with bank records",
+      "Add trust violation analysis",
+      "Include conspiracy network diagram"
+    ],
+    "evidence_to_include": [
+      "SF1",
+      "SF2",
+      "SF3",
+      "SF6",
+      "JF01",
+      "JF02",
+      "JF07"
+    ],
+    "charges_to_document": [
+      "Fraud (Criminal Procedure Act)",
+      "Theft (Criminal Procedure Act)",
+      "Money laundering (POCA)",
+      "Racketeering (POCA)",
+      "Forgery and uttering"
+    ]
+  }
+}

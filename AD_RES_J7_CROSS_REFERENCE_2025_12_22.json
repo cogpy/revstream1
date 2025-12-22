@@ -1,0 +1,658 @@
+{
+  "timestamp": "2025-12-22T05:39:50.883015",
+  "evidence_scan": {
+    "SF_files": {
+      "SF1_Bantjies_Debt_Documentation": {
+        "path": "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+        "name": "SF1_Bantjies_Debt_Documentation.md",
+        "size": 7005
+      },
+      "SF2_Sage_Screenshots_Rynette_Control": {
+        "path": "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md",
+        "name": "SF2_Sage_Screenshots_Rynette_Control.md",
+        "size": 10114
+      },
+      "SF3_Strategic_Logistics_Stock_Adjustment": {
+        "path": "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
+        "name": "SF3_Strategic_Logistics_Stock_Adjustment.md",
+        "size": 10633
+      },
+      "SF4_SARS_Audit_Email": {
+        "path": "ANNEXURES/SF4_SARS_Audit_Email.md",
+        "name": "SF4_SARS_Audit_Email.md",
+        "size": 10935
+      },
+      "SF5_Adderory_Company_Registration_Stock_Supply": {
+        "path": "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md",
+        "name": "SF5_Adderory_Company_Registration_Stock_Supply.md",
+        "size": 11455
+      },
+      "SF6_Kayla_Pretorius_Estate_Documentation": {
+        "path": "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
+        "name": "SF6_Kayla_Pretorius_Estate_Documentation.md",
+        "size": 11722
+      },
+      "SF7_Court_Order_Kayla_Email_Seizure": {
+        "path": "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md",
+        "name": "SF7_Court_Order_Kayla_Email_Seizure.md",
+        "size": 10144
+      },
+      "SF8_Linda_Employment_Records": {
+        "path": "ANNEXURES/SF8_Linda_Employment_Records.md",
+        "name": "SF8_Linda_Employment_Records.md",
+        "size": 11697
+      }
+    },
+    "JF_directories": {
+      "JF01": {
+        "path": "ANNEXURES/JF01",
+        "file_count": 2,
+        "total_size": 96870
+      },
+      "JF02": {
+        "path": "ANNEXURES/JF02",
+        "file_count": 3,
+        "total_size": 3400696
+      },
+      "JF03": {
+        "path": "ANNEXURES/JF03",
+        "file_count": 5,
+        "total_size": 576982
+      },
+      "JF04": {
+        "path": "ANNEXURES/JF04",
+        "file_count": 6,
+        "total_size": 826101
+      },
+      "JF05": {
+        "path": "ANNEXURES/JF05",
+        "file_count": 7,
+        "total_size": 104959
+      },
+      "JF06": {
+        "path": "ANNEXURES/JF06",
+        "file_count": 5,
+        "total_size": 7700818
+      },
+      "JF07": {
+        "path": "ANNEXURES/JF07",
+        "file_count": 186,
+        "total_size": 22797733
+      },
+      "JF08": {
+        "path": "ANNEXURES/JF08",
+        "file_count": 38,
+        "total_size": 5900485
+      },
+      "JF09": {
+        "path": "ANNEXURES/JF09",
+        "file_count": 8,
+        "total_size": 104516
+      },
+      "JF10": {
+        "path": "ANNEXURES/JF10",
+        "file_count": 3,
+        "total_size": 26605
+      },
+      "JF11": {
+        "path": "ANNEXURES/JF11",
+        "file_count": 1,
+        "total_size": 9512
+      },
+      "JF12": {
+        "path": "ANNEXURES/JF12",
+        "file_count": 1,
+        "total_size": 10282
+      },
+      "JF13": {
+        "path": "ANNEXURES/JF13",
+        "file_count": 3,
+        "total_size": 446377
+      }
+    },
+    "civil_response": [
+      "1-CIVIL-RESPONSE/ANNEXURE_INDEX.md",
+      "1-CIVIL-RESPONSE/FILING_CHECKLIST.md",
+      "1-CIVIL-RESPONSE/IMPLEMENTATION_COMPLETE.md",
+      "1-CIVIL-RESPONSE/JAX_OPTIMAL_RESPONSE_FRAMEWORK.md",
+      "1-CIVIL-RESPONSE/JAX_RELEVANCE_REALIZATION_ENNEAD.md",
+      "1-CIVIL-RESPONSE/README.md",
+      "1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md",
+      "1-CIVIL-RESPONSE/RESCISSION_APPLICATION_README.md",
+      "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md",
+      "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md",
+      "1-CIVIL-RESPONSE/agent-mapping.md",
+      "1-CIVIL-RESPONSE/arena-mapping.md",
+      "1-CIVIL-RESPONSE/annexures/DJF.md",
+      "1-CIVIL-RESPONSE/annexures/JF-CAUSATION.md",
+      "1-CIVIL-RESPONSE/annexures/JF-DAN-WITNESS.md",
+      "1-CIVIL-RESPONSE/annexures/JF-DANIEL-BANK-ANALYSIS.md",
+      "1-CIVIL-RESPONSE/annexures/JF-DISPROP.md",
+      "1-CIVIL-RESPONSE/annexures/JF-FIN-ANALYSIS.md",
+      "1-CIVIL-RESPONSE/annexures/JF-IT-COMP.md",
+      "1-CIVIL-RESPONSE/annexures/JF-REBUTTAL-MATRIX.md",
+      "1-CIVIL-RESPONSE/annexures/JF-SHOPIFY-INFRASTRUCTURE.md",
+      "1-CIVIL-RESPONSE/annexures/JF-STRATEGIC-LOGISTICS-ANALYSIS.md",
+      "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md",
+      "1-CIVIL-RESPONSE/annexures/JF3A.md",
+      "1-CIVIL-RESPONSE/annexures/JF8.md"
+    ],
+    "criminal_case": [
+      "2-CRIMINAL-CASE/CIPC_Companies_Act_Complaint.md",
+      "2-CRIMINAL-CASE/POPIA_Criminal_Complaint.md",
+      "2-CRIMINAL-CASE/README.md",
+      "2-CRIMINAL-CASE/agent-mapping.md",
+      "2-CRIMINAL-CASE/arena-mapping.md"
+    ],
+    "regulatory": []
+  },
+  "missing_references": {
+    "entities_without_refs": [
+      {
+        "id": "PERSON_009",
+        "name": "Gee",
+        "role": "email_sender_witness"
+      },
+      {
+        "id": "PERSON_010",
+        "name": "Bernadine Wright",
+        "role": "financial_professional"
+      },
+      {
+        "id": "PERSON_011",
+        "name": "Chantal",
+        "role": "estate_related_party"
+      },
+      {
+        "id": "PERSON_012",
+        "name": "Jax",
+        "role": "witness_and_victim"
+      },
+      {
+        "id": "PERSON_012",
+        "name": "Marisca Meyer",
+        "role": "Professional Accountant (SA)"
+      }
+    ],
+    "events_without_refs": [
+      {
+        "id": "EVENT_H001",
+        "description": "First invoice from ReZonance to RegimA Skin Treatments for Google GSuite service"
+      },
+      {
+        "id": "EVENT_H002",
+        "description": "Major service expansion with multiple enterprise services (R100,000+), substanti"
+      },
+      {
+        "id": "EVENT_H003",
+        "description": "Financial year commencement for RegimA Skin Treatments and Strategic Logistics, "
+      },
+      {
+        "id": "EVENT_H004",
+        "description": "Villa Via operates on different financial year, creating complexity in group rep"
+      },
+      {
+        "id": "EVENT_H005",
+        "description": "Significant inter-company cost reallocations: RWW R500K stock provision write-ba"
+      },
+      {
+        "id": "EVENT_051",
+        "description": "Multiple adjusting journal entries across entities for inter-company cost reallo"
+      },
+      {
+        "id": "EVENT_H006",
+        "description": "SLG pays R414,334.09 interest to RST per loan agreement, RST advances R750K loan"
+      },
+      {
+        "id": "EVENT_052",
+        "description": "SLG pays R414,334.09 interest to RST per loan agreement"
+      },
+      {
+        "id": "EVENT_H007",
+        "description": "Villa Via generates R4.4M monthly rental income with R3.7M profit, Members loan "
+      },
+      {
+        "id": "EVENT_053",
+        "description": "Villa Via financial year-end showing R3.7M profit and R22.8M members loan"
+      },
+      {
+        "id": "EVENT_H008",
+        "description": "Email from Danie Bantjies with final trial balances to Bernadine Wright, Jax, Pe"
+      },
+      {
+        "id": "EVENT_048",
+        "description": "Bantjies sends trial balance email to finalize financial statements"
+      },
+      {
+        "id": "EVENT_H018",
+        "description": "Bantjies sends trial balance email to Bernadine Wright for financial statement f"
+      },
+      {
+        "id": "EVENT_H009",
+        "description": "Rynette's son registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establi"
+      },
+      {
+        "id": "EVENT_D001",
+        "description": "Opening balance showing substantial accumulated debt to ReZonance (R971,587.93),"
+      },
+      {
+        "id": "EVENT_D002",
+        "description": "First structured payment to ReZonance (R40,000), attempt to manage debt through "
+      },
+      {
+        "id": "EVENT_H010",
+        "description": "Murder of Kayla Pretorius, creating estate complications, law enforcement invest"
+      },
+      {
+        "id": "EVENT_D003",
+        "description": "Final balance showing persistent debt to ReZonance (R1,035,361.34) despite payme"
+      },
+      {
+        "id": "EVENT_D004",
+        "description": "RegimA claims payment of R470,000 to ReZonance not reflected in ReZonance record"
+      },
+      {
+        "id": "EVENT_D005",
+        "description": "Additional false payment claims totaling R765,361.34 to ReZonance, escalation of"
+      },
+      {
+        "id": "EVENT_023",
+        "description": "Chantal delivered letter mentioning Kayla estate finalization, indicating ongoin"
+      },
+      {
+        "id": "EVENT_054",
+        "description": "Chantal delivers letter to office regarding Kayla estate finalization, indicatin"
+      },
+      {
+        "id": "EVENT_022",
+        "description": "Peter made unauthorized transfers of R900,000 from RegimA SA without Daniel's au"
+      },
+      {
+        "id": "EVENT_028",
+        "description": "R5.2M SLG stock missing with simultaneous R5.2M invoice from SLG to RST. Stock p"
+      },
+      {
+        "id": "EVENT_001",
+        "description": "Diversion of revenue streams from RegimA SA initiated, marking the beginning of "
+      },
+      {
+        "id": "EVENT_024",
+        "description": "R5.4M worth of stock physically disappears from Strategic Logistics warehouse. R"
+      },
+      {
+        "id": "EVENT_002",
+        "description": "Foundation for R2.85M+ trust violations established through trust structure mani"
+      },
+      {
+        "id": "EVENT_025",
+        "description": "R5.4M written off as simple 'stock adjustment' without investigation, supporting"
+      },
+      {
+        "id": "EVENT_003",
+        "description": "Rynette and Peter dumped two years' worth of unallocated expenses from all compa"
+      },
+      {
+        "id": "EVENT_004",
+        "description": "Part of R4.28M+ financial diversions. Payments redirected from platform owned/pa"
+      },
+      {
+        "id": "EVENT_005",
+        "description": "Setup for R3.14M+ revenue theft. First documented act in coordinated scheme. Att"
+      },
+      {
+        "id": "EVENT_029",
+        "description": "Peter ordered Cloud IT systems removal, seizing infrastructure control from legi"
+      },
+      {
+        "id": "EVENT_055",
+        "description": "Peter instructs removal of all cloud IT systems, systematic dismantling of cloud"
+      },
+      {
+        "id": "EVENT_056",
+        "description": "Physical server hardware disappears from office premises, potential evidence des"
+      },
+      {
+        "id": "EVENT_006",
+        "description": "Exclusion of legitimate beneficiaries. Direct violation of trust obligations and"
+      },
+      {
+        "id": "EVENT_007",
+        "description": "Jacqui confronted Rynette regarding R1,035,000 owed by RegimA Skin Treatments to"
+      },
+      {
+        "id": "EVENT_008",
+        "description": "R850,000+ unauthorized transfers. Direct evidence of financial authority abuse a"
+      },
+      {
+        "id": "EVENT_050",
+        "description": "Jax confronts Rynette about R1,035,000 owed to ReZonance and Kayla's estate"
+      },
+      {
+        "id": "EVENT_009",
+        "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evid"
+      },
+      {
+        "id": "EVENT_010",
+        "description": "Customer hijacking platform. Family conspiracy escalation and digital impersonat"
+      },
+      {
+        "id": "EVENT_011",
+        "description": "Daniel finalized reports uncovering fraud after using time from March 30 deadlin"
+      },
+      {
+        "id": "EVENT_057",
+        "description": "Daniel sends comprehensive documentation to Bantjies including listing of all co"
+      },
+      {
+        "id": "EVENT_012",
+        "description": "Secret cancellation of cards to sabotage Daniel's ability to pay creditors. Ryne"
+      },
+      {
+        "id": "EVENT_023",
+        "description": "CRITICAL EVENT: Bantjies dismisses Daniel's audit request 4 days after Daniel ex"
+      },
+      {
+        "id": "EVENT_026",
+        "description": "Bantjies dismisses Daniel's audit request 4 days after fraud exposure (June 6), "
+      },
+      {
+        "id": "EVENT_047",
+        "description": "Bantjies dismisses Daniel's audit request 4 days after fraud exposure"
+      },
+      {
+        "id": "EVENT_058",
+        "description": "Daniel reports to Bantjies about Kayla's murder (August 2023) and Peter stealing"
+      },
+      {
+        "id": "EVENT_013",
+        "description": "Trustee misconduct and self-dealing. Clear evidence of trustee misconduct and se"
+      },
+      {
+        "id": "EVENT_014",
+        "description": "R3.1M+ losses enabled by email control. Pattern of impersonation supporting crim"
+      },
+      {
+        "id": "EVENT_027",
+        "description": "Gee instructed to send email: 'don't use regima.zone only use regimaskin.co.za e"
+      },
+      {
+        "id": "EVENT_015",
+        "description": "Complex financial flow manipulation. Evidence of sophisticated financial crime c"
+      },
+      {
+        "id": "EVENT_016",
+        "description": "Complete operational shutdown. Documented evidence of systematic business destru"
+      },
+      {
+        "id": "EVENT_017",
+        "description": "Financial control seizure. Documented evidence of financial system abuse and una"
+      },
+      {
+        "id": "EVENT_018",
+        "description": "Trust property theft. Documented theft of trust property and breach of fiduciary"
+      },
+      {
+        "id": "EVENT_019",
+        "description": "Complete compromise of trust integrity. Systematic evidence of ongoing trust law"
+      },
+      {
+        "id": "EVENT_059",
+        "description": "Settlement agreement signed 2 days before interdict filing, demonstrating strate"
+      },
+      {
+        "id": "EVENT_049",
+        "description": "Bantjies certifies Peter's affidavit as Commissioner of Oaths despite material o"
+      },
+      {
+        "id": "EVENT_060",
+        "description": "Peter files founding affidavit containing material non-disclosures and perjury r"
+      },
+      {
+        "id": "EVENT_026",
+        "description": "Email from Gee to Jax explaining that she was instructed to send out 'don't use "
+      },
+      {
+        "id": "EVENT_020",
+        "description": "Cover-up operations demonstrating guilt. Consciousness of guilt through evidence"
+      },
+      {
+        "id": "EVENT_061",
+        "description": "ENS Africa acknowledges receipt of criminal matters information with 'Received, "
+      },
+      {
+        "id": "EVENT_021",
+        "description": "Accounts emptied, potentially because Daniel was still managing to pay creditors"
+      },
+      {
+        "id": "EVENT_H011",
+        "description": "RegimaSA (Pty) Ltd incorporated as Collections Agent"
+      },
+      {
+        "id": "EVENT_H012",
+        "description": "RegimaSA first financial year end (15 months) showing zero revenue, R1,589 loss,"
+      },
+      {
+        "id": "EVENT_064",
+        "description": "RegimaSA 2019 financial statements prepared and issued by Marisca Meyer, 6+ year"
+      },
+      {
+        "id": "EVENT_065",
+        "description": "RegimA WWD Sage accounting registration expired; Rynette Farrar controls reactiv"
+      },
+      {
+        "id": "EVENT_066",
+        "description": "Bantjes email confirms R10M bank balance decline year-on-year; first-ever substa"
+      },
+      {
+        "id": "EVENT_067",
+        "description": "RegimA WWD paid R157k+ to ReZonance, reducing debt from R85k to R22k (July-Decem"
+      },
+      {
+        "id": "EVENT_086",
+        "description": "Estate documentation for Kayla Pretorius, whose email account later became subje"
+      },
+      {
+        "id": "EVENT_087",
+        "description": "Court orders seizure of Kayla Pretorius email account for evidence of fraudulent"
+      },
+      {
+        "id": "EVENT_088",
+        "description": "SARS notifies RegimA companies of tax audit, providing independent regulatory sc"
+      },
+      {
+        "id": "EVENT_089",
+        "description": "Documentation of Bantjies's R18,685,000 debt to Faucitt Family Trust, creating m"
+      },
+      {
+        "id": "EVENT_090",
+        "description": "Screenshot evidence shows Rynette with control of Sage accounting system and acc"
+      },
+      {
+        "id": "EVENT_091",
+        "description": "Adderory company registration and stock supply arrangement with RegimA (potentia"
+      },
+      {
+        "id": "EVENT_SF9",
+        "description": "Attorney letter demanding R60.25M revenue + $150K platform fees, total ~R63M, 48"
+      },
+      {
+        "id": "EVENT_SF2A",
+        "description": "Discovery of Rynette's dual account access in Sage (Pete@regima.com AND rynette@"
+      },
+      {
+        "id": "EVENT_SF2B",
+        "description": "Sage accounting subscription expired, Rynette controls reactivation, all parties"
+      }
+    ],
+    "entities_with_weak_evidence": [
+      {
+        "id": "PERSON_006",
+        "name": "Linda",
+        "strength": "none"
+      },
+      {
+        "id": "PERSON_007",
+        "name": "Danie Bantjies",
+        "strength": "none"
+      },
+      {
+        "id": "PERSON_008",
+        "name": "Kayla",
+        "strength": "none"
+      },
+      {
+        "id": "PERSON_009",
+        "name": "Gee",
+        "strength": "none"
+      },
+      {
+        "id": "PERSON_010",
+        "name": "Bernadine Wright",
+        "strength": "none"
+      },
+      {
+        "id": "PERSON_011",
+        "name": "Chantal",
+        "strength": "none"
+      },
+      {
+        "id": "PERSON_012",
+        "name": "Jax",
+        "strength": "none"
+      },
+      {
+        "id": "PERSON_012",
+        "name": "Marisca Meyer",
+        "strength": "none"
+      }
+    ],
+    "events_with_weak_evidence": []
+  },
+  "improvement_suggestions": {
+    "timestamp": "2025-12-22T05:39:50.882874",
+    "entity_improvements": [
+      {
+        "priority": "HIGH",
+        "action": "Add ad-res-j7 references for 5 entities missing them",
+        "entities": [
+          "Gee",
+          "Bernadine Wright",
+          "Chantal",
+          "Jax",
+          "Marisca Meyer"
+        ],
+        "evidence_sources": [
+          "JF08",
+          "JF13",
+          "SF files"
+        ]
+      },
+      {
+        "priority": "MEDIUM",
+        "action": "Enhance evidence strength documentation for entities with weak evidence",
+        "count": 8
+      }
+    ],
+    "relation_improvements": [
+      {
+        "priority": "HIGH",
+        "action": "Add temporal relations between key events",
+        "current_count": 6,
+        "target_count": 15
+      },
+      {
+        "priority": "MEDIUM",
+        "action": "Document evidence for all 75 relations with ad-res-j7 cross-references"
+      }
+    ],
+    "event_improvements": [
+      {
+        "priority": "CRITICAL",
+        "action": "Fix events missing dates",
+        "affected_events": "Multiple events lack specific dates"
+      },
+      {
+        "priority": "HIGH",
+        "action": "Enhance burden of proof documentation",
+        "detail": "Ensure all events have both civil and criminal burden assessments"
+      }
+    ],
+    "timeline_improvements": [
+      {
+        "priority": "CRITICAL",
+        "action": "Rebuild timeline structure - only 3 phases with 0 events each",
+        "detail": "Timeline should organize 77 events into chronological phases"
+      },
+      {
+        "priority": "HIGH",
+        "action": "Create visual timeline with key milestones",
+        "format": "Mermaid diagram or interactive HTML"
+      }
+    ],
+    "github_pages_improvements": [
+      {
+        "priority": "HIGH",
+        "action": "Update evidence index with all SF and JF files",
+        "current_sf_count": 8,
+        "current_jf_count": 13
+      },
+      {
+        "priority": "HIGH",
+        "action": "Create entity profile pages in docs/entities/",
+        "detail": "Individual pages for each of 14 persons and 14 organizations"
+      },
+      {
+        "priority": "MEDIUM",
+        "action": "Create event analysis pages in docs/events/",
+        "detail": "Categorized event documentation with evidence links"
+      },
+      {
+        "priority": "MEDIUM",
+        "action": "Update index.md with latest statistics",
+        "updates": [
+          "Entity counts",
+          "Evidence file counts",
+          "Timeline status"
+        ]
+      }
+    ],
+    "legal_filing_improvements": [
+      {
+        "priority": "CRITICAL",
+        "action": "Review and update CIPC complaint with latest evidence",
+        "file": "CIPC_COMPLAINT_REFINED_2025_12_21.md",
+        "new_evidence": [
+          "SF1-SF8",
+          "JF13"
+        ]
+      },
+      {
+        "priority": "HIGH",
+        "action": "Create POPIA criminal complaint",
+        "evidence": [
+          "Email control",
+          "System access violations",
+          "Data breaches"
+        ]
+      },
+      {
+        "priority": "HIGH",
+        "action": "Create Commercial Crime case submission",
+        "evidence": [
+          "R10.2M revenue theft",
+          "Trust violations",
+          "Financial fraud"
+        ]
+      },
+      {
+        "priority": "MEDIUM",
+        "action": "Create NPA Tax Fraud report",
+        "evidence": [
+          "SARS audit evidence",
+          "Transfer pricing fraud",
+          "Stock adjustments"
+        ]
+      }
+    ]
+  }
+}

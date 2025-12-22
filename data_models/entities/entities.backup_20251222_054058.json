@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "14.0_REFINED_2025_12_22",
+    "version": "13.0_REFINED_2025_12_21",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2025-12-22T05:40:58.378256",
-    "changes": "Added ad-res-j7 references for 5 entities"
+    "last_updated": "2025-12-21T05:35:14.140108",
+    "changes": "Comprehensive refinement based on ad-res-j7 evidence cross-reference"
   },
   "entities": {
     "persons": [
@@ -325,14 +325,14 @@
           "EVENT_054"
         ],
         "evidence": [
-          "JF08 - Email evidence",
-          "JF13 - Recent correspondence"
+          "JF03 - Estate creditor documentation",
+          "JF09 - Court order interference evidence"
         ],
         "ad_res_j7_references": [
-          "ANNEXURES/JF08 - Email correspondence evidence",
-          "ANNEXURES/JF13 - Recent correspondence"
+          "ANNEXURES/JF03 - Estate and debt documentation",
+          "ANNEXURES/JF09 - Court order timeline"
         ],
-        "evidence_enhanced": "2025-12-22T05:40:58.378236"
+        "evidence_enhanced": "2025-12-12T05:37:57.342392"
       },
       {
         "entity_id": "PERSON_009",
@@ -351,16 +351,7 @@
         "additional_notes": "Sent email to Jax in August explaining instruction to send 'don't use regima.zone only use regimaskin.co.za email' on June 20, 2025, direct witness to coordinated customer diversion scheme",
         "timeline_events": [
           "EVENT_027"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - Professional correspondence",
-          "ANNEXURES/JF10 - Accounting records"
-        ],
-        "evidence": [
-          "SF1 - Bantjies debt documentation",
-          "JF10 - Accounting records"
-        ],
-        "evidence_enhanced": "2025-12-22T05:40:58.378246"
+        ]
       },
       {
         "entity_id": "PERSON_010",
@@ -376,16 +367,7 @@
         "timeline_events": [
           "EVENT_H018"
         ],
-        "role_clarification": "Recipient of trial balance email from Bantjies, witness to his financial system control",
-        "ad_res_j7_references": [
-          "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - Estate related",
-          "ANNEXURES/JF08 - Evidence packages"
-        ],
-        "evidence": [
-          "SF6 - Kayla estate documentation",
-          "JF08 - Evidence packages"
-        ],
-        "evidence_enhanced": "2025-12-22T05:40:58.378248"
+        "role_clarification": "Recipient of trial balance email from Bantjies, witness to his financial system control"
       },
       {
         "entity_id": "PERSON_003",
@@ -453,16 +435,7 @@
           "EVENT_023"
         ],
         "additional_notes": "Delivered letter about Kayla estate finalization in January 2025, potential witness to estate exploitation",
-        "role_clarification": "Delivered letter about Kayla estate finalization January 2025",
-        "ad_res_j7_references": [
-          "ANNEXURES/JF08 - Witness evidence",
-          "ANNEXURES/JF11 - Medical coercion evidence"
-        ],
-        "evidence": [
-          "JF08 - Witness evidence",
-          "JF11 - Medical coercion evidence"
-        ],
-        "evidence_enhanced": "2025-12-22T05:40:58.378251"
+        "role_clarification": "Delivered letter about Kayla estate finalization January 2025"
       },
       {
         "entity_id": "PERSON_012",
@@ -483,16 +456,7 @@
           "EVENT_H020",
           "EVENT_H021"
         ],
-        "additional_notes": "Received email from Gee about domain switch instruction, confronted Rynette on May 15, 2025 about R1,035,000 owed to ReZonance",
-        "ad_res_j7_references": [
-          "ANNEXURES/JF10 - Professional accounting records",
-          "ANNEXURES/JF13 - Recent professional correspondence"
-        ],
-        "evidence": [
-          "JF10 - Accounting records",
-          "JF13 - Recent correspondence"
-        ],
-        "evidence_enhanced": "2025-12-22T05:40:58.378252"
+        "additional_notes": "Received email from Gee about domain switch instruction, confronted Rynette on May 15, 2025 about R1,035,000 owed to ReZonance"
       },
       {
         "entity_id": "PERSON_012",
@@ -509,14 +473,8 @@
         ],
         "significance": "Prepared 6-year-old financial statements retrospectively in June 2025, timing coincides with legal proceedings",
         "evidence": [
-          "JF10 - Accounting records",
-          "JF13 - Recent correspondence"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF10 - Professional accounting records",
-          "ANNEXURES/JF13 - Recent professional correspondence"
-        ],
-        "evidence_enhanced": "2025-12-22T05:40:58.378254"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
+        ]
       },
       {
         "entity_id": "PERSON_013",
