@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "15.0_REFINED_2025_12_23",
+    "version": "14.0_REFINED_2025_12_22",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2025-12-23T05:38:10.042271",
-    "changes": "Enhanced evidence strength assessments and ad-res-j7 references"
+    "last_updated": "2025-12-22T05:40:58.378256",
+    "changes": "Added ad-res-j7 references for 5 entities"
   },
   "entities": {
     "persons": [
@@ -220,8 +220,7 @@
         "ad_res_j7_references": [
           "ANNEXURES/SF8_Linda_Employment_Records.md - Employment documentation"
         ],
-        "evidence_enhanced": "2025-12-16T05:38:06.599539",
-        "evidence_strength": "documented"
+        "evidence_enhanced": "2025-12-16T05:38:06.599539"
       },
       {
         "entity_id": "PERSON_007",
@@ -297,15 +296,9 @@
           "ANNEXURES/JF03 - HMRC pension fraud analysis",
           "ANNEXURES/JF04 - Trust and company documentation",
           "ANNEXURES/JF07 - Debt and financial conflict evidence",
-          "ANNEXURES/JF08/evidence_package_20250606 - Email evidence extraction",
-          "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - R18.685M debt to trust",
-          "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md - Stock fraud concealment",
-          "ANNEXURES/SF4_SARS_Audit_Email.md - SARS audit coordination",
-          "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md - Medical testing proposal"
+          "ANNEXURES/JF08/evidence_package_20250606 - Email evidence extraction"
         ],
-        "evidence_enhanced": "2025-12-12T05:37:57.342390",
-        "evidence_strength": "conclusive",
-        "criminal_threshold": "95%_exceeded"
+        "evidence_enhanced": "2025-12-12T05:37:57.342390"
       },
       {
         "entity_id": "PERSON_008",
@@ -337,12 +330,9 @@
         ],
         "ad_res_j7_references": [
           "ANNEXURES/JF08 - Email correspondence evidence",
-          "ANNEXURES/JF13 - Recent correspondence",
-          "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - Death and estate documentation",
-          "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Email seizure court order"
+          "ANNEXURES/JF13 - Recent correspondence"
         ],
-        "evidence_enhanced": "2025-12-22T05:40:58.378236",
-        "evidence_strength": "conclusive"
+        "evidence_enhanced": "2025-12-22T05:40:58.378236"
       },
       {
         "entity_id": "PERSON_009",
@@ -370,8 +360,7 @@
           "SF1 - Bantjies debt documentation",
           "JF10 - Accounting records"
         ],
-        "evidence_enhanced": "2025-12-22T05:40:58.378246",
-        "evidence_strength": "corroborative"
+        "evidence_enhanced": "2025-12-22T05:40:58.378246"
       },
       {
         "entity_id": "PERSON_010",
@@ -396,8 +385,7 @@
           "SF6 - Kayla estate documentation",
           "JF08 - Evidence packages"
         ],
-        "evidence_enhanced": "2025-12-22T05:40:58.378248",
-        "evidence_strength": "corroborative"
+        "evidence_enhanced": "2025-12-22T05:40:58.378248"
       },
       {
         "entity_id": "PERSON_003",
@@ -474,8 +462,7 @@
           "JF08 - Witness evidence",
           "JF11 - Medical coercion evidence"
         ],
-        "evidence_enhanced": "2025-12-22T05:40:58.378251",
-        "evidence_strength": "corroborative"
+        "evidence_enhanced": "2025-12-22T05:40:58.378251"
       },
       {
         "entity_id": "PERSON_012",
@@ -505,8 +492,7 @@
           "JF10 - Accounting records",
           "JF13 - Recent correspondence"
         ],
-        "evidence_enhanced": "2025-12-22T05:40:58.378252",
-        "evidence_strength": "corroborative"
+        "evidence_enhanced": "2025-12-22T05:40:58.378252"
       },
       {
         "entity_id": "PERSON_012",
@@ -530,8 +516,7 @@
           "ANNEXURES/JF10 - Professional accounting records",
           "ANNEXURES/JF13 - Recent professional correspondence"
         ],
-        "evidence_enhanced": "2025-12-22T05:40:58.378254",
-        "evidence_strength": "corroborative"
+        "evidence_enhanced": "2025-12-22T05:40:58.378254"
       },
       {
         "entity_id": "PERSON_013",
