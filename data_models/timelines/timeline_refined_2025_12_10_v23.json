@@ -5,7 +5,7 @@
     "description": "Timeline model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "event_based_timeline_generation",
-    "last_updated": "2025-12-10T05:34:51.527960",
+    "last_updated": "2025-12-25T05:38:09.612258",
     "changes": "Enhanced evidence cross-references",
     "total_entries": 3,
     "date_range": {

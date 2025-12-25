@@ -1,0 +1,88 @@
+{
+  "index_files": [
+    "index.html",
+    "index.md"
+  ],
+  "filing_categories": {
+    "civil": [
+      "ANSWERING_AFFIDAVIT_EVIDENCE_ENHANCED_20251217.md",
+      "ANSWERING_AFFIDAVIT_REFINED_2025_12_10.md",
+      "ANSWERING_AFFIDAVIT_REFINED_2025_12_10_UPDATED_2025_12_12.md"
+    ],
+    "criminal": [
+      "CRIMINAL_COMPLAINT_EVIDENCE_ENHANCED.md",
+      "CRIMINAL_COMPLAINT_EVIDENCE_ENHANCED_UPDATED_2025_12_12.md",
+      "POPIA_COMPLAINT_EVIDENCE_ENHANCED_20251217.md"
+    ],
+    "regulatory": [
+      "CIPC_COMPLAINT_EVIDENCE_ENHANCED_20251217.md",
+      "CIPC_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12.md",
+      "NPA_TAX_FRAUD_REPORT_2025_12_10_UPDATED_2025_12_12.md",
+      "POPIA_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12.md"
+    ]
+  },
+  "evidence_files": [
+    "index.md"
+  ],
+  "entity_profiles": [
+    "bank_001-unknown-account.md",
+    "bank_account_001-regima-skin-savings-account.md",
+    "bank_account_002-villa-via-savings-acc.md",
+    "bank_account_003-strategic-savings-acc.md",
+    "index.md",
+    "org_001-regima-worldwide-distribution-pty-ltd.md",
+    "org_002-regima-skin-treatments-cc.md",
+    "org_003-regima-zone-ltd.md",
+    "org_004-strategic-logistics-group.md",
+    "org_005-villa-via.md",
+    "org_006-regima-sa.md",
+    "org_008-rezonance-pty-ltd.md",
+    "org_009-adderory-pty-ltd.md",
+    "org_010-adderory-skin-pty-ltd.md",
+    "person_001-peter-andrew-faucitt.md",
+    "person_002-rynette-farrar.md",
+    "person_003-adderory-rynette's-son.md",
+    "person_004-jacqueline-faucitt.md",
+    "person_004-kent.md",
+    "person_005-daniel-james-faucitt.md",
+    "person_005-eldridge-davids.md",
+    "person_006-linda.md",
+    "person_007-danie-bantjies.md",
+    "person_008-kayla-pretorius.md",
+    "person_008-kayla.md",
+    "person_009-gee.md",
+    "person_010-bernadine-wright.md",
+    "person_011-chantal.md",
+    "person_012-jax.md",
+    "trust_001-family-trust.md"
+  ],
+  "timeline_files": [
+    "timeline.md",
+    "timeline_enhanced_2025_12_05.md",
+    "timeline.html"
+  ],
+  "diagrams": [
+    "card_cancellation_timeline.png",
+    "causal_chain_torture.png",
+    "cipc_fraud_timeline.png",
+    "conspiracy_network.png",
+    "conspiracy_network_graph.png",
+    "corrected_expenditure_timeline.png",
+    "curatorship_conspiracy_flowchart.png",
+    "evidence_destruction_timeline.png",
+    "fabricated_accounts_fraud_proof.png",
+    "revenue_stream_fraud_timeline.png",
+    "card_cancellation_timeline.mmd",
+    "causal_chain_torture.mmd",
+    "cipc_fraud_timeline.mmd",
+    "conspiracy_network.mmd",
+    "corrected_expenditure_timeline.mmd",
+    "curatorship_conspiracy_flowchart.mmd",
+    "curatorship_conspiracy_timeline.mmd",
+    "evidence_destruction_timeline.mmd",
+    "fabricated_accounts_fraud_proof.mmd",
+    "revenue_stream_fraud_timeline.mmd"
+  ],
+  "missing_links": [],
+  "recommendations": []
+}

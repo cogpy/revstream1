@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "15.0_REFINED_2025_12_23",
+    "version": "16.0_REFINED_2025_12_25",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "total_events": 62,
+    "total_events": 77,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2025-12-23T05:38:10.042394",
-    "changes": "Enhanced critical events with burden of proof assessments and sorted chronologically"
+    "last_updated": "2025-12-25T05:38:52.461184",
+    "changes": "Chronological sorting, evidence enhancement, and burden of proof assessment"
   },
   "events": [
     {
@@ -1544,7 +1544,7 @@
       "entities_involved": [
         "PLATFORM_001"
       ],
-      "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
+      "description": "CRITICAL EVENT: R1M+ monthly revenue → R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
       "financial_impact": "R1,000,000+ monthly",
       "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
       "evidence": [
@@ -1569,7 +1569,11 @@
         "ANNEXURES/JF01",
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
-      ]
+      ],
+      "burden_of_proof": {
+        "civil_50_percent": "exceeded",
+        "criminal_95_percent": "achievable"
+      }
     },
     {
       "event_id": "EVENT_010",
@@ -1939,7 +1943,11 @@
         "ANNEXURES/JF01",
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
-      ]
+      ],
+      "burden_of_proof": {
+        "civil_50_percent": "exceeded",
+        "criminal_95_percent": "achievable"
+      }
     },
     {
       "event_id": "EVENT_027",

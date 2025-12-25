@@ -1,0 +1,30 @@
+{
+  "civil": {
+    "directory": "/home/ubuntu/revstream1/docs/filings/civil",
+    "files": [
+      "ANSWERING_AFFIDAVIT_EVIDENCE_ENHANCED_20251217.md",
+      "ANSWERING_AFFIDAVIT_REFINED_2025_12_10.md",
+      "ANSWERING_AFFIDAVIT_REFINED_2025_12_10_UPDATED_2025_12_12.md"
+    ],
+    "latest": "ANSWERING_AFFIDAVIT_EVIDENCE_ENHANCED_20251217.md"
+  },
+  "criminal": {
+    "directory": "/home/ubuntu/revstream1/docs/filings/criminal",
+    "files": [
+      "CRIMINAL_COMPLAINT_EVIDENCE_ENHANCED.md",
+      "CRIMINAL_COMPLAINT_EVIDENCE_ENHANCED_UPDATED_2025_12_12.md",
+      "POPIA_COMPLAINT_EVIDENCE_ENHANCED_20251217.md"
+    ],
+    "latest": "CRIMINAL_COMPLAINT_EVIDENCE_ENHANCED.md"
+  },
+  "regulatory": {
+    "directory": "/home/ubuntu/revstream1/docs/filings/regulatory",
+    "files": [
+      "CIPC_COMPLAINT_EVIDENCE_ENHANCED_20251217.md",
+      "CIPC_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12.md",
+      "NPA_TAX_FRAUD_REPORT_2025_12_10_UPDATED_2025_12_12.md",
+      "POPIA_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12.md"
+    ],
+    "latest": "CIPC_COMPLAINT_EVIDENCE_ENHANCED_20251217.md"
+  }
+}

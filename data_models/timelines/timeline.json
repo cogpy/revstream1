@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "version": "14.0_REFINED_2025_12_22",
+    "version": "15.0_REFINED_2025_12_25",
     "created_date": "2025-11-10",
     "description": "Timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2025-12-22T05:40:58.377441",
-    "changes": "Complete timeline rebuild with chronological phases"
+    "last_updated": "2025-12-25T05:38:52.461251",
+    "changes": "Phase refinement and event alignment verification"
   },
   "timeline": [
     {
@@ -22,7 +22,8 @@
         "EVENT_H004",
         "EVENT_091"
       ],
-      "significance": "Establishes legitimate business foundation and trust structure"
+      "significance": "Establishes legitimate business foundation and trust structure",
+      "event_count": 7
     },
     {
       "phase_id": "PHASE_2",
@@ -53,7 +54,8 @@
         "EVENT_D004",
         "EVENT_D005"
       ],
-      "significance": "Core fraud period with R10.2M revenue theft"
+      "significance": "Core fraud period with R10.2M revenue theft",
+      "event_count": 22
     },
     {
       "phase_id": "PHASE_3",
@@ -110,7 +112,8 @@
         "EVENT_021",
         "EVENT_SF9"
       ],
-      "significance": "Evidence discovery and legal response phase"
+      "significance": "Evidence discovery and legal response phase",
+      "event_count": 48
     }
   ],
   "key_milestones": [

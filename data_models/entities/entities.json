@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "16.0_REFINED_2025_12_24",
+    "version": "17.0_REFINED_2025_12_25",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2025-12-24T05:36:04.416307",
-    "changes": "Enhanced with SF9 Ian Levitt R63M demand letter"
+    "last_updated": "2025-12-25T05:38:52.461061",
+    "changes": "Comprehensive evidence integration and cross-referencing"
   },
   "entities": {
     "persons": [
@@ -221,7 +221,8 @@
           "ANNEXURES/SF8_Linda_Employment_Records.md - Employment documentation"
         ],
         "evidence_enhanced": "2025-12-16T05:38:06.599539",
-        "evidence_strength": "documented"
+        "evidence_strength": "circumstantial",
+        "evidence": []
       },
       {
         "entity_id": "PERSON_007",
@@ -342,7 +343,7 @@
           "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Email seizure court order"
         ],
         "evidence_enhanced": "2025-12-22T05:40:58.378236",
-        "evidence_strength": "conclusive"
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_009",
@@ -371,7 +372,7 @@
           "JF10 - Accounting records"
         ],
         "evidence_enhanced": "2025-12-22T05:40:58.378246",
-        "evidence_strength": "corroborative"
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_010",
@@ -397,7 +398,7 @@
           "JF08 - Evidence packages"
         ],
         "evidence_enhanced": "2025-12-22T05:40:58.378248",
-        "evidence_strength": "corroborative"
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_003",
@@ -475,7 +476,7 @@
           "JF11 - Medical coercion evidence"
         ],
         "evidence_enhanced": "2025-12-22T05:40:58.378251",
-        "evidence_strength": "corroborative"
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_012",
@@ -506,7 +507,7 @@
           "JF13 - Recent correspondence"
         ],
         "evidence_enhanced": "2025-12-22T05:40:58.378252",
-        "evidence_strength": "corroborative"
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_012",
@@ -531,7 +532,7 @@
           "ANNEXURES/JF13 - Recent professional correspondence"
         ],
         "evidence_enhanced": "2025-12-22T05:40:58.378254",
-        "evidence_strength": "corroborative"
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_013",
@@ -561,7 +562,7 @@
           "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md"
         ],
         "evidence_enhanced": "2025-12-19T16:36:13.580845",
-        "evidence_strength": "conclusive",
+        "evidence_strength": "strong",
         "burden_of_proof": {
           "civil": "HIGH",
           "criminal": "MEDIUM"
@@ -706,7 +707,10 @@
           "loss_entity_in_inter_company_manipulation"
         ],
         "additional_notes": "Positioned as loss entity with R13M debt to RST, paid R414K interest Feb 2020, pattern consistent with R5.4M stock lossPositioned as loss entity with R13M debt to RST, paid R414K interest Feb 2020, pattern consistent with R5.4M stock loss",
-        "role": "trust_owned_warehouse_and_logistics"
+        "role": "trust_owned_warehouse_and_logistics",
+        "evidence_enhanced": "2025-12-25T05:38:52.461088",
+        "evidence": [],
+        "ad_res_j7_references": []
       },
       {
         "entity_id": "ORG_005",
@@ -737,7 +741,10 @@
           "start": "May 1",
           "end": "April 30"
         },
-        "role": "rental_property_company_wealth_extraction"
+        "role": "rental_property_company_wealth_extraction",
+        "evidence_enhanced": "2025-12-25T05:38:52.461091",
+        "evidence": [],
+        "ad_res_j7_references": []
       },
       {
         "entity_id": "ORG_006",
@@ -756,7 +763,8 @@
           "ANNEXURES/JF07 - Sage screenshots showing fraudulent records",
           "SF2_Sage_Screenshots_Rynette_Control.md - Victim of revenue hijacking"
         ],
-        "evidence_enhanced": "2025-12-14T05:36:53.165459"
+        "evidence_enhanced": "2025-12-14T05:36:53.165459",
+        "evidence": []
       },
       {
         "entity_id": "ORG_008",
@@ -832,7 +840,8 @@
           "SF1_Bantjies_Debt_Documentation.md - Business relationship and debt",
           "1-CIVIL-RESPONSE/financial-flows - Service provider documentation"
         ],
-        "evidence_enhanced": "2025-12-14T05:36:53.165461"
+        "evidence_enhanced": "2025-12-14T05:36:53.165461",
+        "evidence": []
       },
       {
         "entity_id": "ORG_009",
@@ -877,7 +886,10 @@
           "EVENT_024",
           "EVENT_027"
         ],
-        "additional_notes": "Registered April 2021 (4 years before fraud escalation), demonstrates long-term conspiracy planning, supplied same stock type that disappeared from SLG, registered fraudulent domain regimaskin.co.za"
+        "additional_notes": "Registered April 2021 (4 years before fraud escalation), demonstrates long-term conspiracy planning, supplied same stock type that disappeared from SLG, registered fraudulent domain regimaskin.co.za",
+        "evidence_enhanced": "2025-12-25T05:38:52.461094",
+        "evidence": [],
+        "ad_res_j7_references": []
       },
       {
         "entity_id": "ORG_010",
@@ -914,7 +926,10 @@
           "EVENT_H009",
           "EVENT_027"
         ],
-        "additional_notes": "Registered April 2021 alongside Adderory (Pty) Ltd, part of Adderory group for customer hijacking, used RegimA brand for fraud"
+        "additional_notes": "Registered April 2021 alongside Adderory (Pty) Ltd, part of Adderory group for customer hijacking, used RegimA brand for fraud",
+        "evidence_enhanced": "2025-12-25T05:38:52.461096",
+        "evidence": [],
+        "ad_res_j7_references": []
       },
       {
         "entity_id": "ORG_012",
@@ -957,7 +972,9 @@
           "CIPC registration 2017/087935/07"
         ],
         "note": "RegimaSA (lowercase 'a') - NOT the same as RegimA SA (capital 'A')",
-        "clarification": "This entity (2017/087935/07) is separate from RegimA SA (Pty) Ltd which was created in 2021"
+        "clarification": "This entity (2017/087935/07) is separate from RegimA SA (Pty) Ltd which was created in 2021",
+        "evidence_enhanced": "2025-12-25T05:38:52.461098",
+        "ad_res_j7_references": []
       },
       {
         "entity_id": "ORG_013",
@@ -986,7 +1003,9 @@
           "closing_balance": 0.0,
           "services": "IT/software services, including Sage accounting",
           "significance": "All debts cleared by Feb 2023"
-        }
+        },
+        "evidence_enhanced": "2025-12-25T05:38:52.461100",
+        "ad_res_j7_references": []
       },
       {
         "entity_id": "ORG_014",
@@ -1004,7 +1023,9 @@
           "Sage screenshot 2025-06-20 - Control User Access",
           "User correction: RegimA SA didn't exist until 2021"
         ],
-        "note": "Capital 'A' in RegimA - different from RegimaSA (lowercase 'a')"
+        "note": "Capital 'A' in RegimA - different from RegimaSA (lowercase 'a')",
+        "evidence_enhanced": "2025-12-25T05:38:52.461101",
+        "ad_res_j7_references": []
       },
       {
         "entity_id": "ORG_015",
@@ -1069,7 +1090,8 @@
           "SF9_Ian_Levitt_Demand_Letter.md - Formal demand documentation"
         ],
         "evidence_strength": "conclusive",
-        "significance": "Establishes quantum and demonstrates ignored formal demand"
+        "significance": "Establishes quantum and demonstrates ignored formal demand",
+        "evidence_enhanced": "2025-12-25T05:38:52.461103"
       }
     ],
     "platforms": [

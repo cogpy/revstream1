@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "14.0_REFINED_2025_12_23",
+    "version": "15.0_REFINED_2025_12_25",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2025-12-23T05:38:10.042331",
-    "changes": "Added ad-res-j7 evidence to 44 relations"
+    "last_updated": "2025-12-25T05:38:52.461134",
+    "changes": "Evidence verification and cross-reference enhancement"
   },
   "relations": {
     "ownership_relations": [
@@ -1432,7 +1432,8 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Comprehensive evidence packages",
           "1-CIVIL-RESPONSE - Evidence documentation"
-        ]
+        ],
+        "evidence_verified": "2025-12-25T05:38:52.461160"
       },
       {
         "relation_id": "REL_024",
@@ -1471,7 +1472,8 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Comprehensive evidence packages",
           "1-CIVIL-RESPONSE - Evidence documentation"
-        ]
+        ],
+        "evidence_verified": "2025-12-25T05:38:52.461162"
       },
       {
         "relation_id": "REL_025",
@@ -1500,7 +1502,8 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Comprehensive evidence packages",
           "1-CIVIL-RESPONSE - Evidence documentation"
-        ]
+        ],
+        "evidence_verified": "2025-12-25T05:38:52.461164"
       },
       {
         "relation_id": "REL_026",
@@ -1529,7 +1532,8 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Comprehensive evidence packages",
           "1-CIVIL-RESPONSE - Evidence documentation"
-        ]
+        ],
+        "evidence_verified": "2025-12-25T05:38:52.461165"
       }
     ],
     "legal_relations": [
@@ -1549,7 +1553,8 @@
         "significance": "Establishes formal legal representation and quantum",
         "ad_res_j7_evidence": [
           "SF9_Ian_Levitt_Demand_Letter.md"
-        ]
+        ],
+        "evidence_verified": "2025-12-25T05:38:52.461167"
       }
     ]
   }
