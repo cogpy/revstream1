@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-12-26",
+    "source": "B2Bhint CIPC Records",
+    "verification_level": "HIGH - Official CIPC data via B2Bhint",
+    "notes": "All data extracted from official South African company registry records"
+  },
+  "companies": {
+    "REGIMA_WORLDWIDE_DISTRIBUTION": {
+      "official_name": "REGIMA WORLDWIDE DISTRIBUTION",
+      "registration_number": "2011/005722/07",
+      "enterprise_number": "M2011005722",
+      "legal_form": "Private company",
+      "incorporation_date": "2011-03-11",
+      "status": "In Business",
+      "subtype": "R10 million but less than R25 million",
+      "vat_number": "9876222150",
+      "legal_address": "20 RIVER ROAD, MORNINGHILL, BEDFORDVIEW, GAUTENG, 2007",
+      "mailing_address": "50 VAN BUUREN ROAD, BEDFORDVIEW, BEDFORDVIEW, GAUTENG, 2008",
+      "officers": [
+        {"name": "Jacqueline Faucitt", "role": "Director"},
+        {"name": "Peter Andrew Faucitt", "role": "Director"}
+      ],
+      "officer_count": 6,
+      "last_updated": "2025-01-04",
+      "source_url": "https://b2bhint.com/en/company/za/regima-worldwide-distribution--M2011005722"
+    },
+    "VILLA_VIA_ARCADIA_NO_2": {
+      "official_name": "VILLA VIA ARCADIA NO 2",
+      "registration_number": "1996/004451",
+      "enterprise_number": "B1996004451",
+      "legal_form": "Close corporation",
+      "incorporation_date": "1996-02-02",
+      "status": "In Business",
+      "subtype": "Less than R1 million",
+      "vat_number": "9636866841",
+      "legal_address": "20 RIVER ROAD, MORNINGHILL, BEDFORDVIEW, GAUTENG, 2007",
+      "mailing_address": "50 VAN BUUREN ROAD, BEDFORDVIEW, BEDFORDVIEW, GAUTENG, 2008",
+      "officers": [
+        {"name": "Jacqueline Faucitt", "role": "Member"},
+        {"name": "Peter Andrew Faucitt", "role": "Member"}
+      ],
+      "officer_count": 4,
+      "last_updated": "2024-07-12",
+      "source_url": "https://b2bhint.com/en/company/za/villa-via-arcadia-no-2--B1996004451"
+    },
+    "REGIMA_SKIN_TREATMENTS": {
+      "official_name": "REGIMA SKIN TREATMENTS",
+      "registration_number": "1992/005371",
+      "enterprise_number": "B1992005371",
+      "legal_form": "Close corporation",
+      "incorporation_date": "1992-02-26",
+      "status": "In Business",
+      "subtype": "Less than R1 million",
+      "vat_number": "9052553840",
+      "legal_address": "20 RIVER ROAD, MORNINGHILL, BEDFORDVIEW, GAUTENG, 2007",
+      "mailing_address": "50 VAN BUUREN ROAD, BEDFORDVIEW, BEDFORDVIEW, GAUTENG, 2008",
+      "officers": [
+        {"name": "Peter Andrew Faucitt", "role": "Member"},
+        {"name": "Jacqueline Faucitt", "role": "Member"}
+      ],
+      "officer_count": 4,
+      "last_updated": "2024-12-31",
+      "source_url": "https://b2bhint.com/en/company/za/regima-skin-treatments--B1992005371"
+    },
+    "STRATEGIC_LOGISTICS": {
+      "official_name": "STRATEGIC LOGISTICS",
+      "registration_number": "2008/136496",
+      "enterprise_number": "B2008136496",
+      "legal_form": "Close corporation",
+      "incorporation_date": "2008-06-27",
+      "status": "In Business",
+      "subtype": "Less than R1 million",
+      "vat_number": "9952347152",
+      "legal_address": "20 RIVER ROAD, MORNINGHILL, BEDFORDVIEW, GAUTENG, 2007",
+      "mailing_address": "50 VAN BUUREN ROAD, BEDFORDVIEW, BEDFORDVIEW, GAUTENG, 2008",
+      "officers": [
+        {"name": "Daniel James Faucitt", "role": "Member"},
+        {"name": "Jacqueline Faucitt", "role": "Member"}
+      ],
+      "officer_count": 6,
+      "last_updated": "2024-07-05",
+      "source_url": "https://b2bhint.com/en/company/za/strategic-logistics--B2008136496"
+    },
+    "REZONANCE": {
+      "official_name": "REZONANCE",
+      "registration_number": "2017/081396",
+      "enterprise_number": "K2017081396",
+      "legal_form": "Private company",
+      "incorporation_date": "2017-02-22",
+      "status": "Deregistration due to annual return non compliance",
+      "subtype": "R1 million but less than R10 million",
+      "vat_number": "9251480225",
+      "legal_address": "20 RIVER ROAD, MORNINGHILL, BEDFORDVIEW, GAUTENG, 2007",
+      "mailing_address": "50 VAN BUUREN ROAD, BEDFORDVIEW, BEDFORDVIEW, GAUTENG, 2008",
+      "officers": [
+        {"name": "Daniel James Faucitt", "role": "Director"},
+        {"name": "Kayla Pretorius", "role": "Director"}
+      ],
+      "officer_count": 2,
+      "last_updated": "2025-12-14",
+      "source_url": "https://b2bhint.com/en/company/za/rezonance--K2017081396",
+      "notes": "In process of liquidation as of Dec 14, 2025"
+    },
+    "CORPCLO_2304": {
+      "official_name": "CORPCLO 2304",
+      "registration_number": "2005/014378",
+      "enterprise_number": "B2005014378",
+      "legal_form": "Close corporation",
+      "incorporation_date": "2005-02-07",
+      "status": "In Business",
+      "subtype": "Less than R1 million",
+      "vat_number": "9823660148",
+      "legal_address": "20 RIVER ROAD, MORNINGHILL, BEDFORDVIEW, GAUTENG, 2007",
+      "mailing_address": "50 VAN BUUREN ROAD, BEDFORDVIEW, BEDFORDVIEW, GAUTENG, 2008",
+      "officers": [
+        {"name": "Peter Andrew Faucitt", "role": "Member"},
+        {"name": "Jacqueline Faucitt", "role": "Member"}
+      ],
+      "officer_count": 4,
+      "last_updated": "2024-05-18",
+      "source_url": "https://b2bhint.com/en/company/za/corpclo-2304--B2005014378"
+    }
+  },
+  "individuals": {
+    "PETER_ANDREW_FAUCITT": {
+      "full_name": "Peter Andrew Faucitt",
+      "directorships": [
+        {"company": "REGIMA WORLDWIDE DISTRIBUTION", "role": "Director"},
+        {"company": "REGIMA SA", "role": "Director/Member"},
+        {"company": "VILLA VIA ARCADIA NO 2", "role": "Member"},
+        {"company": "REGIMA SKIN TREATMENTS", "role": "Member"},
+        {"company": "CORPCLO 2304", "role": "Member"},
+        {"company": "REGIMA INTERNATIONAL SKIN TREATMENTS", "role": "Director/Member"},
+        {"company": "CORPCLO 2065", "role": "Member"},
+        {"company": "STRATEGIC LOGISTICS", "role": "Member"},
+        {"company": "REGIMA SPAZONE", "role": "Member"},
+        {"company": "REGIMA MEDIC", "role": "Member"},
+        {"company": "AYMAC INTERNATIONAL", "role": "Member"}
+      ],
+      "source": "B2Bhint CIPC Records"
+    },
+    "JACQUELINE_FAUCITT": {
+      "full_name": "Jacqueline Faucitt",
+      "directorships": [
+        {"company": "REGIMA WORLDWIDE DISTRIBUTION", "role": "Director"},
+        {"company": "VILLA VIA ARCADIA NO 2", "role": "Member"},
+        {"company": "REGIMA SKIN TREATMENTS", "role": "Member"},
+        {"company": "CORPCLO 2304", "role": "Member"},
+        {"company": "REGIMA INTERNATIONAL SKIN TREATMENTS", "role": "Director/Member"},
+        {"company": "CORPCLO 2065", "role": "Member"},
+        {"company": "STRATEGIC LOGISTICS", "role": "Member"},
+        {"company": "REGIMA", "role": "Director/Member"},
+        {"company": "REGIMA SPAZONE", "role": "Member"},
+        {"company": "REGIMA MEDIC", "role": "Member"},
+        {"company": "AYMAC INTERNATIONAL", "role": "Member"}
+      ],
+      "source": "B2Bhint CIPC Records"
+    },
+    "DANIEL_JAMES_FAUCITT": {
+      "full_name": "Daniel James Faucitt",
+      "directorships": [
+        {"company": "REZONANCE", "role": "Director"},
+        {"company": "STRATEGIC LOGISTICS", "role": "Member"},
+        {"company": "JOZI WAY TRADING", "role": "Director/Member"},
+        {"company": "REGIMA ZONE ACADEMY", "role": "Director/Member"},
+        {"company": "REGIMA SA", "role": "Director/Member"},
+        {"company": "PANDAMANIA", "role": "Director/Member"},
+        {"company": "REGIMA ZONE IMPACT", "role": "Director/Member"},
+        {"company": "REGIMA SPAZONE", "role": "Director/Member"},
+        {"company": "REGIMA MEDIC", "role": "Director/Member"},
+        {"company": "REGIMA WORLDWIDE DISTRIBUTION", "role": "Director/Member"},
+        {"company": "AYMAC INTERNATIONAL", "role": "Director/Member"},
+        {"company": "UNICORN DYNAMICS", "role": "Director/Member"},
+        {"company": "REGIMA ZONE", "role": "Director/Member"}
+      ],
+      "source": "B2Bhint CIPC Records",
+      "notes": "Daniel (Jax) has directorships in multiple companies but NOT in Villa Via or Regima Skin Treatments (the older CCs)"
+    }
+  },
+  "key_observations": {
+    "ownership_patterns": [
+      "Peter and Jacqueline are members of the older CCs (Villa Via 1996, Regima Skin Treatments 1992)",
+      "Daniel is NOT a member of Villa Via or Regima Skin Treatments",
+      "Daniel has directorships in newer companies (Strategic Logistics 2008, ReZonance 2017)",
+      "All companies share the same addresses: 20 River Road and 50 Van Buuren Road"
+    ],
+    "trust_ownership_note": "B2Bhint shows individual members/directors, NOT trust ownership. The Trust Deed indicates FFT owns RWD and Villa Via, but CIPC records show Peter/Jacqueline as registered members/directors",
+    "verification_needed": [
+      "Confirm whether Peter/Jacqueline hold shares personally or as nominees for FFT",
+      "Verify actual shareholding structure vs directorship/membership",
+      "Clarify relationship between CIPC registered officers and beneficial ownership through FFT"
+    ]
+  }
+}
