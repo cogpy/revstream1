@@ -1,0 +1,26 @@
+{
+  "analysis_date": "2025-12-05T05:35:55.651591",
+  "entities_version": "24.0",
+  "events_version": "26.0",
+  "relations_version": "20.0",
+  "recommendations": [
+    {
+      "priority": "HIGH",
+      "category": "entities",
+      "issue": "Entity BANK_ACCOUNT_001 (N/A) has no linked events",
+      "action": "Review events and link relevant ones to this entity"
+    },
+    {
+      "priority": "HIGH",
+      "category": "entities",
+      "issue": "Entity BANK_ACCOUNT_002 (N/A) has no linked events",
+      "action": "Review events and link relevant ones to this entity"
+    },
+    {
+      "priority": "HIGH",
+      "category": "entities",
+      "issue": "Entity BANK_ACCOUNT_003 (N/A) has no linked events",
+      "action": "Review events and link relevant ones to this entity"
+    }
+  ]
+}

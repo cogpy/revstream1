@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-12-26T05:36:10.781034",
+  "source_file": "COMPREHENSIVE_ANALYSIS_2025_12_25.json",
+  "output_file": "COMPREHENSIVE_ANALYSIS_2025_12_26.json",
+  "refinements": {
+    "entities_added": [
+      "ORG_011: Elliott Attorneys",
+      "ORG_016: Pottas Attorneys"
+    ],
+    "entities_updated": [],
+    "relations_added": [
+      "REL_LEGAL_001: Elliott Attorneys represents Rynette Farrar",
+      "REL_LEGAL_002: Pottas Attorneys represents Peter Faucitt",
+      "REL_DEFAM_001: Rynette defamation counterclaim against Jacqueline"
+    ],
+    "relations_updated": [],
+    "events_added": [],
+    "events_updated": [],
+    "evidence_added": [],
+    "timeline_updates": [
+      "Added PHASE_009: Legal Escalation"
+    ]
+  },
+  "summary": {
+    "total_entities": 30,
+    "total_relations": 73,
+    "total_events": 77,
+    "total_timeline_phases": 8
+  }
+}

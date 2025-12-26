@@ -1,0 +1,1210 @@
+{
+  "entities": [
+    {
+      "filename": "entities.json",
+      "version": "8.0",
+      "last_updated": "2025-11-18",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 32709,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Correction 2025-11-19: Clarified RegimaSA vs RegimA SA; added new findings from financial documents, Sage screenshots, and Bantjes email"
+    },
+    {
+      "filename": "entities_corrected_2025_12_05.json",
+      "version": "9.1_CORRECTED",
+      "last_updated": "2025-12-05",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 17308,
+      "total_items": 2,
+      "description": "CORRECTED: Enhanced entity model integrating South African company law framework for Revenue Stream Hijacking case 2025-137857",
+      "changes": "CORRECTED: Removed incorrect Daniel Xuereb entity, removed ReZonance involvement, corrected Director B mapping to Jacqui Faucitt (PERSON_004)"
+    },
+    {
+      "filename": "entities_enhanced_2025_12_05.json",
+      "version": "9.0",
+      "last_updated": "2025-12-05",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 18693,
+      "total_items": 2,
+      "description": "Enhanced entity model integrating South African company law framework for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added fiduciary duty violations, dual-director conflicts, Companies Act section mappings, criminal liability elements, and dual-role protections"
+    },
+    {
+      "filename": "entities_evidence_based_2025_12_05.json",
+      "version": "9.3_EVIDENCE_BASED",
+      "last_updated": "2025-12-05T16:00:00Z",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 20011,
+      "total_items": 2,
+      "description": "EVIDENCE-BASED: Entity model focusing solely on provable facts, removing assumptions about Peter's knowledge or instructions to Rynette",
+      "changes": ""
+    },
+    {
+      "filename": "entities_evidence_enhanced_2025_12_08.json",
+      "version": "10.0_EVIDENCE_ENHANCED",
+      "last_updated": "2025-11-11",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 22769,
+      "total_items": 5,
+      "description": "Entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Removed duplicates, added ReZonance, enhanced Bantjies with debt and conflicts, moved Adderory to organizations, enhanced Gee and Bernadine Wright"
+    },
+    {
+      "filename": "entities_final_corrected_2025_12_05.json",
+      "version": "9.2_FINAL_CORRECTED",
+      "last_updated": "2025-12-05T14:30:00Z",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 20138,
+      "total_items": 2,
+      "description": "FINAL CORRECTED: Enhanced entity model integrating South African company law framework for Revenue Stream Hijacking case 2025-137857",
+      "changes": "FINAL CORRECTIONS: Accurate legal scenario mapping verified"
+    },
+    {
+      "filename": "entities_new_evidence_2025_12_09.json",
+      "version": "11.0_NEW_EVIDENCE_2025_12_08",
+      "last_updated": "2025-11-11",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 25123,
+      "total_items": 5,
+      "description": "Entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Removed duplicates, added ReZonance, enhanced Bantjies with debt and conflicts, moved Adderory to organizations, enhanced Gee and Bernadine Wright"
+    },
+    {
+      "filename": "entities_refined.json",
+      "version": "5.0",
+      "last_updated": "2025-11-14",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 23646,
+      "total_items": 6,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added missing entities (TRUST_001, PLATFORM_001, DOMAIN_001, DOMAIN_002), fixed timeline duplicates, added orphaned events"
+    },
+    {
+      "filename": "entities_refined_2025_11_18.json",
+      "version": "9.0",
+      "last_updated": "2025-11-18",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 26205,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-18: Added missing relationships, fixed entity-event inconsistencies, enhanced cross-references"
+    },
+    {
+      "filename": "entities_refined_2025_11_19.json",
+      "version": "9.1",
+      "last_updated": "2025-11-18",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 26164,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-19: Updated cross-references to match fixed event IDs"
+    },
+    {
+      "filename": "entities_refined_2025_11_19_v2.json",
+      "version": "10.0",
+      "last_updated": "2025-11-19",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 26376,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement 2025-11-19: Enhanced cross-references to ad-res-j7, added missing evidence links, improved financial impact tracking"
+    },
+    {
+      "filename": "entities_refined_2025_11_19_v3.json",
+      "version": "11.0",
+      "last_updated": "2025-11-19",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 30770,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement 2025-11-19 v3: Added evidence references to all entities, enhanced ad-res-j7 cross-references"
+    },
+    {
+      "filename": "entities_refined_2025_11_19_v4.json",
+      "version": "12.0",
+      "last_updated": "2025-11-19",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 34920,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement v12: Added all missing evidence_files and ad_res_j7_references"
+    },
+    {
+      "filename": "entities_refined_2025_11_20_v5.json",
+      "version": "12.0",
+      "last_updated": "2025-11-19",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 35804,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement v12: Added all missing evidence_files and ad_res_j7_references"
+    },
+    {
+      "filename": "entities_refined_2025_11_20_v6.json",
+      "version": "13.0",
+      "last_updated": "2025-11-20",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 40899,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added evidence_files and ad_res_j7_references to 6 missing entities (PLATFORM_001, DOMAIN_001, DOMAIN_002, TRUST_001, TRUST_001, BANK_001)"
+    },
+    {
+      "filename": "entities_refined_2025_11_20_v7.json",
+      "version": "14.0",
+      "last_updated": "2025-11-20",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 45876,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement v14: Enhanced application mapping, cross-references, and timeline consistency"
+    },
+    {
+      "filename": "entities_refined_2025_11_21_v8.json",
+      "version": "15.0",
+      "last_updated": "2025-11-21T05:34:42.873679",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 46218,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-21: Fixed entities consistency issues and enhanced evidence references"
+    },
+    {
+      "filename": "entities_refined_2025_11_22_v9.json",
+      "version": "16.0",
+      "last_updated": "2025-11-22T05:35:28.201305",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 46390,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-22: Added timeline events for PERSON_006 (Linda), enhanced evidence cross-references"
+    },
+    {
+      "filename": "entities_refined_2025_11_23_v10.json",
+      "version": "17.0",
+      "last_updated": "2025-11-23T05:37:29.461536",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 52589,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-23: Enhanced evidence cross-references, improved GitHub Pages links, verified all ad-res-j7 references"
+    },
+    {
+      "filename": "entities_refined_2025_11_25_v11.json",
+      "version": "18.0",
+      "last_updated": "2025-11-25T05:35:26.453615",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 64112,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-25: Enhanced GitHub Pages references, added direct evidence URLs, validated cross-references"
+    },
+    {
+      "filename": "entities_refined_2025_11_25_v19.json",
+      "version": "19.0",
+      "last_updated": "2025-11-25",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 65877,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-25: Enhanced GitHub Pages references, added direct evidence URLs, validated cross-references"
+    },
+    {
+      "filename": "entities_refined_2025_11_26_v20.json",
+      "version": "20.0",
+      "last_updated": "2025-11-26",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 86436,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-26: Enhanced evidence links, added GitHub Pages URLs, validated cross-references with ad-res-j7"
+    },
+    {
+      "filename": "entities_refined_2025_11_26_v21.json",
+      "version": "21.0",
+      "last_updated": "2025-11-26",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 89087,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added Elliott Attorneys and Pottas Attorneys entities (2025-11-26)"
+    },
+    {
+      "filename": "entities_refined_2025_11_26_v22.json",
+      "version": "22.0",
+      "last_updated": "2025-11-26",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 89485,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "CORRECTED legal representation: Elliott represents Peter & Rynette, Pottas represents Jax & Dan (2025-11-26)"
+    },
+    {
+      "filename": "entities_refined_2025_11_27_v22.json",
+      "version": "22.0",
+      "last_updated": "2025-11-26",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 89087,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added Elliott Attorneys and Pottas Attorneys entities (2025-11-26)"
+    },
+    {
+      "filename": "entities_refined_2025_11_28_v23.json",
+      "version": "23.0",
+      "last_updated": "2025-11-28",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 89045,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Enhanced ad-res-j7 cross-references (2025-11-28)"
+    },
+    {
+      "filename": "entities_refined_2025_12_04_v24.json",
+      "version": "24.0",
+      "last_updated": "2025-12-04",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 89346,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Linked 5 orphaned events to entities (2025-12-04)"
+    },
+    {
+      "filename": "entities_refined_2025_12_05_v25.json",
+      "version": "25.0",
+      "last_updated": "2025-12-05",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 90789,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Linked bank accounts to events, enhanced evidence references (2025-12-05)"
+    },
+    {
+      "filename": "entities_refined_2025_12_06_v26.json",
+      "version": "26.0",
+      "last_updated": "2025-12-06",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 91566,
+      "total_items": 7,
+      "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added controlled_by information to bank accounts, standardized phase naming (2025-12-06)"
+    },
+    {
+      "filename": "entities_refined_2025_12_07_v27.json",
+      "version": "9.3_REFINED_2025_12_07",
+      "last_updated": "2025-12-07T05:33:48.064851",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 20410,
+      "total_items": 2,
+      "description": "FINAL CORRECTED: Enhanced entity model integrating South African company law framework for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added missing organizations, enhanced evidence references"
+    },
+    {
+      "filename": "entities_refined_2025_12_09_v28.json",
+      "version": "12.0",
+      "last_updated": "2025-12-09T02:44:08.890867",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 25764,
+      "total_items": 5,
+      "description": "Entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added evidence_strength to 18 entities, updated domain entities with actual names and details"
+    },
+    {
+      "filename": "entities_refined_2025_12_09_v29.json",
+      "version": "29.0",
+      "last_updated": "2025-12-09T05:35:03.770015",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 26695,
+      "total_items": 5,
+      "description": "Entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added SF9 R63M quantum to PERSON_001 and PERSON_005"
+    },
+    {
+      "filename": "entities_refined_2025_12_10_v14.json",
+      "version": "14.0_REFINED_2025_12_10",
+      "last_updated": "2025-12-10T05:34:51.527869",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 33802,
+      "total_items": 5,
+      "description": "Entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added evidence for Gee and Bernadine Wright, added criminal liability for Danie Bantjies"
+    },
+    {
+      "filename": "entities_refined_2025_12_11_v15.json",
+      "version": "15.0_REFINED_2025_12_11",
+      "last_updated": "2025-12-11T05:38:50.108225",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 35276,
+      "total_items": 5,
+      "description": "Entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Enhanced evidence cross-references with ad-res-j7 annexures"
+    },
+    {
+      "filename": "entities_sf10_integrated_2025_12_09.json",
+      "version": "13.0_SF10_INTEGRATED_2025_12_08",
+      "last_updated": "2025-11-11",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 32016,
+      "total_items": 5,
+      "description": "Entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Removed duplicates, added ReZonance, enhanced Bantjies with debt and conflicts, moved Adderory to organizations, enhanced Gee and Bernadine Wright"
+    },
+    {
+      "filename": "entities_sf9_integrated_2025_12_09.json",
+      "version": "12.0_SF9_INTEGRATED_2025_12_08",
+      "last_updated": "2025-11-11",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 29053,
+      "total_items": 5,
+      "description": "Entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Removed duplicates, added ReZonance, enhanced Bantjies with debt and conflicts, moved Adderory to organizations, enhanced Gee and Bernadine Wright"
+    },
+    {
+      "filename": "entities_v3_backup.json",
+      "version": "3.0",
+      "last_updated": "2025-11-11",
+      "file_mtime": "2025-12-12T05:33:38.013654",
+      "file_size": 20341,
+      "total_items": 5,
+      "description": "Entity model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Removed duplicates, added ReZonance, enhanced Bantjies with debt and conflicts, moved Adderory to organizations, enhanced Gee and Bernadine Wright"
+    }
+  ],
+  "relations": [
+    {
+      "filename": "relations.json",
+      "version": "6.0",
+      "last_updated": "2025-11-18",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 35532,
+      "total_items": 22,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Correction 2025-11-19: Clarified RegimaSA vs RegimA SA; added new findings from financial documents, Sage screenshots, and Bantjes email"
+    },
+    {
+      "filename": "relations_enhanced_2025_12_05.json",
+      "version": "7.0",
+      "last_updated": "2025-12-05",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 16553,
+      "total_items": 9,
+      "description": "Enhanced relation model integrating South African company law framework for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added dual-director conflict relations, director-employee dual-role relations, instructed fraud chains, oppression relations, and fiduciary breach mappings"
+    },
+    {
+      "filename": "relations_evidence_based_2025_12_05.json",
+      "version": "7.2_EVIDENCE_BASED",
+      "last_updated": "2025-12-05T16:15:00Z",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 12612,
+      "total_items": 6,
+      "description": "EVIDENCE-BASED: Relation model focusing solely on provable facts, removing assumptions about Peter's instructions to Rynette",
+      "changes": ""
+    },
+    {
+      "filename": "relations_final_corrected_2025_12_05.json",
+      "version": "7.1_FINAL_CORRECTED",
+      "last_updated": "2025-12-05T14:45:00Z",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 12172,
+      "total_items": 8,
+      "description": "FINAL CORRECTED: Enhanced relation model integrating South African company law framework for Revenue Stream Hijacking case 2025-137857",
+      "changes": "FINAL CORRECTIONS: Accurate legal scenario mapping verified"
+    },
+    {
+      "filename": "relations_refined_2025_11_18.json",
+      "version": "7.0",
+      "last_updated": "2025-11-18",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 26741,
+      "total_items": 21,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-18: Added evidence to 17 relations, improved consistency"
+    },
+    {
+      "filename": "relations_refined_2025_11_19.json",
+      "version": "7.1",
+      "last_updated": "2025-11-18",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 29813,
+      "total_items": 22,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-18: Added missing evidence references, fixed cross-references, enhanced data quality"
+    },
+    {
+      "filename": "relations_refined_2025_11_19_v2.json",
+      "version": "8.0",
+      "last_updated": "2025-11-19",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 30881,
+      "total_items": 22,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement 2025-11-19: Added missing evidence, enhanced cross-references, improved relation strength indicators"
+    },
+    {
+      "filename": "relations_refined_2025_11_19_v3.json",
+      "version": "9.0",
+      "last_updated": "2025-11-19",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 35514,
+      "total_items": 22,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement 2025-11-19 v3: Enhanced application mappings, added evidence repository links"
+    },
+    {
+      "filename": "relations_refined_2025_11_19_v4.json",
+      "version": "10.0",
+      "last_updated": "2025-11-19",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 41871,
+      "total_items": 22,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement v10: Added all missing application mappings"
+    },
+    {
+      "filename": "relations_refined_2025_11_20_v5.json",
+      "version": "11.0",
+      "last_updated": "2025-11-20",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 41879,
+      "total_items": 22,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement v11: Validated consistency with entities and events"
+    },
+    {
+      "filename": "relations_refined_2025_11_21_v6.json",
+      "version": "12.0",
+      "last_updated": "2025-11-21T05:34:42.873719",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 41909,
+      "total_items": 22,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-21: Fixed relations consistency issues and enhanced evidence references"
+    },
+    {
+      "filename": "relations_refined_2025_11_22_v7.json",
+      "version": "13.0",
+      "last_updated": "2025-11-22T05:35:28.260191",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 42783,
+      "total_items": 22,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-22: Added related events to relations for better cross-referencing"
+    },
+    {
+      "filename": "relations_refined_2025_11_23_v8.json",
+      "version": "14.0",
+      "last_updated": "2025-11-23T05:37:29.527617",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 56301,
+      "total_items": 22,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-23: Enhanced evidence cross-references, improved GitHub Pages links, verified all ad-res-j7 references"
+    },
+    {
+      "filename": "relations_refined_2025_11_25_v16.json",
+      "version": "16.0",
+      "last_updated": "2025-11-25",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 58412,
+      "total_items": 22,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-25: Enhanced GitHub Pages references, validated entity references"
+    },
+    {
+      "filename": "relations_refined_2025_11_25_v9.json",
+      "version": "15.0",
+      "last_updated": "2025-11-25T05:35:26.453615",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 56264,
+      "total_items": 22,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-25: Enhanced GitHub Pages references, validated entity references"
+    },
+    {
+      "filename": "relations_refined_2025_11_26_v17.json",
+      "version": "17.0",
+      "last_updated": "2025-11-26",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 64349,
+      "total_items": 22,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-26: Enhanced evidence links, added relationship visualization URLs"
+    },
+    {
+      "filename": "relations_refined_2025_11_26_v18.json",
+      "version": "18.0",
+      "last_updated": "2025-11-26",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 66392,
+      "total_items": 23,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added legal representation relations for Elliott Attorneys and Pottas Attorneys (2025-11-26)"
+    },
+    {
+      "filename": "relations_refined_2025_11_26_v19.json",
+      "version": "19.0",
+      "last_updated": "2025-11-26",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 68315,
+      "total_items": 23,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "CORRECTED legal representation relations and added missing relations (2025-11-26)"
+    },
+    {
+      "filename": "relations_refined_2025_11_27_v19.json",
+      "version": "19.0",
+      "last_updated": "2025-11-27",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 89531,
+      "total_items": 23,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added ad_res_j7_evidence links to 66 relations (2025-11-27)"
+    },
+    {
+      "filename": "relations_refined_2025_11_28_v20.json",
+      "version": "20.0",
+      "last_updated": "2025-11-28",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 50495,
+      "total_items": 22,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Enhanced ad-res-j7 cross-references (2025-11-28)"
+    },
+    {
+      "filename": "relations_refined_2025_12_05_v21.json",
+      "version": "21.0",
+      "last_updated": "2025-12-05",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 51573,
+      "total_items": 22,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added bank account control relations, enhanced evidence links (2025-12-05)"
+    },
+    {
+      "filename": "relations_refined_2025_12_07_v22.json",
+      "version": "22.0",
+      "last_updated": "2025-12-07T05:33:48.165922",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 51574,
+      "total_items": 22,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Enhanced evidence references and ad-res-j7 cross-references"
+    },
+    {
+      "filename": "relations_refined_2025_12_09_v23.json",
+      "version": "23.0",
+      "last_updated": "2025-12-09T05:35:03.770043",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 53211,
+      "total_items": 23,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added SF2A/SF2B relations for Rynette's control and impersonation"
+    },
+    {
+      "filename": "relations_refined_2025_12_10_v24.json",
+      "version": "24.0",
+      "last_updated": "2025-12-10T05:34:51.527908",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 54000,
+      "total_items": 23,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Enhanced with SF evidence cross-references"
+    },
+    {
+      "filename": "relations_refined_2025_12_11_v25.json",
+      "version": "25.0",
+      "last_updated": "2025-12-11T05:38:50.112294",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 54007,
+      "total_items": 23,
+      "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Enhanced evidence cross-references with ad-res-j7"
+    }
+  ],
+  "events": [
+    {
+      "filename": "events_refined_2025_12_07_v29.json",
+      "version": "29.0",
+      "last_updated": "2025-12-07T05:33:48.097300",
+      "file_mtime": "2025-12-12T05:33:38.315216",
+      "file_size": 4987725,
+      "total_items": 77,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added comprehensive evidence references and ad-res-j7 cross-references"
+    },
+    {
+      "filename": "events_refined_2025_12_09_v32.json",
+      "version": "32.0",
+      "last_updated": "2025-12-09T02:43:50.836352",
+      "file_mtime": "2025-12-12T05:33:38.315216",
+      "file_size": 46773,
+      "total_items": 43,
+      "description": "Event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added 'actors' field to all events, classified unknown event types, ensured financial_impact field"
+    },
+    {
+      "filename": "events_refined_2025_12_09_v33.json",
+      "version": "33.0",
+      "last_updated": "2025-12-09T05:35:03.770090",
+      "file_mtime": "2025-12-12T05:33:38.315216",
+      "file_size": 48343,
+      "total_items": 44,
+      "description": "Event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added/updated EVENT_078, EVENT_079, EVENT_080 with SF2A, SF2B, SF9 evidence"
+    },
+    {
+      "filename": "events_refined_2025_12_10_v34.json",
+      "version": "34.0",
+      "last_updated": "2025-12-10T05:34:51.527952",
+      "file_mtime": "2025-12-12T05:33:38.315216",
+      "file_size": 48300,
+      "total_items": 44,
+      "description": "Event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Sorted events chronologically"
+    },
+    {
+      "filename": "events_refined_2025_12_11_v35.json",
+      "version": "35.0",
+      "last_updated": "2025-12-11T05:38:50.109823",
+      "file_mtime": "2025-12-12T05:33:38.315216",
+      "file_size": 59738,
+      "total_items": 44,
+      "description": "Event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Enhanced evidence cross-references and timeline consistency"
+    },
+    {
+      "filename": "events_sf9_integrated_2025_12_09.json",
+      "version": "32_SF9_INTEGRATED_2025_12_08",
+      "last_updated": "2025-11-11",
+      "file_mtime": "2025-12-12T05:33:38.315216",
+      "file_size": 44519,
+      "total_items": 45,
+      "description": "Event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added 13 historical events (2017-2023), added 3 critical 2025 events (Bantjies audit dismissal, domain switch email, trial balance context)"
+    },
+    {
+      "filename": "events_v3_backup.json",
+      "version": "3.0",
+      "last_updated": "2025-11-11",
+      "file_mtime": "2025-12-12T05:33:38.315216",
+      "file_size": 38111,
+      "total_items": 41,
+      "description": "Event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added 13 historical events (2017-2023), added 3 critical 2025 events (Bantjies audit dismissal, domain switch email, trial balance context)"
+    },
+    {
+      "filename": "events_refined_2025_12_06_v28.json",
+      "version": "28.0",
+      "last_updated": "2025-12-06",
+      "file_mtime": "2025-12-12T05:33:38.303027",
+      "file_size": 4962437,
+      "total_items": 77,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Standardized phase naming across all events (2025-12-06)"
+    },
+    {
+      "filename": "events_refined_2025_12_05_v27.json",
+      "version": "27.0",
+      "last_updated": "2025-12-05",
+      "file_mtime": "2025-12-12T05:33:38.282712",
+      "file_size": 4962528,
+      "total_items": 77,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Assigned phases to unassigned events, enhanced evidence links (2025-12-05)"
+    },
+    {
+      "filename": "events_refined_2025_12_04_v26.json",
+      "version": "26.0",
+      "last_updated": "2025-12-04",
+      "file_mtime": "2025-12-12T05:33:38.254272",
+      "file_size": 4961939,
+      "total_items": 77,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Verified all events linked to entities (2025-12-04)"
+    },
+    {
+      "filename": "events_refined_2025_11_28_v25.json",
+      "version": "25.0",
+      "last_updated": "2025-11-28",
+      "file_mtime": "2025-12-12T05:33:38.238020",
+      "file_size": 4954747,
+      "total_items": 77,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Classified missing event phases (2025-11-28)"
+    },
+    {
+      "filename": "events_refined_2025_11_28_v24.json",
+      "version": "24.0",
+      "last_updated": "2025-11-28",
+      "file_mtime": "2025-12-12T05:33:38.225832",
+      "file_size": 4954550,
+      "total_items": 77,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Fixed missing dates, entities, and enhanced evidence links (2025-11-28)"
+    },
+    {
+      "filename": "events_refined_2025_11_27_v23.json",
+      "version": "23.0",
+      "last_updated": "2025-11-27",
+      "file_mtime": "2025-12-12T05:33:38.213643",
+      "file_size": 4960355,
+      "total_items": 77,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added ad_res_j7_evidence links to 77 events (2025-11-27)"
+    },
+    {
+      "filename": "events_refined_2025_11_26_v23.json",
+      "version": "23.0",
+      "last_updated": "2025-11-26",
+      "file_mtime": "2025-12-12T05:33:38.201454",
+      "file_size": 4920768,
+      "total_items": 77,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "CORRECTED legal representation in event descriptions (2025-11-26)"
+    },
+    {
+      "filename": "events_refined_2025_11_26_v22.json",
+      "version": "22.0",
+      "last_updated": "2025-11-26",
+      "file_mtime": "2025-12-12T05:33:38.189265",
+      "file_size": 4920507,
+      "total_items": 77,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added 4 new events: Application 3 dismissal, Rynette legal counsel, Letter of Demand, interdict violations (2025-11-26)"
+    },
+    {
+      "filename": "events_refined_2025_11_26_v21.json",
+      "version": "21.0",
+      "last_updated": "2025-11-26",
+      "file_mtime": "2025-12-12T05:33:38.177077",
+      "file_size": 4914420,
+      "total_items": 73,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-26: Enhanced evidence links, added application cross-references, validated evidence files"
+    },
+    {
+      "filename": "events_refined_2025_11_25_v20.json",
+      "version": "20.0",
+      "last_updated": "2025-11-25",
+      "file_mtime": "2025-12-12T05:33:38.160825",
+      "file_size": 4886194,
+      "total_items": 73,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-25: Enhanced GitHub Pages references, added direct evidence URLs, validated cross-references"
+    },
+    {
+      "filename": "events_refined_2025_11_25_v12.json",
+      "version": "19.0",
+      "last_updated": "2025-11-25T05:35:26.453615",
+      "file_mtime": "2025-12-12T05:33:38.148636",
+      "file_size": 4889499,
+      "total_items": 69,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-25: Enhanced GitHub Pages references, added direct evidence URLs, validated cross-references"
+    },
+    {
+      "filename": "events_refined_2025_11_23_v11.json",
+      "version": "18.0",
+      "last_updated": "2025-11-23T05:37:29.481550",
+      "file_mtime": "2025-12-12T05:33:38.136447",
+      "file_size": 4843496,
+      "total_items": 69,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-23: Enhanced evidence cross-references, improved GitHub Pages links, verified all ad-res-j7 references"
+    },
+    {
+      "filename": "events_refined_2025_11_22_v10.json",
+      "version": "17.0",
+      "last_updated": "2025-11-22T05:35:28.222417",
+      "file_mtime": "2025-12-12T05:33:38.124259",
+      "file_size": 4824070,
+      "total_items": 69,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-22: Added missing financial impact and legal significance to events"
+    },
+    {
+      "filename": "events_refined_2025_11_21_v9.json",
+      "version": "14.0",
+      "last_updated": "2025-11-21T05:34:42.873711",
+      "file_mtime": "2025-12-12T05:33:38.112070",
+      "file_size": 4824071,
+      "total_items": 69,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-21: Fixed events consistency issues and enhanced evidence references"
+    },
+    {
+      "filename": "events_refined_2025_11_20_v8.json",
+      "version": "13.0",
+      "last_updated": "2025-11-20T08:21:54.970855",
+      "file_mtime": "2025-12-12T05:33:38.095818",
+      "file_size": 4824061,
+      "total_items": 69,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement v13: Enhanced application mapping and categorization"
+    },
+    {
+      "filename": "events_refined_2025_11_20_v7.json",
+      "version": "12.0",
+      "last_updated": "2025-11-20T06:28:37.539011",
+      "file_mtime": "2025-12-12T05:33:38.083630",
+      "file_size": 4812813,
+      "total_items": 69,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Updated categorization for 138 fields"
+    },
+    {
+      "filename": "events_refined_2025_11_20_v6.json",
+      "version": "12.0",
+      "last_updated": "2025-11-19",
+      "file_mtime": "2025-12-12T05:33:38.075489",
+      "file_size": 4815299,
+      "total_items": 69,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement v12: Added all missing application mappings"
+    },
+    {
+      "filename": "events_refined_2025_11_20_v5.json",
+      "version": "12.0",
+      "last_updated": "2025-11-19",
+      "file_mtime": "2025-12-12T05:33:38.054878",
+      "file_size": 4815299,
+      "total_items": 69,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement v12: Added all missing application mappings"
+    },
+    {
+      "filename": "events.json",
+      "version": "8.0",
+      "last_updated": "2025-11-18",
+      "file_mtime": "2025-12-12T05:33:38.017777",
+      "file_size": 68019,
+      "total_items": 68,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Correction 2025-11-19: Clarified RegimaSA vs RegimA SA; added new findings from financial documents, Sage screenshots, and Bantjes email"
+    },
+    {
+      "filename": "events_evidence_enhanced_2025_12_08.json",
+      "version": "30_EVIDENCE_ENHANCED",
+      "last_updated": "2025-11-11",
+      "file_mtime": "2025-12-12T05:33:38.017777",
+      "file_size": 39209,
+      "total_items": 41,
+      "description": "Event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added 13 historical events (2017-2023), added 3 critical 2025 events (Bantjies audit dismissal, domain switch email, trial balance context)"
+    },
+    {
+      "filename": "events_new_evidence_2025_12_09.json",
+      "version": "31_NEW_EVIDENCE_2025_12_08",
+      "last_updated": "2025-11-11",
+      "file_mtime": "2025-12-12T05:33:38.017777",
+      "file_size": 41724,
+      "total_items": 43,
+      "description": "Event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added 13 historical events (2017-2023), added 3 critical 2025 events (Bantjies audit dismissal, domain switch email, trial balance context)"
+    },
+    {
+      "filename": "events_refined.json",
+      "version": "6.0",
+      "last_updated": "2025-11-16",
+      "file_mtime": "2025-12-12T05:33:38.017777",
+      "file_size": 74364,
+      "total_items": 53,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Converted all financial_impact fields to structured schema v1.0"
+    },
+    {
+      "filename": "events_refined_2025_11_18.json",
+      "version": "9.0",
+      "last_updated": "2025-11-18",
+      "file_mtime": "2025-12-12T05:33:38.017777",
+      "file_size": 61821,
+      "total_items": 62,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-18: Enhanced with forensic events data from ad-res-j7, added Shopify connections, improved evidence references"
+    },
+    {
+      "filename": "events_refined_2025_11_19.json",
+      "version": "9.1",
+      "last_updated": "2025-11-19",
+      "file_mtime": "2025-12-12T05:33:38.017777",
+      "file_size": 69306,
+      "total_items": 69,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-19: Fixed all duplicate event IDs with truly unique identifiers"
+    },
+    {
+      "filename": "events_refined_2025_11_19_v2.json",
+      "version": "10.0",
+      "last_updated": "2025-11-19",
+      "file_mtime": "2025-12-12T05:33:38.017777",
+      "file_size": 76230,
+      "total_items": 69,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement 2025-11-19: Added missing perpetrators, enhanced evidence references, linked to ad-res-j7 extended evidence"
+    },
+    {
+      "filename": "events_refined_2025_11_19_v3.json",
+      "version": "11.0",
+      "last_updated": "2025-11-19",
+      "file_mtime": "2025-12-12T05:33:38.017777",
+      "file_size": 81487,
+      "total_items": 69,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement 2025-11-19 v3: Added perpetrators to all events, enhanced application mappings"
+    },
+    {
+      "filename": "events_refined_2025_11_19_v4.json",
+      "version": "12.0",
+      "last_updated": "2025-11-19",
+      "file_mtime": "2025-12-12T05:33:38.017777",
+      "file_size": 82267,
+      "total_items": 69,
+      "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement v12: Added all missing application mappings"
+    }
+  ],
+  "timelines": [
+    {
+      "filename": "timeline_refined_2025_12_06_v19.json",
+      "version": "19.0",
+      "last_updated": "2025-12-06",
+      "file_mtime": "2025-12-12T05:33:38.335530",
+      "file_size": 4743655,
+      "total_items": 0,
+      "description": "Enhanced timeline for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Standardized phase naming across all timeline entries (2025-12-06)"
+    },
+    {
+      "filename": "timeline_refined_2025_12_07_v20.json",
+      "version": "20.0",
+      "last_updated": "2025-12-07T05:33:48.162802",
+      "file_mtime": "2025-12-12T05:33:38.335530",
+      "file_size": 65977,
+      "total_items": 0,
+      "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Rebuilt timeline from events data with evidence references"
+    },
+    {
+      "filename": "timeline_refined_2025_12_09_v21.json",
+      "version": "21.0",
+      "last_updated": "2025-12-09T02:43:18.175388",
+      "file_mtime": "2025-12-12T05:33:38.335530",
+      "file_size": 45793,
+      "total_items": 0,
+      "description": "Timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Generated from events_new_evidence_2025_12_09.json - populated 43 timeline entries"
+    },
+    {
+      "filename": "timeline_refined_2025_12_09_v22.json",
+      "version": "22.0",
+      "last_updated": "2025-12-09T05:35:03.770121",
+      "file_mtime": "2025-12-12T05:33:38.335530",
+      "file_size": 46936,
+      "total_items": 0,
+      "description": "Timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Added timeline entries for EVENT_078, EVENT_079, EVENT_080"
+    },
+    {
+      "filename": "timeline_refined_2025_12_10_v23.json",
+      "version": "23.0",
+      "last_updated": "2025-12-10T05:34:51.527960",
+      "file_mtime": "2025-12-12T05:33:38.335530",
+      "file_size": 46915,
+      "total_items": 0,
+      "description": "Timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Enhanced evidence cross-references"
+    },
+    {
+      "filename": "timeline_refined_2025_12_11_v24.json",
+      "version": "24.0",
+      "last_updated": "2025-12-11T05:38:50.114177",
+      "file_mtime": "2025-12-12T05:33:38.335530",
+      "file_size": 53825,
+      "total_items": 0,
+      "description": "Timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Enhanced evidence cross-references and phase distribution"
+    },
+    {
+      "filename": "timeline_sf9_integrated_2025_12_09.json",
+      "version": "23_SF9_INTEGRATED_2025_12_08",
+      "last_updated": "2025-12-07T05:33:48.162802",
+      "file_mtime": "2025-12-12T05:33:38.335530",
+      "file_size": 72228,
+      "total_items": 0,
+      "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Rebuilt timeline from events data with evidence references"
+    },
+    {
+      "filename": "timeline_refined_2025_12_05_v18.json",
+      "version": "18.0",
+      "last_updated": "2025-12-05",
+      "file_mtime": "2025-12-12T05:33:38.327404",
+      "file_size": 4743730,
+      "total_items": 0,
+      "description": "Enhanced timeline for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Updated with refined phase assignments and entity links (2025-12-05)"
+    },
+    {
+      "filename": "timeline_refined_2025_11_19_v3.json",
+      "version": "10.0",
+      "last_updated": "2025-11-19",
+      "file_mtime": "2025-12-12T05:33:38.323341",
+      "file_size": 25657,
+      "total_items": 0,
+      "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement 2025-11-19 v3: Resolved PHASE_005 duplication, enhanced application mappings"
+    },
+    {
+      "filename": "timeline_refined_2025_11_19_v4.json",
+      "version": "11.0",
+      "last_updated": "2025-11-19",
+      "file_mtime": "2025-12-12T05:33:38.323341",
+      "file_size": 25685,
+      "total_items": 0,
+      "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement v11: Added missing PHASE_000 application mapping"
+    },
+    {
+      "filename": "timeline_refined_2025_11_20_v5.json",
+      "version": "11.0",
+      "last_updated": "2025-11-19",
+      "file_mtime": "2025-12-12T05:33:38.323341",
+      "file_size": 25685,
+      "total_items": 0,
+      "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement v11: Added missing PHASE_000 application mapping"
+    },
+    {
+      "filename": "timeline_refined_2025_11_20_v6.json",
+      "version": "12.0",
+      "last_updated": "2025-11-20",
+      "file_mtime": "2025-12-12T05:33:38.323341",
+      "file_size": 25166,
+      "total_items": 0,
+      "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement v12: Updated phase event lists for complete consistency"
+    },
+    {
+      "filename": "timeline_refined_2025_11_21_v7.json",
+      "version": "13.0",
+      "last_updated": "2025-11-21T05:34:42.873714",
+      "file_mtime": "2025-12-12T05:33:38.323341",
+      "file_size": 25191,
+      "total_items": 0,
+      "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-21: Fixed timeline consistency issues and enhanced evidence references"
+    },
+    {
+      "filename": "timeline_refined_2025_11_22_v8.json",
+      "version": "14.0",
+      "last_updated": "2025-11-22T05:35:28.261772",
+      "file_mtime": "2025-12-12T05:33:38.323341",
+      "file_size": 25173,
+      "total_items": 0,
+      "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-22: Enhanced phase descriptions and cross-references"
+    },
+    {
+      "filename": "timeline_refined_2025_11_23_v9.json",
+      "version": "15.0",
+      "last_updated": "2025-11-23T05:37:29.529323",
+      "file_mtime": "2025-12-12T05:33:38.323341",
+      "file_size": 26967,
+      "total_items": 0,
+      "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-23: Enhanced evidence cross-references, improved GitHub Pages links, verified all ad-res-j7 references"
+    },
+    {
+      "filename": "timeline_refined_2025_11_25_v10.json",
+      "version": "16.0",
+      "last_updated": "2025-11-25T05:35:26.453615",
+      "file_mtime": "2025-12-12T05:33:38.323341",
+      "file_size": 26939,
+      "total_items": 0,
+      "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-25: Enhanced evidence links, added comprehensive evidence index references"
+    },
+    {
+      "filename": "timeline_refined_2025_11_26_v11.json",
+      "version": "17.0",
+      "last_updated": "2025-11-26",
+      "file_mtime": "2025-12-12T05:33:38.323341",
+      "file_size": 29367,
+      "total_items": 0,
+      "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-26: Enhanced phase evidence links, added interactive timeline URL"
+    },
+    {
+      "filename": "timeline_enhanced.json",
+      "version": "6.0",
+      "last_updated": "2025-11-18",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 24602,
+      "total_items": 0,
+      "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Integration 2025-11-19: Added RegimaSA (Pty) Ltd 2019 financial statements findings"
+    },
+    {
+      "filename": "timeline_enhanced_2025_11_21.json",
+      "version": "13.0",
+      "last_updated": "2025-11-21T05:34:42.873714",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 28146,
+      "total_items": 0,
+      "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-21: Fixed timeline consistency issues and enhanced evidence references"
+    },
+    {
+      "filename": "timeline_evidence_enhanced_2025_12_08.json",
+      "version": "21_EVIDENCE_ENHANCED",
+      "last_updated": "2025-12-07T05:33:48.162802",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 67248,
+      "total_items": 0,
+      "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Rebuilt timeline from events data with evidence references"
+    },
+    {
+      "filename": "timeline_new_evidence_2025_12_09.json",
+      "version": "22_NEW_EVIDENCE_2025_12_08",
+      "last_updated": "2025-12-07T05:33:48.162802",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 70894,
+      "total_items": 0,
+      "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Rebuilt timeline from events data with evidence references"
+    },
+    {
+      "filename": "timeline_refined_2025_11_18.json",
+      "version": "8.0",
+      "last_updated": "2025-11-18",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 23589,
+      "total_items": 0,
+      "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-18: Verified event-phase consistency, updated event counts"
+    },
+    {
+      "filename": "timeline_refined_2025_11_19.json",
+      "version": "8.1",
+      "last_updated": "2025-11-18",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 24697,
+      "total_items": 0,
+      "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Refinement 2025-11-19: Fixed duplicate event IDs, added missing evidence, updated event count from 62 to 69"
+    },
+    {
+      "filename": "timeline_refined_2025_11_19_v2.json",
+      "version": "9.0",
+      "last_updated": "2025-11-19",
+      "file_mtime": "2025-12-12T05:33:38.319278",
+      "file_size": 25685,
+      "total_items": 0,
+      "description": "Enhanced timeline model for Revenue Stream Hijacking case 2025-137857",
+      "changes": "Comprehensive refinement 2025-11-19: Enhanced phase analysis, added cross-references to ad-res-j7, improved event categorization"
+    }
+  ]
+}

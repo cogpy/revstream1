@@ -1,0 +1,194 @@
+================================================================================
+CURRENT STATE ANALYSIS - REVSTREAM1
+================================================================================
+
+Timestamp: 2025-12-25T05:37:24.734982
+Analysis Date: 2025-12-26 05:33:57
+
+------------------------------------ENTITIES------------------------------------
+Version: 16.0_REFINED_2025_12_24
+Total Count: 28
+  - Persons: 14
+  - Organizations: 14
+
+Persons (14):
+  PERSON_001: Peter Andrew Faucitt
+    Role: primary_perpetrator, Events: 11
+    Evidence Strength: conclusive
+    Financial Impact: R10,269,727.90
+  PERSON_002: Rynette Farrar
+    Role: co_conspirator, Events: 8
+    Evidence Strength: conclusive
+    Financial Impact: R4,276,832.85
+  PERSON_004: Jacqueline Faucitt
+    Role: first_respondent, Events: 0
+    Evidence Strength: conclusive
+  PERSON_005: Daniel James Faucitt
+    Role: second_respondent, Events: 0
+    Evidence Strength: conclusive
+    Financial Impact: N/A
+  PERSON_006: Linda
+    Role: bookkeeper, Events: 0
+    Evidence Strength: documented
+  PERSON_007: Danie Bantjies
+    Role: accountant_and_unknown_trustee, Events: 3
+    Evidence Strength: conclusive
+    Financial Impact: N/A
+  PERSON_008: Kayla
+    Role: estate_creditor, Events: 2
+    Evidence Strength: conclusive
+    Financial Impact: N/A
+  PERSON_009: Gee
+    Role: email_sender_witness, Events: 2
+    Evidence Strength: corroborative
+  PERSON_010: Bernadine Wright
+    Role: financial_professional, Events: 1
+    Evidence Strength: corroborative
+  PERSON_003: Adderory (Rynette's Son)
+    Role: co_conspirator_family_member, Events: 5
+    Evidence Strength: strong
+    Financial Impact: R5,400,000+
+  PERSON_011: Chantal
+    Role: estate_related_party, Events: 2
+    Evidence Strength: corroborative
+  PERSON_012: Jax
+    Role: witness_and_victim, Events: 2
+    Evidence Strength: corroborative
+  PERSON_012: Marisca Meyer
+    Role: Professional Accountant (SA), Events: 0
+    Evidence Strength: corroborative
+  PERSON_013: Kayla Pretorius
+    Role: estate_executor_email_account_holder, Events: 2
+    Evidence Strength: conclusive
+
+Organizations (14):
+  ORG_001: Regima Worldwide Distribution (PTY) LTD
+    Role: third_respondent, Events: 0
+  ORG_002: Regima Skin Treatments CC
+    Role: fourth_respondent, Events: 0
+  ORG_003: RegimA Zone Ltd
+    Role: infrastructure_owner, Events: 0
+  ORG_004: Strategic Logistics Group
+    Role: trust_owned_warehouse_and_logistics, Events: 0
+  ORG_005: Villa Via
+    Role: rental_property_company_wealth_extraction, Events: 0
+  ORG_006: RegimA SA
+    Role: revenue_stream_victim, Events: 0
+  ORG_008: ReZonance (Pty) Ltd
+    Role: it_services_provider_and_creditor, Events: 8
+  ORG_009: Adderory (Pty) Ltd
+    Role: competing_business_fraud_vehicle, Events: 5
+  ORG_010: Adderory Skin (Pty) Ltd
+    Role: competing_business_fraud_vehicle, Events: 3
+  ORG_012: RegimaSA (Pty) Ltd
+    Role: Shell company / Related party entity, Events: 0
+  ORG_013: Unicorn Dynamics (Pty) Ltd
+    Role: Related party entity, Events: 0
+  ORG_014: RegimA SA (Pty) Ltd
+    Role: RegimA Group entity, Events: 0
+  ORG_015: SARS (South African Revenue Service)
+    Role: tax_authority, Events: 1
+  ORG_007: Ian Levitt Attorneys
+    Role: legal_representative, Events: 1
+
+-----------------------------------RELATIONS------------------------------------
+Version: 7.0_EVIDENCE_ENHANCED
+Total Count: 70
+Relation Types: 22
+
+Relations by Type:
+  ownership_relations: 7 relations
+  control_relations: 8 relations
+  conspiracy_relations: 4 relations
+  dependency_relations: 2 relations
+  financial_relations: 11 relations
+  victim_perpetrator_relations: 3 relations
+  employment_relations: 2 relations
+  evidence_destruction_relations: 2 relations
+  temporal_relations: 6 relations
+  debt_relations: 2 relations
+  estate_relations: 1 relations
+  witness_relations: 2 relations
+  conflict_relations: 1 relations
+  email_control_relations: 4 relations
+  trustee_relations: 3 relations
+  beneficiary_relations: 4 relations
+  professional_correspondence_relations: 2 relations
+  capital_extraction_relations: 1 relations
+  inter_company_loan_relations: 2 relations
+  knowledge_acquisition_relations: 1 relations
+  strategic_coordination_relations: 1 relations
+  professional_relations: 1 relations
+
+Sample Relations (first 5):
+  REL_OWN_001: PERSON_005 -> ORG_003
+    Type: owns, Strength: complete_ownership
+  REL_OWN_002: ORG_003 -> PLATFORM_001
+    Type: owns, Strength: complete_ownership
+  REL_CTRL_001: PERSON_001 -> ORG_001
+    Type: controls, Strength: N/A
+  REL_CTRL_002: PERSON_002 -> financial_systems
+    Type: controls, Strength: N/A
+  REL_CONSP_001: PERSON_001 -> PERSON_002
+    Type: co_conspirator, Strength: N/A
+
+-------------------------------------EVENTS-------------------------------------
+Version: 25.0
+Total Count: 77
+
+Event Categories:
+  financial_manipulation: 13
+  revenue_theft: 7
+  trust_violations: 6
+  business_relationship: 4
+  financial_structure: 3
+  accounting_fraud: 3
+  fraud_concealment: 3
+  financial_fraud: 3
+  profit_extraction: 2
+  evidence_documentation: 2
+  debt_accumulation: 2
+  fraud: 2
+  transfer_pricing_fraud: 2
+  evidence_tampering: 2
+  fraud_discovery: 2
+  legal_action: 2
+  conspiracy_preparation: 1
+  debt_management: 1
+  criminal_event: 1
+  estate_exploitation: 1
+  estate_fraud: 1
+  infrastructure_seizure: 1
+  financial_dispute: 1
+  transparency: 1
+  knowledge_acquisition: 1
+  customer_hijacking: 1
+  legal_manipulation: 1
+  perjury: 1
+  legal_misconduct: 1
+  system_control: 1
+  cover_up: 1
+  legal_proceedings: 1
+  legal_response: 1
+  legal_correspondence: 1
+  interdict_violation: 1
+
+Critical Events (first 10):
+  EVENT_H001: 2017-06-30 - First ReZonance Invoice to RST
+    Category: business_relationship, Impact: N/A
+  EVENT_H002: 2017-09-30 - ReZonance Service Expansion
+    Category: business_relationship, Impact: N/A
+  EVENT_H003: 2019-03-01 - Financial Year Commencement RST/SLG
+    Category: financial_structure, Impact: N/A
+  EVENT_H004: 2019-05-01 - Financial Year Commencement Villa Via
+    Category: financial_structure, Impact: N/A
+  EVENT_H005: 2020-02-20 - Multiple Adjusting Journal Entries
+    Category: financial_manipulation, Impact: N/A
+Traceback (most recent call last):
+  File "/home/ubuntu/revstream1/current_state_analysis_2025_12_26.py", line 154, in <module>
+    summary = analyze_current_state()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/revstream1/current_state_analysis_2025_12_26.py", line 89, in analyze_current_state
+    print(f"  {e['event_id']}: {e['date']} - {e['title']}")
+                                              ~^^^^^^^^^
+KeyError: 'title'

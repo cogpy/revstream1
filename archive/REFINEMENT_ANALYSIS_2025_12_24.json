@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "analysis_date": "2025-12-24T05:36:04.420137",
+    "case_number": "2025-137857"
+  },
+  "timeline_analysis": {
+    "missing_in_timeline": [],
+    "missing_in_events": [],
+    "events_by_year": {
+      "2017": 3,
+      "2019": 4,
+      "2020": 11,
+      "2021": 4,
+      "2022": 3,
+      "2023": 4,
+      "2025": 48
+    },
+    "high_evidence_count": 0
+  },
+  "evidence_coverage": {
+    "entities": {
+      "total": 28,
+      "with_evidence": 21,
+      "with_ad_res": 21
+    },
+    "relations": {
+      "total": 75,
+      "with_evidence": 75,
+      "with_ad_res": 75
+    },
+    "events": {
+      "total": 77,
+      "with_evidence": 77,
+      "with_ad_res": 77
+    }
+  }
+}

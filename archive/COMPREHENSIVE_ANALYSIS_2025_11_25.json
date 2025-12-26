@@ -1,0 +1,227 @@
+{
+  "timestamp": "2025-11-25T06:32:04.651894",
+  "entities_analysis": {
+    "total_entities": 27,
+    "entities_by_type": {
+      "persons": 12,
+      "organizations": 9,
+      "platforms": 1,
+      "domains": 2,
+      "trust_entities": 1,
+      "trusts": 1,
+      "bank_accounts": 1
+    },
+    "entities_with_evidence": 27,
+    "entities_with_github_pages": 27,
+    "entities_with_ad_res_j7": 27,
+    "entities_missing_evidence": [],
+    "entities_missing_github_pages": [],
+    "entities_missing_ad_res_j7": []
+  },
+  "events_analysis": {
+    "total_events": 69,
+    "events_by_category": {
+      "business_relationship": 2,
+      "financial_structure": 3,
+      "financial_manipulation": 12,
+      "profit_extraction": 2,
+      "evidence_documentation": 2,
+      "accounting_fraud": 3,
+      "conspiracy_preparation": 1,
+      "debt_accumulation": 2,
+      "debt_management": 1,
+      "criminal_event": 1,
+      "fraud": 2,
+      "estate_exploitation": 1,
+      "estate_fraud": 1,
+      "transfer_pricing_fraud": 2,
+      "revenue_theft": 7,
+      "trust_violations": 6,
+      "infrastructure_seizure": 1,
+      "evidence_tampering": 2,
+      "financial_dispute": 1,
+      "fraud_discovery": 2,
+      "transparency": 1,
+      "fraud_concealment": 3,
+      "knowledge_acquisition": 1,
+      "customer_hijacking": 1,
+      "legal_manipulation": 1,
+      "perjury": 1,
+      "legal_misconduct": 1,
+      "financial_fraud": 3,
+      "legal_action": 2,
+      "system_control": 1
+    },
+    "events_by_phase": {
+      "PHASE_000": 14,
+      "PHASE_005": 9,
+      "unknown": 11,
+      "PHASE_001": 5,
+      "PHASE_002": 5,
+      "PHASE_003": 6,
+      "PHASE_004": 11,
+      "PHASE_006": 8
+    },
+    "events_with_financial_impact": 54,
+    "events_with_evidence": 69,
+    "events_with_github_pages": 69,
+    "events_missing_evidence": [],
+    "events_missing_github_pages": [],
+    "total_financial_impact": 108615605.19,
+    "financial_impact_by_category": {
+      "business_relationship": 100250.8,
+      "financial_manipulation": 11259166.94,
+      "financial_structure": 414334.09,
+      "profit_extraction": 45600000.0,
+      "debt_accumulation": 2006949.27,
+      "debt_management": 40000.0,
+      "criminal_event": 1035000.0,
+      "fraud": 1235361.3399999999,
+      "estate_exploitation": 1035000.0,
+      "transfer_pricing_fraud": 10600000.0,
+      "trust_violations": 2851247.35,
+      "accounting_fraud": 5400000.0,
+      "revenue_theft": 6283295.4,
+      "financial_dispute": 1035000.0,
+      "fraud_discovery": 1035000.0,
+      "fraud_concealment": 18685000.0
+    }
+  },
+  "relations_analysis": {
+    "total_relations": 60,
+    "relations_by_type": {
+      "ownership_relations": 6,
+      "control_relations": 5,
+      "conspiracy_relations": 5,
+      "dependency_relations": 2,
+      "financial_relations": 8,
+      "victim_perpetrator_relations": 3,
+      "employment_relations": 3,
+      "evidence_destruction_relations": 2,
+      "temporal_relations": 6,
+      "debt_relations": 2,
+      "estate_relations": 1,
+      "witness_relations": 2,
+      "conflict_relations": 1,
+      "email_control_relations": 2,
+      "trustee_relations": 2,
+      "beneficiary_relations": 2,
+      "professional_correspondence_relations": 2,
+      "capital_extraction_relations": 1,
+      "inter_company_loan_relations": 2,
+      "knowledge_acquisition_relations": 1,
+      "strategic_coordination_relations": 1,
+      "system_control_relations": 1
+    },
+    "relations_with_evidence": 60,
+    "relations_with_github_pages": 60,
+    "relations_missing_evidence": [],
+    "relations_missing_github_pages": []
+  },
+  "timeline_analysis": {
+    "total_phases": 8,
+    "total_events_in_timeline": 69,
+    "period_start": "2017-06-30",
+    "period_end": "2025-09-11",
+    "phases": [
+      {
+        "phase_id": "PHASE_001",
+        "phase_name": "Foundation Phase",
+        "duration_days": 30,
+        "event_count": 5,
+        "financial_impact": "R8,751,247.35+",
+        "has_github_pages": true,
+        "has_evidence_index": true
+      },
+      {
+        "phase_id": "PHASE_002",
+        "phase_name": "Initial Theft Phase",
+        "duration_days": 14,
+        "event_count": 5,
+        "financial_impact": "R7,418,480.55",
+        "has_github_pages": true,
+        "has_evidence_index": true
+      },
+      {
+        "phase_id": "PHASE_003",
+        "phase_name": "Escalation Phase",
+        "duration_days": 28,
+        "event_count": 6,
+        "financial_impact": "R1,850,000+",
+        "has_github_pages": true,
+        "has_evidence_index": true
+      },
+      {
+        "phase_id": "PHASE_004",
+        "phase_name": "Consolidation Phase",
+        "duration_days": 25,
+        "event_count": 11,
+        "financial_impact": "R3,141,647.70+",
+        "has_github_pages": true,
+        "has_evidence_index": true
+      },
+      {
+        "phase_id": "PHASE_005",
+        "phase_name": "Control Seizure Phase",
+        "duration_days": 18,
+        "event_count": 9,
+        "financial_impact": "unknown_amount",
+        "has_github_pages": true,
+        "has_evidence_index": true
+      },
+      {
+        "phase_id": "PHASE_006",
+        "phase_name": "Cover-up Phase",
+        "duration_days": 33,
+        "event_count": 8,
+        "financial_impact": "unknown_amount",
+        "has_github_pages": true,
+        "has_evidence_index": true
+      },
+      {
+        "phase_id": "PHASE_000",
+        "phase_name": "Historical Foundation Phase",
+        "duration_days": 1645,
+        "event_count": 14,
+        "financial_impact": "R25,106,584.89+ (Villa Via R22.8M + inter-company R2.3M+)",
+        "has_github_pages": true,
+        "has_evidence_index": true
+      },
+      {
+        "phase_id": "PHASE_007",
+        "phase_name": "Debt Accumulation Phase",
+        "duration_days": 568,
+        "event_count": 0,
+        "financial_impact": "R1,035,361.34 debt + R1,235,361.34 false claims",
+        "has_github_pages": true,
+        "has_evidence_index": true
+      }
+    ],
+    "total_financial_impact": 21161375.599999998
+  },
+  "improvements": {
+    "entities": [],
+    "events": [],
+    "relations": [],
+    "timeline": [],
+    "github_pages": [
+      {
+        "type": "organization",
+        "action": "Ensure all application pages have clear evidence references",
+        "priority": "high"
+      },
+      {
+        "type": "cross_reference",
+        "action": "Add direct links to ad-res-j7 evidence files in all documentation",
+        "priority": "high"
+      }
+    ],
+    "cross_references": [
+      {
+        "type": "evidence_validation",
+        "action": "Validate all evidence file paths in ad-res-j7 repository",
+        "priority": "high"
+      }
+    ]
+  }
+}

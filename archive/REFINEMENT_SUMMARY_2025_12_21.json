@@ -1,0 +1,71 @@
+{
+  "date": "2025-12-21T05:35:14.149058",
+  "version": "13.0_REFINED_2025_12_21",
+  "refinements": {
+    "entities": {
+      "updated": [
+        "PERSON_001",
+        "PERSON_002",
+        "PERSON_003"
+      ],
+      "added": [
+        "ORG_007 - Ian Levitt Attorneys"
+      ],
+      "evidence_enhanced": [
+        "SF9 - Ian Levitt demand letter",
+        "SF2 - Sage control screenshots",
+        "SF6 - Kayla estate documentation"
+      ]
+    },
+    "events": {
+      "added": [
+        "EVENT_SF9",
+        "EVENT_SF2A",
+        "EVENT_SF2B"
+      ],
+      "categories": [
+        "legal_action",
+        "identity_fraud",
+        "obstruction_of_access"
+      ]
+    },
+    "relations": {
+      "added": [
+        "REL_ORG007_PERSON001"
+      ],
+      "type": "legal_representation"
+    },
+    "timeline": {
+      "events_added": 3,
+      "date_range": "2025-06-20 to 2025-10-23"
+    }
+  },
+  "evidence_cross_references": {
+    "ad_res_j7_annexures": [
+      "JF01 - Shopify Plus email",
+      "JF02 - Shopify sales reports",
+      "JF03 - Financial records",
+      "JF04 - Bank records",
+      "JF05 - Correspondence evidence",
+      "JF06 - Court documents",
+      "JF07 - Screenshots",
+      "JF08 - Evidence packages",
+      "JF09 - Timeline analysis"
+    ],
+    "supplementary_files": [
+      "SF1 - Bantjies debt",
+      "SF2 - Sage screenshots",
+      "SF3 - Strategic Logistics",
+      "SF4 - SARS audit",
+      "SF5 - Adderory registration",
+      "SF6 - Kayla estate",
+      "SF7 - Court order email seizure",
+      "SF8 - Linda employment",
+      "SF9 - Ian Levitt demand"
+    ]
+  },
+  "burden_of_proof_analysis": {
+    "civil_threshold": "50% - EXCEEDED for all key claims",
+    "criminal_threshold": "95% - EXCEEDED for identity fraud, approaching for financial crimes"
+  }
+}

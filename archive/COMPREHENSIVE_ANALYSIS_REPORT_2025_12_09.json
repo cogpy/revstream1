@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "generated": "2025-12-09T05:33:43.873138",
+    "purpose": "Comprehensive analysis and refinement recommendations",
+    "case_number": "2025-137857"
+  },
+  "current_state": {
+    "entities": {
+      "total_entities": 23,
+      "by_type": {
+        "persons": 9,
+        "organizations": 10,
+        "platforms": 1,
+        "domains": 2,
+        "trust_entities": 1
+      },
+      "evidence_strength": {
+        "strong": 5,
+        "medium": 18,
+        "weak": 0,
+        "none": 0
+      },
+      "missing_evidence": [
+        {
+          "entity_id": "PERSON_004",
+          "name": "Jacqueline Faucitt",
+          "type": "persons"
+        },
+        {
+          "entity_id": "PERSON_006",
+          "name": "Linda",
+          "type": "persons"
+        },
+        {
+          "entity_id": "PERSON_009",
+          "name": "Gee",
+          "type": "persons"
+        },
+        {
+          "entity_id": "PERSON_010",
+          "name": "Bernadine Wright",
+          "type": "persons"
+        },
+        {
+          "entity_id": "ORG_001",
+          "name": "Regima Worldwide Distribution (PTY) LTD",
+          "type": "organizations"
+        },
+        {
+          "entity_id": "ORG_003",
+          "name": "RegimA Zone Ltd",
+          "type": "organizations"
+        },
+        {
+          "entity_id": "ORG_004",
+          "name": "Strategic Logistics Group",
+          "type": "organizations"
+        },
+        {
+          "entity_id": "ORG_005",
+          "name": "Villa Via",
+          "type": "organizations"
+        },
+        {
+          "entity_id": "ORG_006",
+          "name": "RegimA SA",
+          "type": "organizations"
+        },
+        {
+          "entity_id": "ORG_007",
+          "name": "ReZonance",
+          "type": "organizations"
+        },
+        {
+          "entity_id": "ORG_007",
+          "name": "ReZonance",
+          "type": "organizations"
+        },
+        {
+          "entity_id": "ORG_007",
+          "name": "Adderory (Company)",
+          "type": "organizations"
+        },
+        {
+          "entity_id": "ORG_008",
+          "name": "ReZonance (Pty) Ltd",
+          "type": "organizations"
+        },
+        {
+          "entity_id": "PLATFORM_001",
+          "name": "Shopify Platform",
+          "type": "platforms"
+        },
+        {
+          "entity_id": "DOMAIN_001",
+          "name": "UNKNOWN",
+          "type": "domains"
+        },
+        {
+          "entity_id": "DOMAIN_002",
+          "name": "UNKNOWN",
+          "type": "domains"
+        },
+        {
+          "entity_id": "TRUST_001",
+          "name": "Family Trust",
+          "type": "trust_entities"
+        }
+      ],
+      "recommendations": []
+    },
+    "relations": {
+      "total_relations": 72,
+      "by_type": {
+        "ownership_relations": 7,
+        "control_relations": 10,
+        "conspiracy_relations": 4,
+        "dependency_relations": 2,
+        "financial_relations": 11,
+        "victim_perpetrator_relations": 3,
+        "employment_relations": 2,
+        "evidence_destruction_relations": 2,
+        "temporal_relations": 6,
+        "debt_relations": 2,
+        "estate_relations": 1,
+        "witness_relations": 2,
+        "conflict_relations": 1,
+        "email_control_relations": 4,
+        "trustee_relations": 3,
+        "beneficiary_relations": 4,
+        "professional_correspondence_relations": 2,
+        "capital_extraction_relations": 1,
+        "inter_company_loan_relations": 2,
+        "knowledge_acquisition_relations": 1,
+        "strategic_coordination_relations": 1,
+        "professional_relations": 1
+      },
+      "missing_evidence": [],
+      "recommendations": []
+    },
+    "events": {
+      "total_events": 43,
+      "by_category": {
+        "financial_manipulation": 11,
+        "revenue_theft": 7,
+        "transfer_pricing_fraud": 1,
+        "trust_violations": 5,
+        "accounting_fraud": 1,
+        "financial_dispute": 1,
+        "fraud_discovery": 1,
+        "fraud_concealment": 2,
+        "business_relationship": 2,
+        "financial_structure": 2,
+        "profit_extraction": 1,
+        "evidence_documentation": 1,
+        "debt_accumulation": 2,
+        "debt_management": 1,
+        "fraud": 2,
+        "customer_hijacking": 1,
+        "uncategorized": 2
+      },
+      "by_year": {
+        "2025": 30,
+        "2017": 2,
+        "2019": 2,
+        "2020": 4,
+        "2022": 2,
+        "2023": 3
+      },
+      "missing_financial_impact": [
+        {
+          "event_id": "EVENT_001",
+          "title": "RegimA SA Revenue Diversion Started",
+          "date": "2025-03-01"
+        },
+        {
+          "event_id": "EVENT_003",
+          "title": "Two Years Unallocated Expenses Dumped",
+          "date": "2025-03-30"
+        },
+        {
+          "event_id": "EVENT_006",
+          "title": "Unauthorized Beneficiary Changes",
+          "date": "2025-05-02"
+        },
+        {
+          "event_id": "EVENT_010",
+          "title": "Domain Registration (Identity Fraud)",
+          "date": "2025-05-29"
+        },
+        {
+          "event_id": "EVENT_011",
+          "title": "Daniel Finalizes Fraud Reports",
+          "date": "2025-06-06"
+        },
+        {
+          "event_id": "EVENT_012",
+          "title": "Secret Card Cancellations",
+          "date": "2025-06-07"
+        },
+        {
+          "event_id": "EVENT_013",
+          "title": "Systematic Trust Violations",
+          "date": "2025-06-18"
+        },
+        {
+          "event_id": "EVENT_015",
+          "title": "Coordinated Fund Diversions",
+          "date": "2025-06-30"
+        },
+        {
+          "event_id": "EVENT_016",
+          "title": "Warehouse POPI Violations",
+          "date": "2025-07-08"
+        },
+        {
+          "event_id": "EVENT_017",
+          "title": "Account Manipulation",
+          "date": "2025-07-12"
+        },
+        {
+          "event_id": "EVENT_018",
+          "title": "Trust Asset Misappropriation",
+          "date": "2025-07-25"
+        },
+        {
+          "event_id": "EVENT_019",
+          "title": "Trust Breach Evidence",
+          "date": "2025-08-10"
+        },
+        {
+          "event_id": "EVENT_026",
+          "title": "Gee Email Explaining Domain Switch Instruction",
+          "date": "2025-08-15"
+        },
+        {
+          "event_id": "EVENT_020",
+          "title": "Financial Evidence Concealment",
+          "date": "2025-08-20"
+        },
+        {
+          "event_id": "EVENT_021",
+          "title": "Accounts Emptied",
+          "date": "2025-09-11"
+        }
+      ],
+      "missing_evidence": [
+        {
+          "event_id": "EVENT_078",
+          "title": "Sage Accounting System Subscription Expired",
+          "date": "2025-07-23"
+        },
+        {
+          "event_id": "EVENT_079",
+          "title": "Rynette Farrar Dual Account Access - Peter Email Impersonation",
+          "date": "2025-06-20"
+        }
+      ],
+      "recommendations": []
+    },
+    "timeline": {
+      "total_entries": 0,
+      "date_range": "unknown to unknown"
+    }
+  },
+  "improvements": {
+    "entities": [
+      {
+        "priority": "HIGH",
+        "item": "Add SF9 evidence to PERSON_001 (Peter) showing R63M debt",
+        "evidence": "SF9 - Attorney Letter 23 October 2025",
+        "action": "Update PERSON_001 financial_impact with R63M quantum"
+      },
+      {
+        "priority": "HIGH",
+        "item": "Add SF9 evidence to PERSON_005 (Daniel) showing R63M victim amount",
+        "evidence": "SF9 - Attorney Letter 23 October 2025",
+        "action": "Update PERSON_005 financial_impact with R63M quantum"
+      },
+      {
+        "priority": "CRITICAL",
+        "item": "Add SF2A evidence to PERSON_002 (Rynette) for dual account access",
+        "evidence": "SF2A - Sage User Access showing Pete@regima.com account",
+        "action": "Update PERSON_002 criminal_liability with identity_impersonation evidence"
+      },
+      {
+        "priority": "CRITICAL",
+        "item": "Add SF2B evidence to PERSON_002 (Rynette) for subscription control",
+        "evidence": "SF2B - Sage Subscription Expiry showing Rynette as owner",
+        "action": "Update PERSON_002 criminal_liability with obstruction_of_access evidence"
+      },
+      {
+        "priority": "HIGH",
+        "item": "Add SF1A evidence to PERSON_007 (Bantjies) for call option schedule",
+        "evidence": "SF1A - Bantjies Call Option Agreement excerpt",
+        "action": "Update PERSON_007 financial_details with payment schedule"
+      }
+    ],
+    "relations": [
+      {
+        "priority": "HIGH",
+        "item": "Create relation for Rynette's control of Sage subscription",
+        "evidence": "SF2B",
+        "action": "Add REL_CTRL_XXX: PERSON_002 controls SAGE_SUBSCRIPTION"
+      },
+      {
+        "priority": "HIGH",
+        "item": "Create relation for Rynette's dual account access",
+        "evidence": "SF2A",
+        "action": "Add REL_ACCESS_XXX: PERSON_002 impersonates PERSON_001 via Pete@regima.com"
+      }
+    ],
+    "events": [
+      {
+        "priority": "HIGH",
+        "item": "Add event for SF9 attorney letter demand",
+        "evidence": "SF9 - 23 October 2025",
+        "action": "Create EVENT_XXX: R63M Formal Demand by Ian Levitt Attorneys"
+      },
+      {
+        "priority": "CRITICAL",
+        "item": "Add event for Sage subscription expiry",
+        "evidence": "SF2B - 23 July 2025",
+        "action": "Create EVENT_XXX: Sage Account Expiry - Access Obstruction"
+      },
+      {
+        "priority": "HIGH",
+        "item": "Add event for Rynette dual account discovery",
+        "evidence": "SF2A - 20 June 2025",
+        "action": "Create EVENT_XXX: Discovery of Rynette's Dual Account Access"
+      }
+    ],
+    "timeline": [
+      {
+        "priority": "HIGH",
+        "item": "Add timeline entry for SF9 attorney letter",
+        "date": "2025-10-23",
+        "action": "Add formal demand timeline entry"
+      },
+      {
+        "priority": "CRITICAL",
+        "item": "Add timeline entry for Sage expiry",
+        "date": "2025-07-23",
+        "action": "Add obstruction timeline entry"
+      }
+    ],
+    "github_pages": [
+      {
+        "priority": "HIGH",
+        "item": "Update evidence index with SF9, SF10, SF2A, SF2B, SF1A",
+        "action": "Add new annexures to evidence-index-enhanced.md"
+      },
+      {
+        "priority": "HIGH",
+        "item": "Create entity relationship visualization",
+        "action": "Generate mermaid diagram showing all entity relations with evidence links"
+      },
+      {
+        "priority": "MEDIUM",
+        "item": "Update timeline.html with new events",
+        "action": "Regenerate interactive timeline with SF9, SF2A, SF2B events"
+      }
+    ]
+  },
+  "summary": {
+    "total_improvements": 15,
+    "critical_items": 4,
+    "high_priority_items": 10,
+    "medium_priority_items": 1
+  }
+}

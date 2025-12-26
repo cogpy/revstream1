@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "version": "16.0",
+    "created_date": "2025-11-24T05:36:13.450137",
+    "description": "Enhanced timeline summary with narrative analysis"
+  },
+  "executive_summary": {
+    "total_phases": 8,
+    "total_events": 58,
+    "total_financial_impact": "R115,015,600+",
+    "time_span": "2017-06-30 to 2025-09-11",
+    "key_patterns": []
+  },
+  "phase_narratives": [
+    {
+      "phase_id": "PHASE_001",
+      "phase_name": "Foundation Phase",
+      "period": "2025-03-01 to 2025-03-30",
+      "event_count": 5,
+      "financial_impact": "R8,751,247.35+",
+      "narrative": "During the Foundation Phase, spanning 2025-03-01 to 2025-03-30, 5 significant events occurred with a documented financial impact of R8,751,247.35+. The primary objectives during this phase included: establish_trust_manipulation_framework, initiate_revenue_diversion, dump_unallocated_expenses. Key characteristics of this phase include trust_structure_establishment, initial_revenue_diversion, expense_dumping_pressure_tactics. ",
+      "key_events": [
+        "EVENT_001",
+        "EVENT_002",
+        "EVENT_003",
+        "EVENT_024",
+        "EVENT_025"
+      ],
+      "legal_significance": "foundation_for_systematic_fraud",
+      "pattern_analysis": "Establishment of infrastructure for fraud execution"
+    },
+    {
+      "phase_id": "PHASE_002",
+      "phase_name": "Initial Theft Phase",
+      "period": "2025-04-01 to 2025-04-14",
+      "event_count": 5,
+      "financial_impact": "R7,418,480.55",
+      "narrative": "During the Initial Theft Phase, spanning 2025-04-01 to 2025-04-14, 5 significant events occurred with a documented financial impact of R7,418,480.55. The primary objectives during this phase included: redirect_payments, change_bank_accounts, setup_revenue_theft_infrastructure. Key characteristics of this phase include payment_redirection_scheme, bank_account_manipulation, shopify_platform_targeting. ",
+      "key_events": [
+        "EVENT_004",
+        "EVENT_005",
+        "EVENT_029",
+        "EVENT_055",
+        "EVENT_056"
+      ],
+      "legal_significance": "first_documented_acts_in_coordinated_scheme",
+      "pattern_analysis": "Direct implementation of revenue theft mechanisms"
+    },
+    {
+      "phase_id": "PHASE_003",
+      "phase_name": "Escalation Phase",
+      "period": "2025-05-02 to 2025-05-29",
+      "event_count": 6,
+      "financial_impact": "R1,850,000+",
+      "narrative": "During the Escalation Phase, spanning 2025-05-02 to 2025-05-29, 6 significant events occurred with a documented financial impact of R1,850,000+. The primary objectives during this phase included: exclude_beneficiaries, execute_unauthorized_transfers, destroy_audit_trails, register_fraudulent_domain. Key characteristics of this phase include beneficiary_manipulation, confrontation_triggering_retaliation, R850K_unauthorized_transfers. ",
+      "key_events": [
+        "EVENT_006",
+        "EVENT_007",
+        "EVENT_008",
+        "EVENT_009",
+        "EVENT_010"
+      ],
+      "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
+      "pattern_analysis": "Dramatic escalation following confrontation, including critical evidence destruction"
+    },
+    {
+      "phase_id": "PHASE_004",
+      "phase_name": "Consolidation Phase",
+      "period": "2025-06-06 to 2025-06-30",
+      "event_count": 11,
+      "financial_impact": "R3,141,647.70+",
+      "narrative": "During the Consolidation Phase, spanning 2025-06-06 to 2025-06-30, 11 significant events occurred with a documented financial impact of R3,141,647.70+. The primary objectives during this phase included: sabotage_payment_capability, consolidate_email_control, execute_fund_diversions, continue_trust_violations. Key characteristics of this phase include fraud_discovery_by_daniel, secret_card_cancellations, trustee_misconduct. ",
+      "key_events": [
+        "EVENT_011",
+        "EVENT_012",
+        "EVENT_013",
+        "EVENT_014",
+        "EVENT_015"
+      ],
+      "legal_significance": "sophisticated_financial_crime_coordination",
+      "pattern_analysis": "Consolidation of control and sabotage of victim's ability to respond, Bantjies dismisses audit due to R18.685M debt conflict, active customer diversion to fraudulent domain"
+    },
+    {
+      "phase_id": "PHASE_005",
+      "phase_name": "Control Seizure Phase",
+      "period": "2025-07-08 to 2025-07-25",
+      "event_count": 9,
+      "financial_impact": "unknown_amount",
+      "narrative": "During the Control Seizure Phase, spanning 2025-07-08 to 2025-07-25, 9 significant events occurred with a documented financial impact of unknown_amount. The primary objectives during this phase included: shutdown_operations, seize_account_control, misappropriate_trust_assets. Key characteristics of this phase include warehouse_popi_violations, operational_shutdown, account_manipulation. ",
+      "key_events": [
+        "EVENT_016",
+        "EVENT_017",
+        "EVENT_018",
+        "EVENT_D001",
+        "EVENT_D002"
+      ],
+      "legal_significance": "systematic_business_destruction_and_asset_theft",
+      "pattern_analysis": "Complete seizure of operational and financial control"
+    },
+    {
+      "phase_id": "PHASE_006",
+      "phase_name": "Cover-up Phase",
+      "period": "2025-08-10 to 2025-09-11",
+      "event_count": 8,
+      "financial_impact": "unknown_amount",
+      "narrative": "During the Cover-up Phase, spanning 2025-08-10 to 2025-09-11, 8 significant events occurred with a documented financial impact of unknown_amount. The primary objectives during this phase included: conceal_evidence, empty_accounts, demonstrate_ongoing_violations. Key characteristics of this phase include trust_breach_evidence, financial_evidence_concealment, account_draining. ",
+      "key_events": [
+        "EVENT_019",
+        "EVENT_020",
+        "EVENT_021",
+        "EVENT_049",
+        "EVENT_059"
+      ],
+      "legal_significance": "consciousness_of_guilt_through_cover_up_operations",
+      "pattern_analysis": "Systematic cover-up and final financial destruction"
+    },
+    {
+      "phase_id": "PHASE_000",
+      "phase_name": "Historical Foundation Phase",
+      "period": "2017-06-30 to 2021-12-31",
+      "event_count": 14,
+      "financial_impact": "R25,106,584.89+ (Villa Via R22.8M + inter-company R2.3M+)",
+      "narrative": "During the Historical Foundation Phase, spanning 2017-06-30 to 2021-12-31, 14 significant events occurred with a documented financial impact of R25,106,584.89+ (Villa Via R22.8M + inter-company R2.3M+). The primary objectives during this phase included: establish_business_relationships, create_inter_company_financial_structures, establish_profit_extraction_mechanisms, document_financial_system_control. Key characteristics of this phase include rezonance_business_relationship_establishment, inter_company_financial_manipulation, villa_via_capital_extraction_R22.8M. ",
+      "key_events": [
+        "EVENT_048",
+        "EVENT_051",
+        "EVENT_052",
+        "EVENT_053",
+        "EVENT_H001"
+      ],
+      "legal_significance": "foundation_for_systematic_fraud_infrastructure",
+      "pattern_analysis": "Establishment of complex inter-company structures enabling later fraud, Villa Via profit extraction mechanism, Bantjies control over financial systems"
+    },
+    {
+      "phase_id": "PHASE_007",
+      "phase_name": "Debt Accumulation Phase",
+      "period": "2022-03-01 to 2023-09-20",
+      "event_count": 0,
+      "financial_impact": "R1,035,361.34 debt + R1,235,361.34 false claims",
+      "narrative": "During the Debt Accumulation Phase, spanning 2022-03-01 to 2023-09-20, 0 significant events occurred with a documented financial impact of R1,035,361.34 debt + R1,235,361.34 false claims. The primary objectives during this phase included: accumulate_unpaid_debts, create_false_payment_claims, conceal_debt_through_fraud. Key characteristics of this phase include rezonance_debt_accumulation_R1.035M, false_payment_claims_R1.235M, systematic_non_payment_pattern. ",
+      "key_events": [],
+      "legal_significance": "systematic_fraud_pattern_establishment",
+      "pattern_analysis": "Escalation from debt accumulation to outright fraud through false payment claims"
+    }
+  ]
+}

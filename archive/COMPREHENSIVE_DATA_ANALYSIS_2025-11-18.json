@@ -1,0 +1,1873 @@
+{
+  "metadata": {
+    "analysis_date": "2025-11-18T05:36:18.280514",
+    "version": "1.0"
+  },
+  "entity_analysis": {
+    "total_entities": 27,
+    "by_category": {
+      "persons": 12,
+      "organizations": 9,
+      "platforms": 1,
+      "domains": 2,
+      "trust_entities": 1,
+      "trusts": 1,
+      "bank_accounts": 1
+    },
+    "missing_timeline_events": [],
+    "zero_involvement_events": [],
+    "missing_relationships": [
+      {
+        "entity_id": "TRUST_001",
+        "name": "Faucitt Family Trust"
+      },
+      {
+        "entity_id": "BANK_001",
+        "name": "UNKNOWN"
+      }
+    ],
+    "entity_summary": [
+      {
+        "entity_id": "PERSON_001",
+        "name": "Peter Andrew Faucitt",
+        "category": "persons",
+        "agent_type": "antagonist",
+        "involvement_events": 11,
+        "timeline_events_count": 11,
+        "relationships_count": 3
+      },
+      {
+        "entity_id": "PERSON_002",
+        "name": "Rynette Farrar",
+        "category": "persons",
+        "agent_type": "antagonist",
+        "involvement_events": 8,
+        "timeline_events_count": 7,
+        "relationships_count": 3
+      },
+      {
+        "entity_id": "PERSON_004",
+        "name": "Jacqueline Faucitt",
+        "category": "persons",
+        "agent_type": "victim",
+        "involvement_events": 0,
+        "timeline_events_count": 0,
+        "relationships_count": 3
+      },
+      {
+        "entity_id": "PERSON_005",
+        "name": "Daniel James Faucitt",
+        "category": "persons",
+        "agent_type": "victim",
+        "involvement_events": 0,
+        "timeline_events_count": 0,
+        "relationships_count": 4
+      },
+      {
+        "entity_id": "PERSON_006",
+        "name": "Linda",
+        "category": "persons",
+        "agent_type": "neutral",
+        "involvement_events": 0,
+        "timeline_events_count": 0,
+        "relationships_count": 2
+      },
+      {
+        "entity_id": "PERSON_007",
+        "name": "Danie Bantjies",
+        "category": "persons",
+        "agent_type": "antagonist",
+        "involvement_events": 3,
+        "timeline_events_count": 3,
+        "relationships_count": 8
+      },
+      {
+        "entity_id": "PERSON_008",
+        "name": "Kayla",
+        "category": "persons",
+        "agent_type": "victim",
+        "involvement_events": 2,
+        "timeline_events_count": 2,
+        "relationships_count": 2
+      },
+      {
+        "entity_id": "PERSON_009",
+        "name": "Gee",
+        "category": "persons",
+        "agent_type": "neutral",
+        "involvement_events": 2,
+        "timeline_events_count": 1,
+        "relationships_count": 2
+      },
+      {
+        "entity_id": "PERSON_010",
+        "name": "Bernadine Wright",
+        "category": "persons",
+        "agent_type": "neutral",
+        "involvement_events": 1,
+        "timeline_events_count": 1,
+        "relationships_count": 2
+      },
+      {
+        "entity_id": "PERSON_003",
+        "name": "Adderory (Rynette's Son)",
+        "category": "persons",
+        "agent_type": "accomplice",
+        "involvement_events": 5,
+        "timeline_events_count": 4,
+        "relationships_count": 4
+      },
+      {
+        "entity_id": "PERSON_011",
+        "name": "Chantal",
+        "category": "persons",
+        "agent_type": "neutral",
+        "involvement_events": 2,
+        "timeline_events_count": 2,
+        "relationships_count": 2
+      },
+      {
+        "entity_id": "PERSON_012",
+        "name": "Jax",
+        "category": "persons",
+        "agent_type": "neutral",
+        "involvement_events": 2,
+        "timeline_events_count": 2,
+        "relationships_count": 3
+      },
+      {
+        "entity_id": "ORG_001",
+        "name": "Regima Worldwide Distribution (PTY) LTD",
+        "category": "organizations",
+        "agent_type": "instrument_of_fraud",
+        "involvement_events": 0,
+        "timeline_events_count": 0,
+        "relationships_count": 3
+      },
+      {
+        "entity_id": "ORG_002",
+        "name": "Regima Skin Treatments CC",
+        "category": "organizations",
+        "agent_type": "affected_entity",
+        "involvement_events": 0,
+        "timeline_events_count": 0,
+        "relationships_count": 2
+      },
+      {
+        "entity_id": "ORG_003",
+        "name": "RegimA Zone Ltd",
+        "category": "organizations",
+        "agent_type": "legitimate_business",
+        "involvement_events": 0,
+        "timeline_events_count": 0,
+        "relationships_count": 2
+      },
+      {
+        "entity_id": "ORG_004",
+        "name": "Strategic Logistics Group",
+        "category": "organizations",
+        "agent_type": "victim_entity",
+        "involvement_events": 0,
+        "timeline_events_count": 0,
+        "relationships_count": 8
+      },
+      {
+        "entity_id": "ORG_005",
+        "name": "Villa Via",
+        "category": "organizations",
+        "agent_type": "instrument_of_wealth_transfer",
+        "involvement_events": 0,
+        "timeline_events_count": 0,
+        "relationships_count": 2
+      },
+      {
+        "entity_id": "ORG_006",
+        "name": "RegimA SA",
+        "category": "organizations",
+        "agent_type": "victim_entity",
+        "involvement_events": 0,
+        "timeline_events_count": 1,
+        "relationships_count": 1
+      },
+      {
+        "entity_id": "ORG_008",
+        "name": "ReZonance (Pty) Ltd",
+        "category": "organizations",
+        "agent_type": "victim",
+        "involvement_events": 8,
+        "timeline_events_count": 5,
+        "relationships_count": 3
+      },
+      {
+        "entity_id": "ORG_009",
+        "name": "Adderory (Pty) Ltd",
+        "category": "organizations",
+        "agent_type": "accomplice",
+        "involvement_events": 5,
+        "timeline_events_count": 4,
+        "relationships_count": 6
+      },
+      {
+        "entity_id": "ORG_010",
+        "name": "Adderory Skin (Pty) Ltd",
+        "category": "organizations",
+        "agent_type": "accomplice",
+        "involvement_events": 3,
+        "timeline_events_count": 2,
+        "relationships_count": 4
+      },
+      {
+        "entity_id": "PLATFORM_001",
+        "name": "Shopify Platform",
+        "category": "platforms",
+        "agent_type": "central_infrastructure",
+        "involvement_events": 0,
+        "timeline_events_count": 0,
+        "relationships_count": 3
+      },
+      {
+        "entity_id": "DOMAIN_001",
+        "name": "UNKNOWN",
+        "category": "domains",
+        "agent_type": "legitimate_asset",
+        "involvement_events": 0,
+        "timeline_events_count": 0,
+        "relationships_count": 2
+      },
+      {
+        "entity_id": "DOMAIN_002",
+        "name": "UNKNOWN",
+        "category": "domains",
+        "agent_type": "instrument_of_fraud",
+        "involvement_events": 0,
+        "timeline_events_count": 0,
+        "relationships_count": 3
+      },
+      {
+        "entity_id": "TRUST_001",
+        "name": "Family Trust",
+        "category": "trust_entities",
+        "agent_type": "victim_entity",
+        "involvement_events": 0,
+        "timeline_events_count": 0,
+        "relationships_count": 2
+      },
+      {
+        "entity_id": "TRUST_001",
+        "name": "Faucitt Family Trust",
+        "category": "trusts",
+        "agent_type": "victim_entity",
+        "involvement_events": 0,
+        "timeline_events_count": 0,
+        "relationships_count": 0
+      },
+      {
+        "entity_id": "BANK_001",
+        "name": "UNKNOWN",
+        "category": "bank_accounts",
+        "agent_type": "instrument_of_fraud",
+        "involvement_events": 0,
+        "timeline_events_count": 0,
+        "relationships_count": 0
+      }
+    ]
+  },
+  "event_analysis": {
+    "total_events": 62,
+    "by_category": {
+      "business_relationship": 2,
+      "financial_structure": 3,
+      "financial_manipulation": 12,
+      "profit_extraction": 2,
+      "evidence_documentation": 1,
+      "accounting_fraud": 3,
+      "conspiracy_preparation": 1,
+      "debt_accumulation": 2,
+      "debt_management": 1,
+      "criminal_event": 1,
+      "fraud": 2,
+      "estate_exploitation": 1,
+      "estate_fraud": 1,
+      "transfer_pricing_fraud": 2,
+      "revenue_theft": 7,
+      "trust_violations": 6,
+      "infrastructure_seizure": 1,
+      "evidence_tampering": 2,
+      "financial_dispute": 1,
+      "fraud_discovery": 2,
+      "transparency": 1,
+      "fraud_concealment": 3,
+      "knowledge_acquisition": 1,
+      "customer_hijacking": 1,
+      "legal_manipulation": 1,
+      "perjury": 1,
+      "legal_misconduct": 1
+    },
+    "by_phase": {
+      "PHASE_000": 14,
+      "PHASE_005": 9,
+      "UNASSIGNED": 4,
+      "PHASE_001": 5,
+      "PHASE_002": 5,
+      "PHASE_003": 6,
+      "PHASE_004": 11,
+      "PHASE_006": 8
+    },
+    "missing_perpetrators": [],
+    "missing_victims": [],
+    "missing_financial_impact": [],
+    "event_summary": [
+      {
+        "event_id": "EVENT_H001",
+        "date": "2017-06-30",
+        "title": "First ReZonance Invoice to RST",
+        "category": "business_relationship",
+        "phase": "PHASE_000",
+        "perpetrators_count": 1,
+        "victims_count": 0,
+        "financial_impact": "R250.80"
+      },
+      {
+        "event_id": "EVENT_H002",
+        "date": "2017-09-30",
+        "title": "ReZonance Service Expansion",
+        "category": "business_relationship",
+        "phase": "PHASE_000",
+        "perpetrators_count": 1,
+        "victims_count": 0,
+        "financial_impact": "R100,000+"
+      },
+      {
+        "event_id": "EVENT_H003",
+        "date": "2019-03-01",
+        "title": "Financial Year Commencement RST/SLG",
+        "category": "financial_structure",
+        "phase": "PHASE_000",
+        "perpetrators_count": 2,
+        "victims_count": 0,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_H004",
+        "date": "2019-05-01",
+        "title": "Financial Year Commencement Villa Via",
+        "category": "financial_structure",
+        "phase": "PHASE_000",
+        "perpetrators_count": 2,
+        "victims_count": 0,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_H005",
+        "date": "2020-02-20",
+        "title": "Multiple Adjusting Journal Entries",
+        "category": "financial_manipulation",
+        "phase": "PHASE_000",
+        "perpetrators_count": 3,
+        "victims_count": 2,
+        "financial_impact": "R1,642,000"
+      },
+      {
+        "event_id": "EVENT_051",
+        "date": "2020-02-20",
+        "title": "N/A",
+        "category": "financial_manipulation",
+        "phase": "PHASE_000",
+        "perpetrators_count": 1,
+        "victims_count": 0,
+        "financial_impact": "R1,642,000"
+      },
+      {
+        "event_id": "EVENT_H006",
+        "date": "2020-02-28",
+        "title": "Year-End Adjustments and Interest Payment",
+        "category": "financial_manipulation",
+        "phase": "PHASE_000",
+        "perpetrators_count": 3,
+        "victims_count": 2,
+        "financial_impact": "R1,948,334.09"
+      },
+      {
+        "event_id": "EVENT_052",
+        "date": "2020-02-28",
+        "title": "N/A",
+        "category": "financial_structure",
+        "phase": "PHASE_000",
+        "perpetrators_count": 1,
+        "victims_count": 0,
+        "financial_impact": "R414,334.09"
+      },
+      {
+        "event_id": "EVENT_H007",
+        "date": "2020-04-30",
+        "title": "Villa Via Year-End Profit Extraction",
+        "category": "profit_extraction",
+        "phase": "PHASE_000",
+        "perpetrators_count": 1,
+        "victims_count": 3,
+        "financial_impact": "R22,800,000"
+      },
+      {
+        "event_id": "EVENT_053",
+        "date": "2020-04-30",
+        "title": "N/A",
+        "category": "profit_extraction",
+        "phase": "PHASE_000",
+        "perpetrators_count": 2,
+        "victims_count": 0,
+        "financial_impact": "R22,800,000"
+      },
+      {
+        "event_id": "EVENT_H008",
+        "date": "2020-08-13",
+        "title": "Bantjies Trial Balance Email Distribution",
+        "category": "evidence_documentation",
+        "phase": "PHASE_000",
+        "perpetrators_count": 1,
+        "victims_count": 0,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_048",
+        "date": "2020-08-13",
+        "title": "N/A",
+        "category": "accounting_fraud",
+        "phase": "PHASE_000",
+        "perpetrators_count": 1,
+        "victims_count": 0,
+        "financial_impact": "N/A"
+      },
+      {
+        "event_id": "EVENT_H018",
+        "date": "2020-08-13",
+        "title": "Bantjies Sends Trial Balance Email to Bernadine Wright",
+        "category": "accounting_fraud",
+        "phase": "PHASE_000",
+        "perpetrators_count": 1,
+        "victims_count": 0,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_H009",
+        "date": "2021-04-01",
+        "title": "Adderory Companies Registration - Pre-Planning Phase",
+        "category": "conspiracy_preparation",
+        "phase": "PHASE_000",
+        "perpetrators_count": 2,
+        "victims_count": 0,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_D001",
+        "date": "2022-03-01",
+        "title": "ReZonance Opening Balance Debt",
+        "category": "debt_accumulation",
+        "phase": "PHASE_005",
+        "perpetrators_count": 2,
+        "victims_count": 2,
+        "financial_impact": "R971,587.93"
+      },
+      {
+        "event_id": "EVENT_D002",
+        "date": "2022-07-11",
+        "title": "First Structured Payment to ReZonance",
+        "category": "debt_management",
+        "phase": "PHASE_005",
+        "perpetrators_count": 1,
+        "victims_count": 0,
+        "financial_impact": "R40,000"
+      },
+      {
+        "event_id": "EVENT_H010",
+        "date": "2023-01-01",
+        "title": "Kayla Pretorius Murder",
+        "category": "criminal_event",
+        "phase": "PHASE_005",
+        "perpetrators_count": 1,
+        "victims_count": 1,
+        "financial_impact": "R1,035,000"
+      },
+      {
+        "event_id": "EVENT_D003",
+        "date": "2023-02-28",
+        "title": "ReZonance Final Balance Persistent Debt",
+        "category": "debt_accumulation",
+        "phase": "PHASE_005",
+        "perpetrators_count": 2,
+        "victims_count": 2,
+        "financial_impact": "R1,035,361.34"
+      },
+      {
+        "event_id": "EVENT_D004",
+        "date": "2023-03-15",
+        "title": "False Payment Claim #1 to ReZonance",
+        "category": "fraud",
+        "phase": "PHASE_005",
+        "perpetrators_count": 2,
+        "victims_count": 2,
+        "financial_impact": "R470,000"
+      },
+      {
+        "event_id": "EVENT_D005",
+        "date": "2023-09-20",
+        "title": "False Payment Claim #2 to ReZonance",
+        "category": "fraud",
+        "phase": "PHASE_005",
+        "perpetrators_count": 2,
+        "victims_count": 2,
+        "financial_impact": "R765,361.34"
+      },
+      {
+        "event_id": "EVENT_023",
+        "date": "2025-01-15",
+        "title": "Chantal Letter - Kayla Estate Finalization",
+        "category": "estate_exploitation",
+        "phase": "UNASSIGNED",
+        "perpetrators_count": 1,
+        "victims_count": 1,
+        "financial_impact": "R1,035,000"
+      },
+      {
+        "event_id": "EVENT_054",
+        "date": "2025-01-15",
+        "title": "Chantal Delivers Letter About Kayla Estate Finalization",
+        "category": "estate_fraud",
+        "phase": "UNASSIGNED",
+        "perpetrators_count": 1,
+        "victims_count": 1,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_022",
+        "date": "2025-02-14",
+        "title": "R900,000 Unauthorized Transfers from RegimA SA",
+        "category": "financial_manipulation",
+        "phase": "UNASSIGNED",
+        "perpetrators_count": 1,
+        "victims_count": 1,
+        "financial_impact": "R900,000"
+      },
+      {
+        "event_id": "EVENT_028",
+        "date": "2025-02-25",
+        "title": "R5.2M SLG Stock Missing & Large Invoice",
+        "category": "transfer_pricing_fraud",
+        "phase": "UNASSIGNED",
+        "perpetrators_count": 4,
+        "victims_count": 2,
+        "financial_impact": "R5,200,000"
+      },
+      {
+        "event_id": "EVENT_001",
+        "date": "2025-03-01",
+        "title": "RegimA SA Revenue Diversion Started",
+        "category": "revenue_theft",
+        "phase": "PHASE_001",
+        "perpetrators_count": 2,
+        "victims_count": 1,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_024",
+        "date": "2025-03-01",
+        "title": "R5.4M Stock Disappears from Strategic Logistics",
+        "category": "transfer_pricing_fraud",
+        "phase": "PHASE_001",
+        "perpetrators_count": 4,
+        "victims_count": 2,
+        "financial_impact": "R5,400,000"
+      },
+      {
+        "event_id": "EVENT_002",
+        "date": "2025-03-15",
+        "title": "Trust Structure Establishment",
+        "category": "trust_violations",
+        "phase": "PHASE_001",
+        "perpetrators_count": 1,
+        "victims_count": 2,
+        "financial_impact": "R2,851,247.35"
+      },
+      {
+        "event_id": "EVENT_025",
+        "date": "2025-03-15",
+        "title": "R5.4M Stock Adjustment Processed Without Investigation",
+        "category": "accounting_fraud",
+        "phase": "PHASE_001",
+        "perpetrators_count": 2,
+        "victims_count": 2,
+        "financial_impact": "R5,400,000"
+      },
+      {
+        "event_id": "EVENT_003",
+        "date": "2025-03-30",
+        "title": "Two Years Unallocated Expenses Dumped",
+        "category": "financial_manipulation",
+        "phase": "PHASE_001",
+        "perpetrators_count": 2,
+        "victims_count": 2,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_004",
+        "date": "2025-04-01",
+        "title": "Payment Redirection Scheme",
+        "category": "financial_manipulation",
+        "phase": "PHASE_002",
+        "perpetrators_count": 2,
+        "victims_count": 2,
+        "financial_impact": "R4,276,832.85"
+      },
+      {
+        "event_id": "EVENT_005",
+        "date": "2025-04-14",
+        "title": "Bank Account Change Letter for RegimA Worldwide",
+        "category": "revenue_theft",
+        "phase": "PHASE_002",
+        "perpetrators_count": 1,
+        "victims_count": 2,
+        "financial_impact": "R3,141,647.70"
+      },
+      {
+        "event_id": "EVENT_029",
+        "date": "2025-04-22",
+        "title": "Cloud IT Systems Removal Order",
+        "category": "infrastructure_seizure",
+        "phase": "PHASE_002",
+        "perpetrators_count": 1,
+        "victims_count": 2,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_055",
+        "date": "2025-04-22",
+        "title": "Peter Orders Cloud IT Systems Removal",
+        "category": "evidence_tampering",
+        "phase": "PHASE_002",
+        "perpetrators_count": 1,
+        "victims_count": 1,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_056",
+        "date": "2025-04-30",
+        "title": "Server Missing from Office",
+        "category": "evidence_tampering",
+        "phase": "PHASE_002",
+        "perpetrators_count": 1,
+        "victims_count": 1,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_006",
+        "date": "2025-05-02",
+        "title": "Unauthorized Beneficiary Changes",
+        "category": "trust_violations",
+        "phase": "PHASE_003",
+        "perpetrators_count": 2,
+        "victims_count": 2,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_007",
+        "date": "2025-05-15",
+        "title": "Jacqui Confronts Rynette About R1,035,000 Debt",
+        "category": "financial_dispute",
+        "phase": "PHASE_003",
+        "perpetrators_count": 1,
+        "victims_count": 2,
+        "financial_impact": "R1,035,000"
+      },
+      {
+        "event_id": "EVENT_008",
+        "date": "2025-05-15",
+        "title": "Unauthorized Transfers (R850K+)",
+        "category": "financial_manipulation",
+        "phase": "PHASE_003",
+        "perpetrators_count": 1,
+        "victims_count": 2,
+        "financial_impact": "R850,000"
+      },
+      {
+        "event_id": "EVENT_050",
+        "date": "2025-05-15",
+        "title": "N/A",
+        "category": "fraud_discovery",
+        "phase": "PHASE_003",
+        "perpetrators_count": 1,
+        "victims_count": 0,
+        "financial_impact": "R1,035,000"
+      },
+      {
+        "event_id": "EVENT_009",
+        "date": "2025-05-22",
+        "title": "Shopify Audit Trail Hijacking",
+        "category": "revenue_theft",
+        "phase": "PHASE_003",
+        "perpetrators_count": 1,
+        "victims_count": 3,
+        "financial_impact": "R1,000,000+ monthly"
+      },
+      {
+        "event_id": "EVENT_010",
+        "date": "2025-05-29",
+        "title": "Domain Registration (Identity Fraud)",
+        "category": "revenue_theft",
+        "phase": "PHASE_003",
+        "perpetrators_count": 2,
+        "victims_count": 2,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_011",
+        "date": "2025-06-06",
+        "title": "Daniel Finalizes Fraud Reports",
+        "category": "fraud_discovery",
+        "phase": "PHASE_004",
+        "perpetrators_count": 1,
+        "victims_count": 0,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_057",
+        "date": "2025-06-06",
+        "title": "Daniel Sends Comprehensive Reports to Bantjies",
+        "category": "transparency",
+        "phase": "PHASE_004",
+        "perpetrators_count": 2,
+        "victims_count": 0,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_012",
+        "date": "2025-06-07",
+        "title": "Secret Card Cancellations",
+        "category": "financial_manipulation",
+        "phase": "PHASE_004",
+        "perpetrators_count": 2,
+        "victims_count": 1,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_023",
+        "date": "2025-06-10",
+        "title": "Bantjies Dismisses Audit Request",
+        "category": "fraud_concealment",
+        "phase": "PHASE_004",
+        "perpetrators_count": 1,
+        "victims_count": 3,
+        "financial_impact": "R5,400,000+ concealed"
+      },
+      {
+        "event_id": "EVENT_026",
+        "date": "2025-06-10",
+        "title": "Bantjies Dismisses Audit Request",
+        "category": "fraud_concealment",
+        "phase": "PHASE_004",
+        "perpetrators_count": 1,
+        "victims_count": 2,
+        "financial_impact": "R18,685,000"
+      },
+      {
+        "event_id": "EVENT_047",
+        "date": "2025-06-10",
+        "title": "N/A",
+        "category": "fraud_concealment",
+        "phase": "PHASE_004",
+        "perpetrators_count": 1,
+        "victims_count": 0,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_058",
+        "date": "2025-06-10",
+        "title": "Bantjies Learns of Criminal Matters",
+        "category": "knowledge_acquisition",
+        "phase": "PHASE_004",
+        "perpetrators_count": 1,
+        "victims_count": 0,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_013",
+        "date": "2025-06-18",
+        "title": "Systematic Trust Violations",
+        "category": "trust_violations",
+        "phase": "PHASE_004",
+        "perpetrators_count": 1,
+        "victims_count": 2,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_014",
+        "date": "2025-06-20",
+        "title": "Email Impersonation Pattern and Domain Switch Instruction",
+        "category": "revenue_theft",
+        "phase": "PHASE_004",
+        "perpetrators_count": 1,
+        "victims_count": 2,
+        "financial_impact": "R3,141,647.70"
+      },
+      {
+        "event_id": "EVENT_027",
+        "date": "2025-06-20",
+        "title": "Domain Switch Email Instruction",
+        "category": "customer_hijacking",
+        "phase": "PHASE_004",
+        "perpetrators_count": 1,
+        "victims_count": 2,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_015",
+        "date": "2025-06-30",
+        "title": "Coordinated Fund Diversions",
+        "category": "financial_manipulation",
+        "phase": "PHASE_004",
+        "perpetrators_count": 3,
+        "victims_count": 2,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_016",
+        "date": "2025-07-08",
+        "title": "Warehouse POPI Violations",
+        "category": "revenue_theft",
+        "phase": "PHASE_005",
+        "perpetrators_count": 1,
+        "victims_count": 3,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_017",
+        "date": "2025-07-12",
+        "title": "Account Manipulation",
+        "category": "financial_manipulation",
+        "phase": "PHASE_005",
+        "perpetrators_count": 1,
+        "victims_count": 2,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_018",
+        "date": "2025-07-25",
+        "title": "Trust Asset Misappropriation",
+        "category": "trust_violations",
+        "phase": "PHASE_005",
+        "perpetrators_count": 1,
+        "victims_count": 2,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_019",
+        "date": "2025-08-10",
+        "title": "Trust Breach Evidence",
+        "category": "trust_violations",
+        "phase": "PHASE_006",
+        "perpetrators_count": 1,
+        "victims_count": 2,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_059",
+        "date": "2025-08-11",
+        "title": "Settlement Agreement Signed",
+        "category": "legal_manipulation",
+        "phase": "PHASE_006",
+        "perpetrators_count": 1,
+        "victims_count": 2,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_049",
+        "date": "2025-08-13",
+        "title": "N/A",
+        "category": "trust_violations",
+        "phase": "PHASE_006",
+        "perpetrators_count": 2,
+        "victims_count": 0,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_060",
+        "date": "2025-08-13",
+        "title": "Peter Files Founding Affidavit with Material Non-Disclosures",
+        "category": "perjury",
+        "phase": "PHASE_006",
+        "perpetrators_count": 1,
+        "victims_count": 2,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_026",
+        "date": "2025-08-15",
+        "title": "Gee Email Explaining Domain Switch Instruction",
+        "category": "revenue_theft",
+        "phase": "PHASE_006",
+        "perpetrators_count": 1,
+        "victims_count": 0,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_020",
+        "date": "2025-08-20",
+        "title": "Financial Evidence Concealment",
+        "category": "financial_manipulation",
+        "phase": "PHASE_006",
+        "perpetrators_count": 1,
+        "victims_count": 2,
+        "financial_impact": "unknown_amount"
+      },
+      {
+        "event_id": "EVENT_061",
+        "date": "2025-08-29",
+        "title": "ENS Africa Acknowledges Criminal Matters Then Suppresses",
+        "category": "legal_misconduct",
+        "phase": "PHASE_006",
+        "perpetrators_count": 1,
+        "victims_count": 2,
+        "financial_impact": "unknown"
+      },
+      {
+        "event_id": "EVENT_021",
+        "date": "2025-09-11",
+        "title": "Accounts Emptied",
+        "category": "financial_manipulation",
+        "phase": "PHASE_006",
+        "perpetrators_count": 2,
+        "victims_count": 2,
+        "financial_impact": "unknown_amount"
+      }
+    ]
+  },
+  "relation_analysis": {
+    "total_relations": 54,
+    "by_type": {
+      "ownership_relations": 6,
+      "control_relations": 5,
+      "conspiracy_relations": 4,
+      "dependency_relations": 2,
+      "financial_relations": 6,
+      "victim_perpetrator_relations": 3,
+      "employment_relations": 2,
+      "evidence_destruction_relations": 2,
+      "temporal_relations": 6,
+      "debt_relations": 2,
+      "estate_relations": 1,
+      "witness_relations": 2,
+      "conflict_relations": 1,
+      "email_control_relations": 1,
+      "trustee_relations": 2,
+      "beneficiary_relations": 2,
+      "professional_correspondence_relations": 2,
+      "capital_extraction_relations": 1,
+      "inter_company_loan_relations": 2,
+      "knowledge_acquisition_relations": 1,
+      "strategic_coordination_relations": 1
+    },
+    "missing_evidence": [
+      {
+        "relation_id": "REL_FIN_005",
+        "type": "financial_relations",
+        "source": "director",
+        "target": "director"
+      },
+      {
+        "relation_id": "REL_FIN_006",
+        "type": "financial_relations",
+        "source": "ORG_004",
+        "target": "stock"
+      },
+      {
+        "relation_id": "REL_VP_001",
+        "type": "victim_perpetrator_relations",
+        "source": "PERSON_001",
+        "target": "PERSON_005"
+      },
+      {
+        "relation_id": "REL_VP_002",
+        "type": "victim_perpetrator_relations",
+        "source": "PERSON_002",
+        "target": "PERSON_005"
+      },
+      {
+        "relation_id": "REL_VP_003",
+        "type": "victim_perpetrator_relations",
+        "source": "PERSON_001",
+        "target": "TRUST_001"
+      },
+      {
+        "relation_id": "REL_EMP_001",
+        "type": "employment_relations",
+        "source": "PERSON_006",
+        "target": "regima_group"
+      },
+      {
+        "relation_id": "REL_EMP_002",
+        "type": "employment_relations",
+        "source": "PERSON_006",
+        "target": "PERSON_002"
+      },
+      {
+        "relation_id": "REL_EVID_001",
+        "type": "evidence_destruction_relations",
+        "source": "coordinated_action",
+        "target": "PLATFORM_001"
+      },
+      {
+        "relation_id": "REL_EVID_002",
+        "type": "evidence_destruction_relations",
+        "source": "coordinated_network",
+        "target": "financial_records"
+      },
+      {
+        "relation_id": "REL_TEMP_001",
+        "type": "temporal_relations",
+        "source": "payment_redirection_scheme",
+        "target": "trust_structure_establishment"
+      },
+      {
+        "relation_id": "REL_TEMP_002",
+        "type": "temporal_relations",
+        "source": "bank_account_change",
+        "target": "audit_trail_destruction"
+      },
+      {
+        "relation_id": "REL_TEMP_003",
+        "type": "temporal_relations",
+        "source": "audit_trail_destruction",
+        "target": "financial_evidence_concealment"
+      },
+      {
+        "relation_id": "REL_TEMP_004",
+        "type": "temporal_relations",
+        "source": "EVENT_007",
+        "target": "EVENT_026"
+      },
+      {
+        "relation_id": "REL_TEMP_005",
+        "type": "temporal_relations",
+        "source": "EVENT_026",
+        "target": "EVENT_027"
+      },
+      {
+        "relation_id": "REL_TEMP_006",
+        "type": "temporal_relations",
+        "source": "EVENT_H007",
+        "target": "EVENT_001"
+      },
+      {
+        "relation_id": "REL_WITNESS_001",
+        "type": "witness_relations",
+        "source": "PERSON_009",
+        "target": "DOMAIN_002"
+      },
+      {
+        "relation_id": "REL_WITNESS_002",
+        "type": "witness_relations",
+        "source": "PERSON_010",
+        "target": "PERSON_007"
+      }
+    ],
+    "weak_evidence": [
+      {
+        "relation_id": "REL_CONSP_003",
+        "type": "conspiracy_relations",
+        "strength": "moderate",
+        "source": "PERSON_001",
+        "target": "associates"
+      }
+    ],
+    "relation_summary": [
+      {
+        "relation_id": "REL_OWN_001",
+        "type": "ownership_relations",
+        "source": "PERSON_005",
+        "target": "ORG_003",
+        "evidence_count": 2,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_OWN_002",
+        "type": "ownership_relations",
+        "source": "ORG_003",
+        "target": "PLATFORM_001",
+        "evidence_count": 2,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_OWN_003",
+        "type": "ownership_relations",
+        "source": "ORG_003",
+        "target": "DOMAIN_001",
+        "evidence_count": 2,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_OWN_004",
+        "type": "ownership_relations",
+        "source": "PERSON_003",
+        "target": "DOMAIN_002",
+        "evidence_count": 1,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_OWN_005",
+        "type": "ownership_relations",
+        "source": "director",
+        "target": "ORG_002",
+        "evidence_count": 2,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_OWN_006",
+        "type": "ownership_relations",
+        "source": "director",
+        "target": "ORG_005",
+        "evidence_count": 2,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_CTRL_001",
+        "type": "control_relations",
+        "source": "PERSON_001",
+        "target": "ORG_001",
+        "evidence_count": 2,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_CTRL_002",
+        "type": "control_relations",
+        "source": "PERSON_002",
+        "target": "financial_systems",
+        "evidence_count": 2,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_CTRL_003",
+        "type": "control_relations",
+        "source": "PERSON_005",
+        "target": "PLATFORM_001",
+        "evidence_count": 2,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_CTRL_004",
+        "type": "control_relations",
+        "source": "PERSON_004",
+        "target": "PLATFORM_001",
+        "evidence_count": 2,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_CTRL_005",
+        "type": "control_relations",
+        "source": "PERSON_001",
+        "target": "TRUST_001",
+        "evidence_count": 2,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_CONSP_001",
+        "type": "conspiracy_relations",
+        "source": "PERSON_001",
+        "target": "PERSON_002",
+        "evidence_count": 3,
+        "evidence_strength": "strong"
+      },
+      {
+        "relation_id": "REL_CONSP_002",
+        "type": "conspiracy_relations",
+        "source": "PERSON_002",
+        "target": "PERSON_003",
+        "evidence_count": 1,
+        "evidence_strength": "strong"
+      },
+      {
+        "relation_id": "REL_CONSP_003",
+        "type": "conspiracy_relations",
+        "source": "PERSON_001",
+        "target": "associates",
+        "evidence_count": 2,
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_CONSP_004",
+        "type": "conspiracy_relations",
+        "source": "PERSON_007",
+        "target": "PERSON_001",
+        "evidence_count": 3,
+        "evidence_strength": "strong"
+      },
+      {
+        "relation_id": "REL_DEP_001",
+        "type": "dependency_relations",
+        "source": "ORG_001",
+        "target": "ORG_003",
+        "evidence_count": 3,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_DEP_002",
+        "type": "dependency_relations",
+        "source": "ORG_001",
+        "target": "PLATFORM_001",
+        "evidence_count": 3,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_FIN_001",
+        "type": "financial_relations",
+        "source": "PERSON_002",
+        "target": "bank_accounts",
+        "evidence_count": 3,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_FIN_002",
+        "type": "financial_relations",
+        "source": "PERSON_001",
+        "target": "accounts",
+        "evidence_count": 3,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_FIN_003",
+        "type": "financial_relations",
+        "source": "PLATFORM_001",
+        "target": "ORG_001",
+        "evidence_count": 3,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_FIN_004",
+        "type": "financial_relations",
+        "source": "PERSON_005",
+        "target": "PLATFORM_001",
+        "evidence_count": 3,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_FIN_005",
+        "type": "financial_relations",
+        "source": "director",
+        "target": "director",
+        "evidence_count": 0,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_FIN_006",
+        "type": "financial_relations",
+        "source": "ORG_004",
+        "target": "stock",
+        "evidence_count": 0,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_VP_001",
+        "type": "victim_perpetrator_relations",
+        "source": "PERSON_001",
+        "target": "PERSON_005",
+        "evidence_count": 0,
+        "evidence_strength": "strong"
+      },
+      {
+        "relation_id": "REL_VP_002",
+        "type": "victim_perpetrator_relations",
+        "source": "PERSON_002",
+        "target": "PERSON_005",
+        "evidence_count": 0,
+        "evidence_strength": "strong"
+      },
+      {
+        "relation_id": "REL_VP_003",
+        "type": "victim_perpetrator_relations",
+        "source": "PERSON_001",
+        "target": "TRUST_001",
+        "evidence_count": 0,
+        "evidence_strength": "strong"
+      },
+      {
+        "relation_id": "REL_EMP_001",
+        "type": "employment_relations",
+        "source": "PERSON_006",
+        "target": "regima_group",
+        "evidence_count": 0,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_EMP_002",
+        "type": "employment_relations",
+        "source": "PERSON_006",
+        "target": "PERSON_002",
+        "evidence_count": 0,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_EVID_001",
+        "type": "evidence_destruction_relations",
+        "source": "coordinated_action",
+        "target": "PLATFORM_001",
+        "evidence_count": 0,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_EVID_002",
+        "type": "evidence_destruction_relations",
+        "source": "coordinated_network",
+        "target": "financial_records",
+        "evidence_count": 0,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_TEMP_001",
+        "type": "temporal_relations",
+        "source": "payment_redirection_scheme",
+        "target": "trust_structure_establishment",
+        "evidence_count": 0,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_TEMP_002",
+        "type": "temporal_relations",
+        "source": "bank_account_change",
+        "target": "audit_trail_destruction",
+        "evidence_count": 0,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_TEMP_003",
+        "type": "temporal_relations",
+        "source": "audit_trail_destruction",
+        "target": "financial_evidence_concealment",
+        "evidence_count": 0,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_TEMP_004",
+        "type": "temporal_relations",
+        "source": "EVENT_007",
+        "target": "EVENT_026",
+        "evidence_count": 0,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_TEMP_005",
+        "type": "temporal_relations",
+        "source": "EVENT_026",
+        "target": "EVENT_027",
+        "evidence_count": 0,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_TEMP_006",
+        "type": "temporal_relations",
+        "source": "EVENT_H007",
+        "target": "EVENT_001",
+        "evidence_count": 0,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_DEBT_001",
+        "type": "debt_relations",
+        "source": "PERSON_007",
+        "target": "TRUST_001",
+        "evidence_count": 2,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_DEBT_002",
+        "type": "debt_relations",
+        "source": "ORG_008",
+        "target": "regima_group",
+        "evidence_count": 2,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_ESTATE_001",
+        "type": "estate_relations",
+        "source": "ORG_008",
+        "target": "PERSON_008",
+        "evidence_count": 1,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_WITNESS_001",
+        "type": "witness_relations",
+        "source": "PERSON_009",
+        "target": "DOMAIN_002",
+        "evidence_count": 0,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_WITNESS_002",
+        "type": "witness_relations",
+        "source": "PERSON_010",
+        "target": "PERSON_007",
+        "evidence_count": 0,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_CONFLICT_001",
+        "type": "conflict_relations",
+        "source": "PERSON_007",
+        "target": "N/A",
+        "evidence_count": 4,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_EMAIL_001",
+        "type": "email_control_relations",
+        "source": "PERSON_002",
+        "target": "PERSON_001",
+        "evidence_count": 3,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_TRUSTEE_001",
+        "type": "trustee_relations",
+        "source": "PERSON_001",
+        "target": "TRUST_001",
+        "evidence_count": 2,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_TRUSTEE_002",
+        "type": "trustee_relations",
+        "source": "PERSON_007",
+        "target": "TRUST_001",
+        "evidence_count": 2,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_BENEF_001",
+        "type": "beneficiary_relations",
+        "source": "PERSON_004",
+        "target": "TRUST_001",
+        "evidence_count": 1,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_BENEF_002",
+        "type": "beneficiary_relations",
+        "source": "PERSON_005",
+        "target": "TRUST_001",
+        "evidence_count": 1,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_PROF_001",
+        "type": "professional_correspondence_relations",
+        "source": "PERSON_007",
+        "target": "PERSON_010",
+        "evidence_count": 1,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_PROF_001",
+        "type": "professional_correspondence_relations",
+        "source": "PERSON_007",
+        "target": "PERSON_010",
+        "evidence_count": 1,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_EXTRACT_001",
+        "type": "capital_extraction_relations",
+        "source": "ORG_005",
+        "target": "members",
+        "evidence_count": 1,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_LOAN_001",
+        "type": "inter_company_loan_relations",
+        "source": "N/A",
+        "target": "N/A",
+        "evidence_count": 2,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_LOAN_002",
+        "type": "inter_company_loan_relations",
+        "source": "N/A",
+        "target": "N/A",
+        "evidence_count": 1,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_KNOWLEDGE_001",
+        "type": "knowledge_acquisition_relations",
+        "source": "PERSON_007",
+        "target": "criminal_matters",
+        "evidence_count": 1,
+        "evidence_strength": "unknown"
+      },
+      {
+        "relation_id": "REL_LEGAL_001",
+        "type": "strategic_coordination_relations",
+        "source": "PERSON_001",
+        "target": "settlement_and_interdict",
+        "evidence_count": 2,
+        "evidence_strength": "unknown"
+      }
+    ]
+  },
+  "timeline_analysis": {
+    "total_phases": 8,
+    "phase_summary": [
+      {
+        "phase_id": "PHASE_000",
+        "phase_name": "Historical Foundation Phase",
+        "start_date": "2017-06-30",
+        "end_date": "2021-12-31",
+        "event_count": 22,
+        "events": [
+          "EVENT_048",
+          "EVENT_051",
+          "EVENT_052",
+          "EVENT_053",
+          "EVENT_H001",
+          "EVENT_H002",
+          "EVENT_H003",
+          "EVENT_H004",
+          "EVENT_H005",
+          "EVENT_H006",
+          "EVENT_H007",
+          "EVENT_H008",
+          "EVENT_H009",
+          "EVENT_H010",
+          "EVENT_H011",
+          "EVENT_H012",
+          "EVENT_H013",
+          "EVENT_H014",
+          "EVENT_H015",
+          "EVENT_H016",
+          "EVENT_H017",
+          "EVENT_H018"
+        ]
+      },
+      {
+        "phase_id": "PHASE_005",
+        "phase_name": "Debt Accumulation Phase",
+        "start_date": "2022-03-01",
+        "end_date": "2023-09-20",
+        "event_count": 11,
+        "events": [
+          "EVENT_016",
+          "EVENT_017",
+          "EVENT_018",
+          "EVENT_023",
+          "EVENT_054",
+          "EVENT_D001",
+          "EVENT_D002",
+          "EVENT_D003",
+          "EVENT_D004",
+          "EVENT_D005",
+          "EVENT_H010"
+        ]
+      },
+      {
+        "phase_id": "PHASE_001",
+        "phase_name": "Foundation Phase",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-30",
+        "event_count": 7,
+        "events": [
+          "EVENT_001",
+          "EVENT_002",
+          "EVENT_003",
+          "EVENT_022",
+          "EVENT_024",
+          "EVENT_025",
+          "EVENT_028"
+        ]
+      },
+      {
+        "phase_id": "PHASE_002",
+        "phase_name": "Initial Theft Phase",
+        "start_date": "2025-04-01",
+        "end_date": "2025-04-14",
+        "event_count": 5,
+        "events": [
+          "EVENT_004",
+          "EVENT_005",
+          "EVENT_029",
+          "EVENT_055",
+          "EVENT_056"
+        ]
+      },
+      {
+        "phase_id": "PHASE_003",
+        "phase_name": "Escalation Phase",
+        "start_date": "2025-05-02",
+        "end_date": "2025-05-29",
+        "event_count": 9,
+        "events": [
+          "EVENT_006",
+          "EVENT_007",
+          "EVENT_008",
+          "EVENT_009",
+          "EVENT_010",
+          "EVENT_029",
+          "EVENT_050",
+          "EVENT_055",
+          "EVENT_056"
+        ]
+      },
+      {
+        "phase_id": "PHASE_004",
+        "phase_name": "Consolidation Phase",
+        "start_date": "2025-06-06",
+        "end_date": "2025-06-30",
+        "event_count": 11,
+        "events": [
+          "EVENT_011",
+          "EVENT_012",
+          "EVENT_013",
+          "EVENT_014",
+          "EVENT_015",
+          "EVENT_023",
+          "EVENT_026",
+          "EVENT_027",
+          "EVENT_047",
+          "EVENT_057",
+          "EVENT_058"
+        ]
+      },
+      {
+        "phase_id": "PHASE_005",
+        "phase_name": "Control Seizure Phase",
+        "start_date": "2025-07-08",
+        "end_date": "2025-07-25",
+        "event_count": 10,
+        "events": [
+          "EVENT_016",
+          "EVENT_017",
+          "EVENT_018",
+          "EVENT_047",
+          "EVENT_D001",
+          "EVENT_D002",
+          "EVENT_D003",
+          "EVENT_D004",
+          "EVENT_D005",
+          "EVENT_H010"
+        ]
+      },
+      {
+        "phase_id": "PHASE_006",
+        "phase_name": "Cover-up Phase",
+        "start_date": "2025-08-10",
+        "end_date": "2025-09-11",
+        "event_count": 8,
+        "events": [
+          "EVENT_019",
+          "EVENT_020",
+          "EVENT_021",
+          "EVENT_026",
+          "EVENT_049",
+          "EVENT_059",
+          "EVENT_060",
+          "EVENT_061"
+        ]
+      }
+    ],
+    "event_distribution": {
+      "PHASE_001": 7,
+      "PHASE_002": 5,
+      "PHASE_003": 9,
+      "PHASE_004": 11,
+      "PHASE_005": 11,
+      "PHASE_006": 8,
+      "PHASE_000": 22
+    },
+    "gaps_and_overlaps": [
+      {
+        "between": "Historical Foundation Phase and Debt Accumulation Phase",
+        "current_end": "2021-12-31",
+        "next_start": "2022-03-01"
+      },
+      {
+        "between": "Debt Accumulation Phase and Foundation Phase",
+        "current_end": "2023-09-20",
+        "next_start": "2025-03-01"
+      },
+      {
+        "between": "Foundation Phase and Initial Theft Phase",
+        "current_end": "2025-03-30",
+        "next_start": "2025-04-01"
+      },
+      {
+        "between": "Initial Theft Phase and Escalation Phase",
+        "current_end": "2025-04-14",
+        "next_start": "2025-05-02"
+      },
+      {
+        "between": "Escalation Phase and Consolidation Phase",
+        "current_end": "2025-05-29",
+        "next_start": "2025-06-06"
+      },
+      {
+        "between": "Consolidation Phase and Control Seizure Phase",
+        "current_end": "2025-06-30",
+        "next_start": "2025-07-08"
+      },
+      {
+        "between": "Control Seizure Phase and Cover-up Phase",
+        "current_end": "2025-07-25",
+        "next_start": "2025-08-10"
+      }
+    ]
+  },
+  "cross_reference_analysis": {
+    "entity_event_consistency": [
+      {
+        "issue": "entity_references_nonexistent_event",
+        "entity_id": "PERSON_012",
+        "event_id": "EVENT_H020"
+      },
+      {
+        "issue": "entity_references_nonexistent_event",
+        "entity_id": "PERSON_012",
+        "event_id": "EVENT_H021"
+      },
+      {
+        "issue": "entity_references_nonexistent_event",
+        "entity_id": "ORG_006",
+        "event_id": "diversion_started_2025_03_01"
+      },
+      {
+        "issue": "entity_references_nonexistent_event",
+        "entity_id": "ORG_008",
+        "event_id": "first_invoice_2017_06_30"
+      },
+      {
+        "issue": "entity_references_nonexistent_event",
+        "entity_id": "ORG_008",
+        "event_id": "service_expansion_2017_09_30"
+      },
+      {
+        "issue": "entity_references_nonexistent_event",
+        "entity_id": "ORG_008",
+        "event_id": "debt_accumulation_2022_03_01"
+      },
+      {
+        "issue": "entity_references_nonexistent_event",
+        "entity_id": "ORG_008",
+        "event_id": "false_payment_claims_2023"
+      },
+      {
+        "issue": "entity_references_nonexistent_event",
+        "entity_id": "ORG_008",
+        "event_id": "jax_confrontation_2025_05_15"
+      }
+    ],
+    "event_phase_consistency": [],
+    "relation_entity_consistency": [
+      {
+        "issue": "relation_references_nonexistent_target_entity",
+        "relation_id": "REL_FIN_006",
+        "target_entity": "stock"
+      },
+      {
+        "issue": "relation_references_nonexistent_target_entity",
+        "relation_id": "REL_EMP_001",
+        "target_entity": "regima_group"
+      },
+      {
+        "issue": "relation_references_nonexistent_source_entity",
+        "relation_id": "REL_EVID_001",
+        "source_entity": "coordinated_action"
+      },
+      {
+        "issue": "relation_references_nonexistent_source_entity",
+        "relation_id": "REL_EVID_002",
+        "source_entity": "coordinated_network"
+      },
+      {
+        "issue": "relation_references_nonexistent_target_entity",
+        "relation_id": "REL_EVID_002",
+        "target_entity": "financial_records"
+      },
+      {
+        "issue": "relation_references_nonexistent_source_entity",
+        "relation_id": "REL_TEMP_001",
+        "source_entity": "payment_redirection_scheme"
+      },
+      {
+        "issue": "relation_references_nonexistent_target_entity",
+        "relation_id": "REL_TEMP_001",
+        "target_entity": "trust_structure_establishment"
+      },
+      {
+        "issue": "relation_references_nonexistent_source_entity",
+        "relation_id": "REL_TEMP_002",
+        "source_entity": "bank_account_change"
+      },
+      {
+        "issue": "relation_references_nonexistent_target_entity",
+        "relation_id": "REL_TEMP_002",
+        "target_entity": "audit_trail_destruction"
+      },
+      {
+        "issue": "relation_references_nonexistent_source_entity",
+        "relation_id": "REL_TEMP_003",
+        "source_entity": "audit_trail_destruction"
+      },
+      {
+        "issue": "relation_references_nonexistent_target_entity",
+        "relation_id": "REL_TEMP_003",
+        "target_entity": "financial_evidence_concealment"
+      },
+      {
+        "issue": "relation_references_nonexistent_source_entity",
+        "relation_id": "REL_TEMP_004",
+        "source_entity": "EVENT_007"
+      },
+      {
+        "issue": "relation_references_nonexistent_target_entity",
+        "relation_id": "REL_TEMP_004",
+        "target_entity": "EVENT_026"
+      },
+      {
+        "issue": "relation_references_nonexistent_source_entity",
+        "relation_id": "REL_TEMP_005",
+        "source_entity": "EVENT_026"
+      },
+      {
+        "issue": "relation_references_nonexistent_target_entity",
+        "relation_id": "REL_TEMP_005",
+        "target_entity": "EVENT_027"
+      },
+      {
+        "issue": "relation_references_nonexistent_source_entity",
+        "relation_id": "REL_TEMP_006",
+        "source_entity": "EVENT_H007"
+      },
+      {
+        "issue": "relation_references_nonexistent_target_entity",
+        "relation_id": "REL_TEMP_006",
+        "target_entity": "EVENT_001"
+      },
+      {
+        "issue": "relation_references_nonexistent_target_entity",
+        "relation_id": "REL_DEBT_002",
+        "target_entity": "regima_group"
+      },
+      {
+        "issue": "relation_references_nonexistent_target_entity",
+        "relation_id": "REL_EXTRACT_001",
+        "target_entity": "members"
+      },
+      {
+        "issue": "relation_references_nonexistent_target_entity",
+        "relation_id": "REL_KNOWLEDGE_001",
+        "target_entity": "criminal_matters"
+      },
+      {
+        "issue": "relation_references_nonexistent_target_entity",
+        "relation_id": "REL_LEGAL_001",
+        "target_entity": "settlement_and_interdict"
+      }
+    ]
+  }
+}

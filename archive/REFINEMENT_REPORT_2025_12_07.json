@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-12-07T05:33:48.167450",
+  "case_number": "2025-137857",
+  "refinements": {
+    "entities_version": "9.3_REFINED_2025_12_07",
+    "events_version": "29.0",
+    "timeline_version": "20.0",
+    "relations_version": "22.0"
+  },
+  "improvements": [
+    "Added missing organizations to entities",
+    "Added comprehensive evidence references to all events",
+    "Added ad-res-j7 cross-references to all events",
+    "Rebuilt timeline from events data",
+    "Enhanced relations with evidence references"
+  ]
+}

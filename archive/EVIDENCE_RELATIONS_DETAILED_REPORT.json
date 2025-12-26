@@ -1,0 +1,516 @@
+{
+  "summary": {
+    "total_relations_with_added_evidence": 17,
+    "financially_significant_count": 3
+  },
+  "relations_by_financial_significance": [
+    {
+      "relation_id": "REL_VP_001",
+      "relation_type": "victim_perpetrator_relations",
+      "source_entity": {
+        "id": "PERSON_001",
+        "name": "Peter Andrew Faucitt",
+        "type": "antagonist"
+      },
+      "target_entity": {
+        "id": "PERSON_005",
+        "name": "Daniel James Faucitt",
+        "type": "victim"
+      },
+      "evidence_added": [
+        "documented_evidence",
+        "case_file_records"
+      ],
+      "financial_significance": {
+        "is_financial": true,
+        "indicators": [
+          [
+            "amount",
+            "R10,269,727.90"
+          ]
+        ],
+        "numeric_value": 10269727.9
+      },
+      "additional_context": {
+        "legal_status": "N/A",
+        "evidence_strength": "strong",
+        "timeline_events": [],
+        "shared_events": []
+      }
+    },
+    {
+      "relation_id": "REL_VP_002",
+      "relation_type": "victim_perpetrator_relations",
+      "source_entity": {
+        "id": "PERSON_002",
+        "name": "Rynette Farrar",
+        "type": "antagonist"
+      },
+      "target_entity": {
+        "id": "PERSON_005",
+        "name": "Daniel James Faucitt",
+        "type": "victim"
+      },
+      "evidence_added": [
+        "documented_evidence",
+        "case_file_records"
+      ],
+      "financial_significance": {
+        "is_financial": true,
+        "indicators": [
+          [
+            "amount",
+            "R4,276,832.85"
+          ]
+        ],
+        "numeric_value": 4276832.85
+      },
+      "additional_context": {
+        "legal_status": "N/A",
+        "evidence_strength": "strong",
+        "timeline_events": [],
+        "shared_events": []
+      }
+    },
+    {
+      "relation_id": "REL_VP_003",
+      "relation_type": "victim_perpetrator_relations",
+      "source_entity": {
+        "id": "PERSON_001",
+        "name": "Peter Andrew Faucitt",
+        "type": "antagonist"
+      },
+      "target_entity": {
+        "id": "TRUST_001",
+        "name": "Faucitt Family Trust",
+        "type": "victim_entity"
+      },
+      "evidence_added": [
+        "documented_evidence",
+        "case_file_records"
+      ],
+      "financial_significance": {
+        "is_financial": true,
+        "indicators": [
+          [
+            "amount",
+            "R2,851,247.35"
+          ]
+        ],
+        "numeric_value": 2851247.35
+      },
+      "additional_context": {
+        "legal_status": "N/A",
+        "evidence_strength": "strong",
+        "timeline_events": [],
+        "shared_events": []
+      }
+    },
+    {
+      "relation_id": "REL_CTRL_003",
+      "relation_type": "control_relations",
+      "source_entity": {
+        "id": "PERSON_005",
+        "name": "Daniel James Faucitt",
+        "type": "victim"
+      },
+      "target_entity": {
+        "id": "PLATFORM_001",
+        "name": "Shopify Platform",
+        "type": "central_infrastructure"
+      },
+      "evidence_added": [
+        "platform_access_logs",
+        "operational_records"
+      ],
+      "financial_significance": {
+        "is_financial": false,
+        "indicators": [],
+        "numeric_value": 0
+      },
+      "additional_context": {
+        "legal_status": "legitimate",
+        "evidence_strength": "N/A",
+        "timeline_events": [],
+        "shared_events": []
+      }
+    },
+    {
+      "relation_id": "REL_CTRL_004",
+      "relation_type": "control_relations",
+      "source_entity": {
+        "id": "PERSON_004",
+        "name": "Jacqueline Faucitt",
+        "type": "victim"
+      },
+      "target_entity": {
+        "id": "PLATFORM_001",
+        "name": "Shopify Platform",
+        "type": "central_infrastructure"
+      },
+      "evidence_added": [
+        "platform_access_logs",
+        "operational_records"
+      ],
+      "financial_significance": {
+        "is_financial": false,
+        "indicators": [],
+        "numeric_value": 0
+      },
+      "additional_context": {
+        "legal_status": "legitimate",
+        "evidence_strength": "N/A",
+        "timeline_events": [],
+        "shared_events": []
+      }
+    },
+    {
+      "relation_id": "REL_EMP_001",
+      "relation_type": "employment_relations",
+      "source_entity": {
+        "id": "PERSON_006",
+        "name": "Linda",
+        "type": "neutral"
+      },
+      "target_entity": {
+        "id": "regima_group",
+        "name": "regima_group",
+        "type": "N/A"
+      },
+      "evidence_added": [
+        "documented_evidence",
+        "case_file_records"
+      ],
+      "financial_significance": {
+        "is_financial": false,
+        "indicators": [],
+        "numeric_value": 0
+      },
+      "additional_context": {
+        "legal_status": "legitimate",
+        "evidence_strength": "N/A",
+        "timeline_events": [],
+        "shared_events": []
+      }
+    },
+    {
+      "relation_id": "REL_EMP_002",
+      "relation_type": "employment_relations",
+      "source_entity": {
+        "id": "PERSON_006",
+        "name": "Linda",
+        "type": "neutral"
+      },
+      "target_entity": {
+        "id": "PERSON_002",
+        "name": "Rynette Farrar",
+        "type": "antagonist"
+      },
+      "evidence_added": [
+        "documented_evidence",
+        "case_file_records"
+      ],
+      "financial_significance": {
+        "is_financial": false,
+        "indicators": [],
+        "numeric_value": 0
+      },
+      "additional_context": {
+        "legal_status": "N/A",
+        "evidence_strength": "N/A",
+        "timeline_events": [],
+        "shared_events": []
+      }
+    },
+    {
+      "relation_id": "REL_EVID_001",
+      "relation_type": "evidence_destruction_relations",
+      "source_entity": {
+        "id": "coordinated_action",
+        "name": "coordinated_action",
+        "type": "N/A"
+      },
+      "target_entity": {
+        "id": "PLATFORM_001",
+        "name": "Shopify Platform",
+        "type": "central_infrastructure"
+      },
+      "evidence_added": [
+        "documented_evidence",
+        "case_file_records"
+      ],
+      "financial_significance": {
+        "is_financial": false,
+        "indicators": [],
+        "numeric_value": 0
+      },
+      "additional_context": {
+        "legal_status": "N/A",
+        "evidence_strength": "N/A",
+        "timeline_events": [],
+        "shared_events": []
+      }
+    },
+    {
+      "relation_id": "REL_EVID_002",
+      "relation_type": "evidence_destruction_relations",
+      "source_entity": {
+        "id": "coordinated_network",
+        "name": "coordinated_network",
+        "type": "N/A"
+      },
+      "target_entity": {
+        "id": "financial_records",
+        "name": "financial_records",
+        "type": "N/A"
+      },
+      "evidence_added": [
+        "documented_evidence",
+        "case_file_records"
+      ],
+      "financial_significance": {
+        "is_financial": false,
+        "indicators": [],
+        "numeric_value": 0
+      },
+      "additional_context": {
+        "legal_status": "N/A",
+        "evidence_strength": "N/A",
+        "timeline_events": [],
+        "shared_events": []
+      }
+    },
+    {
+      "relation_id": "REL_TEMP_001",
+      "relation_type": "temporal_relations",
+      "source_entity": {
+        "id": "payment_redirection_scheme",
+        "name": "payment_redirection_scheme",
+        "type": "N/A"
+      },
+      "target_entity": {
+        "id": "trust_structure_establishment",
+        "name": "trust_structure_establishment",
+        "type": "N/A"
+      },
+      "evidence_added": [
+        "timeline_analysis",
+        "event_sequence_documentation"
+      ],
+      "financial_significance": {
+        "is_financial": false,
+        "indicators": [],
+        "numeric_value": 0
+      },
+      "additional_context": {
+        "legal_status": "N/A",
+        "evidence_strength": "N/A",
+        "timeline_events": [],
+        "shared_events": []
+      }
+    },
+    {
+      "relation_id": "REL_TEMP_002",
+      "relation_type": "temporal_relations",
+      "source_entity": {
+        "id": "bank_account_change",
+        "name": "bank_account_change",
+        "type": "N/A"
+      },
+      "target_entity": {
+        "id": "audit_trail_destruction",
+        "name": "audit_trail_destruction",
+        "type": "N/A"
+      },
+      "evidence_added": [
+        "timeline_analysis",
+        "event_sequence_documentation"
+      ],
+      "financial_significance": {
+        "is_financial": false,
+        "indicators": [],
+        "numeric_value": 0
+      },
+      "additional_context": {
+        "legal_status": "N/A",
+        "evidence_strength": "N/A",
+        "timeline_events": [],
+        "shared_events": []
+      }
+    },
+    {
+      "relation_id": "REL_TEMP_003",
+      "relation_type": "temporal_relations",
+      "source_entity": {
+        "id": "audit_trail_destruction",
+        "name": "audit_trail_destruction",
+        "type": "N/A"
+      },
+      "target_entity": {
+        "id": "financial_evidence_concealment",
+        "name": "financial_evidence_concealment",
+        "type": "N/A"
+      },
+      "evidence_added": [
+        "timeline_analysis",
+        "event_sequence_documentation"
+      ],
+      "financial_significance": {
+        "is_financial": false,
+        "indicators": [],
+        "numeric_value": 0
+      },
+      "additional_context": {
+        "legal_status": "N/A",
+        "evidence_strength": "N/A",
+        "timeline_events": [],
+        "shared_events": []
+      }
+    },
+    {
+      "relation_id": "REL_TEMP_004",
+      "relation_type": "temporal_relations",
+      "source_entity": {
+        "id": "EVENT_007",
+        "name": "EVENT_007",
+        "type": "N/A"
+      },
+      "target_entity": {
+        "id": "EVENT_026",
+        "name": "EVENT_026",
+        "type": "N/A"
+      },
+      "evidence_added": [
+        "timeline_analysis",
+        "event_sequence_documentation"
+      ],
+      "financial_significance": {
+        "is_financial": false,
+        "indicators": [],
+        "numeric_value": 0
+      },
+      "additional_context": {
+        "legal_status": "N/A",
+        "evidence_strength": "N/A",
+        "timeline_events": [],
+        "shared_events": []
+      }
+    },
+    {
+      "relation_id": "REL_TEMP_005",
+      "relation_type": "temporal_relations",
+      "source_entity": {
+        "id": "EVENT_026",
+        "name": "EVENT_026",
+        "type": "N/A"
+      },
+      "target_entity": {
+        "id": "EVENT_027",
+        "name": "EVENT_027",
+        "type": "N/A"
+      },
+      "evidence_added": [
+        "timeline_analysis",
+        "event_sequence_documentation"
+      ],
+      "financial_significance": {
+        "is_financial": false,
+        "indicators": [],
+        "numeric_value": 0
+      },
+      "additional_context": {
+        "legal_status": "N/A",
+        "evidence_strength": "N/A",
+        "timeline_events": [],
+        "shared_events": []
+      }
+    },
+    {
+      "relation_id": "REL_TEMP_006",
+      "relation_type": "temporal_relations",
+      "source_entity": {
+        "id": "EVENT_H007",
+        "name": "EVENT_H007",
+        "type": "N/A"
+      },
+      "target_entity": {
+        "id": "EVENT_001",
+        "name": "EVENT_001",
+        "type": "N/A"
+      },
+      "evidence_added": [
+        "timeline_analysis",
+        "event_sequence_documentation"
+      ],
+      "financial_significance": {
+        "is_financial": false,
+        "indicators": [],
+        "numeric_value": 0
+      },
+      "additional_context": {
+        "legal_status": "N/A",
+        "evidence_strength": "N/A",
+        "timeline_events": [],
+        "shared_events": []
+      }
+    },
+    {
+      "relation_id": "REL_WITNESS_001",
+      "relation_type": "witness_relations",
+      "source_entity": {
+        "id": "PERSON_009",
+        "name": "Gee",
+        "type": "neutral"
+      },
+      "target_entity": {
+        "id": "DOMAIN_002",
+        "name": "DOMAIN_002",
+        "type": "instrument_of_fraud"
+      },
+      "evidence_added": [
+        "documented_evidence",
+        "case_file_records"
+      ],
+      "financial_significance": {
+        "is_financial": false,
+        "indicators": [],
+        "numeric_value": 0
+      },
+      "additional_context": {
+        "legal_status": "material_witness",
+        "evidence_strength": "N/A",
+        "timeline_events": [],
+        "shared_events": []
+      }
+    },
+    {
+      "relation_id": "REL_WITNESS_002",
+      "relation_type": "witness_relations",
+      "source_entity": {
+        "id": "PERSON_010",
+        "name": "Bernadine Wright",
+        "type": "neutral"
+      },
+      "target_entity": {
+        "id": "PERSON_007",
+        "name": "Danie Bantjies",
+        "type": "antagonist"
+      },
+      "evidence_added": [
+        "documented_evidence",
+        "case_file_records"
+      ],
+      "financial_significance": {
+        "is_financial": false,
+        "indicators": [],
+        "numeric_value": 0
+      },
+      "additional_context": {
+        "legal_status": "material_witness",
+        "evidence_strength": "N/A",
+        "timeline_events": [],
+        "shared_events": []
+      }
+    }
+  ]
+}

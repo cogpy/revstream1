@@ -1,0 +1,88 @@
+{
+  "timestamp": "2025-11-25T05:35:26.453615",
+  "refinements_applied": [
+    {
+      "refinement": "enhanced_github_pages_references",
+      "description": "Added GitHub Pages references to all entities, events, and relations",
+      "timestamp": "2025-11-25T05:35:26.453615"
+    },
+    {
+      "refinement": "added_evidence_urls",
+      "description": "Added direct evidence URLs linking to ad-res-j7 repository",
+      "timestamp": "2025-11-25T05:35:26.453615"
+    },
+    {
+      "refinement": "enhanced_timeline_evidence_links",
+      "description": "Added evidence repository and index links to all timeline phases",
+      "timestamp": "2025-11-25T05:35:26.453615"
+    }
+  ],
+  "improvements_made": [
+    {
+      "improvement": "cross_reference_validation",
+      "invalid_event_references": 0,
+      "invalid_entity_references": 41,
+      "details": {
+        "invalid_event_refs": [],
+        "invalid_entity_refs": [
+          {
+            "relation_id": "REL_OWN_005",
+            "invalid_entity_id": "director",
+            "type": "source"
+          },
+          {
+            "relation_id": "REL_OWN_006",
+            "invalid_entity_id": "director",
+            "type": "source"
+          },
+          {
+            "relation_id": "REL_CTRL_002",
+            "invalid_entity_id": "financial_systems",
+            "type": "target"
+          },
+          {
+            "relation_id": "REL_CONSP_003",
+            "invalid_entity_id": "associates",
+            "type": "target"
+          },
+          {
+            "relation_id": "",
+            "invalid_entity_id": "Peter Faucitt",
+            "type": "source"
+          },
+          {
+            "relation_id": "",
+            "invalid_entity_id": "Kachan",
+            "type": "target"
+          },
+          {
+            "relation_id": "REL_FIN_001",
+            "invalid_entity_id": "bank_accounts",
+            "type": "target"
+          },
+          {
+            "relation_id": "REL_FIN_002",
+            "invalid_entity_id": "accounts",
+            "type": "target"
+          },
+          {
+            "relation_id": "REL_FIN_005",
+            "invalid_entity_id": "director",
+            "type": "source"
+          },
+          {
+            "relation_id": "REL_FIN_005",
+            "invalid_entity_id": "director",
+            "type": "target"
+          }
+        ]
+      }
+    }
+  ],
+  "version_updates": {
+    "entities": "18.0",
+    "events": "19.0",
+    "relations": "15.0",
+    "timeline": "16.0"
+  }
+}

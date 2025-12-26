@@ -1,0 +1,1535 @@
+{
+  "timestamp": "2025-12-17T05:34:24.065181",
+  "summary": {
+    "total_gaps": 265,
+    "entities_gaps": 21,
+    "relations_gaps": 40,
+    "events_gaps": 136,
+    "timeline_gaps": 68
+  },
+  "gaps": {
+    "entities": [
+      {
+        "entity_id": "PERSON_006",
+        "name": "Linda",
+        "issue": "Missing evidence_strength assessment",
+        "severity": "high"
+      },
+      {
+        "entity_id": "PERSON_007",
+        "name": "Danie Bantjies",
+        "issue": "Missing evidence_strength assessment",
+        "severity": "high"
+      },
+      {
+        "entity_id": "PERSON_007",
+        "name": "Danie Bantjies",
+        "issue": "Missing criminal_threshold for antagonist",
+        "severity": "high"
+      },
+      {
+        "entity_id": "PERSON_008",
+        "name": "Kayla",
+        "issue": "Missing evidence_strength assessment",
+        "severity": "high"
+      },
+      {
+        "entity_id": "PERSON_009",
+        "name": "Gee",
+        "issue": "Missing ad_res_j7_references",
+        "severity": "medium"
+      },
+      {
+        "entity_id": "PERSON_009",
+        "name": "Gee",
+        "issue": "Missing evidence_strength assessment",
+        "severity": "high"
+      },
+      {
+        "entity_id": "PERSON_010",
+        "name": "Bernadine Wright",
+        "issue": "Missing ad_res_j7_references",
+        "severity": "medium"
+      },
+      {
+        "entity_id": "PERSON_010",
+        "name": "Bernadine Wright",
+        "issue": "Missing evidence_strength assessment",
+        "severity": "high"
+      },
+      {
+        "entity_id": "PERSON_011",
+        "name": "Chantal",
+        "issue": "Missing ad_res_j7_references",
+        "severity": "medium"
+      },
+      {
+        "entity_id": "PERSON_011",
+        "name": "Chantal",
+        "issue": "Missing evidence_strength assessment",
+        "severity": "high"
+      },
+      {
+        "entity_id": "PERSON_012",
+        "name": "Jax",
+        "issue": "Missing ad_res_j7_references",
+        "severity": "medium"
+      },
+      {
+        "entity_id": "PERSON_012",
+        "name": "Jax",
+        "issue": "Missing evidence_strength assessment",
+        "severity": "high"
+      },
+      {
+        "entity_id": "PERSON_012",
+        "name": "Marisca Meyer",
+        "issue": "Missing ad_res_j7_references",
+        "severity": "medium"
+      },
+      {
+        "entity_id": "PERSON_012",
+        "name": "Marisca Meyer",
+        "issue": "Missing evidence_strength assessment",
+        "severity": "high"
+      },
+      {
+        "entity_id": "ORG_004",
+        "name": "Strategic Logistics Group",
+        "issue": "Missing ad_res_j7_references",
+        "severity": "medium"
+      },
+      {
+        "entity_id": "ORG_005",
+        "name": "Villa Via",
+        "issue": "Missing ad_res_j7_references",
+        "severity": "medium"
+      },
+      {
+        "entity_id": "ORG_009",
+        "name": "Adderory (Pty) Ltd",
+        "issue": "Missing ad_res_j7_references",
+        "severity": "medium"
+      },
+      {
+        "entity_id": "ORG_010",
+        "name": "Adderory Skin (Pty) Ltd",
+        "issue": "Missing ad_res_j7_references",
+        "severity": "medium"
+      },
+      {
+        "entity_id": "ORG_012",
+        "name": "RegimaSA (Pty) Ltd",
+        "issue": "Missing ad_res_j7_references",
+        "severity": "medium"
+      },
+      {
+        "entity_id": "ORG_013",
+        "name": "Unicorn Dynamics (Pty) Ltd",
+        "issue": "Missing ad_res_j7_references",
+        "severity": "medium"
+      },
+      {
+        "entity_id": "ORG_014",
+        "name": "RegimA SA (Pty) Ltd",
+        "issue": "Missing ad_res_j7_references",
+        "severity": "medium"
+      }
+    ],
+    "relations": [
+      {
+        "relation_id": "REL_DEP_001",
+        "relation_type": "dependency_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_DEP_002",
+        "relation_type": "dependency_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_VP_001",
+        "relation_type": "victim_perpetrator_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_VP_002",
+        "relation_type": "victim_perpetrator_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_VP_003",
+        "relation_type": "victim_perpetrator_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_EMP_001",
+        "relation_type": "employment_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_EMP_002",
+        "relation_type": "employment_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_EVID_001",
+        "relation_type": "evidence_destruction_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_EVID_002",
+        "relation_type": "evidence_destruction_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_TEMP_001",
+        "relation_type": "temporal_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_TEMP_002",
+        "relation_type": "temporal_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_TEMP_003",
+        "relation_type": "temporal_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_TEMP_004",
+        "relation_type": "temporal_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_TEMP_005",
+        "relation_type": "temporal_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_TEMP_006",
+        "relation_type": "temporal_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_DEBT_001",
+        "relation_type": "debt_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_DEBT_002",
+        "relation_type": "debt_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_ESTATE_001",
+        "relation_type": "estate_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_WITNESS_001",
+        "relation_type": "witness_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_WITNESS_002",
+        "relation_type": "witness_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_CONFLICT_001",
+        "relation_type": "conflict_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_EMAIL_001",
+        "relation_type": "email_control_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_EMAIL_001",
+        "relation_type": "email_control_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_EMAIL_002",
+        "relation_type": "email_control_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_EMAIL_002",
+        "relation_type": "email_control_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_TRUSTEE_001",
+        "relation_type": "trustee_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_TRUSTEE_002",
+        "relation_type": "trustee_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_TRUSTEE_001",
+        "relation_type": "trustee_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_BENEF_001",
+        "relation_type": "beneficiary_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_BENEF_002",
+        "relation_type": "beneficiary_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_BENEF_001",
+        "relation_type": "beneficiary_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_BENEF_002",
+        "relation_type": "beneficiary_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_PROF_001",
+        "relation_type": "professional_correspondence_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_PROF_001",
+        "relation_type": "professional_correspondence_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_EXTRACT_001",
+        "relation_type": "capital_extraction_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_LOAN_001",
+        "relation_type": "inter_company_loan_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_LOAN_002",
+        "relation_type": "inter_company_loan_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_KNOWLEDGE_001",
+        "relation_type": "knowledge_acquisition_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_LEGAL_001",
+        "relation_type": "strategic_coordination_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      },
+      {
+        "relation_id": "REL_PROF_003",
+        "relation_type": "professional_relations",
+        "issue": "Missing ad_res_j7_evidence",
+        "severity": "medium"
+      }
+    ],
+    "events": [
+      {
+        "event_id": "EVENT_H001",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H002",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_H002",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H003",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_H003",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H004",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_H004",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H005",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_H005",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_051",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_051",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H006",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_H006",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_052",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_052",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H007",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_H007",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_053",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_053",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H008",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_H008",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_048",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_048",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H018",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_H018",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H009",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_H009",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_D001",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_D001",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_D002",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_D002",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H010",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_H010",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_D003",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_D003",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_D004",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_D004",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_D005",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_D005",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_023",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_023",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_054",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_054",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_022",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_022",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_028",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_028",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_001",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_001",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_024",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_024",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_002",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_002",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_025",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_025",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_003",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_003",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_004",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_004",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_005",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_005",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_029",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_029",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_055",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_055",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_056",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_056",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_006",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_006",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_007",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_007",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_008",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_008",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_050",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_050",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_009",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_009",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_010",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_010",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_011",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_011",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_057",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_057",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_012",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_012",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_023",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_023",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_026",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_026",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_047",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_047",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_058",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_058",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_013",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_013",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_014",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_014",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_027",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_027",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_015",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_015",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_016",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_016",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_017",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_017",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_018",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_018",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_019",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_019",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_059",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_059",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_049",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_049",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_060",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_060",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_026",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_026",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_020",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_020",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_061",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_061",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_021",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_021",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H011",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_H011",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H012",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_H012",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_064",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_064",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_065",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_065",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_066",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_066",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_067",
+        "issue": "Missing evidence_strength",
+        "severity": "medium"
+      },
+      {
+        "event_id": "EVENT_067",
+        "issue": "Missing burden_of_proof",
+        "severity": "high"
+      }
+    ],
+    "timeline": [
+      {
+        "event_id": "EVENT_H011",
+        "date": "2017-02-24",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H001",
+        "date": "2017-06-30",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H002",
+        "date": "2017-09-30",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H012",
+        "date": "2019-02-28",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H003",
+        "date": "2019-03-01",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H004",
+        "date": "2019-05-01",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H005",
+        "date": "2020-02-20",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_051",
+        "date": "2020-02-20",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H006",
+        "date": "2020-02-28",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_052",
+        "date": "2020-02-28",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H007",
+        "date": "2020-04-30",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_053",
+        "date": "2020-04-30",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H008",
+        "date": "2020-08-13",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_048",
+        "date": "2020-08-13",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H018",
+        "date": "2020-08-13",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H009",
+        "date": "2021-04-01",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_D001",
+        "date": "2022-03-01",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_D002",
+        "date": "2022-07-11",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_067",
+        "date": "2022-07-30",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_H010",
+        "date": "2023-01-01",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_D003",
+        "date": "2023-02-28",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_D004",
+        "date": "2023-03-15",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_D005",
+        "date": "2023-09-20",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_023",
+        "date": "2025-01-15",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_054",
+        "date": "2025-01-15",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_022",
+        "date": "2025-02-14",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_028",
+        "date": "2025-02-25",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_001",
+        "date": "2025-03-01",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_024",
+        "date": "2025-03-01",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_002",
+        "date": "2025-03-15",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_025",
+        "date": "2025-03-15",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_003",
+        "date": "2025-03-30",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_004",
+        "date": "2025-04-01",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_005",
+        "date": "2025-04-14",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_029",
+        "date": "2025-04-22",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_055",
+        "date": "2025-04-22",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_056",
+        "date": "2025-04-30",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_006",
+        "date": "2025-05-02",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_007",
+        "date": "2025-05-15",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_008",
+        "date": "2025-05-15",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_050",
+        "date": "2025-05-15",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_009",
+        "date": "2025-05-22",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_010",
+        "date": "2025-05-29",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_011",
+        "date": "2025-06-06",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_057",
+        "date": "2025-06-06",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_012",
+        "date": "2025-06-07",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_023",
+        "date": "2025-06-10",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_026",
+        "date": "2025-06-10",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_047",
+        "date": "2025-06-10",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_058",
+        "date": "2025-06-10",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_066",
+        "date": "2025-06-10",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_013",
+        "date": "2025-06-18",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_014",
+        "date": "2025-06-20",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_027",
+        "date": "2025-06-20",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_064",
+        "date": "2025-06-25",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_015",
+        "date": "2025-06-30",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_016",
+        "date": "2025-07-08",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_017",
+        "date": "2025-07-12",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_065",
+        "date": "2025-07-23",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_018",
+        "date": "2025-07-25",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_019",
+        "date": "2025-08-10",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_059",
+        "date": "2025-08-11",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_049",
+        "date": "2025-08-13",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_060",
+        "date": "2025-08-13",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_026",
+        "date": "2025-08-15",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_020",
+        "date": "2025-08-20",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_061",
+        "date": "2025-08-29",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      },
+      {
+        "event_id": "EVENT_021",
+        "date": "2025-09-11",
+        "issue": "Missing burden_of_proof assessment",
+        "severity": "high"
+      }
+    ]
+  },
+  "improvements": {
+    "timeline": [
+      {
+        "type": "critical_dates_expansion",
+        "suggestion": "Add critical dates from SF evidence files (SF1-SF8)",
+        "priority": "high"
+      }
+    ]
+  },
+  "evidence_mapping": {
+    "sf_files": [
+      "SF1_Bantjies_Debt_Documentation.md",
+      "SF2_Sage_Screenshots_Rynette_Control.md",
+      "SF3_Strategic_Logistics_Stock_Adjustment.md",
+      "SF4_SARS_Audit_Email.md",
+      "SF5_Adderory_Company_Registration_Stock_Supply.md",
+      "SF6_Kayla_Pretorius_Estate_Documentation.md",
+      "SF7_Court_Order_Kayla_Email_Seizure.md",
+      "SF8_Linda_Employment_Records.md"
+    ],
+    "jf_directories": [
+      "JF01",
+      "JF02",
+      "JF03",
+      "JF04",
+      "JF05",
+      "JF06",
+      "JF07",
+      "JF08",
+      "JF09",
+      "JF10",
+      "JF11",
+      "JF12",
+      "JF13"
+    ]
+  },
+  "priority_actions": [
+    {
+      "priority": 1,
+      "action": "Add burden_of_proof assessments to all timeline events",
+      "affected_items": 68,
+      "rationale": "Critical for legal filing refinement (50% civil / 95% criminal thresholds)"
+    },
+    {
+      "priority": 2,
+      "action": "Add evidence_strength assessments to all entities",
+      "affected_items": 8,
+      "rationale": "Essential for determining which claims meet evidentiary standards"
+    },
+    {
+      "priority": 3,
+      "action": "Cross-reference all entities/events with ad-res-j7 evidence",
+      "affected_items": 12,
+      "rationale": "Ensures comprehensive evidence trail for all claims"
+    },
+    {
+      "priority": 4,
+      "action": "Update GitHub Pages with clear evidence references",
+      "rationale": "Improves accessibility and organization of evidence for legal review"
+    }
+  ]
+}
