@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "17.0_PHASE_ENHANCED_2025_12_28",
+    "version": "16.0_REFINED_2025_12_25",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 77,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2025-12-28T05:36:01.593193",
-    "changes": "Phase classification and ad-res-j7 reference enhancement"
+    "last_updated": "2025-12-25T05:38:52.461184",
+    "changes": "Chronological sorting, evidence enhancement, and burden of proof assessment"
   },
   "events": [
     {
@@ -40,11 +40,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380419",
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380419"
     },
     {
       "event_id": "EVENT_H001",
@@ -72,11 +68,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380310",
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380310"
     },
     {
       "event_id": "EVENT_H002",
@@ -104,11 +96,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380318",
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380318"
     },
     {
       "event_id": "EVENT_H012",
@@ -147,11 +135,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380421",
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380421"
     },
     {
       "event_id": "EVENT_H003",
@@ -179,11 +163,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380319",
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380319"
     },
     {
       "event_id": "EVENT_H004",
@@ -210,11 +190,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380321",
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380321"
     },
     {
       "event_id": "EVENT_091",
@@ -242,8 +218,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380436",
-      "phase": "PHASE_1"
+      "evidence_enhanced": "2025-12-22T05:40:58.380436"
     },
     {
       "event_id": "EVENT_H005",
@@ -279,13 +254,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380323",
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "SF2_Sage_Screenshots_Rynette_Control.md",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF07 - Screenshots and visual evidence"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380323"
     },
     {
       "event_id": "EVENT_051",
@@ -318,13 +287,6 @@
         "ANNEXURES/JF07",
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
-      ],
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "SF2_Sage_Screenshots_Rynette_Control.md",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08 - Evidence packages",
-        "ANNEXURES/JF07 - Screenshots and visual evidence"
       ]
     },
     {
@@ -361,13 +323,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380326",
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "SF2_Sage_Screenshots_Rynette_Control.md",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF07 - Screenshots and visual evidence"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380326"
     },
     {
       "event_id": "EVENT_052",
@@ -397,11 +353,6 @@
       "evidence_enhanced": "2025-12-22T05:40:58.380330",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
-      ],
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08 - Evidence packages"
       ]
     },
     {
@@ -433,8 +384,7 @@
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
         "ANNEXURES/JF10"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380433",
-      "phase": "PHASE_1"
+      "evidence_enhanced": "2025-12-22T05:40:58.380433"
     },
     {
       "event_id": "EVENT_H007",
@@ -465,11 +415,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380332",
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380332"
     },
     {
       "event_id": "EVENT_053",
@@ -499,11 +445,6 @@
       "evidence_enhanced": "2025-12-22T05:40:58.380334",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
-      ],
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08 - Evidence packages"
       ]
     },
     {
@@ -532,13 +473,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380336",
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08 - Evidence packages",
-        "SF1_Bantjies_Debt_Documentation.md"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380336"
     },
     {
       "event_id": "EVENT_048",
@@ -573,12 +508,6 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
         "ANNEXURES/JF10"
-      ],
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "SF1_Bantjies_Debt_Documentation.md",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08 - Evidence packages"
       ]
     },
     {
@@ -605,12 +534,7 @@
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
         "ANNEXURES/JF10"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380340",
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380340"
     },
     {
       "event_id": "EVENT_090",
@@ -639,8 +563,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380435",
-      "phase": "PHASE_1"
+      "evidence_enhanced": "2025-12-22T05:40:58.380435"
     },
     {
       "event_id": "EVENT_088",
@@ -668,8 +591,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/SF4_SARS_Audit_Email.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380432",
-      "phase": "PHASE_1"
+      "evidence_enhanced": "2025-12-22T05:40:58.380432"
     },
     {
       "event_id": "EVENT_H009",
@@ -700,13 +622,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380341",
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF01 - Shopify Plus email evidence",
-        "SF5_Adderory_Company_Registration.md",
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380341"
     },
     {
       "event_id": "EVENT_086",
@@ -732,8 +648,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380429",
-      "phase": "PHASE_1"
+      "evidence_enhanced": "2025-12-22T05:40:58.380429"
     },
     {
       "event_id": "EVENT_087",
@@ -761,8 +676,7 @@
         "ANNEXURES/JF06",
         "1-CIVIL-RESPONSE"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380430",
-      "phase": "PHASE_1"
+      "evidence_enhanced": "2025-12-22T05:40:58.380430"
     },
     {
       "event_id": "EVENT_D001",
@@ -794,11 +708,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380343",
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380343"
     },
     {
       "event_id": "EVENT_D002",
@@ -826,12 +736,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380344",
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF04 - Personal bank records"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380344"
     },
     {
       "event_id": "EVENT_067",
@@ -878,14 +783,7 @@
       ],
       "evidence_enhanced": "2025-12-22T05:40:58.380427",
       "legal_significance": "trigger_event_for_estate_exploitation",
-      "burden_of_proof": "conclusive_death_certificate",
-      "phase": "PHASE_1",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF06 - Court documents and filings",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "SF6_Kayla_Pretorius_Estate_Documentation.md",
-        "SF7_Court_Order_Kayla_Email_Seizure.md"
-      ]
+      "burden_of_proof": "conclusive_death_certificate"
     },
     {
       "event_id": "EVENT_H010",
@@ -916,12 +814,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380346",
-      "phase": "PHASE_2",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "SF6_Kayla_Pretorius_Estate_Documentation.md"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380346"
     },
     {
       "event_id": "EVENT_D003",
@@ -953,11 +846,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380347",
-      "phase": "PHASE_2",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380347"
     },
     {
       "event_id": "EVENT_D004",
@@ -990,11 +879,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380349",
-      "phase": "PHASE_2",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380349"
     },
     {
       "event_id": "EVENT_D005",
@@ -1026,11 +911,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380350",
-      "phase": "PHASE_2",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380350"
     },
     {
       "event_id": "EVENT_023",
@@ -1062,13 +943,7 @@
         "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
         "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380352",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF06 - Court documents and filings",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "SF6_Kayla_Pretorius_Estate_Documentation.md"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380352"
     },
     {
       "event_id": "EVENT_054",
@@ -1094,12 +969,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380353",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "SF6_Kayla_Pretorius_Estate_Documentation.md"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380353"
     },
     {
       "event_id": "EVENT_022",
@@ -1129,14 +999,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380355",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "SF2_Sage_Screenshots_Rynette_Control.md",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF07 - Screenshots and visual evidence",
-        "ANNEXURES/JF04 - Personal bank records"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380355"
     },
     {
       "event_id": "EVENT_028",
@@ -1174,12 +1037,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380356",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "SF5_Adderory_Company_Registration.md"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380356"
     },
     {
       "event_id": "EVENT_001",
@@ -1211,12 +1069,7 @@
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380358",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF04 - Personal bank records"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380358"
     },
     {
       "event_id": "EVENT_024",
@@ -1255,13 +1108,7 @@
         "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md - Same stock supplied by Adderory"
       ],
       "evidence_enhanced": "2025-12-22T05:40:58.380360",
-      "burden_of_proof": "95%_criminal_standard_met",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF02 - Shopify sales reports",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "SF5_Adderory_Company_Registration.md"
-      ]
+      "burden_of_proof": "95%_criminal_standard_met"
     },
     {
       "event_id": "EVENT_002",
@@ -1293,13 +1140,7 @@
         "ANNEXURES/JF06",
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380361",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
-        "ANNEXURES/JF10 - Trust documents"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380361"
     },
     {
       "event_id": "EVENT_025",
@@ -1332,13 +1173,7 @@
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
         "ANNEXURES/JF10"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380363",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "SF3_Strategic_Logistics_Stock_Adjustment.md",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380363"
     },
     {
       "event_id": "EVENT_003",
@@ -1374,15 +1209,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380364",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "SF8_Linda_Employment_Records.md",
-        "ANNEXURES/JF07 - Screenshots and visual evidence",
-        "SF2_Sage_Screenshots_Rynette_Control.md",
-        "SF4_SARS_Audit_Email.md",
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380364"
     },
     {
       "event_id": "EVENT_004",
@@ -1423,16 +1250,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380366",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF07 - Screenshots and visual evidence",
-        "SF2_Sage_Screenshots_Rynette_Control.md",
-        "ANNEXURES/JF02 - Shopify sales reports",
-        "ANNEXURES/JF01 - Shopify Plus email evidence",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF04 - Personal bank records"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380366"
     },
     {
       "event_id": "EVENT_005",
@@ -1472,14 +1290,7 @@
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380367",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF02 - Shopify sales reports",
-        "ANNEXURES/JF01 - Shopify Plus email evidence",
-        "ANNEXURES/JF04 - Personal bank records",
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380367"
     },
     {
       "event_id": "EVENT_029",
@@ -1511,12 +1322,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380369",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF04 - Personal bank records"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380369"
     },
     {
       "event_id": "EVENT_055",
@@ -1544,12 +1350,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380370",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08 - Evidence packages"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380370"
     },
     {
       "event_id": "EVENT_056",
@@ -1576,12 +1377,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380372",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08 - Evidence packages"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380372"
     },
     {
       "event_id": "EVENT_006",
@@ -1614,14 +1410,7 @@
         "ANNEXURES/JF06",
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380373",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF05 - Correspondence evidence",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
-        "ANNEXURES/JF10 - Trust documents"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380373"
     },
     {
       "event_id": "EVENT_007",
@@ -1659,13 +1448,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380375",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF01 - Shopify Plus email evidence",
-        "SF6_Kayla_Pretorius_Estate_Documentation.md",
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380375"
     },
     {
       "event_id": "EVENT_008",
@@ -1705,15 +1488,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380376",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF07 - Screenshots and visual evidence",
-        "SF2_Sage_Screenshots_Rynette_Control.md",
-        "ANNEXURES/JF01 - Shopify Plus email evidence",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF04 - Personal bank records"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380376"
     },
     {
       "event_id": "EVENT_050",
@@ -1750,13 +1525,6 @@
       "evidence_enhanced": "2025-12-22T05:40:58.380378",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
-      ],
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF01 - Shopify Plus email evidence",
-        "SF6_Kayla_Pretorius_Estate_Documentation.md",
-        "ANNEXURES/JF08 - Evidence packages",
-        "ANNEXURES/JF03 - Financial records and analysis"
       ]
     },
     {
@@ -1805,13 +1573,7 @@
       "burden_of_proof": {
         "civil_50_percent": "exceeded",
         "criminal_95_percent": "achievable"
-      },
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF01 - Shopify Plus email evidence",
-        "SF6_Kayla_Pretorius_Estate_Documentation.md",
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      }
     },
     {
       "event_id": "EVENT_010",
@@ -1851,13 +1613,7 @@
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380381",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF01 - Shopify Plus email evidence",
-        "SF5_Adderory_Company_Registration.md",
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380381"
     },
     {
       "event_id": "EVENT_011",
@@ -1884,11 +1640,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380382",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380382"
     },
     {
       "event_id": "EVENT_057",
@@ -1915,12 +1667,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380384",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF01 - Shopify Plus email evidence",
-        "SF1_Bantjies_Debt_Documentation.md"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380384"
     },
     {
       "event_id": "EVENT_012",
@@ -1952,14 +1699,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380387",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "SF2_Sage_Screenshots_Rynette_Control.md",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF07 - Screenshots and visual evidence",
-        "ANNEXURES/JF04 - Personal bank records"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380387"
     },
     {
       "event_id": "EVENT_023",
@@ -1996,14 +1736,7 @@
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380389",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "SF3_Strategic_Logistics_Stock_Adjustment.md",
-        "ANNEXURES/JF05 - Correspondence evidence",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380389"
     },
     {
       "event_id": "EVENT_026",
@@ -2037,12 +1770,7 @@
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380391",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380391"
     },
     {
       "event_id": "EVENT_047",
@@ -2073,13 +1801,6 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
-      ],
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF05 - Correspondence evidence",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08 - Evidence packages",
-        "SF1_Bantjies_Debt_Documentation.md"
       ]
     },
     {
@@ -2110,12 +1831,7 @@
         "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md - Bantjies conduct"
       ],
       "evidence_enhanced": "2025-12-22T05:40:58.380394",
-      "burden_of_proof": "95%_criminal_standard_met",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "SF6_Kayla_Pretorius_Estate_Documentation.md",
-        "SF1_Bantjies_Debt_Documentation.md"
-      ]
+      "burden_of_proof": "95%_criminal_standard_met"
     },
     {
       "event_id": "EVENT_066",
@@ -2153,13 +1869,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380426",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08 - Evidence packages",
-        "ANNEXURES/JF04 - Personal bank records"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380426"
     },
     {
       "event_id": "EVENT_013",
@@ -2191,13 +1901,7 @@
         "ANNEXURES/JF06",
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380395",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
-        "ANNEXURES/JF10 - Trust documents"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380395"
     },
     {
       "event_id": "EVENT_014",
@@ -2243,13 +1947,7 @@
       "burden_of_proof": {
         "civil_50_percent": "exceeded",
         "criminal_95_percent": "achievable"
-      },
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF01 - Shopify Plus email evidence",
-        "ANNEXURES/JF07 - Screenshots and visual evidence",
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      }
     },
     {
       "event_id": "EVENT_027",
@@ -2290,13 +1988,6 @@
       "evidence_enhanced": "2025-12-22T05:40:58.380398",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
-      ],
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "SF5_Adderory_Company_Registration.md",
-        "ANNEXURES/JF01 - Shopify Plus email evidence",
-        "ANNEXURES/JF07 - Screenshots and visual evidence",
-        "ANNEXURES/JF03 - Financial records and analysis"
       ]
     },
     {
@@ -2326,13 +2017,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380439",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "SF2_Sage_Screenshots_Rynette_Control.md",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF07 - Screenshots and visual evidence"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380439"
     },
     {
       "event_id": "EVENT_064",
@@ -2367,12 +2052,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380423",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08 - Evidence packages"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380423"
     },
     {
       "event_id": "EVENT_015",
@@ -2414,16 +2094,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380399",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF07 - Screenshots and visual evidence",
-        "SF2_Sage_Screenshots_Rynette_Control.md",
-        "ANNEXURES/JF02 - Shopify sales reports",
-        "ANNEXURES/JF01 - Shopify Plus email evidence",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF04 - Personal bank records"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380399"
     },
     {
       "event_id": "EVENT_016",
@@ -2464,12 +2135,7 @@
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380401",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF01 - Shopify Plus email evidence",
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380401"
     },
     {
       "event_id": "EVENT_017",
@@ -2509,15 +2175,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380402",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF07 - Screenshots and visual evidence",
-        "SF2_Sage_Screenshots_Rynette_Control.md",
-        "ANNEXURES/JF01 - Shopify Plus email evidence",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF04 - Personal bank records"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380402"
     },
     {
       "event_id": "EVENT_065",
@@ -2548,12 +2206,6 @@
       "evidence_enhanced": "2025-12-22T05:40:58.380424",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
-      ],
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "SF2_Sage_Screenshots_Rynette_Control.md",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF07 - Screenshots and visual evidence"
       ]
     },
     {
@@ -2583,12 +2235,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380441",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "SF2_Sage_Screenshots_Rynette_Control.md",
-        "ANNEXURES/JF07 - Screenshots and visual evidence"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380441"
     },
     {
       "event_id": "EVENT_018",
@@ -2621,13 +2268,7 @@
         "ANNEXURES/JF06",
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380404",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
-        "ANNEXURES/JF10 - Trust documents"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380404"
     },
     {
       "event_id": "EVENT_019",
@@ -2659,13 +2300,7 @@
         "ANNEXURES/JF06",
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380405",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
-        "ANNEXURES/JF10 - Trust documents"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380405"
     },
     {
       "event_id": "EVENT_059",
@@ -2694,11 +2329,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380407",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF06 - Court documents and filings"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380407"
     },
     {
       "event_id": "EVENT_049",
@@ -2730,14 +2361,6 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF06",
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
-      ],
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF08 - Evidence packages",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
-        "ANNEXURES/JF10 - Trust documents",
-        "ANNEXURES/JF06 - Court documents and filings"
       ]
     },
     {
@@ -2767,11 +2390,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380412",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF06 - Court documents and filings"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380412"
     },
     {
       "event_id": "EVENT_026",
@@ -2800,11 +2419,7 @@
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380413",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380413"
     },
     {
       "event_id": "EVENT_020",
@@ -2845,14 +2460,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380415",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "SF2_Sage_Screenshots_Rynette_Control.md",
-        "ANNEXURES/JF01 - Shopify Plus email evidence",
-        "ANNEXURES/JF07 - Screenshots and visual evidence",
-        "ANNEXURES/JF03 - Financial records and analysis"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380415"
     },
     {
       "event_id": "EVENT_061",
@@ -2879,11 +2487,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380416",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF06 - Court documents and filings"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380416"
     },
     {
       "event_id": "EVENT_021",
@@ -2916,14 +2520,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380418",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "SF2_Sage_Screenshots_Rynette_Control.md",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF07 - Screenshots and visual evidence",
-        "ANNEXURES/JF04 - Personal bank records"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380418"
     },
     {
       "event_id": "EVENT_SF9",
@@ -2956,13 +2553,7 @@
         "ANNEXURES/JF06",
         "1-CIVIL-RESPONSE"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380438",
-      "phase": "PHASE_3",
-      "ad_res_j7_references": [
-        "ANNEXURES/JF06 - Court documents and filings",
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "SF9_Ian_Levitt_Demand_Letter.md"
-      ]
+      "evidence_enhanced": "2025-12-22T05:40:58.380438"
     }
   ]
 }

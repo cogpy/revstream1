@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "18.0_EVIDENCE_ENHANCED_2025_12_28",
+    "version": "17.0_REFINED_2025_12_25",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2025-12-28T05:36:36.077526",
-    "changes": "Complete evidence and ad-res-j7 reference enhancement for all entities"
+    "last_updated": "2025-12-25T05:38:52.461061",
+    "changes": "Comprehensive evidence integration and cross-referencing"
   },
   "entities": {
     "persons": [
@@ -71,7 +71,7 @@
           "SF6_Kayla_Pretorius_Estate_Documentation.md - Trigger event for appropriation",
           "SF9_Ian_Levitt_Demand_Letter.md - R63M formal demand (ignored)"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077423",
+        "evidence_enhanced": "2025-12-16T05:38:06.599495",
         "evidence_strength": "conclusive",
         "criminal_threshold": "95%_exceeded"
       },
@@ -138,7 +138,7 @@
           "ANNEXURES/JF07 - Sage system screenshots showing control",
           "SF9_Ian_Levitt_Demand_Letter.md - Implicated in revenue theft scheme"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077448",
+        "evidence_enhanced": "2025-12-16T05:38:06.599519",
         "evidence_strength": "conclusive",
         "criminal_threshold": "95%_exceeded"
       },
@@ -167,7 +167,7 @@
           "ANNEXURES/JF08 - Evidence packages",
           "1-CIVIL-RESPONSE - Answering affidavit"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077452",
+        "evidence_enhanced": "2025-12-16T05:38:06.599525",
         "evidence_strength": "conclusive"
       },
       {
@@ -202,7 +202,7 @@
           "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Email seizure order",
           "ANNEXURES/JF02 - Shopify sales reports under her management"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077454",
+        "evidence_enhanced": "2025-12-16T05:38:06.599532",
         "evidence_strength": "conclusive"
       },
       {
@@ -220,12 +220,9 @@
         "ad_res_j7_references": [
           "ANNEXURES/SF8_Linda_Employment_Records.md - Employment documentation"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077458",
+        "evidence_enhanced": "2025-12-16T05:38:06.599539",
         "evidence_strength": "circumstantial",
-        "evidence": [
-          "SF8 - Linda Employment Records",
-          "Employment documentation"
-        ]
+        "evidence": []
       },
       {
         "entity_id": "PERSON_007",
@@ -307,7 +304,7 @@
           "ANNEXURES/SF4_SARS_Audit_Email.md - SARS audit coordination",
           "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md - Medical testing proposal"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077460",
+        "evidence_enhanced": "2025-12-12T05:37:57.342390",
         "evidence_strength": "conclusive",
         "criminal_threshold": "95%_exceeded"
       },
@@ -345,7 +342,7 @@
           "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - Death and estate documentation",
           "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Email seizure court order"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077463",
+        "evidence_enhanced": "2025-12-22T05:40:58.378236",
         "evidence_strength": "strong"
       },
       {
@@ -374,7 +371,7 @@
           "SF1 - Bantjies debt documentation",
           "JF10 - Accounting records"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077471",
+        "evidence_enhanced": "2025-12-22T05:40:58.378246",
         "evidence_strength": "strong"
       },
       {
@@ -400,7 +397,7 @@
           "SF6 - Kayla estate documentation",
           "JF08 - Evidence packages"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077474",
+        "evidence_enhanced": "2025-12-22T05:40:58.378248",
         "evidence_strength": "strong"
       },
       {
@@ -448,7 +445,7 @@
           "SF7_Court_Order_Kayla_Email_Seizure.md - Email account seizure order",
           "ANNEXURES/JF08 - Evidence of independent business operations"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077477",
+        "evidence_enhanced": "2025-12-16T05:38:06.599556",
         "evidence_strength": "strong"
       },
       {
@@ -478,7 +475,7 @@
           "JF08 - Witness evidence",
           "JF11 - Medical coercion evidence"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077479",
+        "evidence_enhanced": "2025-12-22T05:40:58.378251",
         "evidence_strength": "strong"
       },
       {
@@ -509,7 +506,7 @@
           "JF10 - Accounting records",
           "JF13 - Recent correspondence"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077481",
+        "evidence_enhanced": "2025-12-22T05:40:58.378252",
         "evidence_strength": "strong"
       },
       {
@@ -534,7 +531,7 @@
           "ANNEXURES/JF10 - Professional accounting records",
           "ANNEXURES/JF13 - Recent professional correspondence"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077484",
+        "evidence_enhanced": "2025-12-22T05:40:58.378254",
         "evidence_strength": "strong"
       },
       {
@@ -564,7 +561,7 @@
           "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
           "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077486",
+        "evidence_enhanced": "2025-12-19T16:36:13.580845",
         "evidence_strength": "strong",
         "burden_of_proof": {
           "civil": "HIGH",
@@ -606,7 +603,7 @@
           "ANNEXURES/JF07 - Sage accounting screenshots",
           "1-CIVIL-RESPONSE/financial-flows - Revenue hijacking documentation"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077489"
+        "evidence_enhanced": "2025-12-14T05:36:53.165453"
       },
       {
         "entity_id": "ORG_002",
@@ -634,7 +631,7 @@
           "SF3_Strategic_Logistics_Stock_Adjustment.md - Inter-company transactions",
           "1-CIVIL-RESPONSE/financial-flows - Beneficiary of hijacked revenue"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077491"
+        "evidence_enhanced": "2025-12-14T05:36:53.165455"
       },
       {
         "entity_id": "ORG_003",
@@ -677,7 +674,7 @@
           "ANNEXURES/JF02 - Shopify sales reports",
           "1-CIVIL-RESPONSE - UK company documentation and payment records"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077493",
+        "evidence_enhanced": "2025-12-14T05:36:53.165457",
         "evidence_strength": "conclusive",
         "financial_impact_detail": "R140,000-R280,000 (28 months Shopify payments)"
       },
@@ -711,17 +708,9 @@
         ],
         "additional_notes": "Positioned as loss entity with R13M debt to RST, paid R414K interest Feb 2020, pattern consistent with R5.4M stock lossPositioned as loss entity with R13M debt to RST, paid R414K interest Feb 2020, pattern consistent with R5.4M stock loss",
         "role": "trust_owned_warehouse_and_logistics",
-        "evidence_enhanced": "2025-12-28T05:36:36.077496",
-        "evidence": [
-          "JF03 - Financial records",
-          "JF02 - Sales reports",
-          "CIPC company records"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF03 - Financial records and analysis",
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF02 - Shopify sales reports"
-        ]
+        "evidence_enhanced": "2025-12-25T05:38:52.461088",
+        "evidence": [],
+        "ad_res_j7_references": []
       },
       {
         "entity_id": "ORG_005",
@@ -753,17 +742,9 @@
           "end": "April 30"
         },
         "role": "rental_property_company_wealth_extraction",
-        "evidence_enhanced": "2025-12-28T05:36:36.077499",
-        "evidence": [
-          "SF3 - Stock adjustment evidence",
-          "JF03 - Financial records",
-          "CIPC company records"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
-          "ANNEXURES/JF03 - Financial records and analysis",
-          "ANNEXURES/JF04 - CIPC registration documents"
-        ]
+        "evidence_enhanced": "2025-12-25T05:38:52.461091",
+        "evidence": [],
+        "ad_res_j7_references": []
       },
       {
         "entity_id": "ORG_006",
@@ -782,12 +763,8 @@
           "ANNEXURES/JF07 - Sage screenshots showing fraudulent records",
           "SF2_Sage_Screenshots_Rynette_Control.md - Victim of revenue hijacking"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077502",
-        "evidence": [
-          "JF03 - Financial records",
-          "CIPC company records",
-          "SF2 - Sage system evidence"
-        ]
+        "evidence_enhanced": "2025-12-14T05:36:53.165459",
+        "evidence": []
       },
       {
         "entity_id": "ORG_008",
@@ -863,11 +840,8 @@
           "SF1_Bantjies_Debt_Documentation.md - Business relationship and debt",
           "1-CIVIL-RESPONSE/financial-flows - Service provider documentation"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077504",
-        "evidence": [
-          "JF03 - Financial records showing rent charges",
-          "CIPC company records"
-        ]
+        "evidence_enhanced": "2025-12-14T05:36:53.165461",
+        "evidence": []
       },
       {
         "entity_id": "ORG_009",
@@ -913,17 +887,9 @@
           "EVENT_027"
         ],
         "additional_notes": "Registered April 2021 (4 years before fraud escalation), demonstrates long-term conspiracy planning, supplied same stock type that disappeared from SLG, registered fraudulent domain regimaskin.co.za",
-        "evidence_enhanced": "2025-12-28T05:36:36.077507",
-        "evidence": [
-          "SF5 - Adderory company registration",
-          "CIPC records",
-          "JF03 - Financial transactions"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/SF5_Adderory_Company_Registration.md",
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ]
+        "evidence_enhanced": "2025-12-25T05:38:52.461094",
+        "evidence": [],
+        "ad_res_j7_references": []
       },
       {
         "entity_id": "ORG_010",
@@ -961,14 +927,9 @@
           "EVENT_027"
         ],
         "additional_notes": "Registered April 2021 alongside Adderory (Pty) Ltd, part of Adderory group for customer hijacking, used RegimA brand for fraud",
-        "evidence_enhanced": "2025-12-28T05:36:36.077509",
-        "evidence": [
-          "CIPC company registration records",
-          "JF04 - Company documentation"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF04 - CIPC registration documents"
-        ]
+        "evidence_enhanced": "2025-12-25T05:38:52.461096",
+        "evidence": [],
+        "ad_res_j7_references": []
       },
       {
         "entity_id": "ORG_012",
@@ -1012,11 +973,8 @@
         ],
         "note": "RegimaSA (lowercase 'a') - NOT the same as RegimA SA (capital 'A')",
         "clarification": "This entity (2017/087935/07) is separate from RegimA SA (Pty) Ltd which was created in 2021",
-        "evidence_enhanced": "2025-12-28T05:36:36.077511",
-        "ad_res_j7_references": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ]
+        "evidence_enhanced": "2025-12-25T05:38:52.461098",
+        "ad_res_j7_references": []
       },
       {
         "entity_id": "ORG_013",
@@ -1046,11 +1004,8 @@
           "services": "IT/software services, including Sage accounting",
           "significance": "All debts cleared by Feb 2023"
         },
-        "evidence_enhanced": "2025-12-28T05:36:36.077514",
-        "ad_res_j7_references": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ]
+        "evidence_enhanced": "2025-12-25T05:38:52.461100",
+        "ad_res_j7_references": []
       },
       {
         "entity_id": "ORG_014",
@@ -1069,11 +1024,8 @@
           "User correction: RegimA SA didn't exist until 2021"
         ],
         "note": "Capital 'A' in RegimA - different from RegimaSA (lowercase 'a')",
-        "evidence_enhanced": "2025-12-28T05:36:36.077516",
-        "ad_res_j7_references": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ]
+        "evidence_enhanced": "2025-12-25T05:38:52.461101",
+        "ad_res_j7_references": []
       },
       {
         "entity_id": "ORG_015",
@@ -1099,7 +1051,7 @@
         "ad_res_j7_references": [
           "ANNEXURES/SF4_SARS_Audit_Email.md"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077518",
+        "evidence_enhanced": "2025-12-19T16:36:13.580876",
         "evidence_strength": "conclusive",
         "burden_of_proof": {
           "civil": "HIGH",
@@ -1139,7 +1091,7 @@
         ],
         "evidence_strength": "conclusive",
         "significance": "Establishes quantum and demonstrates ignored formal demand",
-        "evidence_enhanced": "2025-12-28T05:36:36.077520"
+        "evidence_enhanced": "2025-12-25T05:38:52.461103"
       }
     ],
     "platforms": [
@@ -1288,18 +1240,7 @@
           "beneficiary_PERSON_004",
           "beneficiary_PERSON_005",
           "asset_holder_for_regima_group"
-        ],
-        "evidence": [
-          "JF10 - Trust documents",
-          "Trust deed and amendments",
-          "SF1 - Bantjies trustee appointment"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF10 - Trust documents",
-          "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
-          "ANNEXURES/JF06 - Court documents and filings"
-        ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077524"
+        ]
       }
     ],
     "bank_accounts": [
