@@ -1,0 +1,236 @@
+{
+  "generated": "2025-12-31T05:33:50.476330",
+  "evidence_files": {
+    "JF_annexures": [
+      "JF01",
+      "JF02",
+      "JF03",
+      "JF04",
+      "JF05",
+      "JF06",
+      "JF07",
+      "JF08",
+      "JF09",
+      "JF10",
+      "JF11",
+      "JF12",
+      "JF13"
+    ],
+    "SF_annexures": [
+      "SF1_Bantjies_Debt_Documentation.md",
+      "SF2_Sage_Screenshots_Rynette_Control.md",
+      "SF3_Strategic_Logistics_Stock_Adjustment.md",
+      "SF4_SARS_Audit_Email.md",
+      "SF5_Adderory_Company_Registration_Stock_Supply.md",
+      "SF6_Kayla_Pretorius_Estate_Documentation.md",
+      "SF7_Court_Order_Kayla_Email_Seizure.md",
+      "SF8_Linda_Employment_Records.md"
+    ],
+    "applications": [],
+    "other_evidence": [
+      "1-CIVIL-RESPONSE",
+      "2-CRIMINAL-CASE",
+      "3-EXTERNAL-VALIDATION"
+    ]
+  },
+  "coverage": {
+    "entities_with_full_coverage": 29,
+    "entities_missing_evidence": [
+      {
+        "id": "PLATFORM_001",
+        "name": "Shopify Platform",
+        "type": "platforms"
+      },
+      {
+        "id": "DOMAIN_001",
+        "name": "UNKNOWN",
+        "type": "domains"
+      },
+      {
+        "id": "DOMAIN_002",
+        "name": "UNKNOWN",
+        "type": "domains"
+      },
+      {
+        "id": "TRUST_001",
+        "name": "Family Trust",
+        "type": "trust_entities"
+      },
+      {
+        "id": "BANK_001",
+        "name": "UNKNOWN",
+        "type": "bank_accounts"
+      }
+    ],
+    "entities_missing_ad_res_j7": [
+      {
+        "id": "PLATFORM_001",
+        "name": "Shopify Platform",
+        "type": "platforms"
+      },
+      {
+        "id": "DOMAIN_001",
+        "name": "UNKNOWN",
+        "type": "domains"
+      },
+      {
+        "id": "DOMAIN_002",
+        "name": "UNKNOWN",
+        "type": "domains"
+      },
+      {
+        "id": "BANK_001",
+        "name": "UNKNOWN",
+        "type": "bank_accounts"
+      }
+    ],
+    "evidence_file_usage": {
+      "JF01 - Shopify Plus email evidence": 1,
+      "JF04 - CIPC company records": 3,
+      "JF07 - Financial transaction records": 1,
+      "JF08 - Email correspondence and fraud evidence": 1,
+      "JF09 - Court order timeline cross-reference": 1,
+      "SF9 - Ian Levitt R63M demand letter": 1,
+      "JF05 - Sage accounting system control evidence": 1,
+      "JF07 - Payment redirection documentation": 1,
+      "JF08 - Email impersonation evidence": 1,
+      "JF09 - Domain registration fraud evidence": 1,
+      "JF01 - Shopify platform operator evidence": 1,
+      "JF02 - Business operations documentation": 1,
+      "1-CIVIL-RESPONSE - Answering affidavit": 2,
+      "JF01 - Shopify Plus subscription ownership": 2,
+      "JF02 - RegimA Zone Ltd company documentation": 1,
+      "JF06 - Platform investment evidence": 1,
+      "SF8 - Linda Employment Records": 1,
+      "Employment documentation": 1,
+      "JF03 - Trial balance email August 13, 2020": 1,
+      "JF04 - Trust documentation showing unknown trustee status": 1,
+      "JF07 - Financial records showing R18.685M debt": 1,
+      "JF08 - June 10, 2025 audit dismissal email": 1,
+      "JF08 - Email evidence": 1,
+      "JF13 - Recent correspondence": 3,
+      "SF1 - Bantjies debt documentation": 1,
+      "JF10 - Accounting records": 3,
+      "SF6 - Kayla estate documentation": 1,
+      "JF08 - Evidence packages": 1,
+      "JF08 - Domain registration using Daniel's identity": 1,
+      "JF09 - Identity fraud documentation": 1,
+      "JF08 - Witness evidence": 1,
+      "JF11 - Medical coercion evidence": 1,
+      "SF6 - Kayla Pretorius Estate Documentation": 1,
+      "SF7 - Court Order for Kayla Email Account Seizure": 1,
+      "JF05 - Sage subscription evidence": 1,
+      "JF07 - Financial records": 1,
+      "JF07 - Financial records showing revenue hijacking": 1,
+      "JF02 - UK company registration": 1,
+      "JF06 - Platform payment records": 1,
+      "JF03 - Financial records": 3,
+      "JF02 - Sales reports": 1,
+      "CIPC company records": 4,
+      "SF3 - Stock adjustment evidence": 1,
+      "SF2 - Sage system evidence": 1,
+      "JF03 - Financial records showing rent charges": 1,
+      "SF5 - Adderory company registration": 1,
+      "CIPC records": 1,
+      "JF03 - Financial transactions": 1,
+      "CIPC company registration records": 1,
+      "JF04 - Company documentation": 1,
+      "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf": 2,
+      "CIPC registration 2017/087935/07": 1,
+      "ad-res-j7 CIPC warning reference": 1,
+      "Sage screenshot 2025-06-20 - Control User Access": 1,
+      "User correction: RegimA SA didn't exist until 2021": 1,
+      "SF4 - SARS Audit Email": 1,
+      "SF9 - Ian Levitt demand letter dated 2025-10-23": 1,
+      "JF10 - Trust documents": 1,
+      "Trust deed and amendments": 1,
+      "SF1 - Bantjies trustee appointment": 1
+    }
+  },
+  "timeline_gaps": {
+    "total_events": 77,
+    "events_in_timeline": 77,
+    "missing_from_timeline": []
+  },
+  "recommendations": [
+    {
+      "priority": "HIGH",
+      "category": "evidence_coverage",
+      "issue": "5 entities missing evidence references",
+      "action": "Add evidence references from ad-res-j7 ANNEXURES",
+      "affected_entities": [
+        {
+          "id": "PLATFORM_001",
+          "name": "Shopify Platform",
+          "type": "platforms"
+        },
+        {
+          "id": "DOMAIN_001",
+          "name": "UNKNOWN",
+          "type": "domains"
+        },
+        {
+          "id": "DOMAIN_002",
+          "name": "UNKNOWN",
+          "type": "domains"
+        },
+        {
+          "id": "TRUST_001",
+          "name": "Family Trust",
+          "type": "trust_entities"
+        },
+        {
+          "id": "BANK_001",
+          "name": "UNKNOWN",
+          "type": "bank_accounts"
+        }
+      ]
+    },
+    {
+      "priority": "HIGH",
+      "category": "ad_res_j7_references",
+      "issue": "4 entities missing ad-res-j7 cross-references",
+      "action": "Add specific file paths from ad-res-j7 repository",
+      "affected_entities": [
+        {
+          "id": "PLATFORM_001",
+          "name": "Shopify Platform",
+          "type": "platforms"
+        },
+        {
+          "id": "DOMAIN_001",
+          "name": "UNKNOWN",
+          "type": "domains"
+        },
+        {
+          "id": "DOMAIN_002",
+          "name": "UNKNOWN",
+          "type": "domains"
+        },
+        {
+          "id": "BANK_001",
+          "name": "UNKNOWN",
+          "type": "bank_accounts"
+        }
+      ]
+    },
+    {
+      "priority": "MEDIUM",
+      "category": "unused_evidence",
+      "issue": "13 JF annexures not referenced in entities",
+      "action": "Review and integrate unused evidence files",
+      "unused_files": [
+        "JF13",
+        "JF06",
+        "JF09",
+        "JF01",
+        "JF12",
+        "JF11",
+        "JF04",
+        "JF05",
+        "JF07",
+        "JF03"
+      ]
+    }
+  ]
+}

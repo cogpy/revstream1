@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "19.0_COMPREHENSIVE_REFINEMENT_2025_12_31",
+    "version": "18.0_EVIDENCE_ENHANCED_2025_12_28",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2025-12-31T05:34:39.187429",
-    "changes": "Fixed missing evidence for: PLATFORM_001, TRUST_001, DOMAIN_001, DOMAIN_002, BANK_001"
+    "last_updated": "2025-12-28T05:36:36.077526",
+    "changes": "Complete evidence and ad-res-j7 reference enhancement for all entities"
   },
   "entities": {
     "persons": [
@@ -1177,19 +1177,7 @@
           "used_by_ORG_001_without_ownership",
           "audit_trail_destroyed_by_PERSON_001"
         ],
-        "role": "shopify_ecommerce_platform",
-        "evidence": [
-          "JF01 - Shopify Plus subscription documentation",
-          "JF02 - Platform usage and sales records",
-          "JF06 - Shopify payment invoices"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF01 - Shopify Plus email (THE FORENSIC TIME CAPSULE)",
-          "ANNEXURES/JF02 - Shopify sales reports and analytics",
-          "ANNEXURES/JF06 - Platform subscription payment records"
-        ],
-        "evidence_enhanced": "2025-12-31T05:34:39.187399",
-        "evidence_strength": "conclusive"
+        "role": "shopify_ecommerce_platform"
       }
     ],
     "domains": [
@@ -1209,18 +1197,7 @@
           "owned_by_ORG_003",
           "operated_by_PERSON_005"
         ],
-        "role": "legitimate_domain",
-        "name": "regimaskin.co.za",
-        "evidence": [
-          "JF09 - Domain registration records",
-          "SF5 - Adderory company registration showing domain ownership"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF09 - Domain registration fraud evidence",
-          "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md"
-        ],
-        "evidence_enhanced": "2025-12-31T05:34:39.187416",
-        "evidence_strength": "strong"
+        "role": "legitimate_domain"
       },
       {
         "entity_id": "DOMAIN_002",
@@ -1241,18 +1218,7 @@
           "controlled_by_PERSON_002",
           "used_for_customer_hijacking"
         ],
-        "role": "fraudulent_domain_for_customer_hijacking",
-        "name": "regima.zone",
-        "evidence": [
-          "JF01 - Original platform domain documentation",
-          "JF08 - Email evidence of domain hijacking attempt"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF01 - Shopify Plus email showing original domain",
-          "ANNEXURES/JF08/evidence_package_20251012 - Domain hijacking evidence"
-        ],
-        "evidence_enhanced": "2025-12-31T05:34:39.187418",
-        "evidence_strength": "conclusive"
+        "role": "fraudulent_domain_for_customer_hijacking"
       }
     ],
     "trust_entities": [
@@ -1282,13 +1248,7 @@
           "ANNEXURES/JF08/evidence_package_20250811 - Trust documentation",
           "1-CIVIL-RESPONSE/family-trust - Trust structure and violations"
         ],
-        "evidence_enhanced": "2025-12-31T05:34:39.187412",
-        "evidence": [
-          "JF10 - Trust deed and amendments",
-          "SF1 - Bantjies trustee appointment documentation",
-          "JF04 - CIPC records showing trust relationships"
-        ],
-        "evidence_strength": "strong"
+        "evidence_enhanced": "2025-12-14T05:36:53.165464"
       }
     ],
     "trusts": [
@@ -1357,18 +1317,7 @@
           "controlled_by_PERSON_002",
           "used_for_payment_redirection",
           "linked_to_fraud_scheme"
-        ],
-        "name": "ABSA Accounts (8 suspected fraudulent accounts)",
-        "evidence": [
-          "JF07 - Financial transaction records",
-          "JF08 - Evidence of unauthorized account openings"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF07 - Bank account transaction records",
-          "ANNEXURES/JF08/evidence_package_20251012 - Unauthorized banking activity"
-        ],
-        "evidence_enhanced": "2025-12-31T05:34:39.187421",
-        "evidence_strength": "circumstantial"
+        ]
       }
     ]
   }
