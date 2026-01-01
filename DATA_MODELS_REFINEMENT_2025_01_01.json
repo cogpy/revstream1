@@ -1,0 +1,20 @@
+{
+  "refinement_date": "2026-01-01T05:35:29.227536",
+  "entities": {
+    "total": 33,
+    "version": "20.0_REFINED_2026_01_01"
+  },
+  "relations": {
+    "total": 75,
+    "version": "16.0_REFINED_2026_01_01"
+  },
+  "events": {
+    "total": 77,
+    "version": "18.0_REFINED_2026_01_01",
+    "phase_statistics": {
+      "PHASE_1": 25,
+      "PHASE_2": 4,
+      "PHASE_3": 48
+    }
+  }
+}

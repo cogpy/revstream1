@@ -1,0 +1,18 @@
+{
+  "refinement_date": "2026-01-01T05:36:13.151933",
+  "burden_of_proof_assessment": {
+    "criminal_threshold_95": 7,
+    "civil_threshold_50_plus": 43,
+    "insufficient_evidence": 27
+  },
+  "refined_filings": [
+    "/home/ubuntu/revstream1/CIPC_COMPLAINT_REFINED_2026_01_01.md",
+    "/home/ubuntu/revstream1/POPIA_COMPLAINT_REFINED_2026_01_01.md",
+    "/home/ubuntu/revstream1/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_01.md"
+  ],
+  "recommendations": {
+    "criminal_prosecution": "Recommended based on 7 events meeting 95% threshold",
+    "civil_action": "Strongly supported by 43 additional events",
+    "total_evidenced_events": 50
+  }
+}

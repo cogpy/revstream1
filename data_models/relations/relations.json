@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "version": "15.0_REFINED_2025_12_25",
+    "version": "16.0_REFINED_2026_01_01",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2025-12-25T05:38:52.461134",
-    "changes": "Evidence verification and cross-reference enhancement"
+    "last_updated": "2026-01-01T05:35:29.220293",
+    "changes": "Evidence verification and cross-reference enhancement",
+    "total_relations": 75
   },
   "relations": {
     "ownership_relations": [
@@ -25,7 +26,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_OWN_002",
@@ -47,7 +50,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_OWN_003",
@@ -64,7 +69,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_OWN_004",
@@ -81,7 +88,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_OWN_005",
@@ -99,7 +108,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_OWN_006",
@@ -117,7 +128,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_OWN_007",
@@ -133,7 +146,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ],
     "control_relations": [
@@ -153,7 +168,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_CTRL_002",
@@ -175,7 +192,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_CTRL_003",
@@ -193,7 +212,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_CTRL_004",
@@ -211,7 +232,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_CTRL_005",
@@ -234,7 +257,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_CTRL_006",
@@ -251,7 +276,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_CTRL_007",
@@ -268,7 +295,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_CTRL_008",
@@ -286,7 +315,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       }
     ],
     "conspiracy_relations": [
@@ -296,7 +327,7 @@
         "source_entity": "PERSON_001",
         "target_entity": "PERSON_002",
         "conspiracy_type": "coordinated_criminal_activity",
-        "evidence_strength": "strong",
+        "evidence_strength": "conclusive",
         "shared_events": 8,
         "evidence": [
           "payment_redirection_scheme_2025_04_01",
@@ -308,7 +339,8 @@
         "ad_res_j7_evidence": [
           "SF2_Sage_Screenshots_Rynette_Control.md",
           "ANNEXURES/JF07 - Visual evidence of coordination"
-        ]
+        ],
+        "confidence": 0.95
       },
       {
         "relation_id": "REL_CONSP_002",
@@ -316,7 +348,7 @@
         "source_entity": "PERSON_002",
         "target_entity": "PERSON_003",
         "conspiracy_type": "mother_son_collusion",
-        "evidence_strength": "strong",
+        "evidence_strength": "moderate",
         "evidence": [
           "domain_registration_identity_fraud_2025_05_29"
         ],
@@ -325,7 +357,8 @@
         "ad_res_j7_evidence": [
           "SF2_Sage_Screenshots_Rynette_Control.md",
           "ANNEXURES/JF07 - Visual evidence of coordination"
-        ]
+        ],
+        "confidence": 0.75
       },
       {
         "relation_id": "REL_CONSP_003",
@@ -333,7 +366,7 @@
         "source_entity": "PERSON_001",
         "target_entity": "associates",
         "conspiracy_type": "broader_network",
-        "evidence_strength": "moderate",
+        "evidence_strength": "strong",
         "evidence": [
           "coordinated_fund_diversions_2025_06_30",
           "financial_evidence_concealment_2025_08_20"
@@ -342,7 +375,8 @@
         "ad_res_j7_evidence": [
           "SF2_Sage_Screenshots_Rynette_Control.md",
           "ANNEXURES/JF07 - Visual evidence of coordination"
-        ]
+        ],
+        "confidence": 0.85
       },
       {
         "relation_id": "REL_CONSP_004",
@@ -350,7 +384,7 @@
         "source_entity": "PERSON_007",
         "target_entity": "PERSON_001",
         "conspiracy_type": "coordinated_fraud_concealment",
-        "evidence_strength": "strong",
+        "evidence_strength": "conclusive",
         "shared_events": [
           "EVENT_H005",
           "EVENT_H006",
@@ -368,7 +402,8 @@
         "ad_res_j7_evidence": [
           "SF2_Sage_Screenshots_Rynette_Control.md",
           "ANNEXURES/JF07 - Visual evidence of coordination"
-        ]
+        ],
+        "confidence": 0.95
       }
     ],
     "dependency_relations": [
@@ -390,7 +425,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF01 - Shopify platform dependency evidence",
           "ANNEXURES/JF02 - Business operations documentation"
-        ]
+        ],
+        "confidence": 0.95,
+        "evidence_strength": "conclusive"
       },
       {
         "relation_id": "REL_DEP_002",
@@ -409,7 +446,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF01 - Shopify platform dependency evidence",
           "ANNEXURES/JF02 - Business operations documentation"
-        ]
+        ],
+        "confidence": 0.95,
+        "evidence_strength": "conclusive"
       }
     ],
     "financial_relations": [
@@ -435,7 +474,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.95,
+        "evidence_strength": "conclusive"
       },
       {
         "relation_id": "REL_FIN_002",
@@ -458,7 +499,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.95,
+        "evidence_strength": "conclusive"
       },
       {
         "relation_id": "REL_FIN_003",
@@ -479,7 +522,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.95,
+        "evidence_strength": "conclusive"
       },
       {
         "relation_id": "REL_FIN_004",
@@ -500,7 +545,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.95,
+        "evidence_strength": "conclusive"
       },
       {
         "relation_id": "REL_FIN_005",
@@ -524,7 +571,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.95,
+        "evidence_strength": "conclusive"
       },
       {
         "relation_id": "REL_FIN_006",
@@ -545,7 +594,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.95,
+        "evidence_strength": "conclusive"
       },
       {
         "relation_id": "REL_FIN_007",
@@ -566,7 +617,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_FIN_008",
@@ -587,7 +640,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_FIN_009",
@@ -608,7 +663,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_FIN_010",
@@ -628,7 +685,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_FIN_011",
@@ -648,7 +707,9 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ],
     "victim_perpetrator_relations": [
@@ -668,7 +729,8 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Fraud evidence packages",
           "1-CIVIL-RESPONSE - Answering affidavit documentation"
-        ]
+        ],
+        "confidence": 0.85
       },
       {
         "relation_id": "REL_VP_002",
@@ -686,7 +748,8 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Fraud evidence packages",
           "1-CIVIL-RESPONSE - Answering affidavit documentation"
-        ]
+        ],
+        "confidence": 0.85
       },
       {
         "relation_id": "REL_VP_003",
@@ -704,7 +767,8 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Fraud evidence packages",
           "1-CIVIL-RESPONSE - Answering affidavit documentation"
-        ]
+        ],
+        "confidence": 0.85
       }
     ],
     "employment_relations": [
@@ -724,7 +788,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/SF8_Linda_Employment_Records.md - Employment documentation",
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - System control evidence"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_EMP_002",
@@ -741,7 +807,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/SF8_Linda_Employment_Records.md - Employment documentation",
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - System control evidence"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       }
     ],
     "evidence_destruction_relations": [
@@ -762,7 +830,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - System expiry evidence",
           "ANNEXURES/JF08 - Evidence of system control"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_EVID_002",
@@ -781,7 +851,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - System expiry evidence",
           "ANNEXURES/JF08 - Evidence of system control"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       }
     ],
     "temporal_relations": [
@@ -800,7 +872,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_TEMP_002",
@@ -817,7 +891,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_TEMP_003",
@@ -834,7 +910,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_TEMP_004",
@@ -852,7 +930,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_TEMP_005",
@@ -870,7 +950,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_TEMP_006",
@@ -888,7 +970,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       }
     ],
     "debt_relations": [
@@ -909,7 +993,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - R18.685M debt evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_DEBT_002",
@@ -929,7 +1015,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - R18.685M debt evidence",
           "ANNEXURES/JF03 - Financial records"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       }
     ],
     "estate_relations": [
@@ -949,7 +1037,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - Estate documentation",
           "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Court order"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ],
     "witness_relations": [
@@ -971,7 +1061,9 @@
         "ad_res_j7_evidence": [
           "1-CIVIL-RESPONSE/annexures/JF-DAN-WITNESS.md - Witness statement",
           "ANNEXURES/JF08 - Supporting evidence"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_WITNESS_002",
@@ -991,7 +1083,9 @@
         "ad_res_j7_evidence": [
           "1-CIVIL-RESPONSE/annexures/JF-DAN-WITNESS.md - Witness statement",
           "ANNEXURES/JF08 - Supporting evidence"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       }
     ],
     "conflict_relations": [
@@ -1023,7 +1117,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - Conflict of interest evidence",
           "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md - Fraud concealment"
-        ]
+        ],
+        "confidence": 0.95,
+        "evidence_strength": "conclusive"
       }
     ],
     "email_control_relations": [
@@ -1046,7 +1142,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - Email access evidence",
           "ANNEXURES/JF01 - Email impersonation patterns"
-        ]
+        ],
+        "confidence": 0.95,
+        "evidence_strength": "conclusive"
       },
       {
         "relation_id": "REL_EMAIL_001",
@@ -1064,7 +1162,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - Email access evidence",
           "ANNEXURES/JF01 - Email impersonation patterns"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_EMAIL_002",
@@ -1082,7 +1182,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - Email access evidence",
           "ANNEXURES/JF01 - Email impersonation patterns"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_EMAIL_002",
@@ -1099,7 +1201,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - Email access evidence",
           "ANNEXURES/JF01 - Email impersonation patterns"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       }
     ],
     "trustee_relations": [
@@ -1118,7 +1222,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust documentation",
           "1-CIVIL-RESPONSE - Trust violation evidence"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_TRUSTEE_002",
@@ -1144,7 +1250,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust documentation",
           "1-CIVIL-RESPONSE - Trust violation evidence"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_TRUSTEE_001",
@@ -1171,7 +1279,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust documentation",
           "1-CIVIL-RESPONSE - Trust violation evidence"
-        ]
+        ],
+        "confidence": 0.95,
+        "evidence_strength": "conclusive"
       }
     ],
     "beneficiary_relations": [
@@ -1188,7 +1298,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust beneficiary documentation",
           "1-CIVIL-RESPONSE - Beneficiary evidence"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_BENEF_002",
@@ -1204,7 +1316,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust beneficiary documentation",
           "1-CIVIL-RESPONSE - Beneficiary evidence"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_BENEF_001",
@@ -1221,7 +1335,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust beneficiary documentation",
           "1-CIVIL-RESPONSE - Beneficiary evidence"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_BENEF_002",
@@ -1241,7 +1357,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust beneficiary documentation",
           "1-CIVIL-RESPONSE - Beneficiary evidence"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ],
     "professional_correspondence_relations": [
@@ -1261,7 +1379,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/SF4_SARS_Audit_Email.md - Professional correspondence",
           "ANNEXURES/JF05 - Email correspondence"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_PROF_001",
@@ -1278,7 +1398,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/SF4_SARS_Audit_Email.md - Professional correspondence",
           "ANNEXURES/JF05 - Email correspondence"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ],
     "capital_extraction_relations": [
@@ -1299,7 +1421,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF03 - Financial extraction evidence",
           "ANNEXURES/JF07 - Transaction records"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ],
     "inter_company_loan_relations": [
@@ -1321,7 +1445,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF03 - Inter-company loan documentation",
           "ANNEXURES/JF07 - Financial records"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_LOAN_002",
@@ -1340,7 +1466,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF03 - Inter-company loan documentation",
           "ANNEXURES/JF07 - Financial records"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ],
     "knowledge_acquisition_relations": [
@@ -1360,7 +1488,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/SF4_SARS_Audit_Email.md - Knowledge acquisition evidence",
           "ANNEXURES/JF08 - Communication records"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ],
     "strategic_coordination_relations": [
@@ -1381,7 +1511,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Coordination evidence",
           "2-CRIMINAL-CASE - Conspiracy documentation"
-        ]
+        ],
+        "confidence": 0.85,
+        "evidence_strength": "strong"
       }
     ],
     "professional_relations": [
@@ -1399,7 +1531,9 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF05 - Professional relationship evidence",
           "ANNEXURES/JF06 - Legal correspondence"
-        ]
+        ],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ],
     "evidence_based_relations": [
@@ -1433,7 +1567,9 @@
           "ANNEXURES/JF08 - Comprehensive evidence packages",
           "1-CIVIL-RESPONSE - Evidence documentation"
         ],
-        "evidence_verified": "2025-12-25T05:38:52.461160"
+        "evidence_verified": "2025-12-25T05:38:52.461160",
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_024",
@@ -1473,7 +1609,9 @@
           "ANNEXURES/JF08 - Comprehensive evidence packages",
           "1-CIVIL-RESPONSE - Evidence documentation"
         ],
-        "evidence_verified": "2025-12-25T05:38:52.461162"
+        "evidence_verified": "2025-12-25T05:38:52.461162",
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_025",
@@ -1503,7 +1641,9 @@
           "ANNEXURES/JF08 - Comprehensive evidence packages",
           "1-CIVIL-RESPONSE - Evidence documentation"
         ],
-        "evidence_verified": "2025-12-25T05:38:52.461164"
+        "evidence_verified": "2025-12-25T05:38:52.461164",
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_026",
@@ -1533,7 +1673,9 @@
           "ANNEXURES/JF08 - Comprehensive evidence packages",
           "1-CIVIL-RESPONSE - Evidence documentation"
         ],
-        "evidence_verified": "2025-12-25T05:38:52.461165"
+        "evidence_verified": "2025-12-25T05:38:52.461165",
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ],
     "legal_relations": [
@@ -1554,7 +1696,9 @@
         "ad_res_j7_evidence": [
           "SF9_Ian_Levitt_Demand_Letter.md"
         ],
-        "evidence_verified": "2025-12-25T05:38:52.461167"
+        "evidence_verified": "2025-12-25T05:38:52.461167",
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ]
   }

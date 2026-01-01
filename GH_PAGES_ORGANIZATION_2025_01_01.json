@@ -1,0 +1,25 @@
+{
+  "organization_date": "2026-01-01T05:37:19.883074",
+  "pages_created": [
+    "/home/ubuntu/revstream1/docs/README.md",
+    "/home/ubuntu/revstream1/docs/evidence/README.md",
+    "/home/ubuntu/revstream1/docs/filings/README.md"
+  ],
+  "structure": {
+    "main_index": "docs/README.md",
+    "evidence_index": "docs/evidence/README.md",
+    "filings_index": "docs/filings/README.md",
+    "subdirectories": [
+      "cipc",
+      "popia",
+      "npa",
+      "civil",
+      "criminal"
+    ]
+  },
+  "evidence_summary": {
+    "primary_annexures": "JF01-JF13",
+    "supplementary_files": "SF1-SF8",
+    "total_evidence_items": "200+"
+  }
+}

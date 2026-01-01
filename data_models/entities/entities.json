@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "version": "19.0_COMPREHENSIVE_REFINEMENT_2025_12_31",
+    "version": "20.0_REFINED_2026_01_01",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2025-12-31T05:34:39.187429",
-    "changes": "Fixed missing evidence for: PLATFORM_001, TRUST_001, DOMAIN_001, DOMAIN_002, BANK_001"
+    "last_updated": "2026-01-01T05:35:29.220167",
+    "changes": "Fixed missing evidence for: PLATFORM_001, TRUST_001, DOMAIN_001, DOMAIN_002, BANK_001",
+    "total_entities": 33
   },
   "entities": {
     "persons": [
@@ -139,8 +140,8 @@
           "SF9_Ian_Levitt_Demand_Letter.md - Implicated in revenue theft scheme"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077448",
-        "evidence_strength": "conclusive",
-        "criminal_threshold": "95%_exceeded"
+        "evidence_strength": "strong",
+        "criminal_threshold": "95%_likely"
       },
       {
         "entity_id": "PERSON_004",
@@ -168,7 +169,7 @@
           "1-CIVIL-RESPONSE - Answering affidavit"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077452",
-        "evidence_strength": "conclusive"
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_005",
@@ -203,7 +204,7 @@
           "ANNEXURES/JF02 - Shopify sales reports under her management"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077454",
-        "evidence_strength": "conclusive"
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_006",
@@ -221,7 +222,7 @@
           "ANNEXURES/SF8_Linda_Employment_Records.md - Employment documentation"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077458",
-        "evidence_strength": "circumstantial",
+        "evidence_strength": "moderate",
         "evidence": [
           "SF8 - Linda Employment Records",
           "Employment documentation"
@@ -308,7 +309,7 @@
           "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md - Medical testing proposal"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077460",
-        "evidence_strength": "conclusive",
+        "evidence_strength": "strong",
         "criminal_threshold": "95%_exceeded"
       },
       {
@@ -346,7 +347,7 @@
           "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Email seizure court order"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077463",
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "entity_id": "PERSON_009",
@@ -375,7 +376,7 @@
           "JF10 - Accounting records"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077471",
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "entity_id": "PERSON_010",
@@ -401,7 +402,7 @@
           "JF08 - Evidence packages"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077474",
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "entity_id": "PERSON_003",
@@ -449,7 +450,7 @@
           "ANNEXURES/JF08 - Evidence of independent business operations"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077477",
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "entity_id": "PERSON_011",
@@ -479,7 +480,7 @@
           "JF11 - Medical coercion evidence"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077479",
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "entity_id": "PERSON_012",
@@ -510,7 +511,7 @@
           "JF13 - Recent correspondence"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077481",
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "entity_id": "PERSON_012",
@@ -535,7 +536,7 @@
           "ANNEXURES/JF13 - Recent professional correspondence"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077484",
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "entity_id": "PERSON_013",
@@ -565,7 +566,7 @@
           "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077486",
-        "evidence_strength": "strong",
+        "evidence_strength": "moderate",
         "burden_of_proof": {
           "civil": "HIGH",
           "criminal": "MEDIUM"
@@ -606,7 +607,8 @@
           "ANNEXURES/JF07 - Sage accounting screenshots",
           "1-CIVIL-RESPONSE/financial-flows - Revenue hijacking documentation"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077489"
+        "evidence_enhanced": "2025-12-28T05:36:36.077489",
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "ORG_002",
@@ -634,7 +636,8 @@
           "SF3_Strategic_Logistics_Stock_Adjustment.md - Inter-company transactions",
           "1-CIVIL-RESPONSE/financial-flows - Beneficiary of hijacked revenue"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077491"
+        "evidence_enhanced": "2025-12-28T05:36:36.077491",
+        "evidence_strength": "moderate"
       },
       {
         "entity_id": "ORG_003",
@@ -678,7 +681,7 @@
           "1-CIVIL-RESPONSE - UK company documentation and payment records"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077493",
-        "evidence_strength": "conclusive",
+        "evidence_strength": "strong",
         "financial_impact_detail": "R140,000-R280,000 (28 months Shopify payments)"
       },
       {
@@ -721,7 +724,8 @@
           "ANNEXURES/JF03 - Financial records and analysis",
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF02 - Shopify sales reports"
-        ]
+        ],
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "ORG_005",
@@ -763,7 +767,8 @@
           "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
           "ANNEXURES/JF03 - Financial records and analysis",
           "ANNEXURES/JF04 - CIPC registration documents"
-        ]
+        ],
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "ORG_006",
@@ -787,7 +792,8 @@
           "JF03 - Financial records",
           "CIPC company records",
           "SF2 - Sage system evidence"
-        ]
+        ],
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "ORG_008",
@@ -867,7 +873,8 @@
         "evidence": [
           "JF03 - Financial records showing rent charges",
           "CIPC company records"
-        ]
+        ],
+        "evidence_strength": "moderate"
       },
       {
         "entity_id": "ORG_009",
@@ -923,7 +930,8 @@
           "ANNEXURES/SF5_Adderory_Company_Registration.md",
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
-        ]
+        ],
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "ORG_010",
@@ -968,7 +976,8 @@
         ],
         "ad_res_j7_references": [
           "ANNEXURES/JF04 - CIPC registration documents"
-        ]
+        ],
+        "evidence_strength": "moderate"
       },
       {
         "entity_id": "ORG_012",
@@ -1016,7 +1025,8 @@
         "ad_res_j7_references": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
-        ]
+        ],
+        "evidence_strength": "moderate"
       },
       {
         "entity_id": "ORG_013",
@@ -1050,7 +1060,8 @@
         "ad_res_j7_references": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
-        ]
+        ],
+        "evidence_strength": "moderate"
       },
       {
         "entity_id": "ORG_014",
@@ -1073,7 +1084,8 @@
         "ad_res_j7_references": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
-        ]
+        ],
+        "evidence_strength": "moderate"
       },
       {
         "entity_id": "ORG_015",
@@ -1100,7 +1112,7 @@
           "ANNEXURES/SF4_SARS_Audit_Email.md"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077518",
-        "evidence_strength": "conclusive",
+        "evidence_strength": "moderate",
         "burden_of_proof": {
           "civil": "HIGH",
           "criminal": "N/A"
@@ -1137,7 +1149,7 @@
         "ad_res_j7_references": [
           "SF9_Ian_Levitt_Demand_Letter.md - Formal demand documentation"
         ],
-        "evidence_strength": "conclusive",
+        "evidence_strength": "moderate",
         "significance": "Establishes quantum and demonstrates ignored formal demand",
         "evidence_enhanced": "2025-12-28T05:36:36.077520"
       }
@@ -1189,7 +1201,7 @@
           "ANNEXURES/JF06 - Platform subscription payment records"
         ],
         "evidence_enhanced": "2025-12-31T05:34:39.187399",
-        "evidence_strength": "conclusive"
+        "evidence_strength": "strong"
       }
     ],
     "domains": [
@@ -1220,7 +1232,7 @@
           "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md"
         ],
         "evidence_enhanced": "2025-12-31T05:34:39.187416",
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "entity_id": "DOMAIN_002",
@@ -1252,7 +1264,7 @@
           "ANNEXURES/JF08/evidence_package_20251012 - Domain hijacking evidence"
         ],
         "evidence_enhanced": "2025-12-31T05:34:39.187418",
-        "evidence_strength": "conclusive"
+        "evidence_strength": "moderate"
       }
     ],
     "trust_entities": [
@@ -1339,7 +1351,8 @@
           "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
           "ANNEXURES/JF06 - Court documents and filings"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077524"
+        "evidence_enhanced": "2025-12-28T05:36:36.077524",
+        "evidence_strength": "strong"
       }
     ],
     "bank_accounts": [
@@ -1368,7 +1381,7 @@
           "ANNEXURES/JF08/evidence_package_20251012 - Unauthorized banking activity"
         ],
         "evidence_enhanced": "2025-12-31T05:34:39.187421",
-        "evidence_strength": "circumstantial"
+        "evidence_strength": "moderate"
       }
     ]
   }
