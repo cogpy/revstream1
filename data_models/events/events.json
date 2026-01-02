@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "18.0_REFINED_2026_01_01",
+    "version": "19.0_PERPETRATORS_FIXED_2026_01_02",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 77,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-01-01T05:35:29.220513",
-    "changes": "Phase classification and ad-res-j7 reference enhancement",
+    "last_updated": "2026-01-02T05:34:32.078656",
+    "changes": "Fixed perpetrators/victims for 10 events",
     "phase_statistics": {
       "PHASE_1": 25,
       "PHASE_2": 4,
@@ -251,7 +251,21 @@
         "ANNEXURES/JF08"
       ],
       "evidence_enhanced": "2025-12-22T05:40:58.380436",
-      "phase": "PHASE_1"
+      "phase": "PHASE_1",
+      "entities_involved": [
+        "PERSON_003",
+        "ORG_001",
+        "ORG_011"
+      ],
+      "perpetrators": [
+        "PERSON_003",
+        "PERSON_002"
+      ],
+      "victims": [
+        "PERSON_005",
+        "PERSON_004",
+        "ORG_001"
+      ]
     },
     {
       "event_id": "EVENT_H005",
@@ -443,7 +457,20 @@
         "ANNEXURES/JF10"
       ],
       "evidence_enhanced": "2025-12-22T05:40:58.380433",
-      "phase": "PHASE_1"
+      "phase": "PHASE_1",
+      "entities_involved": [
+        "PERSON_007",
+        "TRUST_001",
+        "ORG_002"
+      ],
+      "perpetrators": [
+        "PERSON_007"
+      ],
+      "victims": [
+        "TRUST_001",
+        "PERSON_005",
+        "PERSON_004"
+      ]
     },
     {
       "event_id": "EVENT_H007",
@@ -651,7 +678,20 @@
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
       "evidence_enhanced": "2025-12-22T05:40:58.380435",
-      "phase": "PHASE_1"
+      "phase": "PHASE_1",
+      "entities_involved": [
+        "PERSON_002",
+        "ORG_001",
+        "PLATFORM_001"
+      ],
+      "perpetrators": [
+        "PERSON_002"
+      ],
+      "victims": [
+        "PERSON_005",
+        "PERSON_004",
+        "ORG_001"
+      ]
     },
     {
       "event_id": "EVENT_088",
@@ -677,7 +717,15 @@
         "ANNEXURES/SF4_SARS_Audit_Email.md"
       ],
       "evidence_enhanced": "2025-12-22T05:40:58.380432",
-      "phase": "PHASE_1"
+      "phase": "PHASE_1",
+      "entities_involved": [
+        "ORG_001",
+        "ORG_002",
+        "ORG_004",
+        "ORG_012"
+      ],
+      "perpetrators": [],
+      "victims": []
     },
     {
       "event_id": "EVENT_H009",
@@ -740,7 +788,15 @@
         "ANNEXURES/JF08"
       ],
       "evidence_enhanced": "2025-12-22T05:40:58.380429",
-      "phase": "PHASE_1"
+      "phase": "PHASE_1",
+      "entities_involved": [
+        "PERSON_010",
+        "PERSON_005"
+      ],
+      "perpetrators": [],
+      "victims": [
+        "PERSON_010"
+      ]
     },
     {
       "event_id": "EVENT_087",
@@ -767,7 +823,19 @@
       ],
       "evidence_enhanced": "2025-12-22T05:40:58.380430",
       "phase": "PHASE_1",
-      "criminal_significance": true
+      "criminal_significance": true,
+      "entities_involved": [
+        "PERSON_010",
+        "PERSON_001",
+        "PERSON_005"
+      ],
+      "perpetrators": [
+        "PERSON_001"
+      ],
+      "victims": [
+        "PERSON_010",
+        "PERSON_005"
+      ]
     },
     {
       "event_id": "EVENT_D001",
@@ -848,10 +916,15 @@
       "description": "RegimA WWD paid R157k+ to ReZonance, reducing debt from R85k to R22k (July-December 2022)",
       "entities_involved": [
         "ORG_001",
-        "ORG_008"
+        "ORG_008",
+        "PERSON_001"
       ],
-      "perpetrators": [],
-      "victims": [],
+      "perpetrators": [
+        "PERSON_001"
+      ],
+      "victims": [
+        "ORG_001"
+      ],
       "location": "South Africa",
       "financial_impact": -157315.35,
       "significance": "Large debt payments during pre-fraud period; debt reduction suggests legitimate business relationship or settlement strategy",
@@ -1809,7 +1882,7 @@
       "entities_involved": [
         "PLATFORM_001"
       ],
-      "description": "CRITICAL EVENT: R1M+ monthly revenue → R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
+      "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
       "financial_impact": "R1,000,000+ monthly",
       "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
       "evidence": [
@@ -2372,6 +2445,19 @@
         "SF2_Sage_Screenshots_Rynette_Control.md",
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF07 - Screenshots and visual evidence"
+      ],
+      "entities_involved": [
+        "PERSON_002",
+        "ORG_001",
+        "PERSON_001"
+      ],
+      "perpetrators": [
+        "PERSON_002"
+      ],
+      "victims": [
+        "PERSON_005",
+        "PERSON_004",
+        "ORG_001"
       ]
     },
     {
@@ -2631,6 +2717,20 @@
       "ad_res_j7_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
         "ANNEXURES/JF07 - Screenshots and visual evidence"
+      ],
+      "entities_involved": [
+        "PERSON_002",
+        "ORG_001",
+        "PERSON_001"
+      ],
+      "perpetrators": [
+        "PERSON_002",
+        "PERSON_001"
+      ],
+      "victims": [
+        "PERSON_005",
+        "PERSON_004",
+        "ORG_001"
       ]
     },
     {
@@ -3012,6 +3112,20 @@
         "ANNEXURES/JF06 - Court documents and filings",
         "ANNEXURES/JF03 - Financial records and analysis",
         "SF9_Ian_Levitt_Demand_Letter.md"
+      ],
+      "entities_involved": [
+        "PERSON_001",
+        "PERSON_009",
+        "PERSON_005",
+        "PERSON_004"
+      ],
+      "perpetrators": [
+        "PERSON_001",
+        "PERSON_009"
+      ],
+      "victims": [
+        "PERSON_005",
+        "PERSON_004"
       ]
     }
   ]

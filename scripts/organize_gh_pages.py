@@ -63,7 +63,7 @@ def generate_enhanced_evidence_index():
     total_files = 0
 
     # Use the comprehensive index from ad-res-j7 as the primary source
-    comp_index_path = os.path.join(AD_RES_J7_DIR, 'COMPREHENSIVE_EVIDENCE_INDEX.md')
+    comp_index_path = os.path.join(AD_RES_J7_DIR, 'docs/evidence/COMPREHENSIVE_EVIDENCE_INDEX.md')
     if not os.path.exists(comp_index_path):
         print("[ERROR] COMPREHENSIVE_EVIDENCE_INDEX.md not found in ad-res-j7!")
         return ""

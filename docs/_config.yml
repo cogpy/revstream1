@@ -1,27 +1,3 @@
 theme: jekyll-theme-minimal
 title: Revenue Stream Hijacking Case 2025-137857
 description: Comprehensive evidence and analysis of the systematic hijacking of revenue streams.
-baseurl: "/revstream1"
-url: "https://cogpy.github.io"
-
-# Build settings
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-# Exclude from processing
-exclude:
-  - .git
-  - .github
-  - "*.py"
-  - "*.json"
-  - "*.txt"
-  - LICENSE
-  - "*.png"
-  - "*.mmd"
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
