@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "version": "17.0_CRIMINAL_ENHANCED_2026_01_03",
+    "version": "16.0_REBUILT_FROM_EVENTS_2025_12_31",
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-01-03T05:35:11.926272",
-    "changes": "Enhanced with criminal threshold markers and significance upgrades"
+    "last_updated": "2025-12-31T05:34:39.188585",
+    "changes": "Complete rebuild from events.json with chronological ordering"
   },
   "timeline": [
     {
@@ -93,9 +93,7 @@
       "legal_significance": "structural_complexity_enabling_fraud",
       "evidence_references": [
         "VV-TRIALBALANCEAPR20202.xlsx"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2019-11-20",
@@ -127,9 +125,7 @@
         "general_ledger_entries",
         "trial_balance_AJEs",
         "JF09 - Timeline analysis"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2020-02-28",
@@ -149,9 +145,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis",
         "REG-TRIALBALANCE.xlsx"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2020-04-30",
@@ -188,9 +182,7 @@
         "JF09 - Timeline analysis",
         "trial_balance_attachments",
         "trial_balance_email_2020_08_13"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2020-08-15",
@@ -233,9 +225,7 @@
       "evidence_references": [
         "company_registration_records",
         "cipc_documentation"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2021-09-10",
@@ -263,9 +253,7 @@
       "legal_significance": "HIGH",
       "evidence_references": [
         "SF7_Court_Order_Kayla_Email_Seizure.md"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2022-03-01",
@@ -354,9 +342,7 @@
       "evidence_references": [
         "rezonance_account_reconciliation",
         "false_payment_documentation"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2023-09-20",
@@ -370,9 +356,7 @@
       "legal_significance": "systematic_fraud_pattern_escalation",
       "evidence_references": [
         "false_payment_claims_documentation"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-01-15",
@@ -389,9 +373,7 @@
         "chantal_letter_january_2025",
         "estate_documentation_pending",
         "letter_from_chantal"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-02-14",
@@ -406,9 +388,7 @@
       "evidence_references": [
         "authorization_absence",
         "bank_transfer_records"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-02-25",
@@ -424,9 +404,7 @@
         "invoice_documentation",
         "financial_records",
         "stock_reconciliation"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-03-01",
@@ -445,9 +423,7 @@
         "stock_reconciliation_reports",
         "bank_statements",
         "financial_records"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-03-15",
@@ -465,9 +441,7 @@
         "lack_of_investigation_documentation",
         "general_ledger_entries",
         "beneficiary_records"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-03-30",
@@ -483,9 +457,7 @@
         "SARS_submissions",
         "email_records",
         "accounting_records"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-04-01",
@@ -500,9 +472,7 @@
       "evidence_references": [
         "bank_records",
         "payment_gateway_logs"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-04-14",
@@ -517,9 +487,7 @@
       "evidence_references": [
         "bank_letter",
         "account_change_documentation"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-04-22",
@@ -536,9 +504,7 @@
         "system_access_logs_pending",
         "it_system_removal_instruction",
         "it_documentation"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-04-30",
@@ -552,9 +518,7 @@
       "legal_significance": "evidence_tampering_obstruction_of_justice",
       "evidence_references": [
         "office_inventory_records"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-05-02",
@@ -569,9 +533,7 @@
       "evidence_references": [
         "beneficiary_correspondence",
         "trust_amendment_documents"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-05-15",
@@ -591,9 +553,7 @@
         "JF09 - Timeline analysis",
         "confrontation_records",
         "debt_documentation"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-05-22",
@@ -611,9 +571,7 @@
         "SF6 - Kayla Pretorius Estate Documentation",
         "JF01 - Preserved Shopify evidence",
         "audit_trail_records"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-05-29",
@@ -628,9 +586,7 @@
       "evidence_references": [
         "domain_registration_records",
         "whois_data"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-06-06",
@@ -647,9 +603,7 @@
         "fraud_reports",
         "analysis_documentation",
         "email_to_bantjies_2025_06_06"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-06-07",
@@ -664,9 +618,7 @@
       "evidence_references": [
         "card_cancellation_logs",
         "bank_records"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-06-10",
@@ -681,16 +633,14 @@
       "primary_category": "fraud_concealment",
       "description": "5 event(s) on 2025-06-10",
       "key_actors": [],
-      "legal_significance": "CRITICAL",
+      "legal_significance": "low",
       "evidence_references": [
         "Email: The RegimA Group results and Computer Expense analysis (2025-06-10)",
         "dismissal_correspondence",
         "audit_request_dismissal_documentation",
         "JF08 - Evidence packages",
         "email_received_thanks_daniel_2025_08_29"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-06-18",
@@ -705,9 +655,7 @@
       "evidence_references": [
         "trust_transaction_records",
         "conflict_of_interest_documentation"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-06-20",
@@ -720,16 +668,14 @@
       "primary_category": "revenue_theft",
       "description": "3 event(s) on 2025-06-20",
       "key_actors": [],
-      "legal_significance": "CRITICAL",
+      "legal_significance": "low",
       "evidence_references": [
         "customer_communications",
         "SF2A",
         "gee_email_to_jax",
         "email_records",
         "domain_switch_email"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-06-25",
@@ -758,9 +704,7 @@
       "evidence_references": [
         "bank_transfer_records",
         "financial_flow_analysis"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-07-08",
@@ -775,9 +719,7 @@
       "evidence_references": [
         "popi_violation_documentation",
         "warehouse_records"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-07-12",
@@ -792,9 +734,7 @@
       "evidence_references": [
         "account_access_logs",
         "control_change_documentation"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-07-23",
@@ -826,9 +766,7 @@
       "evidence_references": [
         "trust_property_documentation",
         "asset_transfer_records"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-08-10",
@@ -857,9 +795,7 @@
       "legal_significance": "strategic_litigation_tactic_not_genuine_business_protection",
       "evidence_references": [
         "settlement_agreement_2025_08_11"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-08-13",
@@ -876,9 +812,7 @@
         "JF08 - Evidence packages",
         "founding_affidavit_2025_08_13",
         "JF09 - Timeline analysis"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-08-15",
@@ -892,9 +826,7 @@
       "legal_significance": "witness_testimony_confirming_customer_hijacking",
       "evidence_references": [
         "gee_email_to_jax"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-08-20",
@@ -909,9 +841,7 @@
       "evidence_references": [
         "evidence_destruction_records",
         "concealment_documentation"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-08-29",
@@ -940,9 +870,7 @@
       "evidence_references": [
         "bank_statements",
         "account_balance_records"
-      ],
-      "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      ]
     },
     {
       "date": "2025-10-23",

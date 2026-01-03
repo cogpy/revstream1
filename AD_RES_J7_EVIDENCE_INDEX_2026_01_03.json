@@ -1,0 +1,4244 @@
+{
+  "metadata": {
+    "created": "2026-01-03T05:36:14.281512",
+    "source": "ad-res-j7 repository",
+    "total_files": 785
+  },
+  "categories": {
+    "annexures": {
+      "count": 277,
+      "files": [
+        {
+          "path": "ANNEXURES/ANNEXURES_INDEX.md",
+          "name": "ANNEXURES_INDEX.md",
+          "size": 19666,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+          "name": "SF1_Bantjies_Debt_Documentation.md",
+          "size": 7005,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md",
+          "name": "SF2_Sage_Screenshots_Rynette_Control.md",
+          "size": 10114,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
+          "name": "SF3_Strategic_Logistics_Stock_Adjustment.md",
+          "size": 10633,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/SF4_SARS_Audit_Email.md",
+          "name": "SF4_SARS_Audit_Email.md",
+          "size": 10935,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md",
+          "name": "SF5_Adderory_Company_Registration_Stock_Supply.md",
+          "size": 11455,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
+          "name": "SF6_Kayla_Pretorius_Estate_Documentation.md",
+          "size": 11722,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md",
+          "name": "SF7_Court_Order_Kayla_Email_Seizure.md",
+          "size": 10144,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/SF8_Linda_Employment_Records.md",
+          "name": "SF8_Linda_Employment_Records.md",
+          "size": 11697,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF01/Re_ The RegimA Group results and Computer Expense analysis.eml",
+          "name": "Re_ The RegimA Group results and Computer Expense analysis.eml",
+          "size": 64715,
+          "type": ".eml"
+        },
+        {
+          "path": "ANNEXURES/JF01/Re_ belongs to regimA.eml",
+          "name": "Re_ belongs to regimA.eml",
+          "size": 32155,
+          "type": ".eml"
+        },
+        {
+          "path": "ANNEXURES/JF02/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+          "name": "RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+          "size": 1388927,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF02/RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+          "name": "RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+          "size": 1352198,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF02/ShopifyPlusW.pdf",
+          "name": "ShopifyPlusW.pdf",
+          "size": 659571,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF03/COMPUTER EXP MAR AND APR2025 (2).xlsx",
+          "name": "COMPUTER EXP MAR AND APR2025 (2).xlsx",
+          "size": 218536,
+          "type": ".xlsx"
+        },
+        {
+          "path": "ANNEXURES/JF03/Fw_ The RegimA Group results and Computer Expense analysis.eml",
+          "name": "Fw_ The RegimA Group results and Computer Expense analysis.eml",
+          "size": 49019,
+          "type": ".eml"
+        },
+        {
+          "path": "ANNEXURES/JF03/Fw_ The RegimA Group results and Computer Expense analysis.msg",
+          "name": "Fw_ The RegimA Group results and Computer Expense analysis.msg",
+          "size": 241664,
+          "type": ".msg"
+        },
+        {
+          "path": "ANNEXURES/JF03/README.md",
+          "name": "README.md",
+          "size": 3048,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF03/Re_ The RegimA Group results and Computer Expense analysis.eml",
+          "name": "Re_ The RegimA Group results and Computer Expense analysis.eml",
+          "size": 64715,
+          "type": ".eml"
+        },
+        {
+          "path": "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf",
+          "name": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf",
+          "size": 159715,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf",
+          "name": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf",
+          "size": 156198,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf",
+          "name": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf",
+          "size": 179423,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf",
+          "name": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf",
+          "size": 161346,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf",
+          "name": "D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf",
+          "size": 160053,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF04/README.md",
+          "name": "README.md",
+          "size": 9366,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/INTEGRATION_GUIDE.md",
+          "name": "INTEGRATION_GUIDE.md",
+          "size": 12822,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/JF8A_DOCUMENTATION_LOG.md",
+          "name": "JF8A_DOCUMENTATION_LOG.md",
+          "size": 20730,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md",
+          "name": "JF8B_EMAIL_COOPERATION_CHAINS.md",
+          "size": 16724,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md",
+          "name": "JF8C_PETER_REFUSAL_TO_ENGAGE.md",
+          "size": 15077,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/JF8D_SYSTEM_ACCESS_RESTRICTIONS.md",
+          "name": "JF8D_SYSTEM_ACCESS_RESTRICTIONS.md",
+          "size": 17605,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/JF8_CORRESPONDENCE_EVIDENCE.md",
+          "name": "JF8_CORRESPONDENCE_EVIDENCE.md",
+          "size": 18070,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/README.md",
+          "name": "README.md",
+          "size": 3931,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF06/0558631 Notice of withdrawal as attorneys of record 250924.pdf",
+          "name": "0558631 Notice of withdrawal as attorneys of record 250924.pdf",
+          "size": 41477,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF06/3. MAT4719 - 01.10.25 - WP Letter to KE.pdf",
+          "name": "3. MAT4719 - 01.10.25 - WP Letter to KE.pdf",
+          "size": 1801588,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF06/62323196362.pdf",
+          "name": "62323196362.pdf",
+          "size": 45481,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF06/62432501494.pdf",
+          "name": "62432501494.pdf",
+          "size": 4370,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF06/KF0019-SecondApplication-03.10.2025.pdf",
+          "name": "KF0019-SecondApplication-03.10.2025.pdf",
+          "size": 5807902,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250911_0002.jpg",
+          "name": "CCE20250911_0002.jpg",
+          "size": 559247,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250911_0002.json",
+          "name": "CCE20250911_0002.json",
+          "size": 3122,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250911_0002.md",
+          "name": "CCE20250911_0002.md",
+          "size": 2823,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924.jpg",
+          "name": "CCE20250924.jpg",
+          "size": 389406,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924.json",
+          "name": "CCE20250924.json",
+          "size": 1015,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924.md",
+          "name": "CCE20250924.md",
+          "size": 778,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0001.jpg",
+          "name": "CCE20250924_0001.jpg",
+          "size": 409485,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0001.json",
+          "name": "CCE20250924_0001.json",
+          "size": 1159,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0001.md",
+          "name": "CCE20250924_0001.md",
+          "size": 929,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0002.jpg",
+          "name": "CCE20250924_0002.jpg",
+          "size": 412451,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0002.json",
+          "name": "CCE20250924_0002.json",
+          "size": 1122,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0002.md",
+          "name": "CCE20250924_0002.md",
+          "size": 892,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0003.jpg",
+          "name": "CCE20250924_0003.jpg",
+          "size": 438215,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0003.json",
+          "name": "CCE20250924_0003.json",
+          "size": 1329,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0003.md",
+          "name": "CCE20250924_0003.md",
+          "size": 1096,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0004.jpg",
+          "name": "CCE20250924_0004.jpg",
+          "size": 386996,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0004.json",
+          "name": "CCE20250924_0004.json",
+          "size": 1166,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0004.md",
+          "name": "CCE20250924_0004.md",
+          "size": 941,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0005.jpg",
+          "name": "CCE20250924_0005.jpg",
+          "size": 382661,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0005.json",
+          "name": "CCE20250924_0005.json",
+          "size": 1029,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0005.md",
+          "name": "CCE20250924_0005.md",
+          "size": 784,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0006.jpg",
+          "name": "CCE20250924_0006.jpg",
+          "size": 83265,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0006.json",
+          "name": "CCE20250924_0006.json",
+          "size": 412,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0006.md",
+          "name": "CCE20250924_0006.md",
+          "size": 203,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0007.jpg",
+          "name": "CCE20250924_0007.jpg",
+          "size": 299393,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0007.json",
+          "name": "CCE20250924_0007.json",
+          "size": 1427,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0007.md",
+          "name": "CCE20250924_0007.md",
+          "size": 1172,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0008.jpg",
+          "name": "CCE20250924_0008.jpg",
+          "size": 300982,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0008.json",
+          "name": "CCE20250924_0008.json",
+          "size": 1305,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0008.md",
+          "name": "CCE20250924_0008.md",
+          "size": 1039,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0009.jpg",
+          "name": "CCE20250924_0009.jpg",
+          "size": 297588,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0009.json",
+          "name": "CCE20250924_0009.json",
+          "size": 1444,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0009.md",
+          "name": "CCE20250924_0009.md",
+          "size": 1208,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0010.jpg",
+          "name": "CCE20250924_0010.jpg",
+          "size": 344553,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0010.json",
+          "name": "CCE20250924_0010.json",
+          "size": 1820,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0010.md",
+          "name": "CCE20250924_0010.md",
+          "size": 1571,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0011.jpg",
+          "name": "CCE20250924_0011.jpg",
+          "size": 276364,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0011.json",
+          "name": "CCE20250924_0011.json",
+          "size": 1442,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0011.md",
+          "name": "CCE20250924_0011.md",
+          "size": 1204,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0012.jpg",
+          "name": "CCE20250924_0012.jpg",
+          "size": 239287,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0012.json",
+          "name": "CCE20250924_0012.json",
+          "size": 1213,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0012.md",
+          "name": "CCE20250924_0012.md",
+          "size": 975,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0013.jpg",
+          "name": "CCE20250924_0013.jpg",
+          "size": 273396,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0013.json",
+          "name": "CCE20250924_0013.json",
+          "size": 1340,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0013.md",
+          "name": "CCE20250924_0013.md",
+          "size": 1100,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0014.jpg",
+          "name": "CCE20250924_0014.jpg",
+          "size": 296384,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0014.json",
+          "name": "CCE20250924_0014.json",
+          "size": 1464,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0014.md",
+          "name": "CCE20250924_0014.md",
+          "size": 1230,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0015.jpg",
+          "name": "CCE20250924_0015.jpg",
+          "size": 171546,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0015.json",
+          "name": "CCE20250924_0015.json",
+          "size": 681,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0015.md",
+          "name": "CCE20250924_0015.md",
+          "size": 446,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0016.jpg",
+          "name": "CCE20250924_0016.jpg",
+          "size": 307286,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0016.json",
+          "name": "CCE20250924_0016.json",
+          "size": 1295,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0016.md",
+          "name": "CCE20250924_0016.md",
+          "size": 1031,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0017.jpg",
+          "name": "CCE20250924_0017.jpg",
+          "size": 212523,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0017.json",
+          "name": "CCE20250924_0017.json",
+          "size": 916,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0017.md",
+          "name": "CCE20250924_0017.md",
+          "size": 677,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0018.jpg",
+          "name": "CCE20250924_0018.jpg",
+          "size": 294644,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0018.json",
+          "name": "CCE20250924_0018.json",
+          "size": 1469,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0018.md",
+          "name": "CCE20250924_0018.md",
+          "size": 1221,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0019.jpg",
+          "name": "CCE20250924_0019.jpg",
+          "size": 272679,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0019.json",
+          "name": "CCE20250924_0019.json",
+          "size": 1303,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0019.md",
+          "name": "CCE20250924_0019.md",
+          "size": 1058,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0020.jpg",
+          "name": "CCE20250924_0020.jpg",
+          "size": 300007,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0020.json",
+          "name": "CCE20250924_0020.json",
+          "size": 1442,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0020.md",
+          "name": "CCE20250924_0020.md",
+          "size": 1203,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0021.jpg",
+          "name": "CCE20250924_0021.jpg",
+          "size": 299595,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0021.json",
+          "name": "CCE20250924_0021.json",
+          "size": 1493,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0021.md",
+          "name": "CCE20250924_0021.md",
+          "size": 1242,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0022.jpg",
+          "name": "CCE20250924_0022.jpg",
+          "size": 248587,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0022.json",
+          "name": "CCE20250924_0022.json",
+          "size": 1240,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0022.md",
+          "name": "CCE20250924_0022.md",
+          "size": 993,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0023.jpg",
+          "name": "CCE20250924_0023.jpg",
+          "size": 311185,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0023.json",
+          "name": "CCE20250924_0023.json",
+          "size": 1517,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0023.md",
+          "name": "CCE20250924_0023.md",
+          "size": 1263,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0024.jpg",
+          "name": "CCE20250924_0024.jpg",
+          "size": 277122,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0024.json",
+          "name": "CCE20250924_0024.json",
+          "size": 1449,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0024.md",
+          "name": "CCE20250924_0024.md",
+          "size": 1191,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0025.jpg",
+          "name": "CCE20250924_0025.jpg",
+          "size": 295456,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0025.json",
+          "name": "CCE20250924_0025.json",
+          "size": 1483,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0025.md",
+          "name": "CCE20250924_0025.md",
+          "size": 1227,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0026.jpg",
+          "name": "CCE20250924_0026.jpg",
+          "size": 258451,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0026.json",
+          "name": "CCE20250924_0026.json",
+          "size": 1320,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0026.md",
+          "name": "CCE20250924_0026.md",
+          "size": 1068,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0027.jpg",
+          "name": "CCE20250924_0027.jpg",
+          "size": 290483,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0027.json",
+          "name": "CCE20250924_0027.json",
+          "size": 1451,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0027.md",
+          "name": "CCE20250924_0027.md",
+          "size": 1215,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0028.jpg",
+          "name": "CCE20250924_0028.jpg",
+          "size": 316184,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0028.json",
+          "name": "CCE20250924_0028.json",
+          "size": 1543,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0028.md",
+          "name": "CCE20250924_0028.md",
+          "size": 1293,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0029.jpg",
+          "name": "CCE20250924_0029.jpg",
+          "size": 280363,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0029.json",
+          "name": "CCE20250924_0029.json",
+          "size": 1322,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0029.md",
+          "name": "CCE20250924_0029.md",
+          "size": 1084,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0030.jpg",
+          "name": "CCE20250924_0030.jpg",
+          "size": 296780,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0030.json",
+          "name": "CCE20250924_0030.json",
+          "size": 1377,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0030.md",
+          "name": "CCE20250924_0030.md",
+          "size": 1137,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0031.jpg",
+          "name": "CCE20250924_0031.jpg",
+          "size": 342128,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0031.json",
+          "name": "CCE20250924_0031.json",
+          "size": 1726,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0031.md",
+          "name": "CCE20250924_0031.md",
+          "size": 1482,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0032.jpg",
+          "name": "CCE20250924_0032.jpg",
+          "size": 315917,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0032.json",
+          "name": "CCE20250924_0032.json",
+          "size": 1588,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0032.md",
+          "name": "CCE20250924_0032.md",
+          "size": 1344,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0033.jpg",
+          "name": "CCE20250924_0033.jpg",
+          "size": 337444,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0033.json",
+          "name": "CCE20250924_0033.json",
+          "size": 1782,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0033.md",
+          "name": "CCE20250924_0033.md",
+          "size": 1529,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0034.jpg",
+          "name": "CCE20250924_0034.jpg",
+          "size": 264149,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0034.json",
+          "name": "CCE20250924_0034.json",
+          "size": 1277,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0034.md",
+          "name": "CCE20250924_0034.md",
+          "size": 1042,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0035.jpg",
+          "name": "CCE20250924_0035.jpg",
+          "size": 326205,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0035.json",
+          "name": "CCE20250924_0035.json",
+          "size": 1652,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0035.md",
+          "name": "CCE20250924_0035.md",
+          "size": 1403,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0036.jpg",
+          "name": "CCE20250924_0036.jpg",
+          "size": 293618,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0036.json",
+          "name": "CCE20250924_0036.json",
+          "size": 1424,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0036.md",
+          "name": "CCE20250924_0036.md",
+          "size": 1189,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0037.jpg",
+          "name": "CCE20250924_0037.jpg",
+          "size": 288281,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0037.json",
+          "name": "CCE20250924_0037.json",
+          "size": 1424,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0037.md",
+          "name": "CCE20250924_0037.md",
+          "size": 1185,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0038.jpg",
+          "name": "CCE20250924_0038.jpg",
+          "size": 286714,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0038.json",
+          "name": "CCE20250924_0038.json",
+          "size": 1418,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0038.md",
+          "name": "CCE20250924_0038.md",
+          "size": 1176,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0039.jpg",
+          "name": "CCE20250924_0039.jpg",
+          "size": 299855,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0039.json",
+          "name": "CCE20250924_0039.json",
+          "size": 1467,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0039.md",
+          "name": "CCE20250924_0039.md",
+          "size": 1231,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0040.jpg",
+          "name": "CCE20250924_0040.jpg",
+          "size": 291046,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0040.json",
+          "name": "CCE20250924_0040.json",
+          "size": 1468,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0040.md",
+          "name": "CCE20250924_0040.md",
+          "size": 1213,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0041.jpg",
+          "name": "CCE20250924_0041.jpg",
+          "size": 303347,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0041.json",
+          "name": "CCE20250924_0041.json",
+          "size": 1534,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0041.md",
+          "name": "CCE20250924_0041.md",
+          "size": 1284,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0042.jpg",
+          "name": "CCE20250924_0042.jpg",
+          "size": 315113,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0042.json",
+          "name": "CCE20250924_0042.json",
+          "size": 1533,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0042.md",
+          "name": "CCE20250924_0042.md",
+          "size": 1297,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0043.jpg",
+          "name": "CCE20250924_0043.jpg",
+          "size": 269421,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0043.json",
+          "name": "CCE20250924_0043.json",
+          "size": 1223,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0043.md",
+          "name": "CCE20250924_0043.md",
+          "size": 988,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0044.jpg",
+          "name": "CCE20250924_0044.jpg",
+          "size": 321653,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0044.json",
+          "name": "CCE20250924_0044.json",
+          "size": 1138,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0044.md",
+          "name": "CCE20250924_0044.md",
+          "size": 907,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0045.jpg",
+          "name": "CCE20250924_0045.jpg",
+          "size": 841264,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0045.json",
+          "name": "CCE20250924_0045.json",
+          "size": 1632,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0045.md",
+          "name": "CCE20250924_0045.md",
+          "size": 1370,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0046.jpg",
+          "name": "CCE20250924_0046.jpg",
+          "size": 940952,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0046.json",
+          "name": "CCE20250924_0046.json",
+          "size": 1526,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0046.md",
+          "name": "CCE20250924_0046.md",
+          "size": 1267,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0047.jpg",
+          "name": "CCE20250924_0047.jpg",
+          "size": 760827,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0047.json",
+          "name": "CCE20250924_0047.json",
+          "size": 1509,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0047.md",
+          "name": "CCE20250924_0047.md",
+          "size": 1257,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0048.jpg",
+          "name": "CCE20250924_0048.jpg",
+          "size": 627981,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0048.json",
+          "name": "CCE20250924_0048.json",
+          "size": 2031,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0048.md",
+          "name": "CCE20250924_0048.md",
+          "size": 1766,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0049.jpg",
+          "name": "CCE20250924_0049.jpg",
+          "size": 474130,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0049.json",
+          "name": "CCE20250924_0049.json",
+          "size": 2611,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0049.md",
+          "name": "CCE20250924_0049.md",
+          "size": 2344,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0050.jpg",
+          "name": "CCE20250924_0050.jpg",
+          "size": 353626,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0050.json",
+          "name": "CCE20250924_0050.json",
+          "size": 2056,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0050.md",
+          "name": "CCE20250924_0050.md",
+          "size": 1803,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0051.jpg",
+          "name": "CCE20250924_0051.jpg",
+          "size": 852412,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0051.json",
+          "name": "CCE20250924_0051.json",
+          "size": 1367,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0051.md",
+          "name": "CCE20250924_0051.md",
+          "size": 1106,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929.jpg",
+          "name": "CCE20250929.jpg",
+          "size": 327145,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929.json",
+          "name": "CCE20250929.json",
+          "size": 1711,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929.md",
+          "name": "CCE20250929.md",
+          "size": 1467,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0001.jpg",
+          "name": "CCE20250929_0001.jpg",
+          "size": 534487,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0001.json",
+          "name": "CCE20250929_0001.json",
+          "size": 2875,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0001.md",
+          "name": "CCE20250929_0001.md",
+          "size": 2631,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0002.jpg",
+          "name": "CCE20250929_0002.jpg",
+          "size": 479233,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0002.json",
+          "name": "CCE20250929_0002.json",
+          "size": 2412,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0002.md",
+          "name": "CCE20250929_0002.md",
+          "size": 2174,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0003.jpg",
+          "name": "CCE20250929_0003.jpg",
+          "size": 503570,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0003.json",
+          "name": "CCE20250929_0003.json",
+          "size": 2720,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0003.md",
+          "name": "CCE20250929_0003.md",
+          "size": 2479,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0004.jpg",
+          "name": "CCE20250929_0004.jpg",
+          "size": 421353,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0004.json",
+          "name": "CCE20250929_0004.json",
+          "size": 2266,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0004.md",
+          "name": "CCE20250929_0004.md",
+          "size": 2027,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0005.jpg",
+          "name": "CCE20250929_0005.jpg",
+          "size": 507416,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0005.json",
+          "name": "CCE20250929_0005.json",
+          "size": 2595,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0005.md",
+          "name": "CCE20250929_0005.md",
+          "size": 2349,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0006.jpg",
+          "name": "CCE20250929_0006.jpg",
+          "size": 292969,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0006.json",
+          "name": "CCE20250929_0006.json",
+          "size": 1164,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0006.md",
+          "name": "CCE20250929_0006.md",
+          "size": 949,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+          "name": "Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+          "size": 320117,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json",
+          "name": "Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json",
+          "size": 1827,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md",
+          "name": "Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md",
+          "size": 1534,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+          "name": "Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+          "size": 306870,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.json",
+          "name": "Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.json",
+          "size": 1500,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md",
+          "name": "Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md",
+          "size": 1273,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+          "name": "RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+          "size": 1388927,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+          "name": "RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+          "size": 1352198,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/RegimA_Zone_W_388990813.pdf",
+          "name": "RegimA_Zone_W_388990813.pdf",
+          "size": 99092,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/image.json",
+          "name": "image.json",
+          "size": 1547,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/image.md",
+          "name": "image.md",
+          "size": 1306,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/image.png",
+          "name": "image.png",
+          "size": 289330,
+          "type": ".png"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/AccountTransactionsReport.pdf",
+          "name": "AccountTransactionsReport.pdf",
+          "size": 1056931,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/ComputerExpensesCategorizationReport(Corrected).pdf",
+          "name": "ComputerExpensesCategorizationReport(Corrected).pdf",
+          "size": 301366,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/ProfitAndLossReport(RWD).pdf",
+          "name": "ProfitAndLossReport(RWD).pdf",
+          "size": 87035,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/ProfitandLoss.pdf",
+          "name": "ProfitandLoss.pdf",
+          "size": 41764,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/RezonanceFebr2023.PDF",
+          "name": "RezonanceFebr2023.PDF",
+          "size": 11559,
+          "type": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/email-body.html",
+          "name": "email-body.html",
+          "size": 66203,
+          "type": ".html"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/evidence_extraction_summary.md",
+          "name": "evidence_extraction_summary.md",
+          "size": 7258,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/monthly_spending_trend.json",
+          "name": "monthly_spending_trend.json",
+          "size": 1030,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/monthly_spending_trend.md",
+          "name": "monthly_spending_trend.md",
+          "size": 737,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/monthly_spending_trend.png",
+          "name": "monthly_spending_trend.png",
+          "size": 34033,
+          "type": ".png"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250811/LetterofAppointment11082025.pdf",
+          "name": "LetterofAppointment11082025.pdf",
+          "size": 341794,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251009/email-body.html",
+          "name": "email-body.html",
+          "size": 90892,
+          "type": ".html"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251009/email_analysis_findings.md",
+          "name": "email_analysis_findings.md",
+          "size": 2985,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251009/evidence_extraction_summary.md",
+          "name": "evidence_extraction_summary.md",
+          "size": 6068,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/InvIn30040120April2015toInv30482424April2025.PDF",
+          "name": "InvIn30040120April2015toInv30482424April2025.PDF",
+          "size": 379714,
+          "type": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2017to29February2018.PDF",
+          "name": "Regima-1March2017to29February2018.PDF",
+          "size": 3382,
+          "type": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2018to29February2019.PDF",
+          "name": "Regima-1March2018to29February2019.PDF",
+          "size": 3308,
+          "type": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2019to29February2020.PDF",
+          "name": "Regima-1March2019to29February2020.PDF",
+          "size": 3220,
+          "type": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2020to28February2021.PDF",
+          "name": "Regima-1March2020to28February2021.PDF",
+          "size": 3951,
+          "type": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2021to28February2022.PDF",
+          "name": "Regima-1March2021to28February2022.PDF",
+          "size": 4320,
+          "type": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF",
+          "name": "Regima-1March2022to28February2023.PDF",
+          "size": 3566,
+          "type": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2023to29February2024.PDF",
+          "name": "Regima-1March2023to29February2024.PDF",
+          "size": 3302,
+          "type": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2024to28February2025.PDF",
+          "name": "Regima-1March2024to28February2025.PDF",
+          "size": 3461,
+          "type": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2025to28February2026.PDF",
+          "name": "Regima-1March2025to28February2026.PDF",
+          "size": 3299,
+          "type": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+          "name": "comprehensive_fraud_timeline_2017_2025.md",
+          "size": 11005,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/email-body.html",
+          "name": "email-body.html",
+          "size": 3402,
+          "type": ".html"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/image001.jpg",
+          "name": "image001.jpg",
+          "size": 193200,
+          "type": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/image001.json",
+          "name": "image001.json",
+          "size": 637,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/image001.md",
+          "name": "image001.md",
+          "size": 419,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/regima_uk_extraction.json",
+          "name": "regima_uk_extraction.json",
+          "size": 79756,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/structured_analysis.json",
+          "name": "structured_analysis.json",
+          "size": 12064,
+          "type": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/uk_transaction_analysis.md",
+          "name": "uk_transaction_analysis.md",
+          "size": 6424,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF09/APR-SEP-2025.md",
+          "name": "APR-SEP-2025.md",
+          "size": 33461,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF09/COMPREHENSIVE_TIMELINE_2017_2025.md",
+          "name": "COMPREHENSIVE_TIMELINE_2017_2025.md",
+          "size": 13413,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF09/ENTITY_RELATION_UPDATES_20250523.md",
+          "name": "ENTITY_RELATION_UPDATES_20250523.md",
+          "size": 20978,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF09/ENTITY_RELATION_UPDATES_20250811.md",
+          "name": "ENTITY_RELATION_UPDATES_20250811.md",
+          "size": 6884,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF09/ENTITY_RELATION_UPDATES_20250811_COMPLETE.md",
+          "name": "ENTITY_RELATION_UPDATES_20250811_COMPLETE.md",
+          "size": 939,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF09/HYPER_HOLMES_ANALYSIS_20250523.md",
+          "name": "HYPER_HOLMES_ANALYSIS_20250523.md",
+          "size": 20637,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF09/HYPER_HOLMES_ANALYSIS_20250811.md",
+          "name": "HYPER_HOLMES_ANALYSIS_20250811.md",
+          "size": 1151,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF09/court-order-timeline-cross-reference-analysis.md",
+          "name": "court-order-timeline-cross-reference-analysis.md",
+          "size": 7053,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF10/ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md",
+          "name": "ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md",
+          "size": 13421,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF10/COMPLETION_NOTES.md",
+          "name": "COMPLETION_NOTES.md",
+          "size": 6734,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF10/README.md",
+          "name": "README.md",
+          "size": 6450,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF11/MED-COERCIVE.md",
+          "name": "MED-COERCIVE.md",
+          "size": 9512,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF12/criminal_matter_safety_guide.md",
+          "name": "criminal_matter_safety_guide.md",
+          "size": 10282,
+          "type": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF13/KF0019-LettertoOpp(PottasAttorneys)26.11.2025.pdf",
+          "name": "KF0019-LettertoOpp(PottasAttorneys)26.11.2025.pdf",
+          "size": 207452,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF13/KL0034-LetterofDemand-26.11.2025.pdf",
+          "name": "KL0034-LetterofDemand-26.11.2025.pdf",
+          "size": 233533,
+          "type": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF13/README.md",
+          "name": "README.md",
+          "size": 5392,
+          "type": ".md"
+        }
+      ]
+    },
+    "supplementary_files": {
+      "count": 0,
+      "files": []
+    },
+    "jax_response": {
+      "count": 487,
+      "files": [
+        {
+          "path": "jax-response/AD_PARAGRAPH_RESPONSE_MATRIX.md",
+          "name": "AD_PARAGRAPH_RESPONSE_MATRIX.md",
+          "size": 10135
+        },
+        {
+          "path": "jax-response/COMPREHENSIVE_RESPONSE_STRUCTURE.md",
+          "name": "COMPREHENSIVE_RESPONSE_STRUCTURE.md",
+          "size": 5914
+        },
+        {
+          "path": "jax-response/CRIMINAL_ENTERPRISE_EVIDENCE_STRUCTURE.md",
+          "name": "CRIMINAL_ENTERPRISE_EVIDENCE_STRUCTURE.md",
+          "size": 6676
+        },
+        {
+          "path": "jax-response/FORENSIC_EVIDENCE_INDEX.json",
+          "name": "FORENSIC_EVIDENCE_INDEX.json",
+          "size": 12157
+        },
+        {
+          "path": "jax-response/FORENSIC_EVIDENCE_INDEX.md",
+          "name": "FORENSIC_EVIDENCE_INDEX.md",
+          "size": 19924
+        },
+        {
+          "path": "jax-response/IMPLEMENTATION_OPTIMIZATION_SUMMARY.md",
+          "name": "IMPLEMENTATION_OPTIMIZATION_SUMMARY.md",
+          "size": 9108
+        },
+        {
+          "path": "jax-response/IMPLEMENTATION_STATUS_REPORT.md",
+          "name": "IMPLEMENTATION_STATUS_REPORT.md",
+          "size": 25757
+        },
+        {
+          "path": "jax-response/IMPROVEMENTS_BASED_ON_LEX_ANALYSIS.md",
+          "name": "IMPROVEMENTS_BASED_ON_LEX_ANALYSIS.md",
+          "size": 30540
+        },
+        {
+          "path": "jax-response/IMPROVEMENT_SUGGESTIONS.md",
+          "name": "IMPROVEMENT_SUGGESTIONS.md",
+          "size": 4615
+        },
+        {
+          "path": "jax-response/INTEGRATION_GUIDE.md",
+          "name": "INTEGRATION_GUIDE.md",
+          "size": 2314
+        },
+        {
+          "path": "jax-response/JAX_DAN_RESPONSE_IMPROVEMENTS_COMPREHENSIVE.md",
+          "name": "JAX_DAN_RESPONSE_IMPROVEMENTS_COMPREHENSIVE.md",
+          "size": 23560
+        },
+        {
+          "path": "jax-response/JAX_DAN_RESPONSE_IMPROVEMENTS_V43_COMPREHENSIVE.md",
+          "name": "JAX_DAN_RESPONSE_IMPROVEMENTS_V43_COMPREHENSIVE.md",
+          "size": 49047
+        },
+        {
+          "path": "jax-response/JAX_DAN_RESPONSE_IMPROVEMENTS_V45_LEX_INTEGRATED.md",
+          "name": "JAX_DAN_RESPONSE_IMPROVEMENTS_V45_LEX_INTEGRATED.md",
+          "size": 43240
+        },
+        {
+          "path": "jax-response/JAX_DAN_RESPONSE_IMPROVEMENTS_V52_COMPREHENSIVE.md",
+          "name": "JAX_DAN_RESPONSE_IMPROVEMENTS_V52_COMPREHENSIVE.md",
+          "size": 52523
+        },
+        {
+          "path": "jax-response/JAX_DAN_RESPONSE_IMPROVEMENTS_V54_OPTIMAL_LAW_RESOLUTION.md",
+          "name": "JAX_DAN_RESPONSE_IMPROVEMENTS_V54_OPTIMAL_LAW_RESOLUTION.md",
+          "size": 48223
+        },
+        {
+          "path": "jax-response/PHASE1_IMPLEMENTATION_SUMMARY.md",
+          "name": "PHASE1_IMPLEMENTATION_SUMMARY.md",
+          "size": 8040
+        },
+        {
+          "path": "jax-response/README.json",
+          "name": "README.json",
+          "size": 13150
+        },
+        {
+          "path": "jax-response/README.md",
+          "name": "README.md",
+          "size": 17780
+        },
+        {
+          "path": "jax-response/accountant_concerns.md",
+          "name": "accountant_concerns.md",
+          "size": 1703
+        },
+        {
+          "path": "jax-response/annexures_and_evidence.md",
+          "name": "annexures_and_evidence.md",
+          "size": 1747
+        },
+        {
+          "path": "jax-response/burden_of_proof_analysis.md",
+          "name": "burden_of_proof_analysis.md",
+          "size": 15289
+        },
+        {
+          "path": "jax-response/comprehensive_material_non_disclosure.md",
+          "name": "comprehensive_material_non_disclosure.md",
+          "size": 31286
+        },
+        {
+          "path": "jax-response/confrontation.md",
+          "name": "confrontation.md",
+          "size": 1585
+        },
+        {
+          "path": "jax-response/critical_paragraph_it_expense_rebuttal.md",
+          "name": "critical_paragraph_it_expense_rebuttal.md",
+          "size": 2923
+        },
+        {
+          "path": "jax-response/critical_paragraph_r500k_rebuttal.md",
+          "name": "critical_paragraph_r500k_rebuttal.md",
+          "size": 2543
+        },
+        {
+          "path": "jax-response/documentation_requests.md",
+          "name": "documentation_requests.md",
+          "size": 1876
+        },
+        {
+          "path": "jax-response/financial_allegations_rebuttal_matrix.md",
+          "name": "financial_allegations_rebuttal_matrix.md",
+          "size": 2713
+        },
+        {
+          "path": "jax-response/interim_relief.md",
+          "name": "interim_relief.md",
+          "size": 1909
+        },
+        {
+          "path": "jax-response/jax-dan-response-improvements.md",
+          "name": "jax-dan-response-improvements.md",
+          "size": 36187
+        },
+        {
+          "path": "jax-response/optimal_proof_strategies_matrix.json",
+          "name": "optimal_proof_strategies_matrix.json",
+          "size": 2137327
+        },
+        {
+          "path": "jax-response/peters_causation.md",
+          "name": "peters_causation.md",
+          "size": 8631
+        },
+        {
+          "path": "jax-response/peters_discovery.md",
+          "name": "peters_discovery.md",
+          "size": 1874
+        },
+        {
+          "path": "jax-response/proof_strategies_implementation_report.json",
+          "name": "proof_strategies_implementation_report.json",
+          "size": 1342
+        },
+        {
+          "path": "jax-response/quantified_harm_analysis.md",
+          "name": "quantified_harm_analysis.md",
+          "size": 19005
+        },
+        {
+          "path": "jax-response/quick-action-summary.md",
+          "name": "quick-action-summary.md",
+          "size": 6650
+        },
+        {
+          "path": "jax-response/respondent_roles_and_responsibilities.md",
+          "name": "respondent_roles_and_responsibilities.md",
+          "size": 2265
+        },
+        {
+          "path": "jax-response/responsible_person_regulatory_crisis.md",
+          "name": "responsible_person_regulatory_crisis.md",
+          "size": 3660
+        },
+        {
+          "path": "jax-response/settlement_and_timing.md",
+          "name": "settlement_and_timing.md",
+          "size": 1980
+        },
+        {
+          "path": "jax-response/timeline_analysis.md",
+          "name": "timeline_analysis.md",
+          "size": 3595
+        },
+        {
+          "path": "jax-response/urgency.md",
+          "name": "urgency.md",
+          "size": 1897
+        },
+        {
+          "path": "jax-response/AD/README.json",
+          "name": "README.json",
+          "size": 7277
+        },
+        {
+          "path": "jax-response/AD/README.md",
+          "name": "README.md",
+          "size": 8628
+        },
+        {
+          "path": "jax-response/AD/1-Critical/COMPREHENSIVE_LEX_INTEGRATION_IMPROVEMENTS.md",
+          "name": "COMPREHENSIVE_LEX_INTEGRATION_IMPROVEMENTS.md",
+          "size": 24294
+        },
+        {
+          "path": "jax-response/AD/1-Critical/DAN_BUSINESS_CONTINUITY_IMPACT.md",
+          "name": "DAN_BUSINESS_CONTINUITY_IMPACT.md",
+          "size": 19166
+        },
+        {
+          "path": "jax-response/AD/1-Critical/DAN_IT_ARCHITECTURE.md",
+          "name": "DAN_IT_ARCHITECTURE.md",
+          "size": 26971
+        },
+        {
+          "path": "jax-response/AD/1-Critical/DAN_SYSTEM_ACCESS_AUDIT.md",
+          "name": "DAN_SYSTEM_ACCESS_AUDIT.md",
+          "size": 15016
+        },
+        {
+          "path": "jax-response/AD/1-Critical/DAN_TECHNICAL_TIMELINE_ANALYSIS.md",
+          "name": "DAN_TECHNICAL_TIMELINE_ANALYSIS.md",
+          "size": 12070
+        },
+        {
+          "path": "jax-response/AD/1-Critical/FINANCIAL_HYPERGRAPH_TIMELINE_LINKS.md",
+          "name": "FINANCIAL_HYPERGRAPH_TIMELINE_LINKS.md",
+          "size": 9260
+        },
+        {
+          "path": "jax-response/AD/1-Critical/IT_EXPENSE_BREAKDOWN.md",
+          "name": "IT_EXPENSE_BREAKDOWN.md",
+          "size": 24591
+        },
+        {
+          "path": "jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md",
+          "name": "KEY_TIMELINE_EVENTS_COMPREHENSIVE.md",
+          "size": 13121
+        },
+        {
+          "path": "jax-response/AD/1-Critical/PARA_10_5-10_10_23.json",
+          "name": "PARA_10_5-10_10_23.json",
+          "size": 1979
+        },
+        {
+          "path": "jax-response/AD/1-Critical/PARA_10_5-10_10_23.md",
+          "name": "PARA_10_5-10_10_23.md",
+          "size": 8163
+        },
+        {
+          "path": "jax-response/AD/1-Critical/PARA_10_5-10_10_23_DAN_FINANCIAL.md",
+          "name": "PARA_10_5-10_10_23_DAN_FINANCIAL.md",
+          "size": 20597
+        },
+        {
+          "path": "jax-response/AD/1-Critical/PARA_7_2-7_5.json",
+          "name": "PARA_7_2-7_5.json",
+          "size": 5038
+        },
+        {
+          "path": "jax-response/AD/1-Critical/PARA_7_2-7_5.md",
+          "name": "PARA_7_2-7_5.md",
+          "size": 27777
+        },
+        {
+          "path": "jax-response/AD/1-Critical/PARA_7_2-7_5_DAN_TECHNICAL.md",
+          "name": "PARA_7_2-7_5_DAN_TECHNICAL.md",
+          "size": 28845
+        },
+        {
+          "path": "jax-response/AD/1-Critical/PARA_7_6.json",
+          "name": "PARA_7_6.json",
+          "size": 1930
+        },
+        {
+          "path": "jax-response/AD/1-Critical/PARA_7_6.md",
+          "name": "PARA_7_6.md",
+          "size": 5692
+        },
+        {
+          "path": "jax-response/AD/1-Critical/PARA_7_6_DAN_DIRECTOR_LOAN.md",
+          "name": "PARA_7_6_DAN_DIRECTOR_LOAN.md",
+          "size": 21392
+        },
+        {
+          "path": "jax-response/AD/1-Critical/PARA_7_7-7_8.json",
+          "name": "PARA_7_7-7_8.json",
+          "size": 1954
+        },
+        {
+          "path": "jax-response/AD/1-Critical/PARA_7_7-7_8.md",
+          "name": "PARA_7_7-7_8.md",
+          "size": 16589
+        },
+        {
+          "path": "jax-response/AD/1-Critical/PARA_7_7-7_8_DAN_PAYMENT_DETAILS.json",
+          "name": "PARA_7_7-7_8_DAN_PAYMENT_DETAILS.json",
+          "size": 663
+        },
+        {
+          "path": "jax-response/AD/1-Critical/PARA_7_7-7_8_DAN_PAYMENT_DETAILS.md",
+          "name": "PARA_7_7-7_8_DAN_PAYMENT_DETAILS.md",
+          "size": 15042
+        },
+        {
+          "path": "jax-response/AD/1-Critical/PARA_7_9-7_11.json",
+          "name": "PARA_7_9-7_11.json",
+          "size": 1953
+        },
+        {
+          "path": "jax-response/AD/1-Critical/PARA_7_9-7_11.md",
+          "name": "PARA_7_9-7_11.md",
+          "size": 7023
+        },
+        {
+          "path": "jax-response/AD/1-Critical/PARA_7_9-7_11_DAN_JUSTIFICATION.md",
+          "name": "PARA_7_9-7_11_DAN_JUSTIFICATION.md",
+          "size": 22277
+        },
+        {
+          "path": "jax-response/AD/1-Critical/PETER_TRUST_POWER_ABUSE_LEX_ANALYSIS.md",
+          "name": "PETER_TRUST_POWER_ABUSE_LEX_ANALYSIS.md",
+          "size": 23802
+        },
+        {
+          "path": "jax-response/AD/1-Critical/README.md",
+          "name": "README.md",
+          "size": 10739
+        },
+        {
+          "path": "jax-response/AD/1-Critical/RWD_LEX_FRAMEWORK_ANALYSIS.md",
+          "name": "RWD_LEX_FRAMEWORK_ANALYSIS.md",
+          "size": 24836
+        },
+        {
+          "path": "jax-response/AD/1-Critical/RWD_REVENUE_INTEGRITY_ANALYSIS.md",
+          "name": "RWD_REVENUE_INTEGRITY_ANALYSIS.md",
+          "size": 14398
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_11-11_5.json",
+          "name": "PARA_11-11_5.json",
+          "size": 1911
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_11-11_5.md",
+          "name": "PARA_11-11_5.md",
+          "size": 1363
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_11-11_5_DAN_URGENCY.md",
+          "name": "PARA_11-11_5_DAN_URGENCY.md",
+          "size": 18341
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_13-13_1.json",
+          "name": "PARA_13-13_1.json",
+          "size": 1883
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_13-13_1.md",
+          "name": "PARA_13-13_1.md",
+          "size": 1349
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_13-13_1_DAN_INTERIM_RELIEF.json",
+          "name": "PARA_13-13_1_DAN_INTERIM_RELIEF.json",
+          "size": 694
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_13-13_1_DAN_INTERIM_RELIEF.md",
+          "name": "PARA_13-13_1_DAN_INTERIM_RELIEF.md",
+          "size": 16513
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_3-3_10.json",
+          "name": "PARA_3-3_10.json",
+          "size": 2174
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_3-3_10.md",
+          "name": "PARA_3-3_10.md",
+          "size": 7605
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_3_11-3_13.json",
+          "name": "PARA_3_11-3_13.json",
+          "size": 2212
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_3_11-3_13.md",
+          "name": "PARA_3_11-3_13.md",
+          "size": 8426
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_3_11-3_13_DAN_JAX_ROLE.json",
+          "name": "PARA_3_11-3_13_DAN_JAX_ROLE.json",
+          "size": 734
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_3_11-3_13_DAN_JAX_ROLE.md",
+          "name": "PARA_3_11-3_13_DAN_JAX_ROLE.md",
+          "size": 18939
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_7_12-7_13.json",
+          "name": "PARA_7_12-7_13.json",
+          "size": 1960
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_7_12-7_13.md",
+          "name": "PARA_7_12-7_13.md",
+          "size": 1422
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_7_12-7_13_DAN_ACCOUNTANT.md",
+          "name": "PARA_7_12-7_13_DAN_ACCOUNTANT.md",
+          "size": 20003
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_7_14-7_15.json",
+          "name": "PARA_7_14-7_15.json",
+          "size": 1963
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_7_14-7_15.md",
+          "name": "PARA_7_14-7_15.md",
+          "size": 7069
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_7_14-7_15_DAN_DOCUMENTATION.json",
+          "name": "PARA_7_14-7_15_DAN_DOCUMENTATION.json",
+          "size": 675
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_7_14-7_15_DAN_DOCUMENTATION.md",
+          "name": "PARA_7_14-7_15_DAN_DOCUMENTATION.md",
+          "size": 16343
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_8-8_3.json",
+          "name": "PARA_8-8_3.json",
+          "size": 1950
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_8-8_3.md",
+          "name": "PARA_8-8_3.md",
+          "size": 1404
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_8-8_3_DAN_DISCOVERY.json",
+          "name": "PARA_8-8_3_DAN_DISCOVERY.json",
+          "size": 669
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_8-8_3_DAN_DISCOVERY.md",
+          "name": "PARA_8-8_3_DAN_DISCOVERY.md",
+          "size": 15094
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_8_4.json",
+          "name": "PARA_8_4.json",
+          "size": 1924
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_8_4.md",
+          "name": "PARA_8_4.md",
+          "size": 1386
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_8_4_DAN_CONFRONTATION.json",
+          "name": "PARA_8_4_DAN_CONFRONTATION.json",
+          "size": 595
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/PARA_8_4_DAN_CONFRONTATION.md",
+          "name": "PARA_8_4_DAN_CONFRONTATION.md",
+          "size": 14461
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/README.md",
+          "name": "README.md",
+          "size": 9347
+        },
+        {
+          "path": "jax-response/AD/2-High-Priority/STAFF_ADMINISTRATOR_DATA_PROTECTION_CLARIFICATIONS.md",
+          "name": "STAFF_ADMINISTRATOR_DATA_PROTECTION_CLARIFICATIONS.md",
+          "size": 25040
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.json",
+          "name": "PARA_10-10_3_DAN_FINANCIAL_DETAILS.json",
+          "size": 594
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.md",
+          "name": "PARA_10-10_3_DAN_FINANCIAL_DETAILS.md",
+          "size": 2639
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_10_4_DAN_SPECIFIC_TRANSACTIONS.json",
+          "name": "PARA_10_4_DAN_SPECIFIC_TRANSACTIONS.json",
+          "size": 554
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_10_4_DAN_SPECIFIC_TRANSACTIONS.md",
+          "name": "PARA_10_4_DAN_SPECIFIC_TRANSACTIONS.md",
+          "size": 2199
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_11_6-11_9_DAN_BUSINESS_OPERATIONS.json",
+          "name": "PARA_11_6-11_9_DAN_BUSINESS_OPERATIONS.json",
+          "size": 566
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_11_6-11_9_DAN_BUSINESS_OPERATIONS.md",
+          "name": "PARA_11_6-11_9_DAN_BUSINESS_OPERATIONS.md",
+          "size": 2381
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_12-12_1_DAN_CORPORATE_GOVERNANCE.json",
+          "name": "PARA_12-12_1_DAN_CORPORATE_GOVERNANCE.json",
+          "size": 558
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_12-12_1_DAN_CORPORATE_GOVERNANCE.md",
+          "name": "PARA_12-12_1_DAN_CORPORATE_GOVERNANCE.md",
+          "size": 2368
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_12_2_DAN_INVESTIGATION_CLAIMS.json",
+          "name": "PARA_12_2_DAN_INVESTIGATION_CLAIMS.json",
+          "size": 541
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_12_2_DAN_INVESTIGATION_CLAIMS.md",
+          "name": "PARA_12_2_DAN_INVESTIGATION_CLAIMS.md",
+          "size": 2425
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_12_3_DAN_SETTLEMENT_TIMING.json",
+          "name": "PARA_12_3_DAN_SETTLEMENT_TIMING.json",
+          "size": 561
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_12_3_DAN_SETTLEMENT_TIMING.md",
+          "name": "PARA_12_3_DAN_SETTLEMENT_TIMING.md",
+          "size": 2480
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json",
+          "name": "PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json",
+          "size": 608
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md",
+          "name": "PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md",
+          "size": 2607
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.json",
+          "name": "PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.json",
+          "size": 582
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.md",
+          "name": "PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.md",
+          "size": 2406
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_14-14_2_DAN_BACKGROUND_CONTEXT.json",
+          "name": "PARA_14-14_2_DAN_BACKGROUND_CONTEXT.json",
+          "size": 630
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_14-14_2_DAN_BACKGROUND_CONTEXT.md",
+          "name": "PARA_14-14_2_DAN_BACKGROUND_CONTEXT.md",
+          "size": 2588
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_16-16_5_DAN_MISCELLANEOUS_ALLEGATIONS.json",
+          "name": "PARA_16-16_5_DAN_MISCELLANEOUS_ALLEGATIONS.json",
+          "size": 562
+        },
+        {
+          "path": "jax-response/AD/3-Medium-Priority/PARA_16-16_5_DAN_MISCELLANEOUS_ALLEGATIONS.md",
+          "name": "PARA_16-16_5_DAN_MISCELLANEOUS_ALLEGATIONS.md",
+          "size": 2275
+        },
+        {
+          "path": "jax-response/AD/4-Low-Priority/PARA_1-1_3_DAN_INTRODUCTION.json",
+          "name": "PARA_1-1_3_DAN_INTRODUCTION.json",
+          "size": 414
+        },
+        {
+          "path": "jax-response/AD/4-Low-Priority/PARA_1-1_3_DAN_INTRODUCTION.md",
+          "name": "PARA_1-1_3_DAN_INTRODUCTION.md",
+          "size": 690
+        },
+        {
+          "path": "jax-response/AD/5-Meaningless/PARA_15_DAN_MEANINGLESS.json",
+          "name": "PARA_15_DAN_MEANINGLESS.json",
+          "size": 429
+        },
+        {
+          "path": "jax-response/AD/5-Meaningless/PARA_15_DAN_MEANINGLESS.md",
+          "name": "PARA_15_DAN_MEANINGLESS.md",
+          "size": 713
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/README.md",
+          "name": "README.md",
+          "size": 4748
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/1-Critical/COORDINATED_SABOTAGE_TEMPORAL_ANALYSIS_ENHANCED.md",
+          "name": "COORDINATED_SABOTAGE_TEMPORAL_ANALYSIS_ENHANCED.md",
+          "size": 22188
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/1-Critical/DAN_BUSINESS_CONTINUITY_IMPACT.md",
+          "name": "DAN_BUSINESS_CONTINUITY_IMPACT.md",
+          "size": 19166
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/1-Critical/DAN_IT_ARCHITECTURE.md",
+          "name": "DAN_IT_ARCHITECTURE.md",
+          "size": 26971
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/1-Critical/DAN_SYSTEM_ACCESS_AUDIT.md",
+          "name": "DAN_SYSTEM_ACCESS_AUDIT.md",
+          "size": 15016
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/1-Critical/DAN_TECHNICAL_TIMELINE_ANALYSIS.md",
+          "name": "DAN_TECHNICAL_TIMELINE_ANALYSIS.md",
+          "size": 12070
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/1-Critical/EVIDENCE_ANNEXURE_OUTLINE_MAPPED_TO_FILES.md",
+          "name": "EVIDENCE_ANNEXURE_OUTLINE_MAPPED_TO_FILES.md",
+          "size": 62037
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/1-Critical/PARA_10_5-10_10_23_DAN_FINANCIAL.md",
+          "name": "PARA_10_5-10_10_23_DAN_FINANCIAL.md",
+          "size": 20597
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/1-Critical/PARA_7_2-7_5_CARD_CANCELLATION_SABOTAGE_ENHANCED.md",
+          "name": "PARA_7_2-7_5_CARD_CANCELLATION_SABOTAGE_ENHANCED.md",
+          "size": 30703
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/1-Critical/PARA_7_2-7_5_DAN_TECHNICAL.md",
+          "name": "PARA_7_2-7_5_DAN_TECHNICAL.md",
+          "size": 28845
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/1-Critical/PARA_7_2-7_5_EVIDENCE_ANNEXURE_SPECIFICATIONS.md",
+          "name": "PARA_7_2-7_5_EVIDENCE_ANNEXURE_SPECIFICATIONS.md",
+          "size": 77874
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/1-Critical/PARA_7_6_DAN_DIRECTOR_LOAN.md",
+          "name": "PARA_7_6_DAN_DIRECTOR_LOAN.md",
+          "size": 21392
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/1-Critical/PARA_7_7-7_8_DAN_PAYMENT_DETAILS.json",
+          "name": "PARA_7_7-7_8_DAN_PAYMENT_DETAILS.json",
+          "size": 663
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/1-Critical/PARA_7_7-7_8_DAN_PAYMENT_DETAILS.md",
+          "name": "PARA_7_7-7_8_DAN_PAYMENT_DETAILS.md",
+          "size": 15042
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/1-Critical/PARA_7_9-7_11_DAN_JUSTIFICATION.md",
+          "name": "PARA_7_9-7_11_DAN_JUSTIFICATION.md",
+          "size": 22277
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/1-Critical/README.md",
+          "name": "README.md",
+          "size": 9664
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/2-High-Priority/CONFLICT_OF_INTEREST_COMPREHENSIVE_ANALYSIS.md",
+          "name": "CONFLICT_OF_INTEREST_COMPREHENSIVE_ANALYSIS.md",
+          "size": 20804
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/2-High-Priority/PARA_11-11_5_DAN_URGENCY.md",
+          "name": "PARA_11-11_5_DAN_URGENCY.md",
+          "size": 18341
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/2-High-Priority/PARA_13-13_1_DAN_INTERIM_RELIEF.json",
+          "name": "PARA_13-13_1_DAN_INTERIM_RELIEF.json",
+          "size": 694
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/2-High-Priority/PARA_13-13_1_DAN_INTERIM_RELIEF.md",
+          "name": "PARA_13-13_1_DAN_INTERIM_RELIEF.md",
+          "size": 16513
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/2-High-Priority/PARA_13-13_1_INTERIM_RELIEF.md",
+          "name": "PARA_13-13_1_INTERIM_RELIEF.md",
+          "size": 21088
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/2-High-Priority/PARA_3-3_10_RESPONSIBLE_PERSON.md",
+          "name": "PARA_3-3_10_RESPONSIBLE_PERSON.md",
+          "size": 7261
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/2-High-Priority/PARA_3_11-3_13_DAN_JAX_ROLE.json",
+          "name": "PARA_3_11-3_13_DAN_JAX_ROLE.json",
+          "size": 734
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/2-High-Priority/PARA_3_11-3_13_DAN_JAX_ROLE.md",
+          "name": "PARA_3_11-3_13_DAN_JAX_ROLE.md",
+          "size": 18939
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/2-High-Priority/PARA_7_12-7_13_DAN_ACCOUNTANT.md",
+          "name": "PARA_7_12-7_13_DAN_ACCOUNTANT.md",
+          "size": 20003
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/2-High-Priority/PARA_7_14-7_15_DAN_DOCUMENTATION.json",
+          "name": "PARA_7_14-7_15_DAN_DOCUMENTATION.json",
+          "size": 675
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/2-High-Priority/PARA_7_14-7_15_DAN_DOCUMENTATION.md",
+          "name": "PARA_7_14-7_15_DAN_DOCUMENTATION.md",
+          "size": 16343
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/2-High-Priority/PARA_7_14-7_15_DOCUMENTATION.md",
+          "name": "PARA_7_14-7_15_DOCUMENTATION.md",
+          "size": 25678
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/2-High-Priority/PARA_8-8_3_DAN_DISCOVERY.json",
+          "name": "PARA_8-8_3_DAN_DISCOVERY.json",
+          "size": 669
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/2-High-Priority/PARA_8-8_3_DAN_DISCOVERY.md",
+          "name": "PARA_8-8_3_DAN_DISCOVERY.md",
+          "size": 15094
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/2-High-Priority/PARA_8_4_DAN_CONFRONTATION.json",
+          "name": "PARA_8_4_DAN_CONFRONTATION.json",
+          "size": 595
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/2-High-Priority/PARA_8_4_DAN_CONFRONTATION.md",
+          "name": "PARA_8_4_DAN_CONFRONTATION.md",
+          "size": 14461
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/2-High-Priority/README.md",
+          "name": "README.md",
+          "size": 10748
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.json",
+          "name": "PARA_10-10_3_DAN_FINANCIAL_DETAILS.json",
+          "size": 594
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_10-10_3_DAN_FINANCIAL_DETAILS.md",
+          "name": "PARA_10-10_3_DAN_FINANCIAL_DETAILS.md",
+          "size": 2639
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_10_4_DAN_SPECIFIC_TRANSACTIONS.json",
+          "name": "PARA_10_4_DAN_SPECIFIC_TRANSACTIONS.json",
+          "size": 554
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_10_4_DAN_SPECIFIC_TRANSACTIONS.md",
+          "name": "PARA_10_4_DAN_SPECIFIC_TRANSACTIONS.md",
+          "size": 2199
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_11_6-11_9_DAN_BUSINESS_OPERATIONS.json",
+          "name": "PARA_11_6-11_9_DAN_BUSINESS_OPERATIONS.json",
+          "size": 566
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_11_6-11_9_DAN_BUSINESS_OPERATIONS.md",
+          "name": "PARA_11_6-11_9_DAN_BUSINESS_OPERATIONS.md",
+          "size": 2381
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_12-12_1_DAN_CORPORATE_GOVERNANCE.json",
+          "name": "PARA_12-12_1_DAN_CORPORATE_GOVERNANCE.json",
+          "size": 558
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_12-12_1_DAN_CORPORATE_GOVERNANCE.md",
+          "name": "PARA_12-12_1_DAN_CORPORATE_GOVERNANCE.md",
+          "size": 2368
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_12_2_DAN_INVESTIGATION_CLAIMS.json",
+          "name": "PARA_12_2_DAN_INVESTIGATION_CLAIMS.json",
+          "size": 541
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_12_2_DAN_INVESTIGATION_CLAIMS.md",
+          "name": "PARA_12_2_DAN_INVESTIGATION_CLAIMS.md",
+          "size": 2425
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_12_3_DAN_SETTLEMENT_TIMING.json",
+          "name": "PARA_12_3_DAN_SETTLEMENT_TIMING.json",
+          "size": 561
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_12_3_DAN_SETTLEMENT_TIMING.md",
+          "name": "PARA_12_3_DAN_SETTLEMENT_TIMING.md",
+          "size": 2480
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json",
+          "name": "PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.json",
+          "size": 608
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md",
+          "name": "PARA_13_2-13_2_2_DAN_CONFIRMATORY_AFFIDAVITS.md",
+          "size": 2607
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.json",
+          "name": "PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.json",
+          "size": 582
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.md",
+          "name": "PARA_13_3_DAN_ADDITIONAL_FINANCIAL_CLAIMS.md",
+          "size": 2406
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_14-14_2_DAN_BACKGROUND_CONTEXT.json",
+          "name": "PARA_14-14_2_DAN_BACKGROUND_CONTEXT.json",
+          "size": 630
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_14-14_2_DAN_BACKGROUND_CONTEXT.md",
+          "name": "PARA_14-14_2_DAN_BACKGROUND_CONTEXT.md",
+          "size": 2588
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_16-16_5_DAN_MISCELLANEOUS_ALLEGATIONS.json",
+          "name": "PARA_16-16_5_DAN_MISCELLANEOUS_ALLEGATIONS.json",
+          "size": 562
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/3-Medium-Priority/PARA_16-16_5_DAN_MISCELLANEOUS_ALLEGATIONS.md",
+          "name": "PARA_16-16_5_DAN_MISCELLANEOUS_ALLEGATIONS.md",
+          "size": 2275
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/4-Low-Priority/PARA_1-1_3_DAN_INTRODUCTION.json",
+          "name": "PARA_1-1_3_DAN_INTRODUCTION.json",
+          "size": 414
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/4-Low-Priority/PARA_1-1_3_DAN_INTRODUCTION.md",
+          "name": "PARA_1-1_3_DAN_INTRODUCTION.md",
+          "size": 690
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/5-Meaningless/PARA_15_DAN_MEANINGLESS.json",
+          "name": "PARA_15_DAN_MEANINGLESS.json",
+          "size": 429
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/5-Meaningless/PARA_15_DAN_MEANINGLESS.md",
+          "name": "PARA_15_DAN_MEANINGLESS.md",
+          "size": 713
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/SOURCE_DOCUMENTS/KF0019_ANALYSIS_SUMMARY.md",
+          "name": "KF0019_ANALYSIS_SUMMARY.md",
+          "size": 22139
+        },
+        {
+          "path": "jax-response/AD/dan-perspective/SOURCE_DOCUMENTS/KF0019_URGENT_APPLICATION_2025-11-04.md",
+          "name": "KF0019_URGENT_APPLICATION_2025-11-04.md",
+          "size": 28353
+        },
+        {
+          "path": "jax-response/analysis-output/Affidavit_Amendment_Recommendations.json",
+          "name": "Affidavit_Amendment_Recommendations.json",
+          "size": 28296
+        },
+        {
+          "path": "jax-response/analysis-output/Affidavit_Amendment_Recommendations.md",
+          "name": "Affidavit_Amendment_Recommendations.md",
+          "size": 26826
+        },
+        {
+          "path": "jax-response/analysis-output/BANK_RECORDS_VERIFICATION_MATRIX.md",
+          "name": "BANK_RECORDS_VERIFICATION_MATRIX.md",
+          "size": 12468
+        },
+        {
+          "path": "jax-response/analysis-output/BANTJIES_ANALYSIS_COMPLETE.md",
+          "name": "BANTJIES_ANALYSIS_COMPLETE.md",
+          "size": 17303
+        },
+        {
+          "path": "jax-response/analysis-output/BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md",
+          "name": "BANTJIES_HYPERGRAPH_ATTENTION_ANALYSIS.md",
+          "size": 73077
+        },
+        {
+          "path": "jax-response/analysis-output/BANTJIES_INTEGRATION_GUIDE.md",
+          "name": "BANTJIES_INTEGRATION_GUIDE.md",
+          "size": 11895
+        },
+        {
+          "path": "jax-response/analysis-output/BANTJIES_QUICK_REFERENCE.md",
+          "name": "BANTJIES_QUICK_REFERENCE.md",
+          "size": 7638
+        },
+        {
+          "path": "jax-response/analysis-output/DISPROPORTIONATE_HARM_ENHANCEMENT_SUMMARY.md",
+          "name": "DISPROPORTIONATE_HARM_ENHANCEMENT_SUMMARY.md",
+          "size": 7921
+        },
+        {
+          "path": "jax-response/analysis-output/FINAL_SUMMARY_v3.json",
+          "name": "FINAL_SUMMARY_v3.json",
+          "size": 8382
+        },
+        {
+          "path": "jax-response/analysis-output/FINAL_SUMMARY_v3.md",
+          "name": "FINAL_SUMMARY_v3.md",
+          "size": 8988
+        },
+        {
+          "path": "jax-response/analysis-output/FORENSIC_BANK_RECORDS_CROSS_REFERENCE.md",
+          "name": "FORENSIC_BANK_RECORDS_CROSS_REFERENCE.md",
+          "size": 11743
+        },
+        {
+          "path": "jax-response/analysis-output/FORENSIC_CROSS_REFERENCE_COMPLETION.md",
+          "name": "FORENSIC_CROSS_REFERENCE_COMPLETION.md",
+          "size": 13165
+        },
+        {
+          "path": "jax-response/analysis-output/Faucitt_Interdict_Analysis.json",
+          "name": "Faucitt_Interdict_Analysis.json",
+          "size": 18496
+        },
+        {
+          "path": "jax-response/analysis-output/Faucitt_Interdict_Analysis.md",
+          "name": "Faucitt_Interdict_Analysis.md",
+          "size": 20503
+        },
+        {
+          "path": "jax-response/analysis-output/HYPERGRAPH_INTEGRATION_SUMMARY.md",
+          "name": "HYPERGRAPH_INTEGRATION_SUMMARY.md",
+          "size": 11228
+        },
+        {
+          "path": "jax-response/analysis-output/PROSECUTION_RECOMMENDATIONS_LEGAL_VALIDATION.md",
+          "name": "PROSECUTION_RECOMMENDATIONS_LEGAL_VALIDATION.md",
+          "size": 13788
+        },
+        {
+          "path": "jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v3.json",
+          "name": "REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v3.json",
+          "size": 47035
+        },
+        {
+          "path": "jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v3.md",
+          "name": "REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v3.md",
+          "size": 66358
+        },
+        {
+          "path": "jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v4.json",
+          "name": "REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v4.json",
+          "size": 56234
+        },
+        {
+          "path": "jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v4.md",
+          "name": "REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v4.md",
+          "size": 62072
+        },
+        {
+          "path": "jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v5.json",
+          "name": "REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v5.json",
+          "size": 67626
+        },
+        {
+          "path": "jax-response/analysis-output/REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v5.md",
+          "name": "REVISED_Answering_Affidavit_Jax_TRACKED_CHANGES_v5.md",
+          "size": 94237
+        },
+        {
+          "path": "jax-response/analysis-output/STAFF_DATA_PROTECTION_INTEGRATION_NOTE.md",
+          "name": "STAFF_DATA_PROTECTION_INTEGRATION_NOTE.md",
+          "size": 13635
+        },
+        {
+          "path": "jax-response/analysis-output/SUMMARY_OF_CHANGES.json",
+          "name": "SUMMARY_OF_CHANGES.json",
+          "size": 6349
+        },
+        {
+          "path": "jax-response/analysis-output/SUMMARY_OF_CHANGES.md",
+          "name": "SUMMARY_OF_CHANGES.md",
+          "size": 6640
+        },
+        {
+          "path": "jax-response/analysis-output/Section_13B_Strengthening_Recommendations.json",
+          "name": "Section_13B_Strengthening_Recommendations.json",
+          "size": 11129
+        },
+        {
+          "path": "jax-response/analysis-output/Section_13B_Strengthening_Recommendations.md",
+          "name": "Section_13B_Strengthening_Recommendations.md",
+          "size": 15428
+        },
+        {
+          "path": "jax-response/analysis-output/Section_3_Responsible_Person_Crisis.md",
+          "name": "Section_3_Responsible_Person_Crisis.md",
+          "size": 19015
+        },
+        {
+          "path": "jax-response/analysis-output/UPDATED_NEXT_STEPS_AMENDMENTS_2025-10-15.md",
+          "name": "UPDATED_NEXT_STEPS_AMENDMENTS_2025-10-15.md",
+          "size": 13470
+        },
+        {
+          "path": "jax-response/analysis-output/V4_CHANGES_SUMMARY.json",
+          "name": "V4_CHANGES_SUMMARY.json",
+          "size": 7266
+        },
+        {
+          "path": "jax-response/analysis-output/V4_CHANGES_SUMMARY.md",
+          "name": "V4_CHANGES_SUMMARY.md",
+          "size": 8163
+        },
+        {
+          "path": "jax-response/analysis-output/V5_CHANGES_SUMMARY.json",
+          "name": "V5_CHANGES_SUMMARY.json",
+          "size": 8255
+        },
+        {
+          "path": "jax-response/analysis-output/V5_CHANGES_SUMMARY.md",
+          "name": "V5_CHANGES_SUMMARY.md",
+          "size": 10064
+        },
+        {
+          "path": "jax-response/analysis-output/amendment_recommendations.json",
+          "name": "amendment_recommendations.json",
+          "size": 31216
+        },
+        {
+          "path": "jax-response/analysis-output/amendment_recommendations.md",
+          "name": "amendment_recommendations.md",
+          "size": 30913
+        },
+        {
+          "path": "jax-response/analysis-output/bantjies_trustee_contradictions_analysis.md",
+          "name": "bantjies_trustee_contradictions_analysis.md",
+          "size": 25591
+        },
+        {
+          "path": "jax-response/analysis-output/comprehensive_legal_analysis.json",
+          "name": "comprehensive_legal_analysis.json",
+          "size": 15525
+        },
+        {
+          "path": "jax-response/analysis-output/comprehensive_legal_analysis.md",
+          "name": "comprehensive_legal_analysis.md",
+          "size": 15548
+        },
+        {
+          "path": "jax-response/analysis-output/comprehensive_reference_index.json",
+          "name": "comprehensive_reference_index.json",
+          "size": 133848
+        },
+        {
+          "path": "jax-response/analysis-output/comprehensive_reference_index.md",
+          "name": "comprehensive_reference_index.md",
+          "size": 72584
+        },
+        {
+          "path": "jax-response/analysis-output/critical_corrections_48_129.json",
+          "name": "critical_corrections_48_129.json",
+          "size": 7656
+        },
+        {
+          "path": "jax-response/analysis-output/critical_corrections_48_129.md",
+          "name": "critical_corrections_48_129.md",
+          "size": 17866
+        },
+        {
+          "path": "jax-response/analysis-output/cross_reference_index.md",
+          "name": "cross_reference_index.md",
+          "size": 7124
+        },
+        {
+          "path": "jax-response/analysis-output/paragraph_129_correction.json",
+          "name": "paragraph_129_correction.json",
+          "size": 6416
+        },
+        {
+          "path": "jax-response/analysis-output/paragraph_129_correction.md",
+          "name": "paragraph_129_correction.md",
+          "size": 13646
+        },
+        {
+          "path": "jax-response/analysis-output/reference_index_summary.json",
+          "name": "reference_index_summary.json",
+          "size": 3310
+        },
+        {
+          "path": "jax-response/analysis-output/reference_index_summary.md",
+          "name": "reference_index_summary.md",
+          "size": 3333
+        },
+        {
+          "path": "jax-response/analysis-output/response_matrix.json",
+          "name": "response_matrix.json",
+          "size": 5240
+        },
+        {
+          "path": "jax-response/analysis-output/response_matrix.md",
+          "name": "response_matrix.md",
+          "size": 7243
+        },
+        {
+          "path": "jax-response/analysis-output/strategic_contradictions_analysis.json",
+          "name": "strategic_contradictions_analysis.json",
+          "size": 5754
+        },
+        {
+          "path": "jax-response/analysis-output/strategic_contradictions_analysis.md",
+          "name": "strategic_contradictions_analysis.md",
+          "size": 21662
+        },
+        {
+          "path": "jax-response/analysis-output/updated_paragraph_48.json",
+          "name": "updated_paragraph_48.json",
+          "size": 8921
+        },
+        {
+          "path": "jax-response/analysis-output/updated_paragraph_48.md",
+          "name": "updated_paragraph_48.md",
+          "size": 8271
+        },
+        {
+          "path": "jax-response/dan-response-materials/AD_PARAGRAPH_RESPONSE_MATRIX.md",
+          "name": "AD_PARAGRAPH_RESPONSE_MATRIX.md",
+          "size": 10135
+        },
+        {
+          "path": "jax-response/dan-response-materials/BLANK_PARAGRAPH_RESPONSE_TEMPLATE.md",
+          "name": "BLANK_PARAGRAPH_RESPONSE_TEMPLATE.md",
+          "size": 6912
+        },
+        {
+          "path": "jax-response/dan-response-materials/COMPREHENSIVE_RESPONSE_STRUCTURE.md",
+          "name": "COMPREHENSIVE_RESPONSE_STRUCTURE.md",
+          "size": 5914
+        },
+        {
+          "path": "jax-response/dan-response-materials/CRIMINAL_ENTERPRISE_EVIDENCE_STRUCTURE.md",
+          "name": "CRIMINAL_ENTERPRISE_EVIDENCE_STRUCTURE.md",
+          "size": 6676
+        },
+        {
+          "path": "jax-response/dan-response-materials/EVIDENCE_LEX_PRINCIPLE_MAPPING_MATRIX.md",
+          "name": "EVIDENCE_LEX_PRINCIPLE_MAPPING_MATRIX.md",
+          "size": 25370
+        },
+        {
+          "path": "jax-response/dan-response-materials/EVIDENCE_MAPPING_MATRIX.md",
+          "name": "EVIDENCE_MAPPING_MATRIX.md",
+          "size": 25677
+        },
+        {
+          "path": "jax-response/dan-response-materials/EVIDENCE_SUMMARY_2025-11-14.md",
+          "name": "EVIDENCE_SUMMARY_2025-11-14.md",
+          "size": 15958
+        },
+        {
+          "path": "jax-response/dan-response-materials/HIGH_PRIORITY_PARAGRAPH_RESPONSES_COMPLETE.md",
+          "name": "HIGH_PRIORITY_PARAGRAPH_RESPONSES_COMPLETE.md",
+          "size": 6831
+        },
+        {
+          "path": "jax-response/dan-response-materials/IMPROVEMENT_ANALYSIS_OVERVIEW.md",
+          "name": "IMPROVEMENT_ANALYSIS_OVERVIEW.md",
+          "size": 8680
+        },
+        {
+          "path": "jax-response/dan-response-materials/IMPROVEMENT_SUGGESTIONS.md",
+          "name": "IMPROVEMENT_SUGGESTIONS.md",
+          "size": 4679
+        },
+        {
+          "path": "jax-response/dan-response-materials/INTEGRATION_GUIDE.md",
+          "name": "INTEGRATION_GUIDE.md",
+          "size": 2314
+        },
+        {
+          "path": "jax-response/dan-response-materials/JAX_DAN_RESPONSE_IMPROVEMENTS_V20_2025-11-30.md",
+          "name": "JAX_DAN_RESPONSE_IMPROVEMENTS_V20_2025-11-30.md",
+          "size": 31870
+        },
+        {
+          "path": "jax-response/dan-response-materials/JAX_DAN_RESPONSE_IMPROVEMENTS_V21_AD_ELEMENT_DRIVEN.md",
+          "name": "JAX_DAN_RESPONSE_IMPROVEMENTS_V21_AD_ELEMENT_DRIVEN.md",
+          "size": 24303
+        },
+        {
+          "path": "jax-response/dan-response-materials/JAX_DAN_RESPONSE_IMPROVEMENTS_V25_COMPREHENSIVE.md",
+          "name": "JAX_DAN_RESPONSE_IMPROVEMENTS_V25_COMPREHENSIVE.md",
+          "size": 22752
+        },
+        {
+          "path": "jax-response/dan-response-materials/JAX_DAN_RESPONSE_IMPROVEMENTS_V28_COMPREHENSIVE.md",
+          "name": "JAX_DAN_RESPONSE_IMPROVEMENTS_V28_COMPREHENSIVE.md",
+          "size": 28841
+        },
+        {
+          "path": "jax-response/dan-response-materials/JAX_DAN_RESPONSE_IMPROVEMENTS_V31_COMPREHENSIVE.md",
+          "name": "JAX_DAN_RESPONSE_IMPROVEMENTS_V31_COMPREHENSIVE.md",
+          "size": 42627
+        },
+        {
+          "path": "jax-response/dan-response-materials/JAX_DAN_RESPONSE_IMPROVEMENT_RECOMMENDATIONS.md",
+          "name": "JAX_DAN_RESPONSE_IMPROVEMENT_RECOMMENDATIONS.md",
+          "size": 51824
+        },
+        {
+          "path": "jax-response/dan-response-materials/JAX_DAN_RESPONSE_LEX_IMPROVEMENTS.md",
+          "name": "JAX_DAN_RESPONSE_LEX_IMPROVEMENTS.md",
+          "size": 40793
+        },
+        {
+          "path": "jax-response/dan-response-materials/JAX_DAN_RESPONSE_LEX_IMPROVEMENTS_V17.md",
+          "name": "JAX_DAN_RESPONSE_LEX_IMPROVEMENTS_V17.md",
+          "size": 17852
+        },
+        {
+          "path": "jax-response/dan-response-materials/JAX_DAN_RESPONSE_REFINEMENT_SUGGESTIONS_V21.md",
+          "name": "JAX_DAN_RESPONSE_REFINEMENT_SUGGESTIONS_V21.md",
+          "size": 28622
+        },
+        {
+          "path": "jax-response/dan-response-materials/PARAGRAPH_RESPONSE_QUICK_REFERENCE.md",
+          "name": "PARAGRAPH_RESPONSE_QUICK_REFERENCE.md",
+          "size": 9230
+        },
+        {
+          "path": "jax-response/dan-response-materials/PETERS_CAUSATION_INTEGRATION_GUIDE.md",
+          "name": "PETERS_CAUSATION_INTEGRATION_GUIDE.md",
+          "size": 9678
+        },
+        {
+          "path": "jax-response/dan-response-materials/README.md",
+          "name": "README.md",
+          "size": 10439
+        },
+        {
+          "path": "jax-response/dan-response-materials/RESPONSIBLE_PERSON_EVIDENCE_FRAMEWORK.md",
+          "name": "RESPONSIBLE_PERSON_EVIDENCE_FRAMEWORK.md",
+          "size": 8108
+        },
+        {
+          "path": "jax-response/dan-response-materials/STANDARDIZED_PARAGRAPH_RESPONSE_TEMPLATE.md",
+          "name": "STANDARDIZED_PARAGRAPH_RESPONSE_TEMPLATE.md",
+          "size": 11092
+        },
+        {
+          "path": "jax-response/dan-response-materials/TEMPLATE_INDEX.md",
+          "name": "TEMPLATE_INDEX.md",
+          "size": 8173
+        },
+        {
+          "path": "jax-response/dan-response-materials/TEMPLATE_USAGE_EXAMPLE.md",
+          "name": "TEMPLATE_USAGE_EXAMPLE.md",
+          "size": 14946
+        },
+        {
+          "path": "jax-response/dan-response-materials/accountant_concerns.md",
+          "name": "accountant_concerns.md",
+          "size": 1703
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures_and_evidence.md",
+          "name": "annexures_and_evidence.md",
+          "size": 1747
+        },
+        {
+          "path": "jax-response/dan-response-materials/burden_of_proof_analysis.md",
+          "name": "burden_of_proof_analysis.md",
+          "size": 15289
+        },
+        {
+          "path": "jax-response/dan-response-materials/comprehensive_material_non_disclosure.md",
+          "name": "comprehensive_material_non_disclosure.md",
+          "size": 31286
+        },
+        {
+          "path": "jax-response/dan-response-materials/confrontation.md",
+          "name": "confrontation.md",
+          "size": 1585
+        },
+        {
+          "path": "jax-response/dan-response-materials/critical_paragraph_it_expense_rebuttal.md",
+          "name": "critical_paragraph_it_expense_rebuttal.md",
+          "size": 2923
+        },
+        {
+          "path": "jax-response/dan-response-materials/critical_paragraph_r500k_rebuttal.md",
+          "name": "critical_paragraph_r500k_rebuttal.md",
+          "size": 2543
+        },
+        {
+          "path": "jax-response/dan-response-materials/documentation_requests.md",
+          "name": "documentation_requests.md",
+          "size": 1876
+        },
+        {
+          "path": "jax-response/dan-response-materials/financial_allegations_rebuttal_matrix.md",
+          "name": "financial_allegations_rebuttal_matrix.md",
+          "size": 2713
+        },
+        {
+          "path": "jax-response/dan-response-materials/interim_relief.md",
+          "name": "interim_relief.md",
+          "size": 1909
+        },
+        {
+          "path": "jax-response/dan-response-materials/jax-dan-response-executive-summary.md",
+          "name": "jax-dan-response-executive-summary.md",
+          "size": 9562
+        },
+        {
+          "path": "jax-response/dan-response-materials/jax-dan-response-improvement-analysis.md",
+          "name": "jax-dan-response-improvement-analysis.md",
+          "size": 50372
+        },
+        {
+          "path": "jax-response/dan-response-materials/jax-dan-response-improvements-analysis.md",
+          "name": "jax-dan-response-improvements-analysis.md",
+          "size": 51759
+        },
+        {
+          "path": "jax-response/dan-response-materials/jax-dan-response-improvements.md",
+          "name": "jax-dan-response-improvements.md",
+          "size": 36187
+        },
+        {
+          "path": "jax-response/dan-response-materials/peters_causation.md",
+          "name": "peters_causation.md",
+          "size": 8631
+        },
+        {
+          "path": "jax-response/dan-response-materials/peters_discovery.md",
+          "name": "peters_discovery.md",
+          "size": 1874
+        },
+        {
+          "path": "jax-response/dan-response-materials/quantified_harm_analysis.md",
+          "name": "quantified_harm_analysis.md",
+          "size": 19362
+        },
+        {
+          "path": "jax-response/dan-response-materials/quick-action-summary.md",
+          "name": "quick-action-summary.md",
+          "size": 6650
+        },
+        {
+          "path": "jax-response/dan-response-materials/respondent_roles_and_responsibilities.md",
+          "name": "respondent_roles_and_responsibilities.md",
+          "size": 2265
+        },
+        {
+          "path": "jax-response/dan-response-materials/responsible_person_legal_attention_transform.js",
+          "name": "responsible_person_legal_attention_transform.js",
+          "size": 18357
+        },
+        {
+          "path": "jax-response/dan-response-materials/responsible_person_regulatory_crisis.md",
+          "name": "responsible_person_regulatory_crisis.md",
+          "size": 3660
+        },
+        {
+          "path": "jax-response/dan-response-materials/settlement_and_timing.md",
+          "name": "settlement_and_timing.md",
+          "size": 9507
+        },
+        {
+          "path": "jax-response/dan-response-materials/timeline_analysis.md",
+          "name": "timeline_analysis.md",
+          "size": 3595
+        },
+        {
+          "path": "jax-response/dan-response-materials/urgency.md",
+          "name": "urgency.md",
+          "size": 1897
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/2025-11-14-evidence-batch/ANNEXURES_SUMMARY.md",
+          "name": "ANNEXURES_SUMMARY.md",
+          "size": 1526
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/2025-11-14-evidence-batch/ANNEXURE_A_Sage_Screenshot_Control_User_Access_2025-06-20.md",
+          "name": "ANNEXURE_A_Sage_Screenshot_Control_User_Access_2025-06-20.md",
+          "size": 11303
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/2025-11-14-evidence-batch/ANNEXURE_B_Sage_Screenshot_Accounting_Registration_Expired_2025-08-25.md",
+          "name": "ANNEXURE_B_Sage_Screenshot_Accounting_Registration_Expired_2025-08-25.md",
+          "size": 16104
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/2025-11-14-evidence-batch/ANNEXURE_C_Trustee_Appointment_Email_2024-07-01.md",
+          "name": "ANNEXURE_C_Trustee_Appointment_Email_2024-07-01.md",
+          "size": 14799
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/2025-11-14-evidence-batch/ANNEXURE_D_Notice_of_Withdrawal_2025-09-22.md",
+          "name": "ANNEXURE_D_Notice_of_Withdrawal_2025-09-22.md",
+          "size": 16185
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/2025-11-14-evidence-batch/SUPPLEMENTARY_ANALYSIS_Jacqui_Information_Officer_Role.md",
+          "name": "SUPPLEMENTARY_ANALYSIS_Jacqui_Information_Officer_Role.md",
+          "size": 14736
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/DAN-DL/DAN-DL-001-010_Consolidated_Director_Loan_Annexures.md",
+          "name": "DAN-DL-001-010_Consolidated_Director_Loan_Annexures.md",
+          "size": 23992
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/DAN-IT/DAN-IT-001_Gartner_IT_Spending_Report_2024.md",
+          "name": "DAN-IT-001_Gartner_IT_Spending_Report_2024.md",
+          "size": 13334
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/DAN-IT/DAN-IT-002_RegimA_Financial_Records_IT_Spend_2024.md",
+          "name": "DAN-IT-002_RegimA_Financial_Records_IT_Spend_2024.md",
+          "size": 17657
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/DAN-IT/DAN-IT-003_Industry_Benchmark_Comparative_Analysis.md",
+          "name": "DAN-IT-003_Industry_Benchmark_Comparative_Analysis.md",
+          "size": 13588
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/DAN-IT/DAN-IT-004_Card_Cancellation_Timeline.md",
+          "name": "DAN-IT-004_Card_Cancellation_Timeline.md",
+          "size": 16814
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/DAN-IT/DAN-IT-005-016_Consolidated_IT_Annexures.md",
+          "name": "DAN-IT-005-016_Consolidated_IT_Annexures.md",
+          "size": 57295
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/DAN-LW/DAN-LW-001-009_Consolidated_Litigation_Weaponization_Annexures.md",
+          "name": "DAN-LW-001-009_Consolidated_Litigation_Weaponization_Annexures.md",
+          "size": 23793
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/DAN-UE/DAN-UE-001-012_Consolidated_Unjust_Enrichment_Annexures.md",
+          "name": "DAN-UE-001-012_Consolidated_Unjust_Enrichment_Annexures.md",
+          "size": 16867
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/JAX-RP/B1992005371_certificate.pdf",
+          "name": "B1992005371_certificate.pdf",
+          "size": 299716
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/JAX-RP/JAX-IO-001_Information_Officer_Registration_Certificate_Analysis.md",
+          "name": "JAX-IO-001_Information_Officer_Registration_Certificate_Analysis.md",
+          "size": 20928
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/JAX-RP/JAX-RP-001-009_Consolidated_Responsible_Person_Annexures.md",
+          "name": "JAX-RP-001-009_Consolidated_Responsible_Person_Annexures.md",
+          "size": 20370
+        },
+        {
+          "path": "jax-response/dan-response-materials/annexures/JAX-RP/JAX-RP-POPIA-SUPPLEMENT.md",
+          "name": "JAX-RP-POPIA-SUPPLEMENT.md",
+          "size": 16186
+        },
+        {
+          "path": "jax-response/dan-response-materials/criminal-complaint/CRIMINAL_COMPLAINT_POPIA_Section_107_Peter_Faucitt.md",
+          "name": "CRIMINAL_COMPLAINT_POPIA_Section_107_Peter_Faucitt.md",
+          "size": 16513
+        },
+        {
+          "path": "jax-response/dan-response-materials/criminal-complaint/INFORMATION_REGULATOR_NOTIFICATION.md",
+          "name": "INFORMATION_REGULATOR_NOTIFICATION.md",
+          "size": 18725
+        },
+        {
+          "path": "jax-response/dan-response-materials/criminal-complaint/README_SUBMISSION_PACKAGE.md",
+          "name": "README_SUBMISSION_PACKAGE.md",
+          "size": 15550
+        },
+        {
+          "path": "jax-response/dan-response-materials/criminal-complaint/SUPPORTING_AFFIDAVIT_Jacqueline_Faucitt_POPIA_Obstruction.md",
+          "name": "SUPPORTING_AFFIDAVIT_Jacqueline_Faucitt_POPIA_Obstruction.md",
+          "size": 21094
+        },
+        {
+          "path": "jax-response/dan-response-materials/criminal-complaint/annexures/ANNEXURE_INDEX_AND_CHECKLIST.md",
+          "name": "ANNEXURE_INDEX_AND_CHECKLIST.md",
+          "size": 18887
+        },
+        {
+          "path": "jax-response/dan-response-materials/criminal-complaint/annexures/ANNEXURE_JAF1_Information_Officer_Appointment.md",
+          "name": "ANNEXURE_JAF1_Information_Officer_Appointment.md",
+          "size": 13485
+        },
+        {
+          "path": "jax-response/dan-response-materials/criminal-complaint/annexures/ANNEXURE_JAF2_Settlement_Agreements_Reference.md",
+          "name": "ANNEXURE_JAF2_Settlement_Agreements_Reference.md",
+          "size": 15176
+        },
+        {
+          "path": "jax-response/dan-response-materials/criminal-complaint/annexures/ANNEXURE_JAF4_Witness_Statement_Employee.md",
+          "name": "ANNEXURE_JAF4_Witness_Statement_Employee.md",
+          "size": 15366
+        },
+        {
+          "path": "jax-response/dan-response-materials/criminal-complaint/annexures/ANNEXURE_JAF5_POPIA_Compliance_Records_2025-09-19.md",
+          "name": "ANNEXURE_JAF5_POPIA_Compliance_Records_2025-09-19.md",
+          "size": 24403
+        },
+        {
+          "path": "jax-response/dan-response-materials/criminal-complaint/annexures/ANNEXURE_JAF6_Data_Subject_Access_Request.md",
+          "name": "ANNEXURE_JAF6_Data_Subject_Access_Request.md",
+          "size": 22893
+        },
+        {
+          "path": "jax-response/dan-response-materials/criminal-complaint/annexures/ANNEXURE_JAF7_Processing_Operation_Records.md",
+          "name": "ANNEXURE_JAF7_Processing_Operation_Records.md",
+          "size": 21207
+        },
+        {
+          "path": "jax-response/dan-response-materials/medium_priority_responses/additional_financial_claims.md",
+          "name": "additional_financial_claims.md",
+          "size": 13265
+        },
+        {
+          "path": "jax-response/dan-response-materials/medium_priority_responses/background_and_context.md",
+          "name": "background_and_context.md",
+          "size": 12505
+        },
+        {
+          "path": "jax-response/dan-response-materials/medium_priority_responses/confirmatory_affidavits.md",
+          "name": "confirmatory_affidavits.md",
+          "size": 4470
+        },
+        {
+          "path": "jax-response/dan-response-materials/medium_priority_responses/corporate_governance.md",
+          "name": "corporate_governance.md",
+          "size": 13257
+        },
+        {
+          "path": "jax-response/dan-response-materials/medium_priority_responses/investigation_claims.md",
+          "name": "investigation_claims.md",
+          "size": 12498
+        },
+        {
+          "path": "jax-response/dan-response-materials/medium_priority_responses/settlement_and_timing.md",
+          "name": "settlement_and_timing.md",
+          "size": 11409
+        },
+        {
+          "path": "jax-response/dan-response-materials/medium_priority_responses/specific_transactions.md",
+          "name": "specific_transactions.md",
+          "size": 11874
+        },
+        {
+          "path": "jax-response/dan-response-materials/rule-42-rescission/FOUNDING_AFFIDAVIT_Daniel_Faucitt_Rule_42.md",
+          "name": "FOUNDING_AFFIDAVIT_Daniel_Faucitt_Rule_42.md",
+          "size": 77311
+        },
+        {
+          "path": "jax-response/dan-response-materials/rule-42-rescission/LEGAL_ARGUMENT_MEMORANDUM_Void_Ab_Initio.md",
+          "name": "LEGAL_ARGUMENT_MEMORANDUM_Void_Ab_Initio.md",
+          "size": 46639
+        },
+        {
+          "path": "jax-response/dan-response-materials/rule-42-rescission/NOTICE_OF_MOTION_Rule_42_Rescission.md",
+          "name": "NOTICE_OF_MOTION_Rule_42_Rescission.md",
+          "size": 20360
+        },
+        {
+          "path": "jax-response/dan-response-materials/rule-42-rescission/UPDATED_AFFIDAVIT_SECTIONS_Para_40-60_2025-11-14.md",
+          "name": "UPDATED_AFFIDAVIT_SECTIONS_Para_40-60_2025-11-14.md",
+          "size": 18135
+        },
+        {
+          "path": "jax-response/dan-response-materials/rule-42-rescission/annexures/ANNEXURE_DF10_Notice_of_Withdrawal_2025-09-22.md",
+          "name": "ANNEXURE_DF10_Notice_of_Withdrawal_2025-09-22.md",
+          "size": 10913
+        },
+        {
+          "path": "jax-response/dan-response-materials/rule-42-rescission/annexures/ANNEXURE_DF11_Second_Application_2025-10-03.pdf",
+          "name": "ANNEXURE_DF11_Second_Application_2025-10-03.pdf",
+          "size": 5807902
+        },
+        {
+          "path": "jax-response/dan-response-materials/rule-42-rescission/annexures/ANNEXURE_DF2_Sage_User_Access_2025-06-20.jpg",
+          "name": "ANNEXURE_DF2_Sage_User_Access_2025-06-20.jpg",
+          "size": 53778
+        },
+        {
+          "path": "jax-response/dan-response-materials/rule-42-rescission/annexures/ANNEXURE_DF2_Sage_User_Access_2025-06-20.json",
+          "name": "ANNEXURE_DF2_Sage_User_Access_2025-06-20.json",
+          "size": 1824
+        },
+        {
+          "path": "jax-response/dan-response-materials/rule-42-rescission/annexures/ANNEXURE_DF2_Sage_User_Access_2025-06-20.md",
+          "name": "ANNEXURE_DF2_Sage_User_Access_2025-06-20.md",
+          "size": 1530
+        },
+        {
+          "path": "jax-response/dan-response-materials/rule-42-rescission/annexures/ANNEXURE_DF3_Sage_Subscription_Owner_2025-08-25.jpg",
+          "name": "ANNEXURE_DF3_Sage_Subscription_Owner_2025-08-25.jpg",
+          "size": 51632
+        },
+        {
+          "path": "jax-response/dan-response-materials/rule-42-rescission/annexures/ANNEXURE_DF3_Sage_Subscription_Owner_2025-08-25.json",
+          "name": "ANNEXURE_DF3_Sage_Subscription_Owner_2025-08-25.json",
+          "size": 1451
+        },
+        {
+          "path": "jax-response/dan-response-materials/rule-42-rescission/annexures/ANNEXURE_DF3_Sage_Subscription_Owner_2025-08-25.md",
+          "name": "ANNEXURE_DF3_Sage_Subscription_Owner_2025-08-25.md",
+          "size": 1226
+        },
+        {
+          "path": "jax-response/dan-response-materials/rule-42-rescission/annexures/ANNEXURE_DF4_Trustee_Appointment_2024-07-01.pdf",
+          "name": "ANNEXURE_DF4_Trustee_Appointment_2024-07-01.pdf",
+          "size": 254189
+        },
+        {
+          "path": "jax-response/dan-response-materials/rule-42-rescission/annexures/ANNEXURE_DF6a_Shopify_RWW_Zone_Sales.pdf",
+          "name": "ANNEXURE_DF6a_Shopify_RWW_Zone_Sales.pdf",
+          "size": 1352198
+        },
+        {
+          "path": "jax-response/dan-response-materials/rule-42-rescission/annexures/ANNEXURE_DF6b_Shopify_RSA_Sales.pdf",
+          "name": "ANNEXURE_DF6b_Shopify_RSA_Sales.pdf",
+          "size": 1388927
+        },
+        {
+          "path": "jax-response/dan-response-materials/rule-42-rescission/annexures/ANNEXURE_INDEX_AND_PREPARATION_GUIDE.md",
+          "name": "ANNEXURE_INDEX_AND_PREPARATION_GUIDE.md",
+          "size": 22869
+        },
+        {
+          "path": "jax-response/dan-response-materials/rule-42-rescission/annexures/ANNEXURE_INDEX_UPDATED_2025-11-14.md",
+          "name": "ANNEXURE_INDEX_UPDATED_2025-11-14.md",
+          "size": 15083
+        },
+        {
+          "path": "jax-response/evidence-attachments/CHESNO-FRAUD-EVIDENCE-INDEX.md",
+          "name": "CHESNO-FRAUD-EVIDENCE-INDEX.md",
+          "size": 10447
+        },
+        {
+          "path": "jax-response/evidence-attachments/JF-CHESNO1-forensic-accounting-reports.md",
+          "name": "JF-CHESNO1-forensic-accounting-reports.md",
+          "size": 5424
+        },
+        {
+          "path": "jax-response/evidence-attachments/JF-CHESNO2-bank-statements-unauthorized-transfers.md",
+          "name": "JF-CHESNO2-bank-statements-unauthorized-transfers.md",
+          "size": 8494
+        },
+        {
+          "path": "jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md",
+          "name": "JF-CHESNO3-police-reports-fraud-investigation.md",
+          "size": 9818
+        },
+        {
+          "path": "jax-response/evidence-attachments/JF-CHESNO4-insolvency-assessment-pre-daniel.md",
+          "name": "JF-CHESNO4-insolvency-assessment-pre-daniel.md",
+          "size": 11746
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE-ENHANCED.docx",
+          "name": "AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE-ENHANCED.docx",
+          "size": 23879
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx",
+          "name": "AFFIDAVIT_SHOPIFY_EVIDENCE_COMPREHENSIVE.docx",
+          "size": 24041
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/COMPREHENSIVE_FINANCIAL_ANALYSIS.md",
+          "name": "COMPREHENSIVE_FINANCIAL_ANALYSIS.md",
+          "size": 24038
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/COVER_LETTER_STRATEGY.md",
+          "name": "COVER_LETTER_STRATEGY.md",
+          "size": 8587
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/CRIMINAL_ENTERPRISE_ANNEXURE_STRUCTURE.md",
+          "name": "CRIMINAL_ENTERPRISE_ANNEXURE_STRUCTURE.md",
+          "size": 12463
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md",
+          "name": "DANIEL_FAUCITT_TECHNICAL_AFFIDAVIT.md",
+          "size": 24172
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md",
+          "name": "DANIEL_FAUCITT_TECHNICAL_INFRASTRUCTURE_AFFIDAVIT.md",
+          "size": 24501
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/DANIEL_FAUCITT_WITNESS_STATEMENT.md",
+          "name": "DANIEL_FAUCITT_WITNESS_STATEMENT.md",
+          "size": 17276
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/DIRECTOR_LOAN_PRACTICE_ANALYSIS.md",
+          "name": "DIRECTOR_LOAN_PRACTICE_ANALYSIS.md",
+          "size": 11424
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/DISPROPORTIONATE_RELIEF_ANALYSIS.md",
+          "name": "DISPROPORTIONATE_RELIEF_ANALYSIS.md",
+          "size": 22083
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/Dan_Technical_Infrastructure_Affidavit.md",
+          "name": "Dan_Technical_Infrastructure_Affidavit.md",
+          "size": 39223
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/EXTERNAL_VALIDATION_PACKAGE.md",
+          "name": "EXTERNAL_VALIDATION_PACKAGE.md",
+          "size": 18484
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/IT_SPEND_INDUSTRY_COMPARATIVE_ANALYSIS.md",
+          "name": "IT_SPEND_INDUSTRY_COMPARATIVE_ANALYSIS.md",
+          "size": 17518
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-BS1_R500K_PAYMENT_BANK_STATEMENT.md",
+          "name": "JF-BS1_R500K_PAYMENT_BANK_STATEMENT.md",
+          "size": 6485
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+          "name": "JF-DLA1_PETER_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+          "size": 7334
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-DLA2_JACQUELINE_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+          "name": "JF-DLA2_JACQUELINE_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+          "size": 7510
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+          "name": "JF-DLA3_DANIEL_FAUCITT_DIRECTOR_LOAN_ACCOUNT.md",
+          "size": 9110
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-PA1_PETER_WITHDRAWAL_15MAR2025.md",
+          "name": "JF-PA1_PETER_WITHDRAWAL_15MAR2025.md",
+          "size": 3669
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-PA2_PETER_WITHDRAWAL_20JUL2025.md",
+          "name": "JF-PA2_PETER_WITHDRAWAL_20JUL2025.md",
+          "size": 4306
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-PA3_PETER_WITHDRAWAL_12JAN2023.md",
+          "name": "JF-PA3_PETER_WITHDRAWAL_12JAN2023.md",
+          "size": 5089
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-PA4_PETER_WITHDRAWAL_15FEB2023.md",
+          "name": "JF-PA4_PETER_WITHDRAWAL_15FEB2023.md",
+          "size": 6302
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-RESTORE1_BUSINESS_TRANSFORMATION_2017_2025.md",
+          "name": "JF-RESTORE1_BUSINESS_TRANSFORMATION_2017_2025.md",
+          "size": 7391
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md",
+          "name": "JF-RESTORE1_DANIEL_8YEAR_BUSINESS_TRANSFORMATION.md",
+          "size": 7498
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-RESTORE2_TECHNOLOGY_PLATFORM_VALUATION.md",
+          "name": "JF-RESTORE2_TECHNOLOGY_PLATFORM_VALUATION.md",
+          "size": 7333
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-RESTORE3_PERSONAL_SACRIFICE_DOCUMENTATION.md",
+          "name": "JF-RESTORE3_PERSONAL_SACRIFICE_DOCUMENTATION.md",
+          "size": 8139
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-RESTORE4_COMPARATIVE_DESTRUCTION_ANALYSIS.md",
+          "name": "JF-RESTORE4_COMPARATIVE_DESTRUCTION_ANALYSIS.md",
+          "size": 9089
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-RP1_RESPONSIBLE_PERSON_DESIGNATION_DOCUMENTATION.md",
+          "name": "JF-RP1_RESPONSIBLE_PERSON_DESIGNATION_DOCUMENTATION.md",
+          "size": 7795
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-RP2_REGULATORY_RISK_ANALYSIS.md",
+          "name": "JF-RP2_REGULATORY_RISK_ANALYSIS.md",
+          "size": 8607
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-UK-TAX-RESIDENCY_DOCUMENTATION.md",
+          "name": "JF-UK-TAX-RESIDENCY_DOCUMENTATION.md",
+          "size": 7083
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-UK-TAX_UK_TAX_RESIDENCY_DOCUMENTATION.md",
+          "name": "JF-UK-TAX_UK_TAX_RESIDENCY_DOCUMENTATION.md",
+          "size": 6329
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF-VV1_VILLA_VIA_SELF_DEALING_ANALYSIS.md",
+          "name": "JF-VV1_VILLA_VIA_SELF_DEALING_ANALYSIS.md",
+          "size": 17895
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md",
+          "name": "JF3A_EMAIL_FORENSICS_PATTERN_ANALYSIS.md",
+          "size": 18960
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF5_COMPARISON_DRAFT_VS_FINAL.md",
+          "name": "JF5_COMPARISON_DRAFT_VS_FINAL.md",
+          "size": 6479
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF5_DRAFT_AGREEMENT_INITIAL_VERSION.md",
+          "name": "JF5_DRAFT_AGREEMENT_INITIAL_VERSION.md",
+          "size": 4849
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF5_DRAFT_SETTLEMENT_AGREEMENT.md",
+          "name": "JF5_DRAFT_SETTLEMENT_AGREEMENT.md",
+          "size": 5824
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF5_FINAL_AGREEMENT_SIGNED_VERSION.md",
+          "name": "JF5_FINAL_AGREEMENT_SIGNED_VERSION.md",
+          "size": 6936
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF5_FINAL_SETTLEMENT_AGREEMENT.md",
+          "name": "JF5_FINAL_SETTLEMENT_AGREEMENT.md",
+          "size": 6047
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/JF8_COOPERATION_CORRESPONDENCE.md",
+          "name": "JF8_COOPERATION_CORRESPONDENCE.md",
+          "size": 15850
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/LEGAL_ATTENTION_TRANSFORM_IMPLEMENTATION.md",
+          "name": "LEGAL_ATTENTION_TRANSFORM_IMPLEMENTATION.md",
+          "size": 13310
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md",
+          "name": "PETERS_BAD_FAITH_TIMELINE_ANALYSIS.md",
+          "size": 18352
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/PETERS_CAUSATION_ANALYSIS.md",
+          "name": "PETERS_CAUSATION_ANALYSIS.md",
+          "size": 28715
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/PETERS_CAUSATION_SECTION_DRAFT.md",
+          "name": "PETERS_CAUSATION_SECTION_DRAFT.md",
+          "size": 17613
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/POINT_BY_POINT_REBUTTAL_MATRIX.md",
+          "name": "POINT_BY_POINT_REBUTTAL_MATRIX.md",
+          "size": 27711
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/RESPONSIBLE_PERSON_REGULATORY_CRISIS_SECTION.md",
+          "name": "RESPONSIBLE_PERSON_REGULATORY_CRISIS_SECTION.md",
+          "size": 9121
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/SECTION_12_1_COMPREHENSIVE_TIMELINE_ANALYSIS.md",
+          "name": "SECTION_12_1_COMPREHENSIVE_TIMELINE_ANALYSIS.md",
+          "size": 22693
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/SECTION_12_DOCUMENTARY_EVIDENCE_INDEX.md",
+          "name": "SECTION_12_DOCUMENTARY_EVIDENCE_INDEX.md",
+          "size": 7992
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md",
+          "name": "SECTION_1_FINANCIAL_HEMORRHAGE_JAX_AFFIDAVIT.md",
+          "size": 7247
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md",
+          "name": "SECTION_2_RYNETTE_CRIMINAL_ENTERPRISE.md",
+          "size": 10020
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md",
+          "name": "SECTION_3_STRATEGIC_LOGISTICS_DESTRUCTION_DANIEL_AFFIDAVIT.md",
+          "size": 12963
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/SECTION_4_RELIEF_REQUIRED_JOINT_STATEMENT.md",
+          "name": "SECTION_4_RELIEF_REQUIRED_JOINT_STATEMENT.md",
+          "size": 10250
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/SECTION_4_SETTLEMENT_AND_TIMING.md",
+          "name": "SECTION_4_SETTLEMENT_AND_TIMING.md",
+          "size": 11490
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/SECTION_5_SMOKING_GUN_PARAGRAPH.md",
+          "name": "SECTION_5_SMOKING_GUN_PARAGRAPH.md",
+          "size": 9797
+        },
+        {
+          "path": "jax-response/evidence-attachments/dan-technical/comprehensive_fraud_timeline_2017_2025.md",
+          "name": "comprehensive_fraud_timeline_2017_2025.md",
+          "size": 17369
+        },
+        {
+          "path": "jax-response/evidence-attachments/settlement-agreement-jf5/JF5-COMPARISON_Draft_vs_Final_Analysis.md",
+          "name": "JF5-COMPARISON_Draft_vs_Final_Analysis.md",
+          "size": 14356
+        },
+        {
+          "path": "jax-response/evidence-attachments/settlement-agreement-jf5/JF5-DRAFT_Settlement_Agreement_Initial_Version.md",
+          "name": "JF5-DRAFT_Settlement_Agreement_Initial_Version.md",
+          "size": 6156
+        },
+        {
+          "path": "jax-response/evidence-attachments/settlement-agreement-jf5/JF5-FINAL_Settlement_Agreement_Signed_Version.md",
+          "name": "JF5-FINAL_Settlement_Agreement_Signed_Version.md",
+          "size": 9578
+        },
+        {
+          "path": "jax-response/evidence-attachments/settlement-agreement-jf5/README.md",
+          "name": "README.md",
+          "size": 9633
+        },
+        {
+          "path": "jax-response/family-trust/FORENSIC_EVIDENCE_INDEX.json",
+          "name": "FORENSIC_EVIDENCE_INDEX.json",
+          "size": 8213
+        },
+        {
+          "path": "jax-response/family-trust/FORENSIC_EVIDENCE_INDEX.md",
+          "name": "FORENSIC_EVIDENCE_INDEX.md",
+          "size": 9238
+        },
+        {
+          "path": "jax-response/family-trust/README.json",
+          "name": "README.json",
+          "size": 8144
+        },
+        {
+          "path": "jax-response/family-trust/README.md",
+          "name": "README.md",
+          "size": 12024
+        },
+        {
+          "path": "jax-response/family-trust/02-may-beneficiary-changes/README.json",
+          "name": "README.json",
+          "size": 4130
+        },
+        {
+          "path": "jax-response/family-trust/02-may-beneficiary-changes/README.md",
+          "name": "README.md",
+          "size": 3699
+        },
+        {
+          "path": "jax-response/family-trust/10-aug-trust-breach-evidence/README.json",
+          "name": "README.json",
+          "size": 4872
+        },
+        {
+          "path": "jax-response/family-trust/10-aug-trust-breach-evidence/README.md",
+          "name": "README.md",
+          "size": 4635
+        },
+        {
+          "path": "jax-response/family-trust/15-mar-trust-establishment/README.json",
+          "name": "README.json",
+          "size": 3698
+        },
+        {
+          "path": "jax-response/family-trust/15-mar-trust-establishment/README.md",
+          "name": "README.md",
+          "size": 3198
+        },
+        {
+          "path": "jax-response/family-trust/18-june-trust-violation/README.json",
+          "name": "README.json",
+          "size": 4120
+        },
+        {
+          "path": "jax-response/family-trust/18-june-trust-violation/README.md",
+          "name": "README.md",
+          "size": 3724
+        },
+        {
+          "path": "jax-response/family-trust/25-july-asset-misappropriation/README.json",
+          "name": "README.json",
+          "size": 4526
+        },
+        {
+          "path": "jax-response/family-trust/25-july-asset-misappropriation/README.md",
+          "name": "README.md",
+          "size": 4083
+        },
+        {
+          "path": "jax-response/financial-flows/FORENSIC_EVIDENCE_INDEX.json",
+          "name": "FORENSIC_EVIDENCE_INDEX.json",
+          "size": 10679
+        },
+        {
+          "path": "jax-response/financial-flows/FORENSIC_EVIDENCE_INDEX.md",
+          "name": "FORENSIC_EVIDENCE_INDEX.md",
+          "size": 14056
+        },
+        {
+          "path": "jax-response/financial-flows/README.json",
+          "name": "README.json",
+          "size": 9467
+        },
+        {
+          "path": "jax-response/financial-flows/README.md",
+          "name": "README.md",
+          "size": 15824
+        },
+        {
+          "path": "jax-response/financial-flows/UK_SA_CROSS_BORDER_TRANSACTION_ANALYSIS.md",
+          "name": "UK_SA_CROSS_BORDER_TRANSACTION_ANALYSIS.md",
+          "size": 29348
+        },
+        {
+          "path": "jax-response/financial-flows/01-apr-payment-redirection/README.json",
+          "name": "README.json",
+          "size": 4967
+        },
+        {
+          "path": "jax-response/financial-flows/01-apr-payment-redirection/README.md",
+          "name": "README.md",
+          "size": 5012
+        },
+        {
+          "path": "jax-response/financial-flows/12-july-account-manipulations/README.json",
+          "name": "README.json",
+          "size": 5911
+        },
+        {
+          "path": "jax-response/financial-flows/12-july-account-manipulations/README.md",
+          "name": "README.md",
+          "size": 6238
+        },
+        {
+          "path": "jax-response/financial-flows/15-may-unauthorized-transfers/README.json",
+          "name": "README.json",
+          "size": 5122
+        },
+        {
+          "path": "jax-response/financial-flows/15-may-unauthorized-transfers/README.md",
+          "name": "README.md",
+          "size": 5207
+        },
+        {
+          "path": "jax-response/financial-flows/20-aug-financial-concealment/README.json",
+          "name": "README.json",
+          "size": 6055
+        },
+        {
+          "path": "jax-response/financial-flows/20-aug-financial-concealment/README.md",
+          "name": "README.md",
+          "size": 6460
+        },
+        {
+          "path": "jax-response/financial-flows/30-june-fund-diversions/README.json",
+          "name": "README.json",
+          "size": 5923
+        },
+        {
+          "path": "jax-response/financial-flows/30-june-fund-diversions/README.md",
+          "name": "README.md",
+          "size": 6267
+        },
+        {
+          "path": "jax-response/medium_priority_responses/additional_financial_claims.md",
+          "name": "additional_financial_claims.md",
+          "size": 1372
+        },
+        {
+          "path": "jax-response/medium_priority_responses/background_and_context.md",
+          "name": "background_and_context.md",
+          "size": 1513
+        },
+        {
+          "path": "jax-response/medium_priority_responses/confirmatory_affidavits.md",
+          "name": "confirmatory_affidavits.md",
+          "size": 4470
+        },
+        {
+          "path": "jax-response/medium_priority_responses/corporate_governance.md",
+          "name": "corporate_governance.md",
+          "size": 3652
+        },
+        {
+          "path": "jax-response/medium_priority_responses/investigation_claims.md",
+          "name": "investigation_claims.md",
+          "size": 1357
+        },
+        {
+          "path": "jax-response/medium_priority_responses/settlement_and_timing.md",
+          "name": "settlement_and_timing.md",
+          "size": 1267
+        },
+        {
+          "path": "jax-response/medium_priority_responses/specific_transactions.md",
+          "name": "specific_transactions.md",
+          "size": 2478
+        },
+        {
+          "path": "jax-response/peter-interdict/court_order_2025_137857.json",
+          "name": "court_order_2025_137857.json",
+          "size": 15353
+        },
+        {
+          "path": "jax-response/peter-interdict/court_order_2025_137857.md",
+          "name": "court_order_2025_137857.md",
+          "size": 12654
+        },
+        {
+          "path": "jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.json",
+          "name": "peter-faucitt-interdict-2025-09-30.json",
+          "size": 63305
+        },
+        {
+          "path": "jax-response/peter-interdict/peter-faucitt-interdict-2025-09-30.md",
+          "name": "peter-faucitt-interdict-2025-09-30.md",
+          "size": 56452
+        },
+        {
+          "path": "jax-response/peter-interdict/peter-faucitt-interdict-combined.json",
+          "name": "peter-faucitt-interdict-combined.json",
+          "size": 63136
+        },
+        {
+          "path": "jax-response/peter-interdict/peter-faucitt-interdict-combined.md",
+          "name": "peter-faucitt-interdict-combined.md",
+          "size": 56138
+        },
+        {
+          "path": "jax-response/peter-interdict/peter-faucitt-interdict-complete.json",
+          "name": "peter-faucitt-interdict-complete.json",
+          "size": 62157
+        },
+        {
+          "path": "jax-response/peter-interdict/peter-faucitt-interdict-complete.md",
+          "name": "peter-faucitt-interdict-complete.md",
+          "size": 55050
+        },
+        {
+          "path": "jax-response/revenue-theft/EVIDENCE_CROSS_REFERENCE.json",
+          "name": "EVIDENCE_CROSS_REFERENCE.json",
+          "size": 10291
+        },
+        {
+          "path": "jax-response/revenue-theft/EVIDENCE_CROSS_REFERENCE.md",
+          "name": "EVIDENCE_CROSS_REFERENCE.md",
+          "size": 14296
+        },
+        {
+          "path": "jax-response/revenue-theft/FORENSIC_ANALYSIS_COMPLETION_SUMMARY.json",
+          "name": "FORENSIC_ANALYSIS_COMPLETION_SUMMARY.json",
+          "size": 11627
+        },
+        {
+          "path": "jax-response/revenue-theft/FORENSIC_ANALYSIS_COMPLETION_SUMMARY.md",
+          "name": "FORENSIC_ANALYSIS_COMPLETION_SUMMARY.md",
+          "size": 13519
+        },
+        {
+          "path": "jax-response/revenue-theft/README.json",
+          "name": "README.json",
+          "size": 11573
+        },
+        {
+          "path": "jax-response/revenue-theft/README.md",
+          "name": "README.md",
+          "size": 21203
+        },
+        {
+          "path": "jax-response/revenue-theft/08-july-warehouse-popi/README.json",
+          "name": "README.json",
+          "size": 9669
+        },
+        {
+          "path": "jax-response/revenue-theft/08-july-warehouse-popi/README.md",
+          "name": "README.md",
+          "size": 10193
+        },
+        {
+          "path": "jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.json",
+          "name": "email_compliance_directive_2025-07-08.json",
+          "size": 6314
+        },
+        {
+          "path": "jax-response/revenue-theft/08-july-warehouse-popi/email_compliance_directive_2025-07-08.md",
+          "name": "email_compliance_directive_2025-07-08.md",
+          "size": 4682
+        },
+        {
+          "path": "jax-response/revenue-theft/14-apr-bank-letter/APR-SEP-2025.json",
+          "name": "APR-SEP-2025.json",
+          "size": 22868
+        },
+        {
+          "path": "jax-response/revenue-theft/14-apr-bank-letter/APR-SEP-2025.md",
+          "name": "APR-SEP-2025.md",
+          "size": 22863
+        },
+        {
+          "path": "jax-response/revenue-theft/14-apr-bank-letter/README.json",
+          "name": "README.json",
+          "size": 3430
+        },
+        {
+          "path": "jax-response/revenue-theft/14-apr-bank-letter/README.md",
+          "name": "README.md",
+          "size": 2189
+        },
+        {
+          "path": "jax-response/revenue-theft/20-june-gee-gayane-email/README.json",
+          "name": "README.json",
+          "size": 7172
+        },
+        {
+          "path": "jax-response/revenue-theft/20-june-gee-gayane-email/README.md",
+          "name": "README.md",
+          "size": 6888
+        },
+        {
+          "path": "jax-response/revenue-theft/22-may-shopify-audit/README.json",
+          "name": "README.json",
+          "size": 5901
+        },
+        {
+          "path": "jax-response/revenue-theft/22-may-shopify-audit/README.md",
+          "name": "README.md",
+          "size": 4956
+        },
+        {
+          "path": "jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.json",
+          "name": "audit_trail_hijacking_timeline.json",
+          "size": 8646
+        },
+        {
+          "path": "jax-response/revenue-theft/22-may-shopify-audit/audit_trail_hijacking_timeline.md",
+          "name": "audit_trail_hijacking_timeline.md",
+          "size": 11343
+        },
+        {
+          "path": "jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.json",
+          "name": "may_22_2025_audit_trail_hijacking_analysis.json",
+          "size": 8559
+        },
+        {
+          "path": "jax-response/revenue-theft/22-may-shopify-audit/may_22_2025_audit_trail_hijacking_analysis.md",
+          "name": "may_22_2025_audit_trail_hijacking_analysis.md",
+          "size": 10224
+        },
+        {
+          "path": "jax-response/revenue-theft/29-may-domain-registration/README.json",
+          "name": "README.json",
+          "size": 7154
+        },
+        {
+          "path": "jax-response/revenue-theft/29-may-domain-registration/README.md",
+          "name": "README.md",
+          "size": 6455
+        },
+        {
+          "path": "jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.json",
+          "name": "REVENUE_HIJACKING_CRIMINAL_ANALYSIS.json",
+          "size": 24788
+        },
+        {
+          "path": "jax-response/revenue-theft/29-may-domain-registration/REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md",
+          "name": "REVENUE_HIJACKING_CRIMINAL_ANALYSIS.md",
+          "size": 25908
+        },
+        {
+          "path": "jax-response/revenue-theft/email-impersonation-pattern-jf3a/EXECUTIVE_SUMMARY_COMPLETE_PACKAGE.md",
+          "name": "EXECUTIVE_SUMMARY_COMPLETE_PACKAGE.md",
+          "size": 9262
+        },
+        {
+          "path": "jax-response/revenue-theft/email-impersonation-pattern-jf3a/JF3B_System_Access_Logs.md",
+          "name": "JF3B_System_Access_Logs.md",
+          "size": 10114
+        },
+        {
+          "path": "jax-response/revenue-theft/email-impersonation-pattern-jf3a/JF3C_Identity_Theft_Documentation.md",
+          "name": "JF3C_Identity_Theft_Documentation.md",
+          "size": 14689
+        },
+        {
+          "path": "jax-response/revenue-theft/email-impersonation-pattern-jf3a/README.md",
+          "name": "README.md",
+          "size": 21539
+        },
+        {
+          "path": "jax-response/revenue-theft/shopify-system-comparison/POPIA_COMPLIANCE_DETAILED.md",
+          "name": "POPIA_COMPLIANCE_DETAILED.md",
+          "size": 16170
+        },
+        {
+          "path": "jax-response/revenue-theft/shopify-system-comparison/README.md",
+          "name": "README.md",
+          "size": 15622
+        },
+        {
+          "path": "jax-response/revenue-theft/shopify-system-comparison/SYSTEM_ARCHITECTURE_TECHNICAL.md",
+          "name": "SYSTEM_ARCHITECTURE_TECHNICAL.md",
+          "size": 17427
+        },
+        {
+          "path": "jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-ENHANCED.docx",
+          "name": "1.2.MAT4719-AnsweringAffidavit-ENHANCED.docx",
+          "size": 79552
+        },
+        {
+          "path": "jax-response/source-documents/1.2.MAT4719-AnsweringAffidavit-FINAL.docx",
+          "name": "1.2.MAT4719-AnsweringAffidavit-FINAL.docx",
+          "size": 77026
+        },
+        {
+          "path": "jax-response/source-documents/ANSWERING_AFFIDAVIT_-_JACQUELINE_FAUCITT_(FINAL_DRAFT_FOR_REVIEW_BYJAX).docx",
+          "name": "ANSWERING_AFFIDAVIT_-_JACQUELINE_FAUCITT_(FINAL_DRAFT_FOR_REVIEW_BYJAX).docx",
+          "size": 30578
+        },
+        {
+          "path": "jax-response/source-documents/FINAL_AFFIDAVIT_CHANGES_LOG.md",
+          "name": "FINAL_AFFIDAVIT_CHANGES_LOG.md",
+          "size": 12081
+        },
+        {
+          "path": "jax-response/source-documents/FINAL_AFFIDAVIT_SUMMARY.md",
+          "name": "FINAL_AFFIDAVIT_SUMMARY.md",
+          "size": 7353
+        },
+        {
+          "path": "jax-response/source-documents/FINAL_ASSESSMENT_Jacqui_Affidavit_(Reconstructed_Version).docx",
+          "name": "FINAL_ASSESSMENT_Jacqui_Affidavit_(Reconstructed_Version).docx",
+          "size": 19137
+        },
+        {
+          "path": "jax-response/source-documents/SECTION_3_ADDITION_DANS_TECHNICAL_AFFIDAVIT.md",
+          "name": "SECTION_3_ADDITION_DANS_TECHNICAL_AFFIDAVIT.md",
+          "size": 5104
+        },
+        {
+          "path": "jax-response/source-documents/dan-materials/DRAFTOFMAINPOINTS-RESPONSE.docx",
+          "name": "DRAFTOFMAINPOINTS-RESPONSE.docx",
+          "size": 32681
+        }
+      ]
+    },
+    "revenue_stream_hijacking": {
+      "count": 10,
+      "files": [
+        {
+          "path": "revenue-stream-hijacking-rynette/README.md",
+          "name": "README.md",
+          "size": 4679
+        },
+        {
+          "path": "revenue-stream-hijacking-rynette/revenue-stream-configuration.json",
+          "name": "revenue-stream-configuration.json",
+          "size": 13979
+        },
+        {
+          "path": "revenue-stream-hijacking-rynette/audit-trails/README.md",
+          "name": "README.md",
+          "size": 16728
+        },
+        {
+          "path": "revenue-stream-hijacking-rynette/court-orders/README.md",
+          "name": "README.md",
+          "size": 14587
+        },
+        {
+          "path": "revenue-stream-hijacking-rynette/domain-evidence/README.md",
+          "name": "README.md",
+          "size": 14903
+        },
+        {
+          "path": "revenue-stream-hijacking-rynette/popia-compliance/README.md",
+          "name": "README.md",
+          "size": 7964
+        },
+        {
+          "path": "revenue-stream-hijacking-rynette/regima-zone-integration/README.md",
+          "name": "README.md",
+          "size": 8806
+        },
+        {
+          "path": "revenue-stream-hijacking-rynette/shopify-platform/README.md",
+          "name": "README.md",
+          "size": 19986
+        },
+        {
+          "path": "revenue-stream-hijacking-rynette/supporting-docs/README.md",
+          "name": "README.md",
+          "size": 6295
+        },
+        {
+          "path": "revenue-stream-hijacking-rynette/transparency-comparison/README.md",
+          "name": "README.md",
+          "size": 11639
+        }
+      ]
+    },
+    "evidence_packages": {
+      "count": 3,
+      "files": [
+        {
+          "path": "evidence_package_20250523/README.md",
+          "name": "README.md",
+          "size": 137
+        },
+        {
+          "path": "evidence_package_20250811/README.md",
+          "name": "README.md",
+          "size": 137
+        },
+        {
+          "path": "evidence_package_20251012/README.md",
+          "name": "README.md",
+          "size": 137
+        }
+      ]
+    },
+    "legal_analysis": {
+      "count": 8,
+      "files": [
+        {
+          "path": "legal-analysis/delinquent-director-application.md",
+          "name": "delinquent-director-application.md",
+          "size": 16694
+        },
+        {
+          "path": "legal-analysis/legal-framework-evidence-based.md",
+          "name": "legal-framework-evidence-based.md",
+          "size": 15230
+        },
+        {
+          "path": "legal-analysis/legal-framework.md",
+          "name": "legal-framework.md",
+          "size": 14177
+        },
+        {
+          "path": "legal-analysis/oppression-application.md",
+          "name": "oppression-application.md",
+          "size": 15956
+        },
+        {
+          "path": "legal-analysis/s162-delinquent-director-application-evidence-based.md",
+          "name": "s162-delinquent-director-application-evidence-based.md",
+          "size": 13320
+        },
+        {
+          "path": "legal-analysis/s162_delinquent_director_application_full_text.md",
+          "name": "s162_delinquent_director_application_full_text.md",
+          "size": 12427
+        },
+        {
+          "path": "legal-analysis/s163-oppression-not-pursued.md",
+          "name": "s163-oppression-not-pursued.md",
+          "size": 4561
+        },
+        {
+          "path": "legal-analysis/scenario_integration_final_2025_12_05.md",
+          "name": "scenario_integration_final_2025_12_05.md",
+          "size": 13294
+        }
+      ]
+    },
+    "other": {
+      "count": 0,
+      "files": []
+    }
+  }
+}

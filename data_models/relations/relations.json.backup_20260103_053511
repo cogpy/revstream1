@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "17.0_REFINED_2026_01_03",
+    "version": "16.0_REFINED_2026_01_01",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-01-03T05:35:11.925883",
-    "changes": "Evidence strength upgrades based on multiple evidence sources",
+    "last_updated": "2026-01-01T05:35:29.220293",
+    "changes": "Evidence verification and cross-reference enhancement",
     "total_relations": 75
   },
   "relations": {
@@ -90,7 +90,7 @@
           "ANNEXURES/JF01 - Shopify ownership evidence"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_OWN_005",
@@ -148,7 +148,7 @@
           "ANNEXURES/JF01 - Shopify ownership evidence"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       }
     ],
     "control_relations": [
@@ -278,7 +278,7 @@
           "ANNEXURES/JF03 - Financial records"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_CTRL_007",
@@ -297,7 +297,7 @@
           "ANNEXURES/JF03 - Financial records"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_CTRL_008",
@@ -348,7 +348,7 @@
         "source_entity": "PERSON_002",
         "target_entity": "PERSON_003",
         "conspiracy_type": "mother_son_collusion",
-        "evidence_strength": "strong",
+        "evidence_strength": "moderate",
         "evidence": [
           "domain_registration_identity_fraud_2025_05_29"
         ],
@@ -619,7 +619,7 @@
           "ANNEXURES/JF03 - Financial records"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_FIN_008",
@@ -642,7 +642,7 @@
           "ANNEXURES/JF03 - Financial records"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_FIN_009",
@@ -665,7 +665,7 @@
           "ANNEXURES/JF03 - Financial records"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_FIN_010",
@@ -687,7 +687,7 @@
           "ANNEXURES/JF03 - Financial records"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_FIN_011",
@@ -709,7 +709,7 @@
           "ANNEXURES/JF03 - Financial records"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       }
     ],
     "victim_perpetrator_relations": [
@@ -1039,7 +1039,7 @@
           "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Court order"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       }
     ],
     "witness_relations": [
@@ -1300,7 +1300,7 @@
           "1-CIVIL-RESPONSE - Beneficiary evidence"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_BENEF_002",
@@ -1318,7 +1318,7 @@
           "1-CIVIL-RESPONSE - Beneficiary evidence"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_BENEF_001",
@@ -1359,7 +1359,7 @@
           "1-CIVIL-RESPONSE - Beneficiary evidence"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       }
     ],
     "professional_correspondence_relations": [
@@ -1381,7 +1381,7 @@
           "ANNEXURES/JF05 - Email correspondence"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_PROF_001",
@@ -1400,7 +1400,7 @@
           "ANNEXURES/JF05 - Email correspondence"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       }
     ],
     "capital_extraction_relations": [
@@ -1423,7 +1423,7 @@
           "ANNEXURES/JF07 - Transaction records"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       }
     ],
     "inter_company_loan_relations": [
@@ -1468,7 +1468,7 @@
           "ANNEXURES/JF07 - Financial records"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       }
     ],
     "knowledge_acquisition_relations": [
@@ -1490,7 +1490,7 @@
           "ANNEXURES/JF08 - Communication records"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       }
     ],
     "strategic_coordination_relations": [
@@ -1533,7 +1533,7 @@
           "ANNEXURES/JF06 - Legal correspondence"
         ],
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       }
     ],
     "evidence_based_relations": [
@@ -1569,7 +1569,7 @@
         ],
         "evidence_verified": "2025-12-25T05:38:52.461160",
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_024",
@@ -1611,7 +1611,7 @@
         ],
         "evidence_verified": "2025-12-25T05:38:52.461162",
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_025",
@@ -1643,7 +1643,7 @@
         ],
         "evidence_verified": "2025-12-25T05:38:52.461164",
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_026",
@@ -1675,7 +1675,7 @@
         ],
         "evidence_verified": "2025-12-25T05:38:52.461165",
         "confidence": 0.75,
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate"
       }
     ],
     "legal_relations": [

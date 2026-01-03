@@ -1,0 +1,122 @@
+{
+  "SF1_Bantjies_Debt_Documentation.md": {
+    "entities": [
+      "PERSON_007"
+    ],
+    "events": [
+      "EVENT_H012",
+      "EVENT_089"
+    ],
+    "significance": "Establishes Danie Bantjies' R18.685M debt and conflict of interest",
+    "burden_of_proof": "civil_50_criminal_95"
+  },
+  "SF2_Sage_Screenshots_Rynette_Control.md": {
+    "entities": [
+      "PERSON_002"
+    ],
+    "events": [
+      "EVENT_090"
+    ],
+    "significance": "Proves Rynette's control of accounting system and Pete's email",
+    "burden_of_proof": "criminal_95"
+  },
+  "SF5_Adderory_Company_Registration_Stock_Supply.md": {
+    "entities": [
+      "PERSON_003",
+      "ORG_010"
+    ],
+    "events": [
+      "EVENT_091"
+    ],
+    "significance": "Documents Adderory's company and stock supply arrangement",
+    "burden_of_proof": "civil_50"
+  },
+  "SF6_Kayla_Pretorius_Estate_Documentation.md": {
+    "entities": [
+      "PERSON_013"
+    ],
+    "events": [
+      "EVENT_022"
+    ],
+    "significance": "CRITICAL: Death of Kayla triggered estate exploitation",
+    "burden_of_proof": "civil_50_criminal_95"
+  },
+  "SF7_Court_Order_Kayla_Email_Seizure.md": {
+    "entities": [
+      "PERSON_013"
+    ],
+    "events": [
+      "EVENT_023"
+    ],
+    "significance": "Court order for email seizure - estate complications",
+    "burden_of_proof": "civil_50"
+  },
+  "SF8_Linda_Employment_Records.md": {
+    "entities": [
+      "PERSON_006"
+    ],
+    "events": [],
+    "significance": "Employment records for Linda (Rynette's sister)",
+    "burden_of_proof": "civil_50"
+  },
+  "SF9_Ian_Levitt_Demand_Letter.md": {
+    "entities": [
+      "ORG_007",
+      "PERSON_001"
+    ],
+    "events": [
+      "EVENT_028"
+    ],
+    "significance": "R63M formal demand letter - ignored by Peter",
+    "burden_of_proof": "civil_50_criminal_95"
+  },
+  "ANNEXURES/JF01": {
+    "entities": [
+      "PERSON_004",
+      "PERSON_005",
+      "PLATFORM_001"
+    ],
+    "events": [
+      "EVENT_001"
+    ],
+    "significance": "THE FORENSIC TIME CAPSULE - Shopify Plus email",
+    "burden_of_proof": "criminal_95"
+  },
+  "ANNEXURES/JF04": {
+    "entities": [
+      "ORG_001",
+      "ORG_003",
+      "PERSON_001"
+    ],
+    "events": [],
+    "significance": "CIPC company registration documents",
+    "burden_of_proof": "civil_50"
+  },
+  "ANNEXURES/JF07": {
+    "entities": [
+      "PERSON_002"
+    ],
+    "events": [
+      "EVENT_004",
+      "EVENT_005"
+    ],
+    "significance": "Payment redirection and bank account change evidence",
+    "burden_of_proof": "criminal_95"
+  },
+  "ANNEXURES/JF08/evidence_package_20251012": {
+    "entities": [
+      "PERSON_001",
+      "PERSON_002",
+      "PERSON_007"
+    ],
+    "events": [
+      "EVENT_001",
+      "EVENT_002",
+      "EVENT_003",
+      "EVENT_004",
+      "EVENT_005"
+    ],
+    "significance": "Comprehensive fraud timeline and evidence package",
+    "burden_of_proof": "criminal_95"
+  }
+}

@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "20.0_CRIMINAL_THRESHOLD_2026_01_03",
+    "version": "19.0_PERPETRATORS_FIXED_2026_01_02",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 77,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-01-03T05:35:11.926177",
-    "changes": "Identified 46 criminal threshold events",
+    "last_updated": "2026-01-02T05:34:32.078656",
+    "changes": "Fixed perpetrators/victims for 10 events",
     "phase_statistics": {
       "PHASE_1": 25,
       "PHASE_2": 4,
@@ -225,8 +225,7 @@
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%"
     },
     {
       "event_id": "EVENT_091",
@@ -309,8 +308,7 @@
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF07 - Screenshots and visual evidence"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_051",
@@ -351,8 +349,7 @@
         "ANNEXURES/JF08 - Evidence packages",
         "ANNEXURES/JF07 - Screenshots and visual evidence"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_H006",
@@ -395,8 +392,7 @@
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF07 - Screenshots and visual evidence"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_052",
@@ -451,7 +447,7 @@
       "ad_res_j7_references": [
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
       ],
-      "burden_of_proof": "criminal_95",
+      "burden_of_proof": "civil_50%",
       "legal_significance": "CRITICAL",
       "impact": "Creates motive for Bantjies to prevent fraud discovery, dismiss audit requests, and support retaliatory legal action",
       "conflict_of_interest": "Triple conflict: trustee + debtor + accountant",
@@ -474,8 +470,7 @@
         "TRUST_001",
         "PERSON_005",
         "PERSON_004"
-      ],
-      "criminal_threshold": "yes"
+      ]
     },
     {
       "event_id": "EVENT_H007",
@@ -624,8 +619,7 @@
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF08 - Evidence packages"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_H018",
@@ -657,8 +651,7 @@
         "ANNEXURES/JF03 - Financial records and analysis",
         "SF1_Bantjies_Debt_Documentation.md"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%"
     },
     {
       "event_id": "EVENT_090",
@@ -771,8 +764,7 @@
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
       "criminal_significance": true,
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_086",
@@ -821,7 +813,7 @@
       "ad_res_j7_references": [
         "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md"
       ],
-      "burden_of_proof": "criminal_95",
+      "burden_of_proof": "civil_50%",
       "legal_significance": "HIGH",
       "impact": "Court-ordered seizure indicates judicial recognition of potential incriminating communications",
       "created": "2025-12-19T16:36:39.171065",
@@ -843,8 +835,7 @@
       "victims": [
         "PERSON_010",
         "PERSON_005"
-      ],
-      "criminal_threshold": "yes"
+      ]
     },
     {
       "event_id": "EVENT_D001",
@@ -1086,8 +1077,7 @@
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_D005",
@@ -1125,8 +1115,7 @@
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
       "criminal_significance": true,
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%"
     },
     {
       "event_id": "EVENT_023",
@@ -1197,8 +1186,7 @@
         "ANNEXURES/JF03 - Financial records and analysis",
         "SF6_Kayla_Pretorius_Estate_Documentation.md"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%"
     },
     {
       "event_id": "EVENT_022",
@@ -1237,8 +1225,7 @@
         "ANNEXURES/JF04 - Personal bank records"
       ],
       "criminal_significance": true,
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_028",
@@ -1282,8 +1269,7 @@
         "ANNEXURES/JF03 - Financial records and analysis",
         "SF5_Adderory_Company_Registration.md"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "criminal_95%"
     },
     {
       "event_id": "EVENT_001",
@@ -1321,8 +1307,7 @@
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF04 - Personal bank records"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_024",
@@ -1361,14 +1346,13 @@
         "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md - Same stock supplied by Adderory"
       ],
       "evidence_enhanced": "2025-12-22T05:40:58.380360",
-      "burden_of_proof": "criminal_95",
+      "burden_of_proof": "criminal_95%",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF02 - Shopify sales reports",
         "ANNEXURES/JF03 - Financial records and analysis",
         "SF5_Adderory_Company_Registration.md"
-      ],
-      "criminal_threshold": "yes"
+      ]
     },
     {
       "event_id": "EVENT_002",
@@ -1407,8 +1391,7 @@
         "SF1_Bantjies_Debt_Documentation.md",
         "ANNEXURES/JF10 - Trust documents"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_025",
@@ -1448,8 +1431,7 @@
         "ANNEXURES/JF03 - Financial records and analysis",
         "SF1_Bantjies_Debt_Documentation.md"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_003",
@@ -1495,8 +1477,7 @@
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
       "criminal_significance": true,
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "criminal_95%"
     },
     {
       "event_id": "EVENT_004",
@@ -1547,8 +1528,7 @@
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF04 - Personal bank records"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_005",
@@ -1597,8 +1577,7 @@
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
       "criminal_significance": true,
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_029",
@@ -1670,8 +1649,7 @@
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF08 - Evidence packages"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%"
     },
     {
       "event_id": "EVENT_056",
@@ -1704,8 +1682,7 @@
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF08 - Evidence packages"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%"
     },
     {
       "event_id": "EVENT_006",
@@ -1746,8 +1723,7 @@
         "SF1_Bantjies_Debt_Documentation.md",
         "ANNEXURES/JF10 - Trust documents"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_007",
@@ -1842,8 +1818,7 @@
         "ANNEXURES/JF04 - Personal bank records"
       ],
       "criminal_significance": true,
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_050",
@@ -1888,8 +1863,7 @@
         "ANNEXURES/JF08 - Evidence packages",
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_009",
@@ -1934,14 +1908,13 @@
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
       ],
-      "burden_of_proof": "criminal_95",
+      "burden_of_proof": "criminal_95%",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF01 - Shopify Plus email evidence",
         "SF6_Kayla_Pretorius_Estate_Documentation.md",
         "ANNEXURES/JF03 - Financial records and analysis"
-      ],
-      "criminal_threshold": "yes"
+      ]
     },
     {
       "event_id": "EVENT_010",
@@ -1988,8 +1961,7 @@
         "SF5_Adderory_Company_Registration.md",
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_011",
@@ -2022,8 +1994,7 @@
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
       "criminal_significance": true,
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_057",
@@ -2096,8 +2067,7 @@
         "ANNEXURES/JF07 - Screenshots and visual evidence",
         "ANNEXURES/JF04 - Personal bank records"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_023",
@@ -2143,8 +2113,7 @@
         "SF1_Bantjies_Debt_Documentation.md"
       ],
       "criminal_significance": true,
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "criminal_95%"
     },
     {
       "event_id": "EVENT_026",
@@ -2185,8 +2154,7 @@
         "SF1_Bantjies_Debt_Documentation.md"
       ],
       "criminal_significance": true,
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_047",
@@ -2226,8 +2194,7 @@
         "SF1_Bantjies_Debt_Documentation.md"
       ],
       "criminal_significance": true,
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_058",
@@ -2346,8 +2313,7 @@
         "SF1_Bantjies_Debt_Documentation.md",
         "ANNEXURES/JF10 - Trust documents"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_014",
@@ -2390,15 +2356,14 @@
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
       ],
-      "burden_of_proof": "criminal_95",
+      "burden_of_proof": "criminal_95%",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF01 - Shopify Plus email evidence",
         "ANNEXURES/JF07 - Screenshots and visual evidence",
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
-      "criminal_significance": true,
-      "criminal_threshold": "yes"
+      "criminal_significance": true
     },
     {
       "event_id": "EVENT_027",
@@ -2448,8 +2413,7 @@
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
       "criminal_significance": true,
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "criminal_95%"
     },
     {
       "event_id": "EVENT_SF2A",
@@ -2471,7 +2435,7 @@
         "POPIA violations",
         "Coordinated fraud scheme"
       ],
-      "burden_of_proof": "criminal_95",
+      "burden_of_proof": "civil_50%",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
@@ -2494,8 +2458,7 @@
         "PERSON_005",
         "PERSON_004",
         "ORG_001"
-      ],
-      "criminal_threshold": "yes"
+      ]
     },
     {
       "event_id": "EVENT_064",
@@ -2588,8 +2551,7 @@
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF04 - Personal bank records"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_016",
@@ -2636,8 +2598,7 @@
         "ANNEXURES/JF01 - Shopify Plus email evidence",
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_017",
@@ -2687,8 +2648,7 @@
         "ANNEXURES/JF04 - Personal bank records"
       ],
       "criminal_significance": true,
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_065",
@@ -2812,8 +2772,7 @@
         "ANNEXURES/JF10 - Trust documents"
       ],
       "criminal_significance": true,
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_019",
@@ -2886,8 +2845,7 @@
       "ad_res_j7_references": [
         "ANNEXURES/JF06 - Court documents and filings"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%"
     },
     {
       "event_id": "EVENT_049",
@@ -2962,8 +2920,7 @@
       "ad_res_j7_references": [
         "ANNEXURES/JF06 - Court documents and filings"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%"
     },
     {
       "event_id": "EVENT_026",
@@ -2997,8 +2954,7 @@
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%"
     },
     {
       "event_id": "EVENT_020",
@@ -3047,8 +3003,7 @@
         "ANNEXURES/JF07 - Screenshots and visual evidence",
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_061",
@@ -3121,8 +3076,7 @@
         "ANNEXURES/JF07 - Screenshots and visual evidence",
         "ANNEXURES/JF04 - Personal bank records"
       ],
-      "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "burden_of_proof": "civil_50%_exceeded"
     },
     {
       "event_id": "EVENT_SF9",

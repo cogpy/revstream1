@@ -1,0 +1,67 @@
+{
+  "refinement_date": "2026-01-03T05:35:11.934175",
+  "entities": {
+    "version": "21.0_REFINED_2026_01_03",
+    "upgrades": 3
+  },
+  "relations": {
+    "version": "17.0_REFINED_2026_01_03",
+    "upgrades": 24
+  },
+  "events": {
+    "version": "20.0_CRIMINAL_THRESHOLD_2026_01_03",
+    "criminal_threshold_events": 46,
+    "criminal_event_ids": [
+      "EVENT_H004",
+      "EVENT_H005",
+      "EVENT_051",
+      "EVENT_H006",
+      "EVENT_089",
+      "EVENT_048",
+      "EVENT_H018",
+      "EVENT_H009",
+      "EVENT_087",
+      "EVENT_D004",
+      "EVENT_D005",
+      "EVENT_054",
+      "EVENT_022",
+      "EVENT_028",
+      "EVENT_001",
+      "EVENT_024",
+      "EVENT_002",
+      "EVENT_025",
+      "EVENT_003",
+      "EVENT_004",
+      "EVENT_005",
+      "EVENT_055",
+      "EVENT_056",
+      "EVENT_006",
+      "EVENT_008",
+      "EVENT_050",
+      "EVENT_009",
+      "EVENT_010",
+      "EVENT_011",
+      "EVENT_012",
+      "EVENT_023",
+      "EVENT_026",
+      "EVENT_047",
+      "EVENT_013",
+      "EVENT_014",
+      "EVENT_027",
+      "EVENT_SF2A",
+      "EVENT_015",
+      "EVENT_016",
+      "EVENT_017",
+      "EVENT_018",
+      "EVENT_059",
+      "EVENT_060",
+      "EVENT_026",
+      "EVENT_020",
+      "EVENT_021"
+    ]
+  },
+  "timeline": {
+    "version": "17.0_CRIMINAL_ENHANCED_2026_01_03",
+    "enhancements": 2
+  }
+}

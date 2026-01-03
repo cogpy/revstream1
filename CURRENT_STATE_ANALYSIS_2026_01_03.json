@@ -1,0 +1,452 @@
+{
+  "analysis_date": "2026-01-03T05:34:14.458394",
+  "entities": {
+    "total_entities": 33,
+    "version": "20.0_REFINED_2026_01_01",
+    "last_updated": "2026-01-01T05:35:29.220167",
+    "entity_types": {
+      "persons": 14,
+      "organizations": 14,
+      "platforms": 1,
+      "domains": 2,
+      "trust_entities": 1,
+      "trusts": 1,
+      "bank_accounts": 1
+    },
+    "evidence_strength_distribution": {
+      "conclusive": 1,
+      "strong": 13,
+      "moderate": 20
+    },
+    "entities_without_evidence": [],
+    "entities_with_weak_evidence": [
+      {
+        "entity_id": "PERSON_006",
+        "entity_type": "persons",
+        "name": "Linda",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_008",
+        "entity_type": "persons",
+        "name": "Kayla",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_009",
+        "entity_type": "persons",
+        "name": "Gee",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_010",
+        "entity_type": "persons",
+        "name": "Bernadine Wright",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_003",
+        "entity_type": "persons",
+        "name": "Adderory (Rynette's Son)",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_011",
+        "entity_type": "persons",
+        "name": "Chantal",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_012",
+        "entity_type": "persons",
+        "name": "Jax",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_012",
+        "entity_type": "persons",
+        "name": "Marisca Meyer",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_013",
+        "entity_type": "persons",
+        "name": "Kayla Pretorius",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "ORG_002",
+        "entity_type": "organizations",
+        "name": "Regima Skin Treatments CC",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "ORG_008",
+        "entity_type": "organizations",
+        "name": "ReZonance (Pty) Ltd",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "ORG_010",
+        "entity_type": "organizations",
+        "name": "Adderory Skin (Pty) Ltd",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "ORG_012",
+        "entity_type": "organizations",
+        "name": "RegimaSA (Pty) Ltd",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "ORG_013",
+        "entity_type": "organizations",
+        "name": "Unicorn Dynamics (Pty) Ltd",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "ORG_014",
+        "entity_type": "organizations",
+        "name": "RegimA SA (Pty) Ltd",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "ORG_015",
+        "entity_type": "organizations",
+        "name": "SARS (South African Revenue Service)",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "ORG_007",
+        "entity_type": "organizations",
+        "name": "Ian Levitt Attorneys",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "DOMAIN_001",
+        "entity_type": "domains",
+        "name": "regimaskin.co.za",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "DOMAIN_002",
+        "entity_type": "domains",
+        "name": "regima.zone",
+        "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "BANK_001",
+        "entity_type": "bank_accounts",
+        "name": "ABSA Accounts (8 suspected fraudulent accounts)",
+        "evidence_strength": "moderate"
+      }
+    ]
+  },
+  "relations": {
+    "total_relations": 75,
+    "version": "16.0_REFINED_2026_01_01",
+    "last_updated": "2026-01-01T05:35:29.220293",
+    "relation_types": {
+      "ownership_relations": 7,
+      "control_relations": 8,
+      "conspiracy_relations": 4,
+      "dependency_relations": 2,
+      "financial_relations": 11,
+      "victim_perpetrator_relations": 3,
+      "employment_relations": 2,
+      "evidence_destruction_relations": 2,
+      "temporal_relations": 6,
+      "debt_relations": 2,
+      "estate_relations": 1,
+      "witness_relations": 2,
+      "conflict_relations": 1,
+      "email_control_relations": 4,
+      "trustee_relations": 3,
+      "beneficiary_relations": 4,
+      "professional_correspondence_relations": 2,
+      "capital_extraction_relations": 1,
+      "inter_company_loan_relations": 2,
+      "knowledge_acquisition_relations": 1,
+      "strategic_coordination_relations": 1,
+      "professional_relations": 1,
+      "evidence_based_relations": 4,
+      "legal_relations": 1
+    },
+    "relations_without_evidence": [],
+    "relations_with_weak_evidence": [
+      {
+        "relation_id": "REL_OWN_004",
+        "relation_type": "ownership_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_OWN_007",
+        "relation_type": "ownership_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_CTRL_006",
+        "relation_type": "control_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_CTRL_007",
+        "relation_type": "control_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_CONSP_002",
+        "relation_type": "conspiracy_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_FIN_007",
+        "relation_type": "financial_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_FIN_008",
+        "relation_type": "financial_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_FIN_009",
+        "relation_type": "financial_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_FIN_010",
+        "relation_type": "financial_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_FIN_011",
+        "relation_type": "financial_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_ESTATE_001",
+        "relation_type": "estate_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_BENEF_001",
+        "relation_type": "beneficiary_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_BENEF_002",
+        "relation_type": "beneficiary_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_BENEF_002",
+        "relation_type": "beneficiary_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_PROF_001",
+        "relation_type": "professional_correspondence_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_PROF_001",
+        "relation_type": "professional_correspondence_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_EXTRACT_001",
+        "relation_type": "capital_extraction_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_LOAN_002",
+        "relation_type": "inter_company_loan_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_KNOWLEDGE_001",
+        "relation_type": "knowledge_acquisition_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_PROF_003",
+        "relation_type": "professional_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_023",
+        "relation_type": "evidence_based_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_024",
+        "relation_type": "evidence_based_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_025",
+        "relation_type": "evidence_based_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_026",
+        "relation_type": "evidence_based_relations",
+        "evidence_strength": "moderate"
+      },
+      {
+        "relation_id": "REL_ORG007_PERSON001",
+        "relation_type": "legal_relations",
+        "evidence_strength": "moderate"
+      }
+    ]
+  },
+  "events": {
+    "total_events": 77,
+    "version": "19.0_PERPETRATORS_FIXED_2026_01_02",
+    "last_updated": "2026-01-02T05:34:32.078656",
+    "event_categories": {
+      "Business structure": 1,
+      "business_relationship": 2,
+      "Financial structure": 1,
+      "financial_structure": 3,
+      "business_structure": 1,
+      "financial_manipulation": 12,
+      "accounting_fraud": 4,
+      "profit_extraction": 2,
+      "evidence_documentation": 1,
+      "system_control": 1,
+      "regulatory_action": 1,
+      "conspiracy_preparation": 1,
+      "legal_documentation": 1,
+      "legal_action": 2,
+      "debt_accumulation": 2,
+      "debt_management": 1,
+      "Financial transactions": 1,
+      "criminal_event": 1,
+      "fraud": 2,
+      "estate_exploitation": 1,
+      "estate_fraud": 1,
+      "transfer_pricing_fraud": 2,
+      "revenue_theft": 7,
+      "trust_violations": 6,
+      "infrastructure_seizure": 1,
+      "evidence_tampering": 2,
+      "financial_dispute": 1,
+      "fraud_discovery": 2,
+      "transparency": 1,
+      "fraud_concealment": 3,
+      "knowledge_acquisition": 1,
+      "Evidence documentation": 2,
+      "customer_hijacking": 1,
+      "identity_fraud": 1,
+      "Access control": 1,
+      "obstruction_of_access": 1,
+      "legal_manipulation": 1,
+      "perjury": 1,
+      "legal_misconduct": 1
+    },
+    "events_without_evidence": [],
+    "events_by_year": {
+      "2017": 3,
+      "2019": 4,
+      "2020": 11,
+      "2021": 4,
+      "2022": 3,
+      "2023": 4,
+      "2025": 48
+    },
+    "criminal_threshold_events": []
+  },
+  "timeline": {
+    "version": "16.0_REBUILT_FROM_EVENTS_2025_12_31",
+    "last_updated": "2025-12-31T05:34:39.188585",
+    "total_timeline_entries": 56,
+    "events_by_year": {
+      "2017": 3,
+      "2019": 4,
+      "2020": 5,
+      "2021": 4,
+      "2022": 3,
+      "2023": 4,
+      "2025": 33
+    },
+    "events_by_significance": {
+      "low": 6,
+      "establishment_of_business_relationship_and_trust": 1,
+      "establishment_of_operational_dependency": 1,
+      "foundation_for_inter_company_financial_manipulation": 1,
+      "structural_complexity_enabling_fraud": 1,
+      "MEDIUM": 2,
+      "evidence_of_systematic_inter_company_manipulation": 1,
+      "profit_concentration_in_director_controlled_entity": 1,
+      "evidence_of_capital_extraction_mechanism": 1,
+      "evidence_of_bantjies_control_over_financial_systems": 1,
+      "CRITICAL": 1,
+      "HIGH": 2,
+      "pre_planning_evidence_demonstrates_long_term_conspiracy": 1,
+      "systematic_non_payment_of_legitimate_debts": 1,
+      "acknowledgment_of_debt_through_payment": 1,
+      "trigger_event_for_estate_exploitation": 1,
+      "estate_complications_law_enforcement_investigation": 1,
+      "ongoing_systematic_non_payment": 1,
+      "fraudulent_payment_claims_to_conceal_debt": 1,
+      "systematic_fraud_pattern_escalation": 1,
+      "ongoing_estate_exploitation_pattern": 1,
+      "unauthorized_transfer_without_co_director_authority": 1,
+      "systematic_asset_stripping_transfer_pricing_fraud": 1,
+      "initial_implementation_of_systematic_financial_fraud": 2,
+      "initial_documentation_of_trust_structure_manipulation": 1,
+      "systematic_financial_manipulation_and_pressure_tactics": 1,
+      "first_documented_act_in_coordinated_scheme": 1,
+      "infrastructure_control_seizure": 1,
+      "evidence_tampering_obstruction_of_justice": 1,
+      "direct_violation_of_trust_obligations_and_beneficiary_rights": 1,
+      "confrontation_triggering_subsequent_retaliation": 1,
+      "consciousness_of_guilt_through_evidence_destruction": 1,
+      "family_conspiracy_escalation_and_digital_impersonation": 1,
+      "fraud_discovery_and_documentation": 1,
+      "sabotage_of_payment_capability": 1,
+      "clear_evidence_of_trustee_misconduct_and_self_dealing": 1,
+      "Document preparation timing suggests response to legal proceedings; establishes Peter's directorship and control": 1,
+      "evidence_of_sophisticated_financial_crime_coordination": 1,
+      "documented_evidence_of_systematic_business_destruction": 1,
+      "documented_evidence_of_financial_system_abuse_and_unauthorized_control": 1,
+      "documented_theft_of_trust_property_and_breach_of_fiduciary_duty": 1,
+      "systematic_evidence_of_ongoing_trust_law_violations": 1,
+      "strategic_litigation_tactic_not_genuine_business_protection": 1,
+      "professional_misconduct_and_conflict_of_interest": 1,
+      "witness_testimony_confirming_customer_hijacking": 1,
+      "consciousness_of_guilt_through_evidence_destruction_attempts": 1,
+      "professional_misconduct_evidence_suppression": 1,
+      "final_stage_of_financial_destruction": 1
+    },
+    "gaps_in_timeline": [
+      {
+        "from": "2017-09-30",
+        "to": "2019-02-28",
+        "days": 516
+      },
+      {
+        "from": "2019-05-01",
+        "to": "2019-11-20",
+        "days": 203
+      },
+      {
+        "from": "2020-08-15",
+        "to": "2021-03-15",
+        "days": 212
+      },
+      {
+        "from": "2023-03-15",
+        "to": "2023-09-20",
+        "days": 189
+      },
+      {
+        "from": "2023-09-20",
+        "to": "2025-01-15",
+        "days": 483
+      }
+    ]
+  }
+}
