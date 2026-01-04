@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "18.0_REFINED_2026_01_04",
+    "version": "17.0_REFINED_2026_01_03",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-01-04T05:34:37.785589",
-    "changes": "Evidence strength upgrades for critical conspiracy relations",
+    "last_updated": "2026-01-03T05:35:11.925883",
+    "changes": "Evidence strength upgrades based on multiple evidence sources",
     "total_relations": 75
   },
   "relations": {
@@ -170,8 +170,7 @@
           "ANNEXURES/JF03 - Financial records"
         ],
         "confidence": 0.85,
-        "evidence_strength": "conclusive",
-        "evidence_upgraded": "2026-01-04T05:34:37.785536"
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_CTRL_002",
@@ -195,8 +194,7 @@
           "ANNEXURES/JF03 - Financial records"
         ],
         "confidence": 0.85,
-        "evidence_strength": "conclusive",
-        "evidence_upgraded": "2026-01-04T05:34:37.785545"
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_CTRL_003",
@@ -261,8 +259,7 @@
           "ANNEXURES/JF03 - Financial records"
         ],
         "confidence": 0.85,
-        "evidence_strength": "conclusive",
-        "evidence_upgraded": "2026-01-04T05:34:37.785551"
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_CTRL_006",

@@ -1,0 +1,966 @@
+{
+  "metadata": {
+    "generated": "2026-01-04T05:34:14.418174",
+    "source_repository": "cogpy/ad-res-j7",
+    "total_files": 150,
+    "total_directories": 11
+  },
+  "key_evidence": {
+    "JF01": {
+      "directory": "ANNEXURES/JF01",
+      "file_count": 2,
+      "files": [
+        {
+          "path": "ANNEXURES/JF01/Re_ The RegimA Group results and Computer Expense analysis.eml",
+          "filename": "Re_ The RegimA Group results and Computer Expense analysis.eml",
+          "size": 64715,
+          "extension": ".eml"
+        },
+        {
+          "path": "ANNEXURES/JF01/Re_ belongs to regimA.eml",
+          "filename": "Re_ belongs to regimA.eml",
+          "size": 32155,
+          "extension": ".eml"
+        }
+      ]
+    },
+    "JF02": {
+      "directory": "ANNEXURES/JF02",
+      "file_count": 3,
+      "files": [
+        {
+          "path": "ANNEXURES/JF02/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+          "filename": "RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+          "size": 1388927,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF02/RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+          "filename": "RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+          "size": 1352198,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF02/ShopifyPlusW.pdf",
+          "filename": "ShopifyPlusW.pdf",
+          "size": 659571,
+          "extension": ".pdf"
+        }
+      ]
+    },
+    "JF03": {
+      "directory": "ANNEXURES/JF03",
+      "file_count": 5,
+      "files": [
+        {
+          "path": "ANNEXURES/JF03/COMPUTER EXP MAR AND APR2025 (2).xlsx",
+          "filename": "COMPUTER EXP MAR AND APR2025 (2).xlsx",
+          "size": 218536,
+          "extension": ".xlsx"
+        },
+        {
+          "path": "ANNEXURES/JF03/Fw_ The RegimA Group results and Computer Expense analysis.eml",
+          "filename": "Fw_ The RegimA Group results and Computer Expense analysis.eml",
+          "size": 49019,
+          "extension": ".eml"
+        },
+        {
+          "path": "ANNEXURES/JF03/Fw_ The RegimA Group results and Computer Expense analysis.msg",
+          "filename": "Fw_ The RegimA Group results and Computer Expense analysis.msg",
+          "size": 241664,
+          "extension": ".msg"
+        },
+        {
+          "path": "ANNEXURES/JF03/README.md",
+          "filename": "README.md",
+          "size": 3048,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF03/Re_ The RegimA Group results and Computer Expense analysis.eml",
+          "filename": "Re_ The RegimA Group results and Computer Expense analysis.eml",
+          "size": 64715,
+          "extension": ".eml"
+        }
+      ]
+    },
+    "JF04": {
+      "directory": "ANNEXURES/JF04",
+      "file_count": 6,
+      "files": [
+        {
+          "path": "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf",
+          "filename": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf",
+          "size": 159715,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf",
+          "filename": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf",
+          "size": 156198,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf",
+          "filename": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf",
+          "size": 179423,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf",
+          "filename": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf",
+          "size": 161346,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf",
+          "filename": "D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf",
+          "size": 160053,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF04/README.md",
+          "filename": "README.md",
+          "size": 9366,
+          "extension": ".md"
+        }
+      ]
+    },
+    "JF05": {
+      "directory": "ANNEXURES/JF05",
+      "file_count": 7,
+      "files": [
+        {
+          "path": "ANNEXURES/JF05/INTEGRATION_GUIDE.md",
+          "filename": "INTEGRATION_GUIDE.md",
+          "size": 12822,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/JF8A_DOCUMENTATION_LOG.md",
+          "filename": "JF8A_DOCUMENTATION_LOG.md",
+          "size": 20730,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md",
+          "filename": "JF8B_EMAIL_COOPERATION_CHAINS.md",
+          "size": 16724,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md",
+          "filename": "JF8C_PETER_REFUSAL_TO_ENGAGE.md",
+          "size": 15077,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/JF8D_SYSTEM_ACCESS_RESTRICTIONS.md",
+          "filename": "JF8D_SYSTEM_ACCESS_RESTRICTIONS.md",
+          "size": 17605,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/JF8_CORRESPONDENCE_EVIDENCE.md",
+          "filename": "JF8_CORRESPONDENCE_EVIDENCE.md",
+          "size": 18070,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/README.md",
+          "filename": "README.md",
+          "size": 3931,
+          "extension": ".md"
+        }
+      ]
+    },
+    "JF06": {
+      "directory": "ANNEXURES/JF06",
+      "file_count": 5,
+      "files": [
+        {
+          "path": "ANNEXURES/JF06/0558631 Notice of withdrawal as attorneys of record 250924.pdf",
+          "filename": "0558631 Notice of withdrawal as attorneys of record 250924.pdf",
+          "size": 41477,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF06/3. MAT4719 - 01.10.25 - WP Letter to KE.pdf",
+          "filename": "3. MAT4719 - 01.10.25 - WP Letter to KE.pdf",
+          "size": 1801588,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF06/62323196362.pdf",
+          "filename": "62323196362.pdf",
+          "size": 45481,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF06/62432501494.pdf",
+          "filename": "62432501494.pdf",
+          "size": 4370,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF06/KF0019-SecondApplication-03.10.2025.pdf",
+          "filename": "KF0019-SecondApplication-03.10.2025.pdf",
+          "size": 5807902,
+          "extension": ".pdf"
+        }
+      ]
+    },
+    "JF07": {
+      "directory": "ANNEXURES/JF07",
+      "file_count": 186,
+      "files": [
+        {
+          "path": "ANNEXURES/JF07/CCE20250911_0002.jpg",
+          "filename": "CCE20250911_0002.jpg",
+          "size": 559247,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250911_0002.json",
+          "filename": "CCE20250911_0002.json",
+          "size": 3122,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250911_0002.md",
+          "filename": "CCE20250911_0002.md",
+          "size": 2823,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924.jpg",
+          "filename": "CCE20250924.jpg",
+          "size": 389406,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924.json",
+          "filename": "CCE20250924.json",
+          "size": 1015,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924.md",
+          "filename": "CCE20250924.md",
+          "size": 778,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0001.jpg",
+          "filename": "CCE20250924_0001.jpg",
+          "size": 409485,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0001.json",
+          "filename": "CCE20250924_0001.json",
+          "size": 1159,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0001.md",
+          "filename": "CCE20250924_0001.md",
+          "size": 929,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0002.jpg",
+          "filename": "CCE20250924_0002.jpg",
+          "size": 412451,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0002.json",
+          "filename": "CCE20250924_0002.json",
+          "size": 1122,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0002.md",
+          "filename": "CCE20250924_0002.md",
+          "size": 892,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0003.jpg",
+          "filename": "CCE20250924_0003.jpg",
+          "size": 438215,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0003.json",
+          "filename": "CCE20250924_0003.json",
+          "size": 1329,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0003.md",
+          "filename": "CCE20250924_0003.md",
+          "size": 1096,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0004.jpg",
+          "filename": "CCE20250924_0004.jpg",
+          "size": 386996,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0004.json",
+          "filename": "CCE20250924_0004.json",
+          "size": 1166,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0004.md",
+          "filename": "CCE20250924_0004.md",
+          "size": 941,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0005.jpg",
+          "filename": "CCE20250924_0005.jpg",
+          "size": 382661,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0005.json",
+          "filename": "CCE20250924_0005.json",
+          "size": 1029,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0005.md",
+          "filename": "CCE20250924_0005.md",
+          "size": 784,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0006.jpg",
+          "filename": "CCE20250924_0006.jpg",
+          "size": 83265,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0006.json",
+          "filename": "CCE20250924_0006.json",
+          "size": 412,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0006.md",
+          "filename": "CCE20250924_0006.md",
+          "size": 203,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0007.jpg",
+          "filename": "CCE20250924_0007.jpg",
+          "size": 299393,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0007.json",
+          "filename": "CCE20250924_0007.json",
+          "size": 1427,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0007.md",
+          "filename": "CCE20250924_0007.md",
+          "size": 1172,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0008.jpg",
+          "filename": "CCE20250924_0008.jpg",
+          "size": 300982,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0008.json",
+          "filename": "CCE20250924_0008.json",
+          "size": 1305,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0008.md",
+          "filename": "CCE20250924_0008.md",
+          "size": 1039,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0009.jpg",
+          "filename": "CCE20250924_0009.jpg",
+          "size": 297588,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0009.json",
+          "filename": "CCE20250924_0009.json",
+          "size": 1444,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0009.md",
+          "filename": "CCE20250924_0009.md",
+          "size": 1208,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0010.jpg",
+          "filename": "CCE20250924_0010.jpg",
+          "size": 344553,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0010.json",
+          "filename": "CCE20250924_0010.json",
+          "size": 1820,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0010.md",
+          "filename": "CCE20250924_0010.md",
+          "size": 1571,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0011.jpg",
+          "filename": "CCE20250924_0011.jpg",
+          "size": 276364,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0011.json",
+          "filename": "CCE20250924_0011.json",
+          "size": 1442,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0011.md",
+          "filename": "CCE20250924_0011.md",
+          "size": 1204,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0012.jpg",
+          "filename": "CCE20250924_0012.jpg",
+          "size": 239287,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0012.json",
+          "filename": "CCE20250924_0012.json",
+          "size": 1213,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0012.md",
+          "filename": "CCE20250924_0012.md",
+          "size": 975,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0013.jpg",
+          "filename": "CCE20250924_0013.jpg",
+          "size": 273396,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0013.json",
+          "filename": "CCE20250924_0013.json",
+          "size": 1340,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0013.md",
+          "filename": "CCE20250924_0013.md",
+          "size": 1100,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0014.jpg",
+          "filename": "CCE20250924_0014.jpg",
+          "size": 296384,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0014.json",
+          "filename": "CCE20250924_0014.json",
+          "size": 1464,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0014.md",
+          "filename": "CCE20250924_0014.md",
+          "size": 1230,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0015.jpg",
+          "filename": "CCE20250924_0015.jpg",
+          "size": 171546,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0015.json",
+          "filename": "CCE20250924_0015.json",
+          "size": 681,
+          "extension": ".json"
+        }
+      ]
+    },
+    "JF08": {
+      "directory": "ANNEXURES/JF08",
+      "file_count": 38,
+      "files": [
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+          "filename": "RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+          "size": 1388927,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+          "filename": "RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+          "size": 1352198,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/RegimA_Zone_W_388990813.pdf",
+          "filename": "RegimA_Zone_W_388990813.pdf",
+          "size": 99092,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/image.json",
+          "filename": "image.json",
+          "size": 1547,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/image.md",
+          "filename": "image.md",
+          "size": 1306,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/image.png",
+          "filename": "image.png",
+          "size": 289330,
+          "extension": ".png"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/AccountTransactionsReport.pdf",
+          "filename": "AccountTransactionsReport.pdf",
+          "size": 1056931,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/ComputerExpensesCategorizationReport(Corrected).pdf",
+          "filename": "ComputerExpensesCategorizationReport(Corrected).pdf",
+          "size": 301366,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/ProfitAndLossReport(RWD).pdf",
+          "filename": "ProfitAndLossReport(RWD).pdf",
+          "size": 87035,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/ProfitandLoss.pdf",
+          "filename": "ProfitandLoss.pdf",
+          "size": 41764,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/RezonanceFebr2023.PDF",
+          "filename": "RezonanceFebr2023.PDF",
+          "size": 11559,
+          "extension": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/email-body.html",
+          "filename": "email-body.html",
+          "size": 66203,
+          "extension": ".html"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/evidence_extraction_summary.md",
+          "filename": "evidence_extraction_summary.md",
+          "size": 7258,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/monthly_spending_trend.json",
+          "filename": "monthly_spending_trend.json",
+          "size": 1030,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/monthly_spending_trend.md",
+          "filename": "monthly_spending_trend.md",
+          "size": 737,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/monthly_spending_trend.png",
+          "filename": "monthly_spending_trend.png",
+          "size": 34033,
+          "extension": ".png"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250811/LetterofAppointment11082025.pdf",
+          "filename": "LetterofAppointment11082025.pdf",
+          "size": 341794,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251009/email-body.html",
+          "filename": "email-body.html",
+          "size": 90892,
+          "extension": ".html"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251009/email_analysis_findings.md",
+          "filename": "email_analysis_findings.md",
+          "size": 2985,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251009/evidence_extraction_summary.md",
+          "filename": "evidence_extraction_summary.md",
+          "size": 6068,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/InvIn30040120April2015toInv30482424April2025.PDF",
+          "filename": "InvIn30040120April2015toInv30482424April2025.PDF",
+          "size": 379714,
+          "extension": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2017to29February2018.PDF",
+          "filename": "Regima-1March2017to29February2018.PDF",
+          "size": 3382,
+          "extension": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2018to29February2019.PDF",
+          "filename": "Regima-1March2018to29February2019.PDF",
+          "size": 3308,
+          "extension": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2019to29February2020.PDF",
+          "filename": "Regima-1March2019to29February2020.PDF",
+          "size": 3220,
+          "extension": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2020to28February2021.PDF",
+          "filename": "Regima-1March2020to28February2021.PDF",
+          "size": 3951,
+          "extension": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2021to28February2022.PDF",
+          "filename": "Regima-1March2021to28February2022.PDF",
+          "size": 4320,
+          "extension": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF",
+          "filename": "Regima-1March2022to28February2023.PDF",
+          "size": 3566,
+          "extension": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2023to29February2024.PDF",
+          "filename": "Regima-1March2023to29February2024.PDF",
+          "size": 3302,
+          "extension": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2024to28February2025.PDF",
+          "filename": "Regima-1March2024to28February2025.PDF",
+          "size": 3461,
+          "extension": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2025to28February2026.PDF",
+          "filename": "Regima-1March2025to28February2026.PDF",
+          "size": 3299,
+          "extension": ".PDF"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+          "filename": "comprehensive_fraud_timeline_2017_2025.md",
+          "size": 11005,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/email-body.html",
+          "filename": "email-body.html",
+          "size": 3402,
+          "extension": ".html"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/image001.jpg",
+          "filename": "image001.jpg",
+          "size": 193200,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/image001.json",
+          "filename": "image001.json",
+          "size": 637,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/image001.md",
+          "filename": "image001.md",
+          "size": 419,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/regima_uk_extraction.json",
+          "filename": "regima_uk_extraction.json",
+          "size": 79756,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/structured_analysis.json",
+          "filename": "structured_analysis.json",
+          "size": 12064,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/uk_transaction_analysis.md",
+          "filename": "uk_transaction_analysis.md",
+          "size": 6424,
+          "extension": ".md"
+        }
+      ]
+    }
+  },
+  "applications": {
+    "civil_response": [
+      {
+        "path": "1-CIVIL-RESPONSE/ANNEXURE_INDEX.md",
+        "filename": "ANNEXURE_INDEX.md",
+        "size": 7657,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/FILING_CHECKLIST.md",
+        "filename": "FILING_CHECKLIST.md",
+        "size": 11229,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/IMPLEMENTATION_COMPLETE.md",
+        "filename": "IMPLEMENTATION_COMPLETE.md",
+        "size": 9957,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/JAX_OPTIMAL_RESPONSE_FRAMEWORK.md",
+        "filename": "JAX_OPTIMAL_RESPONSE_FRAMEWORK.md",
+        "size": 26031,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/JAX_RELEVANCE_REALIZATION_ENNEAD.md",
+        "filename": "JAX_RELEVANCE_REALIZATION_ENNEAD.md",
+        "size": 39704,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/README.md",
+        "filename": "README.md",
+        "size": 4939,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md",
+        "filename": "RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md",
+        "size": 30657,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/RESCISSION_APPLICATION_README.md",
+        "filename": "RESCISSION_APPLICATION_README.md",
+        "size": 14288,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md",
+        "filename": "SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md",
+        "size": 31208,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md",
+        "filename": "SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md",
+        "size": 25040,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/agent-mapping.md",
+        "filename": "agent-mapping.md",
+        "size": 23170,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/arena-mapping.md",
+        "filename": "arena-mapping.md",
+        "size": 11836,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/annexures/DJF.md",
+        "filename": "DJF.md",
+        "size": 29160,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-CAUSATION.md",
+        "filename": "JF-CAUSATION.md",
+        "size": 17501,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-DAN-WITNESS.md",
+        "filename": "JF-DAN-WITNESS.md",
+        "size": 30002,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-DANIEL-BANK-ANALYSIS.md",
+        "filename": "JF-DANIEL-BANK-ANALYSIS.md",
+        "size": 32825,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-DISPROP.md",
+        "filename": "JF-DISPROP.md",
+        "size": 21510,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-FIN-ANALYSIS.md",
+        "filename": "JF-FIN-ANALYSIS.md",
+        "size": 24038,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-IT-COMP.md",
+        "filename": "JF-IT-COMP.md",
+        "size": 17518,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-REBUTTAL-MATRIX.md",
+        "filename": "JF-REBUTTAL-MATRIX.md",
+        "size": 27080,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-SHOPIFY-INFRASTRUCTURE.md",
+        "filename": "JF-SHOPIFY-INFRASTRUCTURE.md",
+        "size": 21612,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-STRATEGIC-LOGISTICS-ANALYSIS.md",
+        "filename": "JF-STRATEGIC-LOGISTICS-ANALYSIS.md",
+        "size": 23628,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md",
+        "filename": "JF-TIMELINE.md",
+        "size": 18352,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/annexures/JF3A.md",
+        "filename": "JF3A.md",
+        "size": 18960,
+        "extension": ".md"
+      },
+      {
+        "path": "1-CIVIL-RESPONSE/annexures/JF8.md",
+        "filename": "JF8.md",
+        "size": 15850,
+        "extension": ".md"
+      }
+    ],
+    "criminal_case": [
+      {
+        "path": "2-CRIMINAL-CASE/CIPC_Companies_Act_Complaint.md",
+        "filename": "CIPC_Companies_Act_Complaint.md",
+        "size": 7490,
+        "extension": ".md"
+      },
+      {
+        "path": "2-CRIMINAL-CASE/POPIA_Criminal_Complaint.md",
+        "filename": "POPIA_Criminal_Complaint.md",
+        "size": 1333,
+        "extension": ".md"
+      },
+      {
+        "path": "2-CRIMINAL-CASE/README.md",
+        "filename": "README.md",
+        "size": 13948,
+        "extension": ".md"
+      },
+      {
+        "path": "2-CRIMINAL-CASE/agent-mapping.md",
+        "filename": "agent-mapping.md",
+        "size": 10762,
+        "extension": ".md"
+      },
+      {
+        "path": "2-CRIMINAL-CASE/arena-mapping.md",
+        "filename": "arena-mapping.md",
+        "size": 6560,
+        "extension": ".md"
+      }
+    ],
+    "external_validation": [
+      {
+        "path": "3-EXTERNAL-VALIDATION/EXTERNAL_VALIDATION_PACKAGE.md",
+        "filename": "EXTERNAL_VALIDATION_PACKAGE.md",
+        "size": 18484,
+        "extension": ".md"
+      },
+      {
+        "path": "3-EXTERNAL-VALIDATION/README.md",
+        "filename": "README.md",
+        "size": 11071,
+        "extension": ".md"
+      },
+      {
+        "path": "3-EXTERNAL-VALIDATION/agent-mapping.md",
+        "filename": "agent-mapping.md",
+        "size": 4995,
+        "extension": ".md"
+      },
+      {
+        "path": "3-EXTERNAL-VALIDATION/arena-mapping.md",
+        "filename": "arena-mapping.md",
+        "size": 3003,
+        "extension": ".md"
+      }
+    ]
+  }
+}

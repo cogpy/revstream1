@@ -1,13 +1,11 @@
 {
   "metadata": {
-    "version": "18.0_CRIMINAL_ENHANCED_2026_01_04",
+    "version": "17.0_CRIMINAL_ENHANCED_2026_01_03",
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-01-04T05:34:37.785652",
-    "changes": "Enhanced categorization: 36 criminal threshold, 5 high significance",
-    "criminal_threshold_entries": 36,
-    "high_significance_entries": 5
+    "last_updated": "2026-01-03T05:35:11.926272",
+    "changes": "Enhanced with criminal threshold markers and significance upgrades"
   },
   "timeline": [
     {

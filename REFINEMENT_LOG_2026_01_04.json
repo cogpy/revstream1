@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-01-04T05:34:37.794016",
+  "summary": {
+    "entities_changed": 2,
+    "relations_changed": 3,
+    "events_changed": 0,
+    "timeline_changed": 0
+  },
+  "changes": {
+    "entities": [
+      "Upgraded PERSON_002 evidence strength to conclusive",
+      "Upgraded PERSON_007 evidence strength to conclusive"
+    ],
+    "relations": [
+      "Upgraded REL_CTRL_001 to conclusive",
+      "Upgraded REL_CTRL_002 to conclusive",
+      "Upgraded REL_CTRL_005 to conclusive"
+    ],
+    "events": [],
+    "timeline": []
+  }
+}

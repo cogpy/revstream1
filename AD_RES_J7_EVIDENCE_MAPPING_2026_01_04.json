@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "generated": "2026-01-04T05:34:59.371399",
+    "source": "cogpy/ad-res-j7",
+    "target": "cogpy/revstream1"
+  },
+  "key_evidence": {
+    "SF1": {
+      "filename": "SF1_Bantjies_Debt_Documentation.md",
+      "path": "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+      "size": 7005,
+      "found": true
+    },
+    "SF2": {
+      "filename": "SF2_Sage_Screenshots_Rynette_Control.md",
+      "path": "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md",
+      "size": 10114,
+      "found": true
+    },
+    "SF4": {
+      "filename": "SF4_SARS_Audit_Email.md",
+      "path": "ANNEXURES/SF4_SARS_Audit_Email.md",
+      "size": 10935,
+      "found": true
+    },
+    "SF5": {
+      "filename": "SF5_Adderory_Company_Registration_Stock_Supply.md",
+      "path": "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md",
+      "size": 11455,
+      "found": true
+    },
+    "SF6": {
+      "filename": "SF6_Kayla_Pretorius_Estate_Documentation.md",
+      "path": "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
+      "size": 11722,
+      "found": true
+    },
+    "SF7": {
+      "filename": "SF7_Court_Order_Kayla_Email_Seizure.md",
+      "path": "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md",
+      "size": 10144,
+      "found": true
+    },
+    "SF9": {
+      "filename": "SF9_Ian_Levitt_Demand_Letter.md",
+      "found": false
+    }
+  },
+  "applications": {
+    "civil_response": {
+      "directory": "1-CIVIL-RESPONSE",
+      "file_count": 25,
+      "exists": true
+    },
+    "criminal_case": {
+      "directory": "2-CRIMINAL-CASE",
+      "file_count": 5,
+      "exists": true
+    },
+    "external_validation": {
+      "directory": "3-EXTERNAL-VALIDATION",
+      "file_count": 4,
+      "exists": true
+    }
+  },
+  "annexures": {
+    "JF01": {
+      "path": "ANNEXURES/JF01",
+      "file_count": 2,
+      "exists": true
+    },
+    "JF02": {
+      "path": "ANNEXURES/JF02",
+      "file_count": 3,
+      "exists": true
+    },
+    "JF03": {
+      "path": "ANNEXURES/JF03",
+      "file_count": 5,
+      "exists": true
+    },
+    "JF04": {
+      "path": "ANNEXURES/JF04",
+      "file_count": 6,
+      "exists": true
+    },
+    "JF05": {
+      "path": "ANNEXURES/JF05",
+      "file_count": 7,
+      "exists": true
+    },
+    "JF06": {
+      "path": "ANNEXURES/JF06",
+      "file_count": 5,
+      "exists": true
+    },
+    "JF07": {
+      "path": "ANNEXURES/JF07",
+      "file_count": 186,
+      "exists": true
+    },
+    "JF08": {
+      "path": "ANNEXURES/JF08",
+      "file_count": 38,
+      "exists": true
+    },
+    "JF09": {
+      "path": "ANNEXURES/JF09",
+      "file_count": 8,
+      "exists": true
+    }
+  }
+}

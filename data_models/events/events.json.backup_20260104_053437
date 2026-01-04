@@ -1,20 +1,18 @@
 {
   "metadata": {
-    "version": "21.0_CRIMINAL_THRESHOLD_2026_01_04",
+    "version": "20.0_CRIMINAL_THRESHOLD_2026_01_03",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 77,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-01-04T05:34:37.785621",
-    "changes": "Refined burden of proof categorization: 46 criminal, 31 civil",
+    "last_updated": "2026-01-03T05:35:11.926177",
+    "changes": "Identified 46 criminal threshold events",
     "phase_statistics": {
       "PHASE_1": 25,
       "PHASE_2": 4,
       "PHASE_3": 48
-    },
-    "criminal_threshold_events": 46,
-    "civil_threshold_events": 31
+    }
   },
   "events": [
     {

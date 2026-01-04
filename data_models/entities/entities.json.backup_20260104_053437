@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "22.0_REFINED_2026_01_04",
+    "version": "21.0_REFINED_2026_01_03",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-04T05:34:37.785513",
-    "changes": "Evidence strength upgrades for key perpetrators based on comprehensive evidence",
+    "last_updated": "2026-01-03T05:35:11.925823",
+    "changes": "Evidence strength upgrades and enhanced ad-res-j7 cross-references",
     "total_entities": 33
   },
   "entities": {
@@ -146,9 +146,8 @@
           "revenue-stream-hijacking-rynette/ - Dedicated evidence folder"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077448",
-        "evidence_strength": "conclusive",
-        "criminal_threshold": "95%_likely",
-        "evidence_upgraded": "2026-01-04T05:34:37.785444"
+        "evidence_strength": "strong",
+        "criminal_threshold": "95%_likely"
       },
       {
         "entity_id": "PERSON_004",
@@ -318,9 +317,8 @@
           "ANNEXURES/JF08/evidence_package_20251012/README.md - Accounting fraud evidence"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077460",
-        "evidence_strength": "conclusive",
-        "criminal_threshold": "95%_exceeded",
-        "evidence_upgraded": "2026-01-04T05:34:37.785483"
+        "evidence_strength": "strong",
+        "criminal_threshold": "95%_exceeded"
       },
       {
         "entity_id": "PERSON_008",
