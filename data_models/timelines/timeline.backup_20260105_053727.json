@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "version": "18.1_ENHANCED_2026_01_05",
+    "version": "18.0_CRIMINAL_ENHANCED_2026_01_04",
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-01-05T05:37:27.524483",
-    "changes": "Added application context to timeline entries",
+    "last_updated": "2026-01-04T05:34:37.785652",
+    "changes": "Enhanced categorization: 36 criminal threshold, 5 high significance",
     "criminal_threshold_entries": 36,
     "high_significance_entries": 5
   },
@@ -23,9 +23,6 @@
       "evidence_references": [
         "CIPC registration 2017/087935/07",
         "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
-      ],
-      "application_context": [
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -41,10 +38,6 @@
       "evidence_references": [
         "invoice_2017_06_30",
         "service_agreement"
-      ],
-      "application_context": [
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -60,10 +53,6 @@
       "evidence_references": [
         "invoices_2017_09_30",
         "service_expansion_documentation"
-      ],
-      "application_context": [
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -78,9 +67,6 @@
       "legal_significance": "low",
       "evidence_references": [
         "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
-      ],
-      "application_context": [
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -95,10 +81,6 @@
       "legal_significance": "foundation_for_inter_company_financial_manipulation",
       "evidence_references": [
         "trial_balance_documentation"
-      ],
-      "application_context": [
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -115,12 +97,7 @@
         "VV-TRIALBALANCEAPR20202.xlsx"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2019-11-20",
@@ -134,10 +111,6 @@
       "legal_significance": "MEDIUM",
       "evidence_references": [
         "SF5_Adderory_Company_Registration_Stock_Supply.md"
-      ],
-      "application_context": [
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -158,12 +131,7 @@
         "JF09 - Timeline analysis"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2020-02-28",
@@ -185,12 +153,7 @@
         "REG-TRIALBALANCE.xlsx"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2020-04-30",
@@ -207,10 +170,6 @@
         "JF08 - Evidence packages",
         "VV-TRIALBALANCEAPR20202.xlsx",
         "JF09 - Timeline analysis"
-      ],
-      "application_context": [
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -233,12 +192,7 @@
         "trial_balance_email_2020_08_13"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2020-08-15",
@@ -252,10 +206,6 @@
       "legal_significance": "CRITICAL",
       "evidence_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md"
-      ],
-      "application_context": [
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -270,10 +220,6 @@
       "legal_significance": "HIGH",
       "evidence_references": [
         "SF4_SARS_Audit_Email.md"
-      ],
-      "application_context": [
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -291,12 +237,7 @@
         "cipc_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2021-09-10",
@@ -310,10 +251,6 @@
       "legal_significance": "MEDIUM",
       "evidence_references": [
         "SF6_Kayla_Pretorius_Estate_Documentation.md"
-      ],
-      "application_context": [
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -330,12 +267,7 @@
         "SF7_Court_Order_Kayla_Email_Seizure.md"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2022-03-01",
@@ -350,10 +282,6 @@
       "evidence_references": [
         "rezonance_account_statements",
         "aged_debtor_reports"
-      ],
-      "application_context": [
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -369,10 +297,6 @@
       "evidence_references": [
         "bank_statements",
         "payment_records"
-      ],
-      "application_context": [
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -387,10 +311,6 @@
       "legal_significance": "trigger_event_for_estate_exploitation",
       "evidence_references": [
         "Rez-WWD.pdf - Supplier Transactions Report"
-      ],
-      "application_context": [
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -406,10 +326,6 @@
       "evidence_references": [
         "estate_documentation_pending",
         "police_reports_pending"
-      ],
-      "application_context": [
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -425,10 +341,6 @@
       "evidence_references": [
         "rezonance_final_statement",
         "payment_reconciliation"
-      ],
-      "application_context": [
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -446,12 +358,7 @@
         "false_payment_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2023-09-20",
@@ -467,12 +374,7 @@
         "false_payment_claims_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-01-15",
@@ -491,12 +393,7 @@
         "letter_from_chantal"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-02-14",
@@ -513,12 +410,7 @@
         "bank_transfer_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-02-25",
@@ -536,12 +428,7 @@
         "stock_reconciliation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-03-01",
@@ -562,12 +449,7 @@
         "financial_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-03-15",
@@ -587,12 +469,7 @@
         "beneficiary_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-03-30",
@@ -610,12 +487,7 @@
         "accounting_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-04-01",
@@ -632,12 +504,7 @@
         "payment_gateway_logs"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-04-14",
@@ -654,12 +521,7 @@
         "account_change_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-04-22",
@@ -678,12 +540,7 @@
         "it_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-04-30",
@@ -699,12 +556,7 @@
         "office_inventory_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-05-02",
@@ -721,12 +573,7 @@
         "trust_amendment_documents"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-05-15",
@@ -748,12 +595,7 @@
         "debt_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-05-22",
@@ -773,12 +615,7 @@
         "audit_trail_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-05-29",
@@ -795,12 +632,7 @@
         "whois_data"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-06-06",
@@ -819,12 +651,7 @@
         "email_to_bantjies_2025_06_06"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-06-07",
@@ -841,12 +668,7 @@
         "bank_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-06-10",
@@ -870,12 +692,7 @@
         "email_received_thanks_daniel_2025_08_29"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-06-18",
@@ -892,12 +709,7 @@
         "conflict_of_interest_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-06-20",
@@ -919,12 +731,7 @@
         "domain_switch_email"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-06-25",
@@ -938,10 +745,6 @@
       "legal_significance": "Document preparation timing suggests response to legal proceedings; establishes Peter's directorship and control",
       "evidence_references": [
         "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
-      ],
-      "application_context": [
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -959,12 +762,7 @@
         "financial_flow_analysis"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-07-08",
@@ -981,12 +779,7 @@
         "warehouse_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-07-12",
@@ -1003,12 +796,7 @@
         "control_change_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-07-23",
@@ -1025,9 +813,6 @@
         "Sage screenshot 2025-08-25 - Accounting Registration Expired",
         "SF2B - Sage expiry notice",
         "SF2B"
-      ],
-      "application_context": [
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -1045,12 +830,7 @@
         "asset_transfer_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-08-10",
@@ -1065,10 +845,6 @@
       "evidence_references": [
         "trust_violation_documentation",
         "ongoing_breach_records"
-      ],
-      "application_context": [
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -1085,12 +861,7 @@
         "settlement_agreement_2025_08_11"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-08-13",
@@ -1109,12 +880,7 @@
         "JF09 - Timeline analysis"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-08-15",
@@ -1130,12 +896,7 @@
         "gee_email_to_jax"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-08-20",
@@ -1152,12 +913,7 @@
         "concealment_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-08-29",
@@ -1171,10 +927,6 @@
       "legal_significance": "professional_misconduct_evidence_suppression",
       "evidence_references": [
         "email_received_thanks_daniel_2025_08_29"
-      ],
-      "application_context": [
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
       ]
     },
     {
@@ -1192,12 +944,7 @@
         "account_balance_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95",
-      "application_context": [
-        "2-CRIMINAL-CASE",
-        "1-CIVIL-RESPONSE",
-        "3-EXTERNAL-VALIDATION"
-      ]
+      "burden_of_proof": "criminal_95"
     },
     {
       "date": "2025-10-23",
@@ -1211,9 +958,6 @@
       "legal_significance": "low",
       "evidence_references": [
         "SF9"
-      ],
-      "application_context": [
-        "3-EXTERNAL-VALIDATION"
       ]
     }
   ]
