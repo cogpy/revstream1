@@ -1,0 +1,1220 @@
+{
+  "metadata": {
+    "version": "18.1_ENHANCED_2026_01_05",
+    "created_date": "2025-11-10",
+    "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
+    "case_number": "2025-137857",
+    "last_updated": "2026-01-05T05:37:27.524483",
+    "changes": "Added application context to timeline entries",
+    "criminal_threshold_entries": 36,
+    "high_significance_entries": 5
+  },
+  "timeline": [
+    {
+      "date": "2017-02-24",
+      "event_count": 1,
+      "events": [
+        "EVENT_H011"
+      ],
+      "primary_category": "Business structure",
+      "description": "1 event(s) on 2017-02-24",
+      "key_actors": [],
+      "legal_significance": "low",
+      "evidence_references": [
+        "CIPC registration 2017/087935/07",
+        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
+      ],
+      "application_context": [
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2017-06-30",
+      "event_count": 1,
+      "events": [
+        "EVENT_H001"
+      ],
+      "primary_category": "business_relationship",
+      "description": "1 event(s) on 2017-06-30",
+      "key_actors": [],
+      "legal_significance": "establishment_of_business_relationship_and_trust",
+      "evidence_references": [
+        "invoice_2017_06_30",
+        "service_agreement"
+      ],
+      "application_context": [
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2017-09-30",
+      "event_count": 1,
+      "events": [
+        "EVENT_H002"
+      ],
+      "primary_category": "business_relationship",
+      "description": "1 event(s) on 2017-09-30",
+      "key_actors": [],
+      "legal_significance": "establishment_of_operational_dependency",
+      "evidence_references": [
+        "invoices_2017_09_30",
+        "service_expansion_documentation"
+      ],
+      "application_context": [
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2019-02-28",
+      "event_count": 1,
+      "events": [
+        "EVENT_H012"
+      ],
+      "primary_category": "Financial structure",
+      "description": "1 event(s) on 2019-02-28",
+      "key_actors": [],
+      "legal_significance": "low",
+      "evidence_references": [
+        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
+      ],
+      "application_context": [
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2019-03-01",
+      "event_count": 1,
+      "events": [
+        "EVENT_H003"
+      ],
+      "primary_category": "financial_structure",
+      "description": "1 event(s) on 2019-03-01",
+      "key_actors": [],
+      "legal_significance": "foundation_for_inter_company_financial_manipulation",
+      "evidence_references": [
+        "trial_balance_documentation"
+      ],
+      "application_context": [
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2019-05-01",
+      "event_count": 1,
+      "events": [
+        "EVENT_H004"
+      ],
+      "primary_category": "financial_structure",
+      "description": "1 event(s) on 2019-05-01",
+      "key_actors": [],
+      "legal_significance": "structural_complexity_enabling_fraud",
+      "evidence_references": [
+        "VV-TRIALBALANCEAPR20202.xlsx"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2019-11-20",
+      "event_count": 1,
+      "events": [
+        "EVENT_091"
+      ],
+      "primary_category": "business_structure",
+      "description": "1 event(s) on 2019-11-20",
+      "key_actors": [],
+      "legal_significance": "MEDIUM",
+      "evidence_references": [
+        "SF5_Adderory_Company_Registration_Stock_Supply.md"
+      ],
+      "application_context": [
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2020-02-20",
+      "event_count": 2,
+      "events": [
+        "EVENT_H005",
+        "EVENT_051"
+      ],
+      "primary_category": "financial_manipulation",
+      "description": "2 event(s) on 2020-02-20",
+      "key_actors": [],
+      "legal_significance": "evidence_of_systematic_inter_company_manipulation",
+      "evidence_references": [
+        "JF08 - Evidence packages",
+        "general_ledger_entries",
+        "trial_balance_AJEs",
+        "JF09 - Timeline analysis"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2020-02-28",
+      "event_count": 3,
+      "events": [
+        "EVENT_H006",
+        "EVENT_052",
+        "EVENT_089"
+      ],
+      "primary_category": "financial_manipulation",
+      "description": "3 event(s) on 2020-02-28",
+      "key_actors": [],
+      "legal_significance": "profit_concentration_in_director_controlled_entity",
+      "evidence_references": [
+        "SL-TRIALBALANCE2020.xlsx",
+        "SF1_Bantjies_Debt_Documentation.md",
+        "JF08 - Evidence packages",
+        "JF09 - Timeline analysis",
+        "REG-TRIALBALANCE.xlsx"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2020-04-30",
+      "event_count": 2,
+      "events": [
+        "EVENT_H007",
+        "EVENT_053"
+      ],
+      "primary_category": "profit_extraction",
+      "description": "2 event(s) on 2020-04-30",
+      "key_actors": [],
+      "legal_significance": "evidence_of_capital_extraction_mechanism",
+      "evidence_references": [
+        "JF08 - Evidence packages",
+        "VV-TRIALBALANCEAPR20202.xlsx",
+        "JF09 - Timeline analysis"
+      ],
+      "application_context": [
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2020-08-13",
+      "event_count": 3,
+      "events": [
+        "EVENT_H008",
+        "EVENT_048",
+        "EVENT_H018"
+      ],
+      "primary_category": "evidence_documentation",
+      "description": "3 event(s) on 2020-08-13",
+      "key_actors": [],
+      "legal_significance": "evidence_of_bantjies_control_over_financial_systems",
+      "evidence_references": [
+        "JF08 - Evidence packages",
+        "Email-body.html",
+        "JF09 - Timeline analysis",
+        "trial_balance_attachments",
+        "trial_balance_email_2020_08_13"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2020-08-15",
+      "event_count": 1,
+      "events": [
+        "EVENT_090"
+      ],
+      "primary_category": "system_control",
+      "description": "1 event(s) on 2020-08-15",
+      "key_actors": [],
+      "legal_significance": "CRITICAL",
+      "evidence_references": [
+        "SF2_Sage_Screenshots_Rynette_Control.md"
+      ],
+      "application_context": [
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2021-03-15",
+      "event_count": 1,
+      "events": [
+        "EVENT_088"
+      ],
+      "primary_category": "regulatory_action",
+      "description": "1 event(s) on 2021-03-15",
+      "key_actors": [],
+      "legal_significance": "HIGH",
+      "evidence_references": [
+        "SF4_SARS_Audit_Email.md"
+      ],
+      "application_context": [
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2021-04-01",
+      "event_count": 1,
+      "events": [
+        "EVENT_H009"
+      ],
+      "primary_category": "conspiracy_preparation",
+      "description": "1 event(s) on 2021-04-01",
+      "key_actors": [],
+      "legal_significance": "pre_planning_evidence_demonstrates_long_term_conspiracy",
+      "evidence_references": [
+        "company_registration_records",
+        "cipc_documentation"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2021-09-10",
+      "event_count": 1,
+      "events": [
+        "EVENT_086"
+      ],
+      "primary_category": "legal_documentation",
+      "description": "1 event(s) on 2021-09-10",
+      "key_actors": [],
+      "legal_significance": "MEDIUM",
+      "evidence_references": [
+        "SF6_Kayla_Pretorius_Estate_Documentation.md"
+      ],
+      "application_context": [
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2021-10-05",
+      "event_count": 1,
+      "events": [
+        "EVENT_087"
+      ],
+      "primary_category": "legal_action",
+      "description": "1 event(s) on 2021-10-05",
+      "key_actors": [],
+      "legal_significance": "HIGH",
+      "evidence_references": [
+        "SF7_Court_Order_Kayla_Email_Seizure.md"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2022-03-01",
+      "event_count": 1,
+      "events": [
+        "EVENT_D001"
+      ],
+      "primary_category": "debt_accumulation",
+      "description": "1 event(s) on 2022-03-01",
+      "key_actors": [],
+      "legal_significance": "systematic_non_payment_of_legitimate_debts",
+      "evidence_references": [
+        "rezonance_account_statements",
+        "aged_debtor_reports"
+      ],
+      "application_context": [
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2022-07-11",
+      "event_count": 1,
+      "events": [
+        "EVENT_D002"
+      ],
+      "primary_category": "debt_management",
+      "description": "1 event(s) on 2022-07-11",
+      "key_actors": [],
+      "legal_significance": "acknowledgment_of_debt_through_payment",
+      "evidence_references": [
+        "bank_statements",
+        "payment_records"
+      ],
+      "application_context": [
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2022-07-30",
+      "event_count": 1,
+      "events": [
+        "EVENT_067"
+      ],
+      "primary_category": "Financial transactions",
+      "description": "1 event(s) on 2022-07-30",
+      "key_actors": [],
+      "legal_significance": "trigger_event_for_estate_exploitation",
+      "evidence_references": [
+        "Rez-WWD.pdf - Supplier Transactions Report"
+      ],
+      "application_context": [
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2023-01-01",
+      "event_count": 1,
+      "events": [
+        "EVENT_H010"
+      ],
+      "primary_category": "criminal_event",
+      "description": "1 event(s) on 2023-01-01",
+      "key_actors": [],
+      "legal_significance": "estate_complications_law_enforcement_investigation",
+      "evidence_references": [
+        "estate_documentation_pending",
+        "police_reports_pending"
+      ],
+      "application_context": [
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2023-02-28",
+      "event_count": 1,
+      "events": [
+        "EVENT_D003"
+      ],
+      "primary_category": "debt_accumulation",
+      "description": "1 event(s) on 2023-02-28",
+      "key_actors": [],
+      "legal_significance": "ongoing_systematic_non_payment",
+      "evidence_references": [
+        "rezonance_final_statement",
+        "payment_reconciliation"
+      ],
+      "application_context": [
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2023-03-15",
+      "event_count": 1,
+      "events": [
+        "EVENT_D004"
+      ],
+      "primary_category": "fraud",
+      "description": "1 event(s) on 2023-03-15",
+      "key_actors": [],
+      "legal_significance": "fraudulent_payment_claims_to_conceal_debt",
+      "evidence_references": [
+        "rezonance_account_reconciliation",
+        "false_payment_documentation"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2023-09-20",
+      "event_count": 1,
+      "events": [
+        "EVENT_D005"
+      ],
+      "primary_category": "fraud",
+      "description": "1 event(s) on 2023-09-20",
+      "key_actors": [],
+      "legal_significance": "systematic_fraud_pattern_escalation",
+      "evidence_references": [
+        "false_payment_claims_documentation"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-01-15",
+      "event_count": 2,
+      "events": [
+        "EVENT_023",
+        "EVENT_054"
+      ],
+      "primary_category": "estate_exploitation",
+      "description": "2 event(s) on 2025-01-15",
+      "key_actors": [],
+      "legal_significance": "ongoing_estate_exploitation_pattern",
+      "evidence_references": [
+        "chantal_letter_january_2025",
+        "estate_documentation_pending",
+        "letter_from_chantal"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-02-14",
+      "event_count": 1,
+      "events": [
+        "EVENT_022"
+      ],
+      "primary_category": "financial_manipulation",
+      "description": "1 event(s) on 2025-02-14",
+      "key_actors": [],
+      "legal_significance": "unauthorized_transfer_without_co_director_authority",
+      "evidence_references": [
+        "authorization_absence",
+        "bank_transfer_records"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-02-25",
+      "event_count": 1,
+      "events": [
+        "EVENT_028"
+      ],
+      "primary_category": "transfer_pricing_fraud",
+      "description": "1 event(s) on 2025-02-25",
+      "key_actors": [],
+      "legal_significance": "systematic_asset_stripping_transfer_pricing_fraud",
+      "evidence_references": [
+        "invoice_documentation",
+        "financial_records",
+        "stock_reconciliation"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-03-01",
+      "event_count": 2,
+      "events": [
+        "EVENT_001",
+        "EVENT_024"
+      ],
+      "primary_category": "revenue_theft",
+      "description": "2 event(s) on 2025-03-01",
+      "key_actors": [],
+      "legal_significance": "initial_implementation_of_systematic_financial_fraud",
+      "evidence_references": [
+        "adderory_supply_documentation",
+        "warehouse_records",
+        "stock_reconciliation_reports",
+        "bank_statements",
+        "financial_records"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-03-15",
+      "event_count": 2,
+      "events": [
+        "EVENT_002",
+        "EVENT_025"
+      ],
+      "primary_category": "trust_violations",
+      "description": "2 event(s) on 2025-03-15",
+      "key_actors": [],
+      "legal_significance": "initial_documentation_of_trust_structure_manipulation",
+      "evidence_references": [
+        "trust_documentation",
+        "lack_of_investigation_documentation",
+        "general_ledger_entries",
+        "beneficiary_records"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-03-30",
+      "event_count": 1,
+      "events": [
+        "EVENT_003"
+      ],
+      "primary_category": "financial_manipulation",
+      "description": "1 event(s) on 2025-03-30",
+      "key_actors": [],
+      "legal_significance": "systematic_financial_manipulation_and_pressure_tactics",
+      "evidence_references": [
+        "SARS_submissions",
+        "email_records",
+        "accounting_records"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-04-01",
+      "event_count": 1,
+      "events": [
+        "EVENT_004"
+      ],
+      "primary_category": "financial_manipulation",
+      "description": "1 event(s) on 2025-04-01",
+      "key_actors": [],
+      "legal_significance": "initial_implementation_of_systematic_financial_fraud",
+      "evidence_references": [
+        "bank_records",
+        "payment_gateway_logs"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-04-14",
+      "event_count": 1,
+      "events": [
+        "EVENT_005"
+      ],
+      "primary_category": "revenue_theft",
+      "description": "1 event(s) on 2025-04-14",
+      "key_actors": [],
+      "legal_significance": "first_documented_act_in_coordinated_scheme",
+      "evidence_references": [
+        "bank_letter",
+        "account_change_documentation"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-04-22",
+      "event_count": 2,
+      "events": [
+        "EVENT_029",
+        "EVENT_055"
+      ],
+      "primary_category": "infrastructure_seizure",
+      "description": "2 event(s) on 2025-04-22",
+      "key_actors": [],
+      "legal_significance": "infrastructure_control_seizure",
+      "evidence_references": [
+        "system_access_logs_pending",
+        "it_system_removal_instruction",
+        "it_documentation"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-04-30",
+      "event_count": 1,
+      "events": [
+        "EVENT_056"
+      ],
+      "primary_category": "evidence_tampering",
+      "description": "1 event(s) on 2025-04-30",
+      "key_actors": [],
+      "legal_significance": "evidence_tampering_obstruction_of_justice",
+      "evidence_references": [
+        "office_inventory_records"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-05-02",
+      "event_count": 1,
+      "events": [
+        "EVENT_006"
+      ],
+      "primary_category": "trust_violations",
+      "description": "1 event(s) on 2025-05-02",
+      "key_actors": [],
+      "legal_significance": "direct_violation_of_trust_obligations_and_beneficiary_rights",
+      "evidence_references": [
+        "beneficiary_correspondence",
+        "trust_amendment_documents"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-05-15",
+      "event_count": 3,
+      "events": [
+        "EVENT_007",
+        "EVENT_008",
+        "EVENT_050"
+      ],
+      "primary_category": "financial_dispute",
+      "description": "3 event(s) on 2025-05-15",
+      "key_actors": [],
+      "legal_significance": "confrontation_triggering_subsequent_retaliation",
+      "evidence_references": [
+        "authorization_logs",
+        "JF08 - Evidence packages",
+        "JF09 - Timeline analysis",
+        "confrontation_records",
+        "debt_documentation"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-05-22",
+      "event_count": 1,
+      "events": [
+        "EVENT_009"
+      ],
+      "primary_category": "revenue_theft",
+      "description": "1 event(s) on 2025-05-22",
+      "key_actors": [],
+      "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
+      "evidence_references": [
+        "platform_access_logs",
+        "business_shutdown_documentation",
+        "SF6 - Kayla Pretorius Estate Documentation",
+        "JF01 - Preserved Shopify evidence",
+        "audit_trail_records"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-05-29",
+      "event_count": 1,
+      "events": [
+        "EVENT_010"
+      ],
+      "primary_category": "revenue_theft",
+      "description": "1 event(s) on 2025-05-29",
+      "key_actors": [],
+      "legal_significance": "family_conspiracy_escalation_and_digital_impersonation",
+      "evidence_references": [
+        "domain_registration_records",
+        "whois_data"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-06-06",
+      "event_count": 2,
+      "events": [
+        "EVENT_011",
+        "EVENT_057"
+      ],
+      "primary_category": "fraud_discovery",
+      "description": "2 event(s) on 2025-06-06",
+      "key_actors": [],
+      "legal_significance": "fraud_discovery_and_documentation",
+      "evidence_references": [
+        "fraud_reports",
+        "analysis_documentation",
+        "email_to_bantjies_2025_06_06"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-06-07",
+      "event_count": 1,
+      "events": [
+        "EVENT_012"
+      ],
+      "primary_category": "financial_manipulation",
+      "description": "1 event(s) on 2025-06-07",
+      "key_actors": [],
+      "legal_significance": "sabotage_of_payment_capability",
+      "evidence_references": [
+        "card_cancellation_logs",
+        "bank_records"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-06-10",
+      "event_count": 5,
+      "events": [
+        "EVENT_023",
+        "EVENT_026",
+        "EVENT_047",
+        "EVENT_058",
+        "EVENT_066"
+      ],
+      "primary_category": "fraud_concealment",
+      "description": "5 event(s) on 2025-06-10",
+      "key_actors": [],
+      "legal_significance": "CRITICAL",
+      "evidence_references": [
+        "Email: The RegimA Group results and Computer Expense analysis (2025-06-10)",
+        "dismissal_correspondence",
+        "audit_request_dismissal_documentation",
+        "JF08 - Evidence packages",
+        "email_received_thanks_daniel_2025_08_29"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-06-18",
+      "event_count": 1,
+      "events": [
+        "EVENT_013"
+      ],
+      "primary_category": "trust_violations",
+      "description": "1 event(s) on 2025-06-18",
+      "key_actors": [],
+      "legal_significance": "clear_evidence_of_trustee_misconduct_and_self_dealing",
+      "evidence_references": [
+        "trust_transaction_records",
+        "conflict_of_interest_documentation"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-06-20",
+      "event_count": 3,
+      "events": [
+        "EVENT_014",
+        "EVENT_027",
+        "EVENT_SF2A"
+      ],
+      "primary_category": "revenue_theft",
+      "description": "3 event(s) on 2025-06-20",
+      "key_actors": [],
+      "legal_significance": "CRITICAL",
+      "evidence_references": [
+        "customer_communications",
+        "SF2A",
+        "gee_email_to_jax",
+        "email_records",
+        "domain_switch_email"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-06-25",
+      "event_count": 1,
+      "events": [
+        "EVENT_064"
+      ],
+      "primary_category": "Evidence documentation",
+      "description": "1 event(s) on 2025-06-25",
+      "key_actors": [],
+      "legal_significance": "Document preparation timing suggests response to legal proceedings; establishes Peter's directorship and control",
+      "evidence_references": [
+        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
+      ],
+      "application_context": [
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-06-30",
+      "event_count": 1,
+      "events": [
+        "EVENT_015"
+      ],
+      "primary_category": "financial_manipulation",
+      "description": "1 event(s) on 2025-06-30",
+      "key_actors": [],
+      "legal_significance": "evidence_of_sophisticated_financial_crime_coordination",
+      "evidence_references": [
+        "bank_transfer_records",
+        "financial_flow_analysis"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-07-08",
+      "event_count": 1,
+      "events": [
+        "EVENT_016"
+      ],
+      "primary_category": "revenue_theft",
+      "description": "1 event(s) on 2025-07-08",
+      "key_actors": [],
+      "legal_significance": "documented_evidence_of_systematic_business_destruction",
+      "evidence_references": [
+        "popi_violation_documentation",
+        "warehouse_records"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-07-12",
+      "event_count": 1,
+      "events": [
+        "EVENT_017"
+      ],
+      "primary_category": "financial_manipulation",
+      "description": "1 event(s) on 2025-07-12",
+      "key_actors": [],
+      "legal_significance": "documented_evidence_of_financial_system_abuse_and_unauthorized_control",
+      "evidence_references": [
+        "account_access_logs",
+        "control_change_documentation"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-07-23",
+      "event_count": 2,
+      "events": [
+        "EVENT_065",
+        "EVENT_SF2B"
+      ],
+      "primary_category": "Access control",
+      "description": "2 event(s) on 2025-07-23",
+      "key_actors": [],
+      "legal_significance": "low",
+      "evidence_references": [
+        "Sage screenshot 2025-08-25 - Accounting Registration Expired",
+        "SF2B - Sage expiry notice",
+        "SF2B"
+      ],
+      "application_context": [
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-07-25",
+      "event_count": 1,
+      "events": [
+        "EVENT_018"
+      ],
+      "primary_category": "trust_violations",
+      "description": "1 event(s) on 2025-07-25",
+      "key_actors": [],
+      "legal_significance": "documented_theft_of_trust_property_and_breach_of_fiduciary_duty",
+      "evidence_references": [
+        "trust_property_documentation",
+        "asset_transfer_records"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-08-10",
+      "event_count": 1,
+      "events": [
+        "EVENT_019"
+      ],
+      "primary_category": "trust_violations",
+      "description": "1 event(s) on 2025-08-10",
+      "key_actors": [],
+      "legal_significance": "systematic_evidence_of_ongoing_trust_law_violations",
+      "evidence_references": [
+        "trust_violation_documentation",
+        "ongoing_breach_records"
+      ],
+      "application_context": [
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-08-11",
+      "event_count": 1,
+      "events": [
+        "EVENT_059"
+      ],
+      "primary_category": "legal_manipulation",
+      "description": "1 event(s) on 2025-08-11",
+      "key_actors": [],
+      "legal_significance": "strategic_litigation_tactic_not_genuine_business_protection",
+      "evidence_references": [
+        "settlement_agreement_2025_08_11"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-08-13",
+      "event_count": 2,
+      "events": [
+        "EVENT_049",
+        "EVENT_060"
+      ],
+      "primary_category": "trust_violations",
+      "description": "2 event(s) on 2025-08-13",
+      "key_actors": [],
+      "legal_significance": "professional_misconduct_and_conflict_of_interest",
+      "evidence_references": [
+        "JF08 - Evidence packages",
+        "founding_affidavit_2025_08_13",
+        "JF09 - Timeline analysis"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-08-15",
+      "event_count": 1,
+      "events": [
+        "EVENT_026"
+      ],
+      "primary_category": "revenue_theft",
+      "description": "1 event(s) on 2025-08-15",
+      "key_actors": [],
+      "legal_significance": "witness_testimony_confirming_customer_hijacking",
+      "evidence_references": [
+        "gee_email_to_jax"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-08-20",
+      "event_count": 1,
+      "events": [
+        "EVENT_020"
+      ],
+      "primary_category": "financial_manipulation",
+      "description": "1 event(s) on 2025-08-20",
+      "key_actors": [],
+      "legal_significance": "consciousness_of_guilt_through_evidence_destruction_attempts",
+      "evidence_references": [
+        "evidence_destruction_records",
+        "concealment_documentation"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-08-29",
+      "event_count": 1,
+      "events": [
+        "EVENT_061"
+      ],
+      "primary_category": "legal_misconduct",
+      "description": "1 event(s) on 2025-08-29",
+      "key_actors": [],
+      "legal_significance": "professional_misconduct_evidence_suppression",
+      "evidence_references": [
+        "email_received_thanks_daniel_2025_08_29"
+      ],
+      "application_context": [
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-09-11",
+      "event_count": 1,
+      "events": [
+        "EVENT_021"
+      ],
+      "primary_category": "financial_manipulation",
+      "description": "1 event(s) on 2025-09-11",
+      "key_actors": [],
+      "legal_significance": "final_stage_of_financial_destruction",
+      "evidence_references": [
+        "bank_statements",
+        "account_balance_records"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ]
+    },
+    {
+      "date": "2025-10-23",
+      "event_count": 1,
+      "events": [
+        "EVENT_SF9"
+      ],
+      "primary_category": "legal_action",
+      "description": "1 event(s) on 2025-10-23",
+      "key_actors": [],
+      "legal_significance": "low",
+      "evidence_references": [
+        "SF9"
+      ],
+      "application_context": [
+        "3-EXTERNAL-VALIDATION"
+      ]
+    }
+  ]
+}
