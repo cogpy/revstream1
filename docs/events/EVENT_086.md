@@ -1,51 +1,18 @@
 ---
 layout: default
-title: Kayla Pretorius Estate Documentation
+title: EVENT_086
 ---
-# Kayla Pretorius Estate Documentation (EVENT_086)
+# EVENT_086: Estate documentation for Kayla Pretorius, whose email account later became subject to court-ordered seizure
 
 **Date:** 2021-09-10
+**Category:** legal_documentation
 
-**Description:**
-Estate documentation for Kayla Pretorius, whose email account later became subject to court-ordered seizure
+**Entities Involved:**
+- PERSON_010
+- PERSON_005
 
-## Evidence References
+**Evidence:**
+- SF6_Kayla_Pretorius_Estate_Documentation.md
 
-No evidence mapping file found.
-
-## Raw Data
-
-```json
-{
-  "event_id": "EVENT_086",
-  "date": "2021-09-10",
-  "title": "Kayla Pretorius Estate Documentation",
-  "description": "Estate documentation for Kayla Pretorius, whose email account later became subject to court-ordered seizure",
-  "category": "legal_documentation",
-  "participants": [
-    "PERSON_013"
-  ],
-  "evidence": [
-    "SF6_Kayla_Pretorius_Estate_Documentation.md"
-  ],
-  "ad_res_j7_references": [
-    "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md"
-  ],
-  "burden_of_proof": "civil_50%",
-  "legal_significance": "MEDIUM",
-  "created": "2025-12-19T16:36:39.171056",
-  "ad_res_j7_evidence": [
-    "ANNEXURES/JF08"
-  ],
-  "evidence_enhanced": "2025-12-22T05:40:58.380429",
-  "phase": "PHASE_1",
-  "entities_involved": [
-    "PERSON_010",
-    "PERSON_005"
-  ],
-  "perpetrators": [],
-  "victims": [
-    "PERSON_010"
-  ]
-}
-```
+**Ad-Res-J7 References:**
+- `ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md`
