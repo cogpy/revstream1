@@ -7,6 +7,7 @@ title: Revenue Stream Hijacking Case 2025-137857
 
 **Last Updated:** 2026-01-08  
 **Evidence Repository:** [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)  
+**Hypergraph Integration:** [o9-org/LexRexHGNN](https://github.com/o9-org/LexRexHGNN)  
 **Data Models Version:** Entities v23.0, Relations v18.1, Events v21.1, Timeline v19.0
 
 ## Executive Summary
@@ -42,9 +43,9 @@ This documentation repository provides a comprehensively refined, evidence-based
 - **[Timeline](timeline.md)** - Interactive chronological timeline
 
 ### ⚖️ Legal Filings
-- **[CIPC Companies Act Complaint](filings/CIPC_COMPLAINT_REFINED_2026_01_07.md)** - Director misconduct and trust violations
-- **[POPIA Criminal Complaint](filings/POPIA_COMPLAINT_REFINED_2026_01_07.md)** - Personal information breaches
-- **[NPA Tax Fraud Report](filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_07.md)** - Revenue diversion and accounting fraud
+- **[CIPC Companies Act Complaint](filings/CIPC_COMPLAINT_REFINED_2026_01_08.md)** - Director misconduct and trust violations
+- **[POPIA Criminal Complaint](filings/POPIA_COMPLAINT_REFINED_2026_01_08.md)** - Personal information breaches
+- **[NPA Tax Fraud Report](filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_08.md)** - Revenue diversion and accounting fraud
 
 ### 📁 Evidence Index
 - **[Evidence Index](evidence-index-enhanced.md)** - Comprehensive evidence catalog with ad-res-j7 references
@@ -77,7 +78,7 @@ This documentation repository provides a comprehensively refined, evidence-based
 52 timeline entries with supporting evidence for civil litigation response.
 
 ### 2-CRIMINAL-CASE
-36 timeline entries meeting 95%+ criminal burden of proof threshold.
+46 timeline entries meeting 95%+ criminal burden of proof threshold.
 
 ### 3-EXTERNAL-VALIDATION
 56 timeline entries for external regulatory validation and complaints.
@@ -87,9 +88,10 @@ This documentation repository provides a comprehensively refined, evidence-based
 ## Recent Updates
 
 **2026-01-08:**
+- Created o9-org/LexRexHGNN repository for multi-repo hypergraph integration
+- Updated legal filings to 2026-01-07 versions with enhanced evidence references
 - Cross-referenced 496 evidence files from ad-res-j7 repository
 - Identified 52 high-value evidence opportunities
-- Refined legal filings with enhanced evidence references
 - Updated data models to v23.0 (entities), v18.1 (relations), v21.1 (events), v19.0 (timeline)
 
 **2026-01-06:**
@@ -109,6 +111,9 @@ revstream1/
 │   ├── events/events.json (77 events)
 │   └── timelines/timeline.json (56 entries)
 ├── docs/ (GitHub Pages site)
+│   ├── filings/ (Legal filings)
+│   ├── data_models/ (Data model documentation)
+│   └── events/ (Event documentation)
 ├── evidence/ (Local evidence cache)
 └── [Legal filings and reports]
 ```
@@ -123,6 +128,16 @@ All evidence is maintained in the **[cogpy/ad-res-j7](https://github.com/cogpy/a
 - **1-CIVIL-RESPONSE:** Civil case documentation (25 files)
 - **2-CRIMINAL-CASE:** Criminal case submissions (5 files)
 - **3-EXTERNAL-VALIDATION:** External validation packages (4 files)
+
+---
+
+## Hypergraph Integration
+
+The **[o9-org/LexRexHGNN](https://github.com/o9-org/LexRexHGNN)** repository provides:
+- Multi-repository hypergraph construction
+- Cross-repository relationship detection
+- Unified evidence correlation
+- Legal case analysis automation
 
 ---
 
