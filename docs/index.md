@@ -147,3 +147,20 @@ For questions or additional information regarding this case, please refer to the
 
 **Case Reference:** 2025-137857  
 **Last Comprehensive Analysis:** 2026-01-08
+
+## LexiCog Integration
+
+The LexRexHGNN framework now includes the **LexiCog** neuro-symbolic engine:
+
+- [LexRexHGNN Repository](https://github.com/o9-org/LexRexHGNN)
+- [NNetLogos Integration](https://github.com/o9nn/NNetLogos)
+
+### Components
+
+| Component | Description |
+|-----------|-------------|
+| LexiCog Engine | Neural-symbolic core with NNetLogos primitives |
+| Spatial Mode | Hypergraph-based entity-relation topology |
+| Agentic Mode | Autonomous legal reasoning agents |
+| Tensor-Logic | Fuzzy logic operations for legal inference |
+| Legislative Corpus | Companies Act, POPIA, Tax Acts integration |
