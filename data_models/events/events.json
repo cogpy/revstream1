@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "24.0_CIPC_BATCH2_2026_01_09",
+    "version": "25.0_DISTRIBUTORS_2026_01_09",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "total_events": 82,
+    "total_events": 95,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-01-09T07:09:04.021999",
-    "changes": "Added 5 events from CIPC WinDeed documents",
+    "last_updated": "2026-01-09T11:53:07.739123",
+    "changes": "Added 6 new events from distributor CIPC documents including RST bond registration",
     "phase_statistics": {
       "PHASE_1": 25,
       "PHASE_2": 4,
@@ -3477,6 +3477,99 @@
       ],
       "source": "293351612.Pdf",
       "significance": "Formalizes Louw-Rizzotto business partnership"
+    },
+    {
+      "event_id": "EVENT_99",
+      "date": "2019-11-22",
+      "event_type": "bond_registration",
+      "description": "RegimA Skin Treatments CC registers R3,110,000 bond on Karen Avnit's property",
+      "entities": [
+        "RegimA Skin Treatments CC",
+        "Karen Patricia Avnit"
+      ],
+      "property": "SS Forest Lodge 173, Unit 4",
+      "amount": "R3,110,000",
+      "document": "SB48685/2019",
+      "significance": "Evidence of RST providing financing to distributors",
+      "evidence": [
+        "293344692-Property-KarenAvnit.Pdf",
+        "293347244-List-Deeds-SB48685-2019.Pdf"
+      ],
+      "evidence_strength": "conclusive"
+    },
+    {
+      "event_id": "EVENT_100",
+      "date": "2006-03-16",
+      "event_type": "company_registration",
+      "description": "Dermal Skin Treatments Cape Town CC registered",
+      "entities": [
+        "Barend Thomas Nortje",
+        "Sharon Nortje"
+      ],
+      "registration_number": "2006/040838/23",
+      "region": "Western Cape",
+      "evidence": [
+        "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
+      ],
+      "evidence_strength": "strong"
+    },
+    {
+      "event_id": "EVENT_101",
+      "date": "2005-09-29",
+      "event_type": "company_registration",
+      "description": "Kachan Marketing and Distribution CC registered",
+      "entities": [
+        "Karen Patricia Avnit"
+      ],
+      "registration_number": "2005/138571/23",
+      "region": "Gauteng",
+      "evidence": [
+        "293340322-Company-KachanMarketingandDistribution.Pdf"
+      ],
+      "evidence_strength": "strong"
+    },
+    {
+      "event_id": "EVENT_102",
+      "date": "2015-07-08",
+      "event_type": "company_registration",
+      "description": "Dandelion SA (formerly K Rae Enterprises) registered",
+      "entities": [
+        "Kirby Rae Van Der Stelt"
+      ],
+      "registration_number": "2015/230152/07",
+      "evidence": [
+        "293342245-Company-DandelionSA.Pdf"
+      ],
+      "evidence_strength": "strong"
+    },
+    {
+      "event_id": "EVENT_103",
+      "date": "2017-09-27",
+      "event_type": "company_registration",
+      "description": "Bertani International Global registered",
+      "entities": [
+        "Dante Bertani"
+      ],
+      "registration_number": "2017/424081/07",
+      "evidence": [
+        "293342878-Company-BertaniInternationalGlobal.Pdf"
+      ],
+      "evidence_strength": "strong"
+    },
+    {
+      "event_id": "EVENT_104",
+      "date": "2000-05-31",
+      "event_type": "company_registration",
+      "description": "George Endermologie Clinic CC registered",
+      "entities": [
+        "Catherina Elizabeth Schmidt"
+      ],
+      "registration_number": "2000/028557/23",
+      "region": "Western Cape",
+      "evidence": [
+        "293332765-Company-GeorgeEndermologieClinic.Pdf"
+      ],
+      "evidence_strength": "moderate"
     }
   ]
 }

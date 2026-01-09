@@ -8,7 +8,7 @@ title: Revenue Stream Hijacking Case 2025-137857
 **Last Updated:** 2026-01-09  
 **Evidence Repository:** [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)  
 **Hypergraph Integration:** [o9-org/LexRexHGNN](https://github.com/o9-org/LexRexHGNN)  
-**Data Models Version:** Entities v26.0, Relations v21.0, Events v24.0, Timeline v22.0
+**Data Models Version:** Entities v27.0, Relations v22.0, Events v25.0, Timeline v23.0
 
 ## Executive Summary
 
@@ -24,9 +24,9 @@ This documentation repository provides a comprehensively refined, evidence-based
 |---|---|
 | **Case Number** | 2025-137857 |
 | **Total Documented Losses** | **R10,269,727.90** |
-| **Total Events** | 89 |
-| **Entities Profiled** | 59 (28 persons, 31 organizations) |
-| **Relations Mapped** | 99 across 28 relation types |
+| **Total Events** | 95 |
+| **Entities Profiled** | 73 (36 persons, 37 organizations) |
+| **Relations Mapped** | 108 across 28 relation types |
 | **Evidence Files** | 496+ files in ad-res-j7 annexures |
 | **Timeline Span** | 1982-03-26 to 2025-10-23 |
 | **Criminal Threshold Events** | 46 events (95%+ burden of proof) |
@@ -51,6 +51,7 @@ This documentation repository provides a comprehensively refined, evidence-based
 - **[Evidence Index](evidence-index-enhanced.md)** - Comprehensive evidence catalog with ad-res-j7 references
 - **[CIPC Evidence 2021 - Batch 1](cipc-evidence-2021.md)** - 18 CIPC WinDeed documents with company registrations and director searches
 - **[CIPC Evidence 2021 - Batch 2](cipc-evidence-batch2-2021.md)** - 18 additional CIPC documents including Louw-Rizzotto network and industry report
+- **[Distributor Evidence 2021](distributor-evidence-2021.md)** - 27 CIPC documents covering distributor network and RST bond on distributor property
 - **[Application 1: Civil Response](application-1-civil-response.md)** - Civil case evidence mapping
 - **[Application 2: Criminal Case](application-2-criminal-case.md)** - Criminal case evidence mapping
 - **[Application 3: External Validation](application-3-external-validation.md)** - External validation evidence
@@ -88,6 +89,16 @@ This documentation repository provides a comprehensively refined, evidence-based
 ---
 
 ## Recent Updates
+
+**2026-01-09 (Update 4):**
+- Added 8 new persons and 6 new organizations from 27 distributor/client CIPC documents
+- Added 9 new relations including distributor, bond, property, and membership relations
+- Added 9 timeline entries covering distributor network (2000-2019)
+- Added 6 new events from distributor CIPC documents
+- Created Distributor Evidence 2021 documentation page
+- **Critical Discovery:** RST R3,110,000 bond on Karen Avnit's property (2019-11-22)
+- Mapped RegimA distributor network in Western Cape and Gauteng
+- Updated data models to v27.0 (entities), v22.0 (relations), v25.0 (events), v23.0 (timeline)
 
 **2026-01-09 (Update 3):**
 - Added 6 new persons and 13 new organizations from 18 additional CIPC WinDeed documents

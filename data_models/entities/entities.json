@@ -1,13 +1,15 @@
 {
   "metadata": {
-    "version": "26.0_CIPC_BATCH2_2026_01_09",
+    "version": "27.0_DISTRIBUTORS_2026_01_09",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-09T07:09:04.021964",
-    "changes": "Added 6 new persons and 13 new organizations from CIPC WinDeed batch 2 documents",
-    "total_entities": 59
+    "last_updated": "2026-01-09T11:53:07.739082",
+    "changes": "Added 8 new persons and 6 new organizations from distributor/client CIPC documents including bond registration evidence",
+    "total_entities": 59,
+    "total_persons": 36,
+    "total_organizations": 37
   },
   "entities": {
     "persons": [
@@ -872,6 +874,185 @@
         ],
         "source": "TheCosmeticsIndustry(2017-11-14).pdf",
         "notes": "Bookkeeper for RegimA International Skin Treatments CC per Who Owns Whom report"
+      },
+      {
+        "entity_id": "PERSON_29",
+        "name": "Barend Thomas Nortje",
+        "id_number": "7204075153081",
+        "date_of_birth": "1972-04-07",
+        "role": "Distributor",
+        "entity_type": "distributor",
+        "address": "9 Denbigh Road, Constantia, Cape Town, 7806",
+        "postal_address": "Postnet 207, Private Bag X1005, Claremont, 7735",
+        "profession": "Businessman",
+        "directorships": [
+          "Dermal Skin Treatments Cape Town (2006/040838/23) - 50% Member",
+          "De Fay Fund Management (1999/015505/07) - Director",
+          "Hollyberry Props 96 (2007/017019/07) - Resigned",
+          "Mooimaak Beleggings (2001/002714/07) - Resigned"
+        ],
+        "evidence": [
+          "293338023-Director-BarendNortje.Pdf",
+          "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
+        ],
+        "evidence_strength": "strong",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293338023-Director-BarendNortje.Pdf"
+        ]
+      },
+      {
+        "entity_id": "PERSON_30",
+        "name": "Sharon Nortje",
+        "id_number": "6212030045087",
+        "date_of_birth": "1962-12-03",
+        "role": "Distributor",
+        "entity_type": "distributor",
+        "address": "9 Denbigh Road, Constantia, Cape Town, 7806",
+        "postal_address": "Postnet 207, Private Bag X1005, Claremont, 7735",
+        "directorships": [
+          "Dermal Skin Treatments Cape Town (2006/040838/23) - 50% Member"
+        ],
+        "evidence": [
+          "293338030-Director-SharonNortje.Pdf",
+          "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
+        ],
+        "evidence_strength": "strong",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293338030-Director-SharonNortje.Pdf"
+        ]
+      },
+      {
+        "entity_id": "PERSON_31",
+        "name": "Karen Patricia Avnit",
+        "id_number": "5903170130082",
+        "date_of_birth": "1959-03-17",
+        "role": "Distributor",
+        "entity_type": "distributor",
+        "marital_status": "UNMARRIED",
+        "address": "No. 4, Forest Lodge, Jatinga Street, Paulshof, 2193",
+        "postal_address": "PO Box 2240, Rivonia, 2128",
+        "directorships": [
+          "Kachan Marketing and Distribution (2005/138571/23) - 100% Member"
+        ],
+        "properties": [
+          "SS Forest Lodge 173, Unit 4 - R1,100,000 (2006-06-05)",
+          "SS Forest Lodge 173, G20 - R1,100,000 (2006-07-07)"
+        ],
+        "bonds": [
+          "SB48685/2019 - R3,110,000 - REGIMA SKIN TREATMENTS CC (2019-11-22)"
+        ],
+        "evidence": [
+          "293340515-Director-KarenAvnit.Pdf",
+          "293344692-Property-KarenAvnit.Pdf",
+          "293340322-Company-KachanMarketingandDistribution.Pdf"
+        ],
+        "evidence_strength": "conclusive",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293340515-Director-KarenAvnit.Pdf",
+          "ANNEXURES/JF16-DISTRIBUTORS/293344692-Property-KarenAvnit.Pdf"
+        ]
+      },
+      {
+        "entity_id": "PERSON_32",
+        "name": "Chan\u00e9 Auriele Todd",
+        "id_number": "8909280264080",
+        "date_of_birth": "1989-09-28",
+        "role": "Distributor",
+        "entity_type": "distributor",
+        "address": "37 Sandpiper Street, Ebotse Golf Estate, Benoni, 1514",
+        "email": "chane@dandelionsa.co.za",
+        "directorships": [
+          "Dandelion SA (2015/230152/07) - Director"
+        ],
+        "evidence": [
+          "293342496-Director-ChaneTodd.Pdf",
+          "293342245-Company-DandelionSA.Pdf"
+        ],
+        "evidence_strength": "strong",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293342496-Director-ChaneTodd.Pdf"
+        ]
+      },
+      {
+        "entity_id": "PERSON_33",
+        "name": "Kirby Rae Van Der Stelt",
+        "id_number": "8805270134087",
+        "date_of_birth": "1988-05-27",
+        "role": "Former Distributor",
+        "entity_type": "distributor",
+        "status": "RESIGNED",
+        "address": "8 Genevieve Street, Farrarmere, Benoni, 1501",
+        "directorships": [
+          "Dandelion SA (2015/230152/07) - Resigned Director (2016-07-05)"
+        ],
+        "evidence": [
+          "293342504-Director-KirbyRaeVanDerStelt.Pdf"
+        ],
+        "evidence_strength": "moderate",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293342504-Director-KirbyRaeVanDerStelt.Pdf"
+        ]
+      },
+      {
+        "entity_id": "PERSON_34",
+        "name": "Dante Bertani",
+        "id_number": "7209275121085",
+        "date_of_birth": "1972-09-27",
+        "role": "Distributor",
+        "entity_type": "distributor",
+        "address": "32 Middle Street, East Town, Gauteng, 2195",
+        "postal_address": "PO Box 2240, Rivonia, 2128",
+        "directorships": [
+          "Bertani International Global (2017/424081/07) - Director"
+        ],
+        "evidence": [
+          "293343017-Director-DanteBertani.Pdf",
+          "293342878-Company-BertaniInternationalGlobal.Pdf"
+        ],
+        "evidence_strength": "strong",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293343017-Director-DanteBertani.Pdf"
+        ]
+      },
+      {
+        "entity_id": "PERSON_35",
+        "name": "Anna Gertruida Johanna du Toit",
+        "id_number": "6512030012080",
+        "date_of_birth": "1965-12-03",
+        "role": "Former Distributor",
+        "entity_type": "distributor",
+        "address": "3 Hermitage Street, Redgeworth, Bellville, 7530",
+        "directorships": [
+          "George Endermologie Clinic (2000/028557/23) - 100% Member"
+        ],
+        "evidence": [
+          "293332765-Company-GeorgeEndermologieClinic.Pdf"
+        ],
+        "evidence_strength": "moderate",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293332765-Company-GeorgeEndermologieClinic.Pdf"
+        ]
+      },
+      {
+        "entity_id": "PERSON_36",
+        "name": "Adrian Dominic De Fay",
+        "id_number": "6205275172087",
+        "date_of_birth": "1962-05-27",
+        "role": "Investment Manager",
+        "entity_type": "external",
+        "profession": "Director",
+        "address": "19 Bellair Drive, Constantia, Cape Town, 7806",
+        "postal_address": "Postnet 325, Private Bag X1005, Claremont, 7735",
+        "directorships": [
+          "De Fay Fund Management (1999/015505/07) - Director"
+        ],
+        "evidence": [
+          "293338928-Company-DeFayFundManagement.Pdf"
+        ],
+        "evidence_strength": "moderate",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293338928-Company-DeFayFundManagement.Pdf"
+        ]
       }
     ],
     "organizations": [
@@ -1723,6 +1904,201 @@
         "region": "Gauteng",
         "source": "293352194.Pdf",
         "notes": "Rizzotto is a director - lives at 7 Putter Lane, Glendower Golf Estate"
+      },
+      {
+        "entity_id": "ORG_32",
+        "name": "Dermal Skin Treatments Cape Town",
+        "registration_number": "2006/040838/23",
+        "entity_type": "CLOSE CORPORATION",
+        "status": "IN BUSINESS",
+        "registration_date": "2006-03-16",
+        "region": "WESTERN CAPE",
+        "tax_number": "9001333229",
+        "industry": "WHOLESALE AND RETAIL TRADE",
+        "principal_business": "DISTRIBUTION OF MEDICAL SKIN CARE RANGE AND RELATED PRODUCTS",
+        "registered_address": "Concertino House, 106 Kloof Street, Cape Town, 8001",
+        "postal_address": "PO Box 12091, Millstreet, 8010",
+        "members": [
+          {
+            "name": "Barend Thomas Nortje",
+            "ownership": "50%"
+          },
+          {
+            "name": "Sharon Nortje",
+            "ownership": "50%"
+          }
+        ],
+        "accounting_officer": "David Alan Frymer c/o Frymer Bywater Mackay-Davidson",
+        "role": "RegimA Distributor - Cape Town",
+        "evidence": [
+          "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf",
+          "293337425-List-DermalSkinTreatmentsCapeTown.Pdf"
+        ],
+        "evidence_strength": "strong",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
+        ]
+      },
+      {
+        "entity_id": "ORG_33",
+        "name": "Kachan Marketing and Distribution",
+        "registration_number": "2005/138571/23",
+        "entity_type": "CLOSE CORPORATION",
+        "status": "IN BUSINESS",
+        "registration_date": "2005-09-29",
+        "region": "GAUTENG",
+        "tax_number": "9033440174",
+        "industry": "WHOLESALE AND RETAIL TRADE",
+        "principal_business": "MARKETING AND DISTRIBUTION OF COSMOCEUTICAL PRODUCTS",
+        "registered_address": "Tricon House, No. 1, 8th Avenue, Rivonia, 2192",
+        "postal_address": "PO Box 650242, Benmore, 2010",
+        "members": [
+          {
+            "name": "Karen Patricia Avnit",
+            "ownership": "100%"
+          }
+        ],
+        "accounting_officer": "Richards Ian Sher",
+        "role": "RegimA Distributor - Gauteng",
+        "evidence": [
+          "293340322-Company-KachanMarketingandDistribution.Pdf",
+          "293340240-List-KachanMarketingandDistribution.Pdf"
+        ],
+        "evidence_strength": "strong",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293340322-Company-KachanMarketingandDistribution.Pdf"
+        ]
+      },
+      {
+        "entity_id": "ORG_34",
+        "name": "Dandelion SA",
+        "registration_number": "2015/230152/07",
+        "entity_type": "PRIVATE COMPANY",
+        "status": "IN BUSINESS",
+        "registration_date": "2015-07-08",
+        "tax_number": "9547657172",
+        "principal_business": "BUSINESS ACTIVITIES NOT RESTRICTED",
+        "registered_address": "37 Sandpiper Street, Ebotse Golf Estate, Benoni, 1514",
+        "directors": [
+          {
+            "name": "Chan\u00e9 Auriele Todd",
+            "status": "ACTIVE"
+          },
+          {
+            "name": "Kirby Rae Van Der Stelt",
+            "status": "RESIGNED"
+          }
+        ],
+        "former_name": "K Rae Enterprises",
+        "role": "RegimA Distributor",
+        "evidence": [
+          "293342245-Company-DandelionSA.Pdf",
+          "293342189-List-DandelionSA.Pdf"
+        ],
+        "evidence_strength": "strong",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293342245-Company-DandelionSA.Pdf"
+        ]
+      },
+      {
+        "entity_id": "ORG_35",
+        "name": "Bertani International Global",
+        "registration_number": "2017/424081/07",
+        "entity_type": "PRIVATE COMPANY",
+        "status": "ANNUAL RETURN DEREGISTRATION PROCESS",
+        "registration_date": "2017-09-27",
+        "tax_number": "9083698234",
+        "principal_business": "BUSINESS ACTIVITIES NOT RESTRICTED",
+        "registered_address": "32 Middle Street, East Town, Gauteng, 2195",
+        "postal_address": "PO Box 2240, Rivonia, 2128",
+        "directors": [
+          {
+            "name": "Dante Bertani",
+            "status": "ACTIVE"
+          }
+        ],
+        "role": "RegimA Distributor",
+        "evidence": [
+          "293342878-Company-BertaniInternationalGlobal.Pdf",
+          "293342834-List-BertaniInternationalGlobal.Pdf"
+        ],
+        "evidence_strength": "moderate",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293342878-Company-BertaniInternationalGlobal.Pdf"
+        ]
+      },
+      {
+        "entity_id": "ORG_36",
+        "name": "George Endermologie Clinic",
+        "registration_number": "2000/028557/23",
+        "entity_type": "CLOSE CORPORATION",
+        "status": "ANNUAL RETURN FINAL DEREGISTRATION",
+        "registration_date": "2000-05-31",
+        "region": "WESTERN CAPE",
+        "tax_number": "9174090143",
+        "industry": "FINANCIAL INTERMEDIATION INSURANCE, REAL ESTATE AND BUSINESS SERVICES",
+        "registered_address": "82 Meade Street, George, 6530",
+        "postal_address": "PO Box 963, George, 6530",
+        "members": [
+          {
+            "name": "Anna Gertruida Johanna du Toit",
+            "ownership": "100%",
+            "status": "ACTIVE"
+          },
+          {
+            "name": "Catherina Elizabeth Schmidt",
+            "ownership": "100%",
+            "status": "RESIGNED"
+          }
+        ],
+        "role": "Former RegimA Distributor - George",
+        "evidence": [
+          "293332765-Company-GeorgeEndermologieClinic.Pdf",
+          "293330249-List-GeorgeEndermologieClinic.Pdf"
+        ],
+        "evidence_strength": "moderate",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293332765-Company-GeorgeEndermologieClinic.Pdf"
+        ]
+      },
+      {
+        "entity_id": "ORG_37",
+        "name": "De Fay Fund Management",
+        "registration_number": "1999/015505/07",
+        "entity_type": "PRIVATE COMPANY",
+        "status": "ANNUAL RETURN FINAL DEREGISTRATION",
+        "registration_date": "1999-07-20",
+        "region": "WESTERN CAPE",
+        "tax_number": "9587479842",
+        "industry": "OTHER BUSINESS ACTIVITIES",
+        "registered_address": "Fedsure Terrace, 25 Protea Road, Claremont, Cape Town, 7735",
+        "postal_address": "Postnet X325, Private Bag X1005, Claremont, 7735",
+        "directors": [
+          {
+            "name": "Adrian Dominic De Fay",
+            "status": "ACTIVE"
+          },
+          {
+            "name": "Barend Thomas Nortje",
+            "status": "ACTIVE"
+          },
+          {
+            "name": "Jan Georg Solms",
+            "status": "ACTIVE"
+          }
+        ],
+        "auditors": [
+          "Meintjes Putter & Koch Inc",
+          "PricewaterhouseCoopers Incorporated"
+        ],
+        "role": "Investment Fund - Nortje Connection",
+        "evidence": [
+          "293338928-Company-DeFayFundManagement.Pdf"
+        ],
+        "evidence_strength": "moderate",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293338928-Company-DeFayFundManagement.Pdf"
+        ]
       }
     ],
     "platforms": [

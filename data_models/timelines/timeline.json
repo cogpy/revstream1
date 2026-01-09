@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "version": "22.0_CIPC_BATCH2_2026_01_09",
+    "version": "23.0_DISTRIBUTORS_2026_01_09",
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-01-09T07:09:04.022000",
-    "changes": "Added 15 timeline entries from CIPC WinDeed documents covering company registrations and director changes 1992-2021",
+    "last_updated": "2026-01-09T11:53:07.739126",
+    "changes": "Added 9 timeline entries from distributor CIPC documents",
     "criminal_threshold_entries": 36,
     "high_significance_entries": 5,
-    "total_entries": 71
+    "total_entries": 101
   },
   "timeline": [
     {
@@ -2139,6 +2139,117 @@
       "cumulative_financial_impact": "R170,580,605.19",
       "burden_of_proof_levels": [
         "civil_50%"
+      ]
+    },
+    {
+      "date": "2000-05-31",
+      "event": "George Endermologie Clinic CC registered in Western Cape",
+      "category": "company_registration",
+      "entities": [
+        "George Endermologie Clinic"
+      ],
+      "evidence": [
+        "293332765-Company-GeorgeEndermologieClinic.Pdf"
+      ]
+    },
+    {
+      "date": "2005-09-29",
+      "event": "Kachan Marketing and Distribution CC registered - Karen Avnit 100% member",
+      "category": "company_registration",
+      "entities": [
+        "Kachan Marketing and Distribution",
+        "Karen Patricia Avnit"
+      ],
+      "evidence": [
+        "293340322-Company-KachanMarketingandDistribution.Pdf"
+      ]
+    },
+    {
+      "date": "2006-03-16",
+      "event": "Dermal Skin Treatments Cape Town CC registered - Nortje 50%/50%",
+      "category": "company_registration",
+      "entities": [
+        "Dermal Skin Treatments Cape Town",
+        "Barend Thomas Nortje",
+        "Sharon Nortje"
+      ],
+      "evidence": [
+        "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
+      ]
+    },
+    {
+      "date": "2006-06-05",
+      "event": "Karen Avnit purchases SS Forest Lodge 173, Unit 4 for R1,100,000",
+      "category": "property_transaction",
+      "entities": [
+        "Karen Patricia Avnit"
+      ],
+      "evidence": [
+        "293344692-Property-KarenAvnit.Pdf"
+      ]
+    },
+    {
+      "date": "2007-07-17",
+      "event": "Barend Nortje appointed director of De Fay Fund Management",
+      "category": "directorship_change",
+      "entities": [
+        "Barend Thomas Nortje",
+        "De Fay Fund Management"
+      ],
+      "evidence": [
+        "293338023-Director-BarendNortje.Pdf"
+      ]
+    },
+    {
+      "date": "2015-07-08",
+      "event": "K Rae Enterprises (later Dandelion SA) registered",
+      "category": "company_registration",
+      "entities": [
+        "Dandelion SA",
+        "Kirby Rae Van Der Stelt"
+      ],
+      "evidence": [
+        "293342245-Company-DandelionSA.Pdf"
+      ]
+    },
+    {
+      "date": "2016-07-05",
+      "event": "Chan\u00e9 Todd becomes director of Dandelion SA; Kirby Van Der Stelt resigns",
+      "category": "directorship_change",
+      "entities": [
+        "Dandelion SA",
+        "Chan\u00e9 Auriele Todd",
+        "Kirby Rae Van Der Stelt"
+      ],
+      "evidence": [
+        "293342245-Company-DandelionSA.Pdf"
+      ]
+    },
+    {
+      "date": "2017-09-27",
+      "event": "Bertani International Global registered - Dante Bertani director",
+      "category": "company_registration",
+      "entities": [
+        "Bertani International Global",
+        "Dante Bertani"
+      ],
+      "evidence": [
+        "293342878-Company-BertaniInternationalGlobal.Pdf"
+      ]
+    },
+    {
+      "date": "2019-11-22",
+      "event": "RegimA Skin Treatments CC registers R3,110,000 bond on Karen Avnit's property",
+      "category": "bond_registration",
+      "entities": [
+        "RegimA Skin Treatments CC",
+        "Karen Patricia Avnit"
+      ],
+      "amount": "R3,110,000",
+      "significance": "RST providing financing to distributors",
+      "evidence": [
+        "293344692-Property-KarenAvnit.Pdf",
+        "293347244-List-Deeds-SB48685-2019.Pdf"
       ]
     }
   ]

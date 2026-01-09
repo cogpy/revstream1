@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "21.0_CIPC_BATCH2_2026_01_09",
+    "version": "22.0_DISTRIBUTORS_2026_01_09",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-01-09T07:09:04.021996",
-    "changes": "Added 10 new relations from CIPC WinDeed documents including address, directorship, and membership relations",
-    "total_relations": 85
+    "last_updated": "2026-01-09T11:53:07.739113",
+    "changes": "Added 9 new relations including distributor, bond, property, and membership relations",
+    "total_relations": 108
   },
   "relations": {
     "ownership_relations": [
@@ -1939,6 +1939,18 @@
         "end_date": null,
         "status": "active",
         "source": "293355412.Pdf"
+      },
+      {
+        "relation_id": "REL_DIR_46",
+        "type": "directorship",
+        "source": "Barend Thomas Nortje",
+        "target": "De Fay Fund Management",
+        "relationship": "director_of",
+        "appointment_date": "2007-07-17",
+        "evidence": [
+          "293338023-Director-BarendNortje.Pdf"
+        ],
+        "evidence_strength": "strong"
       }
     ],
     "membership_relations": [
@@ -2017,6 +2029,32 @@
         "end_date": null,
         "status": "active",
         "source": "293351612.Pdf"
+      },
+      {
+        "relation_id": "REL_MEM_47",
+        "type": "membership",
+        "source": "Barend Thomas Nortje",
+        "target": "Dermal Skin Treatments Cape Town",
+        "relationship": "member_of",
+        "ownership": "50%",
+        "appointment_date": "2006-03-16",
+        "evidence": [
+          "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
+        ],
+        "evidence_strength": "strong"
+      },
+      {
+        "relation_id": "REL_MEM_48",
+        "type": "membership",
+        "source": "Sharon Nortje",
+        "target": "Dermal Skin Treatments Cape Town",
+        "relationship": "member_of",
+        "ownership": "50%",
+        "appointment_date": "2006-03-16",
+        "evidence": [
+          "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
+        ],
+        "evidence_strength": "strong"
       }
     ],
     "former_relations": [
@@ -2059,6 +2097,92 @@
         "end_date": null,
         "status": "active",
         "source": "TheCosmeticsIndustry(2017-11-14).pdf"
+      },
+      {
+        "relation_id": "REL_SPOUSE_49",
+        "type": "spouse",
+        "source": "Barend Thomas Nortje",
+        "target": "Sharon Nortje",
+        "relationship": "married_to",
+        "evidence": [
+          "Same address: 9 Denbigh Road, Constantia"
+        ],
+        "evidence_strength": "moderate"
+      }
+    ],
+    "distributor_relations": [
+      {
+        "relation_id": "REL_DIST_41",
+        "type": "distributor",
+        "source": "Dermal Skin Treatments Cape Town",
+        "target": "RegimA Skin Treatments",
+        "relationship": "distributes_for",
+        "region": "Western Cape",
+        "status": "ACTIVE",
+        "evidence": [
+          "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
+        ],
+        "evidence_strength": "strong"
+      },
+      {
+        "relation_id": "REL_DIST_42",
+        "type": "distributor",
+        "source": "Kachan Marketing and Distribution",
+        "target": "RegimA Skin Treatments",
+        "relationship": "distributes_for",
+        "region": "Gauteng",
+        "status": "ACTIVE",
+        "evidence": [
+          "293340322-Company-KachanMarketingandDistribution.Pdf"
+        ],
+        "evidence_strength": "strong"
+      },
+      {
+        "relation_id": "REL_DIST_43",
+        "type": "distributor",
+        "source": "Dandelion SA",
+        "target": "RegimA Skin Treatments",
+        "relationship": "distributes_for",
+        "region": "Gauteng",
+        "status": "ACTIVE",
+        "evidence": [
+          "293342245-Company-DandelionSA.Pdf"
+        ],
+        "evidence_strength": "strong"
+      }
+    ],
+    "bond_relations": [
+      {
+        "relation_id": "REL_BOND_44",
+        "type": "bond",
+        "source": "RegimA Skin Treatments CC",
+        "target": "Karen Patricia Avnit",
+        "relationship": "bond_holder",
+        "property": "SS Forest Lodge 173, Unit 4",
+        "amount": "R3,110,000",
+        "registration_date": "2019-11-22",
+        "document": "SB48685/2019",
+        "evidence": [
+          "293344692-Property-KarenAvnit.Pdf",
+          "293347244-List-Deeds-SB48685-2019.Pdf"
+        ],
+        "evidence_strength": "conclusive",
+        "significance": "RegimA Skin Treatments providing financing to distributors"
+      }
+    ],
+    "property_relations": [
+      {
+        "relation_id": "REL_PROP_45",
+        "type": "property",
+        "source": "Karen Patricia Avnit",
+        "target": "SS Forest Lodge 173, Unit 4",
+        "relationship": "owns",
+        "purchase_date": "2006-06-05",
+        "purchase_price": "R1,100,000",
+        "evidence": [
+          "293344692-Property-KarenAvnit.Pdf"
+        ],
+        "evidence_strength": "strong"
       }
     ]
   }
