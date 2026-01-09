@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "19.0_ENHANCED_2026_01_09",
+    "version": "20.0_CIPC_ENHANCED_2026_01_09",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-01-09T05:36:21.408332",
-    "changes": "Enhanced evidence and ad-res-j7 references for 26 relations",
-    "total_relations": 75
+    "last_updated": "2026-01-09T06:56:17.171814",
+    "changes": "Added 10 new relations from CIPC WinDeed documents including address, directorship, and membership relations",
+    "total_relations": 85
   },
   "relations": {
     "ownership_relations": [
@@ -1754,6 +1754,150 @@
         "evidence_verified": "2026-01-09T05:36:21.408331",
         "confidence": 0.75,
         "evidence_strength": "moderate"
+      }
+    ],
+    "address_relations": [
+      {
+        "relation_id": "REL_ADDR_001",
+        "relation_type": "shares_postal_address",
+        "source_entity": "PERSON_015",
+        "target_entity": "ORG_001",
+        "description": "Alan Peter Louw uses PO Box 9477 Edenglen - same postal address as Faucitt companies",
+        "legal_significance": "Potential business connection between Louw network and Faucitt companies",
+        "evidence": [
+          "CIPC WinDeed Report 293350197 - Director search shows PO Box 9477 Edenglen",
+          "CIPC WinDeed Report 293348688 - RWD uses PO Box 9523 Edenglen (adjacent)"
+        ],
+        "evidence_strength": "moderate",
+        "requires_investigation": true,
+        "added_date": "2026-01-09T06:56:17.171814"
+      }
+    ],
+    "directorship_relations": [
+      {
+        "relation_id": "REL_DIR_015",
+        "relation_type": "director_of",
+        "source_entity": "PERSON_015",
+        "target_entity": "ORG_015",
+        "description": "Alan Peter Louw is director of ALOECO (SA)",
+        "appointment_date": "2019/10/22",
+        "evidence": [
+          "CIPC WinDeed Report 293350058"
+        ],
+        "evidence_strength": "strong",
+        "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "relation_id": "REL_DIR_016",
+        "relation_type": "director_of",
+        "source_entity": "PERSON_016",
+        "target_entity": "ORG_015",
+        "description": "Martin Carlo Rizzotto is director of ALOECO (SA)",
+        "appointment_date": "2019/10/22",
+        "evidence": [
+          "CIPC WinDeed Report 293350058"
+        ],
+        "evidence_strength": "strong",
+        "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "relation_id": "REL_DIR_017",
+        "relation_type": "director_of",
+        "source_entity": "PERSON_015",
+        "target_entity": "ORG_016",
+        "description": "Alan Peter Louw is director of Marlouw Group",
+        "appointment_date": "2019/12/04",
+        "evidence": [
+          "CIPC WinDeed Report 293351580"
+        ],
+        "evidence_strength": "strong",
+        "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "relation_id": "REL_DIR_018",
+        "relation_type": "director_of",
+        "source_entity": "PERSON_016",
+        "target_entity": "ORG_016",
+        "description": "Martin Carlo Rizzotto is director of Marlouw Group",
+        "appointment_date": "2019/12/04",
+        "evidence": [
+          "CIPC WinDeed Report 293351580"
+        ],
+        "evidence_strength": "strong",
+        "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "relation_id": "REL_DIR_019",
+        "relation_type": "director_of",
+        "source_entity": "PERSON_015",
+        "target_entity": "ORG_017",
+        "description": "Alan Peter Louw is director of Big Business 301",
+        "appointment_date": "2018/12/01",
+        "evidence": [
+          "CIPC WinDeed Report 293351589"
+        ],
+        "evidence_strength": "strong",
+        "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "relation_id": "REL_DIR_020",
+        "relation_type": "director_of",
+        "source_entity": "PERSON_016",
+        "target_entity": "ORG_017",
+        "description": "Martin Carlo Rizzotto is director of Big Business 301",
+        "appointment_date": "2018/12/01",
+        "evidence": [
+          "CIPC WinDeed Report 293351589"
+        ],
+        "evidence_strength": "strong",
+        "added_date": "2026-01-09T06:56:17.171814"
+      }
+    ],
+    "membership_relations": [
+      {
+        "relation_id": "REL_MEM_001",
+        "relation_type": "member_of",
+        "source_entity": "PERSON_015",
+        "target_entity": "ORG_018",
+        "description": "Alan Peter Louw is 51% member of Art of Buzztec (SA)",
+        "membership_percentage": 51,
+        "appointment_date": "2007/11/27",
+        "evidence": [
+          "CIPC WinDeed Report 293351595"
+        ],
+        "evidence_strength": "strong",
+        "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "relation_id": "REL_MEM_002",
+        "relation_type": "member_of",
+        "source_entity": "PERSON_016",
+        "target_entity": "ORG_018",
+        "description": "Martin Carlo Rizzotto is 49% member of Art of Buzztec (SA)",
+        "membership_percentage": 49,
+        "appointment_date": "2018/08/01",
+        "evidence": [
+          "CIPC WinDeed Report 293351595"
+        ],
+        "evidence_strength": "strong",
+        "added_date": "2026-01-09T06:56:17.171814"
+      }
+    ],
+    "former_relations": [
+      {
+        "relation_id": "REL_FORMER_001",
+        "relation_type": "former_director_of",
+        "source_entity": "PERSON_017",
+        "target_entity": "ORG_001",
+        "description": "Christian Gouws was initial director of RegimA Worldwide Distribution (shelf company)",
+        "appointment_date": "2011/03/11",
+        "resignation_date": "2011/03/10",
+        "additional_notes": "Resignation date before registration date indicates shelf company transfer",
+        "evidence": [
+          "CIPC WinDeed Report 293348688"
+        ],
+        "evidence_strength": "moderate",
+        "added_date": "2026-01-09T06:56:17.171814"
       }
     ]
   }

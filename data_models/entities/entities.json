@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "24.0_ENHANCED_2026_01_09",
+    "version": "25.0_CIPC_ENHANCED_2026_01_09",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-09T05:36:07.295000",
-    "changes": "Enhanced evidence strength and ad-res-j7 references for 7 entities",
-    "total_entities": 33
+    "last_updated": "2026-01-09T06:56:17.171814",
+    "changes": "Added 8 new persons and 4 new organizations from CIPC WinDeed documents",
+    "total_entities": 40
   },
   "entities": {
     "persons": [
@@ -596,6 +596,186 @@
           "civil": "HIGH",
           "criminal": "MEDIUM"
         }
+      },
+      {
+        "entity_id": "PERSON_015",
+        "name": "Alan Peter Louw",
+        "id_number": "5304275174085",
+        "date_of_birth": "1953/04/27",
+        "role": "external_director",
+        "agent_type": "unknown",
+        "involvement_events": 0,
+        "primary_actions": [],
+        "relationships": [
+          "director_of_ALOECO_SA",
+          "director_of_Marlouw_Group",
+          "director_of_Big_Business_301",
+          "member_of_Art_of_Buzztec"
+        ],
+        "additional_notes": "Uses PO Box 9477 Edenglen - same postal address as Faucitt companies. Potential business connection.",
+        "evidence": [
+          "CIPC WinDeed Report 293350197 - Director search",
+          "CIPC WinDeed Report 293350058 - ALOECO company",
+          "CIPC WinDeed Report 293351580 - Marlouw Group",
+          "CIPC WinDeed Report 293351589 - Big Business 301"
+        ],
+        "ad_res_j7_references": [
+          "evidence/cipc/293350197.pdf - Director search Alan Peter Louw",
+          "evidence/cipc/293350058.pdf - ALOECO (SA) company record"
+        ],
+        "evidence_strength": "moderate",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "properties": {
+          "current_properties": 4,
+          "previously_owned": 2,
+          "marital_status": "UNMARRIED"
+        },
+        "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "entity_id": "PERSON_016",
+        "name": "Martin Carlo Rizzotto",
+        "id_number": "6104075222083",
+        "date_of_birth": "1961/04/07",
+        "role": "external_director",
+        "agent_type": "unknown",
+        "involvement_events": 0,
+        "primary_actions": [],
+        "relationships": [
+          "director_of_ALOECO_SA",
+          "director_of_Marlouw_Group",
+          "director_of_Big_Business_301",
+          "member_of_Art_of_Buzztec"
+        ],
+        "additional_notes": "Co-director with Alan Peter Louw in multiple companies. Uses PO Box 9477 Edenglen.",
+        "evidence": [
+          "CIPC WinDeed Report 293350204 - Director search",
+          "CIPC WinDeed Report 293350058 - ALOECO company"
+        ],
+        "ad_res_j7_references": [
+          "evidence/cipc/293350204.pdf - Director search Martin Carlo Rizzotto"
+        ],
+        "evidence_strength": "moderate",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "entity_id": "PERSON_017",
+        "name": "Christian Gouws",
+        "id_number": "5908285147087",
+        "date_of_birth": "1959/08/28",
+        "role": "resigned_director",
+        "agent_type": "neutral",
+        "profession": "ATTORNEY",
+        "involvement_events": 0,
+        "primary_actions": [],
+        "relationships": [
+          "former_director_of_RWD_ZA"
+        ],
+        "additional_notes": "Attorney who was initial director of RegimA Worldwide Distribution, resigned 2011-03-10 (day before registration date - likely shelf company transfer).",
+        "evidence": [
+          "CIPC WinDeed Report 293348688 - RWD company record"
+        ],
+        "ad_res_j7_references": [
+          "evidence/cipc/293348688.pdf - RegimA Worldwide Distribution company record"
+        ],
+        "evidence_strength": "moderate",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "entity_id": "PERSON_018",
+        "name": "Lisa Clare Frost",
+        "id_number": "8304110055082",
+        "role": "resigned_member",
+        "agent_type": "neutral",
+        "involvement_events": 0,
+        "primary_actions": [],
+        "relationships": [
+          "former_member_of_Strategic_Logistics"
+        ],
+        "evidence": [
+          "CIPC WinDeed Report 293349762 - Strategic Logistics company record"
+        ],
+        "evidence_strength": "weak",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "entity_id": "PERSON_019",
+        "name": "Trevor David Stidston",
+        "id_number": "8304045205083",
+        "role": "resigned_member",
+        "agent_type": "neutral",
+        "involvement_events": 0,
+        "primary_actions": [],
+        "relationships": [
+          "former_member_of_Strategic_Logistics"
+        ],
+        "evidence": [
+          "CIPC WinDeed Report 293349762 - Strategic Logistics company record"
+        ],
+        "evidence_strength": "weak",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "entity_id": "PERSON_020",
+        "name": "Kerry-Anne Zwicky",
+        "id_number": "8909290060080",
+        "role": "resigned_member",
+        "agent_type": "neutral",
+        "involvement_events": 0,
+        "primary_actions": [],
+        "relationships": [
+          "former_member_of_Strategic_Logistics"
+        ],
+        "evidence": [
+          "CIPC WinDeed Report 293349762 - Strategic Logistics company record"
+        ],
+        "evidence_strength": "weak",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "entity_id": "PERSON_021",
+        "name": "Guillaume Jordaan",
+        "id_number": "6004305023083",
+        "date_of_birth": "1960/04/30",
+        "role": "resigned_director",
+        "agent_type": "neutral",
+        "involvement_events": 0,
+        "primary_actions": [],
+        "relationships": [
+          "former_director_of_Big_Business_301"
+        ],
+        "additional_notes": "Resigned 2018-12-01 from Big Business 301",
+        "evidence": [
+          "CIPC WinDeed Report 293351589 - Big Business 301 company record"
+        ],
+        "evidence_strength": "weak",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "entity_id": "PERSON_022",
+        "name": "Gary Ian Cay",
+        "id_number": "6102175658085",
+        "date_of_birth": "1961/02/17",
+        "role": "resigned_member",
+        "agent_type": "neutral",
+        "involvement_events": 0,
+        "primary_actions": [],
+        "relationships": [
+          "former_member_of_Art_of_Buzztec"
+        ],
+        "additional_notes": "Resigned 2007-11-27 from Art of Buzztec (SA)",
+        "evidence": [
+          "CIPC WinDeed Report 293351595 - Art of Buzztec company record"
+        ],
+        "evidence_strength": "weak",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814"
       }
     ],
     "organizations": [
@@ -1177,6 +1357,120 @@
         "evidence_strength": "moderate",
         "significance": "Establishes quantum and demonstrates ignored formal demand",
         "evidence_enhanced": "2025-12-28T05:36:36.077520"
+      },
+      {
+        "entity_id": "ORG_015",
+        "name": "ALOECO (SA)",
+        "registration_number": "2019/531306/07",
+        "enterprise_type": "PRIVATE COMPANY",
+        "status": "IN BUSINESS",
+        "registration_date": "2019/10/22",
+        "tax_number": "9521199845",
+        "region": "GAUTENG",
+        "principal_business": "NO RESTRICTIONS ON BUSINESS ACTIVITIES",
+        "registered_address": "15 HARRIER CRESCENT, DOUGLASDALE, BRYANSTON, GAUTENG, 2021",
+        "postal_address": "P O BOX 320, RANDBURG, 2125",
+        "directors": [
+          "Alan Peter Louw",
+          "Martin Carlo Rizzotto"
+        ],
+        "evidence": [
+          "CIPC WinDeed Report 293350028 - Company list",
+          "CIPC WinDeed Report 293350058 - Company details"
+        ],
+        "ad_res_j7_references": [
+          "evidence/cipc/293350058.pdf - ALOECO (SA) company record"
+        ],
+        "evidence_strength": "moderate",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "connection_to_case": "Directors use PO Box 9477 Edenglen - same as Faucitt companies",
+        "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "entity_id": "ORG_016",
+        "name": "Marlouw Group",
+        "registration_number": "2019/612808/07",
+        "enterprise_type": "PRIVATE COMPANY",
+        "status": "IN BUSINESS",
+        "registration_date": "2019/12/04",
+        "tax_number": "9312282230",
+        "region": "GAUTENG",
+        "registered_address": "15 HARRIER CRESCENT, DOUGLASDALE, BRYANSTON, 2021",
+        "directors": [
+          "Alan Peter Louw",
+          "Martin Carlo Rizzotto"
+        ],
+        "evidence": [
+          "CIPC WinDeed Report 293351580 - Company details"
+        ],
+        "ad_res_j7_references": [
+          "evidence/cipc/293351580.pdf - Marlouw Group company record"
+        ],
+        "evidence_strength": "moderate",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "entity_id": "ORG_017",
+        "name": "Big Business 301",
+        "registration_number": "2018/079703/07",
+        "enterprise_type": "PRIVATE COMPANY",
+        "status": "IN BUSINESS",
+        "registration_date": "2018/02/15",
+        "tax_number": "9291509231",
+        "principal_business": "BUSINESS ACTIVITIES NOT RESTRICTED",
+        "registered_address": "15 HARRIER CRESCENT, DOUGLASDALE, BRYANSTON, GAUTENG, 2191",
+        "postal_address": "PO BOX 320, RANDBURG, 2125",
+        "directors": [
+          "Alan Peter Louw",
+          "Martin Carlo Rizzotto"
+        ],
+        "former_directors": [
+          "Guillaume Jordaan"
+        ],
+        "evidence": [
+          "CIPC WinDeed Report 293351589 - Company details"
+        ],
+        "ad_res_j7_references": [
+          "evidence/cipc/293351589.pdf - Big Business 301 company record"
+        ],
+        "evidence_strength": "moderate",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "entity_id": "ORG_018",
+        "name": "Art of Buzztec (SA)",
+        "registration_number": "1995/001463/23",
+        "enterprise_type": "CLOSE CORPORATION",
+        "status": "IN BUSINESS",
+        "registration_date": "1995/01/19",
+        "tax_number": "9040379845",
+        "region": "GAUTENG",
+        "industry": "WHOLESALE AND RETAIL TRADE",
+        "principal_business": "INVESTMENT AND CONSULTING INCLUDING ALL RELATED PRODUCTS AND SERVICES",
+        "registered_address": "15 HARRIER CRESCENT, DOUGLASDALE, BRYANSTON, GAUTENG, 2021",
+        "postal_address": "P O BOX 320, RANDBURG, 2125",
+        "members": [
+          {
+            "name": "Alan Peter Louw",
+            "percentage": 51
+          },
+          {
+            "name": "Martin Carlo Rizzotto",
+            "percentage": 49
+          }
+        ],
+        "accounting_officer": "ANDREW J FRASER",
+        "evidence": [
+          "CIPC WinDeed Report 293351595 - Company details"
+        ],
+        "ad_res_j7_references": [
+          "evidence/cipc/293351595.pdf - Art of Buzztec company record"
+        ],
+        "evidence_strength": "moderate",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814"
       }
     ],
     "platforms": [

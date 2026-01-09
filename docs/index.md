@@ -8,7 +8,7 @@ title: Revenue Stream Hijacking Case 2025-137857
 **Last Updated:** 2026-01-09  
 **Evidence Repository:** [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)  
 **Hypergraph Integration:** [o9-org/LexRexHGNN](https://github.com/o9-org/LexRexHGNN)  
-**Data Models Version:** Entities v24.0, Relations v19.0, Events v22.0, Timeline v20.0
+**Data Models Version:** Entities v25.0, Relations v20.0, Events v23.0, Timeline v21.0
 
 ## Executive Summary
 
@@ -24,11 +24,11 @@ This documentation repository provides a comprehensively refined, evidence-based
 |---|---|
 | **Case Number** | 2025-137857 |
 | **Total Documented Losses** | **R10,269,727.90** |
-| **Total Events** | 77 |
-| **Entities Profiled** | 33 (14 persons, 14 organizations) |
-| **Relations Mapped** | 75 across 24 relation types |
+| **Total Events** | 82 |
+| **Entities Profiled** | 40 (22 persons, 18 organizations) |
+| **Relations Mapped** | 85 across 28 relation types |
 | **Evidence Files** | 496+ files in ad-res-j7 annexures |
-| **Timeline Span** | 2017-02-24 to 2025-10-23 |
+| **Timeline Span** | 1992-02-26 to 2025-10-23 |
 | **Criminal Threshold Events** | 46 events (95%+ burden of proof) |
 | **Civil Threshold Events** | 31 events (50%+ burden of proof) |
 
@@ -37,9 +37,9 @@ This documentation repository provides a comprehensively refined, evidence-based
 ## Navigation
 
 ### 📊 Data Models
-- **[Entities](data_models/)** - 33 entities with evidence strength ratings
-- **[Relations](data_models/)** - 75 mapped relations with legal significance
-- **[Events](events/)** - 77 timeline events with burden of proof analysis
+- **[Entities](data_models/)** - 40 entities with evidence strength ratings
+- **[Relations](data_models/)** - 85 mapped relations with legal significance
+- **[Events](events/)** - 82 timeline events with burden of proof analysis
 - **[Timeline](timeline.md)** - Interactive chronological timeline
 
 ### ⚖️ Legal Filings
@@ -49,6 +49,7 @@ This documentation repository provides a comprehensively refined, evidence-based
 
 ### 📁 Evidence Index
 - **[Evidence Index](evidence-index-enhanced.md)** - Comprehensive evidence catalog with ad-res-j7 references
+- **[CIPC Evidence 2021](cipc-evidence-2021.md)** - 18 CIPC WinDeed documents with company registrations and director searches
 - **[Application 1: Civil Response](application-1-civil-response.md)** - Civil case evidence mapping
 - **[Application 2: Criminal Case](application-2-criminal-case.md)** - Criminal case evidence mapping
 - **[Application 3: External Validation](application-3-external-validation.md)** - External validation evidence
@@ -87,13 +88,22 @@ This documentation repository provides a comprehensively refined, evidence-based
 
 ## Recent Updates
 
-**2026-01-09:**
+**2026-01-09 (Update 2):**
+- Added 8 new persons and 4 new organizations from 18 CIPC WinDeed documents
+- Added 10 new relations including address, directorship, and membership relations
+- Added 15 timeline entries covering company registrations 1992-2021
+- Added 5 new events from CIPC documents
+- Created comprehensive CIPC Evidence 2021 documentation page
+- Identified Louw-Rizzotto network with shared postal address (PO Box 9477 Edenglen)
+- Extended timeline back to 1992 (RegimA Skin Treatments founding)
+- Updated data models to v25.0 (entities), v20.0 (relations), v23.0 (events), v21.0 (timeline)
+
+**2026-01-09 (Update 1):**
 - Enhanced 7 entities with stronger evidence references and conclusive ratings
 - Improved 26 relations with additional evidence and ad-res-j7 cross-references
 - Enhanced 49 events with comprehensive evidence documentation
 - Updated 17 timeline entries with key actors and evidence references
 - Refined all legal filings (CIPC, POPIA, NPA) with latest evidence standards
-- Updated data models to v24.0 (entities), v19.0 (relations), v22.0 (events), v20.0 (timeline)
 
 **2026-01-08:**
 - Created o9-org/LexRexHGNN repository for multi-repo hypergraph integration

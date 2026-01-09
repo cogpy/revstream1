@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "22.0_ENHANCED_2026_01_09",
+    "version": "23.0_CIPC_ENHANCED_2026_01_09",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "total_events": 77,
+    "total_events": 82,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-01-09T05:36:34.747074",
-    "changes": "Enhanced evidence and ad-res-j7 references for 49 events",
+    "last_updated": "2026-01-09T06:57:36.207479",
+    "changes": "Added 5 events from CIPC WinDeed documents",
     "phase_statistics": {
       "PHASE_1": 25,
       "PHASE_2": 4,
@@ -3273,6 +3273,119 @@
         "PERSON_005",
         "PERSON_004"
       ]
+    },
+    {
+      "event_id": "EVENT_CIPC_001",
+      "date": "1992-02-26",
+      "event_type": "company_formation",
+      "title": "RegimA Skin Treatments CC Formation",
+      "description": "Original RegimA business entity formed as Close Corporation. Peter Faucitt as founding member.",
+      "actors": [
+        "PERSON_001"
+      ],
+      "entities": [
+        "ORG_002"
+      ],
+      "evidence": [
+        "CIPC WinDeed Report 293349755"
+      ],
+      "burden_of_proof": "verified_cipc_record",
+      "criminal_threshold": false,
+      "civil_threshold": false,
+      "source_document": "CIPC WinDeed 2021-11-19",
+      "added_date": "2026-01-09T06:57:36.207479"
+    },
+    {
+      "event_id": "EVENT_CIPC_002",
+      "date": "2011-03-11",
+      "event_type": "shelf_company_acquisition",
+      "title": "RWD Shelf Company Acquisition",
+      "description": "RegimA Worldwide Distribution acquired as shelf company (formerly Clear Creek Trading 139). Attorney Christian Gouws resigned same day - indicating pre-arranged shelf company transfer.",
+      "actors": [
+        "PERSON_001",
+        "PERSON_004",
+        "PERSON_005",
+        "PERSON_017"
+      ],
+      "entities": [
+        "ORG_001"
+      ],
+      "evidence": [
+        "CIPC WinDeed Report 293348688"
+      ],
+      "burden_of_proof": "verified_cipc_record",
+      "criminal_threshold": false,
+      "civil_threshold": false,
+      "additional_notes": "Resignation date (2011-03-10) before registration date (2011-03-11) indicates shelf company transfer",
+      "source_document": "CIPC WinDeed 2021-11-19",
+      "added_date": "2026-01-09T06:57:36.207479"
+    },
+    {
+      "event_id": "EVENT_CIPC_003",
+      "date": "2016-07-19",
+      "event_type": "ownership_change",
+      "title": "Strategic Logistics Ownership Restructure",
+      "description": "Jacqueline and Peter Faucitt added as 33% members each to Strategic Logistics CC, changing the ownership structure.",
+      "actors": [
+        "PERSON_001",
+        "PERSON_004"
+      ],
+      "entities": [
+        "ORG_004"
+      ],
+      "evidence": [
+        "CIPC WinDeed Report 293349762"
+      ],
+      "burden_of_proof": "verified_cipc_record",
+      "criminal_threshold": false,
+      "civil_threshold": false,
+      "source_document": "CIPC WinDeed 2021-11-19",
+      "added_date": "2026-01-09T06:57:36.207479"
+    },
+    {
+      "event_id": "EVENT_CIPC_004",
+      "date": "2017-04-04",
+      "event_type": "company_formation",
+      "title": "Daniel's 2017 Company Formation Spree",
+      "description": "Daniel James Faucitt registered multiple companies in April-May 2017: ReZonance, RegimA Medic, RegimA Zone Academy, RegimA SA, RegimA Zone, RegimA SpaZone.",
+      "actors": [
+        "PERSON_005"
+      ],
+      "entities": [],
+      "evidence": [
+        "CIPC WinDeed Report 293349141"
+      ],
+      "burden_of_proof": "verified_cipc_record",
+      "criminal_threshold": false,
+      "civil_threshold": false,
+      "significance": "Establishes Daniel's independent business development efforts",
+      "source_document": "CIPC WinDeed 2021-11-19",
+      "added_date": "2026-01-09T06:57:36.207479"
+    },
+    {
+      "event_id": "EVENT_CIPC_005",
+      "date": "2019-10-22",
+      "event_type": "potential_connection",
+      "title": "ALOECO Registration with Shared Address",
+      "description": "ALOECO (SA) registered by Alan Peter Louw and Martin Carlo Rizzotto. Directors use PO Box 9477 Edenglen - same postal address area as Faucitt companies (PO Box 9523 Edenglen).",
+      "actors": [
+        "PERSON_015",
+        "PERSON_016"
+      ],
+      "entities": [
+        "ORG_015"
+      ],
+      "evidence": [
+        "CIPC WinDeed Report 293350058",
+        "CIPC WinDeed Report 293348688"
+      ],
+      "burden_of_proof": "verified_cipc_record",
+      "criminal_threshold": false,
+      "civil_threshold": false,
+      "significance": "Potential business connection requiring investigation",
+      "requires_investigation": true,
+      "source_document": "CIPC WinDeed 2021-11-19",
+      "added_date": "2026-01-09T06:57:36.207479"
     }
   ]
 }
