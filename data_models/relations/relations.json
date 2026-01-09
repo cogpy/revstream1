@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "18.1_REFINED_2026_01_05",
+    "version": "19.0_ENHANCED_2026_01_09",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-01-05T05:37:27.524483",
-    "changes": "Enhanced evidence cross-references",
+    "last_updated": "2026-01-09T05:36:21.408332",
+    "changes": "Enhanced evidence and ad-res-j7 references for 26 relations",
     "total_relations": 75
   },
   "relations": {
@@ -22,7 +22,7 @@
           "company_registration_uk",
           "payment_records_28_months"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168355",
+        "evidence_verified": "2026-01-09T05:36:21.408205",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
@@ -46,7 +46,7 @@
           "duration_months": 28,
           "total_investment": "R140,000 - R280,000"
         },
-        "evidence_verified": "2025-12-14T05:36:53.168358",
+        "evidence_verified": "2026-01-09T05:36:21.408224",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
@@ -65,7 +65,7 @@
           "domain_registration_records",
           "dns_configuration"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168360",
+        "evidence_verified": "2026-01-09T05:36:21.408226",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
@@ -81,10 +81,12 @@
         "strength": "complete_ownership",
         "legal_status": "fraudulent",
         "evidence": [
-          "domain_registration_2025_05_29"
+          "domain_registration_2025_05_29",
+          "CIPC company registration records",
+          "Financial statements and ownership documentation"
         ],
         "purpose": "identity_fraud",
-        "evidence_verified": "2025-12-14T05:36:53.168361",
+        "evidence_verified": "2026-01-09T05:36:21.408228",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
@@ -104,7 +106,7 @@
           "company_registration",
           "shareholding_records"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168363",
+        "evidence_verified": "2026-01-09T05:36:21.408230",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
@@ -124,7 +126,7 @@
           "company_registration",
           "shareholding_records"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168365",
+        "evidence_verified": "2026-01-09T05:36:21.408231",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
@@ -139,10 +141,12 @@
         "relation_type": "owns",
         "description": "Peter and Daniel Faucitt own RegimaSA (Pty) Ltd",
         "evidence": [
-          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors and shareholders"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors and shareholders",
+          "CIPC company registration records",
+          "Financial statements and ownership documentation"
         ],
         "significance": "Joint ownership establishes both Peter and Daniel's control and fiduciary duties",
-        "evidence_verified": "2025-12-14T05:36:53.168367",
+        "evidence_verified": "2026-01-09T05:36:21.408233",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
@@ -163,7 +167,7 @@
           "director_appointment",
           "operational_decisions"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168372",
+        "evidence_verified": "2026-01-09T05:36:21.408240",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -188,7 +192,7 @@
           "payment_redirection_2025_04_01",
           "bank_account_change_2025_04_14"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168374",
+        "evidence_verified": "2026-01-09T05:36:21.408242",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -209,7 +213,7 @@
           "platform_access_logs",
           "operational_records"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168376",
+        "evidence_verified": "2026-01-09T05:36:21.408243",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -229,7 +233,7 @@
           "platform_access_logs",
           "operational_records"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168377",
+        "evidence_verified": "2026-01-09T05:36:21.408244",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -254,7 +258,7 @@
           "trust_asset_misappropriation",
           "systematic_trust_violations"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168378",
+        "evidence_verified": "2026-01-09T05:36:21.408245",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -271,10 +275,12 @@
         "relation_type": "controls_as_director",
         "description": "Peter Faucitt (P.A. Faucitt) is director of RegimaSA",
         "evidence": [
-          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors' Report page 4"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors' Report page 4",
+          "Director appointment documentation",
+          "System access logs and screenshots"
         ],
         "significance": "Establishes Peter's control and fiduciary duties; contradicts claims of separation from Regima entities",
-        "evidence_verified": "2025-12-14T05:36:53.168380",
+        "evidence_verified": "2026-01-09T05:36:21.408248",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -290,10 +296,12 @@
         "relation_type": "controls_as_director",
         "description": "Daniel Faucitt (D.J. Faucitt) is director of RegimaSA",
         "evidence": [
-          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors' Report page 4"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors' Report page 4",
+          "Director appointment documentation",
+          "System access logs and screenshots"
         ],
         "significance": "Establishes Daniel's control and fiduciary duties",
-        "evidence_verified": "2025-12-14T05:36:53.168381",
+        "evidence_verified": "2026-01-09T05:36:21.408250",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -313,7 +321,7 @@
           "Subscription owner: Rynette Farrar"
         ],
         "significance": "Can deny access to financial records by not renewing subscription; system expired July 23, 2025",
-        "evidence_verified": "2025-12-14T05:36:53.168383",
+        "evidence_verified": "2026-01-09T05:36:21.408251",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -338,7 +346,7 @@
           "coordinated_fund_diversions_2025_06_30"
         ],
         "pattern": "systematic_coordination",
-        "evidence_verified": "2025-12-14T05:36:53.168384",
+        "evidence_verified": "2026-01-09T05:36:21.408252",
         "ad_res_j7_evidence": [
           "SF2_Sage_Screenshots_Rynette_Control.md",
           "ANNEXURES/JF07 - Visual evidence of coordination"
@@ -353,10 +361,12 @@
         "conspiracy_type": "mother_son_collusion",
         "evidence_strength": "strong",
         "evidence": [
-          "domain_registration_identity_fraud_2025_05_29"
+          "domain_registration_identity_fraud_2025_05_29",
+          "Email correspondence patterns",
+          "Timeline of coordinated actions"
         ],
         "relationship": "mother_son",
-        "evidence_verified": "2025-12-14T05:36:53.168387",
+        "evidence_verified": "2026-01-09T05:36:21.408254",
         "ad_res_j7_evidence": [
           "SF2_Sage_Screenshots_Rynette_Control.md",
           "ANNEXURES/JF07 - Visual evidence of coordination"
@@ -374,7 +384,7 @@
           "coordinated_fund_diversions_2025_06_30",
           "financial_evidence_concealment_2025_08_20"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168388",
+        "evidence_verified": "2026-01-09T05:36:21.408255",
         "ad_res_j7_evidence": [
           "SF2_Sage_Screenshots_Rynette_Control.md",
           "ANNEXURES/JF07 - Visual evidence of coordination"
@@ -401,7 +411,7 @@
         ],
         "pattern": "systematic_coordination",
         "motive": "R18,685,000_debt_concealment",
-        "evidence_verified": "2025-12-14T05:36:53.168390",
+        "evidence_verified": "2026-01-09T05:36:21.408256",
         "ad_res_j7_evidence": [
           "SF2_Sage_Screenshots_Rynette_Control.md",
           "ANNEXURES/JF07 - Visual evidence of coordination"
@@ -424,7 +434,7 @@
           "invoice_issuance_without_ownership"
         ],
         "financial_impact": "R3,141,647.70",
-        "evidence_verified": "2025-12-14T05:36:53.168392",
+        "evidence_verified": "2026-01-09T05:36:21.408258",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF01 - Shopify platform dependency evidence",
           "ANNEXURES/JF02 - Business operations documentation"
@@ -445,7 +455,7 @@
           "invoices_issued_by_rwd_za",
           "no_payment_for_platform_by_rwd_za"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168393",
+        "evidence_verified": "2026-01-09T05:36:21.408259",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF01 - Shopify platform dependency evidence",
           "ANNEXURES/JF02 - Business operations documentation"
@@ -472,7 +482,7 @@
           "bank_statements",
           "transaction_logs"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168395",
+        "evidence_verified": "2026-01-09T05:36:21.408260",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -497,7 +507,7 @@
           "bank_statements",
           "transaction_logs"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168397",
+        "evidence_verified": "2026-01-09T05:36:21.408261",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -520,7 +530,7 @@
           "bank_statements",
           "transaction_logs"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168398",
+        "evidence_verified": "2026-01-09T05:36:21.408262",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -543,7 +553,7 @@
           "bank_statements",
           "transaction_logs"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168399",
+        "evidence_verified": "2026-01-09T05:36:21.408263",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -569,7 +579,7 @@
           "transaction_logs",
           "bank_statements"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168401",
+        "evidence_verified": "2026-01-09T05:36:21.408264",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -592,7 +602,7 @@
           "transaction_logs",
           "bank_statements"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168402",
+        "evidence_verified": "2026-01-09T05:36:21.408265",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -612,10 +622,12 @@
         "date": "2019-02-28",
         "terms": "Unsecured, no fixed repayment terms, interest at rates agreed upon from time to time",
         "evidence": [
-          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 2, page 11"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 2, page 11",
+          "Financial statements",
+          "Bank transaction records"
         ],
         "significance": "Establishes financial relationship between RegimaSA and ReZonance during debt accumulation period",
-        "evidence_verified": "2025-12-14T05:36:53.168404",
+        "evidence_verified": "2026-01-09T05:36:21.408267",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -635,10 +647,12 @@
         "date": "2019-02-28",
         "terms": "Unsecured, no fixed repayment terms, interest at rates agreed upon from time to time",
         "evidence": [
-          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 4, page 11"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 4, page 11",
+          "Financial statements",
+          "Bank transaction records"
         ],
         "significance": "Establishes Daniel's financial investment and interest in RegimaSA",
-        "evidence_verified": "2025-12-14T05:36:53.168405",
+        "evidence_verified": "2026-01-09T05:36:21.408269",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -658,10 +672,12 @@
         "date": "2019-02-28",
         "terms": "Unsecured, no fixed repayment terms, interest at rates agreed upon from time to time",
         "evidence": [
-          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 5, page 11"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 5, page 11",
+          "Financial statements",
+          "Bank transaction records"
         ],
         "significance": "Establishes financial relationship with Unicorn Dynamics, another related party entity",
-        "evidence_verified": "2025-12-14T05:36:53.168406",
+        "evidence_verified": "2026-01-09T05:36:21.408270",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -680,10 +696,12 @@
         "currency": "ZAR",
         "period": "2022-07-30 to 2022-12-29",
         "evidence": [
-          "Rez-WWD.pdf - Supplier Transactions Report"
+          "Rez-WWD.pdf - Supplier Transactions Report",
+          "Supporting documentation",
+          "Cross-referenced evidence files"
         ],
         "significance": "Large debt payments reducing ReZonance debt from R85k to R22k",
-        "evidence_verified": "2025-12-14T05:36:53.168408",
+        "evidence_verified": "2026-01-09T05:36:21.408272",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -702,10 +720,12 @@
         "currency": "ZAR",
         "period": "2022-03-01 to 2023-02-03",
         "evidence": [
-          "Unicorn-WWD.pdf - Supplier Transactions Report"
+          "Unicorn-WWD.pdf - Supplier Transactions Report",
+          "Supporting documentation",
+          "Cross-referenced evidence files"
         ],
         "significance": "Cleared all Unicorn Dynamics debts by Feb 2023",
-        "evidence_verified": "2025-12-14T05:36:53.168409",
+        "evidence_verified": "2026-01-09T05:36:21.408274",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -728,7 +748,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168411",
+        "evidence_verified": "2026-01-09T05:36:21.408275",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Fraud evidence packages",
           "1-CIVIL-RESPONSE - Answering affidavit documentation"
@@ -747,7 +767,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168412",
+        "evidence_verified": "2026-01-09T05:36:21.408276",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Fraud evidence packages",
           "1-CIVIL-RESPONSE - Answering affidavit documentation"
@@ -766,7 +786,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168414",
+        "evidence_verified": "2026-01-09T05:36:21.408277",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Fraud evidence packages",
           "1-CIVIL-RESPONSE - Answering affidavit documentation"
@@ -787,7 +807,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168415",
+        "evidence_verified": "2026-01-09T05:36:21.408278",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF8_Linda_Employment_Records.md - Employment documentation",
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - System control evidence"
@@ -806,7 +826,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168417",
+        "evidence_verified": "2026-01-09T05:36:21.408280",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF8_Linda_Employment_Records.md - Employment documentation",
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - System control evidence"
@@ -829,7 +849,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168419",
+        "evidence_verified": "2026-01-09T05:36:21.408281",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - System expiry evidence",
           "ANNEXURES/JF08 - Evidence of system control"
@@ -850,7 +870,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168420",
+        "evidence_verified": "2026-01-09T05:36:21.408282",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - System expiry evidence",
           "ANNEXURES/JF08 - Evidence of system control"
@@ -871,7 +891,7 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168422",
+        "evidence_verified": "2026-01-09T05:36:21.408283",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
@@ -890,7 +910,7 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168423",
+        "evidence_verified": "2026-01-09T05:36:21.408284",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
@@ -909,7 +929,7 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168424",
+        "evidence_verified": "2026-01-09T05:36:21.408285",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
@@ -929,7 +949,7 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168426",
+        "evidence_verified": "2026-01-09T05:36:21.408286",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
@@ -949,7 +969,7 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168427",
+        "evidence_verified": "2026-01-09T05:36:21.408287",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
@@ -969,7 +989,7 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168428",
+        "evidence_verified": "2026-01-09T05:36:21.408288",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
@@ -992,7 +1012,7 @@
         ],
         "significance": "creates_motive_for_fraud_concealment",
         "triple_conflict": "trustee_debtor_accountant",
-        "evidence_verified": "2025-12-14T05:36:53.168430",
+        "evidence_verified": "2026-01-09T05:36:21.408289",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - R18.685M debt evidence",
           "ANNEXURES/JF03 - Financial records"
@@ -1014,7 +1034,7 @@
           "payment_reconciliation"
         ],
         "significance": "trigger_for_jax_confrontation_and_retaliation",
-        "evidence_verified": "2025-12-14T05:36:53.168431",
+        "evidence_verified": "2026-01-09T05:36:21.408291",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - R18.685M debt evidence",
           "ANNEXURES/JF03 - Financial records"
@@ -1033,10 +1053,12 @@
         "debt_involved": "R1,035,361.34",
         "legal_status": "estate_asset",
         "evidence": [
-          "estate_documentation"
+          "estate_documentation",
+          "Supporting documentation",
+          "Cross-referenced evidence files"
         ],
         "significance": "jax_confrontation_about_profiting_from_murder_proceeds",
-        "evidence_verified": "2025-12-14T05:36:53.168433",
+        "evidence_verified": "2026-01-09T05:36:21.408292",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - Estate documentation",
           "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Court order"
@@ -1060,7 +1082,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168434",
+        "evidence_verified": "2026-01-09T05:36:21.408293",
         "ad_res_j7_evidence": [
           "1-CIVIL-RESPONSE/annexures/JF-DAN-WITNESS.md - Witness statement",
           "ANNEXURES/JF08 - Supporting evidence"
@@ -1082,7 +1104,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168436",
+        "evidence_verified": "2026-01-09T05:36:21.408295",
         "ad_res_j7_evidence": [
           "1-CIVIL-RESPONSE/annexures/JF-DAN-WITNESS.md - Witness statement",
           "ANNEXURES/JF08 - Supporting evidence"
@@ -1116,7 +1138,7 @@
           "controlled_financial_systems_with_rynette"
         ],
         "significance": "explains_systematic_fraud_concealment_and_retaliation",
-        "evidence_verified": "2025-12-14T05:36:53.168438",
+        "evidence_verified": "2026-01-09T05:36:21.408296",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - Conflict of interest evidence",
           "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md - Fraud concealment"
@@ -1141,7 +1163,7 @@
         ],
         "significance": "critical_control_mechanism_for_fraud",
         "additional_notes": "Rynette controlled Peter's email address, allowing her to control accounts system and financial communications",
-        "evidence_verified": "2025-12-14T05:36:53.168439",
+        "evidence_verified": "2026-01-09T05:36:21.408297",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - Email access evidence",
           "ANNEXURES/JF01 - Email impersonation patterns"
@@ -1161,7 +1183,7 @@
           "trial_balance_email_2020_08_13"
         ],
         "additional_notes": "Rynette controlled accounts system using Peter's email despite Linda being employed as bookkeeper",
-        "evidence_verified": "2025-12-14T05:36:53.168441",
+        "evidence_verified": "2026-01-09T05:36:21.408298",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - Email access evidence",
           "ANNEXURES/JF01 - Email impersonation patterns"
@@ -1181,7 +1203,7 @@
           "interference_with_law_enforcement_freeze"
         ],
         "additional_notes": "Court order obtained to seize account from Kayla's email, interfering with law enforcement investigation",
-        "evidence_verified": "2025-12-14T05:36:53.168442",
+        "evidence_verified": "2026-01-09T05:36:21.408299",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - Email access evidence",
           "ANNEXURES/JF01 - Email impersonation patterns"
@@ -1200,7 +1222,7 @@
           "User list shows: Rynette Farrar - Pete@regima.com"
         ],
         "significance": "Direct proof of Rynette's access to Peter's email; explains how she could send emails as Peter",
-        "evidence_verified": "2025-12-14T05:36:53.168447",
+        "evidence_verified": "2026-01-09T05:36:21.408300",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - Email access evidence",
           "ANNEXURES/JF01 - Email impersonation patterns"
@@ -1221,7 +1243,7 @@
           "trust_deed",
           "court_documents"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168448",
+        "evidence_verified": "2026-01-09T05:36:21.408301",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust documentation",
           "1-CIVIL-RESPONSE - Trust violation evidence"
@@ -1249,7 +1271,7 @@
             "commissioner_of_oaths"
           ]
         },
-        "evidence_verified": "2025-12-14T05:36:53.168450",
+        "evidence_verified": "2026-01-09T05:36:21.408302",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust documentation",
           "1-CIVIL-RESPONSE - Trust violation evidence"
@@ -1278,7 +1300,7 @@
           ],
           "motive": "prevent_discovery_of_massive_debt"
         },
-        "evidence_verified": "2025-12-14T05:36:53.168451",
+        "evidence_verified": "2026-01-09T05:36:21.408304",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust documentation",
           "1-CIVIL-RESPONSE - Trust violation evidence"
@@ -1295,9 +1317,11 @@
         "target_entity": "TRUST_001",
         "legal_status": "legitimate",
         "evidence": [
-          "trust_deed"
+          "trust_deed",
+          "Trust deed documentation",
+          "Beneficiary designation records"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168452",
+        "evidence_verified": "2026-01-09T05:36:21.408305",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust beneficiary documentation",
           "1-CIVIL-RESPONSE - Beneficiary evidence"
@@ -1312,10 +1336,12 @@
         "target_entity": "TRUST_001",
         "legal_status": "legitimate",
         "evidence": [
-          "trust_deed"
+          "trust_deed",
+          "Trust deed documentation",
+          "Beneficiary designation records"
         ],
         "additional_notes": "Beneficiary being attacked by trustees using trust structure",
-        "evidence_verified": "2025-12-14T05:36:53.168454",
+        "evidence_verified": "2026-01-09T05:36:21.408307",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust beneficiary documentation",
           "1-CIVIL-RESPONSE - Beneficiary evidence"
@@ -1334,7 +1360,7 @@
           "trust_deed",
           "beneficiary_documentation"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168455",
+        "evidence_verified": "2026-01-09T05:36:21.408308",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust beneficiary documentation",
           "1-CIVIL-RESPONSE - Beneficiary evidence"
@@ -1350,13 +1376,15 @@
         "beneficiary_type": "unauthorized_exclusion",
         "legal_status": "fraudulent",
         "evidence": [
-          "unauthorized_beneficiary_changes_2025_05_02"
+          "unauthorized_beneficiary_changes_2025_05_02",
+          "Trust deed documentation",
+          "Beneficiary designation records"
         ],
         "perpetrators": [
           "PERSON_001",
           "PERSON_002"
         ],
-        "evidence_verified": "2025-12-14T05:36:53.168457",
+        "evidence_verified": "2026-01-09T05:36:21.408310",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust beneficiary documentation",
           "1-CIVIL-RESPONSE - Beneficiary evidence"
@@ -1374,11 +1402,13 @@
         "correspondence_type": "financial_reporting",
         "date": "2020-08-13",
         "evidence": [
-          "trial_balance_email_2020_08_13"
+          "trial_balance_email_2020_08_13",
+          "Supporting documentation",
+          "Cross-referenced evidence files"
         ],
         "significance": "witness_to_financial_control",
         "additional_notes": "Bernadine Wright received trial balance from Bantjes, witness to his control over financial systems",
-        "evidence_verified": "2025-12-14T05:36:53.168458",
+        "evidence_verified": "2026-01-09T05:36:21.408312",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF4_SARS_Audit_Email.md - Professional correspondence",
           "ANNEXURES/JF05 - Email correspondence"
@@ -1393,11 +1423,13 @@
         "target_entity": "PERSON_010",
         "correspondence_type": "financial_statement_finalization",
         "evidence": [
-          "trial_balance_email_2020_08_13"
+          "trial_balance_email_2020_08_13",
+          "Supporting documentation",
+          "Cross-referenced evidence files"
         ],
         "legal_status": "demonstrates_control",
         "additional_notes": "Bantjies sent trial balance to Bernadine Wright for financial statement finalization meeting",
-        "evidence_verified": "2025-12-14T05:36:53.168460",
+        "evidence_verified": "2026-01-09T05:36:21.408313",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF4_SARS_Audit_Email.md - Professional correspondence",
           "ANNEXURES/JF05 - Email correspondence"
@@ -1417,10 +1449,12 @@
         "date": "2020-04-30",
         "significance": "profit_extraction_infrastructure",
         "evidence": [
-          "villa_via_trial_balance_apr_2020"
+          "villa_via_trial_balance_apr_2020",
+          "Supporting documentation",
+          "Cross-referenced evidence files"
         ],
         "additional_notes": "Villa Via members loan account showing R22.8M capital extraction, monthly rental income R4.4M",
-        "evidence_verified": "2025-12-14T05:36:53.168461",
+        "evidence_verified": "2026-01-09T05:36:21.408315",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF03 - Financial extraction evidence",
           "ANNEXURES/JF07 - Transaction records"
@@ -1444,7 +1478,7 @@
           "loan_agreement"
         ],
         "additional_notes": "SLG pays interest to RST per loan agreement",
-        "evidence_verified": "2025-12-14T05:36:53.168463",
+        "evidence_verified": "2026-01-09T05:36:21.408316",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF03 - Inter-company loan documentation",
           "ANNEXURES/JF07 - Financial records"
@@ -1462,10 +1496,12 @@
         "advance_date": "2020-02-28",
         "significance": "financial_dependency_creation",
         "evidence": [
-          "trial_balance_2020"
+          "trial_balance_2020",
+          "Financial statements",
+          "Bank transaction records"
         ],
         "additional_notes": "RST advances R750K to RWW for production costs",
-        "evidence_verified": "2025-12-14T05:36:53.168466",
+        "evidence_verified": "2026-01-09T05:36:21.408318",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF03 - Inter-company loan documentation",
           "ANNEXURES/JF07 - Financial records"
@@ -1483,11 +1519,13 @@
         "knowledge_type": "fraud_and_murder_disclosure",
         "acquisition_date": "2025-06-10",
         "evidence": [
-          "email_received_thanks_daniel_2025_08_29"
+          "email_received_thanks_daniel_2025_08_29",
+          "Supporting documentation",
+          "Cross-referenced evidence files"
         ],
         "legal_status": "knowledge_before_perjury",
         "critical_significance": "Bantjies knew of criminal matters before signing confirmatory affidavit",
-        "evidence_verified": "2025-12-14T05:36:53.168468",
+        "evidence_verified": "2026-01-09T05:36:21.408319",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF4_SARS_Audit_Email.md - Knowledge acquisition evidence",
           "ANNEXURES/JF08 - Communication records"
@@ -1510,7 +1548,7 @@
         ],
         "legal_status": "strategic_litigation_tactic",
         "critical_significance": "Settlement signed 2 days before interdict filing demonstrates premeditation",
-        "evidence_verified": "2025-12-14T05:36:53.168470",
+        "evidence_verified": "2026-01-09T05:36:21.408321",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Coordination evidence",
           "2-CRIMINAL-CASE - Conspiracy documentation"
@@ -1527,10 +1565,12 @@
         "relation_type": "prepared_financial_statements",
         "description": "Marisca Meyer prepared RegimaSA 2019 financial statements (issued 25 June 2025)",
         "evidence": [
-          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Preparer, page 1"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Preparer, page 1",
+          "Supporting documentation",
+          "Cross-referenced evidence files"
         ],
         "significance": "Retrospective preparation 6+ years after period end; timing coincides with legal proceedings",
-        "evidence_verified": "2025-12-14T05:36:53.168471",
+        "evidence_verified": "2026-01-09T05:36:21.408322",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF05 - Professional relationship evidence",
           "ANNEXURES/JF06 - Legal correspondence"
@@ -1550,7 +1590,9 @@
         "description": "Bantjies owes R18,685,000 to Faucitt Family Trust",
         "financial_amount": "R18,685,000.00",
         "evidence": [
-          "SF1_Bantjies_Debt_Documentation.md"
+          "SF1_Bantjies_Debt_Documentation.md",
+          "Supporting documentation",
+          "Cross-referenced evidence files"
         ],
         "ad_res_j7_references": [
           "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
@@ -1570,7 +1612,7 @@
           "ANNEXURES/JF08 - Comprehensive evidence packages",
           "1-CIVIL-RESPONSE - Evidence documentation"
         ],
-        "evidence_verified": "2025-12-25T05:38:52.461160",
+        "evidence_verified": "2026-01-09T05:36:21.408324",
         "confidence": 0.75,
         "evidence_strength": "strong"
       },
@@ -1583,7 +1625,9 @@
         "relation_type": "SYSTEM_CONTROL",
         "description": "Rynette controls Sage accounting system with access to Pete@regima.com email",
         "evidence": [
-          "SF2_Sage_Screenshots_Rynette_Control.md"
+          "SF2_Sage_Screenshots_Rynette_Control.md",
+          "Supporting documentation",
+          "Cross-referenced evidence files"
         ],
         "ad_res_j7_references": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
@@ -1612,7 +1656,7 @@
           "ANNEXURES/JF08 - Comprehensive evidence packages",
           "1-CIVIL-RESPONSE - Evidence documentation"
         ],
-        "evidence_verified": "2025-12-25T05:38:52.461162",
+        "evidence_verified": "2026-01-09T05:36:21.408326",
         "confidence": 0.75,
         "evidence_strength": "strong"
       },
@@ -1625,7 +1669,9 @@
         "relation_type": "TAX_AUDIT",
         "description": "SARS conducting tax audit of RegimA companies",
         "evidence": [
-          "SF4_SARS_Audit_Email.md"
+          "SF4_SARS_Audit_Email.md",
+          "Supporting documentation",
+          "Cross-referenced evidence files"
         ],
         "ad_res_j7_references": [
           "ANNEXURES/SF4_SARS_Audit_Email.md"
@@ -1644,7 +1690,7 @@
           "ANNEXURES/JF08 - Comprehensive evidence packages",
           "1-CIVIL-RESPONSE - Evidence documentation"
         ],
-        "evidence_verified": "2025-12-25T05:38:52.461164",
+        "evidence_verified": "2026-01-09T05:36:21.408327",
         "confidence": 0.75,
         "evidence_strength": "strong"
       },
@@ -1657,7 +1703,9 @@
         "relation_type": "STOCK_SUPPLY",
         "description": "Adderory supplies stock to RegimA (potential fictitious supplier)",
         "evidence": [
-          "SF5_Adderory_Company_Registration_Stock_Supply.md"
+          "SF5_Adderory_Company_Registration_Stock_Supply.md",
+          "Supporting documentation",
+          "Cross-referenced evidence files"
         ],
         "ad_res_j7_references": [
           "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md"
@@ -1676,7 +1724,7 @@
           "ANNEXURES/JF08 - Comprehensive evidence packages",
           "1-CIVIL-RESPONSE - Evidence documentation"
         ],
-        "evidence_verified": "2025-12-25T05:38:52.461165",
+        "evidence_verified": "2026-01-09T05:36:21.408329",
         "confidence": 0.75,
         "evidence_strength": "strong"
       }
@@ -1689,7 +1737,9 @@
         "relation_type": "legal_representation",
         "description": "Ian Levitt Attorneys represents Peter Faucitt in R63M demand",
         "evidence": [
-          "SF9"
+          "SF9",
+          "Supporting documentation",
+          "Cross-referenced evidence files"
         ],
         "temporal_scope": {
           "start": "2025-10-23",
@@ -1697,9 +1747,11 @@
         },
         "significance": "Establishes formal legal representation and quantum",
         "ad_res_j7_evidence": [
-          "SF9_Ian_Levitt_Demand_Letter.md"
+          "SF9_Ian_Levitt_Demand_Letter.md",
+          "ANNEXURES/JF04 - CIPC company records",
+          "ANNEXURES/JF08/evidence_package_20251012 - Comprehensive evidence"
         ],
-        "evidence_verified": "2025-12-25T05:38:52.461167",
+        "evidence_verified": "2026-01-09T05:36:21.408331",
         "confidence": 0.75,
         "evidence_strength": "moderate"
       }

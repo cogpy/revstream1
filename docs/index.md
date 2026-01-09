@@ -5,10 +5,10 @@ title: Revenue Stream Hijacking Case 2025-137857
 
 # Revenue Stream Hijacking Case 2025-137857
 
-**Last Updated:** 2026-01-08  
+**Last Updated:** 2026-01-09  
 **Evidence Repository:** [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)  
 **Hypergraph Integration:** [o9-org/LexRexHGNN](https://github.com/o9-org/LexRexHGNN)  
-**Data Models Version:** Entities v23.0, Relations v18.1, Events v21.1, Timeline v19.0
+**Data Models Version:** Entities v24.0, Relations v19.0, Events v22.0, Timeline v20.0
 
 ## Executive Summary
 
@@ -43,9 +43,9 @@ This documentation repository provides a comprehensively refined, evidence-based
 - **[Timeline](timeline.md)** - Interactive chronological timeline
 
 ### ⚖️ Legal Filings
-- **[CIPC Companies Act Complaint](filings/CIPC_COMPLAINT_REFINED_2026_01_08.md)** - Director misconduct and trust violations
-- **[POPIA Criminal Complaint](filings/POPIA_COMPLAINT_REFINED_2026_01_08.md)** - Personal information breaches
-- **[NPA Tax Fraud Report](filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_08.md)** - Revenue diversion and accounting fraud
+- **[CIPC Companies Act Complaint](filings/CIPC_COMPLAINT_REFINED_2026_01_09.md)** - Director misconduct and trust violations
+- **[POPIA Criminal Complaint](filings/POPIA_COMPLAINT_REFINED_2026_01_09.md)** - Personal information breaches
+- **[NPA Tax Fraud Report](filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_09.md)** - Revenue diversion and accounting fraud
 
 ### 📁 Evidence Index
 - **[Evidence Index](evidence-index-enhanced.md)** - Comprehensive evidence catalog with ad-res-j7 references
@@ -66,9 +66,9 @@ This documentation repository provides a comprehensively refined, evidence-based
 - **Trust Documents:** Trust deed and beneficiary records (JF10)
 
 ### Evidence Strength Distribution
-- **Conclusive Evidence:** 19 items (entities + relations)
-- **Strong Evidence:** 72 items
-- **Moderate Evidence:** 18 items
+- **Conclusive Evidence:** 20 items (entities + relations)
+- **Strong Evidence:** 79 items
+- **Moderate Evidence:** 11 items
 
 ---
 
@@ -87,12 +87,19 @@ This documentation repository provides a comprehensively refined, evidence-based
 
 ## Recent Updates
 
+**2026-01-09:**
+- Enhanced 7 entities with stronger evidence references and conclusive ratings
+- Improved 26 relations with additional evidence and ad-res-j7 cross-references
+- Enhanced 49 events with comprehensive evidence documentation
+- Updated 17 timeline entries with key actors and evidence references
+- Refined all legal filings (CIPC, POPIA, NPA) with latest evidence standards
+- Updated data models to v24.0 (entities), v19.0 (relations), v22.0 (events), v20.0 (timeline)
+
 **2026-01-08:**
 - Created o9-org/LexRexHGNN repository for multi-repo hypergraph integration
 - Updated legal filings to 2026-01-07 versions with enhanced evidence references
 - Cross-referenced 496 evidence files from ad-res-j7 repository
 - Identified 52 high-value evidence opportunities
-- Updated data models to v23.0 (entities), v18.1 (relations), v21.1 (events), v19.0 (timeline)
 
 **2026-01-06:**
 - Enhanced entities with criminal threshold markers
@@ -106,10 +113,10 @@ This documentation repository provides a comprehensively refined, evidence-based
 ```
 revstream1/
 ├── data_models/
-│   ├── entities/entities.json (33 entities)
-│   ├── relations/relations.json (75 relations)
-│   ├── events/events.json (77 events)
-│   └── timelines/timeline.json (56 entries)
+│   ├── entities/entities.json (33 entities, v24.0)
+│   ├── relations/relations.json (75 relations, v19.0)
+│   ├── events/events.json (77 events, v22.0)
+│   └── timelines/timeline.json (56 entries, v20.0)
 ├── docs/ (GitHub Pages site)
 │   ├── filings/ (Legal filings)
 │   ├── data_models/ (Data model documentation)
@@ -146,7 +153,7 @@ The **[o9-org/LexRexHGNN](https://github.com/o9-org/LexRexHGNN)** repository pro
 For questions or additional information regarding this case, please refer to the evidence repository or contact the case administrator through the appropriate legal channels.
 
 **Case Reference:** 2025-137857  
-**Last Comprehensive Analysis:** 2026-01-08
+**Last Comprehensive Analysis:** 2026-01-09
 
 ## LexiCog Integration
 
@@ -164,3 +171,43 @@ The LexRexHGNN framework now includes the **LexiCog** neuro-symbolic engine:
 | Agentic Mode | Autonomous legal reasoning agents |
 | Tensor-Logic | Fuzzy logic operations for legal inference |
 | Legislative Corpus | Companies Act, POPIA, Tax Acts integration |
+
+---
+
+## Data Model Refinements (2026-01-09)
+
+### Entities Enhanced
+- **7 entities** upgraded from moderate to strong/conclusive evidence strength
+- **Kayla Pretorius** upgraded to conclusive evidence (JF01 Shopify email)
+- **Linda, Gee, Bernadine Wright, Chantal, Jax, Marisca Meyer** upgraded to strong evidence
+- All entities now have comprehensive ad-res-j7 cross-references
+
+### Relations Enhanced
+- **26 relations** enhanced with additional evidence documentation
+- All relations now have minimum 2 evidence items
+- Comprehensive ad-res-j7 cross-references added to all relations
+
+### Events Enhanced
+- **49 events** enhanced with additional evidence and ad-res-j7 references
+- All events now have minimum 2 evidence items
+- Enhanced burden of proof categorization maintained
+
+### Timeline Enhanced
+- **17 timeline entries** enhanced with key actors and evidence references
+- Missing key actors identified and added
+- Evidence references strengthened across all entries
+
+---
+
+## Legal Filings Status
+
+All legal filings have been refined to the 2026-01-09 standard with:
+- Enhanced evidence cross-references
+- Improved burden of proof documentation
+- Comprehensive ad-res-j7 integration
+- Neutral, factual language maintained throughout
+
+**Current Versions:**
+- CIPC Companies Act Complaint: 2026-01-09
+- POPIA Criminal Complaint: 2026-01-09
+- NPA Tax Fraud Report: 2026-01-09

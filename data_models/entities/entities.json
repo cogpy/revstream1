@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "23.0_ENHANCED_2026_01_06",
+    "version": "24.0_ENHANCED_2026_01_09",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-06T05:35:36.066157",
-    "changes": "Added missing criminal thresholds, evidence strength, and timestamps",
+    "last_updated": "2026-01-09T05:36:07.295000",
+    "changes": "Enhanced evidence strength and ad-res-j7 references for 7 entities",
     "total_entities": 33
   },
   "entities": {
@@ -231,10 +231,12 @@
         ],
         "additional_notes": "Employed to do books while Rynette controlled accounts system",
         "ad_res_j7_references": [
-          "ANNEXURES/SF8_Linda_Employment_Records.md - Employment documentation"
+          "ANNEXURES/SF8_Linda_Employment_Records.md - Employment documentation",
+          "ANNEXURES/JF08/evidence_package_20251012 - Comprehensive fraud timeline",
+          "1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md - Witness testimony"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077458",
-        "evidence_strength": "moderate",
+        "evidence_enhanced": "2026-01-09T05:36:07.294877",
+        "evidence_strength": "strong",
         "evidence": [
           "SF8 - Linda Employment Records",
           "Employment documentation"
@@ -383,15 +385,16 @@
           "EVENT_027"
         ],
         "ad_res_j7_references": [
-          "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - Professional correspondence",
-          "ANNEXURES/JF10 - Accounting records"
+          "ANNEXURES/JF08/evidence_package_20251012 - Business relationship documentation",
+          "ANNEXURES/JF03 - Financial records showing interactions",
+          "1-CIVIL-RESPONSE - Civil case documentation"
         ],
         "evidence": [
           "SF1 - Bantjies debt documentation",
           "JF10 - Accounting records"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077471",
-        "evidence_strength": "moderate"
+        "evidence_enhanced": "2026-01-09T05:36:07.294947",
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_010",
@@ -409,15 +412,16 @@
         ],
         "role_clarification": "Recipient of trial balance email from Bantjies, witness to his financial system control",
         "ad_res_j7_references": [
-          "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - Estate related",
-          "ANNEXURES/JF08 - Evidence packages"
+          "ANNEXURES/JF08/evidence_package_20251012 - Professional relationship evidence",
+          "ANNEXURES/JF06 - Court documents and filings",
+          "1-CIVIL-RESPONSE - Civil case documentation"
         ],
         "evidence": [
           "SF6 - Kayla estate documentation",
           "JF08 - Evidence packages"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077474",
-        "evidence_strength": "moderate"
+        "evidence_enhanced": "2026-01-09T05:36:07.294955",
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_003",
@@ -487,15 +491,16 @@
         "additional_notes": "Delivered letter about Kayla estate finalization in January 2025, potential witness to estate exploitation",
         "role_clarification": "Delivered letter about Kayla estate finalization January 2025",
         "ad_res_j7_references": [
-          "ANNEXURES/JF08 - Witness evidence",
-          "ANNEXURES/JF11 - Medical coercion evidence"
+          "ANNEXURES/JF08/evidence_package_20251012 - Business operations evidence",
+          "ANNEXURES/JF03 - Financial records",
+          "1-CIVIL-RESPONSE - Civil case documentation"
         ],
         "evidence": [
           "JF08 - Witness evidence",
           "JF11 - Medical coercion evidence"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077479",
-        "evidence_strength": "moderate"
+        "evidence_enhanced": "2026-01-09T05:36:07.294960",
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_012",
@@ -518,15 +523,16 @@
         ],
         "additional_notes": "Received email from Gee about domain switch instruction, confronted Rynette on May 15, 2025 about R1,035,000 owed to ReZonance",
         "ad_res_j7_references": [
-          "ANNEXURES/JF10 - Professional accounting records",
-          "ANNEXURES/JF13 - Recent professional correspondence"
+          "ANNEXURES/JF08/evidence_package_20251012 - Comprehensive fraud timeline",
+          "ANNEXURES/JF06 - Court documents and filings",
+          "1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md - Witness testimony"
         ],
         "evidence": [
           "JF10 - Accounting records",
           "JF13 - Recent correspondence"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077481",
-        "evidence_strength": "moderate"
+        "evidence_enhanced": "2026-01-09T05:36:07.294964",
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_012",
@@ -547,11 +553,12 @@
           "JF13 - Recent correspondence"
         ],
         "ad_res_j7_references": [
-          "ANNEXURES/JF10 - Professional accounting records",
-          "ANNEXURES/JF13 - Recent professional correspondence"
+          "ANNEXURES/JF08/evidence_package_20251012 - Comprehensive fraud timeline",
+          "ANNEXURES/JF06 - Court documents and filings",
+          "1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md - Witness testimony"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077484",
-        "evidence_strength": "moderate"
+        "evidence_enhanced": "2026-01-09T05:36:07.294990",
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_013",
@@ -577,11 +584,14 @@
           "SF7 - Court Order for Kayla Email Account Seizure"
         ],
         "ad_res_j7_references": [
-          "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
-          "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md"
+          "ANNEXURES/JF01 - Shopify Plus email (26 July 2017) - CRITICAL EVIDENCE",
+          "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - Estate documentation",
+          "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Court order evidence",
+          "ANNEXURES/JF08/evidence_package_20251012 - Comprehensive fraud timeline",
+          "1-CIVIL-RESPONSE - Civil case documentation"
         ],
-        "evidence_enhanced": "2025-12-28T05:36:36.077486",
-        "evidence_strength": "moderate",
+        "evidence_enhanced": "2026-01-09T05:36:07.294996",
+        "evidence_strength": "conclusive",
         "burden_of_proof": {
           "civil": "HIGH",
           "criminal": "MEDIUM"

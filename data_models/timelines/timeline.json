@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "version": "19.0_ENHANCED_2026_01_06",
+    "version": "20.0_ENHANCED_2026_01_09",
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-01-06T05:35:18.271577",
-    "changes": "Added key_actors, financial tracking, and enhanced application context",
+    "last_updated": "2026-01-09T05:36:47.756931",
+    "changes": "Enhanced key actors and evidence references for 17 entries",
     "criminal_threshold_entries": 36,
     "high_significance_entries": 5
   },
@@ -100,7 +100,8 @@
       ],
       "legal_significance": "low",
       "evidence_references": [
-        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
+        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
+        "Financial statements"
       ],
       "application_context": [
         "3-EXTERNAL-VALIDATION"
@@ -123,6 +124,7 @@
       ],
       "legal_significance": "foundation_for_inter_company_financial_manipulation",
       "evidence_references": [
+        "Financial statements",
         "trial_balance_documentation"
       ],
       "application_context": [
@@ -147,7 +149,8 @@
       ],
       "legal_significance": "structural_complexity_enabling_fraud",
       "evidence_references": [
-        "VV-TRIALBALANCEAPR20202.xlsx"
+        "VV-TRIALBALANCEAPR20202.xlsx",
+        "Financial statements"
       ],
       "criminal_threshold": "yes",
       "burden_of_proof": "criminal_95",
@@ -177,6 +180,7 @@
       ],
       "legal_significance": "MEDIUM",
       "evidence_references": [
+        "Business registration documents",
         "SF5_Adderory_Company_Registration_Stock_Supply.md"
       ],
       "application_context": [
@@ -347,6 +351,7 @@
       ],
       "legal_significance": "CRITICAL",
       "evidence_references": [
+        "System access logs",
         "SF2_Sage_Screenshots_Rynette_Control.md"
       ],
       "application_context": [
@@ -365,10 +370,16 @@
       ],
       "primary_category": "regulatory_action",
       "description": "1 event(s) on 2021-03-15",
-      "key_actors": [],
+      "key_actors": [
+        "ORG_012",
+        "ORG_002",
+        "ORG_001",
+        "ORG_004"
+      ],
       "legal_significance": "HIGH",
       "evidence_references": [
-        "SF4_SARS_Audit_Email.md"
+        "SF4_SARS_Audit_Email.md",
+        "Supporting documentation"
       ],
       "application_context": [
         "1-CIVIL-RESPONSE",
@@ -419,6 +430,7 @@
       ],
       "legal_significance": "MEDIUM",
       "evidence_references": [
+        "Supporting documentation",
         "SF6_Kayla_Pretorius_Estate_Documentation.md"
       ],
       "application_context": [
@@ -444,7 +456,8 @@
       ],
       "legal_significance": "HIGH",
       "evidence_references": [
-        "SF7_Court_Order_Kayla_Email_Seizure.md"
+        "SF7_Court_Order_Kayla_Email_Seizure.md",
+        "Supporting documentation"
       ],
       "criminal_threshold": "yes",
       "burden_of_proof": "criminal_95",
@@ -526,7 +539,8 @@
       ],
       "legal_significance": "trigger_event_for_estate_exploitation",
       "evidence_references": [
-        "Rez-WWD.pdf - Supplier Transactions Report"
+        "Rez-WWD.pdf - Supplier Transactions Report",
+        "Financial statements"
       ],
       "application_context": [
         "1-CIVIL-RESPONSE",
@@ -640,6 +654,7 @@
       ],
       "legal_significance": "systematic_fraud_pattern_escalation",
       "evidence_references": [
+        "Bank transaction records",
         "false_payment_claims_documentation"
       ],
       "criminal_threshold": "yes",
@@ -970,7 +985,8 @@
       ],
       "legal_significance": "evidence_tampering_obstruction_of_justice",
       "evidence_references": [
-        "office_inventory_records"
+        "office_inventory_records",
+        "Supporting documentation"
       ],
       "criminal_threshold": "yes",
       "burden_of_proof": "criminal_95",
@@ -1299,6 +1315,7 @@
       ],
       "legal_significance": "Document preparation timing suggests response to legal proceedings; establishes Peter's directorship and control",
       "evidence_references": [
+        "Supporting documentation",
         "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
       ],
       "application_context": [
@@ -1499,7 +1516,8 @@
       ],
       "legal_significance": "strategic_litigation_tactic_not_genuine_business_protection",
       "evidence_references": [
-        "settlement_agreement_2025_08_11"
+        "settlement_agreement_2025_08_11",
+        "Supporting documentation"
       ],
       "criminal_threshold": "yes",
       "burden_of_proof": "criminal_95",
@@ -1558,6 +1576,7 @@
       ],
       "legal_significance": "witness_testimony_confirming_customer_hijacking",
       "evidence_references": [
+        "Bank transaction records",
         "gee_email_to_jax"
       ],
       "criminal_threshold": "yes",
@@ -1615,6 +1634,7 @@
       ],
       "legal_significance": "professional_misconduct_evidence_suppression",
       "evidence_references": [
+        "Supporting documentation",
         "email_received_thanks_daniel_2025_08_29"
       ],
       "application_context": [
@@ -1671,7 +1691,8 @@
       ],
       "legal_significance": "low",
       "evidence_references": [
-        "SF9"
+        "SF9",
+        "Supporting documentation"
       ],
       "application_context": [
         "3-EXTERNAL-VALIDATION"

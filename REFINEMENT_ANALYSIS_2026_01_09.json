@@ -1,0 +1,548 @@
+{
+  "timestamp": "2026-01-09T05:35:43.205344",
+  "entities": {
+    "missing_evidence_refs": [],
+    "weak_evidence_strength": [
+      {
+        "entity_id": "PERSON_006",
+        "name": "Linda",
+        "current_strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_009",
+        "name": "Gee",
+        "current_strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_010",
+        "name": "Bernadine Wright",
+        "current_strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_011",
+        "name": "Chantal",
+        "current_strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_012",
+        "name": "Jax",
+        "current_strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_012",
+        "name": "Marisca Meyer",
+        "current_strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_013",
+        "name": "Kayla Pretorius",
+        "current_strength": "moderate"
+      }
+    ],
+    "missing_criminal_threshold": [],
+    "incomplete_ad_res_j7_refs": [
+      {
+        "entity_id": "PERSON_006",
+        "name": "Linda",
+        "current_refs": 1
+      },
+      {
+        "entity_id": "PERSON_009",
+        "name": "Gee",
+        "current_refs": 2
+      },
+      {
+        "entity_id": "PERSON_010",
+        "name": "Bernadine Wright",
+        "current_refs": 2
+      },
+      {
+        "entity_id": "PERSON_011",
+        "name": "Chantal",
+        "current_refs": 2
+      },
+      {
+        "entity_id": "PERSON_012",
+        "name": "Jax",
+        "current_refs": 2
+      },
+      {
+        "entity_id": "PERSON_012",
+        "name": "Marisca Meyer",
+        "current_refs": 2
+      },
+      {
+        "entity_id": "PERSON_013",
+        "name": "Kayla Pretorius",
+        "current_refs": 2
+      }
+    ]
+  },
+  "relations": {
+    "weak_confidence": [],
+    "missing_evidence": [
+      {
+        "relation_id": "REL_OWN_004",
+        "type": "owns",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_OWN_007",
+        "type": "owns",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_CTRL_006",
+        "type": "controls_as_director",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_CTRL_007",
+        "type": "controls_as_director",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_CONSP_002",
+        "type": "family_conspiracy",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_FIN_007",
+        "type": "loan_receivable",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_FIN_008",
+        "type": "loan_payable_shareholder",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_FIN_009",
+        "type": "loan_payable",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_FIN_010",
+        "type": "debt_payment",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_FIN_011",
+        "type": "supplier_payment",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_ESTATE_001",
+        "type": "estate_ownership",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_BENEF_001",
+        "type": "beneficiary_of",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_BENEF_002",
+        "type": "beneficiary_of",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_BENEF_002",
+        "type": "excluded_beneficiary",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_PROF_001",
+        "type": "professional_correspondence",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_PROF_001",
+        "type": "professional_correspondence",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_EXTRACT_001",
+        "type": "capital_extraction",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_LOAN_002",
+        "type": "inter_company_loan",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_KNOWLEDGE_001",
+        "type": "knowledge_acquisition",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_PROF_003",
+        "type": "prepared_financial_statements",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_023",
+        "type": "DEBT",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_024",
+        "type": "SYSTEM_CONTROL",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_025",
+        "type": "TAX_AUDIT",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_026",
+        "type": "STOCK_SUPPLY",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_ORG007_PERSON001",
+        "type": "legal_representation",
+        "evidence_count": 1
+      }
+    ],
+    "incomplete_ad_res_j7_refs": [
+      {
+        "relation_id": "REL_ORG007_PERSON001",
+        "type": "legal_representation",
+        "current_refs": 1
+      }
+    ]
+  },
+  "events": {
+    "missing_burden_of_proof": [],
+    "weak_evidence": [
+      {
+        "event_id": "EVENT_H012",
+        "date": "2019-02-28",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_H003",
+        "date": "2019-03-01",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_H004",
+        "date": "2019-05-01",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_091",
+        "date": "2019-11-20",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_089",
+        "date": "2020-02-28",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_H007",
+        "date": "2020-04-30",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_H018",
+        "date": "2020-08-13",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_090",
+        "date": "2020-08-15",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_088",
+        "date": "2021-03-15",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_086",
+        "date": "2021-09-10",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_087",
+        "date": "2021-10-05",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_067",
+        "date": "2022-07-30",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_D005",
+        "date": "2023-09-20",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_054",
+        "date": "2025-01-15",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_055",
+        "date": "2025-04-22",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_056",
+        "date": "2025-04-30",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_057",
+        "date": "2025-06-06",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_058",
+        "date": "2025-06-10",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_066",
+        "date": "2025-06-10",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_SF2A",
+        "date": "2025-06-20",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_064",
+        "date": "2025-06-25",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_SF2B",
+        "date": "2025-07-23",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_059",
+        "date": "2025-08-11",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_060",
+        "date": "2025-08-13",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_026",
+        "date": "2025-08-15",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_061",
+        "date": "2025-08-29",
+        "evidence_count": 1
+      },
+      {
+        "event_id": "EVENT_SF9",
+        "date": "2025-10-23",
+        "evidence_count": 1
+      }
+    ],
+    "missing_financial_impact": [],
+    "incomplete_ad_res_j7_refs": [
+      {
+        "event_id": "EVENT_H011",
+        "date": "2017-02-24",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_H001",
+        "date": "2017-06-30",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_H002",
+        "date": "2017-09-30",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_H012",
+        "date": "2019-02-28",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_H003",
+        "date": "2019-03-01",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_H004",
+        "date": "2019-05-01",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_091",
+        "date": "2019-11-20",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_089",
+        "date": "2020-02-28",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_H007",
+        "date": "2020-04-30",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_090",
+        "date": "2020-08-15",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_088",
+        "date": "2021-03-15",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_086",
+        "date": "2021-09-10",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_087",
+        "date": "2021-10-05",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_D001",
+        "date": "2022-03-01",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_D003",
+        "date": "2023-02-28",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_D004",
+        "date": "2023-03-15",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_D005",
+        "date": "2023-09-20",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_011",
+        "date": "2025-06-06",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_059",
+        "date": "2025-08-11",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_060",
+        "date": "2025-08-13",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_026",
+        "date": "2025-08-15",
+        "current_refs": 1
+      },
+      {
+        "event_id": "EVENT_061",
+        "date": "2025-08-29",
+        "current_refs": 1
+      }
+    ]
+  },
+  "timeline": {
+    "missing_key_actors": [
+      {
+        "date": "2021-03-15",
+        "events": [
+          "EVENT_088"
+        ]
+      }
+    ],
+    "missing_cumulative_impact": [],
+    "weak_evidence_refs": [
+      {
+        "date": "2019-02-28",
+        "evidence_count": 1
+      },
+      {
+        "date": "2019-03-01",
+        "evidence_count": 1
+      },
+      {
+        "date": "2019-05-01",
+        "evidence_count": 1
+      },
+      {
+        "date": "2019-11-20",
+        "evidence_count": 1
+      },
+      {
+        "date": "2020-08-15",
+        "evidence_count": 1
+      },
+      {
+        "date": "2021-03-15",
+        "evidence_count": 1
+      },
+      {
+        "date": "2021-09-10",
+        "evidence_count": 1
+      },
+      {
+        "date": "2021-10-05",
+        "evidence_count": 1
+      },
+      {
+        "date": "2022-07-30",
+        "evidence_count": 1
+      },
+      {
+        "date": "2023-09-20",
+        "evidence_count": 1
+      },
+      {
+        "date": "2025-04-30",
+        "evidence_count": 1
+      },
+      {
+        "date": "2025-06-25",
+        "evidence_count": 1
+      },
+      {
+        "date": "2025-08-11",
+        "evidence_count": 1
+      },
+      {
+        "date": "2025-08-15",
+        "evidence_count": 1
+      },
+      {
+        "date": "2025-08-29",
+        "evidence_count": 1
+      },
+      {
+        "date": "2025-10-23",
+        "evidence_count": 1
+      }
+    ]
+  }
+}
