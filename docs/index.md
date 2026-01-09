@@ -8,7 +8,7 @@ title: Revenue Stream Hijacking Case 2025-137857
 **Last Updated:** 2026-01-09  
 **Evidence Repository:** [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j7)  
 **Hypergraph Integration:** [o9-org/LexRexHGNN](https://github.com/o9-org/LexRexHGNN)  
-**Data Models Version:** Entities v25.0, Relations v20.0, Events v23.0, Timeline v21.0
+**Data Models Version:** Entities v26.0, Relations v21.0, Events v24.0, Timeline v22.0
 
 ## Executive Summary
 
@@ -24,11 +24,11 @@ This documentation repository provides a comprehensively refined, evidence-based
 |---|---|
 | **Case Number** | 2025-137857 |
 | **Total Documented Losses** | **R10,269,727.90** |
-| **Total Events** | 82 |
-| **Entities Profiled** | 40 (22 persons, 18 organizations) |
-| **Relations Mapped** | 85 across 28 relation types |
+| **Total Events** | 89 |
+| **Entities Profiled** | 59 (28 persons, 31 organizations) |
+| **Relations Mapped** | 99 across 28 relation types |
 | **Evidence Files** | 496+ files in ad-res-j7 annexures |
-| **Timeline Span** | 1992-02-26 to 2025-10-23 |
+| **Timeline Span** | 1982-03-26 to 2025-10-23 |
 | **Criminal Threshold Events** | 46 events (95%+ burden of proof) |
 | **Civil Threshold Events** | 31 events (50%+ burden of proof) |
 
@@ -49,7 +49,8 @@ This documentation repository provides a comprehensively refined, evidence-based
 
 ### 📁 Evidence Index
 - **[Evidence Index](evidence-index-enhanced.md)** - Comprehensive evidence catalog with ad-res-j7 references
-- **[CIPC Evidence 2021](cipc-evidence-2021.md)** - 18 CIPC WinDeed documents with company registrations and director searches
+- **[CIPC Evidence 2021 - Batch 1](cipc-evidence-2021.md)** - 18 CIPC WinDeed documents with company registrations and director searches
+- **[CIPC Evidence 2021 - Batch 2](cipc-evidence-batch2-2021.md)** - 18 additional CIPC documents including Louw-Rizzotto network and industry report
 - **[Application 1: Civil Response](application-1-civil-response.md)** - Civil case evidence mapping
 - **[Application 2: Criminal Case](application-2-criminal-case.md)** - Criminal case evidence mapping
 - **[Application 3: External Validation](application-3-external-validation.md)** - External validation evidence
@@ -87,6 +88,17 @@ This documentation repository provides a comprehensively refined, evidence-based
 ---
 
 ## Recent Updates
+
+**2026-01-09 (Update 3):**
+- Added 6 new persons and 13 new organizations from 18 additional CIPC WinDeed documents
+- Added 14 new relations including directorship, membership, and spouse relations
+- Added 21 timeline entries covering company registrations 1982-2020
+- Added 7 new events from CIPC batch 2 documents
+- Created CIPC Evidence Batch 2 documentation page
+- Discovered Rezonance and RegimA Medic shelf company acquisition pattern
+- Added Who Owns Whom Cosmetics Industry Report (2017-11-14) as independent verification
+- Extended timeline back to 1982 (ALOECO original company)
+- Updated data models to v26.0 (entities), v21.0 (relations), v24.0 (events), v22.0 (timeline)
 
 **2026-01-09 (Update 2):**
 - Added 8 new persons and 4 new organizations from 18 CIPC WinDeed documents

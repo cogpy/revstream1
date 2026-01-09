@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "version": "20.0_CIPC_ENHANCED_2026_01_09",
+    "version": "21.0_CIPC_BATCH2_2026_01_09",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-01-09T06:56:17.171814",
+    "last_updated": "2026-01-09T07:09:04.021996",
     "changes": "Added 10 new relations from CIPC WinDeed documents including address, directorship, and membership relations",
     "total_relations": 85
   },
@@ -1851,6 +1851,94 @@
         ],
         "evidence_strength": "strong",
         "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "relation_id": "REL_027",
+        "type": "directorship",
+        "source_entity": "Dennis Jacobus Bishop",
+        "target_entity": "Rezonance",
+        "role": "Initial Director (Shelf Company)",
+        "start_date": "2017-02-22",
+        "end_date": "2017-04-04",
+        "status": "resigned",
+        "source": "293355407.Pdf"
+      },
+      {
+        "relation_id": "REL_028",
+        "type": "directorship",
+        "source_entity": "Dennis Jacobus Bishop",
+        "target_entity": "RegimA Medic",
+        "role": "Initial Director (Shelf Company)",
+        "start_date": "2017-02-27",
+        "end_date": "2017-04-10",
+        "status": "resigned",
+        "source": "293355412.Pdf"
+      },
+      {
+        "relation_id": "REL_029",
+        "type": "directorship",
+        "source_entity": "Daniel James Faucitt",
+        "target_entity": "Rezonance",
+        "role": "Director",
+        "start_date": "2017-04-04",
+        "end_date": null,
+        "status": "active",
+        "source": "293355407.Pdf"
+      },
+      {
+        "relation_id": "REL_030",
+        "type": "directorship",
+        "source_entity": "Kayla Pretorius",
+        "target_entity": "Rezonance",
+        "role": "Director",
+        "start_date": "2017-04-04",
+        "end_date": null,
+        "status": "active",
+        "source": "293355407.Pdf"
+      },
+      {
+        "relation_id": "REL_031",
+        "type": "directorship",
+        "source_entity": "Daniel James Faucitt",
+        "target_entity": "RegimA Medic",
+        "role": "Director",
+        "start_date": "2017-04-10",
+        "end_date": null,
+        "status": "active",
+        "source": "293355412.Pdf"
+      },
+      {
+        "relation_id": "REL_032",
+        "type": "directorship",
+        "source_entity": "Jacqueline Faucitt",
+        "target_entity": "RegimA Medic",
+        "role": "Director",
+        "start_date": "2020-07-07",
+        "end_date": null,
+        "status": "active",
+        "source": "293355412.Pdf"
+      },
+      {
+        "relation_id": "REL_033",
+        "type": "directorship",
+        "source_entity": "Peter Andrew Faucitt",
+        "target_entity": "RegimA Medic",
+        "role": "Director",
+        "start_date": "2020-07-07",
+        "end_date": null,
+        "status": "active",
+        "source": "293355412.Pdf"
+      },
+      {
+        "relation_id": "REL_034",
+        "type": "directorship",
+        "source_entity": "John Leslie Knowlton",
+        "target_entity": "RegimA Medic",
+        "role": "Director",
+        "start_date": "2017-04-10",
+        "end_date": null,
+        "status": "active",
+        "source": "293355412.Pdf"
       }
     ],
     "membership_relations": [
@@ -1881,6 +1969,54 @@
         ],
         "evidence_strength": "strong",
         "added_date": "2026-01-09T06:56:17.171814"
+      },
+      {
+        "relation_id": "REL_035",
+        "type": "membership",
+        "source_entity": "Martin Carlo Rizzotto",
+        "target_entity": "UFO Express",
+        "role": "Member",
+        "ownership_percentage": 100,
+        "start_date": "1997-09-02",
+        "end_date": null,
+        "status": "active",
+        "source": "293352764.Pdf"
+      },
+      {
+        "relation_id": "REL_036",
+        "type": "membership",
+        "source_entity": "Alan Peter Louw",
+        "target_entity": "S A Logistic Services",
+        "role": "Member",
+        "ownership_percentage": 100,
+        "start_date": "1991-11-28",
+        "end_date": null,
+        "status": "active",
+        "source": "293351608.Pdf"
+      },
+      {
+        "relation_id": "REL_037",
+        "type": "membership",
+        "source_entity": "Alan Peter Louw",
+        "target_entity": "ALOECO (SA) - CC 2006",
+        "role": "Member",
+        "ownership_percentage": 51,
+        "start_date": "2006-02-14",
+        "end_date": null,
+        "status": "active",
+        "source": "293351612.Pdf"
+      },
+      {
+        "relation_id": "REL_038",
+        "type": "membership",
+        "source_entity": "Martin Carlo Rizzotto",
+        "target_entity": "ALOECO (SA) - CC 2006",
+        "role": "Member",
+        "ownership_percentage": 49,
+        "start_date": "2018-08-01",
+        "end_date": null,
+        "status": "active",
+        "source": "293351612.Pdf"
       }
     ],
     "former_relations": [
@@ -1898,6 +2034,31 @@
         ],
         "evidence_strength": "moderate",
         "added_date": "2026-01-09T06:56:17.171814"
+      }
+    ],
+    "other_relations": [
+      {
+        "relation_id": "REL_039",
+        "type": "spouse",
+        "source_entity": "Martin Carlo Rizzotto",
+        "target_entity": "Vanessa Claire Rizzotto",
+        "role": "Spouse",
+        "start_date": null,
+        "end_date": null,
+        "status": "active",
+        "notes": "Married out of community of property",
+        "source": "293353145.Pdf"
+      },
+      {
+        "relation_id": "REL_040",
+        "type": "employment",
+        "source_entity": "Bernadine Wright",
+        "target_entity": "RegimA International Skin Treatments CC",
+        "role": "Bookkeeper",
+        "start_date": null,
+        "end_date": null,
+        "status": "active",
+        "source": "TheCosmeticsIndustry(2017-11-14).pdf"
       }
     ]
   }

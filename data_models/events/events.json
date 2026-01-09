@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "23.0_CIPC_ENHANCED_2026_01_09",
+    "version": "24.0_CIPC_BATCH2_2026_01_09",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 82,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-01-09T06:57:36.207479",
+    "last_updated": "2026-01-09T07:09:04.021999",
     "changes": "Added 5 events from CIPC WinDeed documents",
     "phase_statistics": {
       "PHASE_1": 25,
@@ -3386,6 +3386,97 @@
       "requires_investigation": true,
       "source_document": "CIPC WinDeed 2021-11-19",
       "added_date": "2026-01-09T06:57:36.207479"
+    },
+    {
+      "event_id": "EVENT_092",
+      "type": "company_formation",
+      "date": "2017-02-22",
+      "description": "Rezonance registered as shelf company by Dennis Bishop",
+      "entities": [
+        "Rezonance",
+        "Dennis Jacobus Bishop"
+      ],
+      "source": "293355407.Pdf",
+      "significance": "Shelf company later transferred to Daniel Faucitt and Kayla Pretorius"
+    },
+    {
+      "event_id": "EVENT_093",
+      "type": "company_formation",
+      "date": "2017-02-27",
+      "description": "RegimA Medic registered as shelf company by Dennis Bishop",
+      "entities": [
+        "RegimA Medic",
+        "Dennis Jacobus Bishop"
+      ],
+      "source": "293355412.Pdf",
+      "significance": "Shelf company later transferred to Faucitt family"
+    },
+    {
+      "event_id": "EVENT_094",
+      "type": "ownership_transfer",
+      "date": "2017-04-04",
+      "description": "Rezonance transferred from Dennis Bishop to Daniel Faucitt and Kayla Pretorius",
+      "entities": [
+        "Rezonance",
+        "Daniel James Faucitt",
+        "Kayla Pretorius",
+        "Dennis Jacobus Bishop"
+      ],
+      "source": "293355407.Pdf",
+      "significance": "Daniel and Kayla's personal company"
+    },
+    {
+      "event_id": "EVENT_095",
+      "type": "ownership_transfer",
+      "date": "2017-04-10",
+      "description": "RegimA Medic transferred from Dennis Bishop to Faucitt family",
+      "entities": [
+        "RegimA Medic",
+        "Daniel James Faucitt",
+        "John Leslie Knowlton",
+        "Dennis Jacobus Bishop"
+      ],
+      "source": "293355412.Pdf",
+      "significance": "Medical skincare company under Faucitt family control"
+    },
+    {
+      "event_id": "EVENT_096",
+      "type": "industry_report",
+      "date": "2017-11-14",
+      "description": "Who Owns Whom Cosmetics Industry report published listing RegimA International Skin Treatments CC",
+      "entities": [
+        "RegimA International Skin Treatments CC",
+        "Jacqueline Faucitt",
+        "Peter Andrew Faucitt",
+        "Bernadine Wright"
+      ],
+      "source": "TheCosmeticsIndustry(2017-11-14).pdf",
+      "significance": "Independent industry verification of RegimA operations - 15 employees, FNB bank"
+    },
+    {
+      "event_id": "EVENT_097",
+      "type": "liquidation",
+      "date": "1999-05-25",
+      "description": "S A Logistic Services enters liquidation",
+      "entities": [
+        "S A Logistic Services",
+        "Alan Peter Louw"
+      ],
+      "source": "293351608.Pdf",
+      "significance": "Louw's logistics company liquidated"
+    },
+    {
+      "event_id": "EVENT_098",
+      "type": "network_connection",
+      "date": "2018-08-01",
+      "description": "Rizzotto joins Louw's ALOECO (SA) CC as 49% member",
+      "entities": [
+        "Martin Carlo Rizzotto",
+        "Alan Peter Louw",
+        "ALOECO (SA) - CC 2006"
+      ],
+      "source": "293351612.Pdf",
+      "significance": "Formalizes Louw-Rizzotto business partnership"
     }
   ]
 }
