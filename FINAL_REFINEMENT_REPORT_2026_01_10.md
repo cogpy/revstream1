@@ -284,7 +284,7 @@ Several timeline entries have weak evidence (0-1 evidence items). These should b
 - **2017-02-24 to 2017-09-30:** Early Shopify platform period
 - **2019-02-28 to 2019-11-20:** Pre-Kayla death period
 - **2020-02-20 to 2020-08-15:** COVID-19 period business operations
-- **2021-03-15 to 2021-10-05:** Post-Kayla death asset appropriation period
+- **2021-03-15 to 2021-10-05:** Company structure manipulation period (RegimA SA name change, director changes)
 - **2022-03-01 to 2022-07-30:** Mid-period operations
 - **2023-01-01 to 2023-09-20:** Pre-litigation period
 - **2025-01-15 to 2025-10-23:** Litigation period
