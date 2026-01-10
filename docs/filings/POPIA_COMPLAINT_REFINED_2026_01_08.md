@@ -77,7 +77,7 @@ This complaint outlines multiple, serious breaches of the Protection of Personal
 
 | Date | Event | Criminal Threshold | Evidence |
 |------|-------|-------------------|----------|
-| 2021-10-05 | Court orders seizure of Kayla Pretorius email account for evidence of fraudulent activities | 95%+ | SF7_Court_Order_Kayla_Email_Seizure.md |
+| 1 September 2023 | Court orders seizure of Kayla Pretorius email account for evidence of fraudulent activities | 95%+ | SF7_Court_Order_Kayla_Email_Seizure.md |
 | 2025-06-20 | Identity fraud through email impersonation (SF2A evidence) | 95%+ | SF2_Sage_Screenshots_Rynette_Control.md |
 | 2025-07-08 | Warehouse POPI violations involving customer data | 95%+ | JF01, JF03 |
 
@@ -148,7 +148,7 @@ The POPIA violations directly enabled the following financial crimes:
 2. **2025-05-22:** Audit trail destruction (platform shutdown)
 3. **2025-05-29:** Domain registration identity fraud
 4. **2025-07-08:** Warehouse POPI violations
-5. **2021-10-05:** Court-ordered email seizure (Kayla Pretorius)
+5. **1 September 2023:** Court-ordered email seizure (Kayla Pretorius)
 6. **2025-06-10:** Audit request dismissal (concealment)
 7. **2025-08-15:** Continued fraudulent data processing
 
