@@ -1,16 +1,15 @@
----
-layout: default
-title: PERSON_012
----
-# Marisca Meyer (PERSON_012)
+# Marisca Meyer
 
-**Type:** persons
+**ID:** PERSON_012
 **Role:** Professional Accountant (SA)
+**Evidence Strength:** strong
 
-**Evidence:**
-- JF10 - Accounting records
-- JF13 - Recent correspondence
+## Evidence
+- JF08 - Comprehensive timeline
+- JF05 - Witness correspondence
+- JF07 - Business documentation
 
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF10 - Professional accounting records`
-- `ANNEXURES/JF13 - Recent professional correspondence`
+## Ad-Res-J7 References
+- ANNEXURES/JF08/evidence_package_20251012 - Timeline evidence
+- ANNEXURES/JF05 - Witness correspondence
+- ANNEXURES/JF07 - Business operations

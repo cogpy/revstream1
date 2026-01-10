@@ -1,19 +1,13 @@
----
-layout: default
-title: EVENT_089
----
-# EVENT_089: Documentation of Bantjies's R18,685,000 debt to Faucitt Family Trust, creating massive conflict of interest
+# Bantjies R18.685M Debt to Faucitt Family Trust
 
+**ID:** EVENT_089
 **Date:** 2020-02-28
-**Category:** accounting_fraud
+**Burden of Proof:** criminal_95
 
-**Entities Involved:**
-- PERSON_007
-- TRUST_001
-- ORG_002
+## Description
+Documentation of Bantjies's R18,685,000 debt to Faucitt Family Trust, creating massive conflict of interest
 
-**Evidence:**
+## Evidence
 - SF1_Bantjies_Debt_Documentation.md
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/SF1_Bantjies_Debt_Documentation.md`
+- JF03 - Financial Records (historical)
+- JF14/JF15 - CIPC historical records

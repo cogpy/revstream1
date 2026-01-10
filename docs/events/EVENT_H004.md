@@ -1,17 +1,13 @@
----
-layout: default
-title: EVENT_H004
----
-# EVENT_H004: Villa Via operates on different financial year, creating complexity in group reporting and enabling profit extraction concealment
+# Financial Year Commencement Villa Via
 
+**ID:** EVENT_H004
 **Date:** 2019-05-01
-**Category:** financial_structure
+**Burden of Proof:** criminal_95
 
-**Entities Involved:**
-- ORG_005
+## Description
+Villa Via operates on different financial year, creating complexity in group reporting and enabling profit extraction concealment
 
-**Evidence:**
+## Evidence
 - VV-TRIALBALANCEAPR20202.xlsx
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`
+- JF03 - Financial Records (historical)
+- JF14/JF15 - CIPC historical records

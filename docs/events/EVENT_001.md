@@ -1,19 +1,12 @@
----
-layout: default
-title: EVENT_001
----
-# EVENT_001: Diversion of revenue streams from RegimA SA initiated, marking the beginning of systematic revenue hijacking
+# RegimA SA Revenue Diversion Started
 
+**ID:** EVENT_001
 **Date:** 2025-03-01
-**Category:** revenue_theft
+**Burden of Proof:** criminal_95
 
-**Entities Involved:**
-- ORG_006
+## Description
+Diversion of revenue streams from RegimA SA initiated, marking the beginning of systematic revenue hijacking
 
-**Evidence:**
+## Evidence
 - financial_records
 - bank_statements
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`
-- `ANNEXURES/JF04 - Personal bank records`

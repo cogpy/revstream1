@@ -1,17 +1,13 @@
----
-layout: default
-title: EVENT_H007
----
-# EVENT_H007: Villa Via generates R4.4M monthly rental income with R3.7M profit, Members loan account R22.8M indicating systematic capital extraction
+# Villa Via Year-End Profit Extraction
 
+**ID:** EVENT_H007
 **Date:** 2020-04-30
-**Category:** profit_extraction
+**Burden of Proof:** civil_50%
 
-**Entities Involved:**
-- ORG_005
+## Description
+Villa Via generates R4.4M monthly rental income with R3.7M profit, Members loan account R22.8M indicating systematic capital extraction
 
-**Evidence:**
+## Evidence
 - VV-TRIALBALANCEAPR20202.xlsx
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`
+- JF03 - Financial Records (historical)
+- JF14/JF15 - CIPC historical records

@@ -1,19 +1,15 @@
----
-layout: default
-title: PERSON_011
----
-# Chantal (PERSON_011)
+# Chantal
 
-**Type:** persons
+**ID:** PERSON_011
 **Role:** estate_related_party
+**Evidence Strength:** strong
 
-**Primary Actions:**
-- estate_finalization_communication
+## Evidence
+- JF08 - Business operations
+- JF05 - Professional correspondence
+- JF07 - System records
 
-**Evidence:**
-- JF08 - Witness evidence
-- JF11 - Medical coercion evidence
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF08 - Witness evidence`
-- `ANNEXURES/JF11 - Medical coercion evidence`
+## Ad-Res-J7 References
+- ANNEXURES/JF08/evidence_package_20251012 - Business operations
+- ANNEXURES/JF05 - Professional correspondence
+- ANNEXURES/JF07 - System access records

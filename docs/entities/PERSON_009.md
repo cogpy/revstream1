@@ -1,20 +1,15 @@
----
-layout: default
-title: PERSON_009
----
-# Gee (PERSON_009)
+# Gee
 
-**Type:** persons
+**ID:** PERSON_009
 **Role:** email_sender_witness
+**Evidence Strength:** strong
 
-**Primary Actions:**
-- sent_domain_switch_instruction_email
-- explained_instruction_to_jax
+## Evidence
+- JF08 - Business documentation
+- JF05 - Professional correspondence
+- JF07 - System access records
 
-**Evidence:**
-- SF1 - Bantjies debt documentation
-- JF10 - Accounting records
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/SF1_Bantjies_Debt_Documentation.md - Professional correspondence`
-- `ANNEXURES/JF10 - Accounting records`
+## Ad-Res-J7 References
+- ANNEXURES/JF08/evidence_package_20251012 - Business operations
+- ANNEXURES/JF05 - Professional correspondence
+- ANNEXURES/JF07 - System access documentation

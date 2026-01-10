@@ -1,19 +1,12 @@
----
-layout: default
-title: EVENT_029
----
-# EVENT_029: Peter ordered Cloud IT systems removal, seizing infrastructure control from legitimate operators.
+# Cloud IT Systems Removal Order
 
+**ID:** EVENT_029
 **Date:** 2025-04-22
-**Category:** infrastructure_seizure
+**Burden of Proof:** civil_50%_exceeded
 
-**Entities Involved:**
-- PLATFORM_001
+## Description
+Peter ordered Cloud IT systems removal, seizing infrastructure control from legitimate operators.
 
-**Evidence:**
+## Evidence
 - system_access_logs_pending
 - it_documentation
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`
-- `ANNEXURES/JF04 - Personal bank records`

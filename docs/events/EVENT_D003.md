@@ -1,19 +1,12 @@
----
-layout: default
-title: EVENT_D003
----
-# EVENT_D003: Final balance showing persistent debt to ReZonance (R1,035,361.34) despite payment claims, debt continues to grow
+# ReZonance Final Balance Persistent Debt
 
+**ID:** EVENT_D003
 **Date:** 2023-02-28
-**Category:** debt_accumulation
+**Burden of Proof:** civil_50%_exceeded
 
-**Entities Involved:**
-- regima_group
-- ORG_008
+## Description
+Final balance showing persistent debt to ReZonance (R1,035,361.34) despite payment claims, debt continues to grow
 
-**Evidence:**
+## Evidence
 - rezonance_final_statement
 - payment_reconciliation
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`

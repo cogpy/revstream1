@@ -1,21 +1,12 @@
----
-layout: default
-title: EVENT_018
----
-# EVENT_018: Trust property theft. Documented theft of trust property and breach of fiduciary duty
+# Trust Asset Misappropriation
 
+**ID:** EVENT_018
 **Date:** 2025-07-25
-**Category:** trust_violations
+**Burden of Proof:** criminal_95
 
-**Entities Involved:**
-- TRUST_001
-- trust_assets
+## Description
+Trust property theft. Documented theft of trust property and breach of fiduciary duty
 
-**Evidence:**
+## Evidence
 - asset_transfer_records
 - trust_property_documentation
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`
-- `SF1_Bantjies_Debt_Documentation.md`
-- `ANNEXURES/JF10 - Trust documents`

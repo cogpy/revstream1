@@ -1,18 +1,13 @@
----
-layout: default
-title: EVENT_055
----
-# EVENT_055: Peter instructs removal of all cloud IT systems, systematic dismantling of cloud-based infrastructure as preparation for evidence destruction
+# Peter Orders Cloud IT Systems Removal
 
+**ID:** EVENT_055
 **Date:** 2025-04-22
-**Category:** evidence_tampering
+**Burden of Proof:** criminal_95
 
-**Entities Involved:**
-- ORG_001
+## Description
+Peter instructs removal of all cloud IT systems, systematic dismantling of cloud-based infrastructure as preparation for evidence destruction
 
-**Evidence:**
+## Evidence
 - it_system_removal_instruction
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`
-- `ANNEXURES/JF08 - Evidence packages`
+- JF08 - Recent evidence package
+- JF06 - Court documents

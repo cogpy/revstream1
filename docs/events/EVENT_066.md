@@ -1,22 +1,13 @@
----
-layout: default
-title: EVENT_066
----
-# EVENT_066: Bantjes email confirms R10M bank balance decline year-on-year; first-ever substantial trading loss in RegimA Group history
+# EVENT_066
 
+**ID:** EVENT_066
 **Date:** 2025-06-10
-**Category:** Evidence documentation
+**Burden of Proof:** civil_50%
 
-**Entities Involved:**
-- PERSON_007
-- PERSON_001
-- PERSON_004
-- PERSON_005
+## Description
+Bantjes email confirms R10M bank balance decline year-on-year; first-ever substantial trading loss in RegimA Group history
 
-**Evidence:**
+## Evidence
 - Email: The RegimA Group results and Computer Expense analysis (2025-06-10)
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`
-- `ANNEXURES/JF08 - Evidence packages`
-- `ANNEXURES/JF04 - Personal bank records`
+- JF08 - Recent evidence package
+- JF06 - Court documents

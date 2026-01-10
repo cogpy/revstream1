@@ -1,22 +1,12 @@
----
-layout: default
-title: EVENT_047
----
-# EVENT_047: Bantjies dismisses Daniel's audit request 4 days after fraud exposure
+# EVENT_047
 
+**ID:** EVENT_047
 **Date:** 2025-06-10
-**Category:** fraud_concealment
+**Burden of Proof:** criminal_95
 
-**Entities Involved:**
-- PERSON_007
-- PERSON_005
+## Description
+Bantjies dismisses Daniel's audit request 4 days after fraud exposure
 
-**Evidence:**
+## Evidence
 - JF08 - Evidence packages
 - JF09 - Timeline analysis
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF05 - Correspondence evidence`
-- `ANNEXURES/JF03 - Financial records and analysis`
-- `ANNEXURES/JF08 - Evidence packages`
-- `SF1_Bantjies_Debt_Documentation.md`

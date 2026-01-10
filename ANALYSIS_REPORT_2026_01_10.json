@@ -1,0 +1,755 @@
+{
+  "timestamp": "2026-01-10T05:35:45.194212",
+  "evidence_structure": {
+    "annexures": {
+      "JF01": 2,
+      "JF02": 3,
+      "JF03": 5,
+      "JF04": 6,
+      "JF05": 7,
+      "JF06": 5,
+      "JF07": 186,
+      "JF08": 5,
+      "JF09": 8,
+      "JF10": 3,
+      "JF11": 1,
+      "JF12": 1,
+      "JF13": 3,
+      "JF14-CIPC-2021": 19,
+      "JF15-CIPC-BATCH2-2021": 19,
+      "JF16-DISTRIBUTORS": 28
+    },
+    "applications": {
+      "1-CIVIL-RESPONSE": 25,
+      "2-CRIMINAL-CASE": 5,
+      "3-EXTERNAL-VALIDATION": 4
+    },
+    "total_files": 335
+  },
+  "current_versions": {
+    "entities": "21.0_REFINED_2026_01_03",
+    "relations": "17.0_REFINED_2026_01_03",
+    "events": "20.0_CRIMINAL_THRESHOLD_2026_01_03",
+    "timeline": "17.0_CRIMINAL_ENHANCED_2026_01_03"
+  },
+  "entities_needing_enhancement": {
+    "weak_evidence": [
+      {
+        "id": "PERSON_006",
+        "name": "Linda",
+        "strength": "moderate"
+      },
+      {
+        "id": "PERSON_009",
+        "name": "Gee",
+        "strength": "moderate"
+      },
+      {
+        "id": "PERSON_010",
+        "name": "Bernadine Wright",
+        "strength": "moderate"
+      },
+      {
+        "id": "PERSON_011",
+        "name": "Chantal",
+        "strength": "moderate"
+      },
+      {
+        "id": "PERSON_012",
+        "name": "Jax",
+        "strength": "moderate"
+      },
+      {
+        "id": "PERSON_012",
+        "name": "Marisca Meyer",
+        "strength": "moderate"
+      },
+      {
+        "id": "PERSON_013",
+        "name": "Kayla Pretorius",
+        "strength": "moderate"
+      },
+      {
+        "id": "ORG_008",
+        "name": "ReZonance (Pty) Ltd",
+        "strength": "moderate"
+      },
+      {
+        "id": "ORG_010",
+        "name": "Adderory Skin (Pty) Ltd",
+        "strength": "moderate"
+      },
+      {
+        "id": "ORG_012",
+        "name": "RegimaSA (Pty) Ltd",
+        "strength": "moderate"
+      },
+      {
+        "id": "ORG_013",
+        "name": "Unicorn Dynamics (Pty) Ltd",
+        "strength": "moderate"
+      },
+      {
+        "id": "ORG_014",
+        "name": "RegimA SA (Pty) Ltd",
+        "strength": "moderate"
+      },
+      {
+        "id": "ORG_015",
+        "name": "SARS (South African Revenue Service)",
+        "strength": "moderate"
+      },
+      {
+        "id": "ORG_007",
+        "name": "Ian Levitt Attorneys",
+        "strength": "moderate"
+      }
+    ],
+    "missing_ad_res_refs": [
+      {
+        "id": "PERSON_006",
+        "name": "Linda",
+        "refs_count": 1
+      },
+      {
+        "id": "ORG_010",
+        "name": "Adderory Skin (Pty) Ltd",
+        "refs_count": 1
+      },
+      {
+        "id": "ORG_015",
+        "name": "SARS (South African Revenue Service)",
+        "refs_count": 1
+      },
+      {
+        "id": "ORG_007",
+        "name": "Ian Levitt Attorneys",
+        "refs_count": 1
+      }
+    ],
+    "outdated_timestamps": []
+  },
+  "timeline_gaps": {
+    "missing_evidence": [
+      {
+        "id": null,
+        "date": "2017-02-24",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2017-06-30",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2017-09-30",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2019-02-28",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2019-03-01",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2019-05-01",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2019-11-20",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2020-02-20",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2020-02-28",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2020-04-30",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2020-08-13",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2020-08-15",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2021-03-15",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2021-04-01",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2021-09-10",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2021-10-05",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2022-03-01",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2022-07-11",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2022-07-30",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2023-01-01",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2023-02-28",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2023-03-15",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2023-09-20",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-01-15",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-02-14",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-02-25",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-03-01",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-03-15",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-03-30",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-04-01",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-04-14",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-04-22",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-04-30",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-05-02",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-05-15",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-05-22",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-05-29",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-06-06",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-06-07",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-06-10",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-06-18",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-06-20",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-06-25",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-06-30",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-07-08",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-07-12",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-07-23",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-07-25",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-08-10",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-08-11",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-08-13",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-08-15",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-08-20",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-08-29",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-09-11",
+        "title": null,
+        "evidence_count": 0
+      },
+      {
+        "id": null,
+        "date": "2025-10-23",
+        "title": null,
+        "evidence_count": 0
+      }
+    ],
+    "missing_actors": [
+      {
+        "id": null,
+        "date": "2017-02-24",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2017-06-30",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2017-09-30",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2019-02-28",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2019-03-01",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2019-05-01",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2019-11-20",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2020-02-20",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2020-02-28",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2020-04-30",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2020-08-13",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2020-08-15",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2021-03-15",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2021-04-01",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2021-09-10",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2021-10-05",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2022-03-01",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2022-07-11",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2022-07-30",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2023-01-01",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2023-02-28",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2023-03-15",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2023-09-20",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-01-15",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-02-14",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-02-25",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-03-01",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-03-15",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-03-30",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-04-01",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-04-14",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-04-22",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-04-30",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-05-02",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-05-15",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-05-22",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-05-29",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-06-06",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-06-07",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-06-10",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-06-18",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-06-20",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-06-25",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-06-30",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-07-08",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-07-12",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-07-23",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-07-25",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-08-10",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-08-11",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-08-13",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-08-15",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-08-20",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-08-29",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-09-11",
+        "title": null
+      },
+      {
+        "id": null,
+        "date": "2025-10-23",
+        "title": null
+      }
+    ],
+    "weak_entries": []
+  }
+}

@@ -1,18 +1,12 @@
----
-layout: default
-title: EVENT_011
----
-# EVENT_011: Daniel finalized reports uncovering fraud after using time from March 30 deadline extension
+# Daniel Finalizes Fraud Reports
 
+**ID:** EVENT_011
 **Date:** 2025-06-06
-**Category:** fraud_discovery
+**Burden of Proof:** criminal_95
 
-**Entities Involved:**
-- PERSON_005
+## Description
+Daniel finalized reports uncovering fraud after using time from March 30 deadline extension
 
-**Evidence:**
+## Evidence
 - fraud_reports
 - analysis_documentation
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`

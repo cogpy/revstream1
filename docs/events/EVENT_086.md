@@ -1,18 +1,13 @@
----
-layout: default
-title: EVENT_086
----
-# EVENT_086: Estate documentation for Kayla Pretorius, whose email account later became subject to court-ordered seizure
+# Kayla Pretorius Estate Documentation
 
+**ID:** EVENT_086
 **Date:** 2021-09-10
-**Category:** legal_documentation
+**Burden of Proof:** civil_50%
 
-**Entities Involved:**
-- PERSON_010
-- PERSON_005
+## Description
+Estate documentation for Kayla Pretorius, whose email account later became subject to court-ordered seizure
 
-**Evidence:**
+## Evidence
 - SF6_Kayla_Pretorius_Estate_Documentation.md
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md`
+- JF08 - Mid-period evidence package
+- JF04 - CIPC company records

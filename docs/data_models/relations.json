@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "17.0_REFINED_2026_01_03",
+    "version": "22.0_REFINED_2026_01_10",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-01-03T05:35:11.925883",
-    "changes": "Evidence strength upgrades based on multiple evidence sources",
+    "last_updated": "2026-01-10T05:37:04.465301",
+    "changes": "Enhanced evidence cross-references from ad-res-j7",
     "total_relations": 75
   },
   "relations": {
@@ -81,7 +81,9 @@
         "strength": "complete_ownership",
         "legal_status": "fraudulent",
         "evidence": [
-          "domain_registration_2025_05_29"
+          "domain_registration_2025_05_29",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "purpose": "identity_fraud",
         "evidence_verified": "2025-12-14T05:36:53.168361",
@@ -139,7 +141,9 @@
         "relation_type": "owns",
         "description": "Peter and Daniel Faucitt own RegimaSA (Pty) Ltd",
         "evidence": [
-          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors and shareholders"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors and shareholders",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "significance": "Joint ownership establishes both Peter and Daniel's control and fiduciary duties",
         "evidence_verified": "2025-12-14T05:36:53.168367",
@@ -268,7 +272,9 @@
         "relation_type": "controls_as_director",
         "description": "Peter Faucitt (P.A. Faucitt) is director of RegimaSA",
         "evidence": [
-          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors' Report page 4"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors' Report page 4",
+          "JF07 - System access and control evidence",
+          "SF2 - Sage control screenshots"
         ],
         "significance": "Establishes Peter's control and fiduciary duties; contradicts claims of separation from Regima entities",
         "evidence_verified": "2025-12-14T05:36:53.168380",
@@ -287,7 +293,9 @@
         "relation_type": "controls_as_director",
         "description": "Daniel Faucitt (D.J. Faucitt) is director of RegimaSA",
         "evidence": [
-          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors' Report page 4"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Directors' Report page 4",
+          "JF07 - System access and control evidence",
+          "SF2 - Sage control screenshots"
         ],
         "significance": "Establishes Daniel's control and fiduciary duties",
         "evidence_verified": "2025-12-14T05:36:53.168381",
@@ -350,7 +358,9 @@
         "conspiracy_type": "mother_son_collusion",
         "evidence_strength": "strong",
         "evidence": [
-          "domain_registration_identity_fraud_2025_05_29"
+          "domain_registration_identity_fraud_2025_05_29",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "relationship": "mother_son",
         "evidence_verified": "2025-12-14T05:36:53.168387",
@@ -609,7 +619,9 @@
         "date": "2019-02-28",
         "terms": "Unsecured, no fixed repayment terms, interest at rates agreed upon from time to time",
         "evidence": [
-          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 2, page 11"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 2, page 11",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "significance": "Establishes financial relationship between RegimaSA and ReZonance during debt accumulation period",
         "evidence_verified": "2025-12-14T05:36:53.168404",
@@ -632,7 +644,9 @@
         "date": "2019-02-28",
         "terms": "Unsecured, no fixed repayment terms, interest at rates agreed upon from time to time",
         "evidence": [
-          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 4, page 11"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 4, page 11",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "significance": "Establishes Daniel's financial investment and interest in RegimaSA",
         "evidence_verified": "2025-12-14T05:36:53.168405",
@@ -655,7 +669,9 @@
         "date": "2019-02-28",
         "terms": "Unsecured, no fixed repayment terms, interest at rates agreed upon from time to time",
         "evidence": [
-          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 5, page 11"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Note 5, page 11",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "significance": "Establishes financial relationship with Unicorn Dynamics, another related party entity",
         "evidence_verified": "2025-12-14T05:36:53.168406",
@@ -677,7 +693,9 @@
         "currency": "ZAR",
         "period": "2022-07-30 to 2022-12-29",
         "evidence": [
-          "Rez-WWD.pdf - Supplier Transactions Report"
+          "Rez-WWD.pdf - Supplier Transactions Report",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "significance": "Large debt payments reducing ReZonance debt from R85k to R22k",
         "evidence_verified": "2025-12-14T05:36:53.168408",
@@ -699,7 +717,9 @@
         "currency": "ZAR",
         "period": "2022-03-01 to 2023-02-03",
         "evidence": [
-          "Unicorn-WWD.pdf - Supplier Transactions Report"
+          "Unicorn-WWD.pdf - Supplier Transactions Report",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "significance": "Cleared all Unicorn Dynamics debts by Feb 2023",
         "evidence_verified": "2025-12-14T05:36:53.168409",
@@ -1030,7 +1050,9 @@
         "debt_involved": "R1,035,361.34",
         "legal_status": "estate_asset",
         "evidence": [
-          "estate_documentation"
+          "estate_documentation",
+          "JF04 - CIPC company ownership records",
+          "JF14/JF15 - CIPC registration documents"
         ],
         "significance": "jax_confrontation_about_profiting_from_murder_proceeds",
         "evidence_verified": "2025-12-14T05:36:53.168433",
@@ -1292,7 +1314,9 @@
         "target_entity": "TRUST_001",
         "legal_status": "legitimate",
         "evidence": [
-          "trust_deed"
+          "trust_deed",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "evidence_verified": "2025-12-14T05:36:53.168452",
         "ad_res_j7_evidence": [
@@ -1309,7 +1333,9 @@
         "target_entity": "TRUST_001",
         "legal_status": "legitimate",
         "evidence": [
-          "trust_deed"
+          "trust_deed",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "additional_notes": "Beneficiary being attacked by trustees using trust structure",
         "evidence_verified": "2025-12-14T05:36:53.168454",
@@ -1347,7 +1373,9 @@
         "beneficiary_type": "unauthorized_exclusion",
         "legal_status": "fraudulent",
         "evidence": [
-          "unauthorized_beneficiary_changes_2025_05_02"
+          "unauthorized_beneficiary_changes_2025_05_02",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "perpetrators": [
           "PERSON_001",
@@ -1371,7 +1399,9 @@
         "correspondence_type": "financial_reporting",
         "date": "2020-08-13",
         "evidence": [
-          "trial_balance_email_2020_08_13"
+          "trial_balance_email_2020_08_13",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "significance": "witness_to_financial_control",
         "additional_notes": "Bernadine Wright received trial balance from Bantjes, witness to his control over financial systems",
@@ -1390,7 +1420,9 @@
         "target_entity": "PERSON_010",
         "correspondence_type": "financial_statement_finalization",
         "evidence": [
-          "trial_balance_email_2020_08_13"
+          "trial_balance_email_2020_08_13",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "legal_status": "demonstrates_control",
         "additional_notes": "Bantjies sent trial balance to Bernadine Wright for financial statement finalization meeting",
@@ -1414,7 +1446,9 @@
         "date": "2020-04-30",
         "significance": "profit_extraction_infrastructure",
         "evidence": [
-          "villa_via_trial_balance_apr_2020"
+          "villa_via_trial_balance_apr_2020",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "additional_notes": "Villa Via members loan account showing R22.8M capital extraction, monthly rental income R4.4M",
         "evidence_verified": "2025-12-14T05:36:53.168461",
@@ -1459,7 +1493,9 @@
         "advance_date": "2020-02-28",
         "significance": "financial_dependency_creation",
         "evidence": [
-          "trial_balance_2020"
+          "trial_balance_2020",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "additional_notes": "RST advances R750K to RWW for production costs",
         "evidence_verified": "2025-12-14T05:36:53.168466",
@@ -1480,7 +1516,9 @@
         "knowledge_type": "fraud_and_murder_disclosure",
         "acquisition_date": "2025-06-10",
         "evidence": [
-          "email_received_thanks_daniel_2025_08_29"
+          "email_received_thanks_daniel_2025_08_29",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "legal_status": "knowledge_before_perjury",
         "critical_significance": "Bantjies knew of criminal matters before signing confirmatory affidavit",
@@ -1524,7 +1562,9 @@
         "relation_type": "prepared_financial_statements",
         "description": "Marisca Meyer prepared RegimaSA 2019 financial statements (issued 25 June 2025)",
         "evidence": [
-          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Preparer, page 1"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf - Preparer, page 1",
+          "JF03 - Financial transaction records",
+          "JF08 - Financial evidence packages"
         ],
         "significance": "Retrospective preparation 6+ years after period end; timing coincides with legal proceedings",
         "evidence_verified": "2025-12-14T05:36:53.168471",
@@ -1547,7 +1587,9 @@
         "description": "Bantjies owes R18,685,000 to Faucitt Family Trust",
         "financial_amount": "R18,685,000.00",
         "evidence": [
-          "SF1_Bantjies_Debt_Documentation.md"
+          "SF1_Bantjies_Debt_Documentation.md",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "ad_res_j7_references": [
           "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
@@ -1580,7 +1622,9 @@
         "relation_type": "SYSTEM_CONTROL",
         "description": "Rynette controls Sage accounting system with access to Pete@regima.com email",
         "evidence": [
-          "SF2_Sage_Screenshots_Rynette_Control.md"
+          "SF2_Sage_Screenshots_Rynette_Control.md",
+          "JF07 - System access and control evidence",
+          "SF2 - Sage control screenshots"
         ],
         "ad_res_j7_references": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
@@ -1622,7 +1666,9 @@
         "relation_type": "TAX_AUDIT",
         "description": "SARS conducting tax audit of RegimA companies",
         "evidence": [
-          "SF4_SARS_Audit_Email.md"
+          "SF4_SARS_Audit_Email.md",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "ad_res_j7_references": [
           "ANNEXURES/SF4_SARS_Audit_Email.md"
@@ -1654,7 +1700,9 @@
         "relation_type": "STOCK_SUPPLY",
         "description": "Adderory supplies stock to RegimA (potential fictitious supplier)",
         "evidence": [
-          "SF5_Adderory_Company_Registration_Stock_Supply.md"
+          "SF5_Adderory_Company_Registration_Stock_Supply.md",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "ad_res_j7_references": [
           "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md"
@@ -1686,7 +1734,9 @@
         "relation_type": "legal_representation",
         "description": "Ian Levitt Attorneys represents Peter Faucitt in R63M demand",
         "evidence": [
-          "SF9"
+          "SF9",
+          "JF08 - Comprehensive evidence package",
+          "JF06 - Court documents"
         ],
         "temporal_scope": {
           "start": "2025-10-23",

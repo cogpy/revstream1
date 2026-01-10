@@ -1,18 +1,13 @@
----
-layout: default
-title: EVENT_H003
----
-# EVENT_H003: Financial year commencement for RegimA Skin Treatments and Strategic Logistics, beginning of period covered by trial balance evidence
+# Financial Year Commencement RST/SLG
 
+**ID:** EVENT_H003
 **Date:** 2019-03-01
-**Category:** financial_structure
+**Burden of Proof:** civil_50%
 
-**Entities Involved:**
-- ORG_002
-- ORG_004
+## Description
+Financial year commencement for RegimA Skin Treatments and Strategic Logistics, beginning of period covered by trial balance evidence
 
-**Evidence:**
+## Evidence
 - trial_balance_documentation
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`
+- JF03 - Financial Records (historical)
+- JF14/JF15 - CIPC historical records

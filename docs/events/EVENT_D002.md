@@ -1,20 +1,12 @@
----
-layout: default
-title: EVENT_D002
----
-# EVENT_D002: First structured payment to ReZonance (R40,000), attempt to manage debt through partial payments
+# First Structured Payment to ReZonance
 
+**ID:** EVENT_D002
 **Date:** 2022-07-11
-**Category:** debt_management
+**Burden of Proof:** civil_50%_exceeded
 
-**Entities Involved:**
-- regima_group
-- ORG_008
+## Description
+First structured payment to ReZonance (R40,000), attempt to manage debt through partial payments
 
-**Evidence:**
+## Evidence
 - payment_records
 - bank_statements
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`
-- `ANNEXURES/JF04 - Personal bank records`

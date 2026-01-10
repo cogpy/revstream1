@@ -1,18 +1,13 @@
----
-layout: default
-title: EVENT_054
----
-# EVENT_054: Chantal delivers letter to office regarding Kayla estate finalization, indicating ongoing exploitation of deceased victim's estate
+# Chantal Delivers Letter About Kayla Estate Finalization
 
+**ID:** EVENT_054
 **Date:** 2025-01-15
-**Category:** estate_fraud
+**Burden of Proof:** criminal_95
 
-**Entities Involved:**
-- PERSON_011
+## Description
+Chantal delivers letter to office regarding Kayla estate finalization, indicating ongoing exploitation of deceased victim's estate
 
-**Evidence:**
+## Evidence
 - chantal_letter_january_2025
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`
-- `SF6_Kayla_Pretorius_Estate_Documentation.md`
+- JF08 - Recent evidence package
+- JF06 - Court documents

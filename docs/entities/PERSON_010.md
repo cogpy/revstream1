@@ -1,16 +1,15 @@
----
-layout: default
-title: PERSON_010
----
-# Bernadine Wright (PERSON_010)
+# Bernadine Wright
 
-**Type:** persons
+**ID:** PERSON_010
 **Role:** financial_professional
+**Evidence Strength:** strong
 
-**Evidence:**
-- SF6 - Kayla estate documentation
-- JF08 - Evidence packages
+## Evidence
+- JF08 - Professional evidence
+- JF05 - Email correspondence with Danie Bantjies
+- JF07 - Business operations
 
-**Ad-Res-J7 References:**
-- `ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - Estate related`
-- `ANNEXURES/JF08 - Evidence packages`
+## Ad-Res-J7 References
+- ANNEXURES/JF08/evidence_package_20251012 - Professional documentation
+- ANNEXURES/JF05 - Email correspondence evidence
+- ANNEXURES/JF07 - Business operations records

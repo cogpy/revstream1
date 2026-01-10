@@ -1,19 +1,13 @@
----
-layout: default
-title: EVENT_H018
----
-# EVENT_H018: Bantjies sends trial balance email to Bernadine Wright for financial statement finalization meeting, demonstrating his control over financial systems and accounting records
+# Bantjies Sends Trial Balance Email to Bernadine Wright
 
+**ID:** EVENT_H018
 **Date:** 2020-08-13
-**Category:** accounting_fraud
+**Burden of Proof:** criminal_95
 
-**Entities Involved:**
-- PERSON_010
-- ORG_001
+## Description
+Bantjies sends trial balance email to Bernadine Wright for financial statement finalization meeting, demonstrating his control over financial systems and accounting records
 
-**Evidence:**
+## Evidence
 - trial_balance_email_2020_08_13
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`
-- `SF1_Bantjies_Debt_Documentation.md`
+- JF03 - Financial Records (historical)
+- JF14/JF15 - CIPC historical records

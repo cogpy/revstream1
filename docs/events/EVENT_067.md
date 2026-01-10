@@ -1,22 +1,13 @@
----
-layout: default
-title: EVENT_067
----
-# EVENT_067: RegimA WWD paid R157k+ to ReZonance, reducing debt from R85k to R22k (July-December 2022)
+# EVENT_067
 
+**ID:** EVENT_067
 **Date:** 2022-07-30
-**Category:** Financial transactions
+**Burden of Proof:** civil_50%
 
-**Entities Involved:**
-- ORG_001
-- ORG_008
-- PERSON_001
+## Description
+RegimA WWD paid R157k+ to ReZonance, reducing debt from R85k to R22k (July-December 2022)
 
-**Evidence:**
+## Evidence
 - Rez-WWD.pdf - Supplier Transactions Report
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF06 - Court documents and filings`
-- `ANNEXURES/JF03 - Financial records and analysis`
-- `SF6_Kayla_Pretorius_Estate_Documentation.md`
-- `SF7_Court_Order_Kayla_Email_Seizure.md`
+- JF08 - Mid-period evidence package
+- JF04 - CIPC company records

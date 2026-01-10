@@ -1,23 +1,12 @@
----
-layout: default
-title: EVENT_051
----
-# EVENT_051: Multiple adjusting journal entries across entities for inter-company cost reallocations
+# EVENT_051
 
+**ID:** EVENT_051
 **Date:** 2020-02-20
-**Category:** financial_manipulation
+**Burden of Proof:** criminal_95
 
-**Entities Involved:**
-- ORG_001
-- ORG_002
-- ORG_005
+## Description
+Multiple adjusting journal entries across entities for inter-company cost reallocations
 
-**Evidence:**
+## Evidence
 - JF08 - Evidence packages
 - JF09 - Timeline analysis
-
-**Ad-Res-J7 References:**
-- `SF2_Sage_Screenshots_Rynette_Control.md`
-- `ANNEXURES/JF03 - Financial records and analysis`
-- `ANNEXURES/JF08 - Evidence packages`
-- `ANNEXURES/JF07 - Screenshots and visual evidence`

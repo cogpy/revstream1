@@ -1,21 +1,13 @@
----
-layout: default
-title: EVENT_H012
----
-# EVENT_H012: RegimaSA first financial year end (15 months) showing zero revenue, R1,589 loss, minimal activity
+# EVENT_H012
 
+**ID:** EVENT_H012
 **Date:** 2019-02-28
-**Category:** Financial structure
+**Burden of Proof:** civil_50%
 
-**Entities Involved:**
-- ORG_012
-- ORG_008
-- ORG_013
-- PERSON_001
-- PERSON_005
+## Description
+RegimaSA first financial year end (15 months) showing zero revenue, R1,589 loss, minimal activity
 
-**Evidence:**
+## Evidence
 - RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`
+- JF03 - Financial Records (historical)
+- JF14/JF15 - CIPC historical records

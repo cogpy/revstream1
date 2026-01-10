@@ -1,21 +1,13 @@
----
-layout: default
-title: EVENT_SF2A
----
-# EVENT_SF2A: Discovery of Rynette's dual account access in Sage (Pete@regima.com AND rynette@regima.zone)
+# Rynette Dual Account Access Discovered
 
+**ID:** EVENT_SF2A
 **Date:** 2025-06-20
-**Category:** identity_fraud
+**Burden of Proof:** criminal_95
 
-**Entities Involved:**
-- PERSON_002
-- ORG_001
-- PERSON_001
+## Description
+Discovery of Rynette's dual account access in Sage (Pete@regima.com AND rynette@regima.zone)
 
-**Evidence:**
+## Evidence
 - SF2A
-
-**Ad-Res-J7 References:**
-- `SF2_Sage_Screenshots_Rynette_Control.md`
-- `ANNEXURES/JF03 - Financial records and analysis`
-- `ANNEXURES/JF07 - Screenshots and visual evidence`
+- JF08 - Recent evidence package
+- JF06 - Court documents

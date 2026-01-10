@@ -1,19 +1,12 @@
----
-layout: default
-title: EVENT_D004
----
-# EVENT_D004: RegimA claims payment of R470,000 to ReZonance not reflected in ReZonance records, first documented false payment claim
+# False Payment Claim #1 to ReZonance
 
+**ID:** EVENT_D004
 **Date:** 2023-03-15
-**Category:** fraud
+**Burden of Proof:** criminal_95
 
-**Entities Involved:**
-- regima_group
-- ORG_008
+## Description
+RegimA claims payment of R470,000 to ReZonance not reflected in ReZonance records, first documented false payment claim
 
-**Evidence:**
+## Evidence
 - false_payment_documentation
 - rezonance_account_reconciliation
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`

@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "version": "17.0_CRIMINAL_ENHANCED_2026_01_03",
+    "version": "23.0_REFINED_2026_01_10",
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-01-03T05:35:11.926272",
-    "changes": "Enhanced with criminal threshold markers and significance upgrades"
+    "last_updated": "2026-01-10T05:37:04.471779",
+    "changes": "Enhanced with key actors and evidence references"
   },
   "timeline": [
     {
@@ -16,11 +16,18 @@
       ],
       "primary_category": "Business structure",
       "description": "1 event(s) on 2017-02-24",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "low",
       "evidence_references": [
         "CIPC registration 2017/087935/07",
         "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
+      ],
+      "evidence": [
+        "JF03 - Financial Records",
+        "JF14 - CIPC Historical Records"
       ]
     },
     {
@@ -31,11 +38,18 @@
       ],
       "primary_category": "business_relationship",
       "description": "1 event(s) on 2017-06-30",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "establishment_of_business_relationship_and_trust",
       "evidence_references": [
         "invoice_2017_06_30",
         "service_agreement"
+      ],
+      "evidence": [
+        "JF03 - Financial Records",
+        "JF14 - CIPC Historical Records"
       ]
     },
     {
@@ -46,11 +60,18 @@
       ],
       "primary_category": "business_relationship",
       "description": "1 event(s) on 2017-09-30",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "establishment_of_operational_dependency",
       "evidence_references": [
         "invoices_2017_09_30",
         "service_expansion_documentation"
+      ],
+      "evidence": [
+        "JF03 - Financial Records",
+        "JF14 - CIPC Historical Records"
       ]
     },
     {
@@ -61,10 +82,17 @@
       ],
       "primary_category": "Financial structure",
       "description": "1 event(s) on 2019-02-28",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "low",
       "evidence_references": [
         "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
+      ],
+      "evidence": [
+        "JF03 - Financial Records",
+        "JF14 - CIPC Historical Records"
       ]
     },
     {
@@ -75,10 +103,17 @@
       ],
       "primary_category": "financial_structure",
       "description": "1 event(s) on 2019-03-01",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "foundation_for_inter_company_financial_manipulation",
       "evidence_references": [
         "trial_balance_documentation"
+      ],
+      "evidence": [
+        "JF03 - Financial Records",
+        "JF14 - CIPC Historical Records"
       ]
     },
     {
@@ -89,13 +124,20 @@
       ],
       "primary_category": "financial_structure",
       "description": "1 event(s) on 2019-05-01",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "structural_complexity_enabling_fraud",
       "evidence_references": [
         "VV-TRIALBALANCEAPR20202.xlsx"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF03 - Financial Records",
+        "JF14 - CIPC Historical Records"
+      ]
     },
     {
       "date": "2019-11-20",
@@ -105,10 +147,17 @@
       ],
       "primary_category": "business_structure",
       "description": "1 event(s) on 2019-11-20",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "MEDIUM",
       "evidence_references": [
         "SF5_Adderory_Company_Registration_Stock_Supply.md"
+      ],
+      "evidence": [
+        "JF03 - Financial Records",
+        "JF14 - CIPC Historical Records"
       ]
     },
     {
@@ -120,7 +169,10 @@
       ],
       "primary_category": "financial_manipulation",
       "description": "2 event(s) on 2020-02-20",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "evidence_of_systematic_inter_company_manipulation",
       "evidence_references": [
         "JF08 - Evidence packages",
@@ -129,7 +181,11 @@
         "JF09 - Timeline analysis"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF03 - Financial Records",
+        "JF14 - CIPC Historical Records"
+      ]
     },
     {
       "date": "2020-02-28",
@@ -141,7 +197,10 @@
       ],
       "primary_category": "financial_manipulation",
       "description": "3 event(s) on 2020-02-28",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "profit_concentration_in_director_controlled_entity",
       "evidence_references": [
         "SL-TRIALBALANCE2020.xlsx",
@@ -151,7 +210,11 @@
         "REG-TRIALBALANCE.xlsx"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF03 - Financial Records",
+        "JF14 - CIPC Historical Records"
+      ]
     },
     {
       "date": "2020-04-30",
@@ -162,12 +225,19 @@
       ],
       "primary_category": "profit_extraction",
       "description": "2 event(s) on 2020-04-30",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "evidence_of_capital_extraction_mechanism",
       "evidence_references": [
         "JF08 - Evidence packages",
         "VV-TRIALBALANCEAPR20202.xlsx",
         "JF09 - Timeline analysis"
+      ],
+      "evidence": [
+        "JF03 - Financial Records",
+        "JF14 - CIPC Historical Records"
       ]
     },
     {
@@ -180,7 +250,10 @@
       ],
       "primary_category": "evidence_documentation",
       "description": "3 event(s) on 2020-08-13",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "evidence_of_bantjies_control_over_financial_systems",
       "evidence_references": [
         "JF08 - Evidence packages",
@@ -190,7 +263,11 @@
         "trial_balance_email_2020_08_13"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF03 - Financial Records",
+        "JF14 - CIPC Historical Records"
+      ]
     },
     {
       "date": "2020-08-15",
@@ -200,10 +277,17 @@
       ],
       "primary_category": "system_control",
       "description": "1 event(s) on 2020-08-15",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "CRITICAL",
       "evidence_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md"
+      ],
+      "evidence": [
+        "JF03 - Financial Records",
+        "JF14 - CIPC Historical Records"
       ]
     },
     {
@@ -214,10 +298,17 @@
       ],
       "primary_category": "regulatory_action",
       "description": "1 event(s) on 2021-03-15",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "HIGH",
       "evidence_references": [
         "SF4_SARS_Audit_Email.md"
+      ],
+      "evidence": [
+        "JF08 - Evidence Package",
+        "JF04 - CIPC Records"
       ]
     },
     {
@@ -228,14 +319,21 @@
       ],
       "primary_category": "conspiracy_preparation",
       "description": "1 event(s) on 2021-04-01",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "pre_planning_evidence_demonstrates_long_term_conspiracy",
       "evidence_references": [
         "company_registration_records",
         "cipc_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Evidence Package",
+        "JF04 - CIPC Records"
+      ]
     },
     {
       "date": "2021-09-10",
@@ -245,10 +343,17 @@
       ],
       "primary_category": "legal_documentation",
       "description": "1 event(s) on 2021-09-10",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "MEDIUM",
       "evidence_references": [
         "SF6_Kayla_Pretorius_Estate_Documentation.md"
+      ],
+      "evidence": [
+        "JF08 - Evidence Package",
+        "JF04 - CIPC Records"
       ]
     },
     {
@@ -259,13 +364,20 @@
       ],
       "primary_category": "legal_action",
       "description": "1 event(s) on 2021-10-05",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "HIGH",
       "evidence_references": [
         "SF7_Court_Order_Kayla_Email_Seizure.md"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Evidence Package",
+        "JF04 - CIPC Records"
+      ]
     },
     {
       "date": "2022-03-01",
@@ -275,11 +387,18 @@
       ],
       "primary_category": "debt_accumulation",
       "description": "1 event(s) on 2022-03-01",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "systematic_non_payment_of_legitimate_debts",
       "evidence_references": [
         "rezonance_account_statements",
         "aged_debtor_reports"
+      ],
+      "evidence": [
+        "JF08 - Evidence Package",
+        "JF04 - CIPC Records"
       ]
     },
     {
@@ -290,11 +409,18 @@
       ],
       "primary_category": "debt_management",
       "description": "1 event(s) on 2022-07-11",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "acknowledgment_of_debt_through_payment",
       "evidence_references": [
         "bank_statements",
         "payment_records"
+      ],
+      "evidence": [
+        "JF08 - Evidence Package",
+        "JF04 - CIPC Records"
       ]
     },
     {
@@ -305,10 +431,17 @@
       ],
       "primary_category": "Financial transactions",
       "description": "1 event(s) on 2022-07-30",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "trigger_event_for_estate_exploitation",
       "evidence_references": [
         "Rez-WWD.pdf - Supplier Transactions Report"
+      ],
+      "evidence": [
+        "JF08 - Evidence Package",
+        "JF04 - CIPC Records"
       ]
     },
     {
@@ -319,11 +452,18 @@
       ],
       "primary_category": "criminal_event",
       "description": "1 event(s) on 2023-01-01",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "estate_complications_law_enforcement_investigation",
       "evidence_references": [
         "estate_documentation_pending",
         "police_reports_pending"
+      ],
+      "evidence": [
+        "JF08 - Evidence Package",
+        "JF04 - CIPC Records"
       ]
     },
     {
@@ -334,11 +474,18 @@
       ],
       "primary_category": "debt_accumulation",
       "description": "1 event(s) on 2023-02-28",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "ongoing_systematic_non_payment",
       "evidence_references": [
         "rezonance_final_statement",
         "payment_reconciliation"
+      ],
+      "evidence": [
+        "JF08 - Evidence Package",
+        "JF04 - CIPC Records"
       ]
     },
     {
@@ -349,14 +496,21 @@
       ],
       "primary_category": "fraud",
       "description": "1 event(s) on 2023-03-15",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "fraudulent_payment_claims_to_conceal_debt",
       "evidence_references": [
         "rezonance_account_reconciliation",
         "false_payment_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Evidence Package",
+        "JF04 - CIPC Records"
+      ]
     },
     {
       "date": "2023-09-20",
@@ -366,13 +520,20 @@
       ],
       "primary_category": "fraud",
       "description": "1 event(s) on 2023-09-20",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "systematic_fraud_pattern_escalation",
       "evidence_references": [
         "false_payment_claims_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Evidence Package",
+        "JF04 - CIPC Records"
+      ]
     },
     {
       "date": "2025-01-15",
@@ -383,7 +544,10 @@
       ],
       "primary_category": "estate_exploitation",
       "description": "2 event(s) on 2025-01-15",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "ongoing_estate_exploitation_pattern",
       "evidence_references": [
         "chantal_letter_january_2025",
@@ -391,7 +555,11 @@
         "letter_from_chantal"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-02-14",
@@ -401,14 +569,21 @@
       ],
       "primary_category": "financial_manipulation",
       "description": "1 event(s) on 2025-02-14",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "unauthorized_transfer_without_co_director_authority",
       "evidence_references": [
         "authorization_absence",
         "bank_transfer_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-02-25",
@@ -418,7 +593,10 @@
       ],
       "primary_category": "transfer_pricing_fraud",
       "description": "1 event(s) on 2025-02-25",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "systematic_asset_stripping_transfer_pricing_fraud",
       "evidence_references": [
         "invoice_documentation",
@@ -426,7 +604,11 @@
         "stock_reconciliation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-03-01",
@@ -437,7 +619,10 @@
       ],
       "primary_category": "revenue_theft",
       "description": "2 event(s) on 2025-03-01",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "initial_implementation_of_systematic_financial_fraud",
       "evidence_references": [
         "adderory_supply_documentation",
@@ -447,7 +632,11 @@
         "financial_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-03-15",
@@ -458,7 +647,10 @@
       ],
       "primary_category": "trust_violations",
       "description": "2 event(s) on 2025-03-15",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "initial_documentation_of_trust_structure_manipulation",
       "evidence_references": [
         "trust_documentation",
@@ -467,7 +659,11 @@
         "beneficiary_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-03-30",
@@ -477,7 +673,10 @@
       ],
       "primary_category": "financial_manipulation",
       "description": "1 event(s) on 2025-03-30",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "systematic_financial_manipulation_and_pressure_tactics",
       "evidence_references": [
         "SARS_submissions",
@@ -485,7 +684,11 @@
         "accounting_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-04-01",
@@ -495,14 +698,21 @@
       ],
       "primary_category": "financial_manipulation",
       "description": "1 event(s) on 2025-04-01",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "initial_implementation_of_systematic_financial_fraud",
       "evidence_references": [
         "bank_records",
         "payment_gateway_logs"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-04-14",
@@ -512,14 +722,21 @@
       ],
       "primary_category": "revenue_theft",
       "description": "1 event(s) on 2025-04-14",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "first_documented_act_in_coordinated_scheme",
       "evidence_references": [
         "bank_letter",
         "account_change_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-04-22",
@@ -530,7 +747,10 @@
       ],
       "primary_category": "infrastructure_seizure",
       "description": "2 event(s) on 2025-04-22",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "infrastructure_control_seizure",
       "evidence_references": [
         "system_access_logs_pending",
@@ -538,7 +758,11 @@
         "it_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-04-30",
@@ -548,13 +772,20 @@
       ],
       "primary_category": "evidence_tampering",
       "description": "1 event(s) on 2025-04-30",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "evidence_tampering_obstruction_of_justice",
       "evidence_references": [
         "office_inventory_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-05-02",
@@ -564,14 +795,21 @@
       ],
       "primary_category": "trust_violations",
       "description": "1 event(s) on 2025-05-02",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "direct_violation_of_trust_obligations_and_beneficiary_rights",
       "evidence_references": [
         "beneficiary_correspondence",
         "trust_amendment_documents"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-05-15",
@@ -583,7 +821,10 @@
       ],
       "primary_category": "financial_dispute",
       "description": "3 event(s) on 2025-05-15",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "confrontation_triggering_subsequent_retaliation",
       "evidence_references": [
         "authorization_logs",
@@ -593,7 +834,11 @@
         "debt_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-05-22",
@@ -603,7 +848,10 @@
       ],
       "primary_category": "revenue_theft",
       "description": "1 event(s) on 2025-05-22",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
       "evidence_references": [
         "platform_access_logs",
@@ -613,7 +861,11 @@
         "audit_trail_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-05-29",
@@ -623,14 +875,21 @@
       ],
       "primary_category": "revenue_theft",
       "description": "1 event(s) on 2025-05-29",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "family_conspiracy_escalation_and_digital_impersonation",
       "evidence_references": [
         "domain_registration_records",
         "whois_data"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-06-06",
@@ -641,7 +900,10 @@
       ],
       "primary_category": "fraud_discovery",
       "description": "2 event(s) on 2025-06-06",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "fraud_discovery_and_documentation",
       "evidence_references": [
         "fraud_reports",
@@ -649,7 +911,11 @@
         "email_to_bantjies_2025_06_06"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-06-07",
@@ -659,14 +925,21 @@
       ],
       "primary_category": "financial_manipulation",
       "description": "1 event(s) on 2025-06-07",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "sabotage_of_payment_capability",
       "evidence_references": [
         "card_cancellation_logs",
         "bank_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-06-10",
@@ -680,7 +953,10 @@
       ],
       "primary_category": "fraud_concealment",
       "description": "5 event(s) on 2025-06-10",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "CRITICAL",
       "evidence_references": [
         "Email: The RegimA Group results and Computer Expense analysis (2025-06-10)",
@@ -690,7 +966,11 @@
         "email_received_thanks_daniel_2025_08_29"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-06-18",
@@ -700,14 +980,21 @@
       ],
       "primary_category": "trust_violations",
       "description": "1 event(s) on 2025-06-18",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "clear_evidence_of_trustee_misconduct_and_self_dealing",
       "evidence_references": [
         "trust_transaction_records",
         "conflict_of_interest_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-06-20",
@@ -719,7 +1006,10 @@
       ],
       "primary_category": "revenue_theft",
       "description": "3 event(s) on 2025-06-20",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "CRITICAL",
       "evidence_references": [
         "customer_communications",
@@ -729,7 +1019,11 @@
         "domain_switch_email"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-06-25",
@@ -739,10 +1033,17 @@
       ],
       "primary_category": "Evidence documentation",
       "description": "1 event(s) on 2025-06-25",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "Document preparation timing suggests response to legal proceedings; establishes Peter's directorship and control",
       "evidence_references": [
         "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
+      ],
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
       ]
     },
     {
@@ -753,14 +1054,21 @@
       ],
       "primary_category": "financial_manipulation",
       "description": "1 event(s) on 2025-06-30",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "evidence_of_sophisticated_financial_crime_coordination",
       "evidence_references": [
         "bank_transfer_records",
         "financial_flow_analysis"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-07-08",
@@ -770,14 +1078,21 @@
       ],
       "primary_category": "revenue_theft",
       "description": "1 event(s) on 2025-07-08",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "documented_evidence_of_systematic_business_destruction",
       "evidence_references": [
         "popi_violation_documentation",
         "warehouse_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-07-12",
@@ -787,14 +1102,21 @@
       ],
       "primary_category": "financial_manipulation",
       "description": "1 event(s) on 2025-07-12",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "documented_evidence_of_financial_system_abuse_and_unauthorized_control",
       "evidence_references": [
         "account_access_logs",
         "control_change_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-07-23",
@@ -805,12 +1127,19 @@
       ],
       "primary_category": "Access control",
       "description": "2 event(s) on 2025-07-23",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "low",
       "evidence_references": [
         "Sage screenshot 2025-08-25 - Accounting Registration Expired",
         "SF2B - Sage expiry notice",
         "SF2B"
+      ],
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
       ]
     },
     {
@@ -821,14 +1150,21 @@
       ],
       "primary_category": "trust_violations",
       "description": "1 event(s) on 2025-07-25",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "documented_theft_of_trust_property_and_breach_of_fiduciary_duty",
       "evidence_references": [
         "trust_property_documentation",
         "asset_transfer_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-08-10",
@@ -838,11 +1174,18 @@
       ],
       "primary_category": "trust_violations",
       "description": "1 event(s) on 2025-08-10",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "systematic_evidence_of_ongoing_trust_law_violations",
       "evidence_references": [
         "trust_violation_documentation",
         "ongoing_breach_records"
+      ],
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
       ]
     },
     {
@@ -853,13 +1196,20 @@
       ],
       "primary_category": "legal_manipulation",
       "description": "1 event(s) on 2025-08-11",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "strategic_litigation_tactic_not_genuine_business_protection",
       "evidence_references": [
         "settlement_agreement_2025_08_11"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-08-13",
@@ -870,7 +1220,10 @@
       ],
       "primary_category": "trust_violations",
       "description": "2 event(s) on 2025-08-13",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "professional_misconduct_and_conflict_of_interest",
       "evidence_references": [
         "JF08 - Evidence packages",
@@ -878,7 +1231,11 @@
         "JF09 - Timeline analysis"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-08-15",
@@ -888,13 +1245,20 @@
       ],
       "primary_category": "revenue_theft",
       "description": "1 event(s) on 2025-08-15",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "witness_testimony_confirming_customer_hijacking",
       "evidence_references": [
         "gee_email_to_jax"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-08-20",
@@ -904,14 +1268,21 @@
       ],
       "primary_category": "financial_manipulation",
       "description": "1 event(s) on 2025-08-20",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "consciousness_of_guilt_through_evidence_destruction_attempts",
       "evidence_references": [
         "evidence_destruction_records",
         "concealment_documentation"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-08-29",
@@ -921,10 +1292,17 @@
       ],
       "primary_category": "legal_misconduct",
       "description": "1 event(s) on 2025-08-29",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "professional_misconduct_evidence_suppression",
       "evidence_references": [
         "email_received_thanks_daniel_2025_08_29"
+      ],
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
       ]
     },
     {
@@ -935,14 +1313,21 @@
       ],
       "primary_category": "financial_manipulation",
       "description": "1 event(s) on 2025-09-11",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "final_stage_of_financial_destruction",
       "evidence_references": [
         "bank_statements",
         "account_balance_records"
       ],
       "criminal_threshold": "yes",
-      "burden_of_proof": "criminal_95"
+      "burden_of_proof": "criminal_95",
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
+      ]
     },
     {
       "date": "2025-10-23",
@@ -952,10 +1337,17 @@
       ],
       "primary_category": "legal_action",
       "description": "1 event(s) on 2025-10-23",
-      "key_actors": [],
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
       "legal_significance": "low",
       "evidence_references": [
         "SF9"
+      ],
+      "evidence": [
+        "JF08 - Recent Evidence",
+        "JF06 - Court Documents"
       ]
     }
   ]

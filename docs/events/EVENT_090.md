@@ -1,19 +1,13 @@
----
-layout: default
-title: EVENT_090
----
-# EVENT_090: Screenshot evidence shows Rynette with control of Sage accounting system and access to Pete@regima.com email
+# Rynette Farrar Demonstrates Sage System Control
 
+**ID:** EVENT_090
 **Date:** 2020-08-15
-**Category:** system_control
+**Burden of Proof:** civil_50%
 
-**Entities Involved:**
-- PERSON_002
-- ORG_001
-- PLATFORM_001
+## Description
+Screenshot evidence shows Rynette with control of Sage accounting system and access to Pete@regima.com email
 
-**Evidence:**
+## Evidence
 - SF2_Sage_Screenshots_Rynette_Control.md
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md`
+- JF03 - Financial Records (historical)
+- JF14/JF15 - CIPC historical records

@@ -1,19 +1,12 @@
----
-layout: default
-title: EVENT_053
----
-# EVENT_053: Villa Via financial year-end showing R3.7M profit and R22.8M members loan
+# EVENT_053
 
+**ID:** EVENT_053
 **Date:** 2020-04-30
-**Category:** profit_extraction
+**Burden of Proof:** civil_50%_exceeded
 
-**Entities Involved:**
-- ORG_004
+## Description
+Villa Via financial year-end showing R3.7M profit and R22.8M members loan
 
-**Evidence:**
+## Evidence
 - JF08 - Evidence packages
 - JF09 - Timeline analysis
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`
-- `ANNEXURES/JF08 - Evidence packages`

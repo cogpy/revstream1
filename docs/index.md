@@ -43,9 +43,9 @@ This documentation repository provides a comprehensively refined, evidence-based
 - **[Timeline](timeline.md)** - Interactive chronological timeline
 
 ### ⚖️ Legal Filings
-- **[CIPC Companies Act Complaint](filings/CIPC_COMPLAINT_REFINED_2026_01_09.md)** - Director misconduct and trust violations
-- **[POPIA Criminal Complaint](filings/POPIA_COMPLAINT_REFINED_2026_01_09.md)** - Personal information breaches
-- **[NPA Tax Fraud Report](filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_09.md)** - Revenue diversion and accounting fraud
+- **[CIPC Companies Act Complaint](filings/CIPC_COMPLAINT_REFINED_2026_01_10.md)** - Director misconduct and trust violations
+- **[POPIA Criminal Complaint](filings/POPIA_COMPLAINT_REFINED_2026_01_10.md)** - Personal information breaches
+- **[NPA Tax Fraud Report](filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_10.md)** - Revenue diversion and accounting fraud
 
 ### 📁 Evidence Index
 - **[Evidence Index](evidence-index-enhanced.md)** - Comprehensive evidence catalog with ad-res-j7 references
@@ -89,6 +89,13 @@ This documentation repository provides a comprehensively refined, evidence-based
 ---
 
 ## Recent Updates
+
+**2026-01-10:**
+- Refined all data models with comprehensive evidence from ad-res-j7.
+- Enhanced 14 entities, 25 relations, 27 events, and 56 timeline entries.
+- Upgraded Kayla Pretorius to conclusive evidence status.
+- Updated data models to v27.0 (entities), v22.0 (relations), v25.0 (events), v23.0 (timeline)
+
 
 **2026-01-09 (Update 4):**
 - Added 8 new persons and 6 new organizations from 27 distributor/client CIPC documents

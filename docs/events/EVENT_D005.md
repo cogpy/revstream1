@@ -1,18 +1,13 @@
----
-layout: default
-title: EVENT_D005
----
-# EVENT_D005: Additional false payment claims totaling R765,361.34 to ReZonance, escalation of fraudulent payment claims
+# False Payment Claim #2 to ReZonance
 
+**ID:** EVENT_D005
 **Date:** 2023-09-20
-**Category:** fraud
+**Burden of Proof:** criminal_95
 
-**Entities Involved:**
-- regima_group
-- ORG_008
+## Description
+Additional false payment claims totaling R765,361.34 to ReZonance, escalation of fraudulent payment claims
 
-**Evidence:**
+## Evidence
 - false_payment_claims_documentation
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`
+- JF08 - Mid-period evidence package
+- JF04 - CIPC company records

@@ -1,14 +1,13 @@
----
-layout: default
-title: EVENT_061
----
-# EVENT_061: ENS Africa acknowledges receipt of criminal matters information with 'Received, thanks Daniel' email, then suppresses this information from Court
+# ENS Africa Acknowledges Criminal Matters Then Suppresses
 
+**ID:** EVENT_061
 **Date:** 2025-08-29
-**Category:** legal_misconduct
+**Burden of Proof:** civil_50%
 
-**Evidence:**
+## Description
+ENS Africa acknowledges receipt of criminal matters information with 'Received, thanks Daniel' email, then suppresses this information from Court
+
+## Evidence
 - email_received_thanks_daniel_2025_08_29
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF06 - Court documents and filings`
+- JF08 - Recent evidence package
+- JF06 - Court documents

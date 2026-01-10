@@ -1,20 +1,13 @@
----
-layout: default
-title: EVENT_088
----
-# EVENT_088: SARS notifies RegimA companies of tax audit, providing independent regulatory scrutiny
+# SARS Tax Audit Notification
 
+**ID:** EVENT_088
 **Date:** 2021-03-15
-**Category:** regulatory_action
+**Burden of Proof:** civil_50%
 
-**Entities Involved:**
-- ORG_001
-- ORG_002
-- ORG_004
-- ORG_012
+## Description
+SARS notifies RegimA companies of tax audit, providing independent regulatory scrutiny
 
-**Evidence:**
+## Evidence
 - SF4_SARS_Audit_Email.md
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/SF4_SARS_Audit_Email.md`
+- JF08 - Mid-period evidence package
+- JF04 - CIPC company records

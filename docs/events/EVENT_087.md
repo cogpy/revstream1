@@ -1,19 +1,13 @@
----
-layout: default
-title: EVENT_087
----
-# EVENT_087: Court orders seizure of Kayla Pretorius email account for evidence of fraudulent activities
+# Court Order for Kayla Pretorius Email Account Seizure
 
+**ID:** EVENT_087
 **Date:** 2021-10-05
-**Category:** legal_action
+**Burden of Proof:** criminal_95
 
-**Entities Involved:**
-- PERSON_010
-- PERSON_001
-- PERSON_005
+## Description
+Court orders seizure of Kayla Pretorius email account for evidence of fraudulent activities
 
-**Evidence:**
+## Evidence
 - SF7_Court_Order_Kayla_Email_Seizure.md
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md`
+- JF08 - Mid-period evidence package
+- JF04 - CIPC company records

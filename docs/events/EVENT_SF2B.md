@@ -1,20 +1,13 @@
----
-layout: default
-title: EVENT_SF2B
----
-# EVENT_SF2B: Sage accounting subscription expired, Rynette controls reactivation, all parties denied access for over 1 month
+# Sage Subscription Expired - Access Obstruction
 
+**ID:** EVENT_SF2B
 **Date:** 2025-07-23
-**Category:** obstruction_of_access
+**Burden of Proof:** civil_50%
 
-**Entities Involved:**
-- PERSON_002
-- ORG_001
-- PERSON_001
+## Description
+Sage accounting subscription expired, Rynette controls reactivation, all parties denied access for over 1 month
 
-**Evidence:**
+## Evidence
 - SF2B
-
-**Ad-Res-J7 References:**
-- `SF2_Sage_Screenshots_Rynette_Control.md`
-- `ANNEXURES/JF07 - Screenshots and visual evidence`
+- JF08 - Recent evidence package
+- JF06 - Court documents

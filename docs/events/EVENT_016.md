@@ -1,20 +1,12 @@
----
-layout: default
-title: EVENT_016
----
-# EVENT_016: Complete operational shutdown. Documented evidence of systematic business destruction. Shutdown of operations for platform continuously funded by RegimA Zone Ltd (28 months)
+# Warehouse POPI Violations
 
+**ID:** EVENT_016
 **Date:** 2025-07-08
-**Category:** revenue_theft
+**Burden of Proof:** criminal_95
 
-**Entities Involved:**
-- PLATFORM_001
-- warehouse_operations
+## Description
+Complete operational shutdown. Documented evidence of systematic business destruction. Shutdown of operations for platform continuously funded by RegimA Zone Ltd (28 months)
 
-**Evidence:**
+## Evidence
 - warehouse_records
 - popi_violation_documentation
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF01 - Shopify Plus email evidence`
-- `ANNEXURES/JF03 - Financial records and analysis`

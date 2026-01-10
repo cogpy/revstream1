@@ -1,17 +1,13 @@
----
-layout: default
-title: EVENT_060
----
-# EVENT_060: Peter files founding affidavit containing material non-disclosures and perjury regarding email control, filed 2 days after settlement agreement
+# Peter Files Founding Affidavit with Material Non-Disclosures
 
+**ID:** EVENT_060
 **Date:** 2025-08-13
-**Category:** perjury
+**Burden of Proof:** criminal_95
 
-**Entities Involved:**
-- ORG_001
+## Description
+Peter files founding affidavit containing material non-disclosures and perjury regarding email control, filed 2 days after settlement agreement
 
-**Evidence:**
+## Evidence
 - founding_affidavit_2025_08_13
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF06 - Court documents and filings`
+- JF08 - Recent evidence package
+- JF06 - Court documents

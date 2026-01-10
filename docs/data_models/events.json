@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "20.0_CRIMINAL_THRESHOLD_2026_01_03",
+    "version": "25.0_REFINED_2026_01_10",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 77,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-01-03T05:35:11.926177",
-    "changes": "Identified 46 criminal threshold events",
+    "last_updated": "2026-01-10T05:37:04.468322",
+    "changes": "Enhanced evidence documentation from ad-res-j7",
     "phase_statistics": {
       "PHASE_1": 25,
       "PHASE_2": 4,
@@ -145,7 +145,9 @@
       },
       "significance": "Evidence of shell company with no operations; related party loans to ReZonance during debt accumulation period",
       "evidence": [
-        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
+        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
+        "JF03 - Financial Records (historical)",
+        "JF14/JF15 - CIPC historical records"
       ],
       "timeline_phase": "PHASE_000",
       "related_events": [
@@ -181,7 +183,9 @@
       "financial_impact": "unknown",
       "legal_significance": "foundation_for_inter_company_financial_manipulation",
       "evidence": [
-        "trial_balance_documentation"
+        "trial_balance_documentation",
+        "JF03 - Financial Records (historical)",
+        "JF14/JF15 - CIPC historical records"
       ],
       "pattern": "historical_foundation",
       "timeline_phase": "PHASE_000",
@@ -213,7 +217,9 @@
       "financial_impact": "unknown",
       "legal_significance": "structural_complexity_enabling_fraud",
       "evidence": [
-        "VV-TRIALBALANCEAPR20202.xlsx"
+        "VV-TRIALBALANCEAPR20202.xlsx",
+        "JF03 - Financial Records (historical)",
+        "JF14/JF15 - CIPC historical records"
       ],
       "pattern": "historical_foundation",
       "timeline_phase": "PHASE_000",
@@ -239,7 +245,9 @@
         "ORG_001"
       ],
       "evidence": [
-        "SF5_Adderory_Company_Registration_Stock_Supply.md"
+        "SF5_Adderory_Company_Registration_Stock_Supply.md",
+        "JF03 - Financial Records (historical)",
+        "JF14/JF15 - CIPC historical records"
       ],
       "ad_res_j7_references": [
         "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md"
@@ -446,7 +454,9 @@
       ],
       "financial_impact": "R18,685,000.00",
       "evidence": [
-        "SF1_Bantjies_Debt_Documentation.md"
+        "SF1_Bantjies_Debt_Documentation.md",
+        "JF03 - Financial Records (historical)",
+        "JF14/JF15 - CIPC historical records"
       ],
       "ad_res_j7_references": [
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
@@ -498,7 +508,9 @@
       "financial_impact": "R22,800,000",
       "legal_significance": "evidence_of_capital_extraction_mechanism",
       "evidence": [
-        "VV-TRIALBALANCEAPR20202.xlsx"
+        "VV-TRIALBALANCEAPR20202.xlsx",
+        "JF03 - Financial Records (historical)",
+        "JF14/JF15 - CIPC historical records"
       ],
       "pattern": "historical_foundation",
       "critical": true,
@@ -643,7 +655,9 @@
       "description": "Bantjies sends trial balance email to Bernadine Wright for financial statement finalization meeting, demonstrating his control over financial systems and accounting records",
       "legal_significance": "demonstrates_bantjies_control_of_financial_systems",
       "evidence": [
-        "trial_balance_email_2020_08_13"
+        "trial_balance_email_2020_08_13",
+        "JF03 - Financial Records (historical)",
+        "JF14/JF15 - CIPC historical records"
       ],
       "pattern": "historical_foundation",
       "timeline_phase": "PHASE_000",
@@ -671,7 +685,9 @@
         "ORG_001"
       ],
       "evidence": [
-        "SF2_Sage_Screenshots_Rynette_Control.md"
+        "SF2_Sage_Screenshots_Rynette_Control.md",
+        "JF03 - Financial Records (historical)",
+        "JF14/JF15 - CIPC historical records"
       ],
       "ad_res_j7_references": [
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
@@ -711,7 +727,9 @@
         "ORG_001"
       ],
       "evidence": [
-        "SF4_SARS_Audit_Email.md"
+        "SF4_SARS_Audit_Email.md",
+        "JF08 - Mid-period evidence package",
+        "JF04 - CIPC company records"
       ],
       "ad_res_j7_references": [
         "ANNEXURES/SF4_SARS_Audit_Email.md"
@@ -784,7 +802,9 @@
         "PERSON_013"
       ],
       "evidence": [
-        "SF6_Kayla_Pretorius_Estate_Documentation.md"
+        "SF6_Kayla_Pretorius_Estate_Documentation.md",
+        "JF08 - Mid-period evidence package",
+        "JF04 - CIPC company records"
       ],
       "ad_res_j7_references": [
         "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md"
@@ -816,7 +836,9 @@
         "PERSON_013"
       ],
       "evidence": [
-        "SF7_Court_Order_Kayla_Email_Seizure.md"
+        "SF7_Court_Order_Kayla_Email_Seizure.md",
+        "JF08 - Mid-period evidence package",
+        "JF04 - CIPC company records"
       ],
       "ad_res_j7_references": [
         "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md"
@@ -938,7 +960,9 @@
       "financial_impact": -157315.35,
       "significance": "Large debt payments during pre-fraud period; debt reduction suggests legitimate business relationship or settlement strategy",
       "evidence": [
-        "Rez-WWD.pdf - Supplier Transactions Report"
+        "Rez-WWD.pdf - Supplier Transactions Report",
+        "JF08 - Mid-period evidence package",
+        "JF04 - CIPC company records"
       ],
       "timeline_phase": "PHASE_000",
       "related_events": [],
@@ -1111,7 +1135,9 @@
       "financial_impact": "R765,361.34",
       "legal_significance": "systematic_fraud_pattern_escalation",
       "evidence": [
-        "false_payment_claims_documentation"
+        "false_payment_claims_documentation",
+        "JF08 - Mid-period evidence package",
+        "JF04 - CIPC company records"
       ],
       "pattern": "debt_accumulation",
       "critical": true,
@@ -1185,7 +1211,9 @@
       "description": "Chantal delivers letter to office regarding Kayla estate finalization, indicating ongoing exploitation of deceased victim's estate",
       "legal_significance": "continued_exploitation_of_deceased_victims_estate",
       "evidence": [
-        "chantal_letter_january_2025"
+        "chantal_letter_january_2025",
+        "JF08 - Recent evidence package",
+        "JF06 - Court documents"
       ],
       "pattern": "debt_accumulation",
       "ad_res_j7_evidence": [
@@ -1657,7 +1685,9 @@
       "financial_impact": "unknown_amount",
       "legal_significance": "evidence_tampering_preparation_obstruction_of_justice",
       "evidence": [
-        "it_system_removal_instruction"
+        "it_system_removal_instruction",
+        "JF08 - Recent evidence package",
+        "JF06 - Court documents"
       ],
       "pattern": "escalation_phase",
       "timeline_phase": "PHASE_002",
@@ -1691,7 +1721,9 @@
       "description": "Physical server hardware disappears from office premises, potential evidence destruction or data harvesting in preparation for subsequent financial crimes",
       "legal_significance": "evidence_tampering_obstruction_of_justice",
       "evidence": [
-        "office_inventory_records"
+        "office_inventory_records",
+        "JF08 - Recent evidence package",
+        "JF06 - Court documents"
       ],
       "pattern": "escalation_phase",
       "timeline_phase": "PHASE_002",
@@ -1908,7 +1940,7 @@
       "entities_involved": [
         "PLATFORM_001"
       ],
-      "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
+      "description": "CRITICAL EVENT: R1M+ monthly revenue → R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
       "financial_impact": "R1,000,000+ monthly",
       "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
       "evidence": [
@@ -2043,7 +2075,9 @@
       "description": "Daniel sends comprehensive documentation to Bantjies including listing of all companies, Shopify store operations, and preliminary reports, demonstrating full transparency",
       "legal_significance": "evidence_of_full_disclosure_and_transparency",
       "evidence": [
-        "email_to_bantjies_2025_06_06"
+        "email_to_bantjies_2025_06_06",
+        "JF08 - Recent evidence package",
+        "JF06 - Court documents"
       ],
       "pattern": "consolidation_phase",
       "timeline_phase": "PHASE_004",
@@ -2246,7 +2280,9 @@
       "description": "Daniel reports to Bantjies about Kayla's murder (August 2023) and Peter stealing funds after murder, including over R1.8M owed to Rezonance. Bantjies acquires knowledge of criminal matters before signing confirmatory affidavit.",
       "legal_significance": "consciousness_of_guilt_fraud_concealment",
       "evidence": [
-        "email_received_thanks_daniel_2025_08_29"
+        "email_received_thanks_daniel_2025_08_29",
+        "JF08 - Recent evidence package",
+        "JF06 - Court documents"
       ],
       "pattern": "consolidation_phase",
       "critical": true,
@@ -2285,7 +2321,9 @@
       "financial_impact": -10000000,
       "significance": "Massive financial deterioration acknowledged by accountant; Bantjes dismisses detailed audit despite acknowledging losses",
       "evidence": [
-        "Email: The RegimA Group results and Computer Expense analysis (2025-06-10)"
+        "Email: The RegimA Group results and Computer Expense analysis (2025-06-10)",
+        "JF08 - Recent evidence package",
+        "JF06 - Court documents"
       ],
       "timeline_phase": "PHASE_006",
       "related_events": [
@@ -2463,7 +2501,9 @@
         "PERSON_001"
       ],
       "evidence": [
-        "SF2A"
+        "SF2A",
+        "JF08 - Recent evidence package",
+        "JF06 - Court documents"
       ],
       "legal_implications": [
         "Identity fraud",
@@ -2519,7 +2559,9 @@
       "financial_impact": 0,
       "significance": "Retrospective preparation timing coincides with legal proceedings in case 2025-137857; suggests strategic document preparation for legal defense",
       "evidence": [
-        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
+        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
+        "JF08 - Recent evidence package",
+        "JF06 - Court documents"
       ],
       "timeline_phase": "PHASE_006",
       "related_events": [
@@ -2740,7 +2782,9 @@
         "PERSON_001"
       ],
       "evidence": [
-        "SF2B"
+        "SF2B",
+        "JF08 - Recent evidence package",
+        "JF06 - Court documents"
       ],
       "legal_implications": [
         "Section 163 Companies Act - oppression",
@@ -2873,7 +2917,9 @@
       "description": "Settlement agreement signed 2 days before interdict filing, demonstrating strategic coordination and timing to create leverage",
       "legal_significance": "strategic_litigation_tactic_not_genuine_business_protection",
       "evidence": [
-        "settlement_agreement_2025_08_11"
+        "settlement_agreement_2025_08_11",
+        "JF08 - Recent evidence package",
+        "JF06 - Court documents"
       ],
       "pattern": "cover_up_phase",
       "critical": true,
@@ -2949,7 +2995,9 @@
       "description": "Peter files founding affidavit containing material non-disclosures and perjury regarding email control, filed 2 days after settlement agreement",
       "legal_significance": "perjury_material_non_disclosure_manufactured_crisis",
       "evidence": [
-        "founding_affidavit_2025_08_13"
+        "founding_affidavit_2025_08_13",
+        "JF08 - Recent evidence package",
+        "JF06 - Court documents"
       ],
       "pattern": "cover_up_phase",
       "critical": true,
@@ -2983,7 +3031,9 @@
       "financial_impact": "unknown_amount",
       "legal_significance": "witness_testimony_confirming_customer_hijacking",
       "evidence": [
-        "gee_email_to_jax"
+        "gee_email_to_jax",
+        "JF08 - Recent evidence package",
+        "JF06 - Court documents"
       ],
       "pattern": "cover_up_phase",
       "timeline_phase": "PHASE_006",
@@ -3067,7 +3117,9 @@
       "description": "ENS Africa acknowledges receipt of criminal matters information with 'Received, thanks Daniel' email, then suppresses this information from Court",
       "legal_significance": "professional_misconduct_evidence_suppression",
       "evidence": [
-        "email_received_thanks_daniel_2025_08_29"
+        "email_received_thanks_daniel_2025_08_29",
+        "JF08 - Recent evidence package",
+        "JF06 - Court documents"
       ],
       "pattern": "cover_up_phase",
       "critical": true,
@@ -3138,7 +3190,9 @@
         "PERSON_005"
       ],
       "evidence": [
-        "SF9"
+        "SF9",
+        "JF08 - Recent evidence package",
+        "JF06 - Court documents"
       ],
       "legal_implications": [
         "Establishes quantum of claim",

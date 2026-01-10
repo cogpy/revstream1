@@ -1,20 +1,12 @@
----
-layout: default
-title: EVENT_019
----
-# EVENT_019: Complete compromise of trust integrity. Systematic evidence of ongoing trust law violations
+# Trust Breach Evidence
 
+**ID:** EVENT_019
 **Date:** 2025-08-10
-**Category:** trust_violations
+**Burden of Proof:** civil_50%_exceeded
 
-**Entities Involved:**
-- TRUST_001
+## Description
+Complete compromise of trust integrity. Systematic evidence of ongoing trust law violations
 
-**Evidence:**
+## Evidence
 - trust_violation_documentation
 - ongoing_breach_records
-
-**Ad-Res-J7 References:**
-- `ANNEXURES/JF03 - Financial records and analysis`
-- `SF1_Bantjies_Debt_Documentation.md`
-- `ANNEXURES/JF10 - Trust documents`
