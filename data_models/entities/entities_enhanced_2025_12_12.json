@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "version": "9.0_EVIDENCE_ENHANCED",
+    "version": "9.0_ENHANCED_20260111",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2025-12-12T05:37:57.342408",
+    "last_updated": "2026-01-11T05:34:40.727601",
     "changes": "Enhanced all entity profiles with ad-res-j7 evidence cross-references (2025-12-12)"
   },
   "entities": {
@@ -594,7 +594,14 @@
           "loss_entity_in_inter_company_manipulation"
         ],
         "additional_notes": "Positioned as loss entity with R13M debt to RST, paid R414K interest Feb 2020, pattern consistent with R5.4M stock lossPositioned as loss entity with R13M debt to RST, paid R414K interest Feb 2020, pattern consistent with R5.4M stock loss",
-        "role": "trust_owned_warehouse_and_logistics"
+        "role": "trust_owned_warehouse_and_logistics",
+        "ad_res_j7_references": [
+          "ANNEXURES/JF01/Re_ The RegimA Group results and Computer Expense analysis.eml",
+          "ANNEXURES/JF03/Fw_ The RegimA Group results and Computer Expense analysis.eml",
+          "ANNEXURES/JF03/Fw_ The RegimA Group results and Computer Expense analysis.msg",
+          "ANNEXURES/JF03/Re_ The RegimA Group results and Computer Expense analysis.eml"
+        ],
+        "evidence_enhanced": "2026-01-11T05:34:40.727543"
       },
       {
         "entity_id": "ORG_005",
@@ -638,7 +645,30 @@
         "timeline_events": [
           "diversion_started_2025_03_01"
         ],
-        "role": "revenue_stream_victim"
+        "role": "revenue_stream_victim",
+        "ad_res_j7_references": [
+          "ANNEXURES/JF01/Re_ The RegimA Group results and Computer Expense analysis.eml",
+          "ANNEXURES/JF01/Re_ belongs to regimA.eml",
+          "ANNEXURES/JF03/Fw_ The RegimA Group results and Computer Expense analysis.eml",
+          "ANNEXURES/JF03/Fw_ The RegimA Group results and Computer Expense analysis.msg",
+          "ANNEXURES/JF03/Re_ The RegimA Group results and Computer Expense analysis.eml",
+          "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+          "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json",
+          "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md",
+          "ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+          "ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.json",
+          "ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2017to29February2018.PDF",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2018to29February2019.PDF",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2019to29February2020.PDF",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2020to28February2021.PDF",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2021to28February2022.PDF",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2023to29February2024.PDF",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2024to28February2025.PDF",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2025to28February2026.PDF"
+        ],
+        "evidence_enhanced": "2026-01-11T05:34:40.727578"
       },
       {
         "entity_id": "ORG_008",
@@ -834,7 +864,12 @@
           "CIPC registration 2017/087935/07"
         ],
         "note": "RegimaSA (lowercase 'a') - NOT the same as RegimA SA (capital 'A')",
-        "clarification": "This entity (2017/087935/07) is separate from RegimA SA (Pty) Ltd which was created in 2021"
+        "clarification": "This entity (2017/087935/07) is separate from RegimA SA (Pty) Ltd which was created in 2021",
+        "ad_res_j7_references": [
+          "ANNEXURES/JF02/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+          "ANNEXURES/JF08/evidence_package_20250523/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf"
+        ],
+        "evidence_enhanced": "2026-01-11T05:34:40.727590"
       },
       {
         "entity_id": "ORG_013",
@@ -881,7 +916,30 @@
           "Sage screenshot 2025-06-20 - Control User Access",
           "User correction: RegimA SA didn't exist until 2021"
         ],
-        "note": "Capital 'A' in RegimA - different from RegimaSA (lowercase 'a')"
+        "note": "Capital 'A' in RegimA - different from RegimaSA (lowercase 'a')",
+        "ad_res_j7_references": [
+          "ANNEXURES/JF01/Re_ The RegimA Group results and Computer Expense analysis.eml",
+          "ANNEXURES/JF01/Re_ belongs to regimA.eml",
+          "ANNEXURES/JF03/Fw_ The RegimA Group results and Computer Expense analysis.eml",
+          "ANNEXURES/JF03/Fw_ The RegimA Group results and Computer Expense analysis.msg",
+          "ANNEXURES/JF03/Re_ The RegimA Group results and Computer Expense analysis.eml",
+          "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+          "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json",
+          "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md",
+          "ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+          "ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.json",
+          "ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2017to29February2018.PDF",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2018to29February2019.PDF",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2019to29February2020.PDF",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2020to28February2021.PDF",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2021to28February2022.PDF",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2023to29February2024.PDF",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2024to28February2025.PDF",
+          "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2025to28February2026.PDF"
+        ],
+        "evidence_enhanced": "2026-01-11T05:34:40.727599"
       }
     ],
     "platforms": [

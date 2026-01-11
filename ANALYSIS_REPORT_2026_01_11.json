@@ -1,0 +1,350 @@
+{
+  "timestamp": "2026-01-11T05:34:02.271893",
+  "evidence_summary": {
+    "total_files": 368,
+    "categories": {
+      "JF01": 2,
+      "JF02": 3,
+      "JF03": 5,
+      "JF04": 6,
+      "JF05": 7,
+      "JF06": 5,
+      "JF07": 186,
+      "JF08": 38,
+      "JF09": 8,
+      "JF10": 3,
+      "JF11": 1,
+      "JF12": 1,
+      "JF13": 3,
+      "JF14-CIPC-2021": 19,
+      "JF15-CIPC-BATCH2-2021": 19,
+      "JF16-DISTRIBUTORS": 28,
+      "1-CIVIL-RESPONSE": 25,
+      "2-CRIMINAL-CASE": 5,
+      "3-EXTERNAL-VALIDATION": 4
+    }
+  },
+  "entity_issues": {
+    "persons_without_refs": [
+      "Linda",
+      "Gee",
+      "Bernadine Wright",
+      "Chantal",
+      "Jax",
+      "Marisca Meyer"
+    ],
+    "orgs_without_refs": [
+      "Strategic Logistics Group",
+      "Villa Via",
+      "RegimA SA",
+      "ReZonance (Pty) Ltd",
+      "Adderory (Pty) Ltd",
+      "Adderory Skin (Pty) Ltd",
+      "RegimaSA (Pty) Ltd",
+      "Unicorn Dynamics (Pty) Ltd",
+      "RegimA SA (Pty) Ltd"
+    ],
+    "weak_evidence": [],
+    "missing_financial_impact": []
+  },
+  "timeline_issues": {
+    "missing_evidence": [
+      "Entry 20",
+      "Entry 28",
+      "Entry 29",
+      "Entry 32",
+      "Entry 33",
+      "Entry 34",
+      "Entry 37",
+      "Entry 39",
+      "Entry 40",
+      "Entry 41",
+      "Entry 44",
+      "Entry 45",
+      "Entry 46",
+      "Entry 48",
+      "Entry 49",
+      "Entry 50",
+      "Entry 52",
+      "Entry 53",
+      "Entry 54",
+      "Entry 55",
+      "Entry 56",
+      "Entry 57",
+      "Entry 58",
+      "Entry 59",
+      "Entry 60",
+      "Entry 61",
+      "Entry 62",
+      "Entry 63",
+      "Entry 64",
+      "Entry 65",
+      "Entry 66",
+      "Entry 67",
+      "Entry 68",
+      "Entry 69",
+      "Entry 70",
+      "Entry 71",
+      "Entry 72",
+      "Entry 73",
+      "Entry 74",
+      "Entry 75",
+      "Entry 76",
+      "Entry 77",
+      "Entry 78",
+      "Entry 79",
+      "Entry 80",
+      "Entry 81",
+      "Entry 82",
+      "Entry 83",
+      "Entry 84",
+      "Entry 85",
+      "Entry 86",
+      "Entry 87",
+      "Entry 88",
+      "Entry 89",
+      "Entry 90",
+      "Entry 91"
+    ],
+    "missing_key_actors": [
+      "TL_CIPC_015"
+    ],
+    "missing_burden_of_proof": [],
+    "timeline_gaps": [
+      {
+        "from": "1982-03-26",
+        "to": "1986-03-21",
+        "gap_days": 1456
+      },
+      {
+        "from": "1986-03-21",
+        "to": "1991-11-28",
+        "gap_days": 2078
+      },
+      {
+        "from": "1993-02-13",
+        "to": "1996-10-15",
+        "gap_days": 1340
+      },
+      {
+        "from": "2000-05-31",
+        "to": "2001-09-18",
+        "gap_days": 475
+      },
+      {
+        "from": "2001-09-18",
+        "to": "2005-09-29",
+        "gap_days": 1472
+      },
+      {
+        "from": "2006-06-05",
+        "to": "2007-07-17",
+        "gap_days": 407
+      },
+      {
+        "from": "2008-06-27",
+        "to": "2011-03-11",
+        "gap_days": 987
+      },
+      {
+        "from": "2011-03-11",
+        "to": "2015-07-08",
+        "gap_days": 1580
+      },
+      {
+        "from": "2023-09-20",
+        "to": "2025-01-15",
+        "gap_days": 483
+      }
+    ]
+  },
+  "relation_issues": {
+    "missing_evidence": [
+      {
+        "relation_id": "REL_OWN_004",
+        "type": "owns",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_OWN_007",
+        "type": "owns",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_CTRL_006",
+        "type": "controls_as_director",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_CTRL_007",
+        "type": "controls_as_director",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_CONSP_002",
+        "type": "family_conspiracy",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_FIN_007",
+        "type": "loan_receivable",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_FIN_008",
+        "type": "loan_payable_shareholder",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_FIN_009",
+        "type": "loan_payable",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_FIN_010",
+        "type": "debt_payment",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_FIN_011",
+        "type": "supplier_payment",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_ESTATE_001",
+        "type": "estate_ownership",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_BENEF_001",
+        "type": "beneficiary_of",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_BENEF_002",
+        "type": "beneficiary_of",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_BENEF_002",
+        "type": "excluded_beneficiary",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_PROF_001",
+        "type": "professional_correspondence",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_PROF_001",
+        "type": "professional_correspondence",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_EXTRACT_001",
+        "type": "capital_extraction",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_LOAN_002",
+        "type": "inter_company_loan",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_KNOWLEDGE_001",
+        "type": "knowledge_acquisition",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_PROF_003",
+        "type": "prepared_financial_statements",
+        "evidence_count": 1
+      }
+    ],
+    "weak_evidence": [
+      {
+        "relation_id": "REL_CONSP_003",
+        "strength": "moderate"
+      }
+    ],
+    "missing_ad_res_j7": [
+      "REL_OWN_001",
+      "REL_OWN_002",
+      "REL_OWN_003",
+      "REL_OWN_004",
+      "REL_OWN_005",
+      "REL_OWN_006",
+      "REL_OWN_007",
+      "REL_CTRL_001",
+      "REL_CTRL_002",
+      "REL_CTRL_003",
+      "REL_CTRL_004",
+      "REL_CTRL_005",
+      "REL_CTRL_006",
+      "REL_CTRL_007",
+      "REL_CTRL_008",
+      "REL_CONSP_001",
+      "REL_CONSP_002",
+      "REL_CONSP_003",
+      "REL_CONSP_004",
+      "REL_DEP_001",
+      "REL_DEP_002",
+      "REL_FIN_001",
+      "REL_FIN_002",
+      "REL_FIN_003",
+      "REL_FIN_004",
+      "REL_FIN_005",
+      "REL_FIN_006",
+      "REL_FIN_007",
+      "REL_FIN_008",
+      "REL_FIN_009",
+      "REL_FIN_010",
+      "REL_FIN_011",
+      "REL_VP_001",
+      "REL_VP_002",
+      "REL_VP_003",
+      "REL_EMP_001",
+      "REL_EMP_002",
+      "REL_EVID_001",
+      "REL_EVID_002",
+      "REL_TEMP_001",
+      "REL_TEMP_002",
+      "REL_TEMP_003",
+      "REL_TEMP_004",
+      "REL_TEMP_005",
+      "REL_TEMP_006",
+      "REL_DEBT_001",
+      "REL_DEBT_002",
+      "REL_ESTATE_001",
+      "REL_WITNESS_001",
+      "REL_WITNESS_002",
+      "REL_CONFLICT_001",
+      "REL_EMAIL_001",
+      "REL_EMAIL_001",
+      "REL_EMAIL_002",
+      "REL_EMAIL_002",
+      "REL_TRUSTEE_001",
+      "REL_TRUSTEE_002",
+      "REL_TRUSTEE_001",
+      "REL_BENEF_001",
+      "REL_BENEF_002",
+      "REL_BENEF_001",
+      "REL_BENEF_002",
+      "REL_PROF_001",
+      "REL_PROF_001",
+      "REL_EXTRACT_001",
+      "REL_LOAN_001",
+      "REL_LOAN_002",
+      "REL_KNOWLEDGE_001",
+      "REL_LEGAL_001",
+      "REL_PROF_003"
+    ]
+  },
+  "recommendations": [
+    "1. Add ad_res_j7_references to 6 persons",
+    "2. Add ad_res_j7_references to 9 organizations",
+    "4. Add evidence to 56 timeline entries",
+    "5. Add key actors to 1 timeline entries",
+    "6. Add ad_res_j7_references to 70 relations"
+  ]
+}

@@ -1,15 +1,17 @@
 # Linda
 
-**ID:** PERSON_006
-**Role:** bookkeeper
-**Evidence Strength:** strong
-
-## Evidence
-- SF8 - Linda Employment Records
-- JF08 - Business operations documentation
-- JF05 - Correspondence evidence
-
-## Ad-Res-J7 References
-- ANNEXURES/SF8_Linda_Employment_Records.md - Employment documentation
-- ANNEXURES/JF08/evidence_package_20251012 - Business operations evidence
-- ANNEXURES/JF05 - Correspondence patterns
+```json
+{
+  "entity_id": "PERSON_006",
+  "name": "Linda",
+  "role": "bookkeeper",
+  "agent_type": "neutral",
+  "involvement_events": 0,
+  "primary_actions": [],
+  "relationships": [
+    "sister_of_PERSON_002",
+    "employed_bookkeeper"
+  ],
+  "additional_notes": "Employed to do books while Rynette controlled accounts system"
+}
+```
