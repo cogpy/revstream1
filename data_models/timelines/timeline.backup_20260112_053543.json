@@ -4,11 +4,11 @@
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-01-12T05:35:43.682995",
+    "last_updated": "2026-01-12T05:35:43.675307",
     "changes": "Added evidence references to 0 entries from ad-res-j7 cross-reference",
     "criminal_threshold_entries": 36,
     "high_significance_entries": 5,
-    "total_entries": 103
+    "total_entries": 101
   },
   "timeline": [
     {
@@ -115,33 +115,10 @@
       "added_date": "2026-01-09T06:57:36.207479"
     },
     {
-      "date": "2000-05-31",
-      "event": "George Endermologie Clinic CC registered in Western Cape",
-      "category": "company_registration",
-      "entities": [
-        "George Endermologie Clinic"
-      ],
-      "evidence": [
-        "293332765-Company-GeorgeEndermologieClinic.Pdf"
-      ]
-    },
-    {
       "date": "2001-09-18",
       "event": "Nanini 262 CC registered by Louw",
       "entity": "Nanini 262",
       "source": "293351615.Pdf"
-    },
-    {
-      "date": "2005-09-29",
-      "event": "Kachan Marketing and Distribution CC registered - Karen Avnit 100% member",
-      "category": "company_registration",
-      "entities": [
-        "Kachan Marketing and Distribution",
-        "Karen Patricia Avnit"
-      ],
-      "evidence": [
-        "293340322-Company-KachanMarketingandDistribution.Pdf"
-      ]
     },
     {
       "date": "2006-02-14",
@@ -168,42 +145,6 @@
       "significance": "Establishes Jacqueline's formal role in RST",
       "burden_of_proof": "verified_cipc_record",
       "added_date": "2026-01-09T06:57:36.207479"
-    },
-    {
-      "date": "2006-03-16",
-      "event": "Dermal Skin Treatments Cape Town CC registered - Nortje 50%/50%",
-      "category": "company_registration",
-      "entities": [
-        "Dermal Skin Treatments Cape Town",
-        "Barend Thomas Nortje",
-        "Sharon Nortje"
-      ],
-      "evidence": [
-        "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
-      ]
-    },
-    {
-      "date": "2006-06-05",
-      "event": "Karen Avnit purchases SS Forest Lodge 173, Unit 4 for R1,100,000",
-      "category": "property_transaction",
-      "entities": [
-        "Karen Patricia Avnit"
-      ],
-      "evidence": [
-        "293344692-Property-KarenAvnit.Pdf"
-      ]
-    },
-    {
-      "date": "2007-07-17",
-      "event": "Barend Nortje appointed director of De Fay Fund Management",
-      "category": "directorship_change",
-      "entities": [
-        "Barend Thomas Nortje",
-        "De Fay Fund Management"
-      ],
-      "evidence": [
-        "293338023-Director-BarendNortje.Pdf"
-      ]
     },
     {
       "date": "2008-06-18",
@@ -257,31 +198,6 @@
       "significance": "Establishes RWD as the main distribution entity - shelf company acquisition",
       "burden_of_proof": "verified_cipc_record",
       "added_date": "2026-01-09T06:57:36.207479"
-    },
-    {
-      "date": "2015-07-08",
-      "event": "K Rae Enterprises (later Dandelion SA) registered",
-      "category": "company_registration",
-      "entities": [
-        "Dandelion SA",
-        "Kirby Rae Van Der Stelt"
-      ],
-      "evidence": [
-        "293342245-Company-DandelionSA.Pdf"
-      ]
-    },
-    {
-      "date": "2016-07-05",
-      "event": "Chané Todd becomes director of Dandelion SA; Kirby Van Der Stelt resigns",
-      "category": "directorship_change",
-      "entities": [
-        "Dandelion SA",
-        "Chané Auriele Todd",
-        "Kirby Rae Van Der Stelt"
-      ],
-      "evidence": [
-        "293342245-Company-DandelionSA.Pdf"
-      ]
     },
     {
       "entry_id": "TL_CIPC_006",
@@ -456,18 +372,6 @@
       ]
     },
     {
-      "date": "2017-09-27",
-      "event": "Bertani International Global registered - Dante Bertani director",
-      "category": "company_registration",
-      "entities": [
-        "Bertani International Global",
-        "Dante Bertani"
-      ],
-      "evidence": [
-        "293342878-Company-BertaniInternationalGlobal.Pdf"
-      ]
-    },
-    {
       "date": "2017-09-30",
       "event_count": 1,
       "events": [
@@ -637,21 +541,6 @@
       ],
       "burden_of_proof_levels": [
         "civil_50%"
-      ]
-    },
-    {
-      "date": "2019-11-22",
-      "event": "RegimA Skin Treatments CC registers R3,110,000 bond on Karen Avnit's property",
-      "category": "bond_registration",
-      "entities": [
-        "RegimA Skin Treatments CC",
-        "Karen Patricia Avnit"
-      ],
-      "amount": "R3,110,000",
-      "significance": "RST providing financing to distributors",
-      "evidence": [
-        "293344692-Property-KarenAvnit.Pdf",
-        "293347244-List-Deeds-SB48685-2019.Pdf"
       ]
     },
     {
@@ -899,50 +788,6 @@
       "burden_of_proof_levels": [
         "civil_50%"
       ]
-    },
-    {
-      "entry_id": "TL_CIPC_BATCH2_001",
-      "date": "2021-03-15",
-      "event_type": "cipc_filing",
-      "title": "CIPC Annual Return Filing - Regima Skin Treatments",
-      "description": "Annual return filed for Regima Skin Treatments CC showing financial position and member details",
-      "key_actors": [
-        "Peter Andrew Faucitt"
-      ],
-      "entities_involved": [
-        "PERSON_001",
-        "ORG_002"
-      ],
-      "evidence": [
-        "ANNEXURES/JF15-CIPC-BATCH2-2021/"
-      ],
-      "significance": "Establishes financial control and company status",
-      "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-12T05:35:43.682885"
-    },
-    {
-      "entry_id": "TL_CIPC_BATCH2_002",
-      "date": "2021-03-15",
-      "event_type": "cipc_filing",
-      "title": "CIPC Annual Return Filing - Regima Worldwide Distribution",
-      "description": "Annual return filed for Regima Worldwide Distribution showing director positions and shareholding",
-      "key_actors": [
-        "Peter Andrew Faucitt",
-        "Jacqueline Faucitt",
-        "Daniel James Faucitt"
-      ],
-      "entities_involved": [
-        "PERSON_001",
-        "PERSON_004",
-        "PERSON_005",
-        "ORG_003"
-      ],
-      "evidence": [
-        "ANNEXURES/JF15-CIPC-BATCH2-2021/"
-      ],
-      "significance": "Confirms legitimate ownership structure of RWD",
-      "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-12T05:35:43.682907"
     },
     {
       "entry_id": "TL_CIPC_014",
@@ -2294,6 +2139,117 @@
       "cumulative_financial_impact": "R170,580,605.19",
       "burden_of_proof_levels": [
         "civil_50%"
+      ]
+    },
+    {
+      "date": "2000-05-31",
+      "event": "George Endermologie Clinic CC registered in Western Cape",
+      "category": "company_registration",
+      "entities": [
+        "George Endermologie Clinic"
+      ],
+      "evidence": [
+        "293332765-Company-GeorgeEndermologieClinic.Pdf"
+      ]
+    },
+    {
+      "date": "2005-09-29",
+      "event": "Kachan Marketing and Distribution CC registered - Karen Avnit 100% member",
+      "category": "company_registration",
+      "entities": [
+        "Kachan Marketing and Distribution",
+        "Karen Patricia Avnit"
+      ],
+      "evidence": [
+        "293340322-Company-KachanMarketingandDistribution.Pdf"
+      ]
+    },
+    {
+      "date": "2006-03-16",
+      "event": "Dermal Skin Treatments Cape Town CC registered - Nortje 50%/50%",
+      "category": "company_registration",
+      "entities": [
+        "Dermal Skin Treatments Cape Town",
+        "Barend Thomas Nortje",
+        "Sharon Nortje"
+      ],
+      "evidence": [
+        "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
+      ]
+    },
+    {
+      "date": "2006-06-05",
+      "event": "Karen Avnit purchases SS Forest Lodge 173, Unit 4 for R1,100,000",
+      "category": "property_transaction",
+      "entities": [
+        "Karen Patricia Avnit"
+      ],
+      "evidence": [
+        "293344692-Property-KarenAvnit.Pdf"
+      ]
+    },
+    {
+      "date": "2007-07-17",
+      "event": "Barend Nortje appointed director of De Fay Fund Management",
+      "category": "directorship_change",
+      "entities": [
+        "Barend Thomas Nortje",
+        "De Fay Fund Management"
+      ],
+      "evidence": [
+        "293338023-Director-BarendNortje.Pdf"
+      ]
+    },
+    {
+      "date": "2015-07-08",
+      "event": "K Rae Enterprises (later Dandelion SA) registered",
+      "category": "company_registration",
+      "entities": [
+        "Dandelion SA",
+        "Kirby Rae Van Der Stelt"
+      ],
+      "evidence": [
+        "293342245-Company-DandelionSA.Pdf"
+      ]
+    },
+    {
+      "date": "2016-07-05",
+      "event": "Chané Todd becomes director of Dandelion SA; Kirby Van Der Stelt resigns",
+      "category": "directorship_change",
+      "entities": [
+        "Dandelion SA",
+        "Chané Auriele Todd",
+        "Kirby Rae Van Der Stelt"
+      ],
+      "evidence": [
+        "293342245-Company-DandelionSA.Pdf"
+      ]
+    },
+    {
+      "date": "2017-09-27",
+      "event": "Bertani International Global registered - Dante Bertani director",
+      "category": "company_registration",
+      "entities": [
+        "Bertani International Global",
+        "Dante Bertani"
+      ],
+      "evidence": [
+        "293342878-Company-BertaniInternationalGlobal.Pdf"
+      ]
+    },
+    {
+      "date": "2019-11-22",
+      "event": "RegimA Skin Treatments CC registers R3,110,000 bond on Karen Avnit's property",
+      "category": "bond_registration",
+      "entities": [
+        "RegimA Skin Treatments CC",
+        "Karen Patricia Avnit"
+      ],
+      "amount": "R3,110,000",
+      "significance": "RST providing financing to distributors",
+      "evidence": [
+        "293344692-Property-KarenAvnit.Pdf",
+        "293347244-List-Deeds-SB48685-2019.Pdf"
       ]
     }
   ]

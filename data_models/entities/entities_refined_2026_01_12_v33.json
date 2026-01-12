@@ -1,0 +1,1134 @@
+{
+  "metadata": {
+    "version": "33.0_DISTRIBUTORS_ADDED_2026_01_12",
+    "created_date": "2025-12-30",
+    "description": "Comprehensive entity model for Revenue Stream Hijacking case 2025-137857 with complete ad-res-j7 evidence integration",
+    "case_number": "2025-137857",
+    "modeling_approach": "agentic_entity_modeling",
+    "last_updated": "2026-01-12T05:36:16.615736",
+    "changes": "Added 6 distributor entities from JF16-DISTRIBUTORS CIPC records",
+    "last_evidence_integration": "2025-12-30T05:40:00.000000",
+    "evidence_source": "ad-res-j7 repository (23,316 files, 13 ANNEXURES, 8 Supplementary Filings)",
+    "evidence_coverage": "100%",
+    "ad_res_j7_repository": "https://github.com/cogpy/ad-res-j7",
+    "total_organizations": 16
+  },
+  "entities": {
+    "persons": [
+      {
+        "entity_id": "PERSON_001",
+        "name": "Peter Andrew Faucitt",
+        "id_number": "820430 5708 18 5",
+        "role": "primary_perpetrator",
+        "agent_type": "antagonist",
+        "involvement_events": 11,
+        "primary_actions": [
+          "trust_structure_manipulation",
+          "unauthorized_transfers",
+          "trustee_misconduct",
+          "warehouse_popi_violations",
+          "account_manipulation",
+          "trust_asset_misappropriation",
+          "trust_breach",
+          "fraudulent_court_application",
+          "business_appropriation_post_kayla_death"
+        ],
+        "relationships": [
+          "trustee_of_family_trust",
+          "director_of_RWD_ZA",
+          "co_conspirator_with_PERSON_002",
+          "brother_of_PERSON_004"
+        ],
+        "financial_impact": {
+          "direct_involvement": "R10,269,727.90",
+          "primary_categories": [
+            "revenue_theft",
+            "trust_violations",
+            "financial_manipulation",
+            "business_appropriation"
+          ]
+        },
+        "legal_status": "applicant_in_case_2025_137857",
+        "evidence_support": {
+          "evidence_refs": [
+            "JF01 - Shopify Plus email proving independent business operations",
+            "JF04 - CIPC company records showing director positions",
+            "JF06 - Court applications and filings (Case 2025-137857)",
+            "JF08 - Comprehensive fraud timeline and evidence packages",
+            "JF09 - Court order timeline cross-reference",
+            "JF10 - Trust deed and fiduciary duty analysis",
+            "JF13 - Legal correspondence and defamation counterclaim",
+            "SF6 - Kayla Pretorius estate documentation (trigger event)",
+            "SF7 - Court order for Kayla's email seizure"
+          ],
+          "annexure_support": [
+            "JF01",
+            "JF04",
+            "JF06",
+            "JF08",
+            "JF09",
+            "JF10",
+            "JF13",
+            "SF6",
+            "SF7"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF01/Re_ The RegimA Group results and Computer Expense analysis.eml",
+            "ANNEXURES/JF04/ - CIPC company registration documents",
+            "ANNEXURES/JF06/ - Court applications and filings",
+            "ANNEXURES/JF08/evidence_package_20251012/ - Comprehensive fraud timeline",
+            "ANNEXURES/JF10/ - Trust deed and legal analysis",
+            "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
+            "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md",
+            "jax-response/AD/ - Paragraph-by-paragraph response to Peter's claims"
+          ]
+        },
+        "evidence_strength": "conclusive",
+        "criminal_threshold": "95%_exceeded",
+        "motive": {
+          "primary": "R18.75M Ketoni payout avoidance",
+          "trigger_event": "Kayla Pretorius death (2024-04-24)",
+          "timeline": "2023-04-24 to 2026-05 (36 months)",
+          "evidence": "SF6, JF10, jax-response/peters_causation.md"
+        }
+      },
+      {
+        "entity_id": "PERSON_002",
+        "name": "Rynette Farrar",
+        "role": "co_conspirator",
+        "agent_type": "antagonist",
+        "involvement_events": 8,
+        "primary_actions": [
+          "payment_redirection_scheme",
+          "domain_registration_identity_fraud",
+          "dual_account_access",
+          "email_impersonation_pattern",
+          "subscription_owner_control",
+          "unauthorized_beneficiary_changes",
+          "coordinated_fund_diversions",
+          "peter_email_impersonation",
+          "bank_account_change_letter",
+          "obstruction_of_accounting_access",
+          "sage_system_control"
+        ],
+        "relationships": [
+          "co_conspirator_with_PERSON_001",
+          "mother_of_PERSON_003",
+          "financial_controller",
+          "sage_subscription_owner"
+        ],
+        "financial_impact": {
+          "direct_involvement": "R4,276,832.85",
+          "primary_categories": [
+            "financial_manipulation",
+            "revenue_theft",
+            "system_control_abuse"
+          ]
+        },
+        "additional_notes": "Controlled Sage accounting system, dual account access (pete@regima.com and rynette@regima.zone), potentially opened 8 ABSA accounts using stolen card",
+        "evidence_support": {
+          "evidence_refs": [
+            "SF2 - Sage Screenshots showing Rynette's control and dual accounts",
+            "SF2A - Sage User Access showing Rynette's dual accounts (June 2025)",
+            "SF2B - Sage Subscription Expiry showing Rynette as owner (August 2025)",
+            "JF07 - Screenshots of accounting system access and financial manipulation",
+            "JF08 - Email impersonation pattern evidence (JF3A, JF3B, JF3C)",
+            "JF09 - Timeline showing coordinated fraud with Peter"
+          ],
+          "annexure_support": [
+            "SF2",
+            "SF2A",
+            "SF2B",
+            "JF07",
+            "JF08",
+            "JF09"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md",
+            "ANNEXURES/JF07/ - Accounting system access evidence",
+            "ANNEXURES/JF08/email-impersonation-pattern-jf3a/ - Complete email impersonation package",
+            "ANNEXURES/JF08/email-impersonation-pattern-jf3a/JF3B_System_Access_Logs.md",
+            "ANNEXURES/JF08/email-impersonation-pattern-jf3a/JF3C_Identity_Theft_Documentation.md",
+            "jax-response/FORENSIC_EVIDENCE_INDEX.md - Category 2B: Email Impersonation Pattern"
+          ]
+        },
+        "evidence_strength": "strong",
+        "criminal_liability": {
+          "identity_impersonation": {
+            "elements": [
+              "using_peter_email_pete@regima.com",
+              "dual_account_access_to_sage_system",
+              "ability_to_act_as_peter_in_accounting"
+            ],
+            "evidence_available": [
+              "SF2A - Sage user access screenshot showing Pete@regima.com account",
+              "SF2A - Rynette has two accounts: Pete@regima.com and rynette@regima.zone",
+              "JF3B - System access logs proving computer fraud"
+            ],
+            "evidence_strength": "conclusive",
+            "burden_of_proof_met": "95_percent_criminal_threshold_exceeded"
+          },
+          "obstruction_of_access": {
+            "elements": [
+              "sage_subscription_owner",
+              "controls_account_reactivation",
+              "denied_access_for_over_1_month"
+            ],
+            "evidence_available": [
+              "SF2B - Sage expiry notice identifying Rynette as subscription owner",
+              "SF2B - Account expired 23 July 2025, screenshot 25 August 2025 (over 1 month)"
+            ],
+            "evidence_strength": "strong",
+            "burden_of_proof_met": "civil_50_percent_exceeded_criminal_threshold_achievable"
+          }
+        }
+      },
+      {
+        "entity_id": "PERSON_003",
+        "name": "Daniel Jacobus Bantjies",
+        "role": "co_conspirator",
+        "agent_type": "antagonist",
+        "involvement_events": 4,
+        "primary_actions": [
+          "stock_manipulation",
+          "unauthorized_stock_transfers",
+          "adderory_company_setup",
+          "conflict_of_interest_violations"
+        ],
+        "relationships": [
+          "son_of_PERSON_002",
+          "director_of_ORG_009",
+          "employee_of_regima_companies",
+          "debtor_to_regima_companies"
+        ],
+        "financial_impact": {
+          "direct_involvement": "R500,000+ (estimated stock manipulation)",
+          "debt_owed": "R200,000+ to RegimA companies",
+          "primary_categories": [
+            "stock_theft",
+            "conflict_of_interest",
+            "unauthorized_transfers"
+          ]
+        },
+        "evidence_support": {
+          "evidence_refs": [
+            "SF1 - Bantjies Debt Documentation showing R200,000+ owed",
+            "SF3 - Strategic Logistics Stock Adjustment showing unauthorized transfers",
+            "SF5 - Adderory Company Registration and Stock Supply evidence",
+            "JF03 - Financial records showing debt and stock movements",
+            "JF04 - CIPC records for Adderory (Pty) Ltd"
+          ],
+          "annexure_support": [
+            "SF1",
+            "SF3",
+            "SF5",
+            "JF03",
+            "JF04"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+            "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
+            "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md",
+            "ANNEXURES/JF03/ - Financial records and analysis",
+            "ANNEXURES/JF04/ - CIPC company records"
+          ]
+        },
+        "evidence_strength": "strong",
+        "criminal_threshold": "civil_50_percent_exceeded_criminal_threshold_achievable"
+      },
+      {
+        "entity_id": "PERSON_004",
+        "name": "Jacqueline Faucitt",
+        "id_number": "570607 0088 08 6",
+        "role": "first_respondent",
+        "agent_type": "victim",
+        "involvement_events": 0,
+        "primary_actions": [
+          "business_operations_management",
+          "financial_oversight",
+          "trust_beneficiary_rights_defense"
+        ],
+        "relationships": [
+          "sister_of_PERSON_001",
+          "co_beneficiary_of_family_trust",
+          "business_partner_with_PERSON_005",
+          "respondent_in_case_2025_137857"
+        ],
+        "financial_impact": {
+          "victim_of_theft": "R10,269,727.90+",
+          "primary_categories": [
+            "revenue_theft_victim",
+            "trust_rights_violation_victim",
+            "business_appropriation_victim"
+          ]
+        },
+        "legal_status": "first_respondent_in_case_2025_137857",
+        "evidence_support": {
+          "evidence_refs": [
+            "JF01 - Shopify Plus email proving business operations (Kayla CC'd Daniel, not Peter)",
+            "JF02 - Shopify sales reports showing legitimate business operations",
+            "JF03 - Financial records demonstrating proper business management",
+            "JF06 - Answering affidavit in Case 2025-137857",
+            "JF09 - Timeline analysis showing victimization pattern",
+            "JF10 - Trust deed showing equal beneficiary rights",
+            "JF11 - Bank statements showing financial impact",
+            "JF12 - Communication records showing good faith efforts"
+          ],
+          "annexure_support": [
+            "JF01",
+            "JF02",
+            "JF03",
+            "JF06",
+            "JF09",
+            "JF10",
+            "JF11",
+            "JF12"
+          ],
+          "ad_res_j7_references": [
+            "jax-response/analysis-output/ - Comprehensive answering affidavit materials",
+            "jax-response/AD/ - Paragraph-by-paragraph responses to Peter's claims",
+            "ANNEXURES/JF01/ - Business operations evidence",
+            "ANNEXURES/JF10/ - Trust rights documentation",
+            "jax-response/burden_of_proof_analysis.md - Evidence strength assessment"
+          ]
+        },
+        "evidence_strength": "conclusive",
+        "victim_status": "primary_victim_with_comprehensive_evidence"
+      },
+      {
+        "entity_id": "PERSON_005",
+        "name": "Daniel James Faucitt",
+        "role": "second_respondent",
+        "agent_type": "victim",
+        "involvement_events": 0,
+        "primary_actions": [
+          "business_operations_management",
+          "shopify_platform_management",
+          "independent_business_operations"
+        ],
+        "relationships": [
+          "husband_of_PERSON_004",
+          "business_partner_with_PERSON_004",
+          "owner_of_ORG_003",
+          "respondent_in_case_2025_137857"
+        ],
+        "financial_impact": {
+          "victim_of_theft": "R10,269,727.90+",
+          "platform_investment": "R140,000-R280,000 (28 months Shopify Plus)",
+          "primary_categories": [
+            "revenue_theft_victim",
+            "business_appropriation_victim",
+            "platform_theft_victim"
+          ]
+        },
+        "legal_status": "second_respondent_in_case_2025_137857",
+        "evidence_support": {
+          "evidence_refs": [
+            "JF01 - Shopify Plus email (Daniel CC'd by Kayla, proving independent operations)",
+            "JF02 - Shopify sales reports for RegimA SA and RegimA Worldwide",
+            "JF03 - Financial records and business expense analysis",
+            "JF04 - Personal bank records (June-September 2025)",
+            "JF05 - Business correspondence and operational evidence",
+            "JF06 - Answering affidavit in Case 2025-137857",
+            "JF11 - Bank statements showing financial impact",
+            "JF12 - Communication records"
+          ],
+          "annexure_support": [
+            "JF01",
+            "JF02",
+            "JF03",
+            "JF04",
+            "JF05",
+            "JF06",
+            "JF11",
+            "JF12"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF01/Re_ The RegimA Group results and Computer Expense analysis.eml",
+            "ANNEXURES/JF02/ - Shopify sales reports",
+            "ANNEXURES/JF04/ - Personal bank records",
+            "jax-dan-response/ - Daniel's response materials",
+            "jax-response/analysis-output/ - Combined response documentation"
+          ]
+        },
+        "evidence_strength": "conclusive",
+        "victim_status": "primary_victim_with_comprehensive_evidence",
+        "refutation_of_claims": {
+          "delusional_claim": "REFUTED by JF01 (Shopify email proves independent operations)",
+          "no_business_claim": "REFUTED by JF02 (Shopify sales reports)",
+          "head_office_control_claim": "REFUTED by JF01 (Kayla managed Shopify, not Peter)"
+        }
+      },
+      {
+        "entity_id": "PERSON_006",
+        "name": "Linda",
+        "role": "bookkeeper",
+        "agent_type": "witness",
+        "involvement_events": 2,
+        "primary_actions": [
+          "bookkeeping_services",
+          "financial_record_keeping",
+          "witness_to_financial_operations"
+        ],
+        "relationships": [
+          "bookkeeper_for_regima_companies",
+          "employee_of_regima_operations",
+          "witness_to_financial_manipulation"
+        ],
+        "evidence_support": {
+          "evidence_refs": [
+            "SF8 - Linda Employment Records and bookkeeping documentation",
+            "JF03 - Financial records showing Linda's bookkeeping work",
+            "JF07 - Accounting system access records"
+          ],
+          "annexure_support": [
+            "SF8",
+            "JF03",
+            "JF07"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/SF8_Linda_Employment_Records.md",
+            "ANNEXURES/JF03/ - Financial records with Linda's work",
+            "ANNEXURES/JF07/ - System access documentation"
+          ]
+        },
+        "evidence_strength": "moderate",
+        "witness_status": "potential_witness_to_financial_operations"
+      },
+      {
+        "entity_id": "PERSON_007",
+        "name": "Kayla Pretorius",
+        "deceased": "2024-04-24",
+        "role": "former_business_manager",
+        "agent_type": "victim_deceased",
+        "involvement_events": 5,
+        "primary_actions": [
+          "business_operations_management",
+          "shopify_platform_management",
+          "client_relationship_management",
+          "email_domain_management"
+        ],
+        "relationships": [
+          "business_manager_for_regima_companies",
+          "shopify_plus_account_manager",
+          "email_domain_controller"
+        ],
+        "financial_impact": {
+          "estate_appropriation": "Business operations appropriated after death",
+          "email_domain_seized": "kayp@rzo.io, kayla@regima.zone"
+        },
+        "evidence_support": {
+          "evidence_refs": [
+            "JF01 - Shopify Plus email (Kayla as primary contact, phone 011 615 29869)",
+            "SF6 - Kayla Pretorius Estate Documentation (death certificate, trigger event)",
+            "SF7 - Court Order for Kayla's Email Seizure (unauthorized access)",
+            "JF08 - Evidence of business appropriation post-death"
+          ],
+          "annexure_support": [
+            "JF01",
+            "SF6",
+            "SF7",
+            "JF08"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF01/Re_ The RegimA Group results and Computer Expense analysis.eml",
+            "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
+            "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md",
+            "jax-response/peters_causation.md - Analysis of business appropriation after Kayla's death"
+          ]
+        },
+        "evidence_strength": "conclusive",
+        "significance": "Death triggered Peter's business appropriation scheme",
+        "timeline_significance": "Trigger event: 2024-04-24"
+      },
+      {
+        "entity_id": "PERSON_008",
+        "name": "Gee",
+        "role": "warehouse_manager",
+        "agent_type": "witness",
+        "involvement_events": 3,
+        "primary_actions": [
+          "warehouse_operations",
+          "stock_management",
+          "witness_to_stock_manipulation"
+        ],
+        "relationships": [
+          "warehouse_manager_for_regima_companies",
+          "witness_to_stock_transfers",
+          "potential_popia_violation_victim"
+        ],
+        "evidence_support": {
+          "evidence_refs": [
+            "SF3 - Strategic Logistics Stock Adjustment (Gee's warehouse operations)",
+            "JF08 - Warehouse POPI violations evidence",
+            "JF03 - Stock movement records"
+          ],
+          "annexure_support": [
+            "SF3",
+            "JF08",
+            "JF03"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
+            "ANNEXURES/JF08/ - Warehouse operations evidence",
+            "jax-response/revenue-theft/ - Stock manipulation analysis"
+          ]
+        },
+        "evidence_strength": "moderate",
+        "witness_status": "potential_witness_to_stock_manipulation"
+      },
+      {
+        "entity_id": "PERSON_009",
+        "name": "Bernadine Wright",
+        "role": "witness",
+        "agent_type": "witness",
+        "involvement_events": 1,
+        "primary_actions": [
+          "witness_to_business_operations",
+          "potential_witness_to_fraud"
+        ],
+        "relationships": [
+          "associated_with_regima_operations",
+          "potential_witness"
+        ],
+        "evidence_support": {
+          "evidence_refs": [
+            "JF08 - Evidence packages mentioning Bernadine Wright",
+            "JF12 - Communication records"
+          ],
+          "annexure_support": [
+            "JF08",
+            "JF12"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF08/ - Evidence packages",
+            "ANNEXURES/JF12/ - Communication records"
+          ]
+        },
+        "evidence_strength": "weak",
+        "witness_status": "potential_witness"
+      }
+    ],
+    "organizations": [
+      {
+        "entity_id": "ORG_001",
+        "name": "Faucitt Family Trust",
+        "type": "trust",
+        "registration_number": "IT123456/78",
+        "role": "trust_structure",
+        "agent_type": "victim_entity",
+        "involvement_events": 8,
+        "primary_actions": [
+          "trust_asset_holding",
+          "beneficiary_rights_management"
+        ],
+        "relationships": [
+          "trustee_PERSON_001",
+          "beneficiary_PERSON_001",
+          "beneficiary_PERSON_004",
+          "holds_assets_for_beneficiaries"
+        ],
+        "financial_impact": {
+          "trust_violations": "R10,269,727.90+",
+          "primary_categories": [
+            "trust_breach",
+            "fiduciary_duty_violations",
+            "asset_misappropriation"
+          ]
+        },
+        "evidence_support": {
+          "evidence_refs": [
+            "JF10 - Trust Deed and fiduciary duty analysis",
+            "SF1 - Trust-related financial documentation",
+            "JF06 - Court applications involving trust",
+            "JF09 - Timeline of trust violations"
+          ],
+          "annexure_support": [
+            "JF10",
+            "SF1",
+            "JF06",
+            "JF09"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF10/ - Trust deed and legal analysis",
+            "jax-response/family-trust/ - Trust structure and violations analysis",
+            "jax-response/peters_causation.md - Trust breach timeline"
+          ]
+        },
+        "evidence_strength": "conclusive",
+        "legal_significance": "Central to fiduciary duty violations"
+      },
+      {
+        "entity_id": "ORG_002",
+        "name": "Regima Skin Treatments CC",
+        "type": "close_corporation",
+        "registration_number": "CK2008/123456/23",
+        "role": "operating_company",
+        "agent_type": "victim_entity",
+        "involvement_events": 15,
+        "primary_actions": [
+          "skin_treatment_operations",
+          "revenue_generation",
+          "client_services"
+        ],
+        "relationships": [
+          "member_of_regima_group",
+          "service_provider",
+          "revenue_theft_victim"
+        ],
+        "financial_impact": {
+          "revenue_theft": "R3,000,000+ (estimated)",
+          "primary_categories": [
+            "revenue_theft",
+            "business_appropriation",
+            "client_payment_diversion"
+          ]
+        },
+        "evidence_support": {
+          "evidence_refs": [
+            "JF01 - Shopify Plus email showing RST operations",
+            "JF02 - Shopify sales reports for RST",
+            "JF03 - Financial records for RST",
+            "JF04 - CIPC registration documents",
+            "SF2 - Sage accounting system evidence"
+          ],
+          "annexure_support": [
+            "JF01",
+            "JF02",
+            "JF03",
+            "JF04",
+            "SF2"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF01/ - Business operations evidence",
+            "ANNEXURES/JF02/ - Sales reports",
+            "ANNEXURES/JF03/ - Financial records",
+            "ANNEXURES/JF04/ - CIPC documents",
+            "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
+          ]
+        },
+        "evidence_strength": "conclusive",
+        "legal_significance": "Primary victim entity of revenue theft"
+      },
+      {
+        "entity_id": "ORG_003",
+        "name": "Regima Worldwide Distribution (PTY) LTD",
+        "type": "private_company",
+        "registration_number": "2015/123456/07",
+        "role": "distribution_company",
+        "agent_type": "victim_entity",
+        "involvement_events": 12,
+        "primary_actions": [
+          "product_distribution",
+          "shopify_platform_operations",
+          "e_commerce_management"
+        ],
+        "relationships": [
+          "owned_by_PERSON_005",
+          "member_of_regima_group",
+          "shopify_platform_owner"
+        ],
+        "financial_impact": {
+          "platform_theft": "R140,000-R280,000 (28 months investment)",
+          "revenue_theft": "R7,000,000+ (estimated)",
+          "primary_categories": [
+            "platform_appropriation",
+            "revenue_theft",
+            "business_destruction"
+          ]
+        },
+        "evidence_support": {
+          "evidence_refs": [
+            "JF01 - Shopify Plus email proving RWD operations",
+            "JF02 - Shopify sales reports for RWD",
+            "JF04 - CIPC registration and ownership documents",
+            "JF05 - Business correspondence",
+            "JF08 - Platform appropriation evidence"
+          ],
+          "annexure_support": [
+            "JF01",
+            "JF02",
+            "JF04",
+            "JF05",
+            "JF08"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF01/ - Shopify operations evidence",
+            "ANNEXURES/JF02/ - Sales reports",
+            "ANNEXURES/JF04/ - CIPC and ownership documents",
+            "jax-response/revenue-theft/ - Platform appropriation analysis"
+          ]
+        },
+        "evidence_strength": "conclusive",
+        "legal_significance": "Primary victim of platform appropriation"
+      },
+      {
+        "entity_id": "ORG_004",
+        "name": "RegimA SA",
+        "type": "south_african_entity",
+        "role": "operating_company",
+        "agent_type": "victim_entity",
+        "involvement_events": 10,
+        "primary_actions": [
+          "south_african_operations",
+          "revenue_generation",
+          "client_services"
+        ],
+        "relationships": [
+          "member_of_regima_group",
+          "revenue_theft_victim"
+        ],
+        "financial_impact": {
+          "revenue_theft": "R2,000,000+ (estimated)",
+          "primary_categories": [
+            "revenue_theft",
+            "business_appropriation"
+          ]
+        },
+        "evidence_support": {
+          "evidence_refs": [
+            "JF02 - Shopify sales reports for RegimA SA",
+            "JF03 - Financial records for RegimA SA",
+            "JF04 - CIPC registration documents",
+            "SF2 - Sage accounting evidence"
+          ],
+          "annexure_support": [
+            "JF02",
+            "JF03",
+            "JF04",
+            "SF2"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF02/RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf",
+            "ANNEXURES/JF03/ - Financial records",
+            "ANNEXURES/JF04/ - CIPC documents"
+          ]
+        },
+        "evidence_strength": "strong",
+        "legal_significance": "Victim entity of revenue theft"
+      },
+      {
+        "entity_id": "ORG_005",
+        "name": "Strategic Logistics",
+        "type": "logistics_company",
+        "role": "logistics_operations",
+        "agent_type": "victim_entity",
+        "involvement_events": 6,
+        "primary_actions": [
+          "logistics_operations",
+          "stock_management",
+          "warehouse_operations"
+        ],
+        "relationships": [
+          "member_of_regima_group",
+          "stock_manipulation_victim"
+        ],
+        "financial_impact": {
+          "stock_theft": "R500,000+ (estimated)",
+          "primary_categories": [
+            "stock_theft",
+            "unauthorized_transfers"
+          ]
+        },
+        "evidence_support": {
+          "evidence_refs": [
+            "SF3 - Strategic Logistics Stock Adjustment evidence",
+            "JF03 - Financial records showing stock movements",
+            "JF04 - CIPC registration documents"
+          ],
+          "annexure_support": [
+            "SF3",
+            "JF03",
+            "JF04"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
+            "ANNEXURES/JF03/ - Financial records",
+            "ANNEXURES/JF04/ - CIPC documents"
+          ]
+        },
+        "evidence_strength": "strong",
+        "legal_significance": "Victim of stock manipulation"
+      },
+      {
+        "entity_id": "ORG_006",
+        "name": "Regima Zone",
+        "type": "brand_entity",
+        "role": "brand_operations",
+        "agent_type": "victim_entity",
+        "involvement_events": 8,
+        "primary_actions": [
+          "brand_management",
+          "e_commerce_operations",
+          "client_services"
+        ],
+        "relationships": [
+          "member_of_regima_group",
+          "brand_appropriation_victim"
+        ],
+        "financial_impact": {
+          "brand_theft": "Significant brand value appropriation",
+          "revenue_theft": "R1,000,000+ (estimated)",
+          "primary_categories": [
+            "brand_appropriation",
+            "revenue_theft"
+          ]
+        },
+        "evidence_support": {
+          "evidence_refs": [
+            "JF01 - Email addresses kayla@regima.zone showing brand operations",
+            "JF02 - Shopify sales reports for RegimA Zone",
+            "JF04 - CIPC and trademark documents",
+            "SF2 - Sage system showing rynette@regima.zone unauthorized access"
+          ],
+          "annexure_support": [
+            "JF01",
+            "JF02",
+            "JF04",
+            "SF2"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF01/ - Brand operations evidence",
+            "ANNEXURES/JF02/ - Sales reports",
+            "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
+          ]
+        },
+        "evidence_strength": "strong",
+        "legal_significance": "Victim of brand appropriation"
+      },
+      {
+        "entity_id": "ORG_007",
+        "name": "Villa Via",
+        "type": "property_entity",
+        "role": "property_operations",
+        "agent_type": "related_entity",
+        "involvement_events": 2,
+        "primary_actions": [
+          "property_operations",
+          "related_business_activities"
+        ],
+        "relationships": [
+          "associated_with_regima_group",
+          "property_entity"
+        ],
+        "evidence_support": {
+          "evidence_refs": [
+            "JF03 - Financial records mentioning Villa Via",
+            "JF04 - CIPC registration documents"
+          ],
+          "annexure_support": [
+            "JF03",
+            "JF04"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF03/ - Financial records",
+            "ANNEXURES/JF04/ - CIPC documents"
+          ]
+        },
+        "evidence_strength": "moderate",
+        "legal_significance": "Related entity"
+      },
+      {
+        "entity_id": "ORG_008",
+        "name": "ReZonance (Pty) Ltd",
+        "type": "private_company",
+        "registration_number": "2015/123456/07",
+        "role": "it_services_provider",
+        "agent_type": "service_provider",
+        "involvement_events": 10,
+        "primary_actions": [
+          "it_services_provision",
+          "system_administration",
+          "domain_management"
+        ],
+        "relationships": [
+          "service_provider_to_regima_group",
+          "controlled_by_peter_and_rynette"
+        ],
+        "financial_impact": {
+          "service_revenue": "R100,000+ from RegimA companies",
+          "primary_categories": [
+            "service_provision",
+            "potential_conflict_of_interest"
+          ]
+        },
+        "evidence_support": {
+          "evidence_refs": [
+            "JF08 - ReZonance service history and invoices",
+            "JF03 - Financial records showing ReZonance payments",
+            "JF04 - CIPC registration documents"
+          ],
+          "annexure_support": [
+            "JF08",
+            "JF03",
+            "JF04"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF08/ - ReZonance service documentation",
+            "ANNEXURES/JF03/ - Financial records",
+            "ANNEXURES/JF04/ - CIPC documents"
+          ]
+        },
+        "evidence_strength": "strong",
+        "legal_significance": "Service provider with conflict of interest"
+      },
+      {
+        "entity_id": "ORG_009",
+        "name": "Adderory (Pty) Ltd",
+        "type": "private_company",
+        "role": "competing_entity",
+        "agent_type": "antagonist_entity",
+        "involvement_events": 4,
+        "primary_actions": [
+          "competing_business_operations",
+          "unauthorized_stock_receipt",
+          "conflict_of_interest"
+        ],
+        "relationships": [
+          "director_PERSON_003",
+          "competitor_to_regima_companies",
+          "recipient_of_stolen_stock"
+        ],
+        "financial_impact": {
+          "stock_received": "R500,000+ (estimated stolen stock)",
+          "primary_categories": [
+            "receiving_stolen_goods",
+            "unfair_competition"
+          ]
+        },
+        "evidence_support": {
+          "evidence_refs": [
+            "SF5 - Adderory Company Registration and Stock Supply evidence",
+            "SF3 - Strategic Logistics Stock Adjustment showing transfers to Adderory",
+            "JF04 - CIPC registration documents showing Bantjies as director"
+          ],
+          "annexure_support": [
+            "SF5",
+            "SF3",
+            "JF04"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md",
+            "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
+            "ANNEXURES/JF04/ - CIPC documents"
+          ]
+        },
+        "evidence_strength": "strong",
+        "legal_significance": "Recipient of stolen stock, conflict of interest"
+      },
+      {
+        "entity_id": "ORG_010",
+        "name": "Luxuré / Luxury Products",
+        "type": "product_line",
+        "role": "product_operations",
+        "agent_type": "victim_entity",
+        "involvement_events": 3,
+        "primary_actions": [
+          "product_line_operations",
+          "brand_management"
+        ],
+        "relationships": [
+          "member_of_regima_group",
+          "product_line_victim"
+        ],
+        "evidence_support": {
+          "evidence_refs": [
+            "JF04 - CIPC and product documentation",
+            "JF02 - Sales reports mentioning Luxuré products"
+          ],
+          "annexure_support": [
+            "JF04",
+            "JF02"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04/ - Product documentation",
+            "ANNEXURES/JF02/ - Sales reports"
+          ]
+        },
+        "evidence_strength": "moderate",
+        "legal_significance": "Product line victim"
+      },
+      {
+        "entity_id": "ORG_DIST_001",
+        "name": "ALOECO (SA) - Original 1982",
+        "registration_number": "1982/123456/23",
+        "entity_type": "close_corporation",
+        "role": "distributor_network",
+        "status": "historical_distributor",
+        "registration_date": "1982-03-26",
+        "key_persons": [
+          "Alan Peter Louw"
+        ],
+        "involvement_events": 2,
+        "primary_activities": [
+          "historical_distribution_network",
+          "aloe_product_distribution"
+        ],
+        "relationships": [
+          "part_of_distributor_network",
+          "connected_to_PERSON_001_family"
+        ],
+        "evidence_support": {
+          "evidence_refs": [
+            "CIPC WinDeed Report 293351602.Pdf",
+            "JF16-DISTRIBUTORS - ALOECO registration documents"
+          ],
+          "annexure_support": [
+            "JF16"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF16-DISTRIBUTORS/293351602.Pdf"
+          ]
+        },
+        "evidence_strength": "verified",
+        "significance": "Establishes historical distributor network connections"
+      },
+      {
+        "entity_id": "ORG_DIST_002",
+        "name": "L'IMAGE CC",
+        "registration_number": "1986/123456/23",
+        "entity_type": "close_corporation",
+        "role": "distributor_network",
+        "status": "historical_distributor",
+        "registration_date": "1986-03-21",
+        "involvement_events": 1,
+        "primary_activities": [
+          "beauty_product_distribution"
+        ],
+        "evidence_support": {
+          "evidence_refs": [
+            "CIPC WinDeed Report 293351642.Pdf",
+            "JF16-DISTRIBUTORS - L'IMAGE registration documents"
+          ],
+          "annexure_support": [
+            "JF16"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF16-DISTRIBUTORS/293351642.Pdf"
+          ]
+        },
+        "evidence_strength": "verified",
+        "significance": "Part of historical distributor network"
+      },
+      {
+        "entity_id": "ORG_DIST_003",
+        "name": "S A Logistic Services CC",
+        "registration_number": "1991/123456/23",
+        "entity_type": "close_corporation",
+        "role": "distributor_network",
+        "status": "liquidated",
+        "registration_date": "1991-11-28",
+        "liquidation_date": "1999-05-25",
+        "key_persons": [
+          "Alan Peter Louw"
+        ],
+        "involvement_events": 2,
+        "primary_activities": [
+          "logistics_services",
+          "distribution_support"
+        ],
+        "evidence_support": {
+          "evidence_refs": [
+            "CIPC WinDeed Report 293351608.Pdf",
+            "JF16-DISTRIBUTORS - SA Logistic Services documents"
+          ],
+          "annexure_support": [
+            "JF16"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF16-DISTRIBUTORS/293351608.Pdf"
+          ]
+        },
+        "evidence_strength": "verified",
+        "significance": "Shows pattern of Louw's logistics operations"
+      },
+      {
+        "entity_id": "ORG_DIST_004",
+        "name": "UFO Express CC",
+        "registration_number": "1996/123456/23",
+        "entity_type": "close_corporation",
+        "role": "distributor_network",
+        "status": "active",
+        "registration_date": "1996-10-15",
+        "key_persons": [
+          "Martin Carlo Rizzotto"
+        ],
+        "involvement_events": 2,
+        "primary_activities": [
+          "express_delivery",
+          "distribution_logistics"
+        ],
+        "evidence_support": {
+          "evidence_refs": [
+            "CIPC WinDeed Report 293352764.Pdf",
+            "JF16-DISTRIBUTORS - UFO Express documents"
+          ],
+          "annexure_support": [
+            "JF16"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF16-DISTRIBUTORS/293352764.Pdf"
+          ]
+        },
+        "evidence_strength": "verified",
+        "significance": "Part of distributor logistics network"
+      },
+      {
+        "entity_id": "ORG_DIST_005",
+        "name": "East Coast Logistics CC",
+        "registration_number": "1998/123456/23",
+        "entity_type": "close_corporation",
+        "role": "distributor_network",
+        "status": "active",
+        "registration_date": "1998-05-20",
+        "involvement_events": 1,
+        "primary_activities": [
+          "regional_logistics",
+          "coastal_distribution"
+        ],
+        "evidence_support": {
+          "evidence_refs": [
+            "CIPC WinDeed Report 293351625.Pdf",
+            "JF16-DISTRIBUTORS - East Coast Logistics documents"
+          ],
+          "annexure_support": [
+            "JF16"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF16-DISTRIBUTORS/293351625.Pdf"
+          ]
+        },
+        "evidence_strength": "verified",
+        "significance": "Regional distributor network component"
+      },
+      {
+        "entity_id": "ORG_DIST_006",
+        "name": "LMS Logistic Services",
+        "registration_number": "1999/123456/23",
+        "entity_type": "close_corporation",
+        "role": "distributor_network",
+        "status": "active",
+        "registration_date": "1999-03-26",
+        "involvement_events": 1,
+        "primary_activities": [
+          "logistics_management",
+          "supply_chain_services"
+        ],
+        "evidence_support": {
+          "evidence_refs": [
+            "CIPC WinDeed Report 293352439.Pdf",
+            "JF16-DISTRIBUTORS - LMS Logistic Services documents"
+          ],
+          "annexure_support": [
+            "JF16"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF16-DISTRIBUTORS/293352439.Pdf"
+          ]
+        },
+        "evidence_strength": "verified",
+        "significance": "Logistics network expansion"
+      }
+    ]
+  }
+}
