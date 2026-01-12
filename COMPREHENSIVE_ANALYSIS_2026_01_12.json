@@ -1,0 +1,991 @@
+{
+  "analysis_date": "2026-01-12T05:34:33.610219",
+  "entities_analysis": {
+    "total_persons": 9,
+    "total_organizations": 10,
+    "total_trusts": 0,
+    "evidence_coverage": "100%",
+    "version": "32.0_COMPREHENSIVE_EVIDENCE_2025_12_30",
+    "persons": [
+      {
+        "entity_id": "PERSON_001",
+        "name": "Peter Andrew Faucitt",
+        "role": "primary_perpetrator",
+        "involvement_events": 11,
+        "evidence_strength": "conclusive",
+        "evidence_refs_count": 9,
+        "annexure_count": 9
+      },
+      {
+        "entity_id": "PERSON_002",
+        "name": "Rynette Farrar",
+        "role": "co_conspirator",
+        "involvement_events": 8,
+        "evidence_strength": "strong",
+        "evidence_refs_count": 6,
+        "annexure_count": 6
+      },
+      {
+        "entity_id": "PERSON_003",
+        "name": "Daniel Jacobus Bantjies",
+        "role": "co_conspirator",
+        "involvement_events": 4,
+        "evidence_strength": "strong",
+        "evidence_refs_count": 5,
+        "annexure_count": 5
+      },
+      {
+        "entity_id": "PERSON_004",
+        "name": "Jacqueline Faucitt",
+        "role": "first_respondent",
+        "involvement_events": 0,
+        "evidence_strength": "conclusive",
+        "evidence_refs_count": 8,
+        "annexure_count": 8
+      },
+      {
+        "entity_id": "PERSON_005",
+        "name": "Daniel James Faucitt",
+        "role": "second_respondent",
+        "involvement_events": 0,
+        "evidence_strength": "conclusive",
+        "evidence_refs_count": 8,
+        "annexure_count": 8
+      },
+      {
+        "entity_id": "PERSON_006",
+        "name": "Linda",
+        "role": "bookkeeper",
+        "involvement_events": 2,
+        "evidence_strength": "moderate",
+        "evidence_refs_count": 3,
+        "annexure_count": 3
+      },
+      {
+        "entity_id": "PERSON_007",
+        "name": "Kayla Pretorius",
+        "role": "former_business_manager",
+        "involvement_events": 5,
+        "evidence_strength": "conclusive",
+        "evidence_refs_count": 4,
+        "annexure_count": 4
+      },
+      {
+        "entity_id": "PERSON_008",
+        "name": "Gee",
+        "role": "warehouse_manager",
+        "involvement_events": 3,
+        "evidence_strength": "moderate",
+        "evidence_refs_count": 3,
+        "annexure_count": 3
+      },
+      {
+        "entity_id": "PERSON_009",
+        "name": "Bernadine Wright",
+        "role": "witness",
+        "involvement_events": 1,
+        "evidence_strength": "weak",
+        "evidence_refs_count": 2,
+        "annexure_count": 2
+      }
+    ],
+    "organizations": [
+      {
+        "entity_id": "ORG_001",
+        "name": "Faucitt Family Trust",
+        "registration_number": "IT123456/78",
+        "role": "trust_structure",
+        "evidence_refs_count": 4,
+        "annexure_count": 4
+      },
+      {
+        "entity_id": "ORG_002",
+        "name": "Regima Skin Treatments CC",
+        "registration_number": "CK2008/123456/23",
+        "role": "operating_company",
+        "evidence_refs_count": 5,
+        "annexure_count": 5
+      },
+      {
+        "entity_id": "ORG_003",
+        "name": "Regima Worldwide Distribution (PTY) LTD",
+        "registration_number": "2015/123456/07",
+        "role": "distribution_company",
+        "evidence_refs_count": 5,
+        "annexure_count": 5
+      },
+      {
+        "entity_id": "ORG_004",
+        "name": "RegimA SA",
+        "registration_number": null,
+        "role": "operating_company",
+        "evidence_refs_count": 4,
+        "annexure_count": 4
+      },
+      {
+        "entity_id": "ORG_005",
+        "name": "Strategic Logistics",
+        "registration_number": null,
+        "role": "logistics_operations",
+        "evidence_refs_count": 3,
+        "annexure_count": 3
+      },
+      {
+        "entity_id": "ORG_006",
+        "name": "Regima Zone",
+        "registration_number": null,
+        "role": "brand_operations",
+        "evidence_refs_count": 4,
+        "annexure_count": 4
+      },
+      {
+        "entity_id": "ORG_007",
+        "name": "Villa Via",
+        "registration_number": null,
+        "role": "property_operations",
+        "evidence_refs_count": 2,
+        "annexure_count": 2
+      },
+      {
+        "entity_id": "ORG_008",
+        "name": "ReZonance (Pty) Ltd",
+        "registration_number": "2015/123456/07",
+        "role": "it_services_provider",
+        "evidence_refs_count": 3,
+        "annexure_count": 3
+      },
+      {
+        "entity_id": "ORG_009",
+        "name": "Adderory (Pty) Ltd",
+        "registration_number": null,
+        "role": "competing_entity",
+        "evidence_refs_count": 3,
+        "annexure_count": 3
+      },
+      {
+        "entity_id": "ORG_010",
+        "name": "Luxuré / Luxury Products",
+        "registration_number": null,
+        "role": "product_operations",
+        "evidence_refs_count": 2,
+        "annexure_count": 2
+      }
+    ],
+    "trusts": []
+  },
+  "relations_analysis": {
+    "total_relations": 70,
+    "version": "8.0_EVIDENCE_ENHANCED",
+    "relation_types": {
+      "owns": 5,
+      "partial_ownership": 2,
+      "controls": 2,
+      "operates": 2,
+      "trustee_of": 3,
+      "controls_as_director": 2,
+      "controls_sage_accounting": 1,
+      "co_conspirator": 2,
+      "family_conspiracy": 1,
+      "coordinated_network": 1,
+      "depends_on": 1,
+      "uses_without_ownership": 1,
+      "payment_redirection": 1,
+      "unauthorized_transfers": 1,
+      "revenue_generation": 1,
+      "investment": 1,
+      "self_rent_charge": 1,
+      "stock_loss": 1,
+      "loan_receivable": 1,
+      "loan_payable_shareholder": 1,
+      "loan_payable": 1,
+      "debt_payment": 1,
+      "supplier_payment": 1,
+      "perpetrator_victim": 3,
+      "employed_by": 1,
+      "sibling_of": 1,
+      "destroyed_evidence": 1,
+      "concealed_evidence": 1,
+      "preceded_by": 1,
+      "escalation_pattern": 1,
+      "followed_by": 1,
+      "trigger_response": 1,
+      "escalation_sequence": 1,
+      "historical_foundation": 1,
+      "debtor_to_trust": 1,
+      "creditor_relationship": 1,
+      "estate_ownership": 1,
+      "witness_to_fraud": 1,
+      "witness_to_financial_control": 1,
+      "triple_conflict_of_interest": 1,
+      "controls_email": 1,
+      "email_control": 1,
+      "email_seizure": 1,
+      "email_access": 1,
+      "unknown_trustee": 1,
+      "beneficiary_of": 2,
+      "legitimate_beneficiary": 1,
+      "excluded_beneficiary": 1,
+      "professional_correspondence": 2,
+      "capital_extraction": 1,
+      "inter_company_loan": 2,
+      "knowledge_acquisition": 1,
+      "strategic_coordination": 1,
+      "prepared_financial_statements": 1
+    },
+    "relations_by_strength": {
+      "complete_ownership": 4,
+      "50%": 2,
+      "unknown": 56,
+      "strong": 6,
+      "moderate": 1,
+      "complete_control": 1
+    },
+    "relations": [
+      {
+        "relation_id": "REL_OWN_001",
+        "relation_type": "owns",
+        "source_entity": "PERSON_005",
+        "target_entity": "ORG_003",
+        "strength": "complete_ownership",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_OWN_002",
+        "relation_type": "owns",
+        "source_entity": "ORG_003",
+        "target_entity": "PLATFORM_001",
+        "strength": "complete_ownership",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_OWN_003",
+        "relation_type": "owns",
+        "source_entity": "ORG_003",
+        "target_entity": "DOMAIN_001",
+        "strength": "complete_ownership",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_OWN_004",
+        "relation_type": "owns",
+        "source_entity": "PERSON_003",
+        "target_entity": "DOMAIN_002",
+        "strength": "complete_ownership",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_OWN_005",
+        "relation_type": "partial_ownership",
+        "source_entity": "director",
+        "target_entity": "ORG_002",
+        "strength": "50%",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_OWN_006",
+        "relation_type": "partial_ownership",
+        "source_entity": "director",
+        "target_entity": "ORG_005",
+        "strength": "50%",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_OWN_007",
+        "relation_type": "owns",
+        "source_entity": null,
+        "target_entity": null,
+        "strength": "unknown",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_CTRL_001",
+        "relation_type": "controls",
+        "source_entity": "PERSON_001",
+        "target_entity": "ORG_001",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_CTRL_002",
+        "relation_type": "controls",
+        "source_entity": "PERSON_002",
+        "target_entity": "financial_systems",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_CTRL_003",
+        "relation_type": "operates",
+        "source_entity": "PERSON_005",
+        "target_entity": "PLATFORM_001",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_CTRL_004",
+        "relation_type": "operates",
+        "source_entity": "PERSON_004",
+        "target_entity": "PLATFORM_001",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_CTRL_005",
+        "relation_type": "trustee_of",
+        "source_entity": "PERSON_001",
+        "target_entity": "TRUST_001",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_CTRL_006",
+        "relation_type": "controls_as_director",
+        "source_entity": null,
+        "target_entity": null,
+        "strength": "unknown",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_CTRL_007",
+        "relation_type": "controls_as_director",
+        "source_entity": null,
+        "target_entity": null,
+        "strength": "unknown",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_CTRL_008",
+        "relation_type": "controls_sage_accounting",
+        "source_entity": null,
+        "target_entity": null,
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_CONSP_001",
+        "relation_type": "co_conspirator",
+        "source_entity": "PERSON_001",
+        "target_entity": "PERSON_002",
+        "strength": "strong",
+        "evidence_count": 3
+      },
+      {
+        "relation_id": "REL_CONSP_002",
+        "relation_type": "family_conspiracy",
+        "source_entity": "PERSON_002",
+        "target_entity": "PERSON_003",
+        "strength": "strong",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_CONSP_003",
+        "relation_type": "coordinated_network",
+        "source_entity": "PERSON_001",
+        "target_entity": "associates",
+        "strength": "moderate",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_CONSP_004",
+        "relation_type": "co_conspirator",
+        "source_entity": "PERSON_007",
+        "target_entity": "PERSON_001",
+        "strength": "strong",
+        "evidence_count": 3
+      },
+      {
+        "relation_id": "REL_DEP_001",
+        "relation_type": "depends_on",
+        "source_entity": "ORG_001",
+        "target_entity": "ORG_003",
+        "strength": "unknown",
+        "evidence_count": 3
+      },
+      {
+        "relation_id": "REL_DEP_002",
+        "relation_type": "uses_without_ownership",
+        "source_entity": "ORG_001",
+        "target_entity": "PLATFORM_001",
+        "strength": "unknown",
+        "evidence_count": 3
+      },
+      {
+        "relation_id": "REL_FIN_001",
+        "relation_type": "payment_redirection",
+        "source_entity": "PERSON_002",
+        "target_entity": "bank_accounts",
+        "strength": "unknown",
+        "evidence_count": 3
+      },
+      {
+        "relation_id": "REL_FIN_002",
+        "relation_type": "unauthorized_transfers",
+        "source_entity": "PERSON_001",
+        "target_entity": "accounts",
+        "strength": "unknown",
+        "evidence_count": 3
+      },
+      {
+        "relation_id": "REL_FIN_003",
+        "relation_type": "revenue_generation",
+        "source_entity": "PLATFORM_001",
+        "target_entity": "ORG_001",
+        "strength": "unknown",
+        "evidence_count": 3
+      },
+      {
+        "relation_id": "REL_FIN_004",
+        "relation_type": "investment",
+        "source_entity": "PERSON_005",
+        "target_entity": "PLATFORM_001",
+        "strength": "unknown",
+        "evidence_count": 3
+      },
+      {
+        "relation_id": "REL_FIN_005",
+        "relation_type": "self_rent_charge",
+        "source_entity": "director",
+        "target_entity": "director",
+        "strength": "unknown",
+        "evidence_count": 3
+      },
+      {
+        "relation_id": "REL_FIN_006",
+        "relation_type": "stock_loss",
+        "source_entity": "ORG_004",
+        "target_entity": "stock",
+        "strength": "unknown",
+        "evidence_count": 3
+      },
+      {
+        "relation_id": "REL_FIN_007",
+        "relation_type": "loan_receivable",
+        "source_entity": null,
+        "target_entity": null,
+        "strength": "unknown",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_FIN_008",
+        "relation_type": "loan_payable_shareholder",
+        "source_entity": null,
+        "target_entity": null,
+        "strength": "unknown",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_FIN_009",
+        "relation_type": "loan_payable",
+        "source_entity": null,
+        "target_entity": null,
+        "strength": "unknown",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_FIN_010",
+        "relation_type": "debt_payment",
+        "source_entity": null,
+        "target_entity": null,
+        "strength": "unknown",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_FIN_011",
+        "relation_type": "supplier_payment",
+        "source_entity": null,
+        "target_entity": null,
+        "strength": "unknown",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_VP_001",
+        "relation_type": "perpetrator_victim",
+        "source_entity": "PERSON_001",
+        "target_entity": "PERSON_005",
+        "strength": "strong",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_VP_002",
+        "relation_type": "perpetrator_victim",
+        "source_entity": "PERSON_002",
+        "target_entity": "PERSON_005",
+        "strength": "strong",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_VP_003",
+        "relation_type": "perpetrator_victim",
+        "source_entity": "PERSON_001",
+        "target_entity": "TRUST_001",
+        "strength": "strong",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_EMP_001",
+        "relation_type": "employed_by",
+        "source_entity": "PERSON_006",
+        "target_entity": "regima_group",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_EMP_002",
+        "relation_type": "sibling_of",
+        "source_entity": "PERSON_006",
+        "target_entity": "PERSON_002",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_EVID_001",
+        "relation_type": "destroyed_evidence",
+        "source_entity": "coordinated_action",
+        "target_entity": "PLATFORM_001",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_EVID_002",
+        "relation_type": "concealed_evidence",
+        "source_entity": "coordinated_network",
+        "target_entity": "financial_records",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_TEMP_001",
+        "relation_type": "preceded_by",
+        "source_entity": "payment_redirection_scheme",
+        "target_entity": "trust_structure_establishment",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_TEMP_002",
+        "relation_type": "escalation_pattern",
+        "source_entity": "bank_account_change",
+        "target_entity": "audit_trail_destruction",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_TEMP_003",
+        "relation_type": "followed_by",
+        "source_entity": "audit_trail_destruction",
+        "target_entity": "financial_evidence_concealment",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_TEMP_004",
+        "relation_type": "trigger_response",
+        "source_entity": "EVENT_007",
+        "target_entity": "EVENT_026",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_TEMP_005",
+        "relation_type": "escalation_sequence",
+        "source_entity": "EVENT_026",
+        "target_entity": "EVENT_027",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_TEMP_006",
+        "relation_type": "historical_foundation",
+        "source_entity": "EVENT_H007",
+        "target_entity": "EVENT_001",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_DEBT_001",
+        "relation_type": "debtor_to_trust",
+        "source_entity": "PERSON_007",
+        "target_entity": "TRUST_001",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_DEBT_002",
+        "relation_type": "creditor_relationship",
+        "source_entity": "ORG_008",
+        "target_entity": "regima_group",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_ESTATE_001",
+        "relation_type": "estate_ownership",
+        "source_entity": "ORG_008",
+        "target_entity": "PERSON_008",
+        "strength": "unknown",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_WITNESS_001",
+        "relation_type": "witness_to_fraud",
+        "source_entity": "PERSON_009",
+        "target_entity": "DOMAIN_002",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_WITNESS_002",
+        "relation_type": "witness_to_financial_control",
+        "source_entity": "PERSON_010",
+        "target_entity": "PERSON_007",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_CONFLICT_001",
+        "relation_type": "triple_conflict_of_interest",
+        "source_entity": "PERSON_007",
+        "target_entity": null,
+        "strength": "unknown",
+        "evidence_count": 4
+      },
+      {
+        "relation_id": "REL_EMAIL_001",
+        "relation_type": "controls_email",
+        "source_entity": "PERSON_002",
+        "target_entity": "PERSON_001",
+        "strength": "complete_control",
+        "evidence_count": 3
+      },
+      {
+        "relation_id": "REL_EMAIL_001",
+        "relation_type": "email_control",
+        "source_entity": "PERSON_002",
+        "target_entity": "PERSON_001",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_EMAIL_002",
+        "relation_type": "email_seizure",
+        "source_entity": "PERSON_001",
+        "target_entity": "PERSON_008",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_EMAIL_002",
+        "relation_type": "email_access",
+        "source_entity": null,
+        "target_entity": null,
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_TRUSTEE_001",
+        "relation_type": "trustee_of",
+        "source_entity": "PERSON_001",
+        "target_entity": "TRUST_001",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_TRUSTEE_002",
+        "relation_type": "trustee_of",
+        "source_entity": "PERSON_007",
+        "target_entity": "TRUST_001",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_TRUSTEE_001",
+        "relation_type": "unknown_trustee",
+        "source_entity": "PERSON_007",
+        "target_entity": "TRUST_001",
+        "strength": "unknown",
+        "evidence_count": 3
+      },
+      {
+        "relation_id": "REL_BENEF_001",
+        "relation_type": "beneficiary_of",
+        "source_entity": "PERSON_004",
+        "target_entity": "TRUST_001",
+        "strength": "unknown",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_BENEF_002",
+        "relation_type": "beneficiary_of",
+        "source_entity": "PERSON_005",
+        "target_entity": "TRUST_001",
+        "strength": "unknown",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_BENEF_001",
+        "relation_type": "legitimate_beneficiary",
+        "source_entity": "PERSON_005",
+        "target_entity": "TRUST_001",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_BENEF_002",
+        "relation_type": "excluded_beneficiary",
+        "source_entity": "PERSON_005",
+        "target_entity": "TRUST_001",
+        "strength": "unknown",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_PROF_001",
+        "relation_type": "professional_correspondence",
+        "source_entity": "PERSON_007",
+        "target_entity": "PERSON_010",
+        "strength": "unknown",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_PROF_001",
+        "relation_type": "professional_correspondence",
+        "source_entity": "PERSON_007",
+        "target_entity": "PERSON_010",
+        "strength": "unknown",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_EXTRACT_001",
+        "relation_type": "capital_extraction",
+        "source_entity": "ORG_005",
+        "target_entity": "members",
+        "strength": "unknown",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_LOAN_001",
+        "relation_type": "inter_company_loan",
+        "source_entity": null,
+        "target_entity": null,
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_LOAN_002",
+        "relation_type": "inter_company_loan",
+        "source_entity": null,
+        "target_entity": null,
+        "strength": "unknown",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_KNOWLEDGE_001",
+        "relation_type": "knowledge_acquisition",
+        "source_entity": "PERSON_007",
+        "target_entity": "criminal_matters",
+        "strength": "unknown",
+        "evidence_count": 1
+      },
+      {
+        "relation_id": "REL_LEGAL_001",
+        "relation_type": "strategic_coordination",
+        "source_entity": "PERSON_001",
+        "target_entity": "settlement_and_interdict",
+        "strength": "unknown",
+        "evidence_count": 2
+      },
+      {
+        "relation_id": "REL_PROF_003",
+        "relation_type": "prepared_financial_statements",
+        "source_entity": null,
+        "target_entity": null,
+        "strength": "unknown",
+        "evidence_count": 1
+      }
+    ]
+  },
+  "events_analysis": null,
+  "timeline_analysis": {
+    "total_entries": 101,
+    "criminal_threshold_entries": 36,
+    "high_significance_entries": 5,
+    "version": "23.0_DISTRIBUTORS_2026_01_09",
+    "date_range": {
+      "earliest": "1982-03-26",
+      "latest": "2025-10-23"
+    },
+    "entries_by_year": {
+      "1982": 1,
+      "1986": 1,
+      "1991": 1,
+      "1992": 2,
+      "1993": 1,
+      "1996": 1,
+      "1997": 1,
+      "1998": 1,
+      "1999": 3,
+      "2001": 1,
+      "2006": 4,
+      "2008": 2,
+      "2011": 1,
+      "2016": 2,
+      "2017": 13,
+      "2018": 1,
+      "2019": 8,
+      "2020": 7,
+      "2021": 6,
+      "2022": 3,
+      "2023": 4,
+      "2025": 33,
+      "2000": 1,
+      "2005": 1,
+      "2007": 1,
+      "2015": 1
+    },
+    "entries_with_evidence": 45,
+    "entries_without_evidence": 56
+  },
+  "evidence_analysis": {
+    "annexures": {
+      "JF01": {
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/JF01",
+        "file_count": 2
+      },
+      "JF02": {
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/JF02",
+        "file_count": 3
+      },
+      "JF03": {
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/JF03",
+        "file_count": 5
+      },
+      "JF04": {
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/JF04",
+        "file_count": 6
+      },
+      "JF05": {
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/JF05",
+        "file_count": 7
+      },
+      "JF06": {
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/JF06",
+        "file_count": 5
+      },
+      "JF07": {
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/JF07",
+        "file_count": 186
+      },
+      "JF08": {
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/JF08",
+        "file_count": 43
+      },
+      "JF09": {
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/JF09",
+        "file_count": 8
+      },
+      "JF10": {
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/JF10",
+        "file_count": 3
+      },
+      "JF11": {
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/JF11",
+        "file_count": 1
+      },
+      "JF12": {
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/JF12",
+        "file_count": 1
+      },
+      "JF13": {
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/JF13",
+        "file_count": 3
+      },
+      "JF14-CIPC-2021": {
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/JF14-CIPC-2021",
+        "file_count": 19
+      },
+      "JF15-CIPC-BATCH2-2021": {
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/JF15-CIPC-BATCH2-2021",
+        "file_count": 19
+      },
+      "JF16-DISTRIBUTORS": {
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/JF16-DISTRIBUTORS",
+        "file_count": 28
+      }
+    },
+    "supplementary_filings": [
+      {
+        "name": "SF1_Bantjies_Debt_Documentation.md",
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
+      },
+      {
+        "name": "SF2_Sage_Screenshots_Rynette_Control.md",
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
+      },
+      {
+        "name": "SF3_Strategic_Logistics_Stock_Adjustment.md",
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
+      },
+      {
+        "name": "SF4_SARS_Audit_Email.md",
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/SF4_SARS_Audit_Email.md"
+      },
+      {
+        "name": "SF5_Adderory_Company_Registration_Stock_Supply.md",
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md"
+      },
+      {
+        "name": "SF6_Kayla_Pretorius_Estate_Documentation.md",
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md"
+      },
+      {
+        "name": "SF7_Court_Order_Kayla_Email_Seizure.md",
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md"
+      },
+      {
+        "name": "SF8_Linda_Employment_Records.md",
+        "path": "/home/ubuntu/ad-res-j7/ANNEXURES/SF8_Linda_Employment_Records.md"
+      }
+    ]
+  },
+  "recommendations": {
+    "entities": [
+      "Verify all entity IDs are consistently used across all models",
+      "Ensure all entities have complete evidence references from ad-res-j7",
+      "Add missing distributor entities from JF16-DISTRIBUTORS",
+      "Cross-reference all persons with CIPC records in JF14 and JF15"
+    ],
+    "relations": [
+      "Map all company director relationships from CIPC records",
+      "Add temporal aspects to relations (start_date, end_date)",
+      "Verify all relations have supporting evidence from ANNEXURES",
+      "Add conspiracy network relations based on timeline patterns"
+    ],
+    "events": [
+      "Ensure all events reference specific evidence files",
+      "Add event significance ratings based on burden of proof",
+      "Link events to specific legal violations",
+      "Cross-reference events with timeline entries for consistency"
+    ],
+    "timeline": [
+      "Add missing CIPC registration events from JF14, JF15, JF16",
+      "Ensure all criminal threshold events are properly marked",
+      "Add evidence file paths for all entries",
+      "Create phase markers for different conspiracy stages"
+    ],
+    "github_pages": [
+      "Create clear navigation structure for 3 applications",
+      "Add evidence index with direct links to ANNEXURES",
+      "Create visual timelines for each application",
+      "Add burden of proof analysis for each claim",
+      "Organize filings by type and date",
+      "Create cross-reference tables linking claims to evidence"
+    ],
+    "legal_filings": [
+      "Update CIPC complaint with latest evidence from v32 entities",
+      "Enhance POPIA complaint with specific data breach instances",
+      "Strengthen NPA Tax Fraud Report with financial calculations",
+      "Create Commercial Crime Case submission with timeline",
+      "Add civil claim calculations based on verified losses",
+      "Ensure all filings meet 50% (civil) or 95% (criminal) burden of proof"
+    ]
+  }
+}
