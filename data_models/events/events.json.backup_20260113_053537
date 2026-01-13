@@ -6,8 +6,8 @@
     "case_number": "2025-137857",
     "total_events": 95,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-01-13T05:35:37.862931",
-    "changes": "Enhanced 0 events with evidence references from ad-res-j7",
+    "last_updated": "2026-01-09T11:53:07.739123",
+    "changes": "Added 6 new events from distributor CIPC documents including RST bond registration",
     "phase_statistics": {
       "PHASE_1": 25,
       "PHASE_2": 4,
@@ -1976,7 +1976,7 @@
       "entities_involved": [
         "PLATFORM_001"
       ],
-      "description": "CRITICAL EVENT: R1M+ monthly revenue → R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
+      "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
       "financial_impact": "R1,000,000+ monthly",
       "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
       "evidence": [

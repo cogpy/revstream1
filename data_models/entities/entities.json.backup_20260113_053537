@@ -5,8 +5,8 @@
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-13T05:35:37.862875",
-    "changes": "Enhanced 0 entities with evidence references from ad-res-j7",
+    "last_updated": "2026-01-09T11:53:07.739082",
+    "changes": "Added 8 new persons and 6 new organizations from distributor/client CIPC documents including bond registration evidence",
     "total_entities": 59,
     "total_persons": 36,
     "total_organizations": 37
@@ -954,7 +954,7 @@
       },
       {
         "entity_id": "PERSON_32",
-        "name": "Chané Auriele Todd",
+        "name": "Chan\u00e9 Auriele Todd",
         "id_number": "8909280264080",
         "date_of_birth": "1989-09-28",
         "role": "Distributor",
@@ -1981,7 +1981,7 @@
         "registered_address": "37 Sandpiper Street, Ebotse Golf Estate, Benoni, 1514",
         "directors": [
           {
-            "name": "Chané Auriele Todd",
+            "name": "Chan\u00e9 Auriele Todd",
             "status": "ACTIVE"
           },
           {

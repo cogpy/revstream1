@@ -1,0 +1,345 @@
+{
+  "analysis_date": "2026-01-13T05:34:49.305697",
+  "entities": {
+    "total_persons": 36,
+    "total_organizations": 37,
+    "missing_evidence": [
+      "PERSON_023",
+      "PERSON_024",
+      "PERSON_025",
+      "PERSON_026",
+      "PERSON_027",
+      "PERSON_028"
+    ],
+    "weak_evidence": [
+      {
+        "entity_id": "PERSON_015",
+        "name": "Alan Peter Louw",
+        "strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_016",
+        "name": "Martin Carlo Rizzotto",
+        "strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_017",
+        "name": "Christian Gouws",
+        "strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_018",
+        "name": "Lisa Clare Frost",
+        "strength": "weak"
+      },
+      {
+        "entity_id": "PERSON_019",
+        "name": "Trevor David Stidston",
+        "strength": "weak"
+      },
+      {
+        "entity_id": "PERSON_020",
+        "name": "Kerry-Anne Zwicky",
+        "strength": "weak"
+      },
+      {
+        "entity_id": "PERSON_021",
+        "name": "Guillaume Jordaan",
+        "strength": "weak"
+      },
+      {
+        "entity_id": "PERSON_022",
+        "name": "Gary Ian Cay",
+        "strength": "weak"
+      },
+      {
+        "entity_id": "PERSON_33",
+        "name": "Kirby Rae Van Der Stelt",
+        "strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_35",
+        "name": "Anna Gertruida Johanna du Toit",
+        "strength": "moderate"
+      },
+      {
+        "entity_id": "PERSON_36",
+        "name": "Adrian Dominic De Fay",
+        "strength": "moderate"
+      }
+    ],
+    "incomplete_entities": [
+      {
+        "entity_id": "PERSON_002",
+        "name": "Rynette Farrar",
+        "missing": "id_number"
+      },
+      {
+        "entity_id": "PERSON_007",
+        "name": "Danie Bantjies",
+        "missing": "id_number"
+      },
+      {
+        "entity_id": "PERSON_008",
+        "name": "Kayla",
+        "missing": "id_number"
+      },
+      {
+        "entity_id": "PERSON_009",
+        "name": "Gee",
+        "missing": "id_number"
+      },
+      {
+        "entity_id": "PERSON_010",
+        "name": "Bernadine Wright",
+        "missing": "id_number"
+      },
+      {
+        "entity_id": "PERSON_003",
+        "name": "Adderory (Rynette's Son)",
+        "missing": "id_number"
+      },
+      {
+        "entity_id": "PERSON_011",
+        "name": "Chantal",
+        "missing": "id_number"
+      },
+      {
+        "entity_id": "PERSON_012",
+        "name": "Jax",
+        "missing": "id_number"
+      },
+      {
+        "entity_id": "PERSON_012",
+        "name": "Marisca Meyer",
+        "missing": "id_number"
+      },
+      {
+        "entity_id": "PERSON_013",
+        "name": "Kayla Pretorius",
+        "missing": "id_number"
+      },
+      {
+        "entity_id": "PERSON_027",
+        "name": "Andrew J Fraser",
+        "missing": "id_number"
+      }
+    ]
+  },
+  "events": {
+    "total_events": 95,
+    "missing_dates": [],
+    "missing_evidence": [
+      "EVENT_092",
+      "EVENT_093",
+      "EVENT_094",
+      "EVENT_095",
+      "EVENT_096",
+      "EVENT_097",
+      "EVENT_098"
+    ],
+    "phase_distribution": {
+      "PHASE_1": 25,
+      "PHASE_2": 4,
+      "PHASE_3": 48,
+      "UNKNOWN": 18
+    },
+    "burden_of_proof_distribution": {
+      "civil_50%_exceeded": 16,
+      "civil_50%": 15,
+      "criminal_95": 46,
+      "verified_cipc_record": 5,
+      "UNKNOWN": 13
+    }
+  },
+  "relations": {
+    "total_relations": 108,
+    "missing_evidence": [
+      "REL_027",
+      "REL_028",
+      "REL_029",
+      "REL_030",
+      "REL_031",
+      "REL_032",
+      "REL_033",
+      "REL_034",
+      "REL_035",
+      "REL_036",
+      "REL_037",
+      "REL_038",
+      "REL_039",
+      "REL_040"
+    ],
+    "weak_relations": [
+      {
+        "relation_id": "REL_ORG007_PERSON001",
+        "type": "legal_representation",
+        "strength": "moderate"
+      },
+      {
+        "relation_id": "REL_ADDR_001",
+        "type": "shares_postal_address",
+        "strength": "moderate"
+      },
+      {
+        "relation_id": "REL_FORMER_001",
+        "type": "former_director_of",
+        "strength": "moderate"
+      },
+      {
+        "relation_id": "REL_SPOUSE_49",
+        "type": null,
+        "strength": "moderate"
+      }
+    ]
+  },
+  "timeline": {
+    "total_entries": 103,
+    "missing_evidence": [
+      "2017-02-24",
+      "2017-06-30",
+      "2017-09-30",
+      "2019-02-28",
+      "2019-03-01",
+      "2019-05-01",
+      "2019-11-20",
+      "2020-02-20",
+      "2020-02-28",
+      "2020-04-30",
+      "2020-08-13",
+      "2020-08-15",
+      "2021-03-15",
+      "2021-04-01",
+      "2021-09-10",
+      "2021-10-05",
+      "2022-03-01",
+      "2022-07-11",
+      "2022-07-30",
+      "2023-01-01",
+      "2023-02-28",
+      "2023-03-15",
+      "2023-09-20",
+      "2025-01-15",
+      "2025-02-14",
+      "2025-02-25",
+      "2025-03-01",
+      "2025-03-15",
+      "2025-03-30",
+      "2025-04-01",
+      "2025-04-14",
+      "2025-04-22",
+      "2025-04-30",
+      "2025-05-02",
+      "2025-05-15",
+      "2025-05-22",
+      "2025-05-29",
+      "2025-06-06",
+      "2025-06-07",
+      "2025-06-10",
+      "2025-06-18",
+      "2025-06-20",
+      "2025-06-25",
+      "2025-06-30",
+      "2025-07-08",
+      "2025-07-12",
+      "2025-07-23",
+      "2025-07-25",
+      "2025-08-10",
+      "2025-08-11",
+      "2025-08-13",
+      "2025-08-15",
+      "2025-08-20",
+      "2025-08-29",
+      "2025-09-11",
+      "2025-10-23"
+    ],
+    "missing_entities": [
+      "2000-05-31",
+      "2005-09-29",
+      "2006-03-16",
+      "2006-06-05",
+      "2007-07-17",
+      "2015-07-08",
+      "2016-07-05",
+      "2017-02-24",
+      "2017-06-30",
+      "2017-09-27",
+      "2017-09-30",
+      "2019-02-28",
+      "2019-03-01",
+      "2019-05-01",
+      "2019-11-20",
+      "2019-11-22",
+      "2020-02-20",
+      "2020-02-28",
+      "2020-04-30",
+      "2020-08-13",
+      "2020-08-15",
+      "2021-03-15",
+      "2021-04-01",
+      "2021-09-10",
+      "2021-10-05",
+      "2022-03-01",
+      "2022-07-11",
+      "2022-07-30",
+      "2023-01-01",
+      "2023-02-28",
+      "2023-03-15",
+      "2023-09-20",
+      "2025-01-15",
+      "2025-02-14",
+      "2025-02-25",
+      "2025-03-01",
+      "2025-03-15",
+      "2025-03-30",
+      "2025-04-01",
+      "2025-04-14",
+      "2025-04-22",
+      "2025-04-30",
+      "2025-05-02",
+      "2025-05-15",
+      "2025-05-22",
+      "2025-05-29",
+      "2025-06-06",
+      "2025-06-07",
+      "2025-06-10",
+      "2025-06-18",
+      "2025-06-20",
+      "2025-06-25",
+      "2025-06-30",
+      "2025-07-08",
+      "2025-07-12",
+      "2025-07-23",
+      "2025-07-25",
+      "2025-08-10",
+      "2025-08-11",
+      "2025-08-13",
+      "2025-08-15",
+      "2025-08-20",
+      "2025-08-29",
+      "2025-09-11",
+      "2025-10-23"
+    ],
+    "date_gaps": []
+  },
+  "recommendations": [
+    {
+      "priority": "HIGH",
+      "category": "entities",
+      "issue": "6 entities missing evidence",
+      "action": "Cross-reference with ad-res-j7 evidence files"
+    },
+    {
+      "priority": "HIGH",
+      "category": "events",
+      "issue": "7 events missing evidence",
+      "action": "Add evidence references from timeline and ad-res-j7"
+    },
+    {
+      "priority": "MEDIUM",
+      "category": "timeline",
+      "issue": "56 timeline entries missing evidence",
+      "action": "Link to specific evidence files in ad-res-j7"
+    }
+  ]
+}
