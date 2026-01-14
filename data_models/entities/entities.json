@@ -5,8 +5,8 @@
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-13T05:35:37.862875",
-    "changes": "Enhanced 0 entities with evidence references from ad-res-j7",
+    "last_updated": "2026-01-14T05:34:45.673313",
+    "changes": "Enhanced 7 entities with comprehensive ad-res-j7 evidence",
     "total_entities": 59,
     "total_persons": 36,
     "total_organizations": 37
@@ -80,7 +80,15 @@
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077423",
         "evidence_strength": "conclusive",
-        "criminal_threshold": "95%_exceeded"
+        "criminal_threshold": "95%_exceeded",
+        "ad_res_j7_evidence_enhanced": [
+          "ANNEXURES/JF01 - Shopify Plus email evidence",
+          "ANNEXURES/JF04 - CIPC company records",
+          "ANNEXURES/JF08/evidence_package_20251012",
+          "1-CIVIL-RESPONSE/ANSWERING_AFFIDAVIT_JACQUI.md",
+          "SF9_Ian_Levitt_Demand_Letter.md"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-14T05:34:45.673221"
       },
       {
         "entity_id": "PERSON_002",
@@ -151,7 +159,14 @@
         "evidence_enhanced": "2025-12-28T05:36:36.077448",
         "evidence_strength": "conclusive",
         "criminal_threshold": "95%_likely",
-        "evidence_upgraded": "2026-01-04T05:34:37.785444"
+        "evidence_upgraded": "2026-01-04T05:34:37.785444",
+        "ad_res_j7_evidence_enhanced": [
+          "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md",
+          "ANNEXURES/JF07 - Sage system screenshots",
+          "ANNEXURES/JF08/evidence_package_20251012",
+          "SF9_Ian_Levitt_Demand_Letter.md"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-14T05:34:45.673259"
       },
       {
         "entity_id": "PERSON_004",
@@ -181,7 +196,13 @@
           "archive/legal-analysis-nov2025/attorney_correspondence/IanLevittAttorneysMemo_2025-11-09.txt"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077452",
-        "evidence_strength": "strong"
+        "evidence_strength": "strong",
+        "ad_res_j7_evidence_enhanced": [
+          "1-CIVIL-RESPONSE/ANSWERING_AFFIDAVIT_JACQUI.md",
+          "ANNEXURES/JF01 - Shopify platform operator evidence",
+          "ANNEXURES/JF06 - Court documents"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-14T05:34:45.673263"
       },
       {
         "entity_id": "PERSON_005",
@@ -218,7 +239,13 @@
           "archive/legal-analysis-nov2025/attorney_correspondence/IanLevittAttorneysMemo_2025-11-09.txt"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077454",
-        "evidence_strength": "strong"
+        "evidence_strength": "strong",
+        "ad_res_j7_evidence_enhanced": [
+          "ANNEXURES/JF01 - Shopify Plus email",
+          "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
+          "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-14T05:34:45.673266"
       },
       {
         "entity_id": "PERSON_006",
@@ -327,9 +354,15 @@
           "ANNEXURES/JF08/evidence_package_20251012/README.md - Accounting fraud evidence"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077460",
-        "evidence_strength": "conclusive",
-        "criminal_threshold": "95%_exceeded",
-        "evidence_upgraded": "2026-01-04T05:34:37.785483"
+        "evidence_strength": "strong",
+        "criminal_threshold": "95%_likely",
+        "evidence_upgraded": "2026-01-04T05:34:37.785483",
+        "ad_res_j7_evidence_enhanced": [
+          "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+          "ANNEXURES/JF03 - Financial records",
+          "ANNEXURES/JF08/evidence_package_20251012"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-14T05:34:45.673270"
       },
       {
         "entity_id": "PERSON_008",
@@ -954,7 +987,7 @@
       },
       {
         "entity_id": "PERSON_32",
-        "name": "Chané Auriele Todd",
+        "name": "Chan\u00e9 Auriele Todd",
         "id_number": "8909280264080",
         "date_of_birth": "1989-09-28",
         "role": "Distributor",
@@ -1090,7 +1123,12 @@
           "1-CIVIL-RESPONSE/financial-flows - Revenue hijacking documentation"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077489",
-        "evidence_strength": "strong"
+        "evidence_strength": "conclusive",
+        "ad_res_j7_evidence_enhanced": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF08/evidence_package_20251012"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-14T05:34:45.673291"
       },
       {
         "entity_id": "ORG_002",
@@ -1356,7 +1394,12 @@
           "JF03 - Financial records showing rent charges",
           "CIPC company records"
         ],
-        "evidence_strength": "moderate"
+        "evidence_strength": "strong",
+        "ad_res_j7_evidence_enhanced": [
+          "ANNEXURES/JF03 - Financial transaction records",
+          "ANNEXURES/JF08/evidence_package_20251012"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-14T05:34:45.673298"
       },
       {
         "entity_id": "ORG_009",
@@ -1981,7 +2024,7 @@
         "registered_address": "37 Sandpiper Street, Ebotse Golf Estate, Benoni, 1514",
         "directors": [
           {
-            "name": "Chané Auriele Todd",
+            "name": "Chan\u00e9 Auriele Todd",
             "status": "ACTIVE"
           },
           {

@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "analysis_date": "2026-01-14T05:35:38.124980",
+    "timeline_version": "24.0_EVIDENCE_ENHANCED_2026_01_12",
+    "entities_version": "27.0_DISTRIBUTORS_2026_01_09"
+  },
+  "statistics": {
+    "total_events": 103,
+    "events_by_type": {
+      "unknown": 86,
+      "company_registration": 11,
+      "director_appointment": 2,
+      "director_change": 1,
+      "cipc_filing": 2,
+      "evidence_collection": 1
+    },
+    "events_by_phase": {
+      "UNKNOWN": 103
+    },
+    "events_with_evidence": 82,
+    "events_without_evidence": 21,
+    "criminal_threshold_events": 36,
+    "civil_threshold_events": 0
+  },
+  "gaps": [
+    {
+      "gap_type": "missing_evidence_references",
+      "count": 21,
+      "events": [
+        {
+          "entry_id": "unknown",
+          "date": "1982-03-26",
+          "title": "ALOECO (SA) original company registered"
+        },
+        {
+          "entry_id": "unknown",
+          "date": "1986-03-21",
+          "title": "L'IMAGE CC registered"
+        },
+        {
+          "entry_id": "unknown",
+          "date": "1991-11-28",
+          "title": "S A Logistic Services CC registered by Louw"
+        },
+        {
+          "entry_id": "unknown",
+          "date": "1992-12-15",
+          "title": "Shaneprop CC registered by Louw"
+        },
+        {
+          "entry_id": "unknown",
+          "date": "1993-02-13",
+          "title": "Louw becomes director of ALOECO (SA) original"
+        },
+        {
+          "entry_id": "unknown",
+          "date": "1996-10-15",
+          "title": "UFO Express CC registered"
+        },
+        {
+          "entry_id": "unknown",
+          "date": "1997-09-02",
+          "title": "Rizzotto becomes 100% member of UFO Express"
+        },
+        {
+          "entry_id": "unknown",
+          "date": "1998-05-20",
+          "title": "East Coast Logistics CC registered"
+        },
+        {
+          "entry_id": "unknown",
+          "date": "1999-03-26",
+          "title": "LMS Logistic Services registered"
+        },
+        {
+          "entry_id": "unknown",
+          "date": "1999-05-25",
+          "title": "S A Logistic Services enters liquidation"
+        }
+      ]
+    }
+  ],
+  "improvements": [
+    {
+      "improvement_type": "evidence_enhancement",
+      "priority": "high",
+      "description": "Add evidence references to 21 events without evidence",
+      "action": "Cross-reference with ad-res-j7 ANNEXURES and add specific evidence paths"
+    },
+    {
+      "improvement_type": "burden_of_proof_classification",
+      "priority": "high",
+      "description": "Classify all events by burden of proof standard (civil 50% vs criminal 95%)",
+      "action": "Review each event and assign appropriate burden_of_proof field"
+    },
+    {
+      "improvement_type": "phase_classification",
+      "priority": "medium",
+      "description": "Ensure all events are properly classified into phases (PHASE_1, PHASE_2, PHASE_3)",
+      "action": "Review timeline and assign phase based on chronology and fraud pattern"
+    },
+    {
+      "improvement_type": "perpetrator_linking",
+      "priority": "high",
+      "description": "Link all events to specific perpetrators from entities model",
+      "action": "Add perpetrators field with entity IDs (PERSON_001, PERSON_002, etc.)"
+    },
+    {
+      "improvement_type": "financial_impact_quantification",
+      "priority": "high",
+      "description": "Quantify financial impact for all fraud events",
+      "action": "Add or update financial_impact field with specific amounts from evidence"
+    }
+  ],
+  "critical_events": [
+    {
+      "entry_id": "unknown",
+      "date": "2025-10-23",
+      "title": "unknown",
+      "financial_impact": 63000000.0,
+      "burden_of_proof": "",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2020-04-30",
+      "title": "unknown",
+      "financial_impact": 45600000.0,
+      "burden_of_proof": "",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2020-02-28",
+      "title": "unknown",
+      "financial_impact": 21047668.18,
+      "burden_of_proof": "criminal_95",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2025-03-15",
+      "title": "unknown",
+      "financial_impact": 8251247.35,
+      "burden_of_proof": "criminal_95",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2025-03-01",
+      "title": "unknown",
+      "financial_impact": 5400000.0,
+      "burden_of_proof": "criminal_95",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2025-02-25",
+      "title": "unknown",
+      "financial_impact": 5200000.0,
+      "burden_of_proof": "criminal_95",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2025-04-01",
+      "title": "unknown",
+      "financial_impact": 4276832.85,
+      "burden_of_proof": "criminal_95",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2020-02-20",
+      "title": "unknown",
+      "financial_impact": 3284000.0,
+      "burden_of_proof": "criminal_95",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2025-04-14",
+      "title": "unknown",
+      "financial_impact": 3141647.7,
+      "burden_of_proof": "criminal_95",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2025-06-20",
+      "title": "unknown",
+      "financial_impact": 3141647.7,
+      "burden_of_proof": "criminal_95",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2025-05-15",
+      "title": "unknown",
+      "financial_impact": 2920000.0,
+      "burden_of_proof": "criminal_95",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2023-02-28",
+      "title": "unknown",
+      "financial_impact": 1035361.34,
+      "burden_of_proof": "",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2023-01-01",
+      "title": "unknown",
+      "financial_impact": 1035000.0,
+      "burden_of_proof": "",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2022-03-01",
+      "title": "unknown",
+      "financial_impact": 971587.93,
+      "burden_of_proof": "",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2025-02-14",
+      "title": "unknown",
+      "financial_impact": 900000.0,
+      "burden_of_proof": "criminal_95",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2023-09-20",
+      "title": "unknown",
+      "financial_impact": 765361.34,
+      "burden_of_proof": "criminal_95",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2023-03-15",
+      "title": "unknown",
+      "financial_impact": 470000.0,
+      "burden_of_proof": "criminal_95",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2019-05-01",
+      "title": "unknown",
+      "financial_impact": 0,
+      "burden_of_proof": "criminal_95",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2020-08-13",
+      "title": "unknown",
+      "financial_impact": 0,
+      "burden_of_proof": "criminal_95",
+      "perpetrators": []
+    },
+    {
+      "entry_id": "unknown",
+      "date": "2021-04-01",
+      "title": "unknown",
+      "financial_impact": 0,
+      "burden_of_proof": "criminal_95",
+      "perpetrators": []
+    }
+  ]
+}

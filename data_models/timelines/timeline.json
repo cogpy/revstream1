@@ -4,11 +4,12 @@
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-01-13T05:35:37.863070",
-    "changes": "Enhanced 56 timeline entries with evidence references",
-    "criminal_threshold_entries": 36,
+    "last_updated": "2026-01-14T05:35:04.335654",
+    "changes": "Enhanced 18 timeline entries with ad-res-j7 evidence",
+    "criminal_threshold_entries": 0,
     "high_significance_entries": 5,
-    "total_entries": 103
+    "total_entries": 103,
+    "civil_threshold_entries": 0
   },
   "timeline": [
     {
@@ -47,7 +48,12 @@
       ],
       "significance": "Establishes the original RegimA business entity",
       "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-09T06:57:36.207479"
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335493"
     },
     {
       "date": "1992-12-15",
@@ -112,7 +118,12 @@
       ],
       "significance": "Early Faucitt family business entity",
       "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-09T06:57:36.207479"
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335536"
     },
     {
       "date": "2000-05-31",
@@ -123,7 +134,12 @@
       ],
       "evidence": [
         "293332765-Company-GeorgeEndermologieClinic.Pdf"
-      ]
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335540"
     },
     {
       "date": "2001-09-18",
@@ -141,7 +157,12 @@
       ],
       "evidence": [
         "293340322-Company-KachanMarketingandDistribution.Pdf"
-      ]
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335544"
     },
     {
       "date": "2006-02-14",
@@ -167,7 +188,12 @@
       ],
       "significance": "Establishes Jacqueline's formal role in RST",
       "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-09T06:57:36.207479"
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC director records"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335548"
     },
     {
       "date": "2006-03-16",
@@ -180,7 +206,12 @@
       ],
       "evidence": [
         "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
-      ]
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335551"
     },
     {
       "date": "2006-06-05",
@@ -229,7 +260,12 @@
       ],
       "significance": "Establishes SLG as a separate entity for packaging/logistics",
       "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-09T06:57:36.207479"
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335557"
     },
     {
       "entry_id": "TL_CIPC_005",
@@ -256,7 +292,12 @@
       ],
       "significance": "Establishes RWD as the main distribution entity - shelf company acquisition",
       "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-09T06:57:36.207479"
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335560"
     },
     {
       "date": "2015-07-08",
@@ -268,15 +309,20 @@
       ],
       "evidence": [
         "293342245-Company-DandelionSA.Pdf"
-      ]
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335563"
     },
     {
       "date": "2016-07-05",
-      "event": "Chané Todd becomes director of Dandelion SA; Kirby Van Der Stelt resigns",
+      "event": "Chan\u00e9 Todd becomes director of Dandelion SA; Kirby Van Der Stelt resigns",
       "category": "directorship_change",
       "entities": [
         "Dandelion SA",
-        "Chané Auriele Todd",
+        "Chan\u00e9 Auriele Todd",
         "Kirby Rae Van Der Stelt"
       ],
       "evidence": [
@@ -303,7 +349,12 @@
       ],
       "significance": "Expands family control over SLG",
       "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-09T06:57:36.207479"
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC director records"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335567"
     },
     {
       "date": "2017-02-22",
@@ -362,7 +413,12 @@
       ],
       "significance": "Daniel's independent company",
       "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-09T06:57:36.207479"
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335573"
     },
     {
       "date": "2017-04-04",
@@ -387,7 +443,12 @@
       ],
       "significance": "Expansion of RegimA brand entities",
       "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-09T06:57:36.207479"
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335577"
     },
     {
       "date": "2017-04-10",
@@ -412,7 +473,12 @@
       ],
       "significance": "Further expansion of RegimA brand entities",
       "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-09T06:57:36.207479"
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335580"
     },
     {
       "entry_id": "TL_CIPC_010",
@@ -431,7 +497,12 @@
       ],
       "significance": "Spa-focused RegimA entity",
       "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-09T06:57:36.207479"
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335583"
     },
     {
       "date": "2017-06-30",
@@ -473,7 +544,12 @@
       ],
       "evidence": [
         "293342878-Company-BertaniInternationalGlobal.Pdf"
-      ]
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335587"
     },
     {
       "date": "2017-09-30",
@@ -627,7 +703,12 @@
       "significance": "Potential business connection to Faucitt network via shared postal address",
       "burden_of_proof": "verified_cipc_record",
       "requires_investigation": true,
-      "added_date": "2026-01-09T06:57:36.207479"
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335595"
     },
     {
       "date": "2019-10-22",
@@ -702,7 +783,12 @@
       ],
       "significance": "Part of Louw-Rizzotto business network",
       "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-09T06:57:36.207479"
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335600"
     },
     {
       "date": "2020-02-20",
@@ -1013,7 +1099,12 @@
       ],
       "significance": "Daniel's additional business entity",
       "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-09T06:57:36.207479"
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335611"
     },
     {
       "date": "2021-04-01",
