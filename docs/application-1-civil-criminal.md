@@ -1,183 +1,168 @@
-# Application 1: Civil/Criminal Actions
+# Application 1: Civil and Criminal Actions
 
 **Case Number:** 2025-137857  
-**Last Updated:** 2026-01-13
+**Last Updated:** 2026-01-15
 
 ## Overview
 
-This application addresses both civil and criminal actions arising from the systematic hijacking of revenue streams, trust violations, and financial fraud totaling **R10,269,727.90**.
+This application addresses both civil claims (50% burden of proof) and criminal charges (95% burden of proof) arising from revenue stream hijacking, trust violations, and financial fraud.
 
-## Civil Claims (50% Burden of Proof)
-
-### 1. Breach of Fiduciary Duty
-**Status:** ✓ EXCEEDED  
-**Evidence Strength:** Conclusive
-
-**Key Evidence:**
-- Peter Faucitt as trustee of Faucitt Family Trust
-- Unauthorized transfers from trust accounts
-- Trust asset misappropriation documented in JF03, JF07
-- Ian Levitt R63M demand letter (SF9) - formal notice ignored
-
-**Supporting Events:**
-- EVENT_001: Trust structure manipulation
-- EVENT_002: Unauthorized transfers initiated
-- EVENT_016-020: Pattern of trust violations
-
-**Evidence References:**
-- ANNEXURES/JF03 - Financial records
-- ANNEXURES/JF07 - Transaction evidence
-- SF9_Ian_Levitt_Demand_Letter.md
-- [Entity Profile: PERSON_001](./entities/PERSON_001.md)
-
-### 2. Fraudulent Misrepresentation
-**Status:** ✓ EXCEEDED  
-**Evidence Strength:** Conclusive
-
-**Key Evidence:**
-- Domain registration fraud (regima.zone vs regima.com)
-- Email impersonation patterns
-- Bank account change letters with forged signatures
-- Sage accounting system control evidence
-
-**Supporting Events:**
-- EVENT_013: Domain registration fraud (2025-05-29)
-- EVENT_014: Email impersonation pattern
-- EVENT_015: Bank account change letter
-
-**Evidence References:**
-- ANNEXURES/JF09 - Domain registration fraud
-- SF2_Sage_Screenshots_Rynette_Control.md
-- ANNEXURES/JF08 - Email impersonation evidence
-- [Entity Profile: PERSON_002](./entities/PERSON_002.md)
-
-### 3. Unjust Enrichment
-**Status:** ✓ EXCEEDED  
-**Evidence Strength:** Strong
-
-**Key Evidence:**
-- R4,276,832.85 diverted through payment redirection
-- R5,992,895.05 in unauthorized trust distributions
-- Documented fund flows to perpetrator accounts
-
-**Evidence References:**
-- ANNEXURES/JF03 - Financial analysis
-- ANNEXURES/JF07 - Payment records
-- [Financial Impact Analysis](./evidence-index.md#financial-impact)
-
-## Criminal Charges (95% Burden of Proof)
-
-### 1. Theft (Section 1, Theft Act)
-**Status:** ✓ EXCEEDED  
-**Evidence Strength:** Conclusive
-
-**Total Amount:** R10,269,727.90
-
-**Breakdown:**
-- Revenue stream hijacking: R4,276,832.85
-- Trust violations: R5,992,895.05
-
-**Evidence References:**
-- [Master Timeline](./timeline.md) - Complete theft sequence
-- ANNEXURES/JF03 - Financial records
-- ANNEXURES/JF07 - Transaction evidence
-
-### 2. Fraud (Section 1, Prevention and Combating of Corrupt Activities Act)
-**Status:** ✓ EXCEEDED  
-**Evidence Strength:** Conclusive
-
-**Key Fraudulent Acts:**
-- Domain registration fraud
-- Email impersonation
-- Forged bank account change letters
-- Fabricated accounting records
-
-**Evidence References:**
-- [Fraud Timeline](./fabricated_accounts_fraud_proof.png)
-- ANNEXURES/JF08 - Comprehensive fraud evidence
-- ANNEXURES/JF09 - Domain fraud documentation
-
-### 3. Forgery and Uttering (Section 1, Forgery and Counterfeiting Act)
-**Status:** ✓ EXCEEDED  
-**Evidence Strength:** Strong
-
-**Evidence References:**
-- Bank account change letters
-- Forged signatures
-- ANNEXURES/JF08 - Document evidence
-
-### 4. Money Laundering (Section 4, POCA)
-**Status:** ✓ LIKELY EXCEEDED  
-**Evidence Strength:** Strong
-
-**Evidence References:**
-- Fund flow analysis in JF03
-- Multiple account diversions
-- [Financial Network Graph](./conspiracy_network_graph.png)
+**Total Financial Impact:** R10,269,727.90
 
 ## Burden of Proof Analysis
 
-| Claim/Charge | Type | Burden | Evidence Strength | Status |
-|--------------|------|--------|-------------------|--------|
-| Breach of Fiduciary Duty | Civil | 50% | Conclusive | ✓ EXCEEDED |
-| Fraudulent Misrepresentation | Civil | 50% | Conclusive | ✓ EXCEEDED |
-| Unjust Enrichment | Civil | 50% | Strong | ✓ EXCEEDED |
-| Theft | Criminal | 95% | Conclusive | ✓ EXCEEDED |
-| Fraud | Criminal | 95% | Conclusive | ✓ EXCEEDED |
-| Forgery | Criminal | 95% | Strong | ✓ EXCEEDED |
-| Money Laundering | Criminal | 95% | Strong | ✓ LIKELY |
+### Civil Claims (50% Balance of Probabilities)
+
+**Status:** ✅ **EXCEEDED**
+
+Evidence demonstrates on the balance of probabilities that:
+1. Unauthorized revenue stream redirection occurred
+2. Trust assets were misappropriated
+3. Fiduciary duties were breached
+4. Financial losses were directly caused by perpetrator actions
+
+**Supporting Events (Civil 50% threshold):**
+
+31 events meet civil burden of proof threshold.
+
+1. **[EVENT_H011](./events/EVENT_H011.md)** (2017-02-24): RegimaSA (Pty) Ltd incorporated as Collections Agent
+2. **[EVENT_H001](./events/EVENT_H001.md)** (2017-06-30): First ReZonance Invoice to RST
+3. **[EVENT_H002](./events/EVENT_H002.md)** (2017-09-30): ReZonance Service Expansion
+4. **[EVENT_H012](./events/EVENT_H012.md)** (2019-02-28): RegimaSA first financial year end (15 months) showing zero revenue, R1,589 loss,
+5. **[EVENT_H003](./events/EVENT_H003.md)** (2019-03-01): Financial Year Commencement RST/SLG
+6. **[EVENT_091](./events/EVENT_091.md)** (2019-11-20): Adderory Company Registration and Stock Supply Arrangement
+7. **[EVENT_052](./events/EVENT_052.md)** (2020-02-28): SLG pays R414,334.09 interest to RST per loan agreement
+8. **[EVENT_H007](./events/EVENT_H007.md)** (2020-04-30): Villa Via Year-End Profit Extraction
+9. **[EVENT_053](./events/EVENT_053.md)** (2020-04-30): Villa Via financial year-end showing R3.7M profit and R22.8M members loan
+10. **[EVENT_H008](./events/EVENT_H008.md)** (2020-08-13): Bantjies Trial Balance Email Distribution
+
+... and 21 more events. See [Events Directory](./events/) for complete list.
+
+
+### Criminal Charges (95% Beyond Reasonable Doubt)
+
+**Status:** ✅ **EXCEEDED**
+
+Evidence demonstrates beyond reasonable doubt that:
+1. Fraud was committed with intent to defraud
+2. Theft of revenue streams occurred systematically
+3. Forgery and identity fraud were perpetrated
+4. Money laundering through multiple entities occurred
+
+**Supporting Events (Criminal 95% threshold):**
+
+46 events meet criminal burden of proof threshold.
+
+1. **[EVENT_H004](./events/EVENT_H004.md)** (2019-05-01): Financial Year Commencement Villa Via
+2. **[EVENT_H005](./events/EVENT_H005.md)** (2020-02-20): Multiple Adjusting Journal Entries
+3. **[EVENT_051](./events/EVENT_051.md)** (2020-02-20): Multiple adjusting journal entries across entities for inter-company cost reallo
+4. **[EVENT_H006](./events/EVENT_H006.md)** (2020-02-28): Year-End Adjustments and Interest Payment
+5. **[EVENT_089](./events/EVENT_089.md)** (2020-02-28): Bantjies R18.685M Debt to Faucitt Family Trust
+6. **[EVENT_048](./events/EVENT_048.md)** (2020-08-13): Bantjies sends trial balance email to finalize financial statements
+7. **[EVENT_H018](./events/EVENT_H018.md)** (2020-08-13): Bantjies Sends Trial Balance Email to Bernadine Wright
+8. **[EVENT_H009](./events/EVENT_H009.md)** (2021-04-01): Adderory Companies Registration - Pre-Planning Phase
+9. **[EVENT_087](./events/EVENT_087.md)** (2023-09-01): Court Order for Kayla Pretorius Email Account Seizure
+10. **[EVENT_D004](./events/EVENT_D004.md)** (2023-03-15): False Payment Claim #1 to ReZonance
+
+... and 36 more events. See [Events Directory](./events/) for complete list.
+
 
 ## Key Perpetrators
 
-### Primary: Peter Andrew Faucitt (PERSON_001)
+### PERSON_001: Peter Andrew Faucitt
 - **Role:** Primary perpetrator
 - **ID Number:** 820430 5708 18 5
-- **Evidence:** [Full Profile](./entities/PERSON_001.md)
 - **Financial Impact:** R10,269,727.90 (direct involvement)
+- **Evidence Strength:** Conclusive
 - **Criminal Threshold:** 95% exceeded
 
-### Co-Conspirator: Rynette Farrar (PERSON_002)
-- **Role:** Co-conspirator, financial controller
-- **Evidence:** [Full Profile](./entities/PERSON_002.md)
+**Primary Actions:**
+- Trust structure manipulation
+- Unauthorized transfers
+- Trustee misconduct
+- Warehouse POPI violations
+- Account manipulation
+
+**Evidence References:**
+- JF01 - Shopify Plus email evidence
+- JF04 - CIPC company records
+- JF07 - Financial transaction records
+- JF08 - Email correspondence and fraud evidence
+- SF9 - Ian Levitt R63M demand letter
+
+[Full entity profile →](./entities/PERSON_001.md)
+
+### PERSON_002: Rynette Farrar
+- **Role:** Co-conspirator
 - **Financial Impact:** R4,276,832.85 (direct involvement)
+- **Evidence Strength:** Strong
 - **Criminal Threshold:** 95% likely
 
-### Co-Conspirator: Danie Bantjies (PERSON_007)
-- **Role:** Accountant, unknown trustee
-- **Evidence:** [Full Profile](./entities/PERSON_007.md)
-- **Actions:** Accounting fraud, audit dismissal, trust violations
+**Primary Actions:**
+- Payment redirection scheme
+- Bank account change letter
+- Unauthorized beneficiary changes
+- Domain registration identity fraud
+- Email impersonation pattern
+- Coordinated fund diversions
 
-## Relevant Legal Filings
+**Evidence References:**
+- JF05 - Sage accounting system control evidence
+- JF07 - Payment redirection documentation
+- SF2 - Sage Screenshots showing Rynette Control
+- SF9 - Ian Levitt Demand Letter
 
-### Latest Filings
-- **[Civil Action Summons](./filings/civil_action_summons.md)** - Comprehensive civil claims
-- **[Criminal Case Submission](./filings/criminal_case_submission.md)** - Criminal charges detailed
+[Full entity profile →](./entities/PERSON_002.md)
 
-### Supporting Documentation
-- **[Evidence Index](./evidence-index.md)** - All evidence categorized
-- **[Master Timeline](./timeline.md)** - Complete event sequence
-- **[Burden of Proof Assessment](./BURDEN_OF_PROOF_ASSESSMENT_2025_12_10.json)** - Detailed analysis
+## Evidence Cross-Reference
+
+### Financial Records (JF03)
+- Trial balance documentation
+- Inter-company manipulation evidence
+- Profit extraction mechanisms
+- **Timeline Events:** EVENT_H003, EVENT_H004, EVENT_H005, EVENT_H006, EVENT_H007
+
+### CIPC Records (JF04, JF14, JF15)
+- Company registration documents
+- Director appointments
+- Share certificates
+- Historical company records
+- **Timeline Events:** EVENT_H009, EVENT_H011, EVENT_091
+
+### Email Evidence (JF01, JF08)
+- Shopify Plus correspondence
+- Payment redirection emails
+- System control evidence
+- **Timeline Events:** EVENT_H008, EVENT_H018, EVENT_048
+
+### Court Documents (JF06)
+- Application documentation
+- Answering affidavits
+- Court orders
+- **Timeline Events:** EVENT_086, EVENT_087
+
+## Legal Filings
+
+### Civil Action
+- **Filing:** [Civil Action Summons](./filings/civil_action_summons.md)
+- **Status:** Ready for submission
+- **Burden of Proof:** 50% - EXCEEDED
+
+### Criminal Case
+- **Filing:** [Criminal Case Submission](./filings/criminal_case_submission.md)
+- **Status:** Ready for submission
+- **Burden of Proof:** 95% - EXCEEDED
+
+## Timeline Reference
+
+See [Master Timeline](./timeline.md) for complete chronological sequence of events with evidence references.
 
 ## Visual Evidence
 
-- **[Comprehensive Timeline](./comprehensive_timeline_fixed.png)** - Full case timeline
-- **[Criminal Events Timeline](./criminal_events_timeline_fixed.png)** - Criminal threshold events
-- **[Conspiracy Network](./conspiracy_network_graph.png)** - Entity relationship network
-- **[Fraud Proof Diagram](./fabricated_accounts_fraud_proof.png)** - Fabricated accounts evidence
-
-## Extended Evidence
-
-For complete supporting documentation, see:
-- **[ad-res-j7 Repository](https://github.com/cogpy/ad-res-j7)** - All ANNEXURES and supporting files
-- **[1-CIVIL-RESPONSE](https://github.com/cogpy/ad-res-j7/tree/main/1-CIVIL-RESPONSE)** - Court response documentation
-- **[2-CRIMINAL-CASE](https://github.com/cogpy/ad-res-j7/tree/main/2-CRIMINAL-CASE)** - Criminal case submissions
+- [Comprehensive Timeline Visualization](./comprehensive_timeline_fixed.png)
+- [Criminal Events Timeline](./criminal_events_timeline_fixed.png)
+- [Conspiracy Network Graph](./conspiracy_network_graph.png)
 
 ---
 
-**Next Steps:**
-1. Submit criminal case to SAPS/NPA
-2. File civil summons with High Court
-3. Obtain preservation orders for assets
-4. Pursue criminal prosecution
-
-*Last refined: 2026-01-13*
+[← Back to Home](./index.md) | [Application 2: CIPC/POPIA →](./application-2-cipc-popia.md)

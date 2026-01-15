@@ -1,182 +1,138 @@
-# Application 2: CIPC/POPIA Complaints
+# Application 2: CIPC Companies Act & POPIA Complaints
 
 **Case Number:** 2025-137857  
-**Last Updated:** 2026-01-13
+**Last Updated:** 2026-01-15
 
 ## Overview
 
-This application addresses violations of the Companies Act (CIPC complaints) and the Protection of Personal Information Act (POPIA complaints) arising from the systematic fraud and data breaches.
+This application addresses violations of the Companies Act (CIPC jurisdiction) and the Protection of Personal Information Act (POPIA).
 
-## CIPC Complaints (Companies Act Violations)
+## CIPC Companies Act Complaints
 
-### 1. Director Misconduct
-**Status:** Comprehensive evidence compiled  
-**Evidence Strength:** Conclusive
+### Violations Identified
 
-**Violations:**
-- Breach of fiduciary duties (Section 76, Companies Act)
-- Reckless trading (Section 22, Companies Act)
-- Fraudulent financial statements
-- Unauthorized use of company assets
+1. **Director Misconduct**
+   - Breach of fiduciary duties
+   - Unauthorized use of company resources
+   - Conflict of interest violations
+   - **Evidence:** JF04 - CIPC company records, SF1 - Bantjies Debt Documentation
 
-**Key Evidence:**
-- Peter Faucitt as director of RWD ZA (Pty) Ltd
-- Unauthorized transfers from company accounts
-- Fabricated financial statements
-- CIPC registration fraud
+2. **Financial Statement Fraud**
+   - Fabricated accounts
+   - Inter-company manipulation
+   - Profit extraction schemes
+   - **Evidence:** JF03 - Financial Records, SF3 - Strategic Logistics Stock Adjustment
 
-**Evidence References:**
-- ANNEXURES/JF04 - CIPC company records
-- ANNEXURES/JF14-CIPC-2021 - Historical CIPC evidence
-- ANNEXURES/JF15-CIPC-BATCH2-2021 - Additional CIPC documentation
-- [Entity Profile: ORG_001](./entities/ORG_001.md)
+3. **Company Registration Fraud**
+   - Shell company creation
+   - Nominee director appointments
+   - Fraudulent company structures
+   - **Evidence:** JF14/JF15 - CIPC Historical Records, SF5 - Adderory Company Registration
 
-### 2. False Information to CIPC
-**Status:** Evidence compiled  
-**Evidence Strength:** Strong
+4. **Trustee Misconduct**
+   - Unknown trustee appointment
+   - Trust asset misappropriation
+   - Breach of trust duties
+   - **Evidence:** SF6 - Kayla Pretorius Estate Documentation, SF7 - Court Order Kayla Email Seizure
 
-**Violations:**
-- False director information
-- Incorrect financial statements filed
-- Concealment of beneficial ownership
+### Key Entities Involved
 
-**Evidence References:**
-- CIPC registration documents in JF04
-- [CIPC Evidence 2021](./cipc-evidence-2021.md)
-- [CIPC Evidence Batch 2](./cipc-evidence-batch2-2021.md)
+**ORG_001: RWD ZA (Pty) Ltd**
+- Director: Peter Andrew Faucitt
+- Used for revenue stream redirection
+- Evidence: JF04, JF07
 
-### 3. Deregistration Fraud
-**Status:** Evidence compiled  
-**Evidence Strength:** Moderate
+**ORG_012: RegimaSA (Pty) Ltd**
+- Shell company structure
+- Zero revenue operations
+- Related party loans
+- Evidence: JF03, JF14
 
-**Evidence References:**
-- Company deregistration patterns
-- CIPC historical records in JF14, JF15
+**ORG_008: ReZonance (Pty) Ltd**
+- Danie Bantjies controlled
+- Debt accumulation vehicle
+- Evidence: SF1, JF03
 
-## POPIA Complaints (Data Protection Violations)
+### Latest Filing
 
-### 1. Unauthorized Processing of Personal Information
-**Status:** Conclusive evidence  
-**Evidence Strength:** Conclusive
+**[CIPC Complaint (Refined 2026-01-13)](./filings/CIPC_REFINED_2026_01_13.md)**
 
-**Violations:**
-- Unauthorized access to email accounts (Section 11, POPIA)
-- Processing without consent (Section 11, POPIA)
-- Failure to secure personal information (Section 19, POPIA)
+## POPIA Complaints
 
-**Key Evidence:**
-- Rynette Farrar's unauthorized access to Pete@regima.com
-- Sage accounting system control showing dual access
-- Email impersonation using stolen credentials
-- Court order for email seizure (Kayla Pretorius estate)
+### Violations Identified
 
-**Evidence References:**
-- SF2_Sage_Screenshots_Rynette_Control.md - **CRITICAL EVIDENCE**
-- SF7_Court_Order_Kayla_Email_Seizure.md - Legal email access violation
-- ANNEXURES/JF08 - Email impersonation patterns
-- [Entity Profile: PERSON_002](./entities/PERSON_002.md)
+1. **Unauthorized Data Processing**
+   - Personal information processed without consent
+   - Customer data accessed without authorization
+   - **Evidence:** SF2 - Sage Screenshots Rynette Control
 
-### 2. Unlawful Disclosure of Personal Information
-**Status:** Evidence compiled  
-**Evidence Strength:** Strong
+2. **Data Security Breaches**
+   - Inadequate security measures
+   - Unauthorized access to systems
+   - Email account seizure
+   - **Evidence:** SF7 - Court Order Kayla Email Seizure
 
-**Violations:**
-- Disclosure of customer information (Section 9, POPIA)
-- Sharing of financial data without consent
-- Warehouse POPI violations
+3. **Identity Fraud**
+   - Domain registration using false identity
+   - Email impersonation
+   - Unauthorized use of personal information
+   - **Evidence:** JF08 - Domain registration fraud evidence
 
-**Evidence References:**
-- Warehouse data breaches
-- Customer information misuse
-- [Event: EVENT_006](./events/EVENT_006.md) - Warehouse POPI violations
+4. **Warehouse POPI Violations**
+   - Customer data exposure
+   - Lack of data protection measures
+   - **Evidence:** JF02 - Business operations documentation
 
-### 3. Failure to Secure Personal Information
-**Status:** Evidence compiled  
-**Evidence Strength:** Strong
+### Data Subject Rights Violations
 
-**Violations:**
-- Inadequate security measures (Section 19, POPIA)
-- Unauthorized access not prevented
-- Data breach not reported
+1. **Right to Privacy** - Violated through unauthorized email access
+2. **Right to Data Security** - Violated through inadequate protection
+3. **Right to Notification** - No notification of data breaches
+4. **Right to Access** - Denied access to own data
 
-**Evidence References:**
-- Email account compromise evidence
-- Sage system security failures
-- SF2 - Dual account access proof
+### Latest Filing
 
-## Burden of Proof Analysis
+**[POPIA Complaint (Refined 2026-01-13)](./filings/POPIA_REFINED_2026_01_13.md)**
 
-| Complaint | Regulatory Body | Evidence Strength | Status |
-|-----------|----------------|-------------------|--------|
-| Director Misconduct | CIPC | Conclusive | Ready for submission |
-| False Information to CIPC | CIPC | Strong | Ready for submission |
-| Deregistration Fraud | CIPC | Moderate | Additional evidence needed |
-| Unauthorized Processing | Information Regulator | Conclusive | Ready for submission |
-| Unlawful Disclosure | Information Regulator | Strong | Ready for submission |
-| Failure to Secure | Information Regulator | Strong | Ready for submission |
+## Evidence Cross-Reference by Violation Type
 
-## Key Perpetrators
+### Director Misconduct
+- **Events:** EVENT_001, EVENT_002, EVENT_003, EVENT_006, EVENT_007
+- **Evidence:** JF04, JF07, SF1, SF6
+- **Entities:** PERSON_001, PERSON_007, ORG_001, ORG_008
 
-### Peter Andrew Faucitt (PERSON_001)
-- **CIPC Violations:** Director misconduct, false information
-- **POPIA Violations:** Authorized unauthorized access
-- **Evidence:** [Full Profile](./entities/PERSON_001.md)
+### Financial Fraud
+- **Events:** EVENT_H004, EVENT_H005, EVENT_H006, EVENT_H007, EVENT_051, EVENT_052, EVENT_053
+- **Evidence:** JF03, SF1, SF3
+- **Entities:** ORG_012, ORG_002, ORG_005
 
-### Rynette Farrar (PERSON_002)
-- **CIPC Violations:** Participated in fraud
-- **POPIA Violations:** Unauthorized email access, data processing
-- **Evidence:** [Full Profile](./entities/PERSON_002.md)
-- **Critical Evidence:** SF2 showing Pete@regima.com access
+### Data Protection Violations
+- **Events:** EVENT_004, EVENT_005, EVENT_013, EVENT_014, EVENT_015
+- **Evidence:** SF2, SF7, JF08
+- **Entities:** PERSON_002, PERSON_003, ORG_001
 
-### Danie Bantjies (PERSON_007)
-- **CIPC Violations:** False financial statements, audit fraud
-- **POPIA Violations:** Concealment of data breaches
-- **Evidence:** [Full Profile](./entities/PERSON_007.md)
+### Identity Fraud
+- **Events:** EVENT_025, EVENT_026, EVENT_027, EVENT_028, EVENT_029
+- **Evidence:** JF08, JF09
+- **Entities:** PERSON_002, PERSON_003, DOMAIN_002
 
-## Relevant Legal Filings
+## Timeline Reference
 
-### Latest CIPC Complaint
-- **[CIPC Complaint - Latest](./filings/CIPC_REFINED_2026_01_11.md)** - Comprehensive Companies Act violations
+Key dates for regulatory violations:
 
-### Latest POPIA Complaint
-- **[POPIA Complaint - Latest](./filings/POPIA_REFINED_2026_01_11.md)** - Comprehensive data protection violations
+- **2020-08-15:** Sage system control evidence (SF2)
+- **2021-03-15:** SARS audit trigger (SF4)
+- **2023-07-13:** Kayla Pretorius death - trigger event (SF6)
+- **2023-08-15:** Court order for email seizure (SF7)
+- **2025-05-29:** Fraudulent domain registration
 
-### Historical Filings
-- [CIPC Complaint 2026-01-10](./filings/CIPC_COMPLAINT_REFINED_2026_01_10.md)
-- [POPIA Complaint 2026-01-10](./filings/POPIA_COMPLAINT_REFINED_2026_01_10.md)
+See [Master Timeline](./timeline.md) for complete sequence.
 
 ## Visual Evidence
 
-- **[CIPC Fraud Timeline](./cipc_fraud_timeline.png)** - Company registration fraud sequence
-- **[Conspiracy Network](./conspiracy_network_graph.png)** - Entity relationships
-
-## Extended Evidence
-
-For complete supporting documentation, see:
-- **[ad-res-j7 Repository](https://github.com/cogpy/ad-res-j7)** - All ANNEXURES
-- **ANNEXURES/JF04** - CIPC company records
-- **ANNEXURES/JF14-CIPC-2021** - Historical CIPC evidence
-- **ANNEXURES/JF15-CIPC-BATCH2-2021** - Additional CIPC documentation
-- **SF2_Sage_Screenshots_Rynette_Control.md** - POPIA violation proof
-
-## Submission Status
-
-### CIPC Complaints
-- ✓ Evidence compiled
-- ✓ Complaint drafted
-- ⏳ Ready for submission to CIPC
-
-### POPIA Complaints
-- ✓ Evidence compiled
-- ✓ Complaint drafted
-- ⏳ Ready for submission to Information Regulator
+- [CIPC Fraud Timeline](./cipc_fraud_timeline.png)
+- [Fabricated Accounts Fraud Proof](./fabricated_accounts_fraud_proof.png)
 
 ---
 
-**Next Steps:**
-1. Submit CIPC complaint to Companies and Intellectual Property Commission
-2. Submit POPIA complaint to Information Regulator
-3. Request investigations and penalties
-4. Coordinate with criminal prosecution
-
-*Last refined: 2026-01-13*
+[← Application 1](./application-1-civil-criminal.md) | [Back to Home](./index.md) | [Application 3 →](./application-3-commercial-crime-tax-fraud.md)
