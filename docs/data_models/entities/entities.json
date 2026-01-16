@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "27.0_REFINED_2026_01_10",
+    "version": "28.0_KETONI_INTEGRATED_2026_01_16",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-10T05:37:04.462396",
-    "changes": "Comprehensive evidence enhancement based on ad-res-j7 cross-reference",
-    "total_entities": 28
+    "last_updated": "2026-01-16T05:34:42.470763",
+    "changes": "CRITICAL: Ketoni Integration - Added ORG_015, PERSON_014, ZAR 18.75M payout asset",
+    "total_entities": 31
   },
   "entities": {
     "persons": [
@@ -260,7 +260,8 @@
           "creditor_with_motive",
           "debtor_to_TRUST_001",
           "commissioner_of_oaths",
-          "email_correspondent_bernadine_wright"
+          "email_correspondent_bernadine_wright",
+          "colleague_of_PERSON_014"
         ],
         "financial_impact": {
           "debt_motive": "R18,685,000",
@@ -305,7 +306,8 @@
           "JF03 - Trial balance email August 13, 2020",
           "JF04 - Trust documentation showing unknown trustee status",
           "JF07 - Financial records showing R18.685M debt",
-          "JF08 - June 10, 2025 audit dismissal email"
+          "JF08 - June 10, 2025 audit dismissal email",
+          "Ketoni connection analysis"
         ],
         "ad_res_j7_references": [
           "ANNEXURES/JF03 - HMRC pension fraud analysis",
@@ -317,11 +319,17 @@
           "ANNEXURES/SF4_SARS_Audit_Email.md - SARS audit coordination",
           "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md - Medical testing proposal",
           "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - Debt and conflict of interest",
-          "ANNEXURES/JF08/evidence_package_20251012/README.md - Accounting fraud evidence"
+          "ANNEXURES/JF08/evidence_package_20251012/README.md - Accounting fraud evidence",
+          "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077460",
         "evidence_strength": "strong",
-        "criminal_threshold": "95%_exceeded"
+        "criminal_threshold": "95%_exceeded",
+        "ketoni_connection": {
+          "colleague": "Kevin Michael Derrick (Ketoni Director)",
+          "appointment_timing": "T-10 months before ZAR 18.75M payout (May 2026)",
+          "significance": "Strategic appointment to consolidate trust control before payout"
+        }
       },
       {
         "entity_id": "PERSON_008",
@@ -596,6 +604,38 @@
           "civil": "HIGH",
           "criminal": "MEDIUM"
         }
+      },
+      {
+        "entity_id": "PERSON_014",
+        "name": "Kevin Michael Derrick",
+        "role": "ketoni_director",
+        "agent_type": "neutral",
+        "involvement_events": 1,
+        "primary_actions": [
+          "ketoni_director",
+          "payout_obligation_holder"
+        ],
+        "relationships": [
+          "director_of_ORG_015",
+          "colleague_of_PERSON_007",
+          "ketoni_payout_obligor"
+        ],
+        "financial_impact": {
+          "payout_obligation": "ZAR 18,750,000",
+          "payout_date": "May 2026"
+        },
+        "significance": "Director of Ketoni Investment Holdings; colleague of Bantjies; links Bantjies appointment to ZAR 18.75M payout",
+        "evidence": [
+          "Ketoni company records",
+          "Professional records",
+          "Bantjies connection analysis"
+        ],
+        "ad_res_j7_references": [
+          "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
+          "lex/agent_based_model_v48_ketoni_integrated.scm"
+        ],
+        "evidence_enhanced": "2026-01-16T05:34:42.470728",
+        "evidence_strength": "strong"
       }
     ],
     "organizations": [
@@ -1196,6 +1236,40 @@
         "evidence_strength": "strong",
         "significance": "Establishes quantum and demonstrates ignored formal demand",
         "evidence_enhanced": "2026-01-10T05:37:04.462528"
+      },
+      {
+        "entity_id": "ORG_015",
+        "name": "Ketoni Investment Holdings",
+        "registration_number": "TBD",
+        "role": "investment_holding_company",
+        "agent_type": "neutral",
+        "involvement_events": 1,
+        "primary_actions": [
+          "payout_obligation"
+        ],
+        "relationships": [
+          "shareholder_TRUST_001",
+          "director_PERSON_014",
+          "payout_obligor_to_FFT"
+        ],
+        "financial_impact": {
+          "payout_obligation": "ZAR 18,750,000",
+          "payout_date": "May 2026",
+          "shares_held_by_FFT": "5,000 A-Ordinary shares"
+        },
+        "significance": "Central financial nexus - ZAR 18.75M payout explains all trust actions since Apr 2023",
+        "evidence": [
+          "Ketoni shareholder agreement",
+          "FFT investment records",
+          "Payout option documentation"
+        ],
+        "ad_res_j7_references": [
+          "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
+          "lex/entity_relation_framework_v48_ketoni_payout_integrated.scm",
+          "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md"
+        ],
+        "evidence_enhanced": "2026-01-16T05:34:42.470751",
+        "evidence_strength": "conclusive"
       }
     ],
     "platforms": [
@@ -1393,10 +1467,29 @@
         "ad_res_j7_references": [
           "ANNEXURES/JF10 - Trust documents",
           "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
-          "ANNEXURES/JF06 - Court documents and filings"
+          "ANNEXURES/JF06 - Court documents and filings",
+          "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077524",
-        "evidence_strength": "strong"
+        "evidence_strength": "strong",
+        "financial_assets": [
+          {
+            "asset": "Ketoni Investment Holdings payout option",
+            "value": "ZAR 18,750,000",
+            "date": "May 2026",
+            "shares": "5,000 A-Ordinary shares",
+            "beneficiaries": [
+              "PERSON_001",
+              "PERSON_004",
+              "PERSON_005"
+            ],
+            "significance": "Central financial motive for all trust actions since Apr 2023",
+            "evidence": [
+              "Ketoni shareholder agreement",
+              "FFT investment records"
+            ]
+          }
+        ]
       }
     ],
     "bank_accounts": [

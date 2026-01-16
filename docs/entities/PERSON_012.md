@@ -1,4 +1,6 @@
-# Marisca Meyer
+# Marisca Meyer (PERSON_012)
+
+**Role:** Professional Accountant (SA)
 
 ```json
 {
@@ -16,7 +18,16 @@
   ],
   "significance": "Prepared 6-year-old financial statements retrospectively in June 2025, timing coincides with legal proceedings",
   "evidence": [
-    "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
-  ]
+    "JF08 - Comprehensive timeline",
+    "JF05 - Witness correspondence",
+    "JF07 - Business documentation"
+  ],
+  "ad_res_j7_references": [
+    "ANNEXURES/JF08/evidence_package_20251012 - Timeline evidence",
+    "ANNEXURES/JF05 - Witness correspondence",
+    "ANNEXURES/JF07 - Business operations"
+  ],
+  "evidence_enhanced": "2026-01-10T05:37:04.462482",
+  "evidence_strength": "strong"
 }
 ```

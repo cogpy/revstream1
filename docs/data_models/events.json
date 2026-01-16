@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "25.1_TIMELINE_CORRECTED_2026_01_10",
+    "version": "26.0_KETONI_INTEGRATED_2026_01_16",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "total_events": 77,
+    "total_events": 78,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-01-10T12:58:22.908409",
-    "changes": "CRITICAL TIMELINE CORRECTIONS: Kayla murder date 2023-07-13, estate/email events moved post-death, director resignation clarified",
+    "last_updated": "2026-01-16T05:34:42.470851",
+    "changes": "CRITICAL: Ketoni Integration - Added EVENT_K001, enhanced Kayla timing context",
     "phase_statistics": {
       "PHASE_1": 25,
       "PHASE_2": 4,
@@ -15,6 +15,58 @@
     }
   },
   "events": [
+    {
+      "event_id": "EVENT_K001",
+      "date": "2023-04-24",
+      "title": "Faucitt Family Trust Invests in Ketoni Investment Holdings",
+      "category": "financial_investment",
+      "event_type": "trust_investment",
+      "perpetrators": [
+        "PERSON_001"
+      ],
+      "victims": [],
+      "entities_involved": [
+        "TRUST_001",
+        "ORG_015",
+        "PERSON_001",
+        "PERSON_014"
+      ],
+      "description": "FFT acquires 5,000 A-Ordinary shares in Ketoni Investment Holdings with ZAR 18.75M payout option exercisable in May 2026. This investment establishes the central financial motive for all subsequent trust actions.",
+      "financial_impact": "ZAR 18,750,000",
+      "legal_significance": "establishment_of_central_financial_motive",
+      "significance": "CRITICAL: Establishes ZAR 18.75M payout option that explains all trust control actions, beneficiary targeting, forum shopping, curatorship fraud, and creditor elimination attempts. All events converge on May 2026 payout date.",
+      "evidence": [
+        "Ketoni shareholder agreement",
+        "FFT investment records",
+        "Payout option documentation",
+        "5,000 A-Ordinary shares certificate"
+      ],
+      "pattern": "central_financial_nexus",
+      "timeline_phase": "PHASE_0_INVESTMENT",
+      "phase": "PHASE_0_INVESTMENT",
+      "ad_res_j7_evidence": [
+        "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
+        "lex/entity_relation_framework_v48_ketoni_payout_integrated.scm",
+        "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md"
+      ],
+      "evidence_enhanced": "2026-01-16T05:34:42.470836",
+      "burden_of_proof": "civil_50%_exceeded",
+      "related_events": [
+        "EVENT_086",
+        "EVENT_065",
+        "EVENT_066"
+      ],
+      "timing_analysis": {
+        "t_minus": "T-37 months before payout",
+        "convergence": "All subsequent events converge on May 2026",
+        "phases": [
+          "Investment",
+          "Creditor Elimination",
+          "Control Consolidation",
+          "Payout"
+        ]
+      }
+    },
     {
       "event_id": "EVENT_H011",
       "date": "2017-02-24",
@@ -807,7 +859,8 @@
         "JF04 - CIPC company records"
       ],
       "ad_res_j7_references": [
-        "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md"
+        "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
+        "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md"
       ],
       "burden_of_proof": "civil_50%",
       "legal_significance": "MEDIUM",
@@ -824,7 +877,14 @@
       "perpetrators": [],
       "victims": [
         "PERSON_010"
-      ]
+      ],
+      "significance": "CRITICAL TIMING: Occurred 80 days after FFT Ketoni investment (ZAR 18.75M). ReZonance R1M debt becomes obstacle to ZAR 18.75M control.",
+      "ketoni_context": {
+        "timing": "80 days after FFT Ketoni investment",
+        "phase": "Creditor Elimination Phase",
+        "motive": "R1M ReZonance debt obstacle to ZAR 18.75M control",
+        "t_minus": "T-34 months before May 2026 payout"
+      }
     },
     {
       "event_id": "EVENT_087",
@@ -1940,7 +2000,7 @@
       "entities_involved": [
         "PLATFORM_001"
       ],
-      "description": "CRITICAL EVENT: R1M+ monthly revenue → R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
+      "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
       "financial_impact": "R1,000,000+ monthly",
       "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
       "evidence": [

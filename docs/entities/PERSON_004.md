@@ -1,4 +1,6 @@
-# Jacqueline Faucitt
+# Jacqueline Faucitt (PERSON_004)
+
+**Role:** first_respondent
 
 ```json
 {
@@ -21,10 +23,12 @@
     "1-CIVIL-RESPONSE - Answering affidavit"
   ],
   "ad_res_j7_references": [
-    "ANNEXURES/JF01 - Shopify evidence",
-    "ANNEXURES/JF02 - Business documentation",
-    "1-CIVIL-RESPONSE/annexures - Response documentation"
+    "ANNEXURES/JF05 - Correspondence evidence",
+    "ANNEXURES/JF06 - Court documents and filings",
+    "ANNEXURES/JF08 - Evidence packages",
+    "1-CIVIL-RESPONSE - Answering affidavit"
   ],
-  "evidence_enhanced": "2025-12-12T05:37:57.342386"
+  "evidence_enhanced": "2025-12-28T05:36:36.077452",
+  "evidence_strength": "strong"
 }
 ```

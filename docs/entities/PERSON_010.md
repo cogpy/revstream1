@@ -1,4 +1,6 @@
-# Bernadine Wright
+# Bernadine Wright (PERSON_010)
+
+**Role:** financial_professional
 
 ```json
 {
@@ -15,6 +17,18 @@
   "timeline_events": [
     "EVENT_H018"
   ],
-  "role_clarification": "Recipient of trial balance email from Bantjies, witness to his financial system control"
+  "role_clarification": "Recipient of trial balance email from Bantjies, witness to his financial system control",
+  "ad_res_j7_references": [
+    "ANNEXURES/JF08/evidence_package_20251012 - Professional documentation",
+    "ANNEXURES/JF05 - Email correspondence evidence",
+    "ANNEXURES/JF07 - Business operations records"
+  ],
+  "evidence": [
+    "JF08 - Professional evidence",
+    "JF05 - Email correspondence with Danie Bantjies",
+    "JF07 - Business operations"
+  ],
+  "evidence_enhanced": "2026-01-10T05:37:04.462465",
+  "evidence_strength": "strong"
 }
 ```

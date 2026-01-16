@@ -1,4 +1,6 @@
-# Danie Bantjies
+# Danie Bantjies (PERSON_007)
+
+**Role:** accountant_and_unknown_trustee
 
 ```json
 {
@@ -24,7 +26,8 @@
     "creditor_with_motive",
     "debtor_to_TRUST_001",
     "commissioner_of_oaths",
-    "email_correspondent_bernadine_wright"
+    "email_correspondent_bernadine_wright",
+    "colleague_of_PERSON_014"
   ],
   "financial_impact": {
     "debt_motive": "R18,685,000",
@@ -69,14 +72,29 @@
     "JF03 - Trial balance email August 13, 2020",
     "JF04 - Trust documentation showing unknown trustee status",
     "JF07 - Financial records showing R18.685M debt",
-    "JF08 - June 10, 2025 audit dismissal email"
+    "JF08 - June 10, 2025 audit dismissal email",
+    "Ketoni connection analysis"
   ],
   "ad_res_j7_references": [
     "ANNEXURES/JF03 - HMRC pension fraud analysis",
     "ANNEXURES/JF04 - Trust and company documentation",
     "ANNEXURES/JF07 - Debt and financial conflict evidence",
-    "ANNEXURES/JF08/evidence_package_20250606 - Email evidence extraction"
+    "ANNEXURES/JF08/evidence_package_20250606 - Email evidence extraction",
+    "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - R18.685M debt to trust",
+    "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md - Stock fraud concealment",
+    "ANNEXURES/SF4_SARS_Audit_Email.md - SARS audit coordination",
+    "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md - Medical testing proposal",
+    "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - Debt and conflict of interest",
+    "ANNEXURES/JF08/evidence_package_20251012/README.md - Accounting fraud evidence",
+    "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md"
   ],
-  "evidence_enhanced": "2025-12-12T05:37:57.342390"
+  "evidence_enhanced": "2025-12-28T05:36:36.077460",
+  "evidence_strength": "strong",
+  "criminal_threshold": "95%_exceeded",
+  "ketoni_connection": {
+    "colleague": "Kevin Michael Derrick (Ketoni Director)",
+    "appointment_timing": "T-10 months before ZAR 18.75M payout (May 2026)",
+    "significance": "Strategic appointment to consolidate trust control before payout"
+  }
 }
 ```

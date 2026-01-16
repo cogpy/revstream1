@@ -1,4 +1,6 @@
-# Adderory (Rynette's Son)
+# Adderory (Rynette's Son) (PERSON_003)
+
+**Role:** co_conspirator_family_member
 
 ```json
 {
@@ -41,9 +43,12 @@
     "JF09 - Identity fraud documentation"
   ],
   "ad_res_j7_references": [
-    "ANNEXURES/JF08 - Domain registration fraud evidence",
-    "ANNEXURES/JF09 - Identity theft documentation"
+    "ANNEXURES/JF01 - Shopify Plus onboarding email (kayp@rzo.io)",
+    "SF6_Kayla_Pretorius_Estate_Documentation.md - Estate documentation",
+    "SF7_Court_Order_Kayla_Email_Seizure.md - Email account seizure order",
+    "ANNEXURES/JF08 - Evidence of independent business operations"
   ],
-  "evidence_enhanced": "2025-12-12T05:37:57.342397"
+  "evidence_enhanced": "2025-12-28T05:36:36.077477",
+  "evidence_strength": "strong"
 }
 ```

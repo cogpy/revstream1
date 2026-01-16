@@ -1,4 +1,6 @@
-# Kayla
+# Kayla (PERSON_008)
+
+**Role:** estate_creditor
 
 ```json
 {
@@ -26,13 +28,16 @@
     "EVENT_054"
   ],
   "evidence": [
-    "JF03 - Estate creditor documentation",
-    "JF09 - Court order interference evidence"
+    "JF08 - Email evidence",
+    "JF13 - Recent correspondence"
   ],
   "ad_res_j7_references": [
-    "ANNEXURES/JF03 - Estate and debt documentation",
-    "ANNEXURES/JF09 - Court order timeline"
+    "ANNEXURES/JF08 - Email correspondence evidence",
+    "ANNEXURES/JF13 - Recent correspondence",
+    "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - Death and estate documentation",
+    "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Email seizure court order"
   ],
-  "evidence_enhanced": "2025-12-12T05:37:57.342392"
+  "evidence_enhanced": "2025-12-28T05:36:36.077463",
+  "evidence_strength": "strong"
 }
 ```

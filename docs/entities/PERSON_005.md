@@ -1,4 +1,6 @@
-# Daniel James Faucitt
+# Daniel James Faucitt (PERSON_005)
+
+**Role:** second_respondent
 
 ```json
 {
@@ -28,11 +30,12 @@
     "1-CIVIL-RESPONSE - Answering affidavit"
   ],
   "ad_res_j7_references": [
-    "ANNEXURES/JF01 - Shopify ownership evidence",
-    "ANNEXURES/JF02 - UK company documentation",
-    "ANNEXURES/JF06 - Investment and payment records",
-    "1-CIVIL-RESPONSE/annexures - Response documentation"
+    "ANNEXURES/JF01 - Shopify Plus email (THE FORENSIC TIME CAPSULE)",
+    "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - CRITICAL: Death and estate",
+    "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Email seizure order",
+    "ANNEXURES/JF02 - Shopify sales reports under her management"
   ],
-  "evidence_enhanced": "2025-12-12T05:37:57.342388"
+  "evidence_enhanced": "2025-12-28T05:36:36.077454",
+  "evidence_strength": "strong"
 }
 ```

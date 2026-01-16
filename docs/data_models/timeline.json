@@ -1,13 +1,41 @@
 {
   "metadata": {
-    "version": "23.1_TIMELINE_CORRECTED_2026_01_10",
+    "version": "24.0_KETONI_INTEGRATED_2026_01_16",
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-01-10T12:58:22.912681",
-    "changes": "CRITICAL TIMELINE CORRECTIONS: Kayla murder date 2023-07-13"
+    "last_updated": "2026-01-16T05:34:42.470857",
+    "changes": "CRITICAL: Ketoni Integration - Added EVENT_K001, phase structure with May 2026 convergence"
   },
   "timeline": [
+    {
+      "date": "2023-04-24",
+      "event_count": 1,
+      "events": [
+        "EVENT_K001"
+      ],
+      "primary_category": "financial_investment",
+      "description": "FFT Ketoni Investment - ZAR 18.75M payout option established",
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_014",
+        "TRUST_001",
+        "ORG_015"
+      ],
+      "legal_significance": "establishment_of_central_financial_motive",
+      "evidence_references": [
+        "Ketoni shareholder agreement",
+        "FFT investment records",
+        "Payout option documentation"
+      ],
+      "evidence": [
+        "Ketoni Investment Records",
+        "FFT Financial Documentation"
+      ],
+      "phase": "PHASE_0_INVESTMENT",
+      "timing": "T-37 months before May 2026 payout",
+      "financial_impact": "ZAR 18,750,000"
+    },
     {
       "date": "2017-02-24",
       "event_count": 1,
@@ -1350,5 +1378,39 @@
         "JF06 - Court Documents"
       ]
     }
-  ]
+  ],
+  "phase_structure": {
+    "PHASE_0_INVESTMENT": {
+      "period": "Feb 2023 - Apr 2023",
+      "description": "Investment Phase - ZAR 18.75M entitlement established",
+      "key_event": "EVENT_K001 (2023-04-24)",
+      "financial_impact": "ZAR 18,750,000",
+      "significance": "Establishes central financial motive"
+    },
+    "PHASE_1_CREDITOR_ELIMINATION": {
+      "period": "Jul 2023 - Feb 2024",
+      "description": "Creditor Elimination Phase - R1M debt obstacle removal attempt",
+      "key_events": [
+        "Kayla murder (2023-07-13)",
+        "ReZonance dissolution pressure"
+      ],
+      "motive": "R1M ReZonance debt obstacle to ZAR 18.75M control"
+    },
+    "PHASE_2_CONTROL_CONSOLIDATION": {
+      "period": "Jul 2024 - Aug 2025",
+      "description": "Control Consolidation Phase - Peter consolidates control before payout",
+      "key_events": [
+        "Bantjies appointment (Jul 2024, T-10 months)",
+        "Main Trustee backdating (Aug 11, 2025, T-9 months)",
+        "Interdicts filed (Aug 13, 2025, T-9 months)"
+      ],
+      "strategy": "Consolidate trust control before May 2026 payout"
+    },
+    "PHASE_3_PAYOUT": {
+      "period": "May 2026",
+      "description": "Payout Phase - ALL EVENTS CONVERGE HERE",
+      "financial_impact": "ZAR 18,750,000",
+      "convergence": "All control actions, beneficiary targeting, forum shopping converge on this date"
+    }
+  }
 }

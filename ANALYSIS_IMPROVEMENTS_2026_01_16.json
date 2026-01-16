@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "analysis_date": "2026-01-16T05:33:04.333435",
+    "version": "KETONI_INTEGRATION_2026_01_16",
+    "total_improvements": 8,
+    "critical_count": 4
+  },
+  "improvements": {
+    "entities": [
+      {
+        "type": "CRITICAL_MISSING_ENTITY",
+        "entity": "Kevin Michael Derrick",
+        "reason": "Ketoni Director - connects Bantjies to Ketoni payout",
+        "priority": "CRITICAL",
+        "suggested_entity_id": "PERSON_014",
+        "attributes": {
+          "name": "Kevin Michael Derrick",
+          "role": "ketoni_director",
+          "relationships": [
+            "director_of_ketoni",
+            "colleague_of_bantjies"
+          ],
+          "significance": "Links Bantjies appointment to Ketoni payout"
+        }
+      },
+      {
+        "type": "ENTITY_ENHANCEMENT",
+        "entity": "PERSON_007 (Danie Bantjies)",
+        "reason": "Missing Ketoni connection - colleague of Kevin Derrick",
+        "priority": "HIGH",
+        "enhancement": {
+          "add_relationship": "colleague_of_kevin_derrick",
+          "add_attribute": "ketoni_connection",
+          "significance": "Appointed T-10 months before ZAR 18.75M payout"
+        }
+      },
+      {
+        "type": "ENTITY_ENHANCEMENT",
+        "entity": "TRUST_001 (Faucitt Family Trust)",
+        "reason": "Missing ZAR 18.75M Ketoni payout asset",
+        "priority": "CRITICAL",
+        "enhancement": {
+          "add_financial_asset": {
+            "asset": "Ketoni Investment Holdings payout option",
+            "value": "ZAR 18,750,000",
+            "date": "May 2026",
+            "beneficiaries": [
+              "PERSON_001",
+              "PERSON_004",
+              "PERSON_005"
+            ],
+            "significance": "Central financial motive for all trust actions since Apr 2023"
+          }
+        }
+      }
+    ],
+    "relations": [
+      {
+        "type": "MISSING_RELATION",
+        "relation": "TRUST_001 -> ORG_015 (Ketoni)",
+        "reason": "Missing shareholder relation: FFT owns 5,000 A-Ordinary shares in Ketoni",
+        "priority": "CRITICAL",
+        "suggested_relation": {
+          "relation_id": "REL_OWN_008",
+          "relation_type": "shareholder",
+          "source_entity": "TRUST_001",
+          "target_entity": "ORG_015",
+          "shares": "5,000 A-Ordinary shares",
+          "payout_option": "ZAR 18,750,000 (May 2026)",
+          "evidence": [
+            "Ketoni shareholder agreement",
+            "FFT investment records"
+          ]
+        }
+      },
+      {
+        "type": "MISSING_RELATION",
+        "relation": "PERSON_007 (Bantjies) -> PERSON_014 (Derrick)",
+        "reason": "Missing colleague relation connecting Bantjies to Ketoni",
+        "priority": "HIGH",
+        "suggested_relation": {
+          "relation_id": "REL_PROF_001",
+          "relation_type": "professional_colleague",
+          "source_entity": "PERSON_007",
+          "target_entity": "PERSON_014",
+          "significance": "Explains Bantjies appointment T-10 months before payout",
+          "evidence": [
+            "Professional records",
+            "Ketoni connection analysis"
+          ]
+        }
+      }
+    ],
+    "events": [
+      {
+        "type": "CRITICAL_MISSING_EVENT",
+        "event": "FFT Ketoni Investment",
+        "date": "2023-04-24",
+        "reason": "Missing central financial motive event - ZAR 18.75M payout option",
+        "priority": "CRITICAL",
+        "suggested_event": {
+          "event_id": "EVENT_K001",
+          "date": "2023-04-24",
+          "title": "Faucitt Family Trust Invests in Ketoni Investment Holdings",
+          "category": "financial_investment",
+          "event_type": "trust_investment",
+          "entities_involved": [
+            "TRUST_001",
+            "ORG_015",
+            "PERSON_001"
+          ],
+          "description": "FFT acquires 5,000 A-Ordinary shares in Ketoni with ZAR 18.75M payout option (May 2026)",
+          "financial_impact": "ZAR 18,750,000",
+          "significance": "Establishes central financial motive for all subsequent trust actions",
+          "phase": "PHASE_1",
+          "timeline_phase": "Investment Phase",
+          "burden_of_proof": "civil_50%_exceeded",
+          "evidence": [
+            "Ketoni shareholder agreement",
+            "FFT investment records"
+          ]
+        }
+      },
+      {
+        "type": "EVENT_ENHANCEMENT",
+        "event": "EVENT_086",
+        "reason": "Missing Ketoni timing context - 80 days after FFT investment",
+        "priority": "HIGH",
+        "enhancement": {
+          "add_to_significance": "Occurred 80 days after FFT Ketoni investment (ZAR 18.75M)",
+          "add_context": "ReZonance R1M debt obstacle to ZAR 18.75M control",
+          "phase_context": "Creditor Elimination Phase"
+        }
+      }
+    ],
+    "timeline": [
+      {
+        "type": "TIMELINE_ENHANCEMENT",
+        "reason": "Add Ketoni-centric phase structure",
+        "priority": "HIGH",
+        "enhancement": {
+          "add_phases": [
+            {
+              "phase": "PHASE_0_INVESTMENT",
+              "period": "Feb 2023 - Apr 2023",
+              "description": "Investment Phase - ZAR 18.75M entitlement established",
+              "key_event": "EVENT_K001 (2023-04-24)"
+            },
+            {
+              "phase": "PHASE_1_CREDITOR_ELIMINATION",
+              "period": "Jul 2023 - Feb 2024",
+              "description": "Creditor Elimination Phase - R1M debt obstacle removal attempt",
+              "key_events": [
+                "Kayla murder (2023-07-13)",
+                "ReZonance dissolution pressure"
+              ]
+            },
+            {
+              "phase": "PHASE_2_CONTROL_CONSOLIDATION",
+              "period": "Jul 2024 - Aug 2025",
+              "description": "Control Consolidation Phase - Peter consolidates control before payout",
+              "key_events": [
+                "Bantjies appointment",
+                "Main Trustee backdating",
+                "Interdicts filed"
+              ]
+            },
+            {
+              "phase": "PHASE_3_PAYOUT",
+              "period": "May 2026",
+              "description": "Payout Phase - ALL EVENTS CONVERGE HERE",
+              "financial_impact": "ZAR 18,750,000"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "summary": {
+    "entities": 3,
+    "relations": 2,
+    "events": 2,
+    "timeline": 1
+  }
+}

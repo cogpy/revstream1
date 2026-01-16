@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "22.0_REFINED_2026_01_10",
+    "version": "23.0_KETONI_INTEGRATED_2026_01_16",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-01-10T05:37:04.465301",
-    "changes": "Enhanced evidence cross-references from ad-res-j7",
-    "total_relations": 75
+    "last_updated": "2026-01-16T05:34:42.470775",
+    "changes": "CRITICAL: Ketoni Integration - Added FFT-Ketoni, Derrick-Ketoni, Bantjies-Derrick relations",
+    "total_relations": 78
   },
   "relations": {
     "ownership_relations": [
@@ -153,6 +153,29 @@
         ],
         "confidence": 0.75,
         "evidence_strength": "strong"
+      },
+      {
+        "relation_id": "REL_OWN_008",
+        "relation_type": "shareholder",
+        "source_entity": "TRUST_001",
+        "target_entity": "ORG_015",
+        "strength": "significant_shareholding",
+        "legal_status": "legitimate",
+        "shares": "5,000 A-Ordinary shares",
+        "payout_option": "ZAR 18,750,000 (May 2026)",
+        "significance": "Central financial motive - explains all trust actions since Apr 2023",
+        "evidence": [
+          "Ketoni shareholder agreement",
+          "FFT investment records",
+          "Payout option documentation"
+        ],
+        "evidence_verified": "2026-01-16T05:34:42.470767",
+        "ad_res_j7_evidence": [
+          "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
+          "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md"
+        ],
+        "confidence": 0.95,
+        "evidence_strength": "conclusive"
       }
     ],
     "control_relations": [
@@ -325,6 +348,25 @@
           "ANNEXURES/JF03 - Financial records"
         ],
         "confidence": 0.85,
+        "evidence_strength": "strong"
+      },
+      {
+        "relation_id": "REL_CTRL_008",
+        "relation_type": "director_of",
+        "source_entity": "PERSON_014",
+        "target_entity": "ORG_015",
+        "control_type": "directorial_control",
+        "legal_status": "legitimate",
+        "significance": "Controls entity with ZAR 18.75M payout obligation to FFT",
+        "evidence": [
+          "Ketoni company records",
+          "CIPC documentation"
+        ],
+        "evidence_verified": "2026-01-16T05:34:42.470770",
+        "ad_res_j7_evidence": [
+          "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md"
+        ],
+        "confidence": 0.9,
         "evidence_strength": "strong"
       }
     ],
@@ -1573,6 +1615,26 @@
           "ANNEXURES/JF06 - Legal correspondence"
         ],
         "confidence": 0.75,
+        "evidence_strength": "strong"
+      },
+      {
+        "relation_id": "REL_PROF_001",
+        "relation_type": "professional_colleague",
+        "source_entity": "PERSON_007",
+        "target_entity": "PERSON_014",
+        "significance": "Explains Bantjies appointment as trustee T-10 months before ZAR 18.75M payout",
+        "timing": "Bantjies appointed Jul 2024, T-10 months before May 2026 payout",
+        "evidence": [
+          "Professional records",
+          "Ketoni connection analysis",
+          "Appointment timing analysis"
+        ],
+        "evidence_verified": "2026-01-16T05:34:42.470772",
+        "ad_res_j7_evidence": [
+          "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
+          "lex/agent_based_model_v48_ketoni_integrated.scm"
+        ],
+        "confidence": 0.85,
         "evidence_strength": "strong"
       }
     ],

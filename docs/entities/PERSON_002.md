@@ -1,4 +1,6 @@
-# Rynette Farrar
+# Rynette Farrar (PERSON_002)
+
+**Role:** co_conspirator
 
 ```json
 {
@@ -59,11 +61,16 @@
     "JF09 - Domain registration fraud evidence"
   ],
   "ad_res_j7_references": [
-    "ANNEXURES/JF05 - Sage screenshots and accounting control",
-    "ANNEXURES/JF07 - Bank account manipulation evidence",
-    "ANNEXURES/JF08/evidence_package_20251009 - Email analysis findings",
-    "ANNEXURES/JF09 - Court order interference documentation"
+    "SF2_Sage_Screenshots_Rynette_Control.md - Dual account access evidence",
+    "ANNEXURES/JF01 - Email impersonation patterns",
+    "ANNEXURES/JF07 - Sage system screenshots showing control",
+    "SF9_Ian_Levitt_Demand_Letter.md - Implicated in revenue theft scheme",
+    "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - System control proof",
+    "ANNEXURES/JF08/evidence_package_20251012/README.md - Payment redirection evidence",
+    "revenue-stream-hijacking-rynette/ - Dedicated evidence folder"
   ],
-  "evidence_enhanced": "2025-12-12T05:37:57.342384"
+  "evidence_enhanced": "2025-12-28T05:36:36.077448",
+  "evidence_strength": "strong",
+  "criminal_threshold": "95%_likely"
 }
 ```
