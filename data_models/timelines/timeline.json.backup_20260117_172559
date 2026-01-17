@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "version": "27.0_COMPREHENSIVE_REFINEMENT_2026_01_18",
+    "version": "25.0_KETONI_INTEGRATED_2026_01_17",
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-01-17T17:26:32.885610",
-    "changes": "Comprehensive refinement of timeline, added entity names to events.",
+    "last_updated": "2026-01-17T05:33:32.311242",
+    "changes": "Integrated Ketoni ZAR 18.75M payout timeline and context",
     "criminal_threshold_entries": 6,
     "high_significance_entries": 7,
-    "total_entries": 118,
+    "total_entries": 112,
     "civil_threshold_entries": 0
   },
   "timeline": [
@@ -16,22 +16,19 @@
       "date": "1982-03-26",
       "event": "ALOECO (SA) original company registered",
       "entity": "ALOECO (SA) - Original 1982",
-      "source": "293351602.Pdf",
-      "key_actor_names": []
+      "source": "293351602.Pdf"
     },
     {
       "date": "1986-03-21",
       "event": "L'IMAGE CC registered",
       "entity": "L'IMAGE",
-      "source": "293351642.Pdf",
-      "key_actor_names": []
+      "source": "293351642.Pdf"
     },
     {
       "date": "1991-11-28",
       "event": "S A Logistic Services CC registered by Louw",
       "entity": "S A Logistic Services",
-      "source": "293351608.Pdf",
-      "key_actor_names": []
+      "source": "293351608.Pdf"
     },
     {
       "entry_id": "TL_CIPC_001",
@@ -56,59 +53,49 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335493",
-      "key_actor_names": [
-        "Peter Andrew Faucitt"
-      ]
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335493"
     },
     {
       "date": "1992-12-15",
       "event": "Shaneprop CC registered by Louw",
       "entity": "Shaneprop",
-      "source": "293351648.Pdf",
-      "key_actor_names": []
+      "source": "293351648.Pdf"
     },
     {
       "date": "1993-02-13",
       "event": "Louw becomes director of ALOECO (SA) original",
       "entity": "Alan Peter Louw",
-      "source": "293351602.Pdf",
-      "key_actor_names": []
+      "source": "293351602.Pdf"
     },
     {
       "date": "1996-10-15",
       "event": "UFO Express CC registered",
       "entity": "UFO Express",
-      "source": "293352764.Pdf",
-      "key_actor_names": []
+      "source": "293352764.Pdf"
     },
     {
       "date": "1997-09-02",
       "event": "Rizzotto becomes 100% member of UFO Express",
       "entity": "Martin Carlo Rizzotto",
-      "source": "293352764.Pdf",
-      "key_actor_names": []
+      "source": "293352764.Pdf"
     },
     {
       "date": "1998-05-20",
       "event": "East Coast Logistics CC registered",
       "entity": "East Coast Logistics",
-      "source": "293351625.Pdf",
-      "key_actor_names": []
+      "source": "293351625.Pdf"
     },
     {
       "date": "1999-03-26",
       "event": "LMS Logistic Services registered",
       "entity": "LMS Logistic Services",
-      "source": "293352439.Pdf",
-      "key_actor_names": []
+      "source": "293352439.Pdf"
     },
     {
       "date": "1999-05-25",
       "event": "S A Logistic Services enters liquidation",
       "entity": "S A Logistic Services",
-      "source": "293351608.Pdf",
-      "key_actor_names": []
+      "source": "293351608.Pdf"
     },
     {
       "entry_id": "TL_CIPC_002",
@@ -136,12 +123,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335536",
-      "key_actor_names": [
-        "Peter Andrew Faucitt",
-        "Jacqueline Faucitt",
-        "Daniel James Faucitt"
-      ]
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335536"
     },
     {
       "date": "2000-05-31",
@@ -157,15 +139,13 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335540",
-      "key_actor_names": []
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335540"
     },
     {
       "date": "2001-09-18",
       "event": "Nanini 262 CC registered by Louw",
       "entity": "Nanini 262",
-      "source": "293351615.Pdf",
-      "key_actor_names": []
+      "source": "293351615.Pdf"
     },
     {
       "date": "2005-09-29",
@@ -182,15 +162,13 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335544",
-      "key_actor_names": []
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335544"
     },
     {
       "date": "2006-02-14",
       "event": "ALOECO (SA) CC registered - Louw 51%",
       "entity": "ALOECO (SA) - CC 2006",
-      "source": "293351612.Pdf",
-      "key_actor_names": []
+      "source": "293351612.Pdf"
     },
     {
       "entry_id": "TL_CIPC_003",
@@ -215,10 +193,7 @@
         "ANNEXURES/JF04 - CIPC director records"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335548",
-      "key_actor_names": [
-        "Jacqueline Faucitt"
-      ]
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335548"
     },
     {
       "date": "2006-03-16",
@@ -236,8 +211,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335551",
-      "key_actor_names": []
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335551"
     },
     {
       "date": "2006-06-05",
@@ -248,8 +222,7 @@
       ],
       "evidence": [
         "293344692-Property-KarenAvnit.Pdf"
-      ],
-      "key_actor_names": []
+      ]
     },
     {
       "date": "2007-07-17",
@@ -261,15 +234,13 @@
       ],
       "evidence": [
         "293338023-Director-BarendNortje.Pdf"
-      ],
-      "key_actor_names": []
+      ]
     },
     {
       "date": "2008-06-18",
       "event": "RegimA International Skin Treatments CC established",
       "entity": "RegimA International Skin Treatments CC",
-      "source": "TheCosmeticsIndustry(2017-11-14).pdf",
-      "key_actor_names": []
+      "source": "TheCosmeticsIndustry(2017-11-14).pdf"
     },
     {
       "entry_id": "TL_CIPC_004",
@@ -294,10 +265,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335557",
-      "key_actor_names": [
-        "Daniel James Faucitt"
-      ]
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335557"
     },
     {
       "entry_id": "TL_CIPC_005",
@@ -329,13 +297,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335560",
-      "key_actor_names": [
-        "Peter Andrew Faucitt",
-        "Jacqueline Faucitt",
-        "Daniel James Faucitt",
-        "Christian Gouws"
-      ]
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335560"
     },
     {
       "date": "2015-07-08",
@@ -352,8 +314,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335563",
-      "key_actor_names": []
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335563"
     },
     {
       "date": "2016-07-05",
@@ -366,8 +327,7 @@
       ],
       "evidence": [
         "293342245-Company-DandelionSA.Pdf"
-      ],
-      "key_actor_names": []
+      ]
     },
     {
       "entry_id": "TL_CIPC_006",
@@ -394,18 +354,13 @@
         "ANNEXURES/JF04 - CIPC director records"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335567",
-      "key_actor_names": [
-        "Jacqueline Faucitt",
-        "Peter Andrew Faucitt"
-      ]
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335567"
     },
     {
       "date": "2017-02-22",
       "event": "Rezonance registered (shelf company)",
       "entity": "Rezonance",
-      "source": "293355407.Pdf",
-      "key_actor_names": []
+      "source": "293355407.Pdf"
     },
     {
       "date": "2017-02-24",
@@ -433,18 +388,13 @@
       "evidence": [
         "JF08 - Historical timeline evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862950",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862950"
     },
     {
       "date": "2017-02-27",
       "event": "RegimA Medic registered (shelf company)",
       "entity": "RegimA Medic",
-      "source": "293355412.Pdf",
-      "key_actor_names": []
+      "source": "293355412.Pdf"
     },
     {
       "entry_id": "TL_CIPC_007",
@@ -468,17 +418,13 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335573",
-      "key_actor_names": [
-        "Daniel James Faucitt"
-      ]
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335573"
     },
     {
       "date": "2017-04-04",
       "event": "Daniel Faucitt & Kayla Pretorius take over Rezonance from Dennis Bishop",
       "entity": "Rezonance",
-      "source": "293355407.Pdf",
-      "key_actor_names": []
+      "source": "293355407.Pdf"
     },
     {
       "entry_id": "TL_CIPC_008",
@@ -502,17 +448,13 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335577",
-      "key_actor_names": [
-        "Daniel James Faucitt"
-      ]
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335577"
     },
     {
       "date": "2017-04-10",
       "event": "Faucitts take over RegimA Medic from Dennis Bishop",
       "entity": "RegimA Medic",
-      "source": "293355412.Pdf",
-      "key_actor_names": []
+      "source": "293355412.Pdf"
     },
     {
       "entry_id": "TL_CIPC_009",
@@ -536,10 +478,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335580",
-      "key_actor_names": [
-        "Daniel James Faucitt"
-      ]
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335580"
     },
     {
       "entry_id": "TL_CIPC_010",
@@ -563,10 +502,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335583",
-      "key_actor_names": [
-        "Daniel James Faucitt"
-      ]
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335583"
     },
     {
       "date": "2017-06-30",
@@ -596,10 +532,7 @@
       "evidence": [
         "JF08 - Historical timeline evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862957",
-      "key_actor_names": [
-        "ReZonance (Pty) Ltd"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862957"
     },
     {
       "date": "2017-09-27",
@@ -616,8 +549,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335587",
-      "key_actor_names": []
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335587"
     },
     {
       "date": "2017-09-30",
@@ -647,24 +579,19 @@
       "evidence": [
         "JF08 - Historical timeline evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862959",
-      "key_actor_names": [
-        "ReZonance (Pty) Ltd"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862959"
     },
     {
       "date": "2017-11-14",
       "event": "Who Owns Whom Cosmetics Industry report published listing RegimA",
       "entity": "RegimA International Skin Treatments CC",
-      "source": "TheCosmeticsIndustry(2017-11-14).pdf",
-      "key_actor_names": []
+      "source": "TheCosmeticsIndustry(2017-11-14).pdf"
     },
     {
       "date": "2018-08-01",
       "event": "Rizzotto joins ALOECO (SA) CC as 49% member",
       "entity": "Martin Carlo Rizzotto",
-      "source": "293351612.Pdf",
-      "key_actor_names": []
+      "source": "293351612.Pdf"
     },
     {
       "date": "2019-02-28",
@@ -692,11 +619,7 @@
       "evidence": [
         "JF08 - Historical timeline evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862962",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862962"
     },
     {
       "date": "2019-03-01",
@@ -725,37 +648,7 @@
       "evidence": [
         "JF08 - Historical timeline evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862966",
-      "key_actor_names": [
-        "Peter Andrew Faucitt",
-        "Rynette Farrar"
-      ]
-    },
-    {
-      "entry_id": "TL_TB_001",
-      "date": "2019-03-01",
-      "event_type": "financial_year_start",
-      "title": "RST/SLG Financial Year Commencement",
-      "description": "Beginning of financial year for RegimA Skin Treatments (RST) and Strategic Logistics (SLG). This marks the start of the period covered by trial balance evidence showing systematic financial manipulation.",
-      "key_actors": [
-        "RegimA Skin Treatments",
-        "Strategic Logistics"
-      ],
-      "entities_involved": [
-        "ORG_002",
-        "ORG_003"
-      ],
-      "evidence": [
-        "REG-TRIALBALANCE.xlsx",
-        "SL-TRIALBALANCE2020.xlsx"
-      ],
-      "significance": "Beginning of documented manipulation period",
-      "burden_of_proof": "verified_financial_record",
-      "criminal_threshold": "supporting_evidence",
-      "key_actor_names": [
-        "RegimA Skin Treatments",
-        "Strategic Logistics"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862966"
     },
     {
       "date": "2019-05-01",
@@ -787,32 +680,7 @@
       "evidence": [
         "JF08 - Historical timeline evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862968",
-      "key_actor_names": [
-        "Peter Andrew Faucitt",
-        "Rynette Farrar"
-      ]
-    },
-    {
-      "entry_id": "TL_TB_002",
-      "date": "2019-05-01",
-      "event_type": "financial_year_start",
-      "title": "Villa Via Financial Year Commencement",
-      "description": "Beginning of financial year for Villa Via. Different year-end from RST/SLG creates complexity in group reporting and opportunities for manipulation.",
-      "key_actors": [
-        "Villa Via"
-      ],
-      "entities_involved": [
-        "ORG_VV"
-      ],
-      "evidence": [
-        "VV-TRIALBALANCEAPR20202.xlsx"
-      ],
-      "significance": "Staggered year-end enables timing manipulation",
-      "burden_of_proof": "verified_financial_record",
-      "key_actor_names": [
-        "Villa Via"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862968"
     },
     {
       "entry_id": "TL_CIPC_011",
@@ -840,18 +708,13 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335595",
-      "key_actor_names": [
-        "Alan Peter Louw",
-        "Martin Carlo Rizzotto"
-      ]
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335595"
     },
     {
       "date": "2019-10-22",
       "event": "ALOECO (SA) CC converts to company K2019531306",
       "entity": "ALOECO (SA) - CC 2006",
-      "source": "293351612.Pdf",
-      "key_actor_names": []
+      "source": "293351612.Pdf"
     },
     {
       "date": "2019-11-20",
@@ -883,14 +746,7 @@
       "evidence": [
         "JF08 - Historical timeline evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862970",
-      "key_actor_names": [
-        "Adderory (Rynette's Son)",
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862970"
     },
     {
       "date": "2019-11-22",
@@ -905,8 +761,7 @@
       "evidence": [
         "293344692-Property-KarenAvnit.Pdf",
         "293347244-List-Deeds-SB48685-2019.Pdf"
-      ],
-      "key_actor_names": []
+      ]
     },
     {
       "entry_id": "TL_CIPC_012",
@@ -933,11 +788,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335600",
-      "key_actor_names": [
-        "Alan Peter Louw",
-        "Martin Carlo Rizzotto"
-      ]
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335600"
     },
     {
       "date": "2020-02-20",
@@ -977,47 +828,7 @@
       "evidence": [
         "JF03 - Financial records"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862972",
-      "key_actor_names": [
-        "Danie Bantjies",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar",
-        "Strategic Logistics Group"
-      ]
-    },
-    {
-      "entry_id": "TL_TB_003",
-      "date": "2020-02-20",
-      "event_type": "financial_manipulation",
-      "title": "Coordinated Inter-Company Cost Reallocations",
-      "description": "Multiple adjusting journal entries across entities on same date: RWW R500K stock provision write-back, RWW R810K admin fee reallocation to production costs, SLG R252K admin fee reallocation to production costs, SLG R80K production cost transfer to RST. Coordinated timing suggests deliberate manipulation.",
-      "key_actors": [
-        "Co-director's bookkeeper",
-        "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "ORG_001",
-        "ORG_003",
-        "ORG_002"
-      ],
-      "evidence": [
-        "WW-TrialBalanceFEB20.xlsx AJEs",
-        "SL-TRIALBALANCE2020.xlsx AJEs"
-      ],
-      "significance": "CRITICAL - Coordinated manipulation across entities",
-      "financial_impact": {
-        "rww_stock_write_back": 500000.0,
-        "rww_admin_reallocation": 810097.7,
-        "slg_admin_reallocation": 252041.73,
-        "slg_production_transfer": 80000.0
-      },
-      "burden_of_proof": "verified_financial_record",
-      "criminal_threshold": "pattern_evidence",
-      "key_actor_names": [
-        "Co-director's bookkeeper",
-        "Rynette Farrar"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862972"
     },
     {
       "date": "2020-02-28",
@@ -1063,50 +874,7 @@
       "evidence": [
         "JF03 - Financial records"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862974",
-      "key_actor_names": [
-        "Danie Bantjies",
-        "Daniel James Faucitt",
-        "Family Trust",
-        "Jacqueline Faucitt",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar",
-        "Strategic Logistics Group"
-      ]
-    },
-    {
-      "entry_id": "TL_TB_004",
-      "date": "2020-02-28",
-      "event_type": "financial_manipulation",
-      "title": "Year-End Inter-Company Interest and Loan Transactions",
-      "description": "Critical year-end adjustments: SLG pays R414,334.09 interest to RST per loan agreement (3.19% rate on R13M debt), RST advances R750K loan to RWW for production costs, Directors' fee adjustment of R784K in RST. These transactions demonstrate profit shifting from SLG to RST.",
-      "key_actors": [
-        "Peter Andrew Faucitt",
-        "Co-director's bookkeeper"
-      ],
-      "entities_involved": [
-        "ORG_002",
-        "ORG_003",
-        "ORG_001"
-      ],
-      "evidence": [
-        "REG-TRIALBALANCE.xlsx",
-        "SL-TRIALBALANCE2020.xlsx"
-      ],
-      "significance": "CRITICAL - Profit extraction mechanism documented",
-      "financial_impact": {
-        "slg_to_rst_interest": 414334.09,
-        "rst_to_rww_loan": 750000.0,
-        "directors_fee_adjustment": 784000.0,
-        "slg_debt_to_rst": 12971390.13
-      },
-      "burden_of_proof": "verified_financial_record",
-      "criminal_threshold": "pattern_evidence",
-      "key_actor_names": [
-        "Peter Andrew Faucitt",
-        "Co-director's bookkeeper"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862974"
     },
     {
       "date": "2020-04-30",
@@ -1143,42 +911,7 @@
       "evidence": [
         "JF03 - Financial records"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862976",
-      "key_actor_names": [
-        "Danie Bantjies",
-        "Family Trust",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Strategic Logistics Group"
-      ]
-    },
-    {
-      "entry_id": "TL_TB_005",
-      "date": "2020-04-30",
-      "event_type": "financial_year_end",
-      "title": "Villa Via Year-End - Capital Extraction Evidence",
-      "description": "Villa Via financial year-end showing R3.7M profit from R4.4M rental income, while maintaining R22.8M members loan account. Members loan is 5.2x annual rental income, indicating systematic capital extraction over multiple years.",
-      "key_actors": [
-        "Villa Via shareholders"
-      ],
-      "entities_involved": [
-        "ORG_VV"
-      ],
-      "evidence": [
-        "VV-TRIALBALANCEAPR20202.xlsx"
-      ],
-      "significance": "Capital extraction vehicle documented",
-      "financial_impact": {
-        "monthly_rental_income": 4384701.36,
-        "net_profit": 3727475.5,
-        "members_loan_account": 22806538.74,
-        "extraction_ratio": "5.2x annual income"
-      },
-      "burden_of_proof": "verified_financial_record",
-      "criminal_threshold": "supporting_evidence",
-      "key_actor_names": [
-        "Villa Via shareholders"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862976"
     },
     {
       "entry_id": "TL_CIPC_013",
@@ -1198,17 +931,13 @@
       ],
       "significance": "Formalizes Daniel's directorship in RWD, country of residence GB",
       "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-09T06:57:36.207479",
-      "key_actor_names": [
-        "Daniel James Faucitt"
-      ]
+      "added_date": "2026-01-09T06:57:36.207479"
     },
     {
       "date": "2020-07-07",
       "event": "Peter and Jacqueline Faucitt appointed as directors of RegimA Medic",
       "entity": "RegimA Medic",
-      "source": "293355412.Pdf",
-      "key_actor_names": []
+      "source": "293355412.Pdf"
     },
     {
       "date": "2020-08-13",
@@ -1245,52 +974,7 @@
       "evidence": [
         "JF03 - Financial records"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862978",
-      "key_actor_names": [
-        "Danie Bantjies"
-      ]
-    },
-    {
-      "entry_id": "TL_TB_006",
-      "date": "2020-08-13",
-      "event_type": "communication",
-      "title": "Danie Bantjes Email - Financial Statement Finalization",
-      "description": "Email from Danie Bantjes to Bernadine Wright, Jacqui Faucitt (Jax), Peter Andrew Faucitt, Rynette Farrar, and Daniel Faucitt with final trial balances. 6-month delay from year-end suggests complex manipulation requiring extended finalization. Meeting scheduled with Bernadine Wright for sign-off.",
-      "key_actors": [
-        "Danie Bantjes",
-        "Bernadine Wright",
-        "Jacqui Faucitt",
-        "Peter Andrew Faucitt",
-        "Rynette Farrar",
-        "Daniel Faucitt"
-      ],
-      "entities_involved": [
-        "PERSON_TB_002",
-        "PERSON_TB_001",
-        "PERSON_004",
-        "PERSON_001",
-        "PERSON_002",
-        "PERSON_005"
-      ],
-      "evidence": [
-        "email-body.html"
-      ],
-      "significance": "CRITICAL - Links Rynette to 2020 financial access, establishes Bernadine Wright as key decision-maker",
-      "red_flags": [
-        "6-month delay in finalization",
-        "Disclosure changes mentioned",
-        "Rynette present in financial discussions (later led 2025 cover-up)"
-      ],
-      "burden_of_proof": "verified_communication",
-      "criminal_threshold": "pattern_evidence",
-      "key_actor_names": [
-        "Danie Bantjes",
-        "Bernadine Wright",
-        "Jacqui Faucitt",
-        "Peter Andrew Faucitt",
-        "Rynette Farrar",
-        "Daniel Faucitt"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862978"
     },
     {
       "date": "2020-08-15",
@@ -1321,13 +1005,7 @@
       "evidence": [
         "JF03 - Financial records"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862980",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862980"
     },
     {
       "date": "2021-03-15",
@@ -1358,13 +1036,7 @@
       "evidence": [
         "JF03 - Financial records"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862982",
-      "key_actor_names": [
-        "RegimaSA (Pty) Ltd",
-        "Regima Skin Treatments CC",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Strategic Logistics Group"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862982"
     },
     {
       "entry_id": "TL_CIPC_BATCH2_001",
@@ -1384,10 +1056,7 @@
       ],
       "significance": "Establishes financial control and company status",
       "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-12T05:35:43.682885",
-      "key_actor_names": [
-        "Peter Andrew Faucitt"
-      ]
+      "added_date": "2026-01-12T05:35:43.682885"
     },
     {
       "entry_id": "TL_CIPC_BATCH2_002",
@@ -1411,12 +1080,7 @@
       ],
       "significance": "Confirms legitimate ownership structure of RWD",
       "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-12T05:35:43.682907",
-      "key_actor_names": [
-        "Peter Andrew Faucitt",
-        "Jacqueline Faucitt",
-        "Daniel James Faucitt"
-      ]
+      "added_date": "2026-01-12T05:35:43.682907"
     },
     {
       "entry_id": "TL_CIPC_014",
@@ -1440,10 +1104,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335611",
-      "key_actor_names": [
-        "Daniel James Faucitt"
-      ]
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335611"
     },
     {
       "date": "2021-04-01",
@@ -1475,11 +1136,7 @@
       "evidence": [
         "JF03 - Financial records"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862984",
-      "key_actor_names": [
-        "Adderory (Rynette's Son)",
-        "Rynette Farrar"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862984"
     },
     {
       "date": "2021-09-10",
@@ -1507,10 +1164,7 @@
       "evidence": [
         "JF03 - Financial records"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862986",
-      "key_actor_names": [
-        "Bernadine Wright"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862986"
     },
     {
       "date": "2021-10-05",
@@ -1543,12 +1197,7 @@
       "evidence": [
         "JF03 - Financial records"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862988",
-      "key_actor_names": [
-        "Bernadine Wright",
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862988"
     },
     {
       "entry_id": "TL_CIPC_015",
@@ -1567,8 +1216,7 @@
       ],
       "significance": "Evidence collection date for corporate records",
       "burden_of_proof": "verified_cipc_record",
-      "added_date": "2026-01-09T06:57:36.207479",
-      "key_actor_names": []
+      "added_date": "2026-01-09T06:57:36.207479"
     },
     {
       "date": "2022-03-01",
@@ -1601,13 +1249,7 @@
       "evidence": [
         "JF03 - Financial records"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862990",
-      "key_actor_names": [
-        "Kayla",
-        "Peter Andrew Faucitt",
-        "ReZonance (Pty) Ltd",
-        "Rynette Farrar"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862990"
     },
     {
       "date": "2022-07-11",
@@ -1637,10 +1279,7 @@
       "evidence": [
         "JF03 - Financial records"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862992",
-      "key_actor_names": [
-        "Regima Skin Treatments CC"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862992"
     },
     {
       "date": "2022-07-30",
@@ -1669,11 +1308,7 @@
       "evidence": [
         "JF03 - Financial records"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862994",
-      "key_actor_names": [
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862994"
     },
     {
       "date": "2023-01-01",
@@ -1704,11 +1339,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862996",
-      "key_actor_names": [
-        "Kayla",
-        "Rynette Farrar"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862996"
     },
     {
       "date": "2023-02-28",
@@ -1741,13 +1372,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.862998",
-      "key_actor_names": [
-        "Kayla",
-        "Peter Andrew Faucitt",
-        "ReZonance (Pty) Ltd",
-        "Rynette Farrar"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.862998"
     },
     {
       "date": "2023-03-15",
@@ -1783,13 +1408,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863000",
-      "key_actor_names": [
-        "Kayla",
-        "Peter Andrew Faucitt",
-        "ReZonance (Pty) Ltd",
-        "Rynette Farrar"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863000"
     },
     {
       "entry_id": "TL_KETONI_001",
@@ -1820,12 +1439,7 @@
         "lex/entity_relation_framework_v48_ketoni_payout_integrated.scm"
       ],
       "evidence_strength": "conclusive",
-      "criminal_threshold": "foundational_event",
-      "key_actor_names": [
-        "Faucitt Family Trust",
-        "Ketoni Investment Holdings",
-        "Kevin Michael Derrick"
-      ]
+      "criminal_threshold": "foundational_event"
     },
     {
       "entry_id": "TL_KETONI_002",
@@ -1858,12 +1472,7 @@
         "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md"
       ],
       "evidence_strength": "conclusive",
-      "criminal_threshold": "95%_exceeded",
-      "key_actor_names": [
-        "Kayla Pretorius",
-        "Daniel James Faucitt",
-        "ReZonance"
-      ]
+      "criminal_threshold": "95%_exceeded"
     },
     {
       "date": "2023-09-20",
@@ -1899,13 +1508,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863002",
-      "key_actor_names": [
-        "Kayla",
-        "Peter Andrew Faucitt",
-        "ReZonance (Pty) Ltd",
-        "Rynette Farrar"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863002"
     },
     {
       "entry_id": "TL_KETONI_003",
@@ -1934,11 +1537,7 @@
         "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
         "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md"
       ],
-      "evidence_strength": "strong",
-      "key_actor_names": [
-        "Peter Andrew Faucitt",
-        "Daniel James Faucitt"
-      ]
+      "evidence_strength": "strong"
     },
     {
       "entry_id": "TL_KETONI_004",
@@ -1976,12 +1575,7 @@
         "lex/south_african_trust_law_enhanced_v9_ketoni_payout.scm"
       ],
       "evidence_strength": "conclusive",
-      "criminal_threshold": "95%_exceeded",
-      "key_actor_names": [
-        "Daniel Jacobus Bantjies",
-        "Rynette Farrar",
-        "Kevin Michael Derrick"
-      ]
+      "criminal_threshold": "95%_exceeded"
     },
     {
       "date": "2025-01-15",
@@ -2019,15 +1613,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863005",
-      "key_actor_names": [
-        "Chantal",
-        "Danie Bantjies",
-        "Daniel James Faucitt",
-        "Family Trust",
-        "Jacqueline Faucitt",
-        "Kayla"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863005"
     },
     {
       "date": "2025-02-14",
@@ -2061,11 +1647,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863006",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863006"
     },
     {
       "date": "2025-02-25",
@@ -2104,15 +1686,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863008",
-      "key_actor_names": [
-        "Adderory (Rynette's Son)",
-        "Danie Bantjies",
-        "Family Trust",
-        "Peter Andrew Faucitt",
-        "Rynette Farrar",
-        "Strategic Logistics Group"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863008"
     },
     {
       "date": "2025-03-01",
@@ -2155,16 +1729,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863010",
-      "key_actor_names": [
-        "Adderory (Rynette's Son)",
-        "Danie Bantjies",
-        "Daniel James Faucitt",
-        "Family Trust",
-        "Peter Andrew Faucitt",
-        "Rynette Farrar",
-        "Strategic Logistics Group"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863010"
     },
     {
       "date": "2025-03-15",
@@ -2205,15 +1770,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863012",
-      "key_actor_names": [
-        "Danie Bantjies",
-        "Family Trust",
-        "Peter Andrew Faucitt",
-        "Rynette Farrar",
-        "Strategic Logistics Group",
-        "beneficiaries"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863012"
     },
     {
       "date": "2025-03-30",
@@ -2248,13 +1805,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863014",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863014"
     },
     {
       "date": "2025-04-01",
@@ -2290,13 +1841,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863016",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt",
-        "RegimA Zone Ltd",
-        "Rynette Farrar"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863016"
     },
     {
       "date": "2025-04-14",
@@ -2331,12 +1876,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863018",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863018"
     },
     {
       "date": "2025-04-22",
@@ -2372,12 +1912,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863020",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt",
-        "RegimA Zone Ltd"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863020"
     },
     {
       "date": "2025-04-30",
@@ -2409,11 +1944,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863022",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863022"
     },
     {
       "date": "2025-05-02",
@@ -2447,13 +1978,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863024",
-      "key_actor_names": [
-        "Family Trust",
-        "Peter Andrew Faucitt",
-        "Rynette Farrar",
-        "legitimate_beneficiaries"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863024"
     },
     {
       "date": "2025-05-15",
@@ -2497,15 +2022,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863026",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar",
-        "estate_of_kayla"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863026"
     },
     {
       "date": "2025-05-22",
@@ -2542,13 +2059,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863028",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt",
-        "RegimA Zone Ltd",
-        "coordinated_action"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863028"
     },
     {
       "date": "2025-05-29",
@@ -2582,13 +2093,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863030",
-      "key_actor_names": [
-        "Adderory (Rynette's Son)",
-        "Daniel James Faucitt",
-        "Rynette Farrar",
-        "customers"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863030"
     },
     {
       "date": "2025-06-06",
@@ -2624,12 +2129,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863032",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Gee",
-        "Rynette Farrar"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863032"
     },
     {
       "entry_id": "TL_KETONI_005",
@@ -2660,11 +2160,7 @@
         "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md"
       ],
       "evidence_strength": "conclusive",
-      "criminal_threshold": "95%_exceeded",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Daniel Jacobus Bantjies"
-      ]
+      "criminal_threshold": "95%_exceeded"
     },
     {
       "date": "2025-06-07",
@@ -2697,12 +2193,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863034",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt",
-        "Rynette Farrar"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863034"
     },
     {
       "entry_id": "TL_KETONI_006",
@@ -2738,12 +2229,7 @@
         "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md"
       ],
       "evidence_strength": "conclusive",
-      "criminal_threshold": "95%_exceeded",
-      "key_actor_names": [
-        "Peter Andrew Faucitt",
-        "Rynette Farrar",
-        "Daniel Jacobus Bantjies"
-      ]
+      "criminal_threshold": "95%_exceeded"
     },
     {
       "date": "2025-06-10",
@@ -2786,14 +2272,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863035",
-      "key_actor_names": [
-        "Danie Bantjies",
-        "Daniel James Faucitt",
-        "Family Trust",
-        "Jacqueline Faucitt",
-        "Peter Andrew Faucitt"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863035"
     },
     {
       "date": "2025-06-18",
@@ -2826,12 +2305,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863037",
-      "key_actor_names": [
-        "Family Trust",
-        "Peter Andrew Faucitt",
-        "beneficiaries"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863037"
     },
     {
       "date": "2025-06-20",
@@ -2874,15 +2348,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863039",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt",
-        "RegimA Zone Ltd",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar",
-        "customers"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863039"
     },
     {
       "date": "2025-06-25",
@@ -2912,12 +2378,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863042",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Jax",
-        "Peter Andrew Faucitt"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863042"
     },
     {
       "date": "2025-06-30",
@@ -2952,14 +2413,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863044",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar",
-        "associates"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863044"
     },
     {
       "date": "2025-07-08",
@@ -2993,13 +2447,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863046",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "customers"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863046"
     },
     {
       "date": "2025-07-12",
@@ -3032,12 +2480,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863048",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863048"
     },
     {
       "date": "2025-07-23",
@@ -3071,14 +2514,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863050",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863050"
     },
     {
       "date": "2025-07-25",
@@ -3111,12 +2547,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863052",
-      "key_actor_names": [
-        "Family Trust",
-        "Peter Andrew Faucitt",
-        "beneficiaries"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863052"
     },
     {
       "date": "2025-08-10",
@@ -3146,12 +2577,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863054",
-      "key_actor_names": [
-        "Family Trust",
-        "Peter Andrew Faucitt",
-        "beneficiaries"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863054"
     },
     {
       "date": "2025-08-11",
@@ -3184,12 +2610,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863056",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt",
-        "Peter Andrew Faucitt"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863056"
     },
     {
       "entry_id": "TL_KETONI_007",
@@ -3224,11 +2645,7 @@
         "jax-dan-response/JAX_DAN_RESPONSE_IMPROVEMENTS_V49_KETONI_INTEGRATED.md"
       ],
       "evidence_strength": "conclusive",
-      "criminal_threshold": "95%_exceeded",
-      "key_actor_names": [
-        "Peter Andrew Faucitt",
-        "Jacqueline Faucitt"
-      ]
+      "criminal_threshold": "95%_exceeded"
     },
     {
       "date": "2025-08-13",
@@ -3265,13 +2682,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863058",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt",
-        "Peter Andrew Faucitt",
-        "Rynette Farrar"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863058"
     },
     {
       "entry_id": "TL_KETONI_008",
@@ -3311,13 +2722,7 @@
         "jax-dan-response/JAX_DAN_RESPONSE_IMPROVEMENTS_V49_KETONI_INTEGRATED.md"
       ],
       "evidence_strength": "conclusive",
-      "criminal_threshold": "95%_exceeded",
-      "key_actor_names": [
-        "Peter Andrew Faucitt",
-        "Daniel Jacobus Bantjies",
-        "Jacqueline Faucitt",
-        "Daniel James Faucitt"
-      ]
+      "criminal_threshold": "95%_exceeded"
     },
     {
       "date": "2025-08-15",
@@ -3348,10 +2753,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863060",
-      "key_actor_names": [
-        "Danie Bantjies"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863060"
     },
     {
       "date": "2025-08-20",
@@ -3384,12 +2786,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863062",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "coordinated_network"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863062"
     },
     {
       "date": "2025-08-29",
@@ -3419,12 +2816,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863065",
-      "key_actor_names": [
-        "Danie Bantjies",
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863065"
     },
     {
       "date": "2025-09-11",
@@ -3458,13 +2850,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863067",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863067"
     },
     {
       "date": "2025-10-23",
@@ -3496,13 +2882,7 @@
       "evidence": [
         "JF08 - Recent fraud evidence"
       ],
-      "evidence_enhanced": "2026-01-13T05:35:37.863069",
-      "key_actor_names": [
-        "Daniel James Faucitt",
-        "Gee",
-        "Jacqueline Faucitt",
-        "Peter Andrew Faucitt"
-      ]
+      "evidence_enhanced": "2026-01-13T05:35:37.863069"
     },
     {
       "entry_id": "TL_KETONI_009",
@@ -3542,39 +2922,7 @@
         "lex/entity_relation_framework_v48_ketoni_payout_integrated.scm"
       ],
       "evidence_strength": "conclusive",
-      "criminal_threshold": "foundational_event",
-      "key_actor_names": [
-        "Ketoni Investment Holdings",
-        "Faucitt Family Trust",
-        "Peter Andrew Faucitt",
-        "Daniel Jacobus Bantjies"
-      ]
+      "criminal_threshold": "foundational_event"
     }
-  ],
-  "strategic_implications": {
-    "jax_vindication": {
-      "insight": "Evidence shows Jax as fraud detector, not perpetrator",
-      "implication": "Supports defense narrative of Jax as victim",
-      "strategic_value": "Undermines prosecution claims of Jax involvement",
-      "action_required": "Emphasize Jax's role in confronting fraud (May 15, 2025)"
-    },
-    "pre_fraud_baseline": {
-      "insight": "Trial balance evidence provides pre-fraud baseline",
-      "implication": "Demonstrates systematic manipulation before 2025 events",
-      "strategic_value": "Shows pattern of behavior, not isolated incident",
-      "action_required": "Integrate 2020 evidence into current case narrative"
-    },
-    "rynette_continuity": {
-      "insight": "Rynette had financial access in 2020 and led 2025 cover-up",
-      "implication": "Establishes long-term involvement in financial manipulation",
-      "strategic_value": "Proves pattern of access and control over 5 years",
-      "action_required": "Map Rynette's access evolution from 2020 to 2025"
-    },
-    "bantjes_connection": {
-      "insight": "Danie Bantjes: 2020 accountant \u2192 2024 Trustee appointment",
-      "implication": "Links financial manipulation expertise to trust control",
-      "strategic_value": "Explains why Bantjes was chosen as Trustee",
-      "action_required": "Investigate Bantjes' role in both capacities"
-    }
-  }
+  ]
 }

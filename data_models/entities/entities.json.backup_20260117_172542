@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "version": "30.0_COMPREHENSIVE_REFINEMENT_2026_01_18",
+    "version": "28.0_KETONI_INTEGRATED_2026_01_17",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-17T17:26:32.884700",
-    "changes": "Comprehensive refinement of entities, relations, and timeline.",
-    "total_entities": 79,
-    "total_persons": 38,
-    "total_organizations": 41
+    "last_updated": "2026-01-17T05:32:35.723257",
+    "changes": "Integrated Ketoni ZAR 18.75M payout context as central financial motive",
+    "total_entities": 75,
+    "total_persons": 37,
+    "total_organizations": 38
   },
   "entities": {
     "persons": [
@@ -19,7 +19,7 @@
         "id_number": "820430 5708 18 5",
         "role": "primary_perpetrator",
         "agent_type": "antagonist",
-        "involvement_events": 12,
+        "involvement_events": 11,
         "primary_actions": [
           "trust_structure_manipulation",
           "unauthorized_transfers",
@@ -112,7 +112,7 @@
         "name": "Rynette Farrar",
         "role": "co_conspirator",
         "agent_type": "antagonist",
-        "involvement_events": 3,
+        "involvement_events": 8,
         "primary_actions": [
           "payment_redirection_scheme",
           "bank_account_change_letter",
@@ -162,9 +162,7 @@
           "JF05 - Sage accounting system control evidence",
           "JF07 - Payment redirection documentation",
           "JF08 - Email impersonation evidence",
-          "JF09 - Domain registration fraud evidence",
-          "Trial Balance Email 2020-08-13 - Financial access evidence",
-          "Trial Balance Email 2020-08-13 - Financial access evidence"
+          "JF09 - Domain registration fraud evidence"
         ],
         "ad_res_j7_references": [
           "SF2_Sage_Screenshots_Rynette_Control.md - Dual account access evidence",
@@ -198,13 +196,7 @@
           ],
           "connection_to_payout": "Facilitated control consolidation before May 2026"
         },
-        "trustee_status_clarification": "NOT A TRUSTEE - Bantjies is the Trustee appointed July 2024",
-        "trial_balance_2020_access": {
-          "date": "2020-08-13",
-          "evidence": "Email recipient for final trial balances",
-          "significance": "Establishes financial access 5 years before 2025 fraud",
-          "continuity_to_2025": "Same person led May 2025 cover-up"
-        }
+        "trustee_status_clarification": "NOT A TRUSTEE - Bantjies is the Trustee appointed July 2024"
       },
       {
         "entity_id": "PERSON_004",
@@ -212,7 +204,7 @@
         "id_number": "570607 0088 08 6",
         "role": "first_respondent",
         "agent_type": "victim",
-        "involvement_events": 8,
+        "involvement_events": 0,
         "primary_actions": [],
         "relationships": [
           "first_respondent_in_case",
@@ -260,7 +252,7 @@
         "id_number": "820775 5800 18 2",
         "role": "second_respondent",
         "agent_type": "victim",
-        "involvement_events": 15,
+        "involvement_events": 0,
         "primary_actions": [],
         "relationships": [
           "second_respondent_in_case",
@@ -343,7 +335,7 @@
         "name": "Danie Bantjies",
         "role": "accountant_and_unknown_trustee",
         "agent_type": "antagonist",
-        "involvement_events": 5,
+        "involvement_events": 3,
         "primary_actions": [
           "accounting_system_control_with_rynette",
           "audit_request_dismissal",
@@ -445,7 +437,7 @@
         "status": "deceased",
         "role": "estate_creditor",
         "agent_type": "victim",
-        "involvement_events": 0,
+        "involvement_events": 2,
         "relationships": [
           "estate_creditor_of_ORG_002",
           "email_account_subject_to_court_order"
@@ -481,7 +473,7 @@
         "name": "Gee",
         "role": "email_sender_witness",
         "agent_type": "neutral",
-        "involvement_events": 0,
+        "involvement_events": 2,
         "primary_actions": [
           "sent_domain_switch_instruction_email",
           "explained_instruction_to_jax"
@@ -511,7 +503,7 @@
         "name": "Bernadine Wright",
         "role": "financial_professional",
         "agent_type": "neutral",
-        "involvement_events": 0,
+        "involvement_events": 1,
         "relationships": [
           "recipient_of_trial_balance_email",
           "financial_statement_finalization_meeting"
@@ -531,33 +523,14 @@
           "JF08 - Evidence packages"
         ],
         "evidence_enhanced": "2026-01-09T05:36:07.294955",
-        "evidence_strength": "strong",
-        "trial_balance_evidence": {
-          "entity_id": "PERSON_TB_001",
-          "name": "Bernadine Wright",
-          "role": "financial_decision_maker",
-          "agent_type": "key_witness",
-          "email_domain": "regima.zone",
-          "significance": "Primary recipient of 2020 financial statements, key financial decision-maker",
-          "investigation_priority": "CRITICAL",
-          "evidence": [
-            "Email from Danie Bantjes 2020-08-13",
-            "Trial balance documentation"
-          ],
-          "investigation_leads": [
-            "Identify Bernadine Wright's role and authority",
-            "Determine current status and location",
-            "Subpoena for testimony regarding financial structures"
-          ]
-        },
-        "evidence_enhanced_timestamp": "2026-01-17T17:25:59.637660"
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_003",
         "name": "Adderory (Rynette's Son)",
         "role": "co_conspirator_family_member",
         "agent_type": "accomplice",
-        "involvement_events": 0,
+        "involvement_events": 5,
         "primary_actions": [
           "domain_registration_for_identity_fraud",
           "company_registration_for_competing_business",
@@ -605,7 +578,7 @@
         "name": "Chantal",
         "role": "estate_related_party",
         "agent_type": "neutral",
-        "involvement_events": 0,
+        "involvement_events": 2,
         "primary_actions": [
           "estate_finalization_communication"
         ],
@@ -636,7 +609,7 @@
         "name": "Jax",
         "role": "witness_and_victim",
         "agent_type": "neutral",
-        "involvement_events": 0,
+        "involvement_events": 2,
         "primary_actions": [
           "received_domain_switch_email",
           "confronted_rynette_about_missing_money"
@@ -687,15 +660,14 @@
           "1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md - Witness testimony"
         ],
         "evidence_enhanced": "2026-01-09T05:36:07.294990",
-        "evidence_strength": "strong",
-        "involvement_events": 0
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_013",
         "name": "Kayla Pretorius",
         "role": "estate_executor_email_account_holder",
         "agent_type": "neutral",
-        "involvement_events": 0,
+        "involvement_events": 2,
         "primary_actions": [
           "estate_executor",
           "email_account_subject_to_court_seizure"
@@ -734,7 +706,7 @@
         "date_of_birth": "1953/04/27",
         "role": "external_director",
         "agent_type": "unknown",
-        "involvement_events": 2,
+        "involvement_events": 0,
         "primary_actions": [],
         "relationships": [
           "director_of_ALOECO_SA",
@@ -769,7 +741,7 @@
         "date_of_birth": "1961/04/07",
         "role": "external_director",
         "agent_type": "unknown",
-        "involvement_events": 2,
+        "involvement_events": 0,
         "primary_actions": [],
         "relationships": [
           "director_of_ALOECO_SA",
@@ -797,7 +769,7 @@
         "role": "resigned_director",
         "agent_type": "neutral",
         "profession": "ATTORNEY",
-        "involvement_events": 1,
+        "involvement_events": 0,
         "primary_actions": [],
         "relationships": [
           "former_director_of_RWD_ZA"
@@ -913,7 +885,7 @@
         "id_number": "5011075078081",
         "role": "shelf_company_director",
         "agent_type": "neutral",
-        "involvement_events": 0,
+        "involvement_events": 2,
         "primary_actions": [
           "shelf_company_registration"
         ],
@@ -930,7 +902,7 @@
         "id_number": "9408190083085",
         "role": "director",
         "agent_type": "protagonist",
-        "involvement_events": 0,
+        "involvement_events": 1,
         "primary_actions": [
           "company_directorship"
         ],
@@ -947,7 +919,7 @@
         "id_number": "5502245180187",
         "role": "director",
         "agent_type": "neutral",
-        "involvement_events": 0,
+        "involvement_events": 1,
         "primary_actions": [
           "company_directorship"
         ],
@@ -1001,26 +973,7 @@
           "bookkeeper_regima_international"
         ],
         "source": "TheCosmeticsIndustry(2017-11-14).pdf",
-        "notes": "Bookkeeper for RegimA International Skin Treatments CC per Who Owns Whom report",
-        "trial_balance_evidence": {
-          "entity_id": "PERSON_TB_001",
-          "name": "Bernadine Wright",
-          "role": "financial_decision_maker",
-          "agent_type": "key_witness",
-          "email_domain": "regima.zone",
-          "significance": "Primary recipient of 2020 financial statements, key financial decision-maker",
-          "investigation_priority": "CRITICAL",
-          "evidence": [
-            "Email from Danie Bantjes 2020-08-13",
-            "Trial balance documentation"
-          ],
-          "investigation_leads": [
-            "Identify Bernadine Wright's role and authority",
-            "Determine current status and location",
-            "Subpoena for testimony regarding financial structures"
-          ]
-        },
-        "evidence_enhanced_timestamp": "2026-01-17T17:25:59.637668"
+        "notes": "Bookkeeper for RegimA International Skin Treatments CC per Who Owns Whom report"
       },
       {
         "entity_id": "PERSON_29",
@@ -1045,8 +998,7 @@
         "evidence_strength": "strong",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF16-DISTRIBUTORS/293338023-Director-BarendNortje.Pdf"
-        ],
-        "involvement_events": 0
+        ]
       },
       {
         "entity_id": "PERSON_30",
@@ -1067,8 +1019,7 @@
         "evidence_strength": "strong",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF16-DISTRIBUTORS/293338030-Director-SharonNortje.Pdf"
-        ],
-        "involvement_events": 0
+        ]
       },
       {
         "entity_id": "PERSON_31",
@@ -1099,8 +1050,7 @@
         "ad_res_j7_evidence": [
           "ANNEXURES/JF16-DISTRIBUTORS/293340515-Director-KarenAvnit.Pdf",
           "ANNEXURES/JF16-DISTRIBUTORS/293344692-Property-KarenAvnit.Pdf"
-        ],
-        "involvement_events": 0
+        ]
       },
       {
         "entity_id": "PERSON_32",
@@ -1121,8 +1071,7 @@
         "evidence_strength": "strong",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF16-DISTRIBUTORS/293342496-Director-ChaneTodd.Pdf"
-        ],
-        "involvement_events": 0
+        ]
       },
       {
         "entity_id": "PERSON_33",
@@ -1142,8 +1091,7 @@
         "evidence_strength": "moderate",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF16-DISTRIBUTORS/293342504-Director-KirbyRaeVanDerStelt.Pdf"
-        ],
-        "involvement_events": 0
+        ]
       },
       {
         "entity_id": "PERSON_34",
@@ -1164,8 +1112,7 @@
         "evidence_strength": "strong",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF16-DISTRIBUTORS/293343017-Director-DanteBertani.Pdf"
-        ],
-        "involvement_events": 0
+        ]
       },
       {
         "entity_id": "PERSON_35",
@@ -1184,8 +1131,7 @@
         "evidence_strength": "moderate",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF16-DISTRIBUTORS/293332765-Company-GeorgeEndermologieClinic.Pdf"
-        ],
-        "involvement_events": 0
+        ]
       },
       {
         "entity_id": "PERSON_36",
@@ -1206,15 +1152,14 @@
         "evidence_strength": "moderate",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF16-DISTRIBUTORS/293338928-Company-DeFayFundManagement.Pdf"
-        ],
-        "involvement_events": 0
+        ]
       },
       {
         "entity_id": "PERSON_DERRICK_001",
         "name": "Kevin Michael Derrick",
         "role": "ketoni_director",
         "agent_type": "neutral",
-        "involvement_events": 2,
+        "involvement_events": 0,
         "primary_actions": [],
         "relationships": [
           "director_of_ketoni",
@@ -1230,54 +1175,6 @@
           "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
           "lex/agent_based_model_v48_ketoni_integrated.scm"
         ]
-      },
-      {
-        "entity_id": "PERSON_TB_002",
-        "name": "Danie Bantjes",
-        "role": "external_accountant",
-        "agent_type": "key_witness",
-        "significance": "Prepared final trial balances and AJEs, 6-month delay in finalization",
-        "investigation_priority": "HIGH",
-        "evidence": [
-          "Email 2020-08-13",
-          "Trial balance AJE documentation"
-        ],
-        "red_flags": [
-          "6-month delay between year-end (Feb 2020) and finalization (Aug 2020)",
-          "Mentions 'disclosure changes promulgated during the past year'",
-          "Coordinates meeting with Bernadine Wright for sign-off"
-        ],
-        "investigation_leads": [
-          "Why 6-month delay in financial statement finalization?",
-          "What disclosure changes were implemented?",
-          "Subpoena Danie Bantjes records and communications"
-        ],
-        "trustee_connection": "Later appointed as Trustee by Rynette (July 2024, T-10 months before Ketoni payout)",
-        "trial_balance_evidence": {
-          "entity_id": "PERSON_TB_002",
-          "name": "Danie Bantjes",
-          "role": "external_accountant",
-          "agent_type": "key_witness",
-          "significance": "Prepared final trial balances and AJEs, 6-month delay in finalization",
-          "investigation_priority": "HIGH",
-          "evidence": [
-            "Email 2020-08-13",
-            "Trial balance AJE documentation"
-          ],
-          "red_flags": [
-            "6-month delay between year-end (Feb 2020) and finalization (Aug 2020)",
-            "Mentions 'disclosure changes promulgated during the past year'",
-            "Coordinates meeting with Bernadine Wright for sign-off"
-          ],
-          "investigation_leads": [
-            "Why 6-month delay in financial statement finalization?",
-            "What disclosure changes were implemented?",
-            "Subpoena Danie Bantjes records and communications"
-          ],
-          "trustee_connection": "Later appointed as Trustee by Rynette (July 2024, T-10 months before Ketoni payout)"
-        },
-        "evidence_enhanced_timestamp": "2026-01-17T17:25:59.637679",
-        "involvement_events": 1
       }
     ],
     "organizations": [
@@ -2364,41 +2261,6 @@
         ],
         "evidence_strength": "conclusive",
         "criminal_threshold": "95%_exceeded"
-      },
-      {
-        "entity_id": "ORG_TB_001",
-        "name": "DERM",
-        "full_name": "DERM (Entity)",
-        "entity_type": "missing_entity",
-        "significance": "Operates RSA Shopify store, costs dumped on RWW",
-        "investigation_priority": "HIGH",
-        "evidence": [
-          "Knowledge base references",
-          "Cost allocation patterns"
-        ],
-        "investigation_need": "Full financial analysis of DERM entity required"
-      },
-      {
-        "entity_id": "ORG_TB_002",
-        "name": "RSA",
-        "full_name": "RegimA South Africa",
-        "entity_type": "operating_entity",
-        "significance": "Purchases from RST at 62% COS, separate from RWW",
-        "investigation_priority": "MEDIUM",
-        "evidence": [
-          "Cost of sales structure analysis"
-        ]
-      },
-      {
-        "entity_id": "ORG_TB_003",
-        "name": "REU",
-        "full_name": "RegimA Europe",
-        "entity_type": "international_entity",
-        "significance": "Smallest Shopify payments, part of payment hierarchy",
-        "investigation_priority": "MEDIUM",
-        "evidence": [
-          "Shopify payment hierarchy analysis"
-        ]
       }
     ],
     "platforms": [

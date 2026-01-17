@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "30.0_COMPREHENSIVE_REFINEMENT_2026_01_18",
+    "version": "23.0_KETONI_INTEGRATED_2026_01_17",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-01-17T17:26:32.885487",
-    "changes": "Comprehensive refinement of relations.",
+    "last_updated": "2026-01-17T05:34:23.731009",
+    "changes": "Integrated Ketoni ZAR 18.75M payout relations and context",
     "total_relations": 117
   },
   "relations": {
@@ -2426,131 +2426,6 @@
         ],
         "evidence_strength": "conclusive"
       }
-    ],
-    "trial_balance_relations": [
-      {
-        "relation_id": "REL_TB_001",
-        "type": "financial_control",
-        "source_entity": "PERSON_TB_001",
-        "target_entity": "ORG_002",
-        "description": "Bernadine Wright as financial decision-maker for RST",
-        "evidence": [
-          "2020-08-13 email coordination"
-        ],
-        "significance": "Establishes financial authority structure"
-      },
-      {
-        "relation_id": "REL_TB_002",
-        "type": "inter_company_debt",
-        "source_entity": "ORG_003",
-        "target_entity": "ORG_002",
-        "description": "SLG owes RST R12,971,390.13 (87% of SLG annual sales)",
-        "evidence": [
-          "SL-TRIALBALANCE2020.xlsx"
-        ],
-        "significance": "Creates financial dependency and control mechanism",
-        "financial_impact": 12971390.13
-      },
-      {
-        "relation_id": "REL_TB_003",
-        "type": "cost_dumping",
-        "source_entity": "ORG_002",
-        "target_entity": "ORG_001",
-        "description": "RST dumps production costs on RWW via R750K loan mechanism",
-        "evidence": [
-          "REG-TRIALBALANCE.xlsx AJEs"
-        ],
-        "significance": "Cost dumping mechanism documented",
-        "financial_impact": 750000.0
-      },
-      {
-        "relation_id": "REL_TB_004",
-        "type": "interest_extraction",
-        "source_entity": "ORG_003",
-        "target_entity": "ORG_002",
-        "description": "SLG pays 3.19% interest to RST (R414K annually on R13M debt)",
-        "evidence": [
-          "SL-TRIALBALANCE2020.xlsx"
-        ],
-        "significance": "Profit shifting via artificially low interest rate",
-        "financial_impact": 414334.09
-      },
-      {
-        "relation_id": "REL_TB_005",
-        "type": "financial_access_continuity",
-        "source_entity": "PERSON_002",
-        "target_entity": "ORG_001",
-        "description": "Rynette Farrar had financial access in 2020 (email recipient) and led 2025 cover-up",
-        "evidence": [
-          "2020-08-13 email",
-          "2025 fraud timeline"
-        ],
-        "significance": "CRITICAL - Establishes continuity of access from 2020 to 2025 fraud",
-        "timeline_span": "2020-08-13 to 2025-05-29"
-      },
-      {
-        "relation_id": "REL_TB_006",
-        "type": "trustee_appointment",
-        "source_entity": "PERSON_002",
-        "target_entity": "PERSON_TB_002",
-        "description": "Rynette appointed Danie Bantjes as Trustee in July 2024 (T-10 months before Ketoni payout)",
-        "evidence": [
-          "Trust documentation",
-          "Ketoni timeline"
-        ],
-        "significance": "CRITICAL - Links 2020 accountant to 2024 trust control consolidation"
-      }
     ]
-  },
-  "financial_manipulation_patterns": {
-    "year_end_manipulation": {
-      "pattern_type": "Year-end Manipulation",
-      "description": "Critical adjustments made in final days of financial year",
-      "evidence": "Feb 20-28, 2020: 8-day window for major inter-company adjustments",
-      "significance": "Suggests deliberate timing to avoid scrutiny"
-    },
-    "cover_up_acceleration": {
-      "pattern_type": "Cover-up Acceleration",
-      "description": "Systematic evidence destruction following confrontation",
-      "evidence": "May 15-29, 2025: 14-day evidence destruction sequence",
-      "significance": "Indicates pre-planned contingency for discovery"
-    },
-    "suspicious_interest_rate": {
-      "pattern_type": "Suspicious Interest Rate",
-      "description": "SLG pays 3.19% interest to RST",
-      "analysis": "Rate appears artificially low for inter-company loan",
-      "implication": "Possible benefit transfer to RST at SLG expense"
-    },
-    "coordinated_cost_reallocations": {
-      "pattern_type": "Coordinated Cost Reallocations",
-      "description": "Multiple entities reallocate admin fees to production costs simultaneously",
-      "evidence": "RWW: R810K, SLG: R252K on same date (2020-02-20)",
-      "implication": "Coordinated effort to obscure true cost structures"
-    },
-    "excessive_capital_extraction": {
-      "pattern_type": "Excessive Capital Extraction",
-      "description": "Villa Via members loan is 5.2x annual rental income",
-      "analysis": "Suggests systematic capital extraction over multiple years",
-      "implication": "Villa Via used as vehicle for wealth extraction"
-    }
-  },
-  "control_mechanisms": {
-    "centralized_bookkeeping": {
-      "mechanism": "Centralized Bookkeeping Control",
-      "controller": "Co-director's personal bookkeeper",
-      "scope": "All entity financial records",
-      "vulnerability": "Single point of control enables manipulation"
-    },
-    "staggered_year_ends": {
-      "mechanism": "Staggered Financial Year-Ends",
-      "entities": "RST/SLG: Feb 28, Villa Via: Apr 30",
-      "vulnerability": "Creates reporting gaps and complexity",
-      "manipulation_potential": "Allows timing of transactions between periods"
-    },
-    "inter_company_debt_leverage": {
-      "mechanism": "Inter-company Debt Leverage",
-      "description": "SLG owes RST R13M (87% of SLG annual sales)",
-      "control_effect": "Creates financial dependency and control"
-    }
   }
 }

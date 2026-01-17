@@ -22,6 +22,20 @@ This financial motive explains:
 
 ---
 
+
+## 📉 2020 Trial Balance Analysis: The Blueprint for Fraud
+
+The newly integrated trial balance evidence from 2019-2020 reveals a sophisticated blueprint for financial manipulation that predates the 2025 fraud events. This evidence is critical in establishing a long-standing pattern of behavior.
+
+**Key Findings:**
+- **Systematic Profit Shifting**: Profits were artificially concentrated in RegimA Skin Treatments (RST) through mechanisms like inter-company debt and interest payments.
+- **Coordinated Cost Dumping**: Expenses were systematically dumped onto RegimA Worldwide Distribution (RWW) to obscure true profitability.
+- **Capital Extraction**: Villa Via was used as a vehicle for capital extraction through large, unexplained members' loans.
+- **Centralized Control**: A single bookkeeper, controlled by the co-director, managed all entity accounts, enabling centralized manipulation.
+
+**[→ View Detailed 2020 Financial Analysis](./2020-financial-analysis.md)**
+
+---
 ## 📊 Quick Navigation by Application
 
 ### Application 1: Civil & Criminal Actions

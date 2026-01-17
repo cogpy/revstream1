@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "37.0_TRIAL_BALANCE_INTEGRATED_2026_01_18",
+    "version": "3.0",
     "created_date": "2025-11-10",
     "description": "Event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 39,
     "extended_evidence": "incorporated_from_knowledge_base",
-    "last_updated": "2026-01-17T17:25:59.644497",
-    "changes": "Integrated trial balance evidence - financial manipulation events from 2020"
+    "last_updated": "2025-11-11",
+    "changes": "Added 13 historical events (2017-2023), added 3 critical 2025 events (Bantjies audit dismissal, domain switch email, trial balance context)"
   },
   "events": [
     {
@@ -1071,174 +1071,6 @@
       "pattern": "consolidation_phase",
       "critical": true,
       "additional_notes": "Gee explained to Jax in August about this instruction, direct witness to coordinated customer diversion"
-    },
-    {
-      "event_id": "TL_TB_001",
-      "date": "2019-03-01",
-      "event_type": "financial_year_start",
-      "title": "RST/SLG Financial Year Commencement",
-      "description": "Beginning of financial year for RegimA Skin Treatments (RST) and Strategic Logistics (SLG). This marks the start of the period covered by trial balance evidence showing systematic financial manipulation.",
-      "key_actors": [
-        "RegimA Skin Treatments",
-        "Strategic Logistics"
-      ],
-      "entities_involved": [
-        "ORG_002",
-        "ORG_003"
-      ],
-      "evidence": [
-        "REG-TRIALBALANCE.xlsx",
-        "SL-TRIALBALANCE2020.xlsx"
-      ],
-      "significance": "Beginning of documented manipulation period",
-      "burden_of_proof": "verified_financial_record",
-      "criminal_threshold": "supporting_evidence",
-      "financial_impact": {},
-      "source": "Trial Balance Evidence Package August 2020",
-      "added_date": "2026-01-17T17:25:59.644504"
-    },
-    {
-      "event_id": "TL_TB_002",
-      "date": "2019-05-01",
-      "event_type": "financial_year_start",
-      "title": "Villa Via Financial Year Commencement",
-      "description": "Beginning of financial year for Villa Via. Different year-end from RST/SLG creates complexity in group reporting and opportunities for manipulation.",
-      "key_actors": [
-        "Villa Via"
-      ],
-      "entities_involved": [
-        "ORG_VV"
-      ],
-      "evidence": [
-        "VV-TRIALBALANCEAPR20202.xlsx"
-      ],
-      "significance": "Staggered year-end enables timing manipulation",
-      "burden_of_proof": "verified_financial_record",
-      "criminal_threshold": "",
-      "financial_impact": {},
-      "source": "Trial Balance Evidence Package August 2020",
-      "added_date": "2026-01-17T17:25:59.644521"
-    },
-    {
-      "event_id": "TL_TB_003",
-      "date": "2020-02-20",
-      "event_type": "financial_manipulation",
-      "title": "Coordinated Inter-Company Cost Reallocations",
-      "description": "Multiple adjusting journal entries across entities on same date: RWW R500K stock provision write-back, RWW R810K admin fee reallocation to production costs, SLG R252K admin fee reallocation to production costs, SLG R80K production cost transfer to RST. Coordinated timing suggests deliberate manipulation.",
-      "key_actors": [
-        "Co-director's bookkeeper",
-        "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "ORG_001",
-        "ORG_003",
-        "ORG_002"
-      ],
-      "evidence": [
-        "WW-TrialBalanceFEB20.xlsx AJEs",
-        "SL-TRIALBALANCE2020.xlsx AJEs"
-      ],
-      "significance": "CRITICAL - Coordinated manipulation across entities",
-      "burden_of_proof": "verified_financial_record",
-      "criminal_threshold": "pattern_evidence",
-      "financial_impact": {
-        "rww_stock_write_back": 500000.0,
-        "rww_admin_reallocation": 810097.7,
-        "slg_admin_reallocation": 252041.73,
-        "slg_production_transfer": 80000.0
-      },
-      "source": "Trial Balance Evidence Package August 2020",
-      "added_date": "2026-01-17T17:25:59.644557"
-    },
-    {
-      "event_id": "TL_TB_004",
-      "date": "2020-02-28",
-      "event_type": "financial_manipulation",
-      "title": "Year-End Inter-Company Interest and Loan Transactions",
-      "description": "Critical year-end adjustments: SLG pays R414,334.09 interest to RST per loan agreement (3.19% rate on R13M debt), RST advances R750K loan to RWW for production costs, Directors' fee adjustment of R784K in RST. These transactions demonstrate profit shifting from SLG to RST.",
-      "key_actors": [
-        "Peter Andrew Faucitt",
-        "Co-director's bookkeeper"
-      ],
-      "entities_involved": [
-        "ORG_002",
-        "ORG_003",
-        "ORG_001"
-      ],
-      "evidence": [
-        "REG-TRIALBALANCE.xlsx",
-        "SL-TRIALBALANCE2020.xlsx"
-      ],
-      "significance": "CRITICAL - Profit extraction mechanism documented",
-      "burden_of_proof": "verified_financial_record",
-      "criminal_threshold": "pattern_evidence",
-      "financial_impact": {
-        "slg_to_rst_interest": 414334.09,
-        "rst_to_rww_loan": 750000.0,
-        "directors_fee_adjustment": 784000.0,
-        "slg_debt_to_rst": 12971390.13
-      },
-      "source": "Trial Balance Evidence Package August 2020",
-      "added_date": "2026-01-17T17:25:59.644567"
-    },
-    {
-      "event_id": "TL_TB_005",
-      "date": "2020-04-30",
-      "event_type": "financial_year_end",
-      "title": "Villa Via Year-End - Capital Extraction Evidence",
-      "description": "Villa Via financial year-end showing R3.7M profit from R4.4M rental income, while maintaining R22.8M members loan account. Members loan is 5.2x annual rental income, indicating systematic capital extraction over multiple years.",
-      "key_actors": [
-        "Villa Via shareholders"
-      ],
-      "entities_involved": [
-        "ORG_VV"
-      ],
-      "evidence": [
-        "VV-TRIALBALANCEAPR20202.xlsx"
-      ],
-      "significance": "Capital extraction vehicle documented",
-      "burden_of_proof": "verified_financial_record",
-      "criminal_threshold": "supporting_evidence",
-      "financial_impact": {
-        "monthly_rental_income": 4384701.36,
-        "net_profit": 3727475.5,
-        "members_loan_account": 22806538.74,
-        "extraction_ratio": "5.2x annual income"
-      },
-      "source": "Trial Balance Evidence Package August 2020",
-      "added_date": "2026-01-17T17:25:59.644574"
-    },
-    {
-      "event_id": "TL_TB_006",
-      "date": "2020-08-13",
-      "event_type": "communication",
-      "title": "Danie Bantjes Email - Financial Statement Finalization",
-      "description": "Email from Danie Bantjes to Bernadine Wright, Jacqui Faucitt (Jax), Peter Andrew Faucitt, Rynette Farrar, and Daniel Faucitt with final trial balances. 6-month delay from year-end suggests complex manipulation requiring extended finalization. Meeting scheduled with Bernadine Wright for sign-off.",
-      "key_actors": [
-        "Danie Bantjes",
-        "Bernadine Wright",
-        "Jacqui Faucitt",
-        "Peter Andrew Faucitt",
-        "Rynette Farrar",
-        "Daniel Faucitt"
-      ],
-      "entities_involved": [
-        "PERSON_TB_002",
-        "PERSON_TB_001",
-        "PERSON_004",
-        "PERSON_001",
-        "PERSON_002",
-        "PERSON_005"
-      ],
-      "evidence": [
-        "email-body.html"
-      ],
-      "significance": "CRITICAL - Links Rynette to 2020 financial access, establishes Bernadine Wright as key decision-maker",
-      "burden_of_proof": "verified_communication",
-      "criminal_threshold": "pattern_evidence",
-      "financial_impact": {},
-      "source": "Trial Balance Evidence Package August 2020",
-      "added_date": "2026-01-17T17:25:59.644582"
     }
   ],
   "event_categories": {
