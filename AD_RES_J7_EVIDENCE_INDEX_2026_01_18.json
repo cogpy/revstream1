@@ -1,0 +1,1395 @@
+{
+  "metadata": {
+    "scan_date": "2026-01-18T05:36:26.459429",
+    "total_items": 114,
+    "categories": [
+      "ANNEXURES",
+      "Supporting_Files",
+      "Evidence",
+      "Legal",
+      "Other"
+    ]
+  },
+  "evidence_map": {
+    "ANNEXURES": {
+      "ANNEXURES_INDEX.md": {
+        "path": "ANNEXURES/ANNEXURES_INDEX.md",
+        "type": "file",
+        "size": 19666
+      },
+      "JF01": {
+        "path": "ANNEXURES/JF01",
+        "type": "directory",
+        "file_count": 2
+      },
+      "JF02": {
+        "path": "ANNEXURES/JF02",
+        "type": "directory",
+        "file_count": 3
+      },
+      "JF03": {
+        "path": "ANNEXURES/JF03",
+        "type": "directory",
+        "file_count": 5
+      },
+      "JF04": {
+        "path": "ANNEXURES/JF04",
+        "type": "directory",
+        "file_count": 6
+      },
+      "JF05": {
+        "path": "ANNEXURES/JF05",
+        "type": "directory",
+        "file_count": 7
+      },
+      "JF06": {
+        "path": "ANNEXURES/JF06",
+        "type": "directory",
+        "file_count": 5
+      },
+      "JF07": {
+        "path": "ANNEXURES/JF07",
+        "type": "directory",
+        "file_count": 186
+      },
+      "JF08": {
+        "path": "ANNEXURES/JF08",
+        "type": "directory",
+        "file_count": 43
+      },
+      "JF09": {
+        "path": "ANNEXURES/JF09",
+        "type": "directory",
+        "file_count": 8
+      },
+      "JF10": {
+        "path": "ANNEXURES/JF10",
+        "type": "directory",
+        "file_count": 3
+      },
+      "JF11": {
+        "path": "ANNEXURES/JF11",
+        "type": "directory",
+        "file_count": 1
+      },
+      "JF12": {
+        "path": "ANNEXURES/JF12",
+        "type": "directory",
+        "file_count": 1
+      },
+      "JF13": {
+        "path": "ANNEXURES/JF13",
+        "type": "directory",
+        "file_count": 3
+      },
+      "JF14-CIPC-2021": {
+        "path": "ANNEXURES/JF14-CIPC-2021",
+        "type": "directory",
+        "file_count": 19
+      },
+      "JF15-CIPC-BATCH2-2021": {
+        "path": "ANNEXURES/JF15-CIPC-BATCH2-2021",
+        "type": "directory",
+        "file_count": 19
+      },
+      "JF16-DISTRIBUTORS": {
+        "path": "ANNEXURES/JF16-DISTRIBUTORS",
+        "type": "directory",
+        "file_count": 28
+      },
+      "SF1_Bantjies_Debt_Documentation.md": {
+        "path": "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+        "type": "file",
+        "size": 7005
+      },
+      "SF2_Sage_Screenshots_Rynette_Control.md": {
+        "path": "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md",
+        "type": "file",
+        "size": 10114
+      },
+      "SF3_Strategic_Logistics_Stock_Adjustment.md": {
+        "path": "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
+        "type": "file",
+        "size": 10633
+      },
+      "SF4_SARS_Audit_Email.md": {
+        "path": "ANNEXURES/SF4_SARS_Audit_Email.md",
+        "type": "file",
+        "size": 10935
+      },
+      "SF5_Adderory_Company_Registration_Stock_Supply.md": {
+        "path": "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md",
+        "type": "file",
+        "size": 11455
+      },
+      "SF6_Kayla_Pretorius_Estate_Documentation.md": {
+        "path": "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
+        "type": "file",
+        "size": 11722
+      },
+      "SF7_Court_Order_Kayla_Email_Seizure.md": {
+        "path": "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md",
+        "type": "file",
+        "size": 10144
+      },
+      "SF8_Linda_Employment_Records.md": {
+        "path": "ANNEXURES/SF8_Linda_Employment_Records.md",
+        "type": "file",
+        "size": 11697
+      }
+    },
+    "Supporting_Files": {
+      "SF1_Bantjies_Debt_Documentation.md": {
+        "path": "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+        "type": "file",
+        "size": 7005
+      },
+      "SF2_Sage_Screenshots_Rynette_Control.md": {
+        "path": "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md",
+        "type": "file",
+        "size": 10114
+      },
+      "SF3_Strategic_Logistics_Stock_Adjustment.md": {
+        "path": "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
+        "type": "file",
+        "size": 10633
+      },
+      "SF4_SARS_Audit_Email.md": {
+        "path": "ANNEXURES/SF4_SARS_Audit_Email.md",
+        "type": "file",
+        "size": 10935
+      },
+      "SF5_Adderory_Company_Registration_Stock_Supply.md": {
+        "path": "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md",
+        "type": "file",
+        "size": 11455
+      },
+      "SF6_Kayla_Pretorius_Estate_Documentation.md": {
+        "path": "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
+        "type": "file",
+        "size": 11722
+      },
+      "SF7_Court_Order_Kayla_Email_Seizure.md": {
+        "path": "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md",
+        "type": "file",
+        "size": 10144
+      },
+      "SF8_Linda_Employment_Records.md": {
+        "path": "ANNEXURES/SF8_Linda_Employment_Records.md",
+        "type": "file",
+        "size": 11697
+      },
+      "SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf": {
+        "path": "evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf",
+        "type": "file",
+        "size": 3328987
+      },
+      "SF3_STRATEGIC_LOGISTICS_WITH_EMAILS.pdf": {
+        "path": "evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF3_STRATEGIC_LOGISTICS_WITH_EMAILS.pdf",
+        "type": "file",
+        "size": 718578
+      },
+      "SF4_SARS_AUDIT_WITH_EMAILS.pdf": {
+        "path": "evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF4_SARS_AUDIT_WITH_EMAILS.pdf",
+        "type": "file",
+        "size": 914764
+      },
+      "SF5_ADDERORY_DOMAIN_WITH_EMAILS.pdf": {
+        "path": "evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF5_ADDERORY_DOMAIN_WITH_EMAILS.pdf",
+        "type": "file",
+        "size": 1103444
+      },
+      "SF6_KAYLA_ESTATE_WITH_EMAILS.pdf": {
+        "path": "evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF6_KAYLA_ESTATE_WITH_EMAILS.pdf",
+        "type": "file",
+        "size": 497735
+      },
+      "SF8_LINDA_EMPLOYMENT_WITH_EMAILS.pdf": {
+        "path": "evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF8_LINDA_EMPLOYMENT_WITH_EMAILS.pdf",
+        "type": "file",
+        "size": 535736
+      }
+    },
+    "Evidence": {
+      "(17)DanieBantjes_LinkedIn.md": {
+        "path": "evidence/(17)DanieBantjes_LinkedIn.md",
+        "type": "file",
+        "size": 10082
+      },
+      "CONSPIRACY_EVIDENCE_CROSS_REFERENCE_R18_75M_TIMELINE.md": {
+        "path": "evidence/CONSPIRACY_EVIDENCE_CROSS_REFERENCE_R18_75M_TIMELINE.md",
+        "type": "file",
+        "size": 25527
+      },
+      "CRITICAL_BANTJIES_TRUSTEE_FRAUD_DISCLOSURE_TIMELINE.md": {
+        "path": "evidence/CRITICAL_BANTJIES_TRUSTEE_FRAUD_DISCLOSURE_TIMELINE.md",
+        "type": "file",
+        "size": 5075
+      },
+      "DANIE_BANTJES_GEORGE_GROUP_CONNECTION.md": {
+        "path": "evidence/DANIE_BANTJES_GEORGE_GROUP_CONNECTION.md",
+        "type": "file",
+        "size": 3579
+      },
+      "DANIE_BANTJES_LINKEDIN_PROFILE_ANALYSIS.md": {
+        "path": "evidence/DANIE_BANTJES_LINKEDIN_PROFILE_ANALYSIS.md",
+        "type": "file",
+        "size": 7441
+      },
+      "EVIDENCE_LINKAGE_QUICK_REFERENCE.md": {
+        "path": "evidence/EVIDENCE_LINKAGE_QUICK_REFERENCE.md",
+        "type": "file",
+        "size": 14678
+      },
+      "EVIDENCE_PACKAGE_2025-11-17_README.md": {
+        "path": "evidence/EVIDENCE_PACKAGE_2025-11-17_README.md",
+        "type": "file",
+        "size": 21101
+      },
+      "EVIDENCE_PRESENTATION_INTEGRATION_GUIDE.md": {
+        "path": "evidence/EVIDENCE_PRESENTATION_INTEGRATION_GUIDE.md",
+        "type": "file",
+        "size": 14733
+      },
+      "EVIDENCE_PRESENTATION_STRATEGY_FOR_COURT.md": {
+        "path": "evidence/EVIDENCE_PRESENTATION_STRATEGY_FOR_COURT.md",
+        "type": "file",
+        "size": 37553
+      },
+      "EVIDENCE_UPDATE_2025-11-17_BATCH2.md": {
+        "path": "evidence/EVIDENCE_UPDATE_2025-11-17_BATCH2.md",
+        "type": "file",
+        "size": 17563
+      },
+      "EVIDENCE_UPDATE_2025-11-17_BATCH3.md": {
+        "path": "evidence/EVIDENCE_UPDATE_2025-11-17_BATCH3.md",
+        "type": "file",
+        "size": 23312
+      },
+      "FAUCITT_FAMILY_TRUST_MASTERS_OFFICE_RECORDS.md": {
+        "path": "evidence/FAUCITT_FAMILY_TRUST_MASTERS_OFFICE_RECORDS.md",
+        "type": "file",
+        "size": 4585
+      },
+      "FFT_KETONI_INVESTMENT_TIMELINE_V48.md": {
+        "path": "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V48.md",
+        "type": "file",
+        "size": 8406
+      },
+      "FFT_KETONI_INVESTMENT_TIMELINE_V49.md": {
+        "path": "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
+        "type": "file",
+        "size": 20869
+      },
+      "IT_EXPENSES_BREAKDOWN.json": {
+        "path": "evidence/IT_EXPENSES_BREAKDOWN.json",
+        "type": "file",
+        "size": 15490
+      },
+      "IT_EXPENSES_BREAKDOWN.md": {
+        "path": "evidence/IT_EXPENSES_BREAKDOWN.md",
+        "type": "file",
+        "size": 14108
+      },
+      "IT_EXPENSES_COMPLETION_REPORT.md": {
+        "path": "evidence/IT_EXPENSES_COMPLETION_REPORT.md",
+        "type": "file",
+        "size": 7839
+      },
+      "IT_EXPENSES_SUMMARY.md": {
+        "path": "evidence/IT_EXPENSES_SUMMARY.md",
+        "type": "file",
+        "size": 3310
+      },
+      "IT_EXPENSE_SUMMARY.md": {
+        "path": "evidence/IT_EXPENSE_SUMMARY.md",
+        "type": "file",
+        "size": 1920
+      },
+      "KETONI_CIPC_SEARCH_RESULTS.md": {
+        "path": "evidence/KETONI_CIPC_SEARCH_RESULTS.md",
+        "type": "file",
+        "size": 4664
+      },
+      "KETONI_INVESTMENT_HOLDINGS_SHARE_CERTIFICATE_ANALYSIS.md": {
+        "path": "evidence/KETONI_INVESTMENT_HOLDINGS_SHARE_CERTIFICATE_ANALYSIS.md",
+        "type": "file",
+        "size": 6652
+      },
+      "KETONI_TRUST_MAY2026_PAYOUT_ANALYSIS.md": {
+        "path": "evidence/KETONI_TRUST_MAY2026_PAYOUT_ANALYSIS.md",
+        "type": "file",
+        "size": 20557
+      },
+      "KevinMichaelDerrick_B2BHint.md": {
+        "path": "evidence/KevinMichaelDerrick_B2BHint.md",
+        "type": "file",
+        "size": 3361
+      },
+      "MASTER_TIMELINE_2013_2025_COMPLETE.md": {
+        "path": "evidence/MASTER_TIMELINE_2013_2025_COMPLETE.md",
+        "type": "file",
+        "size": 17389
+      },
+      "R18_75M_KETONI_PAYOUT_CENTRAL_MOTIVE_ANALYSIS.md": {
+        "path": "evidence/R18_75M_KETONI_PAYOUT_CENTRAL_MOTIVE_ANALYSIS.md",
+        "type": "file",
+        "size": 13255
+      },
+      "README.json": {
+        "path": "evidence/README.json",
+        "type": "file",
+        "size": 562
+      },
+      "README.md": {
+        "path": "evidence/README.md",
+        "type": "file",
+        "size": 3074
+      },
+      "REVENUE_HIJACKING_NEW_INSIGHTS_V50.md": {
+        "path": "evidence/REVENUE_HIJACKING_NEW_INSIGHTS_V50.md",
+        "type": "file",
+        "size": 15995
+      },
+      "VERIFIED_EVENT_TIMELINE_V47.md": {
+        "path": "evidence/VERIFIED_EVENT_TIMELINE_V47.md",
+        "type": "file",
+        "size": 7480
+      },
+      "VERIFIED_TRUST_DATA_FROM_J246.md": {
+        "path": "evidence/VERIFIED_TRUST_DATA_FROM_J246.md",
+        "type": "file",
+        "size": 4065
+      },
+      "VISUAL_EVIDENCE_FLOW_DIAGRAM.md": {
+        "path": "evidence/VISUAL_EVIDENCE_FLOW_DIAGRAM.md",
+        "type": "file",
+        "size": 37623
+      },
+      "bantjies_investment_payout_forecast.md": {
+        "path": "evidence/bantjies_investment_payout_forecast.md",
+        "type": "file",
+        "size": 4567
+      },
+      "bantjies_investment_payout_forecast.txt": {
+        "path": "evidence/bantjies_investment_payout_forecast.txt",
+        "type": "file",
+        "size": 2893
+      }
+    },
+    "Legal": {
+      "1-CIVIL-RESPONSE/ANNEXURE_INDEX.md": {
+        "path": "1-CIVIL-RESPONSE/ANNEXURE_INDEX.md",
+        "type": "file",
+        "size": 7657
+      },
+      "1-CIVIL-RESPONSE/FILING_CHECKLIST.md": {
+        "path": "1-CIVIL-RESPONSE/FILING_CHECKLIST.md",
+        "type": "file",
+        "size": 11229
+      },
+      "1-CIVIL-RESPONSE/IMPLEMENTATION_COMPLETE.md": {
+        "path": "1-CIVIL-RESPONSE/IMPLEMENTATION_COMPLETE.md",
+        "type": "file",
+        "size": 9957
+      },
+      "1-CIVIL-RESPONSE/JAX_OPTIMAL_RESPONSE_FRAMEWORK.md": {
+        "path": "1-CIVIL-RESPONSE/JAX_OPTIMAL_RESPONSE_FRAMEWORK.md",
+        "type": "file",
+        "size": 26031
+      },
+      "1-CIVIL-RESPONSE/JAX_RELEVANCE_REALIZATION_ENNEAD.md": {
+        "path": "1-CIVIL-RESPONSE/JAX_RELEVANCE_REALIZATION_ENNEAD.md",
+        "type": "file",
+        "size": 39704
+      },
+      "1-CIVIL-RESPONSE/README.md": {
+        "path": "1-CIVIL-RESPONSE/README.md",
+        "type": "file",
+        "size": 4939
+      },
+      "1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md": {
+        "path": "1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md",
+        "type": "file",
+        "size": 30657
+      },
+      "1-CIVIL-RESPONSE/RESCISSION_APPLICATION_README.md": {
+        "path": "1-CIVIL-RESPONSE/RESCISSION_APPLICATION_README.md",
+        "type": "file",
+        "size": 14288
+      },
+      "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md": {
+        "path": "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md",
+        "type": "file",
+        "size": 31208
+      },
+      "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md": {
+        "path": "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md",
+        "type": "file",
+        "size": 25040
+      },
+      "1-CIVIL-RESPONSE/agent-mapping.md": {
+        "path": "1-CIVIL-RESPONSE/agent-mapping.md",
+        "type": "file",
+        "size": 23170
+      },
+      "1-CIVIL-RESPONSE/arena-mapping.md": {
+        "path": "1-CIVIL-RESPONSE/arena-mapping.md",
+        "type": "file",
+        "size": 11836
+      },
+      "1-CIVIL-RESPONSE/DJF.md": {
+        "path": "1-CIVIL-RESPONSE/annexures/DJF.md",
+        "type": "file",
+        "size": 29160
+      },
+      "1-CIVIL-RESPONSE/JF-CAUSATION.md": {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-CAUSATION.md",
+        "type": "file",
+        "size": 17501
+      },
+      "1-CIVIL-RESPONSE/JF-DAN-WITNESS.md": {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-DAN-WITNESS.md",
+        "type": "file",
+        "size": 30002
+      },
+      "1-CIVIL-RESPONSE/JF-DANIEL-BANK-ANALYSIS.md": {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-DANIEL-BANK-ANALYSIS.md",
+        "type": "file",
+        "size": 32825
+      },
+      "1-CIVIL-RESPONSE/JF-DISPROP.md": {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-DISPROP.md",
+        "type": "file",
+        "size": 21510
+      },
+      "1-CIVIL-RESPONSE/JF-FIN-ANALYSIS.md": {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-FIN-ANALYSIS.md",
+        "type": "file",
+        "size": 24038
+      },
+      "1-CIVIL-RESPONSE/JF-IT-COMP.md": {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-IT-COMP.md",
+        "type": "file",
+        "size": 17518
+      },
+      "1-CIVIL-RESPONSE/JF-REBUTTAL-MATRIX.md": {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-REBUTTAL-MATRIX.md",
+        "type": "file",
+        "size": 27080
+      },
+      "1-CIVIL-RESPONSE/JF-SHOPIFY-INFRASTRUCTURE.md": {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-SHOPIFY-INFRASTRUCTURE.md",
+        "type": "file",
+        "size": 21612
+      },
+      "1-CIVIL-RESPONSE/JF-STRATEGIC-LOGISTICS-ANALYSIS.md": {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-STRATEGIC-LOGISTICS-ANALYSIS.md",
+        "type": "file",
+        "size": 23628
+      },
+      "1-CIVIL-RESPONSE/JF-TIMELINE.md": {
+        "path": "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md",
+        "type": "file",
+        "size": 18352
+      },
+      "1-CIVIL-RESPONSE/JF3A.md": {
+        "path": "1-CIVIL-RESPONSE/annexures/JF3A.md",
+        "type": "file",
+        "size": 18960
+      },
+      "1-CIVIL-RESPONSE/JF8.md": {
+        "path": "1-CIVIL-RESPONSE/annexures/JF8.md",
+        "type": "file",
+        "size": 15850
+      },
+      "2-CRIMINAL-CASE/CIPC_Companies_Act_Complaint.md": {
+        "path": "2-CRIMINAL-CASE/CIPC_Companies_Act_Complaint.md",
+        "type": "file",
+        "size": 7490
+      },
+      "2-CRIMINAL-CASE/POPIA_Criminal_Complaint.md": {
+        "path": "2-CRIMINAL-CASE/POPIA_Criminal_Complaint.md",
+        "type": "file",
+        "size": 1333
+      },
+      "2-CRIMINAL-CASE/README.md": {
+        "path": "2-CRIMINAL-CASE/README.md",
+        "type": "file",
+        "size": 13948
+      },
+      "2-CRIMINAL-CASE/agent-mapping.md": {
+        "path": "2-CRIMINAL-CASE/agent-mapping.md",
+        "type": "file",
+        "size": 10762
+      },
+      "2-CRIMINAL-CASE/arena-mapping.md": {
+        "path": "2-CRIMINAL-CASE/arena-mapping.md",
+        "type": "file",
+        "size": 6560
+      },
+      "3-EXTERNAL-VALIDATION/EXTERNAL_VALIDATION_PACKAGE.md": {
+        "path": "3-EXTERNAL-VALIDATION/EXTERNAL_VALIDATION_PACKAGE.md",
+        "type": "file",
+        "size": 18484
+      },
+      "3-EXTERNAL-VALIDATION/README.md": {
+        "path": "3-EXTERNAL-VALIDATION/README.md",
+        "type": "file",
+        "size": 11071
+      },
+      "3-EXTERNAL-VALIDATION/agent-mapping.md": {
+        "path": "3-EXTERNAL-VALIDATION/agent-mapping.md",
+        "type": "file",
+        "size": 4995
+      },
+      "3-EXTERNAL-VALIDATION/arena-mapping.md": {
+        "path": "3-EXTERNAL-VALIDATION/arena-mapping.md",
+        "type": "file",
+        "size": 3003
+      }
+    },
+    "Other": {
+      "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md": {
+        "path": "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
+        "type": "ketoni_evidence",
+        "size": 17142
+      },
+      "FFT_KETONI_INVESTMENT_TIMELINE_V48.md": {
+        "path": "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V48.md",
+        "type": "ketoni_evidence",
+        "size": 8406
+      },
+      "FFT_KETONI_INVESTMENT_TIMELINE_V49.md": {
+        "path": "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
+        "type": "ketoni_evidence",
+        "size": 20869
+      },
+      "KETONI_CIPC_SEARCH_RESULTS.md": {
+        "path": "evidence/KETONI_CIPC_SEARCH_RESULTS.md",
+        "type": "ketoni_evidence",
+        "size": 4664
+      },
+      "KETONI_INVESTMENT_HOLDINGS_SHARE_CERTIFICATE_ANALYSIS.md": {
+        "path": "evidence/KETONI_INVESTMENT_HOLDINGS_SHARE_CERTIFICATE_ANALYSIS.md",
+        "type": "ketoni_evidence",
+        "size": 6652
+      },
+      "KETONI_TRUST_MAY2026_PAYOUT_ANALYSIS.md": {
+        "path": "evidence/KETONI_TRUST_MAY2026_PAYOUT_ANALYSIS.md",
+        "type": "ketoni_evidence",
+        "size": 20557
+      },
+      "R18_75M_KETONI_PAYOUT_CENTRAL_MOTIVE_ANALYSIS.md": {
+        "path": "evidence/R18_75M_KETONI_PAYOUT_CENTRAL_MOTIVE_ANALYSIS.md",
+        "type": "ketoni_evidence",
+        "size": 13255
+      },
+      "JAX_DAN_RESPONSE_IMPROVEMENTS_V49_KETONI_INTEGRATED.md": {
+        "path": "jax-dan-response/JAX_DAN_RESPONSE_IMPROVEMENTS_V49_KETONI_INTEGRATED.md",
+        "type": "ketoni_evidence",
+        "size": 35188
+      }
+    }
+  },
+  "evidence_index": [
+    {
+      "category": "ANNEXURES",
+      "name": "ANNEXURES_INDEX.md",
+      "path": "ANNEXURES/ANNEXURES_INDEX.md",
+      "type": "file",
+      "reference": "ANNEXURES/ANNEXURES_INDEX.md"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "JF01",
+      "path": "ANNEXURES/JF01",
+      "type": "directory",
+      "reference": "ANNEXURES/JF01"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "JF02",
+      "path": "ANNEXURES/JF02",
+      "type": "directory",
+      "reference": "ANNEXURES/JF02"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "JF03",
+      "path": "ANNEXURES/JF03",
+      "type": "directory",
+      "reference": "ANNEXURES/JF03"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "JF04",
+      "path": "ANNEXURES/JF04",
+      "type": "directory",
+      "reference": "ANNEXURES/JF04"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "JF05",
+      "path": "ANNEXURES/JF05",
+      "type": "directory",
+      "reference": "ANNEXURES/JF05"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "JF06",
+      "path": "ANNEXURES/JF06",
+      "type": "directory",
+      "reference": "ANNEXURES/JF06"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "JF07",
+      "path": "ANNEXURES/JF07",
+      "type": "directory",
+      "reference": "ANNEXURES/JF07"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "JF08",
+      "path": "ANNEXURES/JF08",
+      "type": "directory",
+      "reference": "ANNEXURES/JF08"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "JF09",
+      "path": "ANNEXURES/JF09",
+      "type": "directory",
+      "reference": "ANNEXURES/JF09"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "JF10",
+      "path": "ANNEXURES/JF10",
+      "type": "directory",
+      "reference": "ANNEXURES/JF10"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "JF11",
+      "path": "ANNEXURES/JF11",
+      "type": "directory",
+      "reference": "ANNEXURES/JF11"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "JF12",
+      "path": "ANNEXURES/JF12",
+      "type": "directory",
+      "reference": "ANNEXURES/JF12"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "JF13",
+      "path": "ANNEXURES/JF13",
+      "type": "directory",
+      "reference": "ANNEXURES/JF13"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "JF14-CIPC-2021",
+      "path": "ANNEXURES/JF14-CIPC-2021",
+      "type": "directory",
+      "reference": "ANNEXURES/JF14-CIPC-2021"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "JF15-CIPC-BATCH2-2021",
+      "path": "ANNEXURES/JF15-CIPC-BATCH2-2021",
+      "type": "directory",
+      "reference": "ANNEXURES/JF15-CIPC-BATCH2-2021"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "JF16-DISTRIBUTORS",
+      "path": "ANNEXURES/JF16-DISTRIBUTORS",
+      "type": "directory",
+      "reference": "ANNEXURES/JF16-DISTRIBUTORS"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "SF1_Bantjies_Debt_Documentation.md",
+      "path": "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+      "type": "file",
+      "reference": "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "SF2_Sage_Screenshots_Rynette_Control.md",
+      "path": "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md",
+      "type": "file",
+      "reference": "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "SF3_Strategic_Logistics_Stock_Adjustment.md",
+      "path": "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
+      "type": "file",
+      "reference": "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "SF4_SARS_Audit_Email.md",
+      "path": "ANNEXURES/SF4_SARS_Audit_Email.md",
+      "type": "file",
+      "reference": "ANNEXURES/SF4_SARS_Audit_Email.md"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "SF5_Adderory_Company_Registration_Stock_Supply.md",
+      "path": "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md",
+      "type": "file",
+      "reference": "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "SF6_Kayla_Pretorius_Estate_Documentation.md",
+      "path": "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
+      "type": "file",
+      "reference": "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "SF7_Court_Order_Kayla_Email_Seizure.md",
+      "path": "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md",
+      "type": "file",
+      "reference": "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md"
+    },
+    {
+      "category": "ANNEXURES",
+      "name": "SF8_Linda_Employment_Records.md",
+      "path": "ANNEXURES/SF8_Linda_Employment_Records.md",
+      "type": "file",
+      "reference": "ANNEXURES/SF8_Linda_Employment_Records.md"
+    },
+    {
+      "category": "Supporting_Files",
+      "name": "SF1_Bantjies_Debt_Documentation.md",
+      "path": "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+      "type": "file",
+      "reference": "Supporting_Files/SF1_Bantjies_Debt_Documentation.md"
+    },
+    {
+      "category": "Supporting_Files",
+      "name": "SF2_Sage_Screenshots_Rynette_Control.md",
+      "path": "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md",
+      "type": "file",
+      "reference": "Supporting_Files/SF2_Sage_Screenshots_Rynette_Control.md"
+    },
+    {
+      "category": "Supporting_Files",
+      "name": "SF3_Strategic_Logistics_Stock_Adjustment.md",
+      "path": "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
+      "type": "file",
+      "reference": "Supporting_Files/SF3_Strategic_Logistics_Stock_Adjustment.md"
+    },
+    {
+      "category": "Supporting_Files",
+      "name": "SF4_SARS_Audit_Email.md",
+      "path": "ANNEXURES/SF4_SARS_Audit_Email.md",
+      "type": "file",
+      "reference": "Supporting_Files/SF4_SARS_Audit_Email.md"
+    },
+    {
+      "category": "Supporting_Files",
+      "name": "SF5_Adderory_Company_Registration_Stock_Supply.md",
+      "path": "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md",
+      "type": "file",
+      "reference": "Supporting_Files/SF5_Adderory_Company_Registration_Stock_Supply.md"
+    },
+    {
+      "category": "Supporting_Files",
+      "name": "SF6_Kayla_Pretorius_Estate_Documentation.md",
+      "path": "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
+      "type": "file",
+      "reference": "Supporting_Files/SF6_Kayla_Pretorius_Estate_Documentation.md"
+    },
+    {
+      "category": "Supporting_Files",
+      "name": "SF7_Court_Order_Kayla_Email_Seizure.md",
+      "path": "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md",
+      "type": "file",
+      "reference": "Supporting_Files/SF7_Court_Order_Kayla_Email_Seizure.md"
+    },
+    {
+      "category": "Supporting_Files",
+      "name": "SF8_Linda_Employment_Records.md",
+      "path": "ANNEXURES/SF8_Linda_Employment_Records.md",
+      "type": "file",
+      "reference": "Supporting_Files/SF8_Linda_Employment_Records.md"
+    },
+    {
+      "category": "Supporting_Files",
+      "name": "SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf",
+      "path": "evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf",
+      "type": "file",
+      "reference": "Supporting_Files/SF1_BANTJIES_DEBT_WITH_EMAILS (1).pdf"
+    },
+    {
+      "category": "Supporting_Files",
+      "name": "SF3_STRATEGIC_LOGISTICS_WITH_EMAILS.pdf",
+      "path": "evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF3_STRATEGIC_LOGISTICS_WITH_EMAILS.pdf",
+      "type": "file",
+      "reference": "Supporting_Files/SF3_STRATEGIC_LOGISTICS_WITH_EMAILS.pdf"
+    },
+    {
+      "category": "Supporting_Files",
+      "name": "SF4_SARS_AUDIT_WITH_EMAILS.pdf",
+      "path": "evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF4_SARS_AUDIT_WITH_EMAILS.pdf",
+      "type": "file",
+      "reference": "Supporting_Files/SF4_SARS_AUDIT_WITH_EMAILS.pdf"
+    },
+    {
+      "category": "Supporting_Files",
+      "name": "SF5_ADDERORY_DOMAIN_WITH_EMAILS.pdf",
+      "path": "evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF5_ADDERORY_DOMAIN_WITH_EMAILS.pdf",
+      "type": "file",
+      "reference": "Supporting_Files/SF5_ADDERORY_DOMAIN_WITH_EMAILS.pdf"
+    },
+    {
+      "category": "Supporting_Files",
+      "name": "SF6_KAYLA_ESTATE_WITH_EMAILS.pdf",
+      "path": "evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF6_KAYLA_ESTATE_WITH_EMAILS.pdf",
+      "type": "file",
+      "reference": "Supporting_Files/SF6_KAYLA_ESTATE_WITH_EMAILS.pdf"
+    },
+    {
+      "category": "Supporting_Files",
+      "name": "SF8_LINDA_EMPLOYMENT_WITH_EMAILS.pdf",
+      "path": "evidence/2025-11-14-batch-3/AnnexuresDRAFTS/SF8_LINDA_EMPLOYMENT_WITH_EMAILS.pdf",
+      "type": "file",
+      "reference": "Supporting_Files/SF8_LINDA_EMPLOYMENT_WITH_EMAILS.pdf"
+    },
+    {
+      "category": "Evidence",
+      "name": "(17)DanieBantjes_LinkedIn.md",
+      "path": "evidence/(17)DanieBantjes_LinkedIn.md",
+      "type": "file",
+      "reference": "Evidence/(17)DanieBantjes_LinkedIn.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "CONSPIRACY_EVIDENCE_CROSS_REFERENCE_R18_75M_TIMELINE.md",
+      "path": "evidence/CONSPIRACY_EVIDENCE_CROSS_REFERENCE_R18_75M_TIMELINE.md",
+      "type": "file",
+      "reference": "Evidence/CONSPIRACY_EVIDENCE_CROSS_REFERENCE_R18_75M_TIMELINE.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "CRITICAL_BANTJIES_TRUSTEE_FRAUD_DISCLOSURE_TIMELINE.md",
+      "path": "evidence/CRITICAL_BANTJIES_TRUSTEE_FRAUD_DISCLOSURE_TIMELINE.md",
+      "type": "file",
+      "reference": "Evidence/CRITICAL_BANTJIES_TRUSTEE_FRAUD_DISCLOSURE_TIMELINE.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "DANIE_BANTJES_GEORGE_GROUP_CONNECTION.md",
+      "path": "evidence/DANIE_BANTJES_GEORGE_GROUP_CONNECTION.md",
+      "type": "file",
+      "reference": "Evidence/DANIE_BANTJES_GEORGE_GROUP_CONNECTION.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "DANIE_BANTJES_LINKEDIN_PROFILE_ANALYSIS.md",
+      "path": "evidence/DANIE_BANTJES_LINKEDIN_PROFILE_ANALYSIS.md",
+      "type": "file",
+      "reference": "Evidence/DANIE_BANTJES_LINKEDIN_PROFILE_ANALYSIS.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "EVIDENCE_LINKAGE_QUICK_REFERENCE.md",
+      "path": "evidence/EVIDENCE_LINKAGE_QUICK_REFERENCE.md",
+      "type": "file",
+      "reference": "Evidence/EVIDENCE_LINKAGE_QUICK_REFERENCE.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "EVIDENCE_PACKAGE_2025-11-17_README.md",
+      "path": "evidence/EVIDENCE_PACKAGE_2025-11-17_README.md",
+      "type": "file",
+      "reference": "Evidence/EVIDENCE_PACKAGE_2025-11-17_README.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "EVIDENCE_PRESENTATION_INTEGRATION_GUIDE.md",
+      "path": "evidence/EVIDENCE_PRESENTATION_INTEGRATION_GUIDE.md",
+      "type": "file",
+      "reference": "Evidence/EVIDENCE_PRESENTATION_INTEGRATION_GUIDE.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "EVIDENCE_PRESENTATION_STRATEGY_FOR_COURT.md",
+      "path": "evidence/EVIDENCE_PRESENTATION_STRATEGY_FOR_COURT.md",
+      "type": "file",
+      "reference": "Evidence/EVIDENCE_PRESENTATION_STRATEGY_FOR_COURT.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "EVIDENCE_UPDATE_2025-11-17_BATCH2.md",
+      "path": "evidence/EVIDENCE_UPDATE_2025-11-17_BATCH2.md",
+      "type": "file",
+      "reference": "Evidence/EVIDENCE_UPDATE_2025-11-17_BATCH2.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "EVIDENCE_UPDATE_2025-11-17_BATCH3.md",
+      "path": "evidence/EVIDENCE_UPDATE_2025-11-17_BATCH3.md",
+      "type": "file",
+      "reference": "Evidence/EVIDENCE_UPDATE_2025-11-17_BATCH3.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "FAUCITT_FAMILY_TRUST_MASTERS_OFFICE_RECORDS.md",
+      "path": "evidence/FAUCITT_FAMILY_TRUST_MASTERS_OFFICE_RECORDS.md",
+      "type": "file",
+      "reference": "Evidence/FAUCITT_FAMILY_TRUST_MASTERS_OFFICE_RECORDS.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "FFT_KETONI_INVESTMENT_TIMELINE_V48.md",
+      "path": "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V48.md",
+      "type": "file",
+      "reference": "Evidence/FFT_KETONI_INVESTMENT_TIMELINE_V48.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
+      "path": "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
+      "type": "file",
+      "reference": "Evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "IT_EXPENSES_BREAKDOWN.json",
+      "path": "evidence/IT_EXPENSES_BREAKDOWN.json",
+      "type": "file",
+      "reference": "Evidence/IT_EXPENSES_BREAKDOWN.json"
+    },
+    {
+      "category": "Evidence",
+      "name": "IT_EXPENSES_BREAKDOWN.md",
+      "path": "evidence/IT_EXPENSES_BREAKDOWN.md",
+      "type": "file",
+      "reference": "Evidence/IT_EXPENSES_BREAKDOWN.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "IT_EXPENSES_COMPLETION_REPORT.md",
+      "path": "evidence/IT_EXPENSES_COMPLETION_REPORT.md",
+      "type": "file",
+      "reference": "Evidence/IT_EXPENSES_COMPLETION_REPORT.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "IT_EXPENSES_SUMMARY.md",
+      "path": "evidence/IT_EXPENSES_SUMMARY.md",
+      "type": "file",
+      "reference": "Evidence/IT_EXPENSES_SUMMARY.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "IT_EXPENSE_SUMMARY.md",
+      "path": "evidence/IT_EXPENSE_SUMMARY.md",
+      "type": "file",
+      "reference": "Evidence/IT_EXPENSE_SUMMARY.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "KETONI_CIPC_SEARCH_RESULTS.md",
+      "path": "evidence/KETONI_CIPC_SEARCH_RESULTS.md",
+      "type": "file",
+      "reference": "Evidence/KETONI_CIPC_SEARCH_RESULTS.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "KETONI_INVESTMENT_HOLDINGS_SHARE_CERTIFICATE_ANALYSIS.md",
+      "path": "evidence/KETONI_INVESTMENT_HOLDINGS_SHARE_CERTIFICATE_ANALYSIS.md",
+      "type": "file",
+      "reference": "Evidence/KETONI_INVESTMENT_HOLDINGS_SHARE_CERTIFICATE_ANALYSIS.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "KETONI_TRUST_MAY2026_PAYOUT_ANALYSIS.md",
+      "path": "evidence/KETONI_TRUST_MAY2026_PAYOUT_ANALYSIS.md",
+      "type": "file",
+      "reference": "Evidence/KETONI_TRUST_MAY2026_PAYOUT_ANALYSIS.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "KevinMichaelDerrick_B2BHint.md",
+      "path": "evidence/KevinMichaelDerrick_B2BHint.md",
+      "type": "file",
+      "reference": "Evidence/KevinMichaelDerrick_B2BHint.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "MASTER_TIMELINE_2013_2025_COMPLETE.md",
+      "path": "evidence/MASTER_TIMELINE_2013_2025_COMPLETE.md",
+      "type": "file",
+      "reference": "Evidence/MASTER_TIMELINE_2013_2025_COMPLETE.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "R18_75M_KETONI_PAYOUT_CENTRAL_MOTIVE_ANALYSIS.md",
+      "path": "evidence/R18_75M_KETONI_PAYOUT_CENTRAL_MOTIVE_ANALYSIS.md",
+      "type": "file",
+      "reference": "Evidence/R18_75M_KETONI_PAYOUT_CENTRAL_MOTIVE_ANALYSIS.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "README.json",
+      "path": "evidence/README.json",
+      "type": "file",
+      "reference": "Evidence/README.json"
+    },
+    {
+      "category": "Evidence",
+      "name": "README.md",
+      "path": "evidence/README.md",
+      "type": "file",
+      "reference": "Evidence/README.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "REVENUE_HIJACKING_NEW_INSIGHTS_V50.md",
+      "path": "evidence/REVENUE_HIJACKING_NEW_INSIGHTS_V50.md",
+      "type": "file",
+      "reference": "Evidence/REVENUE_HIJACKING_NEW_INSIGHTS_V50.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "VERIFIED_EVENT_TIMELINE_V47.md",
+      "path": "evidence/VERIFIED_EVENT_TIMELINE_V47.md",
+      "type": "file",
+      "reference": "Evidence/VERIFIED_EVENT_TIMELINE_V47.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "VERIFIED_TRUST_DATA_FROM_J246.md",
+      "path": "evidence/VERIFIED_TRUST_DATA_FROM_J246.md",
+      "type": "file",
+      "reference": "Evidence/VERIFIED_TRUST_DATA_FROM_J246.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "VISUAL_EVIDENCE_FLOW_DIAGRAM.md",
+      "path": "evidence/VISUAL_EVIDENCE_FLOW_DIAGRAM.md",
+      "type": "file",
+      "reference": "Evidence/VISUAL_EVIDENCE_FLOW_DIAGRAM.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "bantjies_investment_payout_forecast.md",
+      "path": "evidence/bantjies_investment_payout_forecast.md",
+      "type": "file",
+      "reference": "Evidence/bantjies_investment_payout_forecast.md"
+    },
+    {
+      "category": "Evidence",
+      "name": "bantjies_investment_payout_forecast.txt",
+      "path": "evidence/bantjies_investment_payout_forecast.txt",
+      "type": "file",
+      "reference": "Evidence/bantjies_investment_payout_forecast.txt"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/ANNEXURE_INDEX.md",
+      "path": "1-CIVIL-RESPONSE/ANNEXURE_INDEX.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/ANNEXURE_INDEX.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/FILING_CHECKLIST.md",
+      "path": "1-CIVIL-RESPONSE/FILING_CHECKLIST.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/FILING_CHECKLIST.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/IMPLEMENTATION_COMPLETE.md",
+      "path": "1-CIVIL-RESPONSE/IMPLEMENTATION_COMPLETE.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/IMPLEMENTATION_COMPLETE.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/JAX_OPTIMAL_RESPONSE_FRAMEWORK.md",
+      "path": "1-CIVIL-RESPONSE/JAX_OPTIMAL_RESPONSE_FRAMEWORK.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/JAX_OPTIMAL_RESPONSE_FRAMEWORK.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/JAX_RELEVANCE_REALIZATION_ENNEAD.md",
+      "path": "1-CIVIL-RESPONSE/JAX_RELEVANCE_REALIZATION_ENNEAD.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/JAX_RELEVANCE_REALIZATION_ENNEAD.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/README.md",
+      "path": "1-CIVIL-RESPONSE/README.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/README.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md",
+      "path": "1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/RESCISSION_APPLICATION_README.md",
+      "path": "1-CIVIL-RESPONSE/RESCISSION_APPLICATION_README.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/RESCISSION_APPLICATION_README.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md",
+      "path": "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md",
+      "path": "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_RYNETTE_SHOPIFY_EVIDENCE.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/agent-mapping.md",
+      "path": "1-CIVIL-RESPONSE/agent-mapping.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/agent-mapping.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/arena-mapping.md",
+      "path": "1-CIVIL-RESPONSE/arena-mapping.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/arena-mapping.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/DJF.md",
+      "path": "1-CIVIL-RESPONSE/annexures/DJF.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/DJF.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/JF-CAUSATION.md",
+      "path": "1-CIVIL-RESPONSE/annexures/JF-CAUSATION.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/JF-CAUSATION.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/JF-DAN-WITNESS.md",
+      "path": "1-CIVIL-RESPONSE/annexures/JF-DAN-WITNESS.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/JF-DAN-WITNESS.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/JF-DANIEL-BANK-ANALYSIS.md",
+      "path": "1-CIVIL-RESPONSE/annexures/JF-DANIEL-BANK-ANALYSIS.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/JF-DANIEL-BANK-ANALYSIS.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/JF-DISPROP.md",
+      "path": "1-CIVIL-RESPONSE/annexures/JF-DISPROP.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/JF-DISPROP.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/JF-FIN-ANALYSIS.md",
+      "path": "1-CIVIL-RESPONSE/annexures/JF-FIN-ANALYSIS.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/JF-FIN-ANALYSIS.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/JF-IT-COMP.md",
+      "path": "1-CIVIL-RESPONSE/annexures/JF-IT-COMP.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/JF-IT-COMP.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/JF-REBUTTAL-MATRIX.md",
+      "path": "1-CIVIL-RESPONSE/annexures/JF-REBUTTAL-MATRIX.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/JF-REBUTTAL-MATRIX.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/JF-SHOPIFY-INFRASTRUCTURE.md",
+      "path": "1-CIVIL-RESPONSE/annexures/JF-SHOPIFY-INFRASTRUCTURE.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/JF-SHOPIFY-INFRASTRUCTURE.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/JF-STRATEGIC-LOGISTICS-ANALYSIS.md",
+      "path": "1-CIVIL-RESPONSE/annexures/JF-STRATEGIC-LOGISTICS-ANALYSIS.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/JF-STRATEGIC-LOGISTICS-ANALYSIS.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/JF-TIMELINE.md",
+      "path": "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/JF-TIMELINE.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/JF3A.md",
+      "path": "1-CIVIL-RESPONSE/annexures/JF3A.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/JF3A.md"
+    },
+    {
+      "category": "Legal",
+      "name": "1-CIVIL-RESPONSE/JF8.md",
+      "path": "1-CIVIL-RESPONSE/annexures/JF8.md",
+      "type": "file",
+      "reference": "Legal/1-CIVIL-RESPONSE/JF8.md"
+    },
+    {
+      "category": "Legal",
+      "name": "2-CRIMINAL-CASE/CIPC_Companies_Act_Complaint.md",
+      "path": "2-CRIMINAL-CASE/CIPC_Companies_Act_Complaint.md",
+      "type": "file",
+      "reference": "Legal/2-CRIMINAL-CASE/CIPC_Companies_Act_Complaint.md"
+    },
+    {
+      "category": "Legal",
+      "name": "2-CRIMINAL-CASE/POPIA_Criminal_Complaint.md",
+      "path": "2-CRIMINAL-CASE/POPIA_Criminal_Complaint.md",
+      "type": "file",
+      "reference": "Legal/2-CRIMINAL-CASE/POPIA_Criminal_Complaint.md"
+    },
+    {
+      "category": "Legal",
+      "name": "2-CRIMINAL-CASE/README.md",
+      "path": "2-CRIMINAL-CASE/README.md",
+      "type": "file",
+      "reference": "Legal/2-CRIMINAL-CASE/README.md"
+    },
+    {
+      "category": "Legal",
+      "name": "2-CRIMINAL-CASE/agent-mapping.md",
+      "path": "2-CRIMINAL-CASE/agent-mapping.md",
+      "type": "file",
+      "reference": "Legal/2-CRIMINAL-CASE/agent-mapping.md"
+    },
+    {
+      "category": "Legal",
+      "name": "2-CRIMINAL-CASE/arena-mapping.md",
+      "path": "2-CRIMINAL-CASE/arena-mapping.md",
+      "type": "file",
+      "reference": "Legal/2-CRIMINAL-CASE/arena-mapping.md"
+    },
+    {
+      "category": "Legal",
+      "name": "3-EXTERNAL-VALIDATION/EXTERNAL_VALIDATION_PACKAGE.md",
+      "path": "3-EXTERNAL-VALIDATION/EXTERNAL_VALIDATION_PACKAGE.md",
+      "type": "file",
+      "reference": "Legal/3-EXTERNAL-VALIDATION/EXTERNAL_VALIDATION_PACKAGE.md"
+    },
+    {
+      "category": "Legal",
+      "name": "3-EXTERNAL-VALIDATION/README.md",
+      "path": "3-EXTERNAL-VALIDATION/README.md",
+      "type": "file",
+      "reference": "Legal/3-EXTERNAL-VALIDATION/README.md"
+    },
+    {
+      "category": "Legal",
+      "name": "3-EXTERNAL-VALIDATION/agent-mapping.md",
+      "path": "3-EXTERNAL-VALIDATION/agent-mapping.md",
+      "type": "file",
+      "reference": "Legal/3-EXTERNAL-VALIDATION/agent-mapping.md"
+    },
+    {
+      "category": "Legal",
+      "name": "3-EXTERNAL-VALIDATION/arena-mapping.md",
+      "path": "3-EXTERNAL-VALIDATION/arena-mapping.md",
+      "type": "file",
+      "reference": "Legal/3-EXTERNAL-VALIDATION/arena-mapping.md"
+    },
+    {
+      "category": "Other",
+      "name": "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
+      "path": "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
+      "type": "ketoni_evidence",
+      "reference": "Other/KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md"
+    },
+    {
+      "category": "Other",
+      "name": "FFT_KETONI_INVESTMENT_TIMELINE_V48.md",
+      "path": "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V48.md",
+      "type": "ketoni_evidence",
+      "reference": "Other/FFT_KETONI_INVESTMENT_TIMELINE_V48.md"
+    },
+    {
+      "category": "Other",
+      "name": "FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
+      "path": "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
+      "type": "ketoni_evidence",
+      "reference": "Other/FFT_KETONI_INVESTMENT_TIMELINE_V49.md"
+    },
+    {
+      "category": "Other",
+      "name": "KETONI_CIPC_SEARCH_RESULTS.md",
+      "path": "evidence/KETONI_CIPC_SEARCH_RESULTS.md",
+      "type": "ketoni_evidence",
+      "reference": "Other/KETONI_CIPC_SEARCH_RESULTS.md"
+    },
+    {
+      "category": "Other",
+      "name": "KETONI_INVESTMENT_HOLDINGS_SHARE_CERTIFICATE_ANALYSIS.md",
+      "path": "evidence/KETONI_INVESTMENT_HOLDINGS_SHARE_CERTIFICATE_ANALYSIS.md",
+      "type": "ketoni_evidence",
+      "reference": "Other/KETONI_INVESTMENT_HOLDINGS_SHARE_CERTIFICATE_ANALYSIS.md"
+    },
+    {
+      "category": "Other",
+      "name": "KETONI_TRUST_MAY2026_PAYOUT_ANALYSIS.md",
+      "path": "evidence/KETONI_TRUST_MAY2026_PAYOUT_ANALYSIS.md",
+      "type": "ketoni_evidence",
+      "reference": "Other/KETONI_TRUST_MAY2026_PAYOUT_ANALYSIS.md"
+    },
+    {
+      "category": "Other",
+      "name": "R18_75M_KETONI_PAYOUT_CENTRAL_MOTIVE_ANALYSIS.md",
+      "path": "evidence/R18_75M_KETONI_PAYOUT_CENTRAL_MOTIVE_ANALYSIS.md",
+      "type": "ketoni_evidence",
+      "reference": "Other/R18_75M_KETONI_PAYOUT_CENTRAL_MOTIVE_ANALYSIS.md"
+    },
+    {
+      "category": "Other",
+      "name": "JAX_DAN_RESPONSE_IMPROVEMENTS_V49_KETONI_INTEGRATED.md",
+      "path": "jax-dan-response/JAX_DAN_RESPONSE_IMPROVEMENTS_V49_KETONI_INTEGRATED.md",
+      "type": "ketoni_evidence",
+      "reference": "Other/JAX_DAN_RESPONSE_IMPROVEMENTS_V49_KETONI_INTEGRATED.md"
+    }
+  ]
+}

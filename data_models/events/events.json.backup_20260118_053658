@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "26.0_COMPREHENSIVE_REFINEMENT_2026_01_18",
+    "version": "25.0_DISTRIBUTORS_2026_01_09",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 95,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-01-18T05:36:58.293534",
-    "changes": "Enhanced 43 events with evidence references",
+    "last_updated": "2026-01-13T05:35:37.862931",
+    "changes": "Enhanced 0 events with evidence references from ad-res-j7",
     "phase_statistics": {
       "PHASE_1": 25,
       "PHASE_2": 4,
@@ -47,7 +47,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293327",
+      "evidence_enhanced": "2026-01-09T05:36:34.746924",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -82,7 +82,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293340",
+      "evidence_enhanced": "2026-01-09T05:36:34.746944",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -117,7 +117,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293343",
+      "evidence_enhanced": "2026-01-09T05:36:34.746946",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -165,7 +165,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293345",
+      "evidence_enhanced": "2026-01-09T05:36:34.746950",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -202,7 +202,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293347",
+      "evidence_enhanced": "2026-01-09T05:36:34.746952",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -238,7 +238,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293348",
+      "evidence_enhanced": "2026-01-09T05:36:34.746954",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -275,7 +275,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293351",
+      "evidence_enhanced": "2026-01-09T05:36:34.746956",
       "phase": "PHASE_1",
       "entities_involved": [
         "PERSON_003",
@@ -326,7 +326,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293355",
+      "evidence_enhanced": "2026-01-09T05:36:34.746963",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
@@ -362,7 +362,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293358",
+      "evidence_enhanced": "2026-01-09T05:36:34.746965",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF07",
         "ANNEXURES/JF10",
@@ -412,7 +412,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293360",
+      "evidence_enhanced": "2026-01-09T05:36:34.746966",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
@@ -447,7 +447,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293362",
+      "evidence_enhanced": "2026-01-09T05:36:34.746968",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
@@ -488,7 +488,7 @@
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
         "ANNEXURES/JF10"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293364",
+      "evidence_enhanced": "2026-01-09T05:36:34.746971",
       "phase": "PHASE_1",
       "entities_involved": [
         "PERSON_007",
@@ -536,7 +536,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293366",
+      "evidence_enhanced": "2026-01-09T05:36:34.746974",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -570,7 +570,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293367",
+      "evidence_enhanced": "2026-01-09T05:36:34.746976",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
@@ -607,7 +607,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293369",
+      "evidence_enhanced": "2026-01-09T05:36:34.746977",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -645,7 +645,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293371",
+      "evidence_enhanced": "2026-01-09T05:36:34.746978",
       "ad_res_j7_evidence": [
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
         "ANNEXURES/JF10"
@@ -685,7 +685,7 @@
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
         "ANNEXURES/JF10"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293372",
+      "evidence_enhanced": "2026-01-09T05:36:34.746980",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -722,7 +722,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293374",
+      "evidence_enhanced": "2026-01-09T05:36:34.746982",
       "phase": "PHASE_1",
       "entities_involved": [
         "PERSON_002",
@@ -765,7 +765,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/SF4_SARS_Audit_Email.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293376",
+      "evidence_enhanced": "2026-01-09T05:36:34.746985",
       "phase": "PHASE_1",
       "entities_involved": [
         "ORG_001",
@@ -805,7 +805,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293379",
+      "evidence_enhanced": "2026-01-09T05:36:34.746986",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "ANNEXURES/JF01 - Shopify Plus email evidence",
@@ -841,7 +841,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293380",
+      "evidence_enhanced": "2026-01-09T05:36:34.746988",
       "phase": "PHASE_1",
       "entities_involved": [
         "PERSON_010",
@@ -879,7 +879,7 @@
         "ANNEXURES/JF06",
         "1-CIVIL-RESPONSE"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293382",
+      "evidence_enhanced": "2026-01-09T05:36:34.746990",
       "phase": "PHASE_1",
       "criminal_significance": true,
       "entities_involved": [
@@ -926,7 +926,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293384",
+      "evidence_enhanced": "2026-01-09T05:36:34.746991",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -961,7 +961,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293386",
+      "evidence_enhanced": "2026-01-09T05:36:34.746993",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -1019,7 +1019,7 @@
         "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - Death and estate documentation",
         "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Court order for email seizure"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293388",
+      "evidence_enhanced": "2026-01-09T05:36:34.746994",
       "legal_significance": "trigger_event_for_estate_exploitation",
       "burden_of_proof": "civil_50%",
       "phase": "PHASE_1",
@@ -1059,7 +1059,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293390",
+      "evidence_enhanced": "2026-01-09T05:36:34.746996",
       "phase": "PHASE_2",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -1097,7 +1097,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293392",
+      "evidence_enhanced": "2026-01-09T05:36:34.746997",
       "phase": "PHASE_2",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -1137,7 +1137,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293394",
+      "evidence_enhanced": "2026-01-09T05:36:34.746999",
       "phase": "PHASE_2",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -1179,7 +1179,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293396",
+      "evidence_enhanced": "2026-01-09T05:36:34.747001",
       "phase": "PHASE_2",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -1220,7 +1220,7 @@
         "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
         "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293398",
+      "evidence_enhanced": "2026-01-09T05:36:34.747002",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF06 - Court documents and filings",
@@ -1255,7 +1255,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293400",
+      "evidence_enhanced": "2026-01-09T05:36:34.747003",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -1292,7 +1292,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293402",
+      "evidence_enhanced": "2026-01-09T05:36:34.747005",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
@@ -1340,7 +1340,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293404",
+      "evidence_enhanced": "2026-01-09T05:36:34.747006",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -1379,7 +1379,7 @@
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293406",
+      "evidence_enhanced": "2026-01-09T05:36:34.747007",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -1424,7 +1424,7 @@
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md - R5.4M stock disappearance",
         "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md - Same stock supplied by Adderory"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293408",
+      "evidence_enhanced": "2026-01-09T05:36:34.747008",
       "burden_of_proof": "criminal_95",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
@@ -1464,7 +1464,7 @@
         "ANNEXURES/JF06",
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293409",
+      "evidence_enhanced": "2026-01-09T05:36:34.747009",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -1505,7 +1505,7 @@
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
         "ANNEXURES/JF10"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293411",
+      "evidence_enhanced": "2026-01-09T05:36:34.747010",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF3_Strategic_Logistics_Stock_Adjustment.md",
@@ -1549,7 +1549,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293414",
+      "evidence_enhanced": "2026-01-09T05:36:34.747011",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF8_Linda_Employment_Records.md",
@@ -1601,7 +1601,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293416",
+      "evidence_enhanced": "2026-01-09T05:36:34.747013",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF07 - Screenshots and visual evidence",
@@ -1652,7 +1652,7 @@
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293418",
+      "evidence_enhanced": "2026-01-09T05:36:34.747014",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF02 - Shopify sales reports",
@@ -1694,7 +1694,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293419",
+      "evidence_enhanced": "2026-01-09T05:36:34.747015",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -1730,7 +1730,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293421",
+      "evidence_enhanced": "2026-01-09T05:36:34.747017",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -1766,7 +1766,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293423",
+      "evidence_enhanced": "2026-01-09T05:36:34.747018",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -1806,7 +1806,7 @@
         "ANNEXURES/JF06",
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293425",
+      "evidence_enhanced": "2026-01-09T05:36:34.747019",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF05 - Correspondence evidence",
@@ -1853,7 +1853,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293426",
+      "evidence_enhanced": "2026-01-09T05:36:34.747020",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF01 - Shopify Plus email evidence",
@@ -1900,7 +1900,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293428",
+      "evidence_enhanced": "2026-01-09T05:36:34.747022",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF07 - Screenshots and visual evidence",
@@ -1945,7 +1945,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293430",
+      "evidence_enhanced": "2026-01-09T05:36:34.747029",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
@@ -1996,7 +1996,7 @@
         "revelation": "Destruction of audit trails for platform owned, paid for, and operated by RegimA Zone Ltd (UK) since July 2023, proving RWD ZA generated no independent revenue"
       },
       "crime_type": "Evidence destruction, computer fraud, business sabotage",
-      "evidence_enhanced": "2026-01-18T05:36:58.293432",
+      "evidence_enhanced": "2026-01-09T05:36:34.747030",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF01",
         "ANNEXURES/JF02",
@@ -2049,7 +2049,7 @@
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293434",
+      "evidence_enhanced": "2026-01-09T05:36:34.747031",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF01 - Shopify Plus email evidence",
@@ -2084,7 +2084,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293435",
+      "evidence_enhanced": "2026-01-09T05:36:34.747033",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -2122,7 +2122,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293437",
+      "evidence_enhanced": "2026-01-09T05:36:34.747035",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF01 - Shopify Plus email evidence",
@@ -2160,7 +2160,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293439",
+      "evidence_enhanced": "2026-01-09T05:36:34.747036",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
@@ -2206,7 +2206,7 @@
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293441",
+      "evidence_enhanced": "2026-01-09T05:36:34.747037",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF3_Strategic_Logistics_Stock_Adjustment.md",
@@ -2250,7 +2250,7 @@
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293442",
+      "evidence_enhanced": "2026-01-09T05:36:34.747038",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -2285,7 +2285,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293444",
+      "evidence_enhanced": "2026-01-09T05:36:34.747039",
       "ad_res_j7_evidence": [
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
@@ -2330,7 +2330,7 @@
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - R18.685M conflict of interest",
         "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md - Bantjies conduct"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293446",
+      "evidence_enhanced": "2026-01-09T05:36:34.747041",
       "burden_of_proof": "civil_50%",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
@@ -2376,7 +2376,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293447",
+      "evidence_enhanced": "2026-01-09T05:36:34.747043",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -2415,7 +2415,7 @@
         "ANNEXURES/JF06",
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293449",
+      "evidence_enhanced": "2026-01-09T05:36:34.747044",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -2460,7 +2460,7 @@
         "revelation": "Email impersonation facilitated fraud related to Shopify platform Dan's UK company had been paying for since July 2023"
       },
       "crime_type": "Email hijacking, identity theft, business impersonation, computer fraud",
-      "evidence_enhanced": "2026-01-18T05:36:58.293451",
+      "evidence_enhanced": "2026-01-09T05:36:34.747045",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF01",
         "ANNEXURES/JF02",
@@ -2512,7 +2512,7 @@
         "revelation": "Email impersonation facilitated fraud related to Shopify platform Dan's UK company had been paying for since July 2023"
       },
       "crime_type": "Email hijacking, identity theft, business impersonation, computer fraud",
-      "evidence_enhanced": "2026-01-18T05:36:58.293452",
+      "evidence_enhanced": "2026-01-09T05:36:34.747047",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
@@ -2553,7 +2553,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293454",
+      "evidence_enhanced": "2026-01-09T05:36:34.747048",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
@@ -2610,7 +2610,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293456",
+      "evidence_enhanced": "2026-01-09T05:36:34.747050",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -2658,7 +2658,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293458",
+      "evidence_enhanced": "2026-01-09T05:36:34.747051",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF07 - Screenshots and visual evidence",
@@ -2710,7 +2710,7 @@
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293460",
+      "evidence_enhanced": "2026-01-09T05:36:34.747052",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF01 - Shopify Plus email evidence",
@@ -2757,7 +2757,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293461",
+      "evidence_enhanced": "2026-01-09T05:36:34.747054",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF07 - Screenshots and visual evidence",
@@ -2796,7 +2796,7 @@
       ],
       "timeline_phase": "PHASE_006",
       "related_events": [],
-      "evidence_enhanced": "2026-01-18T05:36:58.293463",
+      "evidence_enhanced": "2026-01-09T05:36:34.747055",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
@@ -2834,7 +2834,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293465",
+      "evidence_enhanced": "2026-01-09T05:36:34.747057",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
@@ -2886,7 +2886,7 @@
         "ANNEXURES/JF06",
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293466",
+      "evidence_enhanced": "2026-01-09T05:36:34.747058",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -2927,7 +2927,7 @@
         "ANNEXURES/JF06",
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293468",
+      "evidence_enhanced": "2026-01-09T05:36:34.747059",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -2965,7 +2965,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293470",
+      "evidence_enhanced": "2026-01-09T05:36:34.747061",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF06 - Court documents and filings",
@@ -3001,7 +3001,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293471",
+      "evidence_enhanced": "2026-01-09T05:36:34.747063",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF06",
         "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
@@ -3045,7 +3045,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293473",
+      "evidence_enhanced": "2026-01-09T05:36:34.747065",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF06 - Court documents and filings",
@@ -3084,7 +3084,7 @@
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293475",
+      "evidence_enhanced": "2026-01-09T05:36:34.747066",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
@@ -3133,7 +3133,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293476",
+      "evidence_enhanced": "2026-01-09T05:36:34.747068",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
@@ -3171,7 +3171,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293478",
+      "evidence_enhanced": "2026-01-09T05:36:34.747070",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF06 - Court documents and filings",
@@ -3211,7 +3211,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293480",
+      "evidence_enhanced": "2026-01-09T05:36:34.747071",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
@@ -3252,7 +3252,7 @@
         "ANNEXURES/JF06",
         "1-CIVIL-RESPONSE"
       ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293481",
+      "evidence_enhanced": "2026-01-09T05:36:34.747073",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF06 - Court documents and filings",
@@ -3293,15 +3293,7 @@
       "criminal_threshold": false,
       "civil_threshold": false,
       "source_document": "CIPC WinDeed 2021-11-19",
-      "added_date": "2026-01-09T06:57:36.207479",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293484"
+      "added_date": "2026-01-09T06:57:36.207479"
     },
     {
       "event_id": "EVENT_CIPC_002",
@@ -3326,15 +3318,7 @@
       "civil_threshold": false,
       "additional_notes": "Resignation date (2011-03-10) before registration date (2011-03-11) indicates shelf company transfer",
       "source_document": "CIPC WinDeed 2021-11-19",
-      "added_date": "2026-01-09T06:57:36.207479",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293486"
+      "added_date": "2026-01-09T06:57:36.207479"
     },
     {
       "event_id": "EVENT_CIPC_003",
@@ -3356,15 +3340,7 @@
       "criminal_threshold": false,
       "civil_threshold": false,
       "source_document": "CIPC WinDeed 2021-11-19",
-      "added_date": "2026-01-09T06:57:36.207479",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293488"
+      "added_date": "2026-01-09T06:57:36.207479"
     },
     {
       "event_id": "EVENT_CIPC_004",
@@ -3384,15 +3360,7 @@
       "civil_threshold": false,
       "significance": "Establishes Daniel's independent business development efforts",
       "source_document": "CIPC WinDeed 2021-11-19",
-      "added_date": "2026-01-09T06:57:36.207479",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293489"
+      "added_date": "2026-01-09T06:57:36.207479"
     },
     {
       "event_id": "EVENT_CIPC_005",
@@ -3417,15 +3385,7 @@
       "significance": "Potential business connection requiring investigation",
       "requires_investigation": true,
       "source_document": "CIPC WinDeed 2021-11-19",
-      "added_date": "2026-01-09T06:57:36.207479",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293491"
+      "added_date": "2026-01-09T06:57:36.207479"
     },
     {
       "event_id": "EVENT_092",
@@ -3437,19 +3397,7 @@
         "Dennis Jacobus Bishop"
       ],
       "source": "293355407.Pdf",
-      "significance": "Shelf company later transferred to Daniel Faucitt and Kayla Pretorius",
-      "evidence": [
-        "financial_records",
-        "transaction_documentation"
-      ],
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293493"
+      "significance": "Shelf company later transferred to Daniel Faucitt and Kayla Pretorius"
     },
     {
       "event_id": "EVENT_093",
@@ -3461,19 +3409,7 @@
         "Dennis Jacobus Bishop"
       ],
       "source": "293355412.Pdf",
-      "significance": "Shelf company later transferred to Faucitt family",
-      "evidence": [
-        "financial_records",
-        "transaction_documentation"
-      ],
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293496"
+      "significance": "Shelf company later transferred to Faucitt family"
     },
     {
       "event_id": "EVENT_094",
@@ -3487,19 +3423,7 @@
         "Dennis Jacobus Bishop"
       ],
       "source": "293355407.Pdf",
-      "significance": "Daniel and Kayla's personal company",
-      "evidence": [
-        "financial_records",
-        "transaction_documentation"
-      ],
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293498"
+      "significance": "Daniel and Kayla's personal company"
     },
     {
       "event_id": "EVENT_095",
@@ -3513,19 +3437,7 @@
         "Dennis Jacobus Bishop"
       ],
       "source": "293355412.Pdf",
-      "significance": "Medical skincare company under Faucitt family control",
-      "evidence": [
-        "financial_records",
-        "transaction_documentation"
-      ],
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293499"
+      "significance": "Medical skincare company under Faucitt family control"
     },
     {
       "event_id": "EVENT_096",
@@ -3539,19 +3451,7 @@
         "Bernadine Wright"
       ],
       "source": "TheCosmeticsIndustry(2017-11-14).pdf",
-      "significance": "Independent industry verification of RegimA operations - 15 employees, FNB bank",
-      "evidence": [
-        "financial_records",
-        "transaction_documentation"
-      ],
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293501"
+      "significance": "Independent industry verification of RegimA operations - 15 employees, FNB bank"
     },
     {
       "event_id": "EVENT_097",
@@ -3563,19 +3463,7 @@
         "Alan Peter Louw"
       ],
       "source": "293351608.Pdf",
-      "significance": "Louw's logistics company liquidated",
-      "evidence": [
-        "financial_records",
-        "transaction_documentation"
-      ],
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293503"
+      "significance": "Louw's logistics company liquidated"
     },
     {
       "event_id": "EVENT_098",
@@ -3588,19 +3476,7 @@
         "ALOECO (SA) - CC 2006"
       ],
       "source": "293351612.Pdf",
-      "significance": "Formalizes Louw-Rizzotto business partnership",
-      "evidence": [
-        "financial_records",
-        "transaction_documentation"
-      ],
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293515"
+      "significance": "Formalizes Louw-Rizzotto business partnership"
     },
     {
       "event_id": "EVENT_99",
@@ -3619,15 +3495,7 @@
         "293344692-Property-KarenAvnit.Pdf",
         "293347244-List-Deeds-SB48685-2019.Pdf"
       ],
-      "evidence_strength": "conclusive",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293522"
+      "evidence_strength": "conclusive"
     },
     {
       "event_id": "EVENT_100",
@@ -3643,15 +3511,7 @@
       "evidence": [
         "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
       ],
-      "evidence_strength": "strong",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293525"
+      "evidence_strength": "strong"
     },
     {
       "event_id": "EVENT_101",
@@ -3666,15 +3526,7 @@
       "evidence": [
         "293340322-Company-KachanMarketingandDistribution.Pdf"
       ],
-      "evidence_strength": "strong",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293527"
+      "evidence_strength": "strong"
     },
     {
       "event_id": "EVENT_102",
@@ -3688,15 +3540,7 @@
       "evidence": [
         "293342245-Company-DandelionSA.Pdf"
       ],
-      "evidence_strength": "strong",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293529"
+      "evidence_strength": "strong"
     },
     {
       "event_id": "EVENT_103",
@@ -3710,15 +3554,7 @@
       "evidence": [
         "293342878-Company-BertaniInternationalGlobal.Pdf"
       ],
-      "evidence_strength": "strong",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293531"
+      "evidence_strength": "strong"
     },
     {
       "event_id": "EVENT_104",
@@ -3733,15 +3569,7 @@
       "evidence": [
         "293332765-Company-GeorgeEndermologieClinic.Pdf"
       ],
-      "evidence_strength": "moderate",
-      "ad_res_j7_evidence": [
-        "ANNEXURES/JF08"
-      ],
-      "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis",
-        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
-      ],
-      "evidence_enhanced": "2026-01-18T05:36:58.293533"
+      "evidence_strength": "moderate"
     }
   ]
 }

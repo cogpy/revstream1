@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "version": "28.0_COMPREHENSIVE_REFINEMENT_2026_01_18",
+    "version": "27.0_COMPREHENSIVE_REFINEMENT_2026_01_18",
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-01-18T05:36:58.297931",
-    "changes": "Enhanced 77 timeline entries with entity linkages",
+    "last_updated": "2026-01-17T17:26:32.885610",
+    "changes": "Comprehensive refinement of timeline, added entity names to events.",
     "criminal_threshold_entries": 6,
     "high_significance_entries": 7,
     "total_entries": 118,
@@ -17,42 +17,21 @@
       "event": "ALOECO (SA) original company registered",
       "entity": "ALOECO (SA) - Original 1982",
       "source": "293351602.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "ALOECO (SA) - Original 1982"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297604"
+      "key_actor_names": []
     },
     {
       "date": "1986-03-21",
       "event": "L'IMAGE CC registered",
       "entity": "L'IMAGE",
       "source": "293351642.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "L'IMAGE"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297618"
+      "key_actor_names": []
     },
     {
       "date": "1991-11-28",
       "event": "S A Logistic Services CC registered by Louw",
       "entity": "S A Logistic Services",
       "source": "293351608.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "S A Logistic Services"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297622"
+      "key_actor_names": []
     },
     {
       "entry_id": "TL_CIPC_001",
@@ -77,7 +56,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297625",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335493",
       "key_actor_names": [
         "Peter Andrew Faucitt"
       ]
@@ -87,98 +66,49 @@
       "event": "Shaneprop CC registered by Louw",
       "entity": "Shaneprop",
       "source": "293351648.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "Shaneprop"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297628"
+      "key_actor_names": []
     },
     {
       "date": "1993-02-13",
       "event": "Louw becomes director of ALOECO (SA) original",
       "entity": "Alan Peter Louw",
       "source": "293351602.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "Alan Peter Louw"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297631"
+      "key_actor_names": []
     },
     {
       "date": "1996-10-15",
       "event": "UFO Express CC registered",
       "entity": "UFO Express",
       "source": "293352764.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "UFO Express"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297635"
+      "key_actor_names": []
     },
     {
       "date": "1997-09-02",
       "event": "Rizzotto becomes 100% member of UFO Express",
       "entity": "Martin Carlo Rizzotto",
       "source": "293352764.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "Martin Carlo Rizzotto"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297642"
+      "key_actor_names": []
     },
     {
       "date": "1998-05-20",
       "event": "East Coast Logistics CC registered",
       "entity": "East Coast Logistics",
       "source": "293351625.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "East Coast Logistics"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297646"
+      "key_actor_names": []
     },
     {
       "date": "1999-03-26",
       "event": "LMS Logistic Services registered",
       "entity": "LMS Logistic Services",
       "source": "293352439.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "LMS Logistic Services"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297649"
+      "key_actor_names": []
     },
     {
       "date": "1999-05-25",
       "event": "S A Logistic Services enters liquidation",
       "entity": "S A Logistic Services",
       "source": "293351608.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "S A Logistic Services"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297652"
+      "key_actor_names": []
     },
     {
       "entry_id": "TL_CIPC_002",
@@ -206,7 +136,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297655",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335536",
       "key_actor_names": [
         "Peter Andrew Faucitt",
         "Jacqueline Faucitt",
@@ -227,7 +157,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297659",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335540",
       "key_actor_names": []
     },
     {
@@ -235,14 +165,7 @@
       "event": "Nanini 262 CC registered by Louw",
       "entity": "Nanini 262",
       "source": "293351615.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "Nanini 262"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297662"
+      "key_actor_names": []
     },
     {
       "date": "2005-09-29",
@@ -259,7 +182,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297665",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335544",
       "key_actor_names": []
     },
     {
@@ -267,14 +190,7 @@
       "event": "ALOECO (SA) CC registered - Louw 51%",
       "entity": "ALOECO (SA) - CC 2006",
       "source": "293351612.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "ALOECO (SA) - CC 2006"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297669"
+      "key_actor_names": []
     },
     {
       "entry_id": "TL_CIPC_003",
@@ -299,7 +215,7 @@
         "ANNEXURES/JF04 - CIPC director records"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297672",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335548",
       "key_actor_names": [
         "Jacqueline Faucitt"
       ]
@@ -320,7 +236,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297675",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335551",
       "key_actor_names": []
     },
     {
@@ -333,11 +249,7 @@
       "evidence": [
         "293344692-Property-KarenAvnit.Pdf"
       ],
-      "key_actor_names": [],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297678"
+      "key_actor_names": []
     },
     {
       "date": "2007-07-17",
@@ -350,25 +262,14 @@
       "evidence": [
         "293338023-Director-BarendNortje.Pdf"
       ],
-      "key_actor_names": [],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297680"
+      "key_actor_names": []
     },
     {
       "date": "2008-06-18",
       "event": "RegimA International Skin Treatments CC established",
       "entity": "RegimA International Skin Treatments CC",
       "source": "TheCosmeticsIndustry(2017-11-14).pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "RegimA International Skin Treatments CC"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297684"
+      "key_actor_names": []
     },
     {
       "entry_id": "TL_CIPC_004",
@@ -393,7 +294,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297686",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335557",
       "key_actor_names": [
         "Daniel James Faucitt"
       ]
@@ -428,7 +329,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297690",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335560",
       "key_actor_names": [
         "Peter Andrew Faucitt",
         "Jacqueline Faucitt",
@@ -451,26 +352,22 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297693",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335563",
       "key_actor_names": []
     },
     {
       "date": "2016-07-05",
-      "event": "Chané Todd becomes director of Dandelion SA; Kirby Van Der Stelt resigns",
+      "event": "Chan\u00e9 Todd becomes director of Dandelion SA; Kirby Van Der Stelt resigns",
       "category": "directorship_change",
       "entities": [
         "Dandelion SA",
-        "Chané Auriele Todd",
+        "Chan\u00e9 Auriele Todd",
         "Kirby Rae Van Der Stelt"
       ],
       "evidence": [
         "293342245-Company-DandelionSA.Pdf"
       ],
-      "key_actor_names": [],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297695"
+      "key_actor_names": []
     },
     {
       "entry_id": "TL_CIPC_006",
@@ -497,7 +394,7 @@
         "ANNEXURES/JF04 - CIPC director records"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297698",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335567",
       "key_actor_names": [
         "Jacqueline Faucitt",
         "Peter Andrew Faucitt"
@@ -508,14 +405,7 @@
       "event": "Rezonance registered (shelf company)",
       "entity": "Rezonance",
       "source": "293355407.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "Rezonance"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297702"
+      "key_actor_names": []
     },
     {
       "date": "2017-02-24",
@@ -547,29 +437,14 @@
       "key_actor_names": [
         "Daniel James Faucitt",
         "Peter Andrew Faucitt"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297707"
+      ]
     },
     {
       "date": "2017-02-27",
       "event": "RegimA Medic registered (shelf company)",
       "entity": "RegimA Medic",
       "source": "293355412.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "RegimA Medic"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297710"
+      "key_actor_names": []
     },
     {
       "entry_id": "TL_CIPC_007",
@@ -593,7 +468,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297713",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335573",
       "key_actor_names": [
         "Daniel James Faucitt"
       ]
@@ -603,14 +478,7 @@
       "event": "Daniel Faucitt & Kayla Pretorius take over Rezonance from Dennis Bishop",
       "entity": "Rezonance",
       "source": "293355407.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "Rezonance"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297717"
+      "key_actor_names": []
     },
     {
       "entry_id": "TL_CIPC_008",
@@ -634,7 +502,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297720",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335577",
       "key_actor_names": [
         "Daniel James Faucitt"
       ]
@@ -644,14 +512,7 @@
       "event": "Faucitts take over RegimA Medic from Dennis Bishop",
       "entity": "RegimA Medic",
       "source": "293355412.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "RegimA Medic"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297723"
+      "key_actor_names": []
     },
     {
       "entry_id": "TL_CIPC_009",
@@ -675,7 +536,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297727",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335580",
       "key_actor_names": [
         "Daniel James Faucitt"
       ]
@@ -702,7 +563,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297730",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335583",
       "key_actor_names": [
         "Daniel James Faucitt"
       ]
@@ -738,14 +599,7 @@
       "evidence_enhanced": "2026-01-13T05:35:37.862957",
       "key_actor_names": [
         "ReZonance (Pty) Ltd"
-      ],
-      "entities_involved": [
-        "ReZonance (Pty) Ltd"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297733"
+      ]
     },
     {
       "date": "2017-09-27",
@@ -762,7 +616,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297736",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335587",
       "key_actor_names": []
     },
     {
@@ -796,42 +650,21 @@
       "evidence_enhanced": "2026-01-13T05:35:37.862959",
       "key_actor_names": [
         "ReZonance (Pty) Ltd"
-      ],
-      "entities_involved": [
-        "ReZonance (Pty) Ltd"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297740"
+      ]
     },
     {
       "date": "2017-11-14",
       "event": "Who Owns Whom Cosmetics Industry report published listing RegimA",
       "entity": "RegimA International Skin Treatments CC",
       "source": "TheCosmeticsIndustry(2017-11-14).pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "RegimA International Skin Treatments CC"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297743"
+      "key_actor_names": []
     },
     {
       "date": "2018-08-01",
       "event": "Rizzotto joins ALOECO (SA) CC as 49% member",
       "entity": "Martin Carlo Rizzotto",
       "source": "293351612.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "Martin Carlo Rizzotto"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297747"
+      "key_actor_names": []
     },
     {
       "date": "2019-02-28",
@@ -863,15 +696,7 @@
       "key_actor_names": [
         "Daniel James Faucitt",
         "Peter Andrew Faucitt"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297750"
+      ]
     },
     {
       "date": "2019-03-01",
@@ -904,15 +729,7 @@
       "key_actor_names": [
         "Peter Andrew Faucitt",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Peter Andrew Faucitt",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297755"
+      ]
     },
     {
       "entry_id": "TL_TB_001",
@@ -938,11 +755,7 @@
       "key_actor_names": [
         "RegimA Skin Treatments",
         "Strategic Logistics"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297758"
+      ]
     },
     {
       "date": "2019-05-01",
@@ -978,15 +791,7 @@
       "key_actor_names": [
         "Peter Andrew Faucitt",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Peter Andrew Faucitt",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297761"
+      ]
     },
     {
       "entry_id": "TL_TB_002",
@@ -1007,11 +812,7 @@
       "burden_of_proof": "verified_financial_record",
       "key_actor_names": [
         "Villa Via"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297765"
+      ]
     },
     {
       "entry_id": "TL_CIPC_011",
@@ -1039,7 +840,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297768",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335595",
       "key_actor_names": [
         "Alan Peter Louw",
         "Martin Carlo Rizzotto"
@@ -1050,14 +851,7 @@
       "event": "ALOECO (SA) CC converts to company K2019531306",
       "entity": "ALOECO (SA) - CC 2006",
       "source": "293351612.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "ALOECO (SA) - CC 2006"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297772"
+      "key_actor_names": []
     },
     {
       "date": "2019-11-20",
@@ -1096,18 +890,7 @@
         "Jacqueline Faucitt",
         "Regima Worldwide Distribution (PTY) LTD",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Adderory (Rynette's Son)",
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297776"
+      ]
     },
     {
       "date": "2019-11-22",
@@ -1123,11 +906,7 @@
         "293344692-Property-KarenAvnit.Pdf",
         "293347244-List-Deeds-SB48685-2019.Pdf"
       ],
-      "key_actor_names": [],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297780"
+      "key_actor_names": []
     },
     {
       "entry_id": "TL_CIPC_012",
@@ -1154,7 +933,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297783",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335600",
       "key_actor_names": [
         "Alan Peter Louw",
         "Martin Carlo Rizzotto"
@@ -1205,18 +984,7 @@
         "Regima Worldwide Distribution (PTY) LTD",
         "Rynette Farrar",
         "Strategic Logistics Group"
-      ],
-      "entities_involved": [
-        "Danie Bantjies",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar",
-        "Strategic Logistics Group"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297788"
+      ]
     },
     {
       "entry_id": "TL_TB_003",
@@ -1249,11 +1017,7 @@
       "key_actor_names": [
         "Co-director's bookkeeper",
         "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297791"
+      ]
     },
     {
       "date": "2020-02-28",
@@ -1309,21 +1073,7 @@
         "Regima Worldwide Distribution (PTY) LTD",
         "Rynette Farrar",
         "Strategic Logistics Group"
-      ],
-      "entities_involved": [
-        "Danie Bantjies",
-        "Daniel James Faucitt",
-        "Family Trust",
-        "Jacqueline Faucitt",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar",
-        "Strategic Logistics Group"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297794"
+      ]
     },
     {
       "entry_id": "TL_TB_004",
@@ -1356,11 +1106,7 @@
       "key_actor_names": [
         "Peter Andrew Faucitt",
         "Co-director's bookkeeper"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297796"
+      ]
     },
     {
       "date": "2020-04-30",
@@ -1404,18 +1150,7 @@
         "Peter Andrew Faucitt",
         "Regima Worldwide Distribution (PTY) LTD",
         "Strategic Logistics Group"
-      ],
-      "entities_involved": [
-        "Danie Bantjies",
-        "Family Trust",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Strategic Logistics Group"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297798"
+      ]
     },
     {
       "entry_id": "TL_TB_005",
@@ -1443,11 +1178,7 @@
       "criminal_threshold": "supporting_evidence",
       "key_actor_names": [
         "Villa Via shareholders"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297800"
+      ]
     },
     {
       "entry_id": "TL_CIPC_013",
@@ -1470,25 +1201,14 @@
       "added_date": "2026-01-09T06:57:36.207479",
       "key_actor_names": [
         "Daniel James Faucitt"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297802"
+      ]
     },
     {
       "date": "2020-07-07",
       "event": "Peter and Jacqueline Faucitt appointed as directors of RegimA Medic",
       "entity": "RegimA Medic",
       "source": "293355412.Pdf",
-      "key_actor_names": [],
-      "entities_involved": [
-        "RegimA Medic"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297804"
+      "key_actor_names": []
     },
     {
       "date": "2020-08-13",
@@ -1528,14 +1248,7 @@
       "evidence_enhanced": "2026-01-13T05:35:37.862978",
       "key_actor_names": [
         "Danie Bantjies"
-      ],
-      "entities_involved": [
-        "Danie Bantjies"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297806"
+      ]
     },
     {
       "entry_id": "TL_TB_006",
@@ -1577,11 +1290,7 @@
         "Peter Andrew Faucitt",
         "Rynette Farrar",
         "Daniel Faucitt"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297808"
+      ]
     },
     {
       "date": "2020-08-15",
@@ -1618,17 +1327,7 @@
         "Jacqueline Faucitt",
         "Regima Worldwide Distribution (PTY) LTD",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297810"
+      ]
     },
     {
       "date": "2021-03-15",
@@ -1665,17 +1364,7 @@
         "Regima Skin Treatments CC",
         "Regima Worldwide Distribution (PTY) LTD",
         "Strategic Logistics Group"
-      ],
-      "entities_involved": [
-        "ORG_012",
-        "ORG_002",
-        "ORG_001",
-        "ORG_004"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297817"
+      ]
     },
     {
       "entry_id": "TL_CIPC_BATCH2_001",
@@ -1698,11 +1387,7 @@
       "added_date": "2026-01-12T05:35:43.682885",
       "key_actor_names": [
         "Peter Andrew Faucitt"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297819"
+      ]
     },
     {
       "entry_id": "TL_CIPC_BATCH2_002",
@@ -1731,11 +1416,7 @@
         "Peter Andrew Faucitt",
         "Jacqueline Faucitt",
         "Daniel James Faucitt"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297821"
+      ]
     },
     {
       "entry_id": "TL_CIPC_014",
@@ -1759,7 +1440,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "burden_of_proof_verified": "verified_cipc_record",
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297823",
+      "evidence_enhanced_timestamp": "2026-01-14T05:35:04.335611",
       "key_actor_names": [
         "Daniel James Faucitt"
       ]
@@ -1798,15 +1479,7 @@
       "key_actor_names": [
         "Adderory (Rynette's Son)",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Adderory (Rynette's Son)",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297825"
+      ]
     },
     {
       "date": "2021-09-10",
@@ -1837,14 +1510,7 @@
       "evidence_enhanced": "2026-01-13T05:35:37.862986",
       "key_actor_names": [
         "Bernadine Wright"
-      ],
-      "entities_involved": [
-        "Bernadine Wright"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297828"
+      ]
     },
     {
       "date": "2021-10-05",
@@ -1882,16 +1548,7 @@
         "Bernadine Wright",
         "Daniel James Faucitt",
         "Peter Andrew Faucitt"
-      ],
-      "entities_involved": [
-        "Bernadine Wright",
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297830"
+      ]
     },
     {
       "entry_id": "TL_CIPC_015",
@@ -1911,11 +1568,7 @@
       "significance": "Evidence collection date for corporate records",
       "burden_of_proof": "verified_cipc_record",
       "added_date": "2026-01-09T06:57:36.207479",
-      "key_actor_names": [],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297831"
+      "key_actor_names": []
     },
     {
       "date": "2022-03-01",
@@ -1954,17 +1607,7 @@
         "Peter Andrew Faucitt",
         "ReZonance (Pty) Ltd",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Kayla",
-        "Peter Andrew Faucitt",
-        "ReZonance (Pty) Ltd",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297833"
+      ]
     },
     {
       "date": "2022-07-11",
@@ -1997,14 +1640,7 @@
       "evidence_enhanced": "2026-01-13T05:35:37.862992",
       "key_actor_names": [
         "Regima Skin Treatments CC"
-      ],
-      "entities_involved": [
-        "Regima Skin Treatments CC"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297835"
+      ]
     },
     {
       "date": "2022-07-30",
@@ -2037,15 +1673,7 @@
       "key_actor_names": [
         "Peter Andrew Faucitt",
         "Regima Worldwide Distribution (PTY) LTD"
-      ],
-      "entities_involved": [
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297837"
+      ]
     },
     {
       "date": "2023-01-01",
@@ -2080,15 +1708,7 @@
       "key_actor_names": [
         "Kayla",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Kayla",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297840"
+      ]
     },
     {
       "date": "2023-02-28",
@@ -2127,17 +1747,7 @@
         "Peter Andrew Faucitt",
         "ReZonance (Pty) Ltd",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Kayla",
-        "Peter Andrew Faucitt",
-        "ReZonance (Pty) Ltd",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297842"
+      ]
     },
     {
       "date": "2023-03-15",
@@ -2179,17 +1789,7 @@
         "Peter Andrew Faucitt",
         "ReZonance (Pty) Ltd",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Kayla",
-        "Peter Andrew Faucitt",
-        "ReZonance (Pty) Ltd",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297844"
+      ]
     },
     {
       "entry_id": "TL_KETONI_001",
@@ -2225,11 +1825,7 @@
         "Faucitt Family Trust",
         "Ketoni Investment Holdings",
         "Kevin Michael Derrick"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297846"
+      ]
     },
     {
       "entry_id": "TL_KETONI_002",
@@ -2267,11 +1863,7 @@
         "Kayla Pretorius",
         "Daniel James Faucitt",
         "ReZonance"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297848"
+      ]
     },
     {
       "date": "2023-09-20",
@@ -2313,17 +1905,7 @@
         "Peter Andrew Faucitt",
         "ReZonance (Pty) Ltd",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Kayla",
-        "Peter Andrew Faucitt",
-        "ReZonance (Pty) Ltd",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297850"
+      ]
     },
     {
       "entry_id": "TL_KETONI_003",
@@ -2356,11 +1938,7 @@
       "key_actor_names": [
         "Peter Andrew Faucitt",
         "Daniel James Faucitt"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297851"
+      ]
     },
     {
       "entry_id": "TL_KETONI_004",
@@ -2403,11 +1981,7 @@
         "Daniel Jacobus Bantjies",
         "Rynette Farrar",
         "Kevin Michael Derrick"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297853"
+      ]
     },
     {
       "date": "2025-01-15",
@@ -2453,19 +2027,7 @@
         "Family Trust",
         "Jacqueline Faucitt",
         "Kayla"
-      ],
-      "entities_involved": [
-        "Chantal",
-        "Danie Bantjies",
-        "Daniel James Faucitt",
-        "Family Trust",
-        "Jacqueline Faucitt",
-        "Kayla"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297855"
+      ]
     },
     {
       "date": "2025-02-14",
@@ -2503,15 +2065,7 @@
       "key_actor_names": [
         "Daniel James Faucitt",
         "Peter Andrew Faucitt"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297857"
+      ]
     },
     {
       "date": "2025-02-25",
@@ -2558,19 +2112,7 @@
         "Peter Andrew Faucitt",
         "Rynette Farrar",
         "Strategic Logistics Group"
-      ],
-      "entities_involved": [
-        "Adderory (Rynette's Son)",
-        "Danie Bantjies",
-        "Family Trust",
-        "Peter Andrew Faucitt",
-        "Rynette Farrar",
-        "Strategic Logistics Group"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297860"
+      ]
     },
     {
       "date": "2025-03-01",
@@ -2622,20 +2164,7 @@
         "Peter Andrew Faucitt",
         "Rynette Farrar",
         "Strategic Logistics Group"
-      ],
-      "entities_involved": [
-        "Adderory (Rynette's Son)",
-        "Danie Bantjies",
-        "Daniel James Faucitt",
-        "Family Trust",
-        "Peter Andrew Faucitt",
-        "Rynette Farrar",
-        "Strategic Logistics Group"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297862"
+      ]
     },
     {
       "date": "2025-03-15",
@@ -2684,19 +2213,7 @@
         "Rynette Farrar",
         "Strategic Logistics Group",
         "beneficiaries"
-      ],
-      "entities_involved": [
-        "Danie Bantjies",
-        "Family Trust",
-        "Peter Andrew Faucitt",
-        "Rynette Farrar",
-        "Strategic Logistics Group",
-        "beneficiaries"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297864"
+      ]
     },
     {
       "date": "2025-03-30",
@@ -2737,17 +2254,7 @@
         "Peter Andrew Faucitt",
         "Regima Worldwide Distribution (PTY) LTD",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297866"
+      ]
     },
     {
       "date": "2025-04-01",
@@ -2789,17 +2296,7 @@
         "Peter Andrew Faucitt",
         "RegimA Zone Ltd",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt",
-        "RegimA Zone Ltd",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297868"
+      ]
     },
     {
       "date": "2025-04-14",
@@ -2839,16 +2336,7 @@
         "Daniel James Faucitt",
         "Regima Worldwide Distribution (PTY) LTD",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297870"
+      ]
     },
     {
       "date": "2025-04-22",
@@ -2889,16 +2377,7 @@
         "Daniel James Faucitt",
         "Peter Andrew Faucitt",
         "RegimA Zone Ltd"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt",
-        "RegimA Zone Ltd"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297872"
+      ]
     },
     {
       "date": "2025-04-30",
@@ -2934,15 +2413,7 @@
       "key_actor_names": [
         "Daniel James Faucitt",
         "Peter Andrew Faucitt"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297874"
+      ]
     },
     {
       "date": "2025-05-02",
@@ -2982,17 +2453,7 @@
         "Peter Andrew Faucitt",
         "Rynette Farrar",
         "legitimate_beneficiaries"
-      ],
-      "entities_involved": [
-        "Family Trust",
-        "Peter Andrew Faucitt",
-        "Rynette Farrar",
-        "legitimate_beneficiaries"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297876"
+      ]
     },
     {
       "date": "2025-05-15",
@@ -3044,19 +2505,7 @@
         "Regima Worldwide Distribution (PTY) LTD",
         "Rynette Farrar",
         "estate_of_kayla"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar",
-        "estate_of_kayla"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297878"
+      ]
     },
     {
       "date": "2025-05-22",
@@ -3099,17 +2548,7 @@
         "Jacqueline Faucitt",
         "RegimA Zone Ltd",
         "coordinated_action"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt",
-        "RegimA Zone Ltd",
-        "coordinated_action"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297880"
+      ]
     },
     {
       "date": "2025-05-29",
@@ -3149,17 +2588,7 @@
         "Daniel James Faucitt",
         "Rynette Farrar",
         "customers"
-      ],
-      "entities_involved": [
-        "Adderory (Rynette's Son)",
-        "Daniel James Faucitt",
-        "Rynette Farrar",
-        "customers"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297882"
+      ]
     },
     {
       "date": "2025-06-06",
@@ -3200,16 +2629,7 @@
         "Daniel James Faucitt",
         "Gee",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Gee",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297885"
+      ]
     },
     {
       "entry_id": "TL_KETONI_005",
@@ -3244,11 +2664,7 @@
       "key_actor_names": [
         "Daniel James Faucitt",
         "Daniel Jacobus Bantjies"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297886"
+      ]
     },
     {
       "date": "2025-06-07",
@@ -3286,16 +2702,7 @@
         "Daniel James Faucitt",
         "Peter Andrew Faucitt",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297888"
+      ]
     },
     {
       "entry_id": "TL_KETONI_006",
@@ -3336,11 +2743,7 @@
         "Peter Andrew Faucitt",
         "Rynette Farrar",
         "Daniel Jacobus Bantjies"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297890"
+      ]
     },
     {
       "date": "2025-06-10",
@@ -3390,18 +2793,7 @@
         "Family Trust",
         "Jacqueline Faucitt",
         "Peter Andrew Faucitt"
-      ],
-      "entities_involved": [
-        "Danie Bantjies",
-        "Daniel James Faucitt",
-        "Family Trust",
-        "Jacqueline Faucitt",
-        "Peter Andrew Faucitt"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297892"
+      ]
     },
     {
       "date": "2025-06-18",
@@ -3439,16 +2831,7 @@
         "Family Trust",
         "Peter Andrew Faucitt",
         "beneficiaries"
-      ],
-      "entities_involved": [
-        "Family Trust",
-        "Peter Andrew Faucitt",
-        "beneficiaries"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297894"
+      ]
     },
     {
       "date": "2025-06-20",
@@ -3499,19 +2882,7 @@
         "Regima Worldwide Distribution (PTY) LTD",
         "Rynette Farrar",
         "customers"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt",
-        "RegimA Zone Ltd",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar",
-        "customers"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297896"
+      ]
     },
     {
       "date": "2025-06-25",
@@ -3546,16 +2917,7 @@
         "Daniel James Faucitt",
         "Jax",
         "Peter Andrew Faucitt"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Jax",
-        "Peter Andrew Faucitt"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297898"
+      ]
     },
     {
       "date": "2025-06-30",
@@ -3597,18 +2959,7 @@
         "Regima Worldwide Distribution (PTY) LTD",
         "Rynette Farrar",
         "associates"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar",
-        "associates"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297901"
+      ]
     },
     {
       "date": "2025-07-08",
@@ -3648,17 +2999,7 @@
         "Peter Andrew Faucitt",
         "Regima Worldwide Distribution (PTY) LTD",
         "customers"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "customers"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297903"
+      ]
     },
     {
       "date": "2025-07-12",
@@ -3696,16 +3037,7 @@
         "Daniel James Faucitt",
         "Peter Andrew Faucitt",
         "Regima Worldwide Distribution (PTY) LTD"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297905"
+      ]
     },
     {
       "date": "2025-07-23",
@@ -3746,18 +3078,7 @@
         "Peter Andrew Faucitt",
         "Regima Worldwide Distribution (PTY) LTD",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297907"
+      ]
     },
     {
       "date": "2025-07-25",
@@ -3795,16 +3116,7 @@
         "Family Trust",
         "Peter Andrew Faucitt",
         "beneficiaries"
-      ],
-      "entities_involved": [
-        "Family Trust",
-        "Peter Andrew Faucitt",
-        "beneficiaries"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297908"
+      ]
     },
     {
       "date": "2025-08-10",
@@ -3839,16 +3151,7 @@
         "Family Trust",
         "Peter Andrew Faucitt",
         "beneficiaries"
-      ],
-      "entities_involved": [
-        "Family Trust",
-        "Peter Andrew Faucitt",
-        "beneficiaries"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297910"
+      ]
     },
     {
       "date": "2025-08-11",
@@ -3886,16 +3189,7 @@
         "Daniel James Faucitt",
         "Jacqueline Faucitt",
         "Peter Andrew Faucitt"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt",
-        "Peter Andrew Faucitt"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297912"
+      ]
     },
     {
       "entry_id": "TL_KETONI_007",
@@ -3934,11 +3228,7 @@
       "key_actor_names": [
         "Peter Andrew Faucitt",
         "Jacqueline Faucitt"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297914"
+      ]
     },
     {
       "date": "2025-08-13",
@@ -3981,17 +3271,7 @@
         "Jacqueline Faucitt",
         "Peter Andrew Faucitt",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt",
-        "Peter Andrew Faucitt",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297916"
+      ]
     },
     {
       "entry_id": "TL_KETONI_008",
@@ -4037,11 +3317,7 @@
         "Daniel Jacobus Bantjies",
         "Jacqueline Faucitt",
         "Daniel James Faucitt"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297917"
+      ]
     },
     {
       "date": "2025-08-15",
@@ -4075,14 +3351,7 @@
       "evidence_enhanced": "2026-01-13T05:35:37.863060",
       "key_actor_names": [
         "Danie Bantjies"
-      ],
-      "entities_involved": [
-        "Danie Bantjies"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297919"
+      ]
     },
     {
       "date": "2025-08-20",
@@ -4120,16 +3389,7 @@
         "Daniel James Faucitt",
         "Regima Worldwide Distribution (PTY) LTD",
         "coordinated_network"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "coordinated_network"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297922"
+      ]
     },
     {
       "date": "2025-08-29",
@@ -4164,16 +3424,7 @@
         "Danie Bantjies",
         "Daniel James Faucitt",
         "Jacqueline Faucitt"
-      ],
-      "entities_involved": [
-        "Danie Bantjies",
-        "Daniel James Faucitt",
-        "Jacqueline Faucitt"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297923"
+      ]
     },
     {
       "date": "2025-09-11",
@@ -4213,17 +3464,7 @@
         "Peter Andrew Faucitt",
         "Regima Worldwide Distribution (PTY) LTD",
         "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt",
-        "Regima Worldwide Distribution (PTY) LTD",
-        "Rynette Farrar"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297925"
+      ]
     },
     {
       "date": "2025-10-23",
@@ -4261,17 +3502,7 @@
         "Gee",
         "Jacqueline Faucitt",
         "Peter Andrew Faucitt"
-      ],
-      "entities_involved": [
-        "Daniel James Faucitt",
-        "Gee",
-        "Jacqueline Faucitt",
-        "Peter Andrew Faucitt"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297927"
+      ]
     },
     {
       "entry_id": "TL_KETONI_009",
@@ -4317,11 +3548,7 @@
         "Faucitt Family Trust",
         "Peter Andrew Faucitt",
         "Daniel Jacobus Bantjies"
-      ],
-      "ad_res_j7_evidence_enhanced": [
-        "ANNEXURES/JF04 - CIPC registration documents"
-      ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297929"
+      ]
     }
   ],
   "strategic_implications": {
@@ -4344,7 +3571,7 @@
       "action_required": "Map Rynette's access evolution from 2020 to 2025"
     },
     "bantjes_connection": {
-      "insight": "Danie Bantjes: 2020 accountant → 2024 Trustee appointment",
+      "insight": "Danie Bantjes: 2020 accountant \u2192 2024 Trustee appointment",
       "implication": "Links financial manipulation expertise to trust control",
       "strategic_value": "Explains why Bantjes was chosen as Trustee",
       "action_required": "Investigate Bantjes' role in both capacities"

@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "31.0_COMPREHENSIVE_REFINEMENT_2026_01_18",
+    "version": "30.0_COMPREHENSIVE_REFINEMENT_2026_01_18",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-01-18T05:36:58.289379",
-    "changes": "Enhanced 62 relations with evidence references",
+    "last_updated": "2026-01-17T17:26:32.885487",
+    "changes": "Comprehensive refinement of relations.",
     "total_relations": 117
   },
   "relations": {
@@ -22,7 +22,7 @@
           "company_registration_uk",
           "payment_records_28_months"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289068",
+        "evidence_verified": "2026-01-09T05:36:21.408205",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
@@ -46,7 +46,7 @@
           "duration_months": 28,
           "total_investment": "R140,000 - R280,000"
         },
-        "evidence_verified": "2026-01-18T05:36:58.289084",
+        "evidence_verified": "2026-01-09T05:36:21.408224",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
@@ -65,7 +65,7 @@
           "domain_registration_records",
           "dns_configuration"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289087",
+        "evidence_verified": "2026-01-09T05:36:21.408226",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
@@ -86,7 +86,7 @@
           "Financial statements and ownership documentation"
         ],
         "purpose": "identity_fraud",
-        "evidence_verified": "2026-01-18T05:36:58.289090",
+        "evidence_verified": "2026-01-09T05:36:21.408228",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
@@ -106,7 +106,7 @@
           "company_registration",
           "shareholding_records"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289092",
+        "evidence_verified": "2026-01-09T05:36:21.408230",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
@@ -126,7 +126,7 @@
           "company_registration",
           "shareholding_records"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289094",
+        "evidence_verified": "2026-01-09T05:36:21.408231",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
@@ -146,7 +146,7 @@
           "Financial statements and ownership documentation"
         ],
         "significance": "Joint ownership establishes both Peter and Daniel's control and fiduciary duties",
-        "evidence_verified": "2026-01-18T05:36:58.289097",
+        "evidence_verified": "2026-01-09T05:36:21.408233",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence"
@@ -167,7 +167,7 @@
           "director_appointment",
           "operational_decisions"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289103",
+        "evidence_verified": "2026-01-09T05:36:21.408240",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -192,7 +192,7 @@
           "payment_redirection_2025_04_01",
           "bank_account_change_2025_04_14"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289106",
+        "evidence_verified": "2026-01-09T05:36:21.408242",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -213,7 +213,7 @@
           "platform_access_logs",
           "operational_records"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289109",
+        "evidence_verified": "2026-01-09T05:36:21.408243",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -233,7 +233,7 @@
           "platform_access_logs",
           "operational_records"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289111",
+        "evidence_verified": "2026-01-09T05:36:21.408244",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -258,7 +258,7 @@
           "trust_asset_misappropriation",
           "systematic_trust_violations"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289113",
+        "evidence_verified": "2026-01-09T05:36:21.408245",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -280,7 +280,7 @@
           "System access logs and screenshots"
         ],
         "significance": "Establishes Peter's control and fiduciary duties; contradicts claims of separation from Regima entities",
-        "evidence_verified": "2026-01-18T05:36:58.289116",
+        "evidence_verified": "2026-01-09T05:36:21.408248",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -301,7 +301,7 @@
           "System access logs and screenshots"
         ],
         "significance": "Establishes Daniel's control and fiduciary duties",
-        "evidence_verified": "2026-01-18T05:36:58.289118",
+        "evidence_verified": "2026-01-09T05:36:21.408250",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -321,7 +321,7 @@
           "Subscription owner: Rynette Farrar"
         ],
         "significance": "Can deny access to financial records by not renewing subscription; system expired July 23, 2025",
-        "evidence_verified": "2026-01-18T05:36:58.289121",
+        "evidence_verified": "2026-01-09T05:36:21.408251",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -346,7 +346,7 @@
           "coordinated_fund_diversions_2025_06_30"
         ],
         "pattern": "systematic_coordination",
-        "evidence_verified": "2026-01-18T05:36:58.289124",
+        "evidence_verified": "2026-01-09T05:36:21.408252",
         "ad_res_j7_evidence": [
           "SF2_Sage_Screenshots_Rynette_Control.md",
           "ANNEXURES/JF07 - Visual evidence of coordination"
@@ -366,7 +366,7 @@
           "Timeline of coordinated actions"
         ],
         "relationship": "mother_son",
-        "evidence_verified": "2026-01-18T05:36:58.289126",
+        "evidence_verified": "2026-01-09T05:36:21.408254",
         "ad_res_j7_evidence": [
           "SF2_Sage_Screenshots_Rynette_Control.md",
           "ANNEXURES/JF07 - Visual evidence of coordination"
@@ -384,7 +384,7 @@
           "coordinated_fund_diversions_2025_06_30",
           "financial_evidence_concealment_2025_08_20"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289128",
+        "evidence_verified": "2026-01-09T05:36:21.408255",
         "ad_res_j7_evidence": [
           "SF2_Sage_Screenshots_Rynette_Control.md",
           "ANNEXURES/JF07 - Visual evidence of coordination"
@@ -411,7 +411,7 @@
         ],
         "pattern": "systematic_coordination",
         "motive": "R18,685,000_debt_concealment",
-        "evidence_verified": "2026-01-18T05:36:58.289131",
+        "evidence_verified": "2026-01-09T05:36:21.408256",
         "ad_res_j7_evidence": [
           "SF2_Sage_Screenshots_Rynette_Control.md",
           "ANNEXURES/JF07 - Visual evidence of coordination"
@@ -434,7 +434,7 @@
           "invoice_issuance_without_ownership"
         ],
         "financial_impact": "R3,141,647.70",
-        "evidence_verified": "2026-01-18T05:36:58.289134",
+        "evidence_verified": "2026-01-09T05:36:21.408258",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF01 - Shopify platform dependency evidence",
           "ANNEXURES/JF02 - Business operations documentation"
@@ -455,7 +455,7 @@
           "invoices_issued_by_rwd_za",
           "no_payment_for_platform_by_rwd_za"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289136",
+        "evidence_verified": "2026-01-09T05:36:21.408259",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF01 - Shopify platform dependency evidence",
           "ANNEXURES/JF02 - Business operations documentation"
@@ -482,7 +482,7 @@
           "bank_statements",
           "transaction_logs"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289139",
+        "evidence_verified": "2026-01-09T05:36:21.408260",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -507,7 +507,7 @@
           "bank_statements",
           "transaction_logs"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289141",
+        "evidence_verified": "2026-01-09T05:36:21.408261",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -530,7 +530,7 @@
           "bank_statements",
           "transaction_logs"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289144",
+        "evidence_verified": "2026-01-09T05:36:21.408262",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -553,7 +553,7 @@
           "bank_statements",
           "transaction_logs"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289147",
+        "evidence_verified": "2026-01-09T05:36:21.408263",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -579,7 +579,7 @@
           "transaction_logs",
           "bank_statements"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289149",
+        "evidence_verified": "2026-01-09T05:36:21.408264",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -602,7 +602,7 @@
           "transaction_logs",
           "bank_statements"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289153",
+        "evidence_verified": "2026-01-09T05:36:21.408265",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -627,7 +627,7 @@
           "Bank transaction records"
         ],
         "significance": "Establishes financial relationship between RegimaSA and ReZonance during debt accumulation period",
-        "evidence_verified": "2026-01-18T05:36:58.289155",
+        "evidence_verified": "2026-01-09T05:36:21.408267",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -652,7 +652,7 @@
           "Bank transaction records"
         ],
         "significance": "Establishes Daniel's financial investment and interest in RegimaSA",
-        "evidence_verified": "2026-01-18T05:36:58.289158",
+        "evidence_verified": "2026-01-09T05:36:21.408269",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -677,7 +677,7 @@
           "Bank transaction records"
         ],
         "significance": "Establishes financial relationship with Unicorn Dynamics, another related party entity",
-        "evidence_verified": "2026-01-18T05:36:58.289160",
+        "evidence_verified": "2026-01-09T05:36:21.408270",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -701,7 +701,7 @@
           "Cross-referenced evidence files"
         ],
         "significance": "Large debt payments reducing ReZonance debt from R85k to R22k",
-        "evidence_verified": "2026-01-18T05:36:58.289163",
+        "evidence_verified": "2026-01-09T05:36:21.408272",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -725,7 +725,7 @@
           "Cross-referenced evidence files"
         ],
         "significance": "Cleared all Unicorn Dynamics debts by Feb 2023",
-        "evidence_verified": "2026-01-18T05:36:58.289165",
+        "evidence_verified": "2026-01-09T05:36:21.408274",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF01 - Shopify ownership evidence",
@@ -748,7 +748,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289168",
+        "evidence_verified": "2026-01-09T05:36:21.408275",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Fraud evidence packages",
           "1-CIVIL-RESPONSE - Answering affidavit documentation"
@@ -767,7 +767,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289171",
+        "evidence_verified": "2026-01-09T05:36:21.408276",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Fraud evidence packages",
           "1-CIVIL-RESPONSE - Answering affidavit documentation"
@@ -786,7 +786,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289173",
+        "evidence_verified": "2026-01-09T05:36:21.408277",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Fraud evidence packages",
           "1-CIVIL-RESPONSE - Answering affidavit documentation"
@@ -807,7 +807,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289176",
+        "evidence_verified": "2026-01-09T05:36:21.408278",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF8_Linda_Employment_Records.md - Employment documentation",
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - System control evidence"
@@ -826,7 +826,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289178",
+        "evidence_verified": "2026-01-09T05:36:21.408280",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF8_Linda_Employment_Records.md - Employment documentation",
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - System control evidence"
@@ -849,7 +849,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289182",
+        "evidence_verified": "2026-01-09T05:36:21.408281",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - System expiry evidence",
           "ANNEXURES/JF08 - Evidence of system control"
@@ -870,7 +870,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289185",
+        "evidence_verified": "2026-01-09T05:36:21.408282",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - System expiry evidence",
           "ANNEXURES/JF08 - Evidence of system control"
@@ -891,7 +891,7 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289187",
+        "evidence_verified": "2026-01-09T05:36:21.408283",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
@@ -910,7 +910,7 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289189",
+        "evidence_verified": "2026-01-09T05:36:21.408284",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
@@ -929,7 +929,7 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289192",
+        "evidence_verified": "2026-01-09T05:36:21.408285",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
@@ -949,7 +949,7 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289194",
+        "evidence_verified": "2026-01-09T05:36:21.408286",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
@@ -969,7 +969,7 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289196",
+        "evidence_verified": "2026-01-09T05:36:21.408287",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
@@ -989,7 +989,7 @@
           "timeline_analysis",
           "event_sequence_documentation"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289199",
+        "evidence_verified": "2026-01-09T05:36:21.408288",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Timeline evidence",
           "1-CIVIL-RESPONSE/annexures/JF-TIMELINE.md - Comprehensive timeline"
@@ -1012,7 +1012,7 @@
         ],
         "significance": "creates_motive_for_fraud_concealment",
         "triple_conflict": "trustee_debtor_accountant",
-        "evidence_verified": "2026-01-18T05:36:58.289201",
+        "evidence_verified": "2026-01-09T05:36:21.408289",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - R18.685M debt evidence",
           "ANNEXURES/JF03 - Financial records"
@@ -1034,7 +1034,7 @@
           "payment_reconciliation"
         ],
         "significance": "trigger_for_jax_confrontation_and_retaliation",
-        "evidence_verified": "2026-01-18T05:36:58.289204",
+        "evidence_verified": "2026-01-09T05:36:21.408291",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - R18.685M debt evidence",
           "ANNEXURES/JF03 - Financial records"
@@ -1058,7 +1058,7 @@
           "Cross-referenced evidence files"
         ],
         "significance": "jax_confrontation_about_profiting_from_murder_proceeds",
-        "evidence_verified": "2026-01-18T05:36:58.289207",
+        "evidence_verified": "2026-01-09T05:36:21.408292",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - Estate documentation",
           "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Court order"
@@ -1082,7 +1082,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289210",
+        "evidence_verified": "2026-01-09T05:36:21.408293",
         "ad_res_j7_evidence": [
           "1-CIVIL-RESPONSE/annexures/JF-DAN-WITNESS.md - Witness statement",
           "ANNEXURES/JF08 - Supporting evidence"
@@ -1104,7 +1104,7 @@
           "documented_evidence",
           "case_file_records"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289212",
+        "evidence_verified": "2026-01-09T05:36:21.408295",
         "ad_res_j7_evidence": [
           "1-CIVIL-RESPONSE/annexures/JF-DAN-WITNESS.md - Witness statement",
           "ANNEXURES/JF08 - Supporting evidence"
@@ -1138,7 +1138,7 @@
           "controlled_financial_systems_with_rynette"
         ],
         "significance": "explains_systematic_fraud_concealment_and_retaliation",
-        "evidence_verified": "2026-01-18T05:36:58.289215",
+        "evidence_verified": "2026-01-09T05:36:21.408296",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - Conflict of interest evidence",
           "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md - Fraud concealment"
@@ -1163,7 +1163,7 @@
         ],
         "significance": "critical_control_mechanism_for_fraud",
         "additional_notes": "Rynette controlled Peter's email address, allowing her to control accounts system and financial communications",
-        "evidence_verified": "2026-01-18T05:36:58.289218",
+        "evidence_verified": "2026-01-09T05:36:21.408297",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - Email access evidence",
           "ANNEXURES/JF01 - Email impersonation patterns"
@@ -1183,7 +1183,7 @@
           "trial_balance_email_2020_08_13"
         ],
         "additional_notes": "Rynette controlled accounts system using Peter's email despite Linda being employed as bookkeeper",
-        "evidence_verified": "2026-01-18T05:36:58.289220",
+        "evidence_verified": "2026-01-09T05:36:21.408298",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - Email access evidence",
           "ANNEXURES/JF01 - Email impersonation patterns"
@@ -1203,7 +1203,7 @@
           "interference_with_law_enforcement_freeze"
         ],
         "additional_notes": "Court order obtained to seize account from Kayla's email, interfering with law enforcement investigation",
-        "evidence_verified": "2026-01-18T05:36:58.289223",
+        "evidence_verified": "2026-01-09T05:36:21.408299",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - Email access evidence",
           "ANNEXURES/JF01 - Email impersonation patterns"
@@ -1222,7 +1222,7 @@
           "User list shows: Rynette Farrar - Pete@regima.com"
         ],
         "significance": "Direct proof of Rynette's access to Peter's email; explains how she could send emails as Peter",
-        "evidence_verified": "2026-01-18T05:36:58.289225",
+        "evidence_verified": "2026-01-09T05:36:21.408300",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - Email access evidence",
           "ANNEXURES/JF01 - Email impersonation patterns"
@@ -1243,7 +1243,7 @@
           "trust_deed",
           "court_documents"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289228",
+        "evidence_verified": "2026-01-09T05:36:21.408301",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust documentation",
           "1-CIVIL-RESPONSE - Trust violation evidence"
@@ -1271,7 +1271,7 @@
             "commissioner_of_oaths"
           ]
         },
-        "evidence_verified": "2026-01-18T05:36:58.289230",
+        "evidence_verified": "2026-01-09T05:36:21.408302",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust documentation",
           "1-CIVIL-RESPONSE - Trust violation evidence"
@@ -1300,7 +1300,7 @@
           ],
           "motive": "prevent_discovery_of_massive_debt"
         },
-        "evidence_verified": "2026-01-18T05:36:58.289232",
+        "evidence_verified": "2026-01-09T05:36:21.408304",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust documentation",
           "1-CIVIL-RESPONSE - Trust violation evidence"
@@ -1321,7 +1321,7 @@
           "Trust deed documentation",
           "Beneficiary designation records"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289235",
+        "evidence_verified": "2026-01-09T05:36:21.408305",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust beneficiary documentation",
           "1-CIVIL-RESPONSE - Beneficiary evidence"
@@ -1341,7 +1341,7 @@
           "Beneficiary designation records"
         ],
         "additional_notes": "Beneficiary being attacked by trustees using trust structure",
-        "evidence_verified": "2026-01-18T05:36:58.289237",
+        "evidence_verified": "2026-01-09T05:36:21.408307",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust beneficiary documentation",
           "1-CIVIL-RESPONSE - Beneficiary evidence"
@@ -1360,7 +1360,7 @@
           "trust_deed",
           "beneficiary_documentation"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289239",
+        "evidence_verified": "2026-01-09T05:36:21.408308",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust beneficiary documentation",
           "1-CIVIL-RESPONSE - Beneficiary evidence"
@@ -1384,7 +1384,7 @@
           "PERSON_001",
           "PERSON_002"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289241",
+        "evidence_verified": "2026-01-09T05:36:21.408310",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF06 - Trust beneficiary documentation",
           "1-CIVIL-RESPONSE - Beneficiary evidence"
@@ -1408,7 +1408,7 @@
         ],
         "significance": "witness_to_financial_control",
         "additional_notes": "Bernadine Wright received trial balance from Bantjes, witness to his control over financial systems",
-        "evidence_verified": "2026-01-18T05:36:58.289244",
+        "evidence_verified": "2026-01-09T05:36:21.408312",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF4_SARS_Audit_Email.md - Professional correspondence",
           "ANNEXURES/JF05 - Email correspondence"
@@ -1429,7 +1429,7 @@
         ],
         "legal_status": "demonstrates_control",
         "additional_notes": "Bantjies sent trial balance to Bernadine Wright for financial statement finalization meeting",
-        "evidence_verified": "2026-01-18T05:36:58.289248",
+        "evidence_verified": "2026-01-09T05:36:21.408313",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF4_SARS_Audit_Email.md - Professional correspondence",
           "ANNEXURES/JF05 - Email correspondence"
@@ -1454,7 +1454,7 @@
           "Cross-referenced evidence files"
         ],
         "additional_notes": "Villa Via members loan account showing R22.8M capital extraction, monthly rental income R4.4M",
-        "evidence_verified": "2026-01-18T05:36:58.289251",
+        "evidence_verified": "2026-01-09T05:36:21.408315",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF03 - Financial extraction evidence",
           "ANNEXURES/JF07 - Transaction records"
@@ -1478,7 +1478,7 @@
           "loan_agreement"
         ],
         "additional_notes": "SLG pays interest to RST per loan agreement",
-        "evidence_verified": "2026-01-18T05:36:58.289254",
+        "evidence_verified": "2026-01-09T05:36:21.408316",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF03 - Inter-company loan documentation",
           "ANNEXURES/JF07 - Financial records"
@@ -1501,7 +1501,7 @@
           "Bank transaction records"
         ],
         "additional_notes": "RST advances R750K to RWW for production costs",
-        "evidence_verified": "2026-01-18T05:36:58.289257",
+        "evidence_verified": "2026-01-09T05:36:21.408318",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF03 - Inter-company loan documentation",
           "ANNEXURES/JF07 - Financial records"
@@ -1525,7 +1525,7 @@
         ],
         "legal_status": "knowledge_before_perjury",
         "critical_significance": "Bantjies knew of criminal matters before signing confirmatory affidavit",
-        "evidence_verified": "2026-01-18T05:36:58.289260",
+        "evidence_verified": "2026-01-09T05:36:21.408319",
         "ad_res_j7_evidence": [
           "ANNEXURES/SF4_SARS_Audit_Email.md - Knowledge acquisition evidence",
           "ANNEXURES/JF08 - Communication records"
@@ -1548,7 +1548,7 @@
         ],
         "legal_status": "strategic_litigation_tactic",
         "critical_significance": "Settlement signed 2 days before interdict filing demonstrates premeditation",
-        "evidence_verified": "2026-01-18T05:36:58.289263",
+        "evidence_verified": "2026-01-09T05:36:21.408321",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF08 - Coordination evidence",
           "2-CRIMINAL-CASE - Conspiracy documentation"
@@ -1570,7 +1570,7 @@
           "Cross-referenced evidence files"
         ],
         "significance": "Retrospective preparation 6+ years after period end; timing coincides with legal proceedings",
-        "evidence_verified": "2026-01-18T05:36:58.289267",
+        "evidence_verified": "2026-01-09T05:36:21.408322",
         "ad_res_j7_evidence": [
           "ANNEXURES/JF05 - Professional relationship evidence",
           "ANNEXURES/JF06 - Legal correspondence"
@@ -1612,7 +1612,7 @@
           "ANNEXURES/JF08 - Comprehensive evidence packages",
           "1-CIVIL-RESPONSE - Evidence documentation"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289270",
+        "evidence_verified": "2026-01-09T05:36:21.408324",
         "confidence": 0.75,
         "evidence_strength": "strong"
       },
@@ -1656,7 +1656,7 @@
           "ANNEXURES/JF08 - Comprehensive evidence packages",
           "1-CIVIL-RESPONSE - Evidence documentation"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289272",
+        "evidence_verified": "2026-01-09T05:36:21.408326",
         "confidence": 0.75,
         "evidence_strength": "strong"
       },
@@ -1690,7 +1690,7 @@
           "ANNEXURES/JF08 - Comprehensive evidence packages",
           "1-CIVIL-RESPONSE - Evidence documentation"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289274",
+        "evidence_verified": "2026-01-09T05:36:21.408327",
         "confidence": 0.75,
         "evidence_strength": "strong"
       },
@@ -1724,7 +1724,7 @@
           "ANNEXURES/JF08 - Comprehensive evidence packages",
           "1-CIVIL-RESPONSE - Evidence documentation"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289276",
+        "evidence_verified": "2026-01-09T05:36:21.408329",
         "confidence": 0.75,
         "evidence_strength": "strong"
       }
@@ -1751,7 +1751,7 @@
           "ANNEXURES/JF04 - CIPC company records",
           "ANNEXURES/JF08/evidence_package_20251012 - Comprehensive evidence"
         ],
-        "evidence_verified": "2026-01-18T05:36:58.289278",
+        "evidence_verified": "2026-01-09T05:36:21.408331",
         "confidence": 0.75,
         "evidence_strength": "moderate"
       }
@@ -1770,12 +1770,7 @@
         ],
         "evidence_strength": "moderate",
         "requires_investigation": true,
-        "added_date": "2026-01-09T06:56:17.171814",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289281"
+        "added_date": "2026-01-09T06:56:17.171814"
       }
     ],
     "directorship_relations": [
@@ -1790,12 +1785,7 @@
           "CIPC WinDeed Report 293350058"
         ],
         "evidence_strength": "strong",
-        "added_date": "2026-01-09T06:56:17.171814",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289283"
+        "added_date": "2026-01-09T06:56:17.171814"
       },
       {
         "relation_id": "REL_DIR_016",
@@ -1808,12 +1798,7 @@
           "CIPC WinDeed Report 293350058"
         ],
         "evidence_strength": "strong",
-        "added_date": "2026-01-09T06:56:17.171814",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289285"
+        "added_date": "2026-01-09T06:56:17.171814"
       },
       {
         "relation_id": "REL_DIR_017",
@@ -1826,12 +1811,7 @@
           "CIPC WinDeed Report 293351580"
         ],
         "evidence_strength": "strong",
-        "added_date": "2026-01-09T06:56:17.171814",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289287"
+        "added_date": "2026-01-09T06:56:17.171814"
       },
       {
         "relation_id": "REL_DIR_018",
@@ -1844,12 +1824,7 @@
           "CIPC WinDeed Report 293351580"
         ],
         "evidence_strength": "strong",
-        "added_date": "2026-01-09T06:56:17.171814",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289289"
+        "added_date": "2026-01-09T06:56:17.171814"
       },
       {
         "relation_id": "REL_DIR_019",
@@ -1862,12 +1837,7 @@
           "CIPC WinDeed Report 293351589"
         ],
         "evidence_strength": "strong",
-        "added_date": "2026-01-09T06:56:17.171814",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289290"
+        "added_date": "2026-01-09T06:56:17.171814"
       },
       {
         "relation_id": "REL_DIR_020",
@@ -1880,12 +1850,7 @@
           "CIPC WinDeed Report 293351589"
         ],
         "evidence_strength": "strong",
-        "added_date": "2026-01-09T06:56:17.171814",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289297"
+        "added_date": "2026-01-09T06:56:17.171814"
       },
       {
         "relation_id": "REL_027",
@@ -1896,16 +1861,7 @@
         "start_date": "2017-02-22",
         "end_date": "2017-04-04",
         "status": "resigned",
-        "source": "293355407.Pdf",
-        "evidence": [
-          "company_registration",
-          "financial_records"
-        ],
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289300"
+        "source": "293355407.Pdf"
       },
       {
         "relation_id": "REL_028",
@@ -1916,16 +1872,7 @@
         "start_date": "2017-02-27",
         "end_date": "2017-04-10",
         "status": "resigned",
-        "source": "293355412.Pdf",
-        "evidence": [
-          "company_registration",
-          "financial_records"
-        ],
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289302"
+        "source": "293355412.Pdf"
       },
       {
         "relation_id": "REL_029",
@@ -1936,16 +1883,7 @@
         "start_date": "2017-04-04",
         "end_date": null,
         "status": "active",
-        "source": "293355407.Pdf",
-        "evidence": [
-          "company_registration",
-          "financial_records"
-        ],
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289304"
+        "source": "293355407.Pdf"
       },
       {
         "relation_id": "REL_030",
@@ -1956,16 +1894,7 @@
         "start_date": "2017-04-04",
         "end_date": null,
         "status": "active",
-        "source": "293355407.Pdf",
-        "evidence": [
-          "company_registration",
-          "financial_records"
-        ],
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289306"
+        "source": "293355407.Pdf"
       },
       {
         "relation_id": "REL_031",
@@ -1976,16 +1905,7 @@
         "start_date": "2017-04-10",
         "end_date": null,
         "status": "active",
-        "source": "293355412.Pdf",
-        "evidence": [
-          "company_registration",
-          "financial_records"
-        ],
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289308"
+        "source": "293355412.Pdf"
       },
       {
         "relation_id": "REL_032",
@@ -1996,16 +1916,7 @@
         "start_date": "2020-07-07",
         "end_date": null,
         "status": "active",
-        "source": "293355412.Pdf",
-        "evidence": [
-          "company_registration",
-          "financial_records"
-        ],
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289310"
+        "source": "293355412.Pdf"
       },
       {
         "relation_id": "REL_033",
@@ -2016,16 +1927,7 @@
         "start_date": "2020-07-07",
         "end_date": null,
         "status": "active",
-        "source": "293355412.Pdf",
-        "evidence": [
-          "company_registration",
-          "financial_records"
-        ],
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289311"
+        "source": "293355412.Pdf"
       },
       {
         "relation_id": "REL_034",
@@ -2036,16 +1938,7 @@
         "start_date": "2017-04-10",
         "end_date": null,
         "status": "active",
-        "source": "293355412.Pdf",
-        "evidence": [
-          "company_registration",
-          "financial_records"
-        ],
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289314"
+        "source": "293355412.Pdf"
       },
       {
         "relation_id": "REL_DIR_46",
@@ -2057,12 +1950,7 @@
         "evidence": [
           "293338023-Director-BarendNortje.Pdf"
         ],
-        "evidence_strength": "strong",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289316"
+        "evidence_strength": "strong"
       }
     ],
     "membership_relations": [
@@ -2078,12 +1966,7 @@
           "CIPC WinDeed Report 293351595"
         ],
         "evidence_strength": "strong",
-        "added_date": "2026-01-09T06:56:17.171814",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289318"
+        "added_date": "2026-01-09T06:56:17.171814"
       },
       {
         "relation_id": "REL_MEM_002",
@@ -2097,12 +1980,7 @@
           "CIPC WinDeed Report 293351595"
         ],
         "evidence_strength": "strong",
-        "added_date": "2026-01-09T06:56:17.171814",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289320"
+        "added_date": "2026-01-09T06:56:17.171814"
       },
       {
         "relation_id": "REL_035",
@@ -2114,16 +1992,7 @@
         "start_date": "1997-09-02",
         "end_date": null,
         "status": "active",
-        "source": "293352764.Pdf",
-        "evidence": [
-          "company_registration",
-          "financial_records"
-        ],
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289322"
+        "source": "293352764.Pdf"
       },
       {
         "relation_id": "REL_036",
@@ -2135,16 +2004,7 @@
         "start_date": "1991-11-28",
         "end_date": null,
         "status": "active",
-        "source": "293351608.Pdf",
-        "evidence": [
-          "company_registration",
-          "financial_records"
-        ],
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289324"
+        "source": "293351608.Pdf"
       },
       {
         "relation_id": "REL_037",
@@ -2156,16 +2016,7 @@
         "start_date": "2006-02-14",
         "end_date": null,
         "status": "active",
-        "source": "293351612.Pdf",
-        "evidence": [
-          "company_registration",
-          "financial_records"
-        ],
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289326"
+        "source": "293351612.Pdf"
       },
       {
         "relation_id": "REL_038",
@@ -2177,16 +2028,7 @@
         "start_date": "2018-08-01",
         "end_date": null,
         "status": "active",
-        "source": "293351612.Pdf",
-        "evidence": [
-          "company_registration",
-          "financial_records"
-        ],
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289327"
+        "source": "293351612.Pdf"
       },
       {
         "relation_id": "REL_MEM_47",
@@ -2199,12 +2041,7 @@
         "evidence": [
           "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
         ],
-        "evidence_strength": "strong",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289329"
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_MEM_48",
@@ -2217,12 +2054,7 @@
         "evidence": [
           "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
         ],
-        "evidence_strength": "strong",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289331"
+        "evidence_strength": "strong"
       }
     ],
     "former_relations": [
@@ -2239,12 +2071,7 @@
           "CIPC WinDeed Report 293348688"
         ],
         "evidence_strength": "moderate",
-        "added_date": "2026-01-09T06:56:17.171814",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289334"
+        "added_date": "2026-01-09T06:56:17.171814"
       }
     ],
     "other_relations": [
@@ -2258,16 +2085,7 @@
         "end_date": null,
         "status": "active",
         "notes": "Married out of community of property",
-        "source": "293353145.Pdf",
-        "evidence": [
-          "company_registration",
-          "financial_records"
-        ],
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289336"
+        "source": "293353145.Pdf"
       },
       {
         "relation_id": "REL_040",
@@ -2278,16 +2096,7 @@
         "start_date": null,
         "end_date": null,
         "status": "active",
-        "source": "TheCosmeticsIndustry(2017-11-14).pdf",
-        "evidence": [
-          "company_registration",
-          "financial_records"
-        ],
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289337"
+        "source": "TheCosmeticsIndustry(2017-11-14).pdf"
       },
       {
         "relation_id": "REL_SPOUSE_49",
@@ -2298,12 +2107,7 @@
         "evidence": [
           "Same address: 9 Denbigh Road, Constantia"
         ],
-        "evidence_strength": "moderate",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289339"
+        "evidence_strength": "moderate"
       }
     ],
     "distributor_relations": [
@@ -2318,12 +2122,7 @@
         "evidence": [
           "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
         ],
-        "evidence_strength": "strong",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289341"
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_DIST_42",
@@ -2336,12 +2135,7 @@
         "evidence": [
           "293340322-Company-KachanMarketingandDistribution.Pdf"
         ],
-        "evidence_strength": "strong",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289345"
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_DIST_43",
@@ -2354,12 +2148,7 @@
         "evidence": [
           "293342245-Company-DandelionSA.Pdf"
         ],
-        "evidence_strength": "strong",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289346"
+        "evidence_strength": "strong"
       }
     ],
     "bond_relations": [
@@ -2378,12 +2167,7 @@
           "293347244-List-Deeds-SB48685-2019.Pdf"
         ],
         "evidence_strength": "conclusive",
-        "significance": "RegimA Skin Treatments providing financing to distributors",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289348"
+        "significance": "RegimA Skin Treatments providing financing to distributors"
       }
     ],
     "property_relations": [
@@ -2398,12 +2182,7 @@
         "evidence": [
           "293344692-Property-KarenAvnit.Pdf"
         ],
-        "evidence_strength": "strong",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289350"
+        "evidence_strength": "strong"
       }
     ],
     "ketoni_relations": [
@@ -2430,12 +2209,7 @@
           "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
           "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md"
         ],
-        "evidence_strength": "conclusive",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289353"
+        "evidence_strength": "conclusive"
       },
       {
         "relation_id": "REL_KETONI_002",
@@ -2461,12 +2235,7 @@
           "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
           "lex/agent_based_model_v48_ketoni_integrated.scm"
         ],
-        "evidence_strength": "conclusive",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289355"
+        "evidence_strength": "conclusive"
       },
       {
         "relation_id": "REL_KETONI_003",
@@ -2492,12 +2261,7 @@
           "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
           "jax-dan-response/JAX_DAN_RESPONSE_IMPROVEMENTS_V49_KETONI_INTEGRATED.md"
         ],
-        "evidence_strength": "conclusive",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289357"
+        "evidence_strength": "conclusive"
       },
       {
         "relation_id": "REL_KETONI_004",
@@ -2524,12 +2288,7 @@
           "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
           "jax-dan-response/JAX_DAN_RESPONSE_IMPROVEMENTS_V49_KETONI_INTEGRATED.md"
         ],
-        "evidence_strength": "conclusive",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289358"
+        "evidence_strength": "conclusive"
       },
       {
         "relation_id": "REL_KETONI_005",
@@ -2560,12 +2319,7 @@
           "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
           "lex/south_african_trust_law_enhanced_v9_ketoni_payout.scm"
         ],
-        "evidence_strength": "strong",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289360"
+        "evidence_strength": "strong"
       },
       {
         "relation_id": "REL_KETONI_006",
@@ -2588,12 +2342,7 @@
         "ad_res_j7_references": [
           "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md"
         ],
-        "evidence_strength": "verified_cipc_record",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289361"
+        "evidence_strength": "verified_cipc_record"
       },
       {
         "relation_id": "REL_KETONI_007",
@@ -2617,12 +2366,7 @@
           "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
           "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md"
         ],
-        "evidence_strength": "conclusive",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289363"
+        "evidence_strength": "conclusive"
       },
       {
         "relation_id": "REL_KETONI_008",
@@ -2652,12 +2396,7 @@
           "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
           "lex/agent_based_model_v48_ketoni_integrated.scm"
         ],
-        "evidence_strength": "conclusive",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289365"
+        "evidence_strength": "conclusive"
       },
       {
         "relation_id": "REL_KETONI_009",
@@ -2685,12 +2424,7 @@
           "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
           "lex/entity_relation_framework_v48_ketoni_payout_integrated.scm"
         ],
-        "evidence_strength": "conclusive",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289367"
+        "evidence_strength": "conclusive"
       }
     ],
     "trial_balance_relations": [
@@ -2703,12 +2437,7 @@
         "evidence": [
           "2020-08-13 email coordination"
         ],
-        "significance": "Establishes financial authority structure",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289369"
+        "significance": "Establishes financial authority structure"
       },
       {
         "relation_id": "REL_TB_002",
@@ -2720,12 +2449,7 @@
           "SL-TRIALBALANCE2020.xlsx"
         ],
         "significance": "Creates financial dependency and control mechanism",
-        "financial_impact": 12971390.13,
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289370"
+        "financial_impact": 12971390.13
       },
       {
         "relation_id": "REL_TB_003",
@@ -2737,12 +2461,7 @@
           "REG-TRIALBALANCE.xlsx AJEs"
         ],
         "significance": "Cost dumping mechanism documented",
-        "financial_impact": 750000.0,
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289372"
+        "financial_impact": 750000.0
       },
       {
         "relation_id": "REL_TB_004",
@@ -2754,12 +2473,7 @@
           "SL-TRIALBALANCE2020.xlsx"
         ],
         "significance": "Profit shifting via artificially low interest rate",
-        "financial_impact": 414334.09,
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289374"
+        "financial_impact": 414334.09
       },
       {
         "relation_id": "REL_TB_005",
@@ -2772,12 +2486,7 @@
           "2025 fraud timeline"
         ],
         "significance": "CRITICAL - Establishes continuity of access from 2020 to 2025 fraud",
-        "timeline_span": "2020-08-13 to 2025-05-29",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289375"
+        "timeline_span": "2020-08-13 to 2025-05-29"
       },
       {
         "relation_id": "REL_TB_006",
@@ -2789,12 +2498,7 @@
           "Trust documentation",
           "Ketoni timeline"
         ],
-        "significance": "CRITICAL - Links 2020 accountant to 2024 trust control consolidation",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF03 - Financial records and analysis"
-        ],
-        "evidence_verified": "2026-01-18T05:36:58.289377"
+        "significance": "CRITICAL - Links 2020 accountant to 2024 trust control consolidation"
       }
     ]
   },
