@@ -1407,27 +1407,6 @@
       ]
     },
     {
-      "date": "2021-09-10",
-      "event_ref": "EVENT_086",
-      "title": "Kayla Pretorius Estate Documentation",
-      "description": "Estate documentation for Kayla Pretorius, whose email account later became subject to court-ordered seizure",
-      "category": "digital_fraud",
-      "significance_level": "low",
-      "evidence_refs": [
-        "Supporting documentation",
-        "Cross-referenced evidence files",
-        "SF6_Kayla_Pretorius_Estate_Documentation.md"
-      ],
-      "actors": [
-        "Bernadine Wright"
-      ],
-      "added_date": "2026-01-22",
-      "merged_from": [
-        "EVENT_GEN_1_EVENTS_ON_2021_09_10_0910",
-        "EVENT_086"
-      ]
-    },
-    {
       "date": "2021-10-05",
       "event_count": 1,
       "events": [
@@ -1742,6 +1721,27 @@
       ],
       "actors": [],
       "added_date": "2026-01-22"
+    },
+    {
+      "date": "2023-09-10",
+      "event_ref": "EVENT_086",
+      "title": "Kayla Pretorius Estate Documentation",
+      "description": "Estate documentation for Kayla Pretorius, whose email account later became subject to court-ordered seizure",
+      "category": "digital_fraud",
+      "significance_level": "low",
+      "evidence_refs": [
+        "Supporting documentation",
+        "Cross-referenced evidence files",
+        "SF6_Kayla_Pretorius_Estate_Documentation.md"
+      ],
+      "actors": [
+        "Bernadine Wright"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2021_09_10_0910",
+        "EVENT_086"
+      ]
     },
     {
       "date": "2023-09-20",
