@@ -1,16 +1,15 @@
 {
   "metadata": {
-    "version": "27.0",
+    "version": "26.0_COMPREHENSIVE_REFINEMENT_2026_01_22",
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-01-22",
+    "last_updated": "2026-01-22T00:05:42.145666",
     "changes": "Enhanced timeline with 2026-01-22 refinements, added Ketoni timeline entries",
     "criminal_threshold_entries": 6,
     "high_significance_entries": 7,
-    "total_entries": 229,
-    "civil_threshold_entries": 0,
-    "completeness_audit": "2026-01-22 00:57:20"
+    "total_entries": 118,
+    "civil_threshold_entries": 0
   },
   "timeline": [
     {
@@ -82,21 +81,6 @@
       "key_actor_names": [
         "Peter Andrew Faucitt"
       ]
-    },
-    {
-      "date": "1992-02-26",
-      "event_ref": "EVENT_CIPC_001",
-      "title": "RegimA Skin Treatments CC Formation",
-      "description": "Original RegimA business entity formed as Close Corporation. Peter Faucitt as founding member.",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "CIPC WinDeed Report 293349755"
-      ],
-      "actors": [
-        "PERSON_001"
-      ],
-      "added_date": "2026-01-22"
     },
     {
       "date": "1992-12-15",
@@ -197,20 +181,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297652"
     },
     {
-      "date": "1999-05-25",
-      "event_ref": "EVENT_097",
-      "title": "EVENT_097",
-      "description": "S A Logistic Services enters liquidation",
-      "category": "cipc_corporate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "financial_records",
-        "transaction_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "entry_id": "TL_CIPC_002",
       "date": "1999-11-03",
       "event_type": "company_registration",
@@ -261,19 +231,6 @@
       "key_actor_names": []
     },
     {
-      "date": "2000-05-31",
-      "event_ref": "EVENT_104",
-      "title": "EVENT_104",
-      "description": "George Endermologie Clinic CC registered",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "293332765-Company-GeorgeEndermologieClinic.Pdf"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2001-09-18",
       "event": "Nanini 262 CC registered by Louw",
       "entity": "Nanini 262",
@@ -304,19 +261,6 @@
       "burden_of_proof_verified": "verified_cipc_record",
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297665",
       "key_actor_names": []
-    },
-    {
-      "date": "2005-09-29",
-      "event_ref": "EVENT_101",
-      "title": "EVENT_101",
-      "description": "Kachan Marketing and Distribution CC registered",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "293340322-Company-KachanMarketingandDistribution.Pdf"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2006-02-14",
@@ -378,19 +322,6 @@
       "burden_of_proof_verified": "verified_cipc_record",
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297675",
       "key_actor_names": []
-    },
-    {
-      "date": "2006-03-16",
-      "event_ref": "EVENT_100",
-      "title": "EVENT_100",
-      "description": "Dermal Skin Treatments Cape Town CC registered",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2006-06-05",
@@ -506,24 +437,6 @@
       ]
     },
     {
-      "date": "2011-03-11",
-      "event_ref": "EVENT_CIPC_002",
-      "title": "RWD Shelf Company Acquisition",
-      "description": "RegimA Worldwide Distribution acquired as shelf company (formerly Clear Creek Trading 139). Attorney Christian Gouws resigned same day - indicating pre-arranged shelf company transfer.",
-      "category": "cipc_corporate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "CIPC WinDeed Report 293348688"
-      ],
-      "actors": [
-        "PERSON_001",
-        "PERSON_004",
-        "PERSON_005",
-        "PERSON_017"
-      ],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2015-07-08",
       "event": "K Rae Enterprises (later Dandelion SA) registered",
       "category": "company_registration",
@@ -540,19 +453,6 @@
       "burden_of_proof_verified": "verified_cipc_record",
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297693",
       "key_actor_names": []
-    },
-    {
-      "date": "2015-07-08",
-      "event_ref": "EVENT_102",
-      "title": "EVENT_102",
-      "description": "Dandelion SA (formerly K Rae Enterprises) registered",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "293342245-Company-DandelionSA.Pdf"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2016-07-05",
@@ -604,22 +504,6 @@
       ]
     },
     {
-      "date": "2016-07-19",
-      "event_ref": "EVENT_CIPC_003",
-      "title": "Strategic Logistics Ownership Restructure",
-      "description": "Jacqueline and Peter Faucitt added as 33% members each to Strategic Logistics CC, changing the ownership structure.",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "CIPC WinDeed Report 293349762"
-      ],
-      "actors": [
-        "PERSON_001",
-        "PERSON_004"
-      ],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2017-02-22",
       "event": "Rezonance registered (shelf company)",
       "entity": "Rezonance",
@@ -632,20 +516,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297702"
-    },
-    {
-      "date": "2017-02-22",
-      "event_ref": "EVENT_092",
-      "title": "EVENT_092",
-      "description": "Rezonance registered as shelf company by Dennis Bishop",
-      "category": "cipc_corporate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "financial_records",
-        "transaction_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2017-02-24",
@@ -688,20 +558,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297707"
     },
     {
-      "date": "2017-02-24",
-      "event_ref": "EVENT_H011",
-      "title": "EVENT_H011",
-      "description": "RegimaSA (Pty) Ltd incorporated as Collections Agent",
-      "category": "cipc_corporate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
-        "CIPC registration 2017/087935/07"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2017-02-27",
       "event": "RegimA Medic registered (shelf company)",
       "entity": "RegimA Medic",
@@ -714,20 +570,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297710"
-    },
-    {
-      "date": "2017-02-27",
-      "event_ref": "EVENT_093",
-      "title": "EVENT_093",
-      "description": "RegimA Medic registered as shelf company by Dennis Bishop",
-      "category": "cipc_corporate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "financial_records",
-        "transaction_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "entry_id": "TL_CIPC_007",
@@ -771,35 +613,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297717"
     },
     {
-      "date": "2017-04-04",
-      "event_ref": "EVENT_CIPC_004",
-      "title": "Daniel's 2017 Company Formation Spree",
-      "description": "Daniel James Faucitt registered multiple companies in April-May 2017: ReZonance, RegimA Medic, RegimA Zone Academy, RegimA SA, RegimA Zone, RegimA SpaZone.",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "CIPC WinDeed Report 293349141"
-      ],
-      "actors": [
-        "PERSON_005"
-      ],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2017-04-04",
-      "event_ref": "EVENT_094",
-      "title": "EVENT_094",
-      "description": "Rezonance transferred from Dennis Bishop to Daniel Faucitt and Kayla Pretorius",
-      "category": "cipc_corporate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "financial_records",
-        "transaction_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "entry_id": "TL_CIPC_008",
       "date": "2017-04-10",
       "event_type": "company_registration",
@@ -839,20 +652,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297723"
-    },
-    {
-      "date": "2017-04-10",
-      "event_ref": "EVENT_095",
-      "title": "EVENT_095",
-      "description": "RegimA Medic transferred from Dennis Bishop to Faucitt family",
-      "category": "cipc_corporate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "financial_records",
-        "transaction_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "entry_id": "TL_CIPC_009",
@@ -949,20 +748,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297733"
     },
     {
-      "date": "2017-06-30",
-      "event_ref": "EVENT_H001",
-      "title": "First ReZonance Invoice to RST",
-      "description": "First invoice from ReZonance to RegimA Skin Treatments for Google GSuite services (R250.80), marking the beginning of business relationship",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "invoice_2017_06_30",
-        "service_agreement"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2017-09-27",
       "event": "Bertani International Global registered - Dante Bertani director",
       "category": "company_registration",
@@ -979,19 +764,6 @@
       "burden_of_proof_verified": "verified_cipc_record",
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297736",
       "key_actor_names": []
-    },
-    {
-      "date": "2017-09-27",
-      "event_ref": "EVENT_103",
-      "title": "EVENT_103",
-      "description": "Bertani International Global registered",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "293342878-Company-BertaniInternationalGlobal.Pdf"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2017-09-30",
@@ -1034,20 +806,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297740"
     },
     {
-      "date": "2017-09-30",
-      "event_ref": "EVENT_H002",
-      "title": "ReZonance Service Expansion",
-      "description": "Major service expansion with multiple enterprise services (R100,000+), substantial increase in service provision and financial exposure",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "invoices_2017_09_30",
-        "service_expansion_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2017-11-14",
       "event": "Who Owns Whom Cosmetics Industry report published listing RegimA",
       "entity": "RegimA International Skin Treatments CC",
@@ -1062,20 +820,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297743"
     },
     {
-      "date": "2017-11-14",
-      "event_ref": "EVENT_096",
-      "title": "EVENT_096",
-      "description": "Who Owns Whom Cosmetics Industry report published listing RegimA International Skin Treatments CC",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "financial_records",
-        "transaction_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2018-08-01",
       "event": "Rizzotto joins ALOECO (SA) CC as 49% member",
       "entity": "Martin Carlo Rizzotto",
@@ -1088,20 +832,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297747"
-    },
-    {
-      "date": "2018-08-01",
-      "event_ref": "EVENT_098",
-      "title": "EVENT_098",
-      "description": "Rizzotto joins Louw's ALOECO (SA) CC as 49% member",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "financial_records",
-        "transaction_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2019-02-28",
@@ -1142,21 +872,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297750"
-    },
-    {
-      "date": "2019-02-28",
-      "event_ref": "EVENT_H012",
-      "title": "EVENT_H012",
-      "description": "RegimaSA first financial year end (15 months) showing zero revenue, R1,589 loss, minimal activity",
-      "category": "cipc_corporate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
-        "Financial statements",
-        "Accounting records"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2019-03-01",
@@ -1230,21 +945,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297758"
     },
     {
-      "date": "2019-03-01",
-      "event_ref": "EVENT_H003",
-      "title": "Financial Year Commencement RST/SLG",
-      "description": "Financial year commencement for RegimA Skin Treatments and Strategic Logistics, beginning of period covered by trial balance evidence",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "trial_balance_documentation",
-        "Financial statements",
-        "Accounting records"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2019-05-01",
       "event_count": 1,
       "events": [
@@ -1314,21 +1014,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297765"
     },
     {
-      "date": "2019-05-01",
-      "event_ref": "EVENT_H004",
-      "title": "Financial Year Commencement Villa Via",
-      "description": "Villa Via operates on different financial year, creating complexity in group reporting and enabling profit extraction concealment",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "VV-TRIALBALANCEAPR20202.xlsx",
-        "Financial statements",
-        "Accounting records"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "entry_id": "TL_CIPC_011",
       "date": "2019-10-22",
       "event_type": "company_registration",
@@ -1373,23 +1058,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297772"
-    },
-    {
-      "date": "2019-10-22",
-      "event_ref": "EVENT_CIPC_005",
-      "title": "ALOECO Registration with Shared Address",
-      "description": "ALOECO (SA) registered by Alan Peter Louw and Martin Carlo Rizzotto. Directors use PO Box 9477 Edenglen - same postal address area as Faucitt companies (PO Box 9523 Edenglen).",
-      "category": "cipc_corporate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "CIPC WinDeed Report 293350058",
-        "CIPC WinDeed Report 293348688"
-      ],
-      "actors": [
-        "PERSON_015",
-        "PERSON_016"
-      ],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2019-11-20",
@@ -1442,21 +1110,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297776"
     },
     {
-      "date": "2019-11-20",
-      "event_ref": "EVENT_091",
-      "title": "Adderory Company Registration and Stock Supply Arrangement",
-      "description": "Adderory company registration and stock supply arrangement with RegimA (potential fictitious supplier)",
-      "category": "cipc_corporate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "SF5_Adderory_Company_Registration_Stock_Supply.md",
-        "Business registration documents",
-        "Financial statements"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2019-11-22",
       "event": "RegimA Skin Treatments CC registers R3,110,000 bond on Karen Avnit's property",
       "category": "bond_registration",
@@ -1475,20 +1128,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297780"
-    },
-    {
-      "date": "2019-11-22",
-      "event_ref": "EVENT_99",
-      "title": "EVENT_99",
-      "description": "RegimA Skin Treatments CC registers R3,110,000 bond on Karen Avnit's property",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "293344692-Property-KarenAvnit.Pdf",
-        "293347244-List-Deeds-SB48685-2019.Pdf"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "entry_id": "TL_CIPC_012",
@@ -1617,34 +1256,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297791"
     },
     {
-      "date": "2020-02-20",
-      "event_ref": "EVENT_H005",
-      "title": "Multiple Adjusting Journal Entries",
-      "description": "Significant inter-company cost reallocations: RWW R500K stock provision write-back, RWW R810K admin fee reallocation, SLG R252K admin fee reallocation, SLG R80K production cost transfer to RST",
-      "category": "cipc_corporate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "trial_balance_AJEs",
-        "general_ledger_entries"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2020-02-20",
-      "event_ref": "EVENT_051",
-      "title": "EVENT_051",
-      "description": "Multiple adjusting journal entries across entities for inter-company cost reallocations",
-      "category": "cipc_corporate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "JF08 - Evidence packages",
-        "JF09 - Timeline analysis"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2020-02-28",
       "event_count": 3,
       "events": [
@@ -1752,49 +1363,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297796"
     },
     {
-      "date": "2020-02-28",
-      "event_ref": "EVENT_H006",
-      "title": "Year-End Adjustments and Interest Payment",
-      "description": "SLG pays R414,334.09 interest to RST per loan agreement, RST advances R750K loan to RWW for production costs, Directors' fee adjustment R784K in RST",
-      "category": "cipc_corporate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "REG-TRIALBALANCE.xlsx",
-        "SL-TRIALBALANCE2020.xlsx"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2020-02-28",
-      "event_ref": "EVENT_052",
-      "title": "EVENT_052",
-      "description": "SLG pays R414,334.09 interest to RST per loan agreement",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "JF08 - Evidence packages",
-        "JF09 - Timeline analysis"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2020-02-28",
-      "event_ref": "EVENT_089",
-      "title": "Bantjies R18.685M Debt to Faucitt Family Trust",
-      "description": "Documentation of Bantjies's R18,685,000 debt to Faucitt Family Trust, creating massive conflict of interest",
-      "category": "trust_violations",
-      "significance_level": "low",
-      "evidence_refs": [
-        "SF1_Bantjies_Debt_Documentation.md",
-        "Bank transaction records",
-        "Email correspondence evidence"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2020-04-30",
       "event_count": 2,
       "events": [
@@ -1880,35 +1448,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297800"
-    },
-    {
-      "date": "2020-04-30",
-      "event_ref": "EVENT_H007",
-      "title": "Villa Via Year-End Profit Extraction",
-      "description": "Villa Via generates R4.4M monthly rental income with R3.7M profit, Members loan account R22.8M indicating systematic capital extraction",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "VV-TRIALBALANCEAPR20202.xlsx",
-        "Supporting documentation",
-        "Cross-referenced evidence files"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2020-04-30",
-      "event_ref": "EVENT_053",
-      "title": "EVENT_053",
-      "description": "Villa Via financial year-end showing R3.7M profit and R22.8M members loan",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "JF08 - Evidence packages",
-        "JF09 - Timeline analysis"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "entry_id": "TL_CIPC_013",
@@ -2045,49 +1584,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297808"
     },
     {
-      "date": "2020-08-13",
-      "event_ref": "EVENT_H008",
-      "title": "Bantjies Trial Balance Email Distribution",
-      "description": "Email from Danie Bantjies with final trial balances to Bernadine Wright, Jax, Peter, Rynette, Daniel for financial statement finalization meeting",
-      "category": "digital_fraud",
-      "significance_level": "low",
-      "evidence_refs": [
-        "Email-body.html",
-        "trial_balance_attachments"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2020-08-13",
-      "event_ref": "EVENT_048",
-      "title": "EVENT_048",
-      "description": "Bantjies sends trial balance email to finalize financial statements",
-      "category": "digital_fraud",
-      "significance_level": "low",
-      "evidence_refs": [
-        "JF08 - Evidence packages",
-        "JF09 - Timeline analysis"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2020-08-13",
-      "event_ref": "EVENT_H018",
-      "title": "Bantjies Sends Trial Balance Email to Bernadine Wright",
-      "description": "Bantjies sends trial balance email to Bernadine Wright for financial statement finalization meeting, demonstrating his control over financial systems and accounting records",
-      "category": "digital_fraud",
-      "significance_level": "low",
-      "evidence_refs": [
-        "trial_balance_email_2020_08_13",
-        "Bank transaction records",
-        "Email correspondence evidence"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2020-08-15",
       "event_count": 1,
       "events": [
@@ -2133,21 +1629,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297810"
-    },
-    {
-      "date": "2020-08-15",
-      "event_ref": "EVENT_090",
-      "title": "Rynette Farrar Demonstrates Sage System Control",
-      "description": "Screenshot evidence shows Rynette with control of Sage accounting system and access to Pete@regima.com email",
-      "category": "digital_fraud",
-      "significance_level": "low",
-      "evidence_refs": [
-        "SF2_Sage_Screenshots_Rynette_Control.md",
-        "System access logs",
-        "Screenshots and documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2021-03-15",
@@ -2257,21 +1738,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297821"
     },
     {
-      "date": "2021-03-15",
-      "event_ref": "EVENT_088",
-      "title": "SARS Tax Audit Notification",
-      "description": "SARS notifies RegimA companies of tax audit, providing independent regulatory scrutiny",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "SF4_SARS_Audit_Email.md",
-        "Supporting documentation",
-        "Cross-referenced evidence files"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "entry_id": "TL_CIPC_014",
       "date": "2021-03-25",
       "event_type": "company_registration",
@@ -2343,20 +1809,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297825"
     },
     {
-      "date": "2021-04-01",
-      "event_ref": "EVENT_H009",
-      "title": "Adderory Companies Registration - Pre-Planning Phase",
-      "description": "Rynette's son registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure 4 years before fraud escalation. Demonstrates long-term conspiracy planning.",
-      "category": "criminal_activity",
-      "significance_level": "low",
-      "evidence_refs": [
-        "company_registration_records",
-        "cipc_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2021-09-10",
       "event_count": 1,
       "events": [
@@ -2393,21 +1845,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297828"
-    },
-    {
-      "date": "2021-09-10",
-      "event_ref": "EVENT_086",
-      "title": "Kayla Pretorius Estate Documentation",
-      "description": "Estate documentation for Kayla Pretorius, whose email account later became subject to court-ordered seizure",
-      "category": "digital_fraud",
-      "significance_level": "low",
-      "evidence_refs": [
-        "SF6_Kayla_Pretorius_Estate_Documentation.md",
-        "Supporting documentation",
-        "Cross-referenced evidence files"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2021-10-05",
@@ -2455,21 +1892,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297830"
-    },
-    {
-      "date": "2021-10-05",
-      "event_ref": "EVENT_087",
-      "title": "Court Order for Kayla Pretorius Email Account Seizure",
-      "description": "Court orders seizure of Kayla Pretorius email account for evidence of fraudulent activities",
-      "category": "criminal_activity",
-      "significance_level": "low",
-      "evidence_refs": [
-        "SF7_Court_Order_Kayla_Email_Seizure.md",
-        "Supporting documentation",
-        "Cross-referenced evidence files"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "entry_id": "TL_CIPC_015",
@@ -2545,20 +1967,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297833"
     },
     {
-      "date": "2022-03-01",
-      "event_ref": "EVENT_D001",
-      "title": "ReZonance Opening Balance Debt",
-      "description": "Opening balance showing substantial accumulated debt to ReZonance (R971,587.93), evidence of unpaid services over extended period",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "rezonance_account_statements",
-        "aged_debtor_reports"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2022-07-11",
       "event_count": 1,
       "events": [
@@ -2597,20 +2005,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297835"
-    },
-    {
-      "date": "2022-07-11",
-      "event_ref": "EVENT_D002",
-      "title": "First Structured Payment to ReZonance",
-      "description": "First structured payment to ReZonance (R40,000), attempt to manage debt through partial payments",
-      "category": "revenue_hijacking",
-      "significance_level": "low",
-      "evidence_refs": [
-        "payment_records",
-        "bank_statements"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2022-07-30",
@@ -2654,21 +2048,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297837"
     },
     {
-      "date": "2022-07-30",
-      "event_ref": "EVENT_067",
-      "title": "EVENT_067",
-      "description": "RegimA WWD paid R157k+ to ReZonance, reducing debt from R85k to R22k (July-December 2022)",
-      "category": "criminal_activity",
-      "significance_level": "low",
-      "evidence_refs": [
-        "Rez-WWD.pdf - Supplier Transactions Report",
-        "Financial statements",
-        "Accounting records"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2023-01-01",
       "event_count": 1,
       "events": [
@@ -2710,35 +2089,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297840"
-    },
-    {
-      "date": "2023-01-01",
-      "event_ref": "EVENT_H010",
-      "title": "Kayla Pretorius Murder",
-      "description": "Murder of Kayla Pretorius, creating estate complications, law enforcement investigation, and family trauma. Estate includes ReZonance debt of R1,035,000.",
-      "category": "kayla_estate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "police_reports_pending",
-        "estate_documentation_pending"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2023-02-20",
-      "event_ref": "EVENT_KETONI_INCORPORATION",
-      "title": "Ketoni Investment Holdings Incorporation",
-      "description": "Ketoni Investment Holdings (Pty) Ltd incorporated, establishing the entity that would later owe ZAR 18.75M to FFT.",
-      "category": "ketoni_motive",
-      "significance_level": "critical",
-      "evidence_refs": [
-        "CIPC records"
-      ],
-      "actors": [
-        "Kevin Derrick"
-      ],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2023-02-28",
@@ -2788,20 +2138,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297842"
-    },
-    {
-      "date": "2023-02-28",
-      "event_ref": "EVENT_D003",
-      "title": "ReZonance Final Balance Persistent Debt",
-      "description": "Final balance showing persistent debt to ReZonance (R1,035,361.34) despite payment claims, debt continues to grow",
-      "category": "revenue_hijacking",
-      "significance_level": "low",
-      "evidence_refs": [
-        "rezonance_final_statement",
-        "payment_reconciliation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2023-03-15",
@@ -2856,20 +2192,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297844"
     },
     {
-      "date": "2023-03-15",
-      "event_ref": "EVENT_D004",
-      "title": "False Payment Claim #1 to ReZonance",
-      "description": "RegimA claims payment of R470,000 to ReZonance not reflected in ReZonance records, first documented false payment claim",
-      "category": "revenue_hijacking",
-      "significance_level": "low",
-      "evidence_refs": [
-        "false_payment_documentation",
-        "rezonance_account_reconciliation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "entry_id": "TL_KETONI_001",
       "date": "2023-04-24",
       "event_type": "investment",
@@ -2908,52 +2230,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297846"
-    },
-    {
-      "date": "2023-04-24",
-      "event_ref": "EVENT_KETONI_CERT",
-      "title": "FFT Receives Ketoni Share Certificate #3",
-      "description": "Faucitt Family Trust receives Share Certificate #3 for 5,000 A-Ordinary shares in Ketoni Investment Holdings. This establishes the ZAR 18.75M entitlement (May 2026 payout option).",
-      "category": "ketoni_motive",
-      "significance_level": "critical",
-      "evidence_refs": [
-        "Share Certificate J246",
-        "Ketoni Investment Holdings registration"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2023-04-24",
-      "event_ref": "EVENT_FFT_KETONI_INVESTMENT",
-      "title": "FFT Invests in Ketoni - ZAR 18.75M Entitlement Established",
-      "description": "Faucitt Family Trust invests in Ketoni Investment Holdings, receiving Share Certificate #3 for 5,000 A-Ordinary shares. This establishes the ZAR 18.75M payout entitlement due May 2026.",
-      "category": "ketoni_motive",
-      "significance_level": "critical",
-      "evidence_refs": [
-        "Share Certificate J246",
-        "Investment agreement"
-      ],
-      "actors": [
-        "FFT",
-        "Ketoni"
-      ],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2023-05-01",
-      "event_ref": "EVENT_BANTJIES_GEORGE",
-      "title": "Bantjies Joins The George Group as CFO",
-      "description": "Daniel Jacobus Bantjies joins The George Group as CFO, one month after FFT receives Ketoni share certificate. Kevin Derrick (Ketoni Director) is also a director at The George Group.",
-      "category": "ketoni_motive",
-      "significance_level": "critical",
-      "evidence_refs": [
-        "LinkedIn profile",
-        "George Group records",
-        "B2BHint company records"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "entry_id": "TL_KETONI_002",
@@ -2996,20 +2272,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297848"
-    },
-    {
-      "date": "2023-07-13",
-      "event_ref": "EVENT_KAYLA_DEATH",
-      "title": "Kayla Pretorius Death - 80 Days After Ketoni Investment",
-      "description": "Kayla Pretorius dies 80 days after FFT's Ketoni investment. This death triggers estate proceedings and potential asset appropriation opportunity.",
-      "category": "ketoni_motive",
-      "significance_level": "critical",
-      "evidence_refs": [
-        "SF6 - Kayla Pretorius Estate Documentation",
-        "SF7 - Court Order Kayla Email Seizure"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2023-09-20",
@@ -3062,21 +2324,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297850"
-    },
-    {
-      "date": "2023-09-20",
-      "event_ref": "EVENT_D005",
-      "title": "False Payment Claim #2 to ReZonance",
-      "description": "Additional false payment claims totaling R765,361.34 to ReZonance, escalation of fraudulent payment claims",
-      "category": "criminal_activity",
-      "significance_level": "low",
-      "evidence_refs": [
-        "false_payment_claims_documentation",
-        "Bank transaction records",
-        "Email correspondence evidence"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "entry_id": "TL_KETONI_003",
@@ -3163,22 +2410,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297853"
     },
     {
-      "date": "2024-07-01",
-      "event_ref": "EVENT_BANTJIES_TRUSTEE_APPOINTMENT",
-      "title": "Bantjies Appointed FFT Trustee by Rynette",
-      "description": "Daniel Jacobus Bantjies appointed as Trustee of Faucitt Family Trust by Rynette, T-10 months before Ketoni payout. Strategic appointment to consolidate trust control.",
-      "category": "ketoni_motive",
-      "significance_level": "critical",
-      "evidence_refs": [
-        "Trust documents"
-      ],
-      "actors": [
-        "PERSON_002",
-        "PERSON_007"
-      ],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-01-15",
       "event_count": 2,
       "events": [
@@ -3237,35 +2468,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297855"
     },
     {
-      "date": "2025-01-15",
-      "event_ref": "EVENT_023",
-      "title": "Chantal Letter - Kayla Estate Finalization",
-      "description": "Chantal delivered letter mentioning Kayla estate finalization, indicating ongoing exploitation of deceased victim's estate.",
-      "category": "kayla_estate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "estate_documentation_pending",
-        "letter_from_chantal"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-01-15",
-      "event_ref": "EVENT_054",
-      "title": "Chantal Delivers Letter About Kayla Estate Finalization",
-      "description": "Chantal delivers letter to office regarding Kayla estate finalization, indicating ongoing exploitation of deceased victim's estate",
-      "category": "kayla_estate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "chantal_letter_january_2025",
-        "Bank transaction records",
-        "Email correspondence evidence"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-02-14",
       "event_count": 1,
       "events": [
@@ -3310,20 +2512,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297857"
-    },
-    {
-      "date": "2025-02-14",
-      "event_ref": "EVENT_022",
-      "title": "R900,000 Unauthorized Transfers from RegimA SA",
-      "description": "Peter made unauthorized transfers of R900,000 from RegimA SA without Daniel's authority as co-director",
-      "category": "cipc_corporate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "bank_transfer_records",
-        "authorization_absence"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2025-02-25",
@@ -3383,21 +2571,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297860"
-    },
-    {
-      "date": "2025-02-25",
-      "event_ref": "EVENT_028",
-      "title": "R5.2M SLG Stock Missing & Large Invoice",
-      "description": "R5.2M SLG stock missing with simultaneous R5.2M invoice from SLG to RST. Stock physically disappeared, same type later supplied by Adderory to RegimA. Systematic asset stripping begins.",
-      "category": "stock_manipulation",
-      "significance_level": "low",
-      "evidence_refs": [
-        "financial_records",
-        "invoice_documentation",
-        "stock_reconciliation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2025-03-01",
@@ -3465,52 +2638,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297862"
     },
     {
-      "date": "2025-03-01",
-      "event_ref": "EVENT_001",
-      "title": "RegimA SA Revenue Diversion Started",
-      "description": "Diversion of revenue streams from RegimA SA initiated, marking the beginning of systematic revenue hijacking",
-      "category": "revenue_hijacking",
-      "significance_level": "low",
-      "evidence_refs": [
-        "financial_records",
-        "bank_statements"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-03-01",
-      "event_ref": "EVENT_024",
-      "title": "R5.4M Stock Disappears from Strategic Logistics",
-      "description": "R5.4M worth of stock physically disappears from Strategic Logistics warehouse. Represents 46% of annual sales, 10x historical adjustment rate. Same stock type later supplied by Adderory (Rynette's son's company) to RegimA.",
-      "category": "cipc_corporate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "stock_reconciliation_reports",
-        "warehouse_records",
-        "adderory_supply_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-03-01",
-      "event_ref": "EVENT_REGIMA_SA_DIVERSION",
-      "title": "RegimA SA Revenue Diversion Begins",
-      "description": "Diversion of revenue from RegimA SA begins, marking the start of systematic revenue stream hijacking.",
-      "category": "revenue_hijacking",
-      "significance_level": "critical",
-      "evidence_refs": [
-        "JF03",
-        "Bank statements"
-      ],
-      "actors": [
-        "PERSON_001",
-        "PERSON_002"
-      ],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-03-15",
       "event_count": 2,
       "events": [
@@ -3572,34 +2699,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297864"
     },
     {
-      "date": "2025-03-15",
-      "event_ref": "EVENT_002",
-      "title": "Trust Structure Establishment",
-      "description": "Foundation for R2.85M+ trust violations established through trust structure manipulation",
-      "category": "trust_violations",
-      "significance_level": "low",
-      "evidence_refs": [
-        "trust_documentation",
-        "beneficiary_records"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-03-15",
-      "event_ref": "EVENT_025",
-      "title": "R5.4M Stock Adjustment Processed Without Investigation",
-      "description": "R5.4M written off as simple 'stock adjustment' without investigation, supporting documentation, or proper authorization. Bantjies as accountant should have investigated 46% loss but did not, demonstrating complicity.",
-      "category": "stock_manipulation",
-      "significance_level": "low",
-      "evidence_refs": [
-        "general_ledger_entries",
-        "lack_of_investigation_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-03-30",
       "event_count": 1,
       "events": [
@@ -3649,21 +2748,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297866"
-    },
-    {
-      "date": "2025-03-30",
-      "event_ref": "EVENT_003",
-      "title": "Two Years Unallocated Expenses Dumped",
-      "description": "Rynette and Peter dumped two years' worth of unallocated expenses from all companies into RegimA Worldwide and pressured Daniel to sign off within 12 hours for SARS VAT & Annual Accounts. Daniel used time until June 6th to finalize reports and uncover fraud.",
-      "category": "criminal_activity",
-      "significance_level": "low",
-      "evidence_refs": [
-        "email_records",
-        "accounting_records",
-        "SARS_submissions"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2025-04-01",
@@ -3718,20 +2802,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297868"
     },
     {
-      "date": "2025-04-01",
-      "event_ref": "EVENT_004",
-      "title": "Payment Redirection Scheme",
-      "description": "Part of R4.28M+ financial diversions. Payments redirected from platform owned/paid by RegimA Zone Ltd (UK)",
-      "category": "revenue_hijacking",
-      "significance_level": "low",
-      "evidence_refs": [
-        "bank_records",
-        "payment_gateway_logs"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-04-14",
       "event_count": 1,
       "events": [
@@ -3779,36 +2849,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297870"
-    },
-    {
-      "date": "2025-04-14",
-      "event_ref": "EVENT_005",
-      "title": "Bank Account Change Letter for RegimA Worldwide",
-      "description": "Setup for R3.14M+ revenue theft. First documented act in coordinated scheme. Attempted redirect of payments from Dan's UK-funded infrastructure",
-      "category": "criminal_activity",
-      "significance_level": "low",
-      "evidence_refs": [
-        "bank_letter",
-        "account_change_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-04-14",
-      "event_ref": "EVENT_RYNETTE_BANK_LETTER",
-      "title": "Rynette Bank Letter for RegimA Worldwide Diversion",
-      "description": "Rynette sends bank letter to divert RegimA Worldwide funds, escalating the revenue hijacking scheme.",
-      "category": "revenue_hijacking",
-      "significance_level": "critical",
-      "evidence_refs": [
-        "Bank letter",
-        "JF03"
-      ],
-      "actors": [
-        "PERSON_002"
-      ],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2025-04-22",
@@ -3861,35 +2901,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297872"
     },
     {
-      "date": "2025-04-22",
-      "event_ref": "EVENT_029",
-      "title": "Cloud IT Systems Removal Order",
-      "description": "Peter ordered Cloud IT systems removal, seizing infrastructure control from legitimate operators.",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "system_access_logs_pending",
-        "it_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-04-22",
-      "event_ref": "EVENT_055",
-      "title": "Peter Orders Cloud IT Systems Removal",
-      "description": "Peter instructs removal of all cloud IT systems, systematic dismantling of cloud-based infrastructure as preparation for evidence destruction",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "it_system_removal_instruction",
-        "Supporting documentation",
-        "Cross-referenced evidence files"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-04-30",
       "event_count": 1,
       "events": [
@@ -3932,21 +2943,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297874"
-    },
-    {
-      "date": "2025-04-30",
-      "event_ref": "EVENT_056",
-      "title": "Server Missing from Office",
-      "description": "Physical server hardware disappears from office premises, potential evidence destruction or data harvesting in preparation for subsequent financial crimes",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "office_inventory_records",
-        "Supporting documentation",
-        "Cross-referenced evidence files"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2025-05-02",
@@ -3997,20 +2993,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297876"
-    },
-    {
-      "date": "2025-05-02",
-      "event_ref": "EVENT_006",
-      "title": "Unauthorized Beneficiary Changes",
-      "description": "Exclusion of legitimate beneficiaries. Direct violation of trust obligations and beneficiary rights",
-      "category": "trust_violations",
-      "significance_level": "low",
-      "evidence_refs": [
-        "trust_amendment_documents",
-        "beneficiary_correspondence"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2025-05-15",
@@ -4077,64 +3059,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297878"
     },
     {
-      "date": "2025-05-15",
-      "event_ref": "EVENT_007",
-      "title": "Jacqui Confronts Rynette About R1,035,000 Debt",
-      "description": "Jacqui confronted Rynette regarding R1,035,000 owed by RegimA Skin Treatments to Rezonance since Feb 2023. Jacqui stated these funds were part of Kayla's estate and keeping them would be profiting from proceeds of murder.",
-      "category": "kayla_estate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "confrontation_records",
-        "debt_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-05-15",
-      "event_ref": "EVENT_008",
-      "title": "Unauthorized Transfers (R850K+)",
-      "description": "R850,000+ unauthorized transfers. Direct evidence of financial authority abuse and theft. R850K+ included revenue from platform paid by UK company (28 months)",
-      "category": "criminal_activity",
-      "significance_level": "low",
-      "evidence_refs": [
-        "bank_transfer_records",
-        "authorization_logs"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-05-15",
-      "event_ref": "EVENT_050",
-      "title": "EVENT_050",
-      "description": "Jax confronts Rynette about R1,035,000 owed to ReZonance and Kayla's estate",
-      "category": "kayla_estate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "JF08 - Evidence packages",
-        "JF09 - Timeline analysis"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-05-15",
-      "event_ref": "EVENT_JAX_CONFRONTS_RYNETTE",
-      "title": "Jacqui Confronts Rynette About R1,035,000 Debt",
-      "description": "Jacqui confronts Rynette regarding ZAR 1,035,000 owed by RegimA Skin Treatments to Rezonance since Feb 2023. Jacqui stated these funds were part of Kayla's estate.",
-      "category": "digital_fraud",
-      "significance_level": "critical",
-      "evidence_refs": [
-        "Communication records"
-      ],
-      "actors": [
-        "PERSON_003",
-        "PERSON_002"
-      ],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-05-22",
       "event_count": 1,
       "events": [
@@ -4188,39 +3112,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297880"
     },
     {
-      "date": "2025-05-22",
-      "event_ref": "EVENT_009",
-      "title": "Shopify Audit Trail Hijacking",
-      "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
-      "category": "revenue_hijacking",
-      "significance_level": "low",
-      "evidence_refs": [
-        "platform_access_logs",
-        "audit_trail_records",
-        "business_shutdown_documentation",
-        "SF6 - Kayla Pretorius Estate Documentation",
-        "JF01 - Preserved Shopify evidence"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-05-23",
-      "event_ref": "EVENT_SHOPIFY_ORDERS_REMOVED",
-      "title": "Orders Removed from Shopify Platform",
-      "description": "Orders systematically removed from Shopify platform, disrupting business operations and revenue tracking.",
-      "category": "revenue_hijacking",
-      "significance_level": "critical",
-      "evidence_refs": [
-        "Shopify logs",
-        "JF01"
-      ],
-      "actors": [
-        "PERSON_002"
-      ],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-05-29",
       "event_count": 1,
       "events": [
@@ -4269,37 +3160,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297882"
-    },
-    {
-      "date": "2025-05-29",
-      "event_ref": "EVENT_010",
-      "title": "Domain Registration (Identity Fraud)",
-      "description": "Customer hijacking platform. Family conspiracy escalation and digital impersonation. Domain registered to impersonate business on Dan's UK-funded platform. New domain regimaskin.co.za registered by Adderory (Rynette's son's company) following Shopify shutdown.",
-      "category": "cipc_corporate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "domain_registration_records",
-        "whois_data"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-05-29",
-      "event_ref": "EVENT_ADDERORY_DOMAIN_REG",
-      "title": "Adderory Registers regimaskin.co.za Domain",
-      "description": "New domain regimaskin.co.za registered by Adderory (Rynette's son's company) following Shopify shutdown, enabling customer hijacking.",
-      "category": "cipc_corporate",
-      "significance_level": "critical",
-      "evidence_refs": [
-        "Domain registration records",
-        "JF08"
-      ],
-      "actors": [
-        "PERSON_002",
-        "ORG_ADDERORY"
-      ],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2025-06-06",
@@ -4389,35 +3249,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297886"
-    },
-    {
-      "date": "2025-06-06",
-      "event_ref": "EVENT_011",
-      "title": "Daniel Finalizes Fraud Reports",
-      "description": "Daniel finalized reports uncovering fraud after using time from March 30 deadline extension",
-      "category": "criminal_activity",
-      "significance_level": "low",
-      "evidence_refs": [
-        "fraud_reports",
-        "analysis_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-06-06",
-      "event_ref": "EVENT_057",
-      "title": "Daniel Sends Comprehensive Reports to Bantjies",
-      "description": "Daniel sends comprehensive documentation to Bantjies including listing of all companies, Shopify store operations, and preliminary reports, demonstrating full transparency",
-      "category": "digital_fraud",
-      "significance_level": "low",
-      "evidence_refs": [
-        "email_to_bantjies_2025_06_06",
-        "Supporting documentation",
-        "Cross-referenced evidence files"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2025-06-07",
@@ -4512,37 +3343,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297890"
     },
     {
-      "date": "2025-06-07",
-      "event_ref": "EVENT_012",
-      "title": "Secret Card Cancellations",
-      "description": "Secret cancellation of cards to sabotage Daniel's ability to pay creditors. Rynette may have opened 8 ABSA accounts using Daniel's stolen card.",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "bank_records",
-        "card_cancellation_logs"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-06-07",
-      "event_ref": "EVENT_SECRET_CARD_CANCELLATION",
-      "title": "Secret Card Cancellations",
-      "description": "Bank cards secretly cancelled less than 24 hours after Daniel exposed Villa Via fraud to Bantjies.",
-      "category": "criminal_activity",
-      "significance_level": "critical",
-      "evidence_refs": [
-        "Bank records",
-        "JF07"
-      ],
-      "actors": [
-        "PERSON_001",
-        "PERSON_002"
-      ],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-06-10",
       "event_count": 5,
       "events": [
@@ -4604,79 +3404,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297892"
     },
     {
-      "date": "2025-06-10",
-      "event_ref": "EVENT_023",
-      "title": "Bantjies Dismisses Audit Request",
-      "description": "CRITICAL EVENT: Bantjies dismisses Daniel's audit request 4 days after Daniel exposed Villa Via fraud. Audit would have discovered R5.4M stock adjustment fraud and systematic inter-company manipulation. Demonstrates consciousness of guilt and protection of fraud scheme.",
-      "category": "criminal_activity",
-      "significance_level": "low",
-      "evidence_refs": [
-        "audit_request_documentation",
-        "dismissal_correspondence",
-        "timeline_correlation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-06-10",
-      "event_ref": "EVENT_026",
-      "title": "Bantjies Dismisses Audit Request",
-      "description": "Bantjies dismisses Daniel's audit request 4 days after fraud exposure (June 6), demonstrating consciousness of guilt and conflict of interest given R18.685M debt to trust",
-      "category": "criminal_activity",
-      "significance_level": "low",
-      "evidence_refs": [
-        "audit_request_dismissal_documentation",
-        "bantjies_debt_records"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-06-10",
-      "event_ref": "EVENT_047",
-      "title": "EVENT_047",
-      "description": "Bantjies dismisses Daniel's audit request 4 days after fraud exposure",
-      "category": "criminal_activity",
-      "significance_level": "low",
-      "evidence_refs": [
-        "JF08 - Evidence packages",
-        "JF09 - Timeline analysis"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-06-10",
-      "event_ref": "EVENT_058",
-      "title": "Bantjies Learns of Criminal Matters",
-      "description": "Daniel reports to Bantjies about Kayla's murder (August 2023) and Peter stealing funds after murder, including over R1.8M owed to Rezonance. Bantjies acquires knowledge of criminal matters before signing confirmatory affidavit.",
-      "category": "criminal_activity",
-      "significance_level": "low",
-      "evidence_refs": [
-        "email_received_thanks_daniel_2025_08_29",
-        "Supporting documentation",
-        "Cross-referenced evidence files"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-06-10",
-      "event_ref": "EVENT_066",
-      "title": "EVENT_066",
-      "description": "Bantjes email confirms R10M bank balance decline year-on-year; first-ever substantial trading loss in RegimA Group history",
-      "category": "digital_fraud",
-      "significance_level": "low",
-      "evidence_refs": [
-        "Email: The RegimA Group results and Computer Expense analysis (2025-06-10)",
-        "Supporting documentation",
-        "Cross-referenced evidence files"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-06-18",
       "event_count": 1,
       "events": [
@@ -4722,20 +3449,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297894"
-    },
-    {
-      "date": "2025-06-18",
-      "event_ref": "EVENT_013",
-      "title": "Systematic Trust Violations",
-      "description": "Trustee misconduct and self-dealing. Clear evidence of trustee misconduct and self-dealing",
-      "category": "trust_violations",
-      "significance_level": "low",
-      "evidence_refs": [
-        "trust_transaction_records",
-        "conflict_of_interest_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2025-06-20",
@@ -4801,52 +3514,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297896"
     },
     {
-      "date": "2025-06-20",
-      "event_ref": "EVENT_014",
-      "title": "Email Impersonation Pattern and Domain Switch Instruction",
-      "description": "R3.1M+ losses enabled by email control. Pattern of impersonation supporting criminal conspiracy charges. Email control facilitated fraud related to platform paid by Dan's UK company since July 2023. Email from Gee in Aug explained to Jax that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email'.",
-      "category": "criminal_activity",
-      "significance_level": "low",
-      "evidence_refs": [
-        "email_records",
-        "customer_communications",
-        "gee_email_to_jax",
-        "SF2A - Sage Control User Access screenshot"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-06-20",
-      "event_ref": "EVENT_027",
-      "title": "Domain Switch Email Instruction",
-      "description": "Gee instructed to send email: 'don't use regima.zone only use regimaskin.co.za email', active customer diversion to fraudulent domain owned by Adderory",
-      "category": "criminal_activity",
-      "significance_level": "low",
-      "evidence_refs": [
-        "gee_email_instruction",
-        "domain_switch_email",
-        "SF2A - Sage Control User Access screenshot"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-06-20",
-      "event_ref": "EVENT_SF2A",
-      "title": "Rynette Dual Account Access Discovered",
-      "description": "Discovery of Rynette's dual account access in Sage (Pete@regima.com AND rynette@regima.zone)",
-      "category": "criminal_activity",
-      "significance_level": "low",
-      "evidence_refs": [
-        "SF2A",
-        "Bank transaction records",
-        "Email correspondence evidence"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-06-25",
       "event_count": 1,
       "events": [
@@ -4889,21 +3556,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297898"
-    },
-    {
-      "date": "2025-06-25",
-      "event_ref": "EVENT_064",
-      "title": "EVENT_064",
-      "description": "RegimaSA 2019 financial statements prepared and issued by Marisca Meyer, 6+ years after period end",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
-        "Supporting documentation",
-        "Cross-referenced evidence files"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2025-06-30",
@@ -4959,20 +3611,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297901"
     },
     {
-      "date": "2025-06-30",
-      "event_ref": "EVENT_015",
-      "title": "Coordinated Fund Diversions",
-      "description": "Complex financial flow manipulation. Evidence of sophisticated financial crime coordination. Fund diversions targeted revenue from infrastructure continuously funded by RegimA Zone Ltd",
-      "category": "revenue_hijacking",
-      "significance_level": "low",
-      "evidence_refs": [
-        "bank_transfer_records",
-        "financial_flow_analysis"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-07-08",
       "event_count": 1,
       "events": [
@@ -5023,20 +3661,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297903"
     },
     {
-      "date": "2025-07-08",
-      "event_ref": "EVENT_016",
-      "title": "Warehouse POPI Violations",
-      "description": "Complete operational shutdown. Documented evidence of systematic business destruction. Shutdown of operations for platform continuously funded by RegimA Zone Ltd (28 months)",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "warehouse_records",
-        "popi_violation_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-07-12",
       "event_count": 1,
       "events": [
@@ -5082,20 +3706,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297905"
-    },
-    {
-      "date": "2025-07-12",
-      "event_ref": "EVENT_017",
-      "title": "Account Manipulation",
-      "description": "Financial control seizure. Documented evidence of financial system abuse and unauthorized control. Control seized over accounts receiving Shopify revenue from Dan's UK-paid platform",
-      "category": "revenue_hijacking",
-      "significance_level": "low",
-      "evidence_refs": [
-        "account_access_logs",
-        "control_change_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2025-07-23",
@@ -5150,35 +3760,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297907"
     },
     {
-      "date": "2025-07-23",
-      "event_ref": "EVENT_065",
-      "title": "EVENT_065",
-      "description": "RegimA WWD Sage accounting registration expired; Rynette Farrar controls reactivation",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "Sage screenshot 2025-08-25 - Accounting Registration Expired",
-        "SF2B - Sage expiry notice"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-07-23",
-      "event_ref": "EVENT_SF2B",
-      "title": "Sage Subscription Expired - Access Obstruction",
-      "description": "Sage accounting subscription expired, Rynette controls reactivation, all parties denied access for over 1 month",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "SF2B",
-        "Supporting documentation",
-        "Cross-referenced evidence files"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-07-25",
       "event_count": 1,
       "events": [
@@ -5226,20 +3807,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297908"
     },
     {
-      "date": "2025-07-25",
-      "event_ref": "EVENT_018",
-      "title": "Trust Asset Misappropriation",
-      "description": "Trust property theft. Documented theft of trust property and breach of fiduciary duty",
-      "category": "criminal_activity",
-      "significance_level": "low",
-      "evidence_refs": [
-        "asset_transfer_records",
-        "trust_property_documentation"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-08-10",
       "event_count": 1,
       "events": [
@@ -5282,20 +3849,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297910"
-    },
-    {
-      "date": "2025-08-10",
-      "event_ref": "EVENT_019",
-      "title": "Trust Breach Evidence",
-      "description": "Complete compromise of trust integrity. Systematic evidence of ongoing trust law violations",
-      "category": "trust_violations",
-      "significance_level": "low",
-      "evidence_refs": [
-        "trust_violation_documentation",
-        "ongoing_breach_records"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2025-08-11",
@@ -5386,37 +3939,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297914"
-    },
-    {
-      "date": "2025-08-11",
-      "event_ref": "EVENT_059",
-      "title": "Settlement Agreement Signed",
-      "description": "Settlement agreement signed 2 days before interdict filing, demonstrating strategic coordination and timing to create leverage",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "settlement_agreement_2025_08_11",
-        "Supporting documentation",
-        "Cross-referenced evidence files"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-08-11",
-      "event_ref": "EVENT_SETTLEMENT_SIGNED",
-      "title": "Settlement Agreement Signed - Main Trustee Power Backdated",
-      "description": "Settlement agreement signed with Jacqui's cooperation. Main Trustee power backdated, occurring T-9 months before Ketoni payout.",
-      "category": "ketoni_motive",
-      "significance_level": "critical",
-      "evidence_refs": [
-        "Settlement agreement"
-      ],
-      "actors": [
-        "PERSON_001",
-        "PERSON_003"
-      ],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2025-08-13",
@@ -5522,51 +4044,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297917"
     },
     {
-      "date": "2025-08-13",
-      "event_ref": "EVENT_049",
-      "title": "EVENT_049",
-      "description": "Bantjies certifies Peter's affidavit as Commissioner of Oaths despite material omissions",
-      "category": "professional_misconduct",
-      "significance_level": "low",
-      "evidence_refs": [
-        "JF08 - Evidence packages",
-        "JF09 - Timeline analysis"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-08-13",
-      "event_ref": "EVENT_060",
-      "title": "Peter Files Founding Affidavit with Material Non-Disclosures",
-      "description": "Peter files founding affidavit containing material non-disclosures and perjury regarding email control, filed 2 days after settlement agreement",
-      "category": "digital_fraud",
-      "significance_level": "low",
-      "evidence_refs": [
-        "founding_affidavit_2025_08_13",
-        "Supporting documentation",
-        "Cross-referenced evidence files"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-08-13",
-      "event_ref": "EVENT_INTERDICT_FILED",
-      "title": "Peter Files Interdict - Jax & Dan Betrayal",
-      "description": "Peter files interdict in family court (not commercial court), 48 hours after settlement signing. Forum shopping to control beneficiaries' shares of Ketoni payout.",
-      "category": "ketoni_motive",
-      "significance_level": "critical",
-      "evidence_refs": [
-        "Court filings",
-        "JF06"
-      ],
-      "actors": [
-        "PERSON_001"
-      ],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-08-15",
       "event_count": 1,
       "events": [
@@ -5606,21 +4083,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297919"
-    },
-    {
-      "date": "2025-08-15",
-      "event_ref": "EVENT_026",
-      "title": "Gee Email Explaining Domain Switch Instruction",
-      "description": "Email from Gee to Jax explaining that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email' on June 20, 2025. Confirms customer hijacking scheme.",
-      "category": "digital_fraud",
-      "significance_level": "low",
-      "evidence_refs": [
-        "gee_email_to_jax",
-        "Bank transaction records",
-        "Email correspondence evidence"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2025-08-20",
@@ -5670,20 +4132,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297922"
     },
     {
-      "date": "2025-08-20",
-      "event_ref": "EVENT_020",
-      "title": "Financial Evidence Concealment",
-      "description": "Cover-up operations demonstrating guilt. Consciousness of guilt through evidence destruction attempts. Cover-up attempt to conceal fact that RWD ZA has no independent revenue stream - all revenue from Dan's UK-funded Shopify platform",
-      "category": "revenue_hijacking",
-      "significance_level": "low",
-      "evidence_refs": [
-        "concealment_documentation",
-        "evidence_destruction_records"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-08-29",
       "event_count": 1,
       "events": [
@@ -5726,21 +4174,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297923"
-    },
-    {
-      "date": "2025-08-29",
-      "event_ref": "EVENT_061",
-      "title": "ENS Africa Acknowledges Criminal Matters Then Suppresses",
-      "description": "ENS Africa acknowledges receipt of criminal matters information with 'Received, thanks Daniel' email, then suppresses this information from Court",
-      "category": "criminal_activity",
-      "significance_level": "low",
-      "evidence_refs": [
-        "email_received_thanks_daniel_2025_08_29",
-        "Supporting documentation",
-        "Cross-referenced evidence files"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
     },
     {
       "date": "2025-09-11",
@@ -5793,37 +4226,6 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297925"
     },
     {
-      "date": "2025-09-11",
-      "event_ref": "EVENT_021",
-      "title": "Accounts Emptied",
-      "description": "Accounts emptied, potentially because Daniel was still managing to pay creditors despite 6 months of sabotage",
-      "category": "general",
-      "significance_level": "low",
-      "evidence_refs": [
-        "bank_statements",
-        "account_balance_records"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-09-11",
-      "event_ref": "EVENT_ACCOUNTS_EMPTIED",
-      "title": "Company Accounts Emptied",
-      "description": "All company accounts emptied, potentially because Daniel was still managing to pay creditors despite 6 months of sabotage.",
-      "category": "cipc_corporate",
-      "significance_level": "critical",
-      "evidence_refs": [
-        "Bank statements",
-        "JF07"
-      ],
-      "actors": [
-        "PERSON_001",
-        "PERSON_002"
-      ],
-      "added_date": "2026-01-22"
-    },
-    {
       "date": "2025-10-23",
       "event_count": 1,
       "events": [
@@ -5870,38 +4272,6 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297927"
-    },
-    {
-      "date": "2025-10-23",
-      "event_ref": "EVENT_SF9",
-      "title": "R63M Formal Demand by Ian Levitt Attorneys",
-      "description": "Attorney letter demanding R60.25M revenue + $150K platform fees, total ~R63M, 48-hour deadline (ignored)",
-      "category": "revenue_hijacking",
-      "significance_level": "low",
-      "evidence_refs": [
-        "SF9",
-        "Supporting documentation",
-        "Cross-referenced evidence files"
-      ],
-      "actors": [],
-      "added_date": "2026-01-22"
-    },
-    {
-      "date": "2025-10-23",
-      "event_ref": "EVENT_R63M_DEMAND",
-      "title": "Ian Levitt R63M Formal Demand Letter",
-      "description": "Ian Levitt Attorneys sends formal demand letter for R63M, which is subsequently ignored by Peter and legal team.",
-      "category": "general",
-      "significance_level": "high",
-      "evidence_refs": [
-        "SF9",
-        "Demand letter"
-      ],
-      "actors": [
-        "Ian Levitt Attorneys",
-        "PERSON_001"
-      ],
-      "added_date": "2026-01-22"
     },
     {
       "entry_id": "TL_KETONI_009",

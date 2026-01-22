@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "27.0_COMPREHENSIVE_REFINEMENT_2026_01_22",
+    "version": "28.0",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "total_events": 98,
+    "total_events": 111,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-01-22T00:05:42.135060",
+    "last_updated": "2026-01-22",
     "changes": "Enhanced events with 2026-01-22 refinements, updated burden of proof analysis",
     "phase_statistics": {
       "PHASE_1": 25,
@@ -3936,6 +3936,206 @@
       "timeline_phase": "PHASE_KETONI",
       "added_date": "2026-01-22T00:05:29.017179",
       "refinement_date": "2026-01-22T00:05:42.135060"
+    },
+    {
+      "event_id": "EVENT_REGIMA_SA_DIVERSION",
+      "date": "2025-03-01",
+      "title": "RegimA SA Revenue Diversion Begins",
+      "description": "Diversion of revenue from RegimA SA begins, marking the start of systematic revenue stream hijacking.",
+      "significance": "CRITICAL: First documented revenue diversion event in the sabotage timeline.",
+      "actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "evidence": [
+        "JF03",
+        "Bank statements"
+      ],
+      "burden_of_proof": "verified_documentary"
+    },
+    {
+      "event_id": "EVENT_RYNETTE_BANK_LETTER",
+      "date": "2025-04-14",
+      "title": "Rynette Bank Letter for RegimA Worldwide Diversion",
+      "description": "Rynette sends bank letter to divert RegimA Worldwide funds, escalating the revenue hijacking scheme.",
+      "significance": "CRITICAL: Documentary evidence of intentional fund diversion.",
+      "actors": [
+        "PERSON_002"
+      ],
+      "evidence": [
+        "Bank letter",
+        "JF03"
+      ],
+      "burden_of_proof": "verified_documentary"
+    },
+    {
+      "event_id": "EVENT_SHOPIFY_ORDERS_REMOVED",
+      "date": "2025-05-23",
+      "title": "Orders Removed from Shopify Platform",
+      "description": "Orders systematically removed from Shopify platform, disrupting business operations and revenue tracking.",
+      "significance": "CRITICAL: Evidence of deliberate business sabotage.",
+      "actors": [
+        "PERSON_002"
+      ],
+      "evidence": [
+        "Shopify logs",
+        "JF01"
+      ],
+      "burden_of_proof": "verified_documentary"
+    },
+    {
+      "event_id": "EVENT_SECRET_CARD_CANCELLATION",
+      "date": "2025-06-07",
+      "title": "Secret Card Cancellations",
+      "description": "Bank cards secretly cancelled less than 24 hours after Daniel exposed Villa Via fraud to Bantjies.",
+      "significance": "CRITICAL: Demonstrates consciousness of guilt and retaliation for fraud exposure.",
+      "actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "evidence": [
+        "Bank records",
+        "JF07"
+      ],
+      "burden_of_proof": "verified_documentary"
+    },
+    {
+      "event_id": "EVENT_JAX_CONFRONTS_RYNETTE",
+      "date": "2025-05-15",
+      "title": "Jacqui Confronts Rynette About R1,035,000 Debt",
+      "description": "Jacqui confronts Rynette regarding ZAR 1,035,000 owed by RegimA Skin Treatments to Rezonance since Feb 2023. Jacqui stated these funds were part of Kayla's estate.",
+      "significance": "CRITICAL: Trigger event for subsequent retaliation (Shopify removal, domain registration).",
+      "actors": [
+        "PERSON_003",
+        "PERSON_002"
+      ],
+      "evidence": [
+        "Communication records"
+      ],
+      "burden_of_proof": "verified_testimonial"
+    },
+    {
+      "event_id": "EVENT_ADDERORY_DOMAIN_REG",
+      "date": "2025-05-29",
+      "title": "Adderory Registers regimaskin.co.za Domain",
+      "description": "New domain regimaskin.co.za registered by Adderory (Rynette's son's company) following Shopify shutdown, enabling customer hijacking.",
+      "significance": "CRITICAL: Evidence of premeditated customer diversion scheme.",
+      "actors": [
+        "PERSON_002",
+        "ORG_ADDERORY"
+      ],
+      "evidence": [
+        "Domain registration records",
+        "JF08"
+      ],
+      "burden_of_proof": "verified_documentary"
+    },
+    {
+      "event_id": "EVENT_ACCOUNTS_EMPTIED",
+      "date": "2025-09-11",
+      "title": "Company Accounts Emptied",
+      "description": "All company accounts emptied, potentially because Daniel was still managing to pay creditors despite 6 months of sabotage.",
+      "significance": "CRITICAL: Final act of financial sabotage.",
+      "actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "evidence": [
+        "Bank statements",
+        "JF07"
+      ],
+      "burden_of_proof": "verified_documentary"
+    },
+    {
+      "event_id": "EVENT_KETONI_INCORPORATION",
+      "date": "2023-02-20",
+      "title": "Ketoni Investment Holdings Incorporation",
+      "description": "Ketoni Investment Holdings (Pty) Ltd incorporated, establishing the entity that would later owe ZAR 18.75M to FFT.",
+      "significance": "CRITICAL: Establishes the corporate vehicle for the central financial motive.",
+      "actors": [
+        "Kevin Derrick"
+      ],
+      "evidence": [
+        "CIPC records"
+      ],
+      "burden_of_proof": "verified_documentary"
+    },
+    {
+      "event_id": "EVENT_FFT_KETONI_INVESTMENT",
+      "date": "2023-04-24",
+      "title": "FFT Invests in Ketoni - ZAR 18.75M Entitlement Established",
+      "description": "Faucitt Family Trust invests in Ketoni Investment Holdings, receiving Share Certificate #3 for 5,000 A-Ordinary shares. This establishes the ZAR 18.75M payout entitlement due May 2026.",
+      "significance": "CRITICAL: Establishes the central financial motive for all subsequent events.",
+      "actors": [
+        "FFT",
+        "Ketoni"
+      ],
+      "evidence": [
+        "Share Certificate J246",
+        "Investment agreement"
+      ],
+      "burden_of_proof": "verified_documentary"
+    },
+    {
+      "event_id": "EVENT_BANTJIES_TRUSTEE_APPOINTMENT",
+      "date": "2024-07-01",
+      "title": "Bantjies Appointed FFT Trustee by Rynette",
+      "description": "Daniel Jacobus Bantjies appointed as Trustee of Faucitt Family Trust by Rynette, T-10 months before Ketoni payout. Strategic appointment to consolidate trust control.",
+      "significance": "CRITICAL: Strategic trustee appointment aligned with Ketoni payout timeline.",
+      "actors": [
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "evidence": [
+        "Trust documents"
+      ],
+      "burden_of_proof": "verified_documentary"
+    },
+    {
+      "event_id": "EVENT_SETTLEMENT_SIGNED",
+      "date": "2025-08-11",
+      "title": "Settlement Agreement Signed - Main Trustee Power Backdated",
+      "description": "Settlement agreement signed with Jacqui's cooperation. Main Trustee power backdated, occurring T-9 months before Ketoni payout.",
+      "significance": "CRITICAL: Consolidation of trust control before payout.",
+      "actors": [
+        "PERSON_001",
+        "PERSON_003"
+      ],
+      "evidence": [
+        "Settlement agreement"
+      ],
+      "burden_of_proof": "verified_documentary"
+    },
+    {
+      "event_id": "EVENT_INTERDICT_FILED",
+      "date": "2025-08-13",
+      "title": "Peter Files Interdict - Jax & Dan Betrayal",
+      "description": "Peter files interdict in family court (not commercial court), 48 hours after settlement signing. Forum shopping to control beneficiaries' shares of Ketoni payout.",
+      "significance": "CRITICAL: Forum shopping to maximize control over trust assets.",
+      "actors": [
+        "PERSON_001"
+      ],
+      "evidence": [
+        "Court filings",
+        "JF06"
+      ],
+      "burden_of_proof": "verified_documentary"
+    },
+    {
+      "event_id": "EVENT_R63M_DEMAND",
+      "date": "2025-10-23",
+      "title": "Ian Levitt R63M Formal Demand Letter",
+      "description": "Ian Levitt Attorneys sends formal demand letter for R63M, which is subsequently ignored by Peter and legal team.",
+      "significance": "HIGH: Evidence of substantial financial exposure being ignored.",
+      "actors": [
+        "Ian Levitt Attorneys",
+        "PERSON_001"
+      ],
+      "evidence": [
+        "SF9",
+        "Demand letter"
+      ],
+      "burden_of_proof": "verified_documentary"
     }
   ]
 }
