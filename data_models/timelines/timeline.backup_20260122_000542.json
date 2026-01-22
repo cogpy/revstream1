@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "version": "26.0_COMPREHENSIVE_REFINEMENT_2026_01_22",
+    "version": "28.0_COMPREHENSIVE_REFINEMENT_2026_01_18",
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-01-22T00:05:42.145666",
-    "changes": "Enhanced timeline with 2026-01-22 refinements, added Ketoni timeline entries",
+    "last_updated": "2026-01-18T05:36:58.297931",
+    "changes": "Enhanced 77 timeline entries with entity linkages",
     "criminal_threshold_entries": 6,
     "high_significance_entries": 7,
     "total_entries": 118,
@@ -456,11 +456,11 @@
     },
     {
       "date": "2016-07-05",
-      "event": "Chan\u00e9 Todd becomes director of Dandelion SA; Kirby Van Der Stelt resigns",
+      "event": "Chané Todd becomes director of Dandelion SA; Kirby Van Der Stelt resigns",
       "category": "directorship_change",
       "entities": [
         "Dandelion SA",
-        "Chan\u00e9 Auriele Todd",
+        "Chané Auriele Todd",
         "Kirby Rae Van Der Stelt"
       ],
       "evidence": [
@@ -4344,7 +4344,7 @@
       "action_required": "Map Rynette's access evolution from 2020 to 2025"
     },
     "bantjes_connection": {
-      "insight": "Danie Bantjes: 2020 accountant \u2192 2024 Trustee appointment",
+      "insight": "Danie Bantjes: 2020 accountant → 2024 Trustee appointment",
       "implication": "Links financial manipulation expertise to trust control",
       "strategic_value": "Explains why Bantjes was chosen as Trustee",
       "action_required": "Investigate Bantjes' role in both capacities"

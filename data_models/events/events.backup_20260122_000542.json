@@ -6,7 +6,7 @@
     "case_number": "2025-137857",
     "total_events": 98,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-01-22T00:05:42.135060",
+    "last_updated": "2026-01-22T00:05:29.017179",
     "changes": "Enhanced events with 2026-01-22 refinements, updated burden of proof analysis",
     "phase_statistics": {
       "PHASE_1": 25,
@@ -55,7 +55,7 @@
         "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
       "burden_of_proof": "civil_50%_exceeded",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_H001",
@@ -91,7 +91,7 @@
         "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
       "burden_of_proof": "civil_50%_exceeded",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_H002",
@@ -127,7 +127,7 @@
         "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
       "burden_of_proof": "civil_50%_exceeded",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_H012",
@@ -176,7 +176,7 @@
         "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
       "burden_of_proof": "civil_50%",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_H003",
@@ -214,7 +214,7 @@
         "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
       "burden_of_proof": "civil_50%",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_H004",
@@ -252,7 +252,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_091",
@@ -297,7 +297,7 @@
         "PERSON_004",
         "ORG_001"
       ],
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_H005",
@@ -342,7 +342,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_051",
@@ -385,7 +385,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_H006",
@@ -430,7 +430,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_052",
@@ -467,7 +467,7 @@
         "ANNEXURES/JF08 - Evidence packages"
       ],
       "burden_of_proof": "civil_50%_exceeded",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_089",
@@ -515,7 +515,7 @@
         "PERSON_004"
       ],
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_H007",
@@ -556,7 +556,7 @@
         "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
       "burden_of_proof": "civil_50%",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_053",
@@ -593,7 +593,7 @@
         "ANNEXURES/JF08 - Evidence packages"
       ],
       "burden_of_proof": "civil_50%_exceeded",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_H008",
@@ -629,7 +629,7 @@
         "SF1_Bantjies_Debt_Documentation.md"
       ],
       "burden_of_proof": "civil_50%_exceeded",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_048",
@@ -673,7 +673,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_H018",
@@ -709,7 +709,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_090",
@@ -754,7 +754,7 @@
         "PERSON_004",
         "ORG_001"
       ],
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_088",
@@ -793,7 +793,7 @@
       ],
       "perpetrators": [],
       "victims": [],
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_H009",
@@ -834,7 +834,7 @@
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_086",
@@ -871,7 +871,7 @@
       "victims": [
         "PERSON_010"
       ],
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_087",
@@ -916,7 +916,7 @@
         "PERSON_005"
       ],
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_D001",
@@ -956,7 +956,7 @@
         "ANNEXURES/JF04 - CIPC company records"
       ],
       "burden_of_proof": "civil_50%_exceeded",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_D002",
@@ -991,7 +991,7 @@
         "ANNEXURES/JF04 - Personal bank records"
       ],
       "burden_of_proof": "civil_50%_exceeded",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_067",
@@ -1053,7 +1053,7 @@
         "SF6_Kayla_Pretorius_Estate_Documentation.md",
         "SF7_Court_Order_Kayla_Email_Seizure.md"
       ],
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_H010",
@@ -1091,7 +1091,7 @@
         "SF6_Kayla_Pretorius_Estate_Documentation.md"
       ],
       "burden_of_proof": "civil_50%_exceeded",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_D003",
@@ -1131,7 +1131,7 @@
         "ANNEXURES/JF04 - CIPC company records"
       ],
       "burden_of_proof": "civil_50%_exceeded",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_D004",
@@ -1173,7 +1173,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_D005",
@@ -1217,7 +1217,7 @@
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_023",
@@ -1257,7 +1257,7 @@
         "SF6_Kayla_Pretorius_Estate_Documentation.md"
       ],
       "burden_of_proof": "civil_50%_exceeded",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_054",
@@ -1293,7 +1293,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_022",
@@ -1334,7 +1334,7 @@
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_028",
@@ -1380,7 +1380,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_001",
@@ -1420,7 +1420,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_024",
@@ -1467,7 +1467,7 @@
         "SF5_Adderory_Company_Registration.md"
       ],
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_002",
@@ -1508,7 +1508,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_025",
@@ -1550,7 +1550,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_003",
@@ -1598,7 +1598,7 @@
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_004",
@@ -1651,7 +1651,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_005",
@@ -1702,7 +1702,7 @@
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_029",
@@ -1741,7 +1741,7 @@
         "ANNEXURES/JF04 - Personal bank records"
       ],
       "burden_of_proof": "civil_50%_exceeded",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_055",
@@ -1779,7 +1779,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_056",
@@ -1816,7 +1816,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_006",
@@ -1859,7 +1859,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_007",
@@ -1905,7 +1905,7 @@
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
       "burden_of_proof": "civil_50%_exceeded",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_008",
@@ -1957,7 +1957,7 @@
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_050",
@@ -2004,7 +2004,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_009",
@@ -2057,7 +2057,7 @@
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_010",
@@ -2106,7 +2106,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_011",
@@ -2143,7 +2143,7 @@
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_057",
@@ -2179,7 +2179,7 @@
         "SF1_Bantjies_Debt_Documentation.md"
       ],
       "burden_of_proof": "civil_50%",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_012",
@@ -2221,7 +2221,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_023",
@@ -2269,7 +2269,7 @@
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_026",
@@ -2312,7 +2312,7 @@
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_047",
@@ -2354,7 +2354,7 @@
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_058",
@@ -2392,7 +2392,7 @@
         "SF6_Kayla_Pretorius_Estate_Documentation.md",
         "SF1_Bantjies_Debt_Documentation.md"
       ],
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_066",
@@ -2440,7 +2440,7 @@
         "ANNEXURES/JF04 - Personal bank records"
       ],
       "burden_of_proof": "civil_50%",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_013",
@@ -2481,7 +2481,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_014",
@@ -2533,7 +2533,7 @@
       ],
       "criminal_significance": true,
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_027",
@@ -2585,7 +2585,7 @@
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_SF2A",
@@ -2634,7 +2634,7 @@
         "ORG_001"
       ],
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_064",
@@ -2678,7 +2678,7 @@
         "ANNEXURES/JF08 - Evidence packages"
       ],
       "burden_of_proof": "civil_50%",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_015",
@@ -2732,7 +2732,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_016",
@@ -2781,7 +2781,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_017",
@@ -2833,7 +2833,7 @@
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_065",
@@ -2872,7 +2872,7 @@
         "ANNEXURES/JF07 - Screenshots and visual evidence"
       ],
       "burden_of_proof": "civil_50%_exceeded",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_SF2B",
@@ -2920,7 +2920,7 @@
         "PERSON_004",
         "ORG_001"
       ],
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_018",
@@ -2963,7 +2963,7 @@
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_019",
@@ -3003,7 +3003,7 @@
         "ANNEXURES/JF10 - Trust documents"
       ],
       "burden_of_proof": "civil_50%_exceeded",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_059",
@@ -3043,7 +3043,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_049",
@@ -3085,7 +3085,7 @@
         "ANNEXURES/JF06 - Court documents and filings"
       ],
       "burden_of_proof": "civil_50%_exceeded",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_060",
@@ -3125,7 +3125,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_026",
@@ -3165,7 +3165,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_020",
@@ -3216,7 +3216,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_061",
@@ -3253,7 +3253,7 @@
         "ANNEXURES/JF06 - Court documents and filings"
       ],
       "burden_of_proof": "civil_50%",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_021",
@@ -3296,7 +3296,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_SF9",
@@ -3349,7 +3349,7 @@
         "PERSON_005",
         "PERSON_004"
       ],
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_CIPC_001",
@@ -3379,7 +3379,7 @@
         "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293484",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_CIPC_002",
@@ -3413,7 +3413,7 @@
         "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293486",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_CIPC_003",
@@ -3444,7 +3444,7 @@
         "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293488",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_CIPC_004",
@@ -3473,7 +3473,7 @@
         "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293489",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_CIPC_005",
@@ -3507,7 +3507,7 @@
         "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293491",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_092",
@@ -3533,7 +3533,7 @@
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293493",
       "burden_of_proof": "to_be_verified",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_093",
@@ -3559,7 +3559,7 @@
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293496",
       "burden_of_proof": "to_be_verified",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_094",
@@ -3587,7 +3587,7 @@
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293498",
       "burden_of_proof": "to_be_verified",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_095",
@@ -3615,7 +3615,7 @@
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293499",
       "burden_of_proof": "to_be_verified",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_096",
@@ -3643,7 +3643,7 @@
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293501",
       "burden_of_proof": "to_be_verified",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_097",
@@ -3669,7 +3669,7 @@
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293503",
       "burden_of_proof": "to_be_verified",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_098",
@@ -3696,7 +3696,7 @@
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293515",
       "burden_of_proof": "to_be_verified",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_99",
@@ -3725,7 +3725,7 @@
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293522",
       "burden_of_proof": "to_be_verified",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_100",
@@ -3751,7 +3751,7 @@
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293525",
       "burden_of_proof": "to_be_verified",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_101",
@@ -3776,7 +3776,7 @@
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293527",
       "burden_of_proof": "to_be_verified",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_102",
@@ -3800,7 +3800,7 @@
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293529",
       "burden_of_proof": "to_be_verified",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_103",
@@ -3824,7 +3824,7 @@
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293531",
       "burden_of_proof": "to_be_verified",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_104",
@@ -3849,7 +3849,7 @@
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293533",
       "burden_of_proof": "to_be_verified",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_KETONI_CERT",
@@ -3881,7 +3881,7 @@
         "payout_amount": "ZAR 18.75M"
       },
       "added_date": "2026-01-22T00:05:29.017179",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_KAYLA_DEATH",
@@ -3908,7 +3908,7 @@
       "criminal_threshold": "circumstantial_evidence",
       "timeline_phase": "PHASE_KETONI",
       "added_date": "2026-01-22T00:05:29.017179",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     },
     {
       "event_id": "EVENT_BANTJIES_GEORGE",
@@ -3935,7 +3935,7 @@
       "criminal_threshold": "pattern_evidence",
       "timeline_phase": "PHASE_KETONI",
       "added_date": "2026-01-22T00:05:29.017179",
-      "refinement_date": "2026-01-22T00:05:42.135060"
+      "refinement_date": "2026-01-22T00:05:29.017179"
     }
   ]
 }

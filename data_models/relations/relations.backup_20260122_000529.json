@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "32.0_COMPREHENSIVE_REFINEMENT_2026_01_22",
+    "version": "31.0_COMPREHENSIVE_REFINEMENT_2026_01_18",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-01-22T00:05:42.139830",
-    "changes": "Enhanced relations with 2026-01-22 refinements, added Ketoni network relations",
-    "total_relations": 123
+    "last_updated": "2026-01-18T05:36:58.289379",
+    "changes": "Enhanced 62 relations with evidence references",
+    "total_relations": 117
   },
   "relations": {
     "ownership_relations": [
@@ -2796,8 +2796,7 @@
         ],
         "evidence_verified": "2026-01-18T05:36:58.289377"
       }
-    ],
-    "investment_relations": []
+    ]
   },
   "financial_manipulation_patterns": {
     "year_end_manipulation": {

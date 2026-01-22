@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "32.0_COMPREHENSIVE_REFINEMENT_2026_01_22",
+    "version": "31.0_COMPREHENSIVE_REFINEMENT_2026_01_18",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-22T00:05:42.130025",
-    "changes": "Enhanced entities with 2026-01-22 refinements, updated Ketoni context, added trial balance evidence links",
+    "last_updated": "2026-01-18T05:36:58.285238",
+    "changes": "Enhanced 42 entities with evidence references",
     "total_entities": 79,
     "total_persons": 38,
     "total_organizations": 41
@@ -98,24 +98,12 @@
             "beneficiary_neutralization_via_interdict",
             "curatorship_fraud_attempt"
           ],
-          "timing_analysis": "All control actions T-9 to T-10 months before May 2026 payout - VERIFIED",
+          "timing_analysis": "All control actions T-9 to T-10 months before May 2026 payout",
           "red_flags": [
             "family_court_instead_of_commercial_court",
             "main_trustee_backdated_to_2025-07-01",
             "interdict_filed_2025-08-13_T-9_months",
             "medical_testing_rushed_for_curatorship"
-          ]
-        },
-        "refinement_date": "2026-01-22T00:05:42.130025",
-        "burden_of_proof_analysis": {
-          "civil_50%": "EXCEEDED - Multiple documentary evidence",
-          "criminal_95%": "EXCEEDED - Pattern of coordinated fraud",
-          "key_evidence": [
-            "Ketoni Share Certificate J246",
-            "Trust Deed beneficiary provisions",
-            "Interdict timing T-9 months before payout",
-            "Card cancellation <24 hours after fraud exposure",
-            "Forum shopping to Family Court"
           ]
         }
       },
@@ -215,18 +203,7 @@
           "date": "2020-08-13",
           "evidence": "Email recipient for final trial balances",
           "significance": "Establishes financial access 5 years before 2025 fraud",
-          "continuity_to_2025": "Same person led May 2025 cover-up - VERIFIED"
-        },
-        "refinement_date": "2026-01-22T00:05:42.130025",
-        "burden_of_proof_analysis": {
-          "civil_50%": "EXCEEDED - Sage control evidence, email access",
-          "criminal_95%": "EXCEEDED - Payment redirection, identity fraud",
-          "key_evidence": [
-            "SF2 - Sage Screenshots showing dual account access",
-            "Trial Balance Email 2020-08-13",
-            "Domain registration fraud evidence",
-            "Bank account change letter"
-          ]
+          "continuity_to_2025": "Same person led May 2025 cover-up"
         }
       },
       {
@@ -460,21 +437,7 @@
             "accountant": "Accountant for all Faucitt companies",
             "trustee": "FFT Trustee (appointed July 2024 by Rynette)",
             "conflict": "Dan contacted as accountant, unaware of trustee appointment"
-          },
-          "appointment_timing": "T-10 months before May 2026 payout - VERIFIED",
-          "george_group_connection": "CFO at The George Group where Kevin Derrick (Ketoni Director) is also director",
-          "trustee_conflict": "Controls distribution of ZAR 18.75M payout as Trustee while connected to Ketoni Director"
-        },
-        "refinement_date": "2026-01-22T00:05:42.130025",
-        "burden_of_proof_analysis": {
-          "civil_50%": "EXCEEDED - Trustee appointment, debt to trust",
-          "criminal_95%": "LIKELY - Conflict of interest, false affidavit",
-          "key_evidence": [
-            "SF1 - Bantjies Debt Documentation R1,048,000",
-            "Trustee appointment July 2024",
-            "George Group CFO position",
-            "Kevin Derrick connection"
-          ]
+          }
         }
       },
       {
@@ -1185,7 +1148,7 @@
       },
       {
         "entity_id": "PERSON_32",
-        "name": "Chan\u00e9 Auriele Todd",
+        "name": "Chané Auriele Todd",
         "id_number": "8909280264080",
         "date_of_birth": "1989-09-28",
         "role": "Distributor",
@@ -2414,7 +2377,7 @@
         "registered_address": "37 Sandpiper Street, Ebotse Golf Estate, Benoni, 1514",
         "directors": [
           {
-            "name": "Chan\u00e9 Auriele Todd",
+            "name": "Chané Auriele Todd",
             "status": "ACTIVE"
           },
           {

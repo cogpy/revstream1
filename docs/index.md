@@ -1,6 +1,6 @@
 # Revenue Stream Hijacking Case 2025-137857
 
-**Last Updated:** 2026-01-17
+**Last Updated:** 2026-01-22
 
 This site provides comprehensive evidence, analysis, and legal documentation for case 2025-137857 involving revenue stream hijacking, trust violations, and financial fraud totaling **R10,269,727.90**.
 
@@ -22,20 +22,6 @@ This financial motive explains:
 
 ---
 
-
-## 📉 2020 Trial Balance Analysis: The Blueprint for Fraud
-
-The newly integrated trial balance evidence from 2019-2020 reveals a sophisticated blueprint for financial manipulation that predates the 2025 fraud events. This evidence is critical in establishing a long-standing pattern of behavior.
-
-**Key Findings:**
-- **Systematic Profit Shifting**: Profits were artificially concentrated in RegimA Skin Treatments (RST) through mechanisms like inter-company debt and interest payments.
-- **Coordinated Cost Dumping**: Expenses were systematically dumped onto RegimA Worldwide Distribution (RWW) to obscure true profitability.
-- **Capital Extraction**: Villa Via was used as a vehicle for capital extraction through large, unexplained members' loans.
-- **Centralized Control**: A single bookkeeper, controlled by the co-director, managed all entity accounts, enabling centralized manipulation.
-
-**[→ View Detailed 2020 Financial Analysis](./2020-financial-analysis.md)**
-
----
 ## 📊 Quick Navigation by Application
 
 ### Application 1: Civil & Criminal Actions
@@ -67,10 +53,10 @@ The newly integrated trial balance evidence from 2019-2020 reveals a sophisticat
 ### Core Documentation
 - **[Ketoni Payout Timeline](./ketoni-timeline.md)** - Central financial motive (ZAR 18.75M May 2026)
 - **[Comprehensive Evidence Index](./evidence-index-enhanced.md)** - All evidence categorized and cross-referenced
-- **[Master Timeline](./timeline.md)** - Complete chronological event sequence (112 entries)
-- **[Entities Directory](./entities/index.md)** - All persons and organizations (75 entities)
-- **[Events Directory](./events/)** - Detailed event documentation
-- **[Relations Analysis](./relations/index.md)** - Entity relationship mapping (117 relations)
+- **[Master Timeline](./timeline.md)** - Complete chronological event sequence (118 entries)
+- **[Entities Directory](./entities/index.md)** - All persons and organizations (79 entities)
+- **[Events Directory](./events/)** - Detailed event documentation (98 events)
+- **[Relations Analysis](./relations/index.md)** - Entity relationship mapping (123 relations)
 
 ### Evidence Packages (JF Series)
 - **JF01** - Shopify Plus email evidence (THE FORENSIC TIME CAPSULE)
@@ -100,12 +86,11 @@ The newly integrated trial balance evidence from 2019-2020 reveals a sophisticat
 
 ## 📁 Legal Filings
 
-### Latest Filings (2026-01-17) - Ketoni Integrated
-- **[CIPC Complaint (Ketoni Integrated)](./filings/CIPC_KETONI_2026_01_17.md)**
-- **[POPIA Complaint (Ketoni Integrated)](./filings/POPIA_KETONI_2026_01_17.md)**
-- **[NPA Tax Fraud Report (Ketoni Integrated)](./filings/NPA_KETONI_2026_01_17.md)**
-- **[Civil Action Summons (Ketoni Integrated)](./filings/CIVIL_KETONI_2026_01_17.md)**
-- **[Criminal Case Submission (Ketoni Integrated)](./filings/CRIMINAL_KETONI_2026_01_17.md)**
+### Latest Filings (2026-01-22) - Comprehensive Update
+- **[CIPC Complaint (Refined)](./filings/CIPC_REFINED_2026_01_22.md)**
+- **[POPIA Complaint (Refined)](./filings/POPIA_REFINED_2026_01_22.md)**
+- **[NPA Tax Fraud Report (Refined)](./filings/NPA_REFINED_2026_01_22.md)**
+- **[Commercial Crime Submission (Refined)](./filings/COMMERCIAL_CRIME_REFINED_2026_01_22.md)**
 
 ### All Filings
 - **[Filings Index](./filings/index.md)** - All legal filings organized by type and date
@@ -115,7 +100,7 @@ The newly integrated trial balance evidence from 2019-2020 reveals a sophisticat
 ## 📈 Visual Evidence
 
 ### Timeline Visualizations
-- [Ketoni Payout Timeline](./ketoni_timeline.png) - **NEW: Central financial motive**
+- [Ketoni Payout Timeline](./ketoni_timeline.png) - **Central financial motive**
 - [Comprehensive Timeline](./comprehensive_timeline_fixed.png)
 - [Criminal Events Timeline](./criminal_events_timeline_fixed.png)
 - [Criminal Threshold Events](./criminal_threshold_events_timeline.png)
@@ -150,7 +135,7 @@ The newly integrated trial balance evidence from 2019-2020 reveals a sophisticat
 - **Role**: Operational controller (NOT TRUSTEE)
 - **Key Action**: Appointed Bantjies as Trustee (July 2024, T-10 months before payout)
 - **Control Areas**: Accounting systems, email access (pete@regima.com), bank accounts
-- Evidence Strength: **Strong**
+- Evidence Strength: **Conclusive**
 - Criminal Threshold: **95% likely**
 
 ### [Daniel Jacobus Bantjies](./entities/PERSON_007.md) (PERSON_007) - Strategic Appointee
@@ -161,26 +146,14 @@ The newly integrated trial balance evidence from 2019-2020 reveals a sophisticat
 - Evidence Strength: **Strong**
 - Debt to trust: R1,048,000
 
-### [Jacqueline Faucitt](./entities/PERSON_004.md) (PERSON_004) - Neutralized Trustee
-- **Status**: NEUTRALIZED via interdict (Aug 13, 2025)
-- **Beneficiary Entitlement**: 1/3 share (ZAR 6.25M)
-- **Betrayal Timeline**: Cooperation (Aug 11) → Betrayal (Aug 13, 48 hours later)
-- **Motive**: Neutralize trustee before May 2026 payout distribution
-
-### [Daniel James Faucitt](./entities/PERSON_005.md) (PERSON_005) - Targeted Beneficiary
-- **Status**: TARGETED for curatorship fraud
-- **Beneficiary Entitlement**: 1/3 share (ZAR 6.25M)
-- **Threat to Peter**: Curatorship = Peter controls Dan's entire share
-- **Retaliation Timeline**: Fraud exposure (Jun 6) → Cards cancelled <24 hours (Jun 7) → Interdict (Aug 13)
-
 ---
 
 ## 🔑 Key Statistics
 
-- **Entities:** 75 (persons, organizations, trusts, domains)
-- **Events:** 112 documented events (including 9 Ketoni events)
-- **Relations:** 117 mapped relationships (including 9 Ketoni relations)
-- **Criminal Threshold Events:** 6 (all Ketoni-related)
+- **Entities:** 79 (persons, organizations, trusts, domains)
+- **Events:** 98 documented events
+- **Relations:** 123 mapped relationships
+- **Timeline Entries:** 118
 - **Evidence Files:** 1,151+ unique references in ad-res-j7
 
 **Evidence Strength:**
@@ -197,17 +170,13 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 - **[KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md](https://github.com/cogpy/ad-res-j7/blob/main/KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md)** - Comprehensive Ketoni analysis
 - **evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md** - Detailed timeline
 - **lex/entity_relation_framework_v48_ketoni_payout_integrated.scm** - Entity-relation framework
-- **lex/agent_based_model_v48_ketoni_integrated.scm** - Agent-based model
-- **lex/trs/za/south_african_trust_law_enhanced_v9_ketoni_payout.scm** - Legal principles
 
 ### Standard Evidence
 - **ANNEXURES/** - All JF01-JF16 evidence packages
 - **Supporting Files** - SF1-SF9 documentation
 - **1-CIVIL-RESPONSE/** - Answering affidavit and annexures
 - **2-CRIMINAL-CASE/** - Criminal case documentation
-- **revenue-stream-hijacking-rynette/** - Dedicated evidence folder
-- **jax-response/** - Comprehensive response materials
-- **evidence/** - Bank statements, emails, financial records
+- **3-EXTERNAL-VALIDATION/** - External validation package
 
 **Total Evidence Files in ad-res-j7:** 1,151+ files
 
@@ -234,9 +203,9 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 *This documentation is continuously updated as new evidence is analyzed and legal filings are refined. All evidence references are cross-linked to the ad-res-j7 repository for verification and detailed examination.*
 
 **Data Model Versions:**
-- Entities: v28.0 (2026-01-17) - Ketoni Integrated
-- Events: v25.1 (2026-01-17) - Ketoni Integrated
-- Relations: v23.0 (2026-01-17) - Ketoni Integrated
-- Timeline: v25.0 (2026-01-17) - Ketoni Integrated
+- Entities: v32.0_COMPREHENSIVE_REFINEMENT_2026_01_22
+- Events: v27.0_COMPREHENSIVE_REFINEMENT_2026_01_22
+- Relations: v32.0_COMPREHENSIVE_REFINEMENT_2026_01_22
+- Timeline: v26.0_COMPREHENSIVE_REFINEMENT_2026_01_22
 
-**Ketoni Integration:** Complete - All data models, timelines, and legal filings updated with ZAR 18.75M payout context as central financial motive.
+**Last Refinement:** 2026-01-22 00:10:25
