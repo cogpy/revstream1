@@ -1565,27 +1565,6 @@
       ]
     },
     {
-      "date": "2023-01-01",
-      "event_ref": "EVENT_H010",
-      "title": "Kayla Pretorius Murder",
-      "description": "Murder of Kayla Pretorius, creating estate complications, law enforcement investigation, and family trauma. Estate includes ReZonance debt of R1,035,000.",
-      "category": "kayla_estate",
-      "significance_level": "low",
-      "evidence_refs": [
-        "estate_documentation_pending",
-        "police_reports_pending"
-      ],
-      "actors": [
-        "Rynette Farrar",
-        "Kayla"
-      ],
-      "added_date": "2026-01-22",
-      "merged_from": [
-        "EVENT_GEN_1_EVENTS_ON_2023_01_01_0101",
-        "EVENT_H010"
-      ]
-    },
-    {
       "date": "2023-02-20",
       "event_ref": "EVENT_KETONI_INCORPORATION",
       "title": "Ketoni Investment Holdings Incorporation",
@@ -1686,6 +1665,27 @@
       ],
       "actors": [],
       "added_date": "2026-01-22"
+    },
+    {
+      "date": "2023-07-13",
+      "event_ref": "EVENT_H010",
+      "title": "Kayla Pretorius Murder",
+      "description": "Murder of Kayla Pretorius, creating estate complications, law enforcement investigation, and family trauma. Estate includes ReZonance debt of R1,035,000.",
+      "category": "kayla_estate",
+      "significance_level": "low",
+      "evidence_refs": [
+        "estate_documentation_pending",
+        "police_reports_pending"
+      ],
+      "actors": [
+        "Rynette Farrar",
+        "Kayla"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2023_07_13_0713",
+        "EVENT_H010"
+      ]
     },
     {
       "entry_id": "TL_KETONI_002",
