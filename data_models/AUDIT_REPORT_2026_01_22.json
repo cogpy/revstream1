@@ -1,0 +1,490 @@
+{
+  "audit_date": "2026-01-22T02:13:57.452003",
+  "total_issues": 84,
+  "issues": [
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_TEMP_002",
+      "entity_ref": "audit_trail_destruction",
+      "relation_type": "escalation_pattern"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_TEMP_003",
+      "entity_ref": "audit_trail_destruction",
+      "relation_type": "followed_by"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_TEMP_003",
+      "entity_ref": "financial_evidence_concealment",
+      "relation_type": "followed_by"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_TEMP_004",
+      "entity_ref": "EVENT_007",
+      "relation_type": "trigger_response"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_TEMP_004",
+      "entity_ref": "EVENT_026",
+      "relation_type": "trigger_response"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_TEMP_005",
+      "entity_ref": "EVENT_026",
+      "relation_type": "escalation_sequence"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_TEMP_005",
+      "entity_ref": "EVENT_027",
+      "relation_type": "escalation_sequence"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_TEMP_006",
+      "entity_ref": "EVENT_H007",
+      "relation_type": "historical_foundation"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_TEMP_006",
+      "entity_ref": "EVENT_001",
+      "relation_type": "historical_foundation"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_EXTRACT_001",
+      "entity_ref": "members",
+      "relation_type": "capital_extraction"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_KNOWLEDGE_001",
+      "entity_ref": "criminal_matters",
+      "relation_type": "knowledge_acquisition"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_LEGAL_001",
+      "entity_ref": "settlement_and_interdict",
+      "relation_type": "strategic_coordination"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_027",
+      "entity_ref": "Dennis Jacobus Bishop",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_027",
+      "entity_ref": "Rezonance",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_028",
+      "entity_ref": "Dennis Jacobus Bishop",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_028",
+      "entity_ref": "RegimA Medic",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_029",
+      "entity_ref": "Daniel James Faucitt",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_029",
+      "entity_ref": "Rezonance",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_030",
+      "entity_ref": "Kayla Pretorius",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_030",
+      "entity_ref": "Rezonance",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_031",
+      "entity_ref": "Daniel James Faucitt",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_031",
+      "entity_ref": "RegimA Medic",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_032",
+      "entity_ref": "Jacqueline Faucitt",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_032",
+      "entity_ref": "RegimA Medic",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_033",
+      "entity_ref": "Peter Andrew Faucitt",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_033",
+      "entity_ref": "RegimA Medic",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_034",
+      "entity_ref": "John Leslie Knowlton",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_034",
+      "entity_ref": "RegimA Medic",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_DIR_46",
+      "entity_ref": "Barend Thomas Nortje",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_DIR_46",
+      "entity_ref": "De Fay Fund Management",
+      "relation_type": "directorship"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_035",
+      "entity_ref": "Martin Carlo Rizzotto",
+      "relation_type": "membership"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_035",
+      "entity_ref": "UFO Express",
+      "relation_type": "membership"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_036",
+      "entity_ref": "Alan Peter Louw",
+      "relation_type": "membership"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_036",
+      "entity_ref": "S A Logistic Services",
+      "relation_type": "membership"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_037",
+      "entity_ref": "Alan Peter Louw",
+      "relation_type": "membership"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_037",
+      "entity_ref": "ALOECO (SA) - CC 2006",
+      "relation_type": "membership"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_038",
+      "entity_ref": "Martin Carlo Rizzotto",
+      "relation_type": "membership"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_038",
+      "entity_ref": "ALOECO (SA) - CC 2006",
+      "relation_type": "membership"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_MEM_47",
+      "entity_ref": "Barend Thomas Nortje",
+      "relation_type": "membership"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_MEM_47",
+      "entity_ref": "Dermal Skin Treatments Cape Town",
+      "relation_type": "membership"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_MEM_48",
+      "entity_ref": "Sharon Nortje",
+      "relation_type": "membership"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_MEM_48",
+      "entity_ref": "Dermal Skin Treatments Cape Town",
+      "relation_type": "membership"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_039",
+      "entity_ref": "Martin Carlo Rizzotto",
+      "relation_type": "spouse"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_039",
+      "entity_ref": "Vanessa Claire Rizzotto",
+      "relation_type": "spouse"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_040",
+      "entity_ref": "Bernadine Wright",
+      "relation_type": "employment"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_040",
+      "entity_ref": "RegimA International Skin Treatments CC",
+      "relation_type": "employment"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_SPOUSE_49",
+      "entity_ref": "Barend Thomas Nortje",
+      "relation_type": "spouse"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_SPOUSE_49",
+      "entity_ref": "Sharon Nortje",
+      "relation_type": "spouse"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_DIST_41",
+      "entity_ref": "Dermal Skin Treatments Cape Town",
+      "relation_type": "distributor"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_DIST_41",
+      "entity_ref": "RegimA Skin Treatments",
+      "relation_type": "distributor"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_DIST_42",
+      "entity_ref": "Kachan Marketing and Distribution",
+      "relation_type": "distributor"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_DIST_42",
+      "entity_ref": "RegimA Skin Treatments",
+      "relation_type": "distributor"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_DIST_43",
+      "entity_ref": "Dandelion SA",
+      "relation_type": "distributor"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_DIST_43",
+      "entity_ref": "RegimA Skin Treatments",
+      "relation_type": "distributor"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_BOND_44",
+      "entity_ref": "RegimA Skin Treatments CC",
+      "relation_type": "bond"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_BOND_44",
+      "entity_ref": "Karen Patricia Avnit",
+      "relation_type": "bond"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_PROP_45",
+      "entity_ref": "Karen Patricia Avnit",
+      "relation_type": "property"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_PROP_45",
+      "entity_ref": "SS Forest Lodge 173, Unit 4",
+      "relation_type": "property"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_KETONI_001",
+      "entity_ref": "ORG_FFT_001",
+      "relation_type": "financial_obligation"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_KETONI_002",
+      "entity_ref": "ORG_FFT_001",
+      "relation_type": "beneficiary_entitlement"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_KETONI_003",
+      "entity_ref": "ORG_FFT_001",
+      "relation_type": "beneficiary_entitlement"
+    },
+    {
+      "type": "undefined_target",
+      "relation_id": "REL_KETONI_004",
+      "entity_ref": "ORG_FFT_001",
+      "relation_type": "beneficiary_entitlement"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_KETONI_007",
+      "entity_ref": "ORG_FFT_001",
+      "relation_type": "shareholder"
+    },
+    {
+      "type": "undefined_source",
+      "relation_id": "REL_TB_001",
+      "entity_ref": "PERSON_TB_001",
+      "relation_type": "financial_control"
+    },
+    {
+      "type": "undefined_actor",
+      "actor": "Co-director's bookkeeper",
+      "suggestion": "Add as new entity or correct spelling"
+    },
+    {
+      "type": "undefined_actor",
+      "actor": "PERSON_005",
+      "suggestion": "Add as new entity or correct spelling"
+    },
+    {
+      "type": "undefined_actor",
+      "actor": "Coordinated Action",
+      "suggestion": "Add as new entity or correct spelling"
+    },
+    {
+      "type": "undefined_actor",
+      "actor": "ORG_ADDERORY",
+      "suggestion": "Add as new entity or correct spelling"
+    },
+    {
+      "type": "actor_name_mismatch",
+      "actor": "Villa Via Members",
+      "suggested_match": "Villa Via"
+    },
+    {
+      "type": "undefined_actor",
+      "actor": "Daniel Jacobus Bantjies",
+      "suggestion": "Add as new entity or correct spelling"
+    },
+    {
+      "type": "undefined_actor",
+      "actor": "Customers",
+      "suggestion": "Add as new entity or correct spelling"
+    },
+    {
+      "type": "undefined_actor",
+      "actor": "Kevin Derrick",
+      "suggestion": "Add as new entity or correct spelling"
+    },
+    {
+      "type": "undefined_actor",
+      "actor": "PERSON_002",
+      "suggestion": "Add as new entity or correct spelling"
+    },
+    {
+      "type": "undefined_actor",
+      "actor": "ORG_001",
+      "suggestion": "Add as new entity or correct spelling"
+    },
+    {
+      "type": "undefined_actor",
+      "actor": "PERSON_016",
+      "suggestion": "Add as new entity or correct spelling"
+    },
+    {
+      "type": "undefined_actor",
+      "actor": "coordinated_network",
+      "suggestion": "Add as new entity or correct spelling"
+    },
+    {
+      "type": "undefined_actor",
+      "actor": "ORG_002",
+      "suggestion": "Add as new entity or correct spelling"
+    },
+    {
+      "type": "actor_name_mismatch",
+      "actor": "Ketoni",
+      "suggested_match": "Ketoni Investment Holdings"
+    },
+    {
+      "type": "actor_name_mismatch",
+      "actor": "RegimA Skin Treatments",
+      "suggested_match": "Regima Skin Treatments CC"
+    },
+    {
+      "type": "undefined_actor",
+      "actor": "FFT",
+      "suggestion": "Add as new entity or correct spelling"
+    },
+    {
+      "type": "undefined_actor",
+      "actor": "PERSON_015",
+      "suggestion": "Add as new entity or correct spelling"
+    },
+    {
+      "type": "actor_name_mismatch",
+      "actor": "Strategic Logistics",
+      "suggested_match": "Strategic Logistics Group"
+    },
+    {
+      "type": "undefined_actor",
+      "actor": "FFT Beneficiaries",
+      "suggestion": "Add as new entity or correct spelling"
+    },
+    {
+      "type": "undefined_actor",
+      "actor": "associates",
+      "suggestion": "Add as new entity or correct spelling"
+    }
+  ]
+}

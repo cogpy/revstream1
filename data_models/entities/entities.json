@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "version": "32.0_COMPREHENSIVE_REFINEMENT_2026_01_22",
+    "version": "34.0_FINAL_REFINED_2026_01_22",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-22T00:05:42.130025",
-    "changes": "Enhanced entities with 2026-01-22 refinements, updated Ketoni context, added trial balance evidence links",
-    "total_entities": 79,
-    "total_persons": 38,
-    "total_organizations": 41
+    "last_updated": "2026-01-22T02:13:52.476368",
+    "changes": "Audit-based refinement: fixed duplicates, added missing entities, normalized references",
+    "total_entities": 86,
+    "total_persons": 36,
+    "total_organizations": 50
   },
   "entities": {
     "persons": [
@@ -707,7 +707,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285117"
       },
       {
-        "entity_id": "PERSON_012",
+        "entity_id": "PERSON_039",
         "name": "Marisca Meyer",
         "full_name": "Marisca Meyer",
         "role": "Professional Accountant (SA)",
@@ -986,26 +986,6 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285137"
       },
       {
-        "entity_id": "PERSON_024",
-        "name": "Kayla Pretorius",
-        "id_number": "9408190083085",
-        "role": "director",
-        "agent_type": "protagonist",
-        "involvement_events": 0,
-        "primary_actions": [
-          "company_directorship"
-        ],
-        "relationships": [
-          "director_of_rezonance",
-          "partner_of_daniel_faucitt"
-        ],
-        "source": "293355407.Pdf",
-        "notes": "Director of Rezonance with Daniel Faucitt",
-        "evidence": [],
-        "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285139"
-      },
-      {
         "entity_id": "PERSON_025",
         "name": "John Leslie Knowlton",
         "id_number": "5502245180187",
@@ -1059,43 +1039,6 @@
         "evidence": [],
         "ad_res_j7_references": [],
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285147"
-      },
-      {
-        "entity_id": "PERSON_028",
-        "name": "Bernadine Wright",
-        "id_number": null,
-        "role": "bookkeeper",
-        "agent_type": "neutral",
-        "involvement_events": 0,
-        "primary_actions": [
-          "bookkeeping"
-        ],
-        "relationships": [
-          "bookkeeper_regima_international"
-        ],
-        "source": "TheCosmeticsIndustry(2017-11-14).pdf",
-        "notes": "Bookkeeper for RegimA International Skin Treatments CC per Who Owns Whom report",
-        "trial_balance_evidence": {
-          "entity_id": "PERSON_TB_001",
-          "name": "Bernadine Wright",
-          "role": "financial_decision_maker",
-          "agent_type": "key_witness",
-          "email_domain": "regima.zone",
-          "significance": "Primary recipient of 2020 financial statements, key financial decision-maker",
-          "investigation_priority": "CRITICAL",
-          "evidence": [
-            "Email from Danie Bantjes 2020-08-13",
-            "Trial balance documentation"
-          ],
-          "investigation_leads": [
-            "Identify Bernadine Wright's role and authority",
-            "Determine current status and location",
-            "Subpoena for testimony regarding financial structures"
-          ]
-        },
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285150",
-        "evidence": [],
-        "ad_res_j7_references": []
       },
       {
         "entity_id": "PERSON_29",
@@ -1977,7 +1920,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285193"
       },
       {
-        "entity_id": "ORG_015",
+        "entity_id": "ORG_042",
         "name": "ALOECO (SA)",
         "registration_number": "2019/531306/07",
         "enterprise_type": "PRIVATE COMPANY",
@@ -2634,6 +2577,72 @@
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285237"
+      },
+      {
+        "entity_id": "PLATFORM_001",
+        "name": "Shopify Plus Platform",
+        "type": "platform",
+        "description": "E-commerce platform used for RegimA online sales",
+        "role": "sales_platform",
+        "evidence": [
+          "JF01 - Shopify Plus email evidence"
+        ]
+      },
+      {
+        "entity_id": "DOMAIN_001",
+        "name": "regima.zone Domain",
+        "type": "domain",
+        "description": "Legitimate RegimA domain",
+        "role": "legitimate_domain"
+      },
+      {
+        "entity_id": "DOMAIN_002",
+        "name": "regimaskin.co.za Domain",
+        "type": "domain",
+        "description": "Fraudulent domain registered by Adderory",
+        "role": "fraudulent_domain",
+        "registration_date": "2025-05-29"
+      },
+      {
+        "entity_id": "TRUST_001",
+        "name": "Faucitt Family Trust",
+        "type": "trust",
+        "description": "Family trust with ZAR 18.75M Ketoni payout entitlement",
+        "role": "central_asset_holder",
+        "ketoni_investment": {
+          "amount": "ZAR 18.75M",
+          "payout_date": "2026-05"
+        }
+      },
+      {
+        "entity_id": "SYS_BANK_ACCOUNTS",
+        "name": "Bank Accounts",
+        "type": "system",
+        "description": "Banking system accounts"
+      },
+      {
+        "entity_id": "SYS_ACCOUNTS",
+        "name": "Accounting System",
+        "type": "system",
+        "description": "Financial accounting records"
+      },
+      {
+        "entity_id": "SYS_STOCK",
+        "name": "Stock/Inventory",
+        "type": "system",
+        "description": "Physical inventory and stock"
+      },
+      {
+        "entity_id": "SYS_REGIMA_GROUP",
+        "name": "RegimA Group",
+        "type": "system",
+        "description": "Collective RegimA company group"
+      },
+      {
+        "entity_id": "SYS_FINANCIAL_RECORDS",
+        "name": "Financial Records",
+        "type": "system",
+        "description": "Financial documentation"
       }
     ],
     "platforms": [

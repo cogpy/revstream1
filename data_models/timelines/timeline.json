@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "version": "27.0",
+    "version": "29.0_FINAL_REFINED_2026_01_22",
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-01-22",
-    "changes": "Enhanced timeline with 2026-01-22 refinements, added Ketoni timeline entries",
+    "last_updated": "2026-01-22T02:13:52.476368",
+    "changes": "Audit-based refinement: normalized actor names",
     "criminal_threshold_entries": 6,
     "high_significance_entries": 7,
     "total_entries": 125,
@@ -26,7 +26,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297604",
-      "event_ref": "EVENT_GEN_19820326"
+      "event_ref": "EVENT_GEN_19820326",
+      "actors": []
     },
     {
       "date": "1986-03-21",
@@ -41,7 +42,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297618",
-      "event_ref": "EVENT_GEN_19860321"
+      "event_ref": "EVENT_GEN_19860321",
+      "actors": []
     },
     {
       "date": "1991-11-28",
@@ -56,7 +58,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297622",
-      "event_ref": "EVENT_GEN_19911128"
+      "event_ref": "EVENT_GEN_19911128",
+      "actors": []
     },
     {
       "date": "1992-02-26",
@@ -69,7 +72,7 @@
         "CIPC WinDeed Report 293349755"
       ],
       "actors": [
-        "PERSON_001",
+        "Peter Andrew Faucitt",
         "Peter Andrew Faucitt"
       ],
       "added_date": "2026-01-22",
@@ -91,7 +94,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297628",
-      "event_ref": "EVENT_GEN_19921215"
+      "event_ref": "EVENT_GEN_19921215",
+      "actors": []
     },
     {
       "date": "1993-02-13",
@@ -106,7 +110,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297631",
-      "event_ref": "EVENT_GEN_19930213"
+      "event_ref": "EVENT_GEN_19930213",
+      "actors": []
     },
     {
       "date": "1996-10-15",
@@ -121,7 +126,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297635",
-      "event_ref": "EVENT_GEN_19961015"
+      "event_ref": "EVENT_GEN_19961015",
+      "actors": []
     },
     {
       "date": "1997-09-02",
@@ -136,7 +142,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297642",
-      "event_ref": "EVENT_GEN_19970902"
+      "event_ref": "EVENT_GEN_19970902",
+      "actors": []
     },
     {
       "date": "1998-05-20",
@@ -151,7 +158,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297646",
-      "event_ref": "EVENT_GEN_19980520"
+      "event_ref": "EVENT_GEN_19980520",
+      "actors": []
     },
     {
       "date": "1999-03-26",
@@ -166,7 +174,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297649",
-      "event_ref": "EVENT_GEN_19990326"
+      "event_ref": "EVENT_GEN_19990326",
+      "actors": []
     },
     {
       "date": "1999-05-25",
@@ -181,7 +190,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297652",
-      "event_ref": "EVENT_GEN_19990525"
+      "event_ref": "EVENT_GEN_19990525",
+      "actors": []
     },
     {
       "date": "1999-05-25",
@@ -228,7 +238,8 @@
         "Peter Andrew Faucitt",
         "Jacqueline Faucitt",
         "Daniel James Faucitt"
-      ]
+      ],
+      "actors": []
     },
     {
       "date": "2000-05-31",
@@ -246,7 +257,8 @@
       "burden_of_proof_verified": "verified_cipc_record",
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297659",
       "key_actor_names": [],
-      "event_ref": "EVENT_REG_20000531"
+      "event_ref": "EVENT_REG_20000531",
+      "actors": []
     },
     {
       "date": "2000-05-31",
@@ -274,7 +286,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297662",
-      "event_ref": "EVENT_GEN_20010918"
+      "event_ref": "EVENT_GEN_20010918",
+      "actors": []
     },
     {
       "date": "2005-09-29",
@@ -293,7 +306,8 @@
       "burden_of_proof_verified": "verified_cipc_record",
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297665",
       "key_actor_names": [],
-      "event_ref": "EVENT_REG_20050929"
+      "event_ref": "EVENT_REG_20050929",
+      "actors": []
     },
     {
       "date": "2005-09-29",
@@ -321,7 +335,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297669",
-      "event_ref": "EVENT_GEN_20060214"
+      "event_ref": "EVENT_GEN_20060214",
+      "actors": []
     },
     {
       "entry_id": "TL_CIPC_003",
@@ -349,7 +364,8 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297672",
       "key_actor_names": [
         "Jacqueline Faucitt"
-      ]
+      ],
+      "actors": []
     },
     {
       "date": "2006-03-16",
@@ -369,7 +385,8 @@
       "burden_of_proof_verified": "verified_cipc_record",
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297675",
       "key_actor_names": [],
-      "event_ref": "EVENT_REG_20060316"
+      "event_ref": "EVENT_REG_20060316",
+      "actors": []
     },
     {
       "date": "2006-03-16",
@@ -399,7 +416,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297678",
-      "event_ref": "EVENT_PROP_20060605"
+      "event_ref": "EVENT_PROP_20060605",
+      "actors": []
     },
     {
       "date": "2007-07-17",
@@ -417,7 +435,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297680",
-      "event_ref": "EVENT_DIR_20070717"
+      "event_ref": "EVENT_DIR_20070717",
+      "actors": []
     },
     {
       "date": "2008-06-18",
@@ -432,7 +451,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297684",
-      "event_ref": "EVENT_GEN_20080618"
+      "event_ref": "EVENT_GEN_20080618",
+      "actors": []
     },
     {
       "entry_id": "TL_CIPC_004",
@@ -460,7 +480,8 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297686",
       "key_actor_names": [
         "Daniel James Faucitt"
-      ]
+      ],
+      "actors": []
     },
     {
       "date": "2011-03-11",
@@ -473,11 +494,11 @@
         "CIPC WinDeed Report 293348688"
       ],
       "actors": [
-        "PERSON_017",
+        "Kevin Derrick",
         "Jacqueline Faucitt",
         "Daniel James Faucitt",
-        "PERSON_001",
-        "PERSON_004",
+        "Peter Andrew Faucitt",
+        "Jacqueline Faucitt",
         "PERSON_005",
         "Peter Andrew Faucitt",
         "Christian Gouws"
@@ -505,7 +526,8 @@
       "burden_of_proof_verified": "verified_cipc_record",
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297693",
       "key_actor_names": [],
-      "event_ref": "EVENT_REG_20150708"
+      "event_ref": "EVENT_REG_20150708",
+      "actors": []
     },
     {
       "date": "2015-07-08",
@@ -537,7 +559,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297695",
-      "event_ref": "EVENT_DIR_20160705"
+      "event_ref": "EVENT_DIR_20160705",
+      "actors": []
     },
     {
       "date": "2016-07-19",
@@ -550,10 +573,10 @@
         "CIPC WinDeed Report 293349762"
       ],
       "actors": [
-        "PERSON_001",
+        "Peter Andrew Faucitt",
         "Jacqueline Faucitt",
         "Peter Andrew Faucitt",
-        "PERSON_004"
+        "Jacqueline Faucitt"
       ],
       "added_date": "2026-01-22",
       "merged_from": [
@@ -574,7 +597,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297702",
-      "event_ref": "EVENT_GEN_20170222"
+      "event_ref": "EVENT_GEN_20170222",
+      "actors": []
     },
     {
       "date": "2017-02-22",
@@ -624,7 +648,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297710",
-      "event_ref": "EVENT_GEN_20170227"
+      "event_ref": "EVENT_GEN_20170227",
+      "actors": []
     },
     {
       "date": "2017-02-27",
@@ -673,7 +698,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297717",
-      "event_ref": "EVENT_GEN_20170404"
+      "event_ref": "EVENT_GEN_20170404",
+      "actors": []
     },
     {
       "date": "2017-04-04",
@@ -714,7 +740,8 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297720",
       "key_actor_names": [
         "Daniel James Faucitt"
-      ]
+      ],
+      "actors": []
     },
     {
       "date": "2017-04-10",
@@ -729,7 +756,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297723",
-      "event_ref": "EVENT_GEN_20170410"
+      "event_ref": "EVENT_GEN_20170410",
+      "actors": []
     },
     {
       "date": "2017-04-10",
@@ -770,7 +798,8 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297727",
       "key_actor_names": [
         "Daniel James Faucitt"
-      ]
+      ],
+      "actors": []
     },
     {
       "entry_id": "TL_CIPC_010",
@@ -797,7 +826,8 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297730",
       "key_actor_names": [
         "Daniel James Faucitt"
-      ]
+      ],
+      "actors": []
     },
     {
       "date": "2017-06-30",
@@ -836,7 +866,8 @@
       "burden_of_proof_verified": "verified_cipc_record",
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297736",
       "key_actor_names": [],
-      "event_ref": "EVENT_REG_20170927"
+      "event_ref": "EVENT_REG_20170927",
+      "actors": []
     },
     {
       "date": "2017-09-27",
@@ -884,7 +915,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297743",
-      "event_ref": "EVENT_GEN_20171114"
+      "event_ref": "EVENT_GEN_20171114",
+      "actors": []
     },
     {
       "date": "2017-11-14",
@@ -913,7 +945,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297747",
-      "event_ref": "EVENT_GEN_20180801"
+      "event_ref": "EVENT_GEN_20180801",
+      "actors": []
     },
     {
       "date": "2018-08-01",
@@ -1036,7 +1069,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297772",
-      "event_ref": "EVENT_GEN_20191022"
+      "event_ref": "EVENT_GEN_20191022",
+      "actors": []
     },
     {
       "date": "2019-11-20",
@@ -1082,7 +1116,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297780",
-      "event_ref": "EVENT_BOND_20191122"
+      "event_ref": "EVENT_BOND_20191122",
+      "actors": []
     },
     {
       "date": "2019-11-22",
@@ -1127,7 +1162,8 @@
       "key_actor_names": [
         "Alan Peter Louw",
         "Martin Carlo Rizzotto"
-      ]
+      ],
+      "actors": []
     },
     {
       "date": "2020-02-20",
@@ -1182,7 +1218,7 @@
         "Rynette Farrar",
         "Co-director's bookkeeper",
         "Peter Andrew Faucitt",
-        "Family Trust",
+        "Faucitt Family Trust",
         "Strategic Logistics Group"
       ],
       "added_date": "2026-01-22",
@@ -1217,8 +1253,8 @@
         "Danie Bantjies",
         "Regima Worldwide Distribution (PTY) LTD",
         "Peter Andrew Faucitt",
-        "Villa Via shareholders",
-        "Family Trust",
+        "Villa Via Members",
+        "Faucitt Family Trust",
         "Strategic Logistics Group"
       ],
       "added_date": "2026-01-22",
@@ -1254,7 +1290,8 @@
       "ad_res_j7_evidence_enhanced": [
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297802"
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297802",
+      "actors": []
     },
     {
       "date": "2020-07-07",
@@ -1269,7 +1306,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297804",
-      "event_ref": "EVENT_GEN_20200707"
+      "event_ref": "EVENT_GEN_20200707",
+      "actors": []
     },
     {
       "date": "2020-08-13",
@@ -1289,8 +1327,8 @@
       ],
       "actors": [
         "Danie Bantjies",
-        "Jacqui Faucitt",
-        "Daniel Faucitt",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt",
         "Rynette Farrar",
         "Danie Bantjes",
         "Peter Andrew Faucitt",
@@ -1345,8 +1383,8 @@
         "ORG_001",
         "Jacqueline Faucitt",
         "Daniel James Faucitt",
-        "ORG_004",
-        "ORG_012",
+        "RegimA Skin Treatments",
+        "Ketoni Investment Holdings",
         "Peter Andrew Faucitt",
         "ORG_002"
       ],
@@ -1383,7 +1421,8 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297823",
       "key_actor_names": [
         "Daniel James Faucitt"
-      ]
+      ],
+      "actors": []
     },
     {
       "date": "2021-04-01",
@@ -1452,7 +1491,8 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297830",
-      "event_ref": "EVENT_GEN_1_EVENTS_ON_2021_10_05_1005"
+      "event_ref": "EVENT_GEN_1_EVENTS_ON_2021_10_05_1005",
+      "actors": []
     },
     {
       "entry_id": "TL_CIPC_015",
@@ -1476,7 +1516,8 @@
       "ad_res_j7_evidence_enhanced": [
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297831"
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297831",
+      "actors": []
     },
     {
       "date": "2022-03-01",
@@ -1706,7 +1747,8 @@
       "ad_res_j7_evidence_enhanced": [
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297848"
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297848",
+      "actors": []
     },
     {
       "date": "2023-07-13",
@@ -1817,7 +1859,8 @@
       "ad_res_j7_evidence_enhanced": [
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297851"
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297851",
+      "actors": []
     },
     {
       "entry_id": "TL_KETONI_004",
@@ -1864,7 +1907,8 @@
       "ad_res_j7_evidence_enhanced": [
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297853"
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297853",
+      "actors": []
     },
     {
       "date": "2024-07-01",
@@ -1878,7 +1922,7 @@
       ],
       "actors": [
         "PERSON_002",
-        "PERSON_007"
+        "Peter Andrew Faucitt"
       ],
       "added_date": "2026-01-22"
     },
@@ -1901,7 +1945,7 @@
         "Jacqueline Faucitt",
         "Daniel James Faucitt",
         "Chantal",
-        "Family Trust",
+        "Faucitt Family Trust",
         "Kayla"
       ],
       "added_date": "2026-01-22",
@@ -1948,7 +1992,7 @@
         "Danie Bantjies",
         "Rynette Farrar",
         "Peter Andrew Faucitt",
-        "Family Trust",
+        "Faucitt Family Trust",
         "Adderory (Rynette's Son)",
         "Strategic Logistics Group"
       ],
@@ -1977,11 +2021,11 @@
       "actors": [
         "Danie Bantjies",
         "Daniel James Faucitt",
-        "PERSON_001",
+        "Peter Andrew Faucitt",
         "Rynette Farrar",
         "Peter Andrew Faucitt",
         "PERSON_002",
-        "Family Trust",
+        "Faucitt Family Trust",
         "Adderory (Rynette's Son)",
         "Strategic Logistics Group"
       ],
@@ -2013,9 +2057,9 @@
       "actors": [
         "Danie Bantjies",
         "Rynette Farrar",
-        "beneficiaries",
+        "FFT Beneficiaries",
         "Peter Andrew Faucitt",
-        "Family Trust",
+        "Faucitt Family Trust",
         "Strategic Logistics Group"
       ],
       "added_date": "2026-01-22",
@@ -2166,9 +2210,9 @@
         "trust_amendment_documents"
       ],
       "actors": [
-        "legitimate_beneficiaries",
+        "FFT Beneficiaries",
         "Rynette Farrar",
-        "Family Trust",
+        "Faucitt Family Trust",
         "Peter Andrew Faucitt"
       ],
       "added_date": "2026-01-22",
@@ -2197,8 +2241,8 @@
         "Regima Worldwide Distribution (PTY) LTD",
         "Jacqueline Faucitt",
         "Daniel James Faucitt",
-        "estate_of_kayla",
-        "PERSON_003",
+        "Kayla Pretorius Estate",
+        "Rynette Farrar",
         "Rynette Farrar",
         "Peter Andrew Faucitt",
         "PERSON_002"
@@ -2233,7 +2277,7 @@
       ],
       "actors": [
         "RegimA Zone Ltd",
-        "coordinated_action",
+        "Coordinated Action",
         "Jacqueline Faucitt",
         "Daniel James Faucitt"
       ],
@@ -2274,7 +2318,7 @@
       ],
       "actors": [
         "ORG_ADDERORY",
-        "customers",
+        "Customers",
         "Daniel James Faucitt",
         "Rynette Farrar",
         "PERSON_002",
@@ -2335,7 +2379,7 @@
       "actors": [
         "Daniel Jacobus Bantjies",
         "Daniel James Faucitt",
-        "PERSON_001",
+        "Peter Andrew Faucitt",
         "Rynette Farrar",
         "Peter Andrew Faucitt",
         "PERSON_002"
@@ -2377,7 +2421,7 @@
         "Jacqueline Faucitt",
         "Daniel James Faucitt",
         "Peter Andrew Faucitt",
-        "Family Trust"
+        "Faucitt Family Trust"
       ],
       "added_date": "2026-01-22",
       "categories": [
@@ -2405,8 +2449,8 @@
         "conflict_of_interest_documentation"
       ],
       "actors": [
-        "beneficiaries",
-        "Family Trust",
+        "FFT Beneficiaries",
+        "Faucitt Family Trust",
         "Peter Andrew Faucitt"
       ],
       "added_date": "2026-01-22",
@@ -2435,7 +2479,7 @@
       ],
       "actors": [
         "Regima Worldwide Distribution (PTY) LTD",
-        "customers",
+        "Customers",
         "Jacqueline Faucitt",
         "Daniel James Faucitt",
         "RegimA Zone Ltd",
@@ -2462,7 +2506,7 @@
         "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
       ],
       "actors": [
-        "Jax",
+        "Jacqueline Faucitt",
         "Daniel James Faucitt",
         "Peter Andrew Faucitt"
       ],
@@ -2508,7 +2552,7 @@
         "popi_violation_documentation"
       ],
       "actors": [
-        "customers",
+        "Customers",
         "Regima Worldwide Distribution (PTY) LTD",
         "Daniel James Faucitt",
         "Peter Andrew Faucitt"
@@ -2581,8 +2625,8 @@
         "trust_property_documentation"
       ],
       "actors": [
-        "beneficiaries",
-        "Family Trust",
+        "FFT Beneficiaries",
+        "Faucitt Family Trust",
         "Peter Andrew Faucitt"
       ],
       "added_date": "2026-01-22",
@@ -2603,8 +2647,8 @@
         "ongoing_breach_records"
       ],
       "actors": [
-        "beneficiaries",
-        "Family Trust",
+        "FFT Beneficiaries",
+        "Faucitt Family Trust",
         "Peter Andrew Faucitt"
       ],
       "added_date": "2026-01-22",
@@ -2629,8 +2673,8 @@
       "actors": [
         "Jacqueline Faucitt",
         "Daniel James Faucitt",
-        "PERSON_001",
-        "PERSON_003",
+        "Peter Andrew Faucitt",
+        "Rynette Farrar",
         "Peter Andrew Faucitt"
       ],
       "added_date": "2026-01-22",
@@ -2665,7 +2709,7 @@
         "Daniel Jacobus Bantjies",
         "Jacqueline Faucitt",
         "Daniel James Faucitt",
-        "PERSON_001",
+        "Peter Andrew Faucitt",
         "Rynette Farrar",
         "Peter Andrew Faucitt"
       ],
@@ -2765,7 +2809,7 @@
       "actors": [
         "Regima Worldwide Distribution (PTY) LTD",
         "Daniel James Faucitt",
-        "PERSON_001",
+        "Peter Andrew Faucitt",
         "Rynette Farrar",
         "Peter Andrew Faucitt",
         "PERSON_002"
@@ -2798,7 +2842,7 @@
         "Ian Levitt Attorneys",
         "Jacqueline Faucitt",
         "Daniel James Faucitt",
-        "PERSON_001",
+        "Peter Andrew Faucitt",
         "Peter Andrew Faucitt",
         "Gee"
       ],
@@ -2861,7 +2905,8 @@
       "ad_res_j7_evidence_enhanced": [
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
-      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297929"
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297929",
+      "actors": []
     }
   ],
   "strategic_implications": {

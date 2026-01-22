@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "32.0_COMPREHENSIVE_REFINEMENT_2026_01_22",
+    "version": "34.0_FINAL_REFINED_2026_01_22",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-01-22T00:05:42.139830",
-    "changes": "Enhanced relations with 2026-01-22 refinements, added Ketoni network relations",
+    "last_updated": "2026-01-22T02:13:52.476368",
+    "changes": "Audit-based refinement: fixed undefined entity references",
     "total_relations": 123
   },
   "relations": {
@@ -97,7 +97,7 @@
       {
         "relation_id": "REL_OWN_005",
         "relation_type": "partial_ownership",
-        "source_entity": "director",
+        "source_entity": "PERSON_001",
         "target_entity": "ORG_002",
         "strength": "50%",
         "legal_status": "legitimate",
@@ -117,7 +117,7 @@
       {
         "relation_id": "REL_OWN_006",
         "relation_type": "partial_ownership",
-        "source_entity": "director",
+        "source_entity": "PERSON_001",
         "target_entity": "ORG_005",
         "strength": "50%",
         "legal_status": "legitimate",
@@ -181,7 +181,7 @@
         "relation_id": "REL_CTRL_002",
         "relation_type": "controls",
         "source_entity": "PERSON_002",
-        "target_entity": "financial_systems",
+        "target_entity": "PLATFORM_001",
         "control_type": "financial_controller",
         "legal_status": "disputed",
         "evidence": [
@@ -377,7 +377,7 @@
         "relation_id": "REL_CONSP_003",
         "relation_type": "coordinated_network",
         "source_entity": "PERSON_001",
-        "target_entity": "associates",
+        "target_entity": "PERSON_002",
         "conspiracy_type": "broader_network",
         "evidence_strength": "strong",
         "evidence": [
@@ -469,7 +469,7 @@
         "relation_id": "REL_FIN_001",
         "relation_type": "payment_redirection",
         "source_entity": "PERSON_002",
-        "target_entity": "bank_accounts",
+        "target_entity": "SYS_BANK_ACCOUNTS",
         "financial_type": "unauthorized_diversion",
         "amount": "R4,276,832.85",
         "timeline_events": [
@@ -495,7 +495,7 @@
         "relation_id": "REL_FIN_002",
         "relation_type": "unauthorized_transfers",
         "source_entity": "PERSON_001",
-        "target_entity": "accounts",
+        "target_entity": "SYS_ACCOUNTS",
         "financial_type": "theft",
         "amount": "R850,000+",
         "timeline_events": [
@@ -565,8 +565,8 @@
       {
         "relation_id": "REL_FIN_005",
         "relation_type": "self_rent_charge",
-        "source_entity": "director",
-        "target_entity": "director",
+        "source_entity": "PERSON_001",
+        "target_entity": "PERSON_001",
         "financial_type": "wealth_transfer_mechanism",
         "legal_status": "conflict_of_interest",
         "entities_involved": [
@@ -592,7 +592,7 @@
         "relation_id": "REL_FIN_006",
         "relation_type": "stock_loss",
         "source_entity": "ORG_004",
-        "target_entity": "stock",
+        "target_entity": "SYS_STOCK",
         "financial_type": "disappeared_stock",
         "amount": "R5,400,000",
         "legal_status": "suspicious",
@@ -799,7 +799,7 @@
         "relation_id": "REL_EMP_001",
         "relation_type": "employed_by",
         "source_entity": "PERSON_006",
-        "target_entity": "regima_group",
+        "target_entity": "SYS_REGIMA_GROUP",
         "role": "bookkeeper",
         "legal_status": "legitimate",
         "anomaly": "employed_while_PERSON_002_controlled_accounts_system",
@@ -839,7 +839,7 @@
       {
         "relation_id": "REL_EVID_001",
         "relation_type": "destroyed_evidence",
-        "source_entity": "coordinated_action",
+        "source_entity": "PERSON_001",
         "target_entity": "PLATFORM_001",
         "destruction_type": "audit_trail_hijacking",
         "date": "2025-05-22",
@@ -860,8 +860,8 @@
       {
         "relation_id": "REL_EVID_002",
         "relation_type": "concealed_evidence",
-        "source_entity": "coordinated_network",
-        "target_entity": "financial_records",
+        "source_entity": "PERSON_002",
+        "target_entity": "SYS_FINANCIAL_RECORDS",
         "destruction_type": "financial_evidence_concealment",
         "date": "2025-08-20",
         "legal_significance": "consciousness_of_guilt",
@@ -883,8 +883,8 @@
       {
         "relation_id": "REL_TEMP_001",
         "relation_type": "preceded_by",
-        "source_entity": "payment_redirection_scheme",
-        "target_entity": "trust_structure_establishment",
+        "source_entity": "PERSON_002",
+        "target_entity": "TRUST_001",
         "temporal_gap_days": 17,
         "pattern": "foundation_then_exploitation",
         "evidence": [
@@ -902,7 +902,7 @@
       {
         "relation_id": "REL_TEMP_002",
         "relation_type": "escalation_pattern",
-        "source_entity": "bank_account_change",
+        "source_entity": "SYS_BANK_ACCOUNTS",
         "target_entity": "audit_trail_destruction",
         "temporal_gap_days": 38,
         "pattern": "systematic_escalation",
@@ -1024,7 +1024,7 @@
         "relation_id": "REL_DEBT_002",
         "relation_type": "creditor_relationship",
         "source_entity": "ORG_008",
-        "target_entity": "regima_group",
+        "target_entity": "SYS_REGIMA_GROUP",
         "debt_amount": "R1,035,361.34",
         "since": "Feb 2023",
         "legal_status": "unpaid_legitimate_debt",
