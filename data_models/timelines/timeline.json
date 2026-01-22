@@ -4605,7 +4605,7 @@
     },
     {
       "date": "2025-06-10",
-      "event_ref": "EVENT_023",
+      "event_ref": "EVENT_BANTJIES_DISMISSES_AUDIT",
       "title": "Bantjies Dismisses Audit Request",
       "description": "CRITICAL EVENT: Bantjies dismisses Daniel's audit request 4 days after Daniel exposed Villa Via fraud. Audit would have discovered R5.4M stock adjustment fraud and systematic inter-company manipulation. Demonstrates consciousness of guilt and protection of fraud scheme.",
       "category": "criminal_activity",
@@ -5609,7 +5609,7 @@
     },
     {
       "date": "2025-08-15",
-      "event_ref": "EVENT_026",
+      "event_ref": "EVENT_GEE_DOMAIN_SWITCH_EMAIL",
       "title": "Gee Email Explaining Domain Switch Instruction",
       "description": "Email from Gee to Jax explaining that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email' on June 20, 2025. Confirms customer hijacking scheme.",
       "category": "digital_fraud",
