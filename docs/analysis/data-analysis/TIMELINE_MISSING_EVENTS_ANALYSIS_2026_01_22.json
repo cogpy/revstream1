@@ -1,0 +1,266 @@
+{
+  "analysis_date": "2026-01-22T05:17:23.996102",
+  "timeline_version": "26.0_COMPREHENSIVE_REFINEMENT_2026_01_22",
+  "total_entries": 118,
+  "summary": {
+    "missing_entry_id": 86,
+    "missing_title": 56,
+    "missing_event_type": 86,
+    "missing_entities_involved": 9,
+    "missing_evidence": 0
+  },
+  "details": {
+    "entries_without_entry_id": [
+      {
+        "index": 0,
+        "date": "1982-03-26",
+        "event": "ALOECO (SA) original company registered"
+      },
+      {
+        "index": 1,
+        "date": "1986-03-21",
+        "event": "L'IMAGE CC registered"
+      },
+      {
+        "index": 2,
+        "date": "1991-11-28",
+        "event": "S A Logistic Services CC registered by Louw"
+      },
+      {
+        "index": 4,
+        "date": "1992-12-15",
+        "event": "Shaneprop CC registered by Louw"
+      },
+      {
+        "index": 5,
+        "date": "1993-02-13",
+        "event": "Louw becomes director of ALOECO (SA) original"
+      },
+      {
+        "index": 6,
+        "date": "1996-10-15",
+        "event": "UFO Express CC registered"
+      },
+      {
+        "index": 7,
+        "date": "1997-09-02",
+        "event": "Rizzotto becomes 100% member of UFO Express"
+      },
+      {
+        "index": 8,
+        "date": "1998-05-20",
+        "event": "East Coast Logistics CC registered"
+      },
+      {
+        "index": 9,
+        "date": "1999-03-26",
+        "event": "LMS Logistic Services registered"
+      },
+      {
+        "index": 10,
+        "date": "1999-05-25",
+        "event": "S A Logistic Services enters liquidation"
+      },
+      {
+        "index": 12,
+        "date": "2000-05-31",
+        "event": "George Endermologie Clinic CC registered in Western Cape"
+      },
+      {
+        "index": 13,
+        "date": "2001-09-18",
+        "event": "Nanini 262 CC registered by Louw"
+      },
+      {
+        "index": 14,
+        "date": "2005-09-29",
+        "event": "Kachan Marketing and Distribution CC registered - Karen Avnit 100% member"
+      },
+      {
+        "index": 15,
+        "date": "2006-02-14",
+        "event": "ALOECO (SA) CC registered - Louw 51%"
+      },
+      {
+        "index": 17,
+        "date": "2006-03-16",
+        "event": "Dermal Skin Treatments Cape Town CC registered - Nortje 50%/50%"
+      },
+      {
+        "index": 18,
+        "date": "2006-06-05",
+        "event": "Karen Avnit purchases SS Forest Lodge 173, Unit 4 for R1,100,000"
+      },
+      {
+        "index": 19,
+        "date": "2007-07-17",
+        "event": "Barend Nortje appointed director of De Fay Fund Management"
+      },
+      {
+        "index": 20,
+        "date": "2008-06-18",
+        "event": "RegimA International Skin Treatments CC established"
+      },
+      {
+        "index": 23,
+        "date": "2015-07-08",
+        "event": "K Rae Enterprises (later Dandelion SA) registered"
+      },
+      {
+        "index": 24,
+        "date": "2016-07-05",
+        "event": "Chan\u00e9 Todd becomes director of Dandelion SA; Kirby Van Der Stelt resigns"
+      }
+    ],
+    "entries_without_event_type": [
+      {
+        "index": 0,
+        "date": "1982-03-26",
+        "event": "ALOECO (SA) original company registered"
+      },
+      {
+        "index": 1,
+        "date": "1986-03-21",
+        "event": "L'IMAGE CC registered"
+      },
+      {
+        "index": 2,
+        "date": "1991-11-28",
+        "event": "S A Logistic Services CC registered by Louw"
+      },
+      {
+        "index": 4,
+        "date": "1992-12-15",
+        "event": "Shaneprop CC registered by Louw"
+      },
+      {
+        "index": 5,
+        "date": "1993-02-13",
+        "event": "Louw becomes director of ALOECO (SA) original"
+      },
+      {
+        "index": 6,
+        "date": "1996-10-15",
+        "event": "UFO Express CC registered"
+      },
+      {
+        "index": 7,
+        "date": "1997-09-02",
+        "event": "Rizzotto becomes 100% member of UFO Express"
+      },
+      {
+        "index": 8,
+        "date": "1998-05-20",
+        "event": "East Coast Logistics CC registered"
+      },
+      {
+        "index": 9,
+        "date": "1999-03-26",
+        "event": "LMS Logistic Services registered"
+      },
+      {
+        "index": 10,
+        "date": "1999-05-25",
+        "event": "S A Logistic Services enters liquidation"
+      },
+      {
+        "index": 12,
+        "date": "2000-05-31",
+        "event": "George Endermologie Clinic CC registered in Western Cape"
+      },
+      {
+        "index": 13,
+        "date": "2001-09-18",
+        "event": "Nanini 262 CC registered by Louw"
+      },
+      {
+        "index": 14,
+        "date": "2005-09-29",
+        "event": "Kachan Marketing and Distribution CC registered - Karen Avnit 100% member"
+      },
+      {
+        "index": 15,
+        "date": "2006-02-14",
+        "event": "ALOECO (SA) CC registered - Louw 51%"
+      },
+      {
+        "index": 17,
+        "date": "2006-03-16",
+        "event": "Dermal Skin Treatments Cape Town CC registered - Nortje 50%/50%"
+      },
+      {
+        "index": 18,
+        "date": "2006-06-05",
+        "event": "Karen Avnit purchases SS Forest Lodge 173, Unit 4 for R1,100,000"
+      },
+      {
+        "index": 19,
+        "date": "2007-07-17",
+        "event": "Barend Nortje appointed director of De Fay Fund Management"
+      },
+      {
+        "index": 20,
+        "date": "2008-06-18",
+        "event": "RegimA International Skin Treatments CC established"
+      },
+      {
+        "index": 23,
+        "date": "2015-07-08",
+        "event": "K Rae Enterprises (later Dandelion SA) registered"
+      },
+      {
+        "index": 24,
+        "date": "2016-07-05",
+        "event": "Chan\u00e9 Todd becomes director of Dandelion SA; Kirby Van Der Stelt resigns"
+      }
+    ],
+    "entries_without_entities": [
+      {
+        "index": 12,
+        "date": "2000-05-31",
+        "event": "George Endermologie Clinic CC registered in Western Cape"
+      },
+      {
+        "index": 14,
+        "date": "2005-09-29",
+        "event": "Kachan Marketing and Distribution CC registered - Karen Avnit 100% member"
+      },
+      {
+        "index": 17,
+        "date": "2006-03-16",
+        "event": "Dermal Skin Treatments Cape Town CC registered - Nortje 50%/50%"
+      },
+      {
+        "index": 18,
+        "date": "2006-06-05",
+        "event": "Karen Avnit purchases SS Forest Lodge 173, Unit 4 for R1,100,000"
+      },
+      {
+        "index": 19,
+        "date": "2007-07-17",
+        "event": "Barend Nortje appointed director of De Fay Fund Management"
+      },
+      {
+        "index": 23,
+        "date": "2015-07-08",
+        "event": "K Rae Enterprises (later Dandelion SA) registered"
+      },
+      {
+        "index": 24,
+        "date": "2016-07-05",
+        "event": "Chan\u00e9 Todd becomes director of Dandelion SA; Kirby Van Der Stelt resigns"
+      },
+      {
+        "index": 36,
+        "date": "2017-09-27",
+        "event": "Bertani International Global registered - Dante Bertani director"
+      },
+      {
+        "index": 48,
+        "date": "2019-11-22",
+        "event": "RegimA Skin Treatments CC registers R3,110,000 bond on Karen Avnit's property"
+      }
+    ],
+    "entries_without_evidence": []
+  }
+}
