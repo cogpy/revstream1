@@ -93,6 +93,11 @@ The LEX Skills Framework provides 128 legal reasoning skills across 7 domains fo
 The skill implementations are located in the ad-res-j7 repository:
 
 ```
+ad-res-j7/
+├── lex/                             # Active LEX framework
+│   └── skills/                      # 128 legal reasoning skills
+└── lexarc/                          # Archived versioned files (234 files)
+
 ad-res-j7/lex/skills/
 ├── core/
 │   ├── skill_framework.scm      # Core skill definitions
