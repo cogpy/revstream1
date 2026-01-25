@@ -1,6 +1,6 @@
 # Revenue Stream Hijacking Case 2025-137857
 
-**Last Updated:** 2026-01-22
+**Last Updated:** 2026-01-25
 
 This site provides comprehensive evidence, analysis, and legal documentation for case 2025-137857 involving revenue stream hijacking, trust violations, and financial fraud totaling **R10,269,727.90**.
 
@@ -57,6 +57,7 @@ This financial motive explains:
 - **[Entities Directory](./entities/index.md)** - All persons and organizations (79 entities)
 - **[Events Directory](./events/)** - Detailed event documentation (98 events)
 - **[Relations Analysis](./relations/index.md)** - Entity relationship mapping (123 relations)
+- **[LEX Skills Framework](./skills/index.md)** - 128 legal reasoning skills across 7 domains
 
 ### Evidence Packages (JF Series)
 - **JF01** - Shopify Plus email evidence (THE FORENSIC TIME CAPSULE)
