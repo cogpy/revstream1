@@ -65,7 +65,7 @@ This means the RegimaSA (Pty) Ltd 2019 financial statements are for a **differen
 - Dismisses detailed investigation of computer expenses
 - Asks for "line by line" answers but provides no substantive audit
 - Acknowledges dispute but does not take victim's side
-- **Consistent with conflict of interest** (R18.685M debt to trust)
+- **Consistent with conflict of interest** (R18.75M (Ketoni debt to FFT) debt to trust)
 
 ---
 
@@ -368,7 +368,7 @@ From Sage screenshot, **RegimA SA (Pty) Ltd** is listed as a separate company wi
 
 **Significance**:
 - Long-term relationship establishes deep knowledge of operations
-- Makes R18.685M debt concealment more egregious
+- Makes R18.75M (Ketoni debt to FFT) debt concealment more egregious
 - Explains why Bantjes dismisses audit requests
 - Establishes motive for protecting fraud scheme
 
@@ -504,7 +504,7 @@ From Sage screenshot, **RegimA SA (Pty) Ltd** is listed as a separate company wi
 ### 9.2 Bantjes' Role
 
 1. **30-Year Involvement**: Deep knowledge of Faucitt family business
-2. **Conflict of Interest**: R18.685M debt to trust
+2. **Conflict of Interest**: R18.75M (Ketoni debt to FFT) debt to trust
 3. **Dismisses Audit**: Asks for "line by line" answers but provides no substantive investigation
 4. **Acknowledges Losses**: Confirms R10M decline but does not support victims
 

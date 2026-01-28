@@ -77,7 +77,7 @@
 **Roles:**
 - Accountant controlling financial reporting with Rynette
 - Unknown Trustee participating in trust violations with Peter
-- Creditor with R18.685M debt (motive to conceal fraud)
+- Creditor with R18.75M (Ketoni debt to FFT) debt (motive to conceal fraud)
 
 **Critical Action:**
 - June 10, 2025: Dismissed audit request 4 days after Daniel exposed fraud

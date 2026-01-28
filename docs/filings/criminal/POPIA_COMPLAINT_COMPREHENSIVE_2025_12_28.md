@@ -23,7 +23,7 @@ All POPIA violations must be understood within the context of the R18.75M Ketoni
 
 **Central Motive Evidence:**
 - [JF10 - Trust Documents](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF10)
-- [SF1 - Bantjies Appointment](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)
+- [SF1 - Ketoni R18.75M Payout Documentation_FFT_Documentation.md)
 
 ## 2. Key Violations of POPIA
 

@@ -61,7 +61,7 @@ This comprehensive analysis and refinement operation has successfully:
 
 | SF ID | Filename | Entities | Amounts | Burden Assessment |
 |-------|----------|----------|---------|-------------------|
-| SF1 | Bantjies Debt Documentation | 3 | 13 | INSUFFICIENT → Enhanced |
+| SF1 - Ketoni R18.75M Payout Documentation Documentation | 3 | 13 | INSUFFICIENT → Enhanced |
 | SF2 | Sage Screenshots - Rynette Control | 6 | 2 | **CRITICAL** |
 | SF3 | Strategic Logistics Stock Adjustment | 4 | 27 | INSUFFICIENT → Enhanced |
 | SF4 | SARS Audit Email | 6 | 10 | CIVIL_THRESHOLD |
@@ -212,7 +212,7 @@ This comprehensive analysis and refinement operation has successfully:
 - **Burden:** Exceeds 95% criminal threshold
 
 ### Strong Evidence
-- **SF1:** Bantjies Debt Documentation (R18.685M)
+- **SF1 - Ketoni R18.75M Payout Documentation Documentation (R18.75M (Ketoni debt to FFT))
 - **SF3:** Stock Adjustment Fraud (R5.4M)
 - **SF6:** Kayla Estate Documentation (R1.035M)
 - **Type:** Financial records, official documentation
@@ -225,7 +225,7 @@ This comprehensive analysis and refinement operation has successfully:
 | Category | Amount | Evidence | Burden Met |
 |----------|--------|----------|------------|
 | Revenue Theft | R10,269,727.90 | JF07, JF08 | 95% ✓ |
-| Bantjies Debt | R18,685,000.00 | SF1 | 95% ✓ |
+| Ketoni R18.75M debt to FFT (Bantjies conflict as George Group CFO),000.00 | SF1 | 95% ✓ |
 | Stock Fraud | R5,400,000.00 | SF3 | 50% ✓ |
 | Kayla Estate Debt | R1,035,000.00 | SF6 | 50% ✓ |
 | **TOTAL IMPACT** | **R35,389,727.90** | Multiple | ✓ |

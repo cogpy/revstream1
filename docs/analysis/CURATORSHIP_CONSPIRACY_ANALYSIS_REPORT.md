@@ -8,7 +8,7 @@
 
 ## 1. Executive Summary
 
-The entire litigation, from the first ex parte interdict to the fabricated financial statements, is not a business dispute between Peter and Daniel Faucitt. It is a **calculated, multi-stage hostile takeover orchestrated by Bantjies** to seize control of the Faucitt Family Trust assets and eliminate his **R18,685,000 debt due in May 2026** (with total exposure of **R70,580,000** over three years).
+The entire litigation, from the first ex parte interdict to the fabricated financial statements, is not a business dispute between Peter and Daniel Faucitt. It is a **calculated, multi-stage hostile takeover orchestrated by Bantjies** to seize control of the Faucitt Family Trust assets and eliminate his **R18.75M (Ketoni debt to FFT) debt due in May 2026** (with total exposure of **R70,580,000** over three years).
 
 **The Strategy:**
 
@@ -20,7 +20,7 @@ The entire litigation, from the first ex parte interdict to the fabricated finan
 
 **The Actors:**
 
--   **The Mastermind:** Bantjies (motivated by R18.685M debt due May 2026, total exposure R70.58M)
+-   **The Mastermind:** Bantjies (motivated by R18.75M (Ketoni debt to FFT) debt due May 2026, total exposure R70.58M)
 -   **The Enforcer:** Rynette Farrar Bantjies (impersonating Peter, executing instructions)
 -   **The Pawn:** Peter Faucitt (unaware/manipulated, used as the face of the litigation)
 -   **The Unknowing Tools:** De Novo Business Services (accountants), medical experts
@@ -50,8 +50,8 @@ This is not litigation. This is **organized crime disguised as legal proceedings
 
 ### 3.1. The Mastermind: Bantjies
 
--   **Motive:** **R18,685,000** due **May 2026** (Year 1 of call option agreement)
--   **Total Exposure:** R70,580,000 over 3 years (R18.685M + R23.165M + R28.730M)
+-   **Motive:** **R18.75M (Ketoni debt to FFT)** due **May 2026** (Year 1 of call option agreement)
+-   **Total Exposure:** R70,580,000 over 3 years (R18.75M (Ketoni debt to FFT) + R23.165M + R28.730M)
 -   **Deadline:** ~6 months remaining (as of November 2025)
 -   **Strategy:** Curatorship hostile takeover.
 -   **Actions:**

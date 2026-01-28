@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "version": "36.0_COMPREHENSIVE_REFINED_2026_01_28",
+    "version": "37.0_KETONI_CORRECTION_2026_01_28",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-28T05:45:17.386844",
-    "changes": "Comprehensive LEX refinement - burden of proof analysis added",
+    "last_updated": "2026-01-28T06:41:36.738227",
+    "changes": "Critical correction: R18.75M is Ketoni debt to FFT, not Bantjies personal debt. Added George Group entity.",
     "total_entities": 86,
     "total_persons": 36,
-    "total_organizations": 50
+    "total_organizations": 51
   },
   "entities": {
     "persons": [
@@ -409,8 +409,8 @@
           "email_correspondent_bernadine_wright"
         ],
         "financial_impact": {
-          "debt_motive": "R18,685,000",
-          "debt_to_trust": "R18,685,000",
+          "debt_motive": "Ketoni R18.75M payout to FFT",
+          "ketoni_payout_to_fft": "R18.75M",
           "stock_fraud_concealment": "R5,400,000",
           "primary_categories": [
             "fraud_concealment",
@@ -422,14 +422,11 @@
         "legal_status": "co_conspirator_and_fiduciary_violator",
         "additional_notes": "Unknown trustee status, dismissed audit request June 10, 2025 (4 days after fraud exposure), controlled accounting system with Rynette using Peter's email, owes R18.685M to trust creating massive conflict of interest, certified Peter's affidavit as Commissioner of Oaths despite material omissions, sent trial balance email Aug 13, 2020; Sent trial balance email Aug 13, 2020 to Bernadine Wright; learned of criminal matters June 10, 2025; ENS Africa suppressed criminal information from Court Aug 29, 2025",
         "conflict_of_interest": {
-          "triple_conflict": "trustee_debtor_accountant",
-          "roles": [
-            "trustee_of_TRUST_001",
-            "debtor_to_TRUST_001_R18685000",
-            "accountant_for_regima_group",
-            "commissioner_of_oaths"
-          ],
-          "motive": "prevent_discovery_of_R18685000_debt"
+          "type": "CFO-Trustee conflict",
+          "description": "As CFO of George Group, Bantjies reports to Kevin Derrick who owns Ketoni which owes R18.75M to FFT where Bantjies is Trustee",
+          "note": "The R18.75M is NOT Bantjies personal debt - it is Ketoni debt to FFT",
+          "professional_loyalty": "To Kevin Derrick (George Group CEO, Ketoni owner)",
+          "fiduciary_duty": "To FFT beneficiaries (Daniel, Jacqui)"
         },
         "timeline_events": [
           "EVENT_H018",
@@ -454,7 +451,7 @@
           "JF08 - June 10, 2025 audit dismissal email"
         ],
         "ad_res_j7_references": [
-          "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+          "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
           "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
           "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md"
         ],
@@ -463,7 +460,7 @@
         "criminal_threshold": "95%_likely",
         "evidence_upgraded": "2026-01-04T05:34:37.785483",
         "ad_res_j7_evidence_enhanced": [
-          "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+          "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
           "ANNEXURES/JF03 - Financial records",
           "ANNEXURES/JF08/evidence_package_20251012"
         ],
@@ -491,11 +488,16 @@
           "civil_50%": "EXCEEDED - Trustee appointment, debt to trust",
           "criminal_95%": "LIKELY - Conflict of interest, false affidavit",
           "key_evidence": [
-            "SF1 - Bantjies Debt Documentation R1,048,000",
+            "SF1 - Ketoni R18.75M Payout to FFT Documentation R1,048,000",
             "Trustee appointment July 2024",
             "George Group CFO position",
             "Kevin Derrick connection"
           ]
+        },
+        "corporate_positions": {
+          "george_group": "CFO",
+          "regima_group": "Accountant",
+          "fft": "Trustee (unlawfully appointed by Rynette July 2024)"
         }
       },
       {
@@ -566,7 +568,7 @@
           "1-CIVIL-RESPONSE - Civil case documentation"
         ],
         "evidence": [
-          "SF1 - Bantjies debt documentation",
+          "SF1 - Ketoni R18.75M Payout to FFT Documentation",
           "JF10 - Accounting records"
         ],
         "evidence_enhanced": "2026-01-09T05:36:07.294947",
@@ -1856,7 +1858,7 @@
           "significance": "Debt reduced from R85k to R22k through large payments"
         },
         "ad_res_j7_references": [
-          "SF1_Bantjies_Debt_Documentation.md - Business relationship and debt",
+          "SF1_Ketoni_Debt_FFT_Documentation.md - Business relationship and debt",
           "1-CIVIL-RESPONSE/financial-flows - Service provider documentation"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077504",
@@ -2832,7 +2834,21 @@
         "evidence": [],
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285233",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-01-28T05:45:17.386844",
+        "owner_director": {
+          "name": "Kevin Michael Derrick",
+          "position": "Director and Shareholder",
+          "also_ceo_of": "The George Group"
+        },
+        "debt_to_fft": {
+          "amount": "R18.75M",
+          "payout_date": "May 2026",
+          "note": "This is NOT Bantjies personal debt - Ketoni owes FFT"
+        },
+        "bantjies_connection": {
+          "relationship": "Bantjies is CFO of George Group where Kevin Derrick is CEO",
+          "conflict": "Bantjies owes professional loyalty to Ketoni owner while being FFT Trustee"
+        }
       },
       {
         "entity_id": "ORG_TB_001",
@@ -2985,6 +3001,36 @@
         "evidence_strength": "moderate",
         "directors": [],
         "refinement_date": "2026-01-28T05:45:17.386844"
+      },
+      {
+        "entity_id": "ORG_GEORGE_GROUP",
+        "name": "The George Group",
+        "type": "holding_company",
+        "role": "corporate_nexus",
+        "significance": "Links Bantjies to Ketoni through corporate hierarchy",
+        "key_personnel": {
+          "ceo": {
+            "name": "Kevin Michael Derrick",
+            "also_director_of": "Ketoni Investment Holdings",
+            "also_shareholder_of": "Ketoni Investment Holdings"
+          },
+          "cfo": {
+            "name": "Danie Bantjies",
+            "also_trustee_of": "Faucitt Family Trust (unlawfully appointed July 2024)",
+            "also_accountant_for": "RegimA Group companies"
+          }
+        },
+        "conflict_of_interest": {
+          "description": "Bantjies as CFO reports to Kevin Derrick (CEO) who owns Ketoni which owes R18.75M to FFT where Bantjies is Trustee",
+          "financial_stake": "R18.75M Ketoni payout to FFT",
+          "loyalty_conflict": "Professional loyalty to Ketoni owner vs fiduciary duty to FFT beneficiaries"
+        },
+        "evidence": [
+          "Company registration records",
+          "Director appointment records"
+        ],
+        "evidence_strength": "conclusive",
+        "refinement_date": "2026-01-28T06:40:55.405574"
       }
     ],
     "platforms": [
@@ -3163,11 +3209,11 @@
           "used_for_attacking_beneficiaries"
         ],
         "financial_impact": {
-          "debt_owed_by_trustee": "R18,685,000",
+          "ketoni_debt_to_fft": "R18.75M (Bantjies conflict as George Group CFO)",
           "debtor": "PERSON_007"
         },
         "legal_significance": "trust_structure_manipulation_and_beneficiary_attack",
-        "additional_notes": "Bantjies is unknown trustee with R18.685M debt to trust, creating massive conflict of interest",
+        "additional_notes": "Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT)",
         "relationships": [
           "trustee_PERSON_001",
           "beneficiary_PERSON_004",
@@ -3181,7 +3227,7 @@
         ],
         "ad_res_j7_references": [
           "ANNEXURES/JF10 - Trust documents",
-          "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+          "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
           "ANNEXURES/JF06 - Court documents and filings"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077524",

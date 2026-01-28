@@ -29,7 +29,7 @@ This report details evidence of significant tax fraud and related financial crim
 
 **Evidence:**
 - **`ad-res-j7/ANNEXURES/JF03`:** Forensic analysis of the financial records reveals significant discrepancies and signs of manipulation.
-- **`ad-res-j7/ANNEXURES/SF1_Bantjies_Debt_Documentation.md`:** Evidence of Danie Bantjies' financial motive and conflict of interest.
+- **`ad-res-j7/ANNEXURES/SF1_Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT).
 
 ## 3. Conclusion
 

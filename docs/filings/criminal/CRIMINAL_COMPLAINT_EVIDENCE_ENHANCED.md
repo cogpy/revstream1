@@ -311,7 +311,7 @@ The following new evidence has been identified that meets the criminal burden of
 
 ## ADDENDUM: New Evidence for Criminal Charges (2025-12-19)
 
-### Bantjies's Criminal Conduct - R18.685M Conflict of Interest
+### Bantjies's Criminal Conduct - R18.75M (Ketoni debt to FFT) Conflict of Interest
 
 ### Charges Supported by New Evidence
 
@@ -325,7 +325,7 @@ The following new evidence has been identified that meets the criminal burden of
 **Evidence:**
 - Bantjies certified Peter's affidavit as Commissioner of Oaths
 - Affidavit omitted Bantjies's undisclosed trustee status
-- Affidavit omitted Bantjies's R18,685,000 debt to the trust
+- Affidavit omitted Ketoni's R18.75M debt to FFT to the trust
 - Certification gave false legitimacy to deceptive application
 - Resulted in interdict against Jacqui and Daniel
 
@@ -342,12 +342,12 @@ The following new evidence has been identified that meets the criminal burden of
 
 **Evidence:**
 - Bantjies appointed trustee July 2024
-- R18,685,000 debt to the trust
+- R18.75M Ketoni payout owed to FFT
 - Dismissed Daniel's audit request (June 10, 2025)
 - Supported Peter's interdict application
 - Prevented fraud investigation
 
-**Motive:** R18,685,000 personal debt creating massive conflict of interest
+**Motive:** R18.75M (Ketoni debt to FFT) personal debt creating massive conflict of interest
 
 **Burden of Proof:** HIGH (documentary evidence of debt and trustee status)
 
@@ -363,7 +363,7 @@ The following new evidence has been identified that meets the criminal burden of
 **Evidence:**
 - Daniel reported fraud June 6, 2025
 - Bantjies dismissed audit request June 10, 2025 (4 days later)
-- Bantjies had R18.685M motive to prevent discovery
+- Bantjies had R18.75M (Ketoni debt to FFT) motive to prevent discovery
 - Certification of affidavit to remove oversight
 
 **Burden of Proof:** HIGH (clear timeline and motive)
@@ -379,7 +379,7 @@ The following new evidence has been identified that meets the criminal burden of
 
 **Evidence:**
 - Bantjies certified affidavit omitting own trustee status
-- Bantjies certified affidavit omitting own R18.685M debt
+- Bantjies certified affidavit omitting own R18.75M (Ketoni debt to FFT) debt
 - Certification directly benefited Bantjies's position
 - Misuse of official capacity
 
@@ -394,7 +394,7 @@ The following new evidence has been identified that meets the criminal burden of
 
 **June 10, 2025:** Bantjies dismisses audit request
 - **Criminal Element:** Obstruction of justice, breach of fiduciary duty
-- **Motive:** R18,685,000 debt
+- **Motive:** R18.75M (Ketoni debt to FFT) debt
 
 **August 1, 2025:** Bantjies certifies Peter's affidavit
 - **Criminal Element:** Fraud, professional misconduct, abuse of office
@@ -421,7 +421,7 @@ The following elements approach or meet the criminal burden of proof:
 3. **Obstruction Pattern:** MEDIUM-HIGH
    - Clear timeline
    - Documentary evidence
-   - Established motive (R18.685M)
+   - Established motive (R18.75M (Ketoni debt to FFT))
 
 4. **Breach of Fiduciary Duty:** MEDIUM-HIGH
    - Trust deed
@@ -438,7 +438,7 @@ We request criminal investigation and prosecution of Danie Bantjies for:
 
 ### Supporting Evidence
 
-- **SF1:** Bantjies Debt Documentation (R18.685M)
+- **SF1 - Ketoni R18.75M Payout Documentation Documentation (R18.75M (Ketoni debt to FFT))
 - **Trust Documents:** Trustee appointment, debt records
 - **Court Records:** Peter's affidavit with Bantjies's certification
 - **Correspondence:** Audit request and dismissal
@@ -447,6 +447,6 @@ We request criminal investigation and prosecution of Danie Bantjies for:
 ---
 
 **Addendum Date:** December 19, 2025  
-**Evidence Source:** SF1 (Bantjies Debt Documentation)  
+**Evidence Source:** SF1 - Ketoni R18.75M Payout Documentation Documentation)  
 **Criminal Burden of Proof:** MEDIUM-HIGH to HIGH
 

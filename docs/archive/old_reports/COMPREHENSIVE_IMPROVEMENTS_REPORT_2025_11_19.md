@@ -32,7 +32,7 @@ This report documents a comprehensive analysis and refinement of the revstream1 
 **Key Entities:**
 - **PERSON_001 (Peter Andrew Faucitt):** Primary perpetrator, 11 events
 - **PERSON_002 (Rynette Farrar):** Co-conspirator, 8 events
-- **PERSON_007 (Danie Bantjies):** Accountant and unknown trustee, R18.685M debt conflict
+- **PERSON_007 (Danie Bantjies):** Accountant and unknown trustee, R18.75M (Ketoni debt to FFT) debt conflict
 
 #### Events
 - **Total Events:** 69

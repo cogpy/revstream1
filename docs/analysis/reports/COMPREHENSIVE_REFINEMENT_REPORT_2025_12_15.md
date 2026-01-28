@@ -48,7 +48,7 @@ Successfully mapped **8 SF evidence files** from the ad-res-j7 repository to ent
 
 | SF ID | Title | Entities | Events | Legal Significance | Burden of Proof |
 |-------|-------|----------|--------|-------------------|-----------------|
-| **SF1** | Bantjies Debt Documentation | 3 | 2 | Debt manipulation and financial engineering | Civil 50% |
+| **SF1 - Ketoni R18.75M Payout Documentation manipulation and financial engineering | Civil 50% |
 | **SF2** | Sage Screenshots - Rynette Control | 3 | 3 | Unauthorized system access and control | Civil 50% |
 | **SF3** | Strategic Logistics Stock Adjustment | 2 | 2 | Inventory fraud and transfer pricing | Civil 50% |
 | **SF4** | SARS Audit Email | 3 | 1 | **Tax fraud - criminal liability** | **Criminal 95%** |
@@ -131,7 +131,7 @@ Enhanced **4 key legal filings** with supplementary evidence cross-references:
 
 The **NPA Tax Fraud Report** received the most significant enhancement, with **4 supplementary evidence references** added:
 
-- **SF1**: Bantjies Debt Documentation (financial engineering)
+- **SF1 - Ketoni R18.75M Payout Documentation Documentation (financial engineering)
 - **SF3**: Strategic Logistics Stock Adjustment (transfer pricing fraud)
 - **SF4**: SARS Audit Email (direct tax fraud evidence - **criminal 95% burden**)
 - **SF5**: Adderory Company Registration (shell company for tax evasion)

@@ -14,7 +14,7 @@ category: accounting_fraud
 
 ## Description
 
-Bantjies documented complex debt relationships totaling R18,685,000 involving Strategic Logistics, Villa Via, and the Faucitt Family Trust.
+Ketoni R18.75M debt to FFT (Bantjies conflict as George Group CFO),000 involving Strategic Logistics, Villa Via, and the Faucitt Family Trust.
 
 ## Evidence References
 
@@ -29,7 +29,7 @@ Bantjies documented complex debt relationships totaling R18,685,000 involving St
 
 ## Financial Impact
 
-**R18,685,000.00**
+**R18.75M (Ketoni debt to FFT).00**
 
 ## Burden of Proof Assessment
 

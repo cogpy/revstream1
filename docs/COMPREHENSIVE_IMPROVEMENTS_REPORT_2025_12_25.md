@@ -34,7 +34,7 @@ This report documents the comprehensive analysis, refinement, and improvement of
 **Key Entities Enhanced:**
 - **PERSON_001 (Peter Andrew Faucitt):** Primary perpetrator, 6 evidence sources, conclusive strength
 - **PERSON_002 (Rynette Farrar):** Co-conspirator, 4 evidence sources, conclusive strength
-- **PERSON_007 (Danie Bantjies):** Accountant, 4 evidence sources, strong strength, R18.685M conflict of interest
+- **PERSON_007 (Danie Bantjies):** Accountant, 4 evidence sources, strong strength, R18.75M (Ketoni debt to FFT) conflict of interest
 - **PERSON_004 (Jacqueline Faucitt):** First Respondent, 4 evidence sources, conclusive strength
 - **PERSON_005 (Daniel James Faucitt):** Second Respondent, 4 evidence sources, conclusive strength
 
@@ -305,7 +305,7 @@ All evidence properly cross-referenced between revstream1 and ad-res-j7 reposito
 
 | Item | Amount | Evidence | Significance |
 |------|--------|----------|--------------|
-| Bantjies Debt to Trust | R18,685,000 | SF1, SF1A | Conflict of interest |
+| Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT) |
 | Stock Fraud Concealment | R5,400,000 | SF3 | Tax fraud |
 | Tax Liability Evaded | ~R1,458,000 | SF3, SF4 | SARS audit context |
 

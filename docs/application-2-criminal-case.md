@@ -24,7 +24,7 @@ Based on timeline analysis:
 
 ### High-Priority Evidence (Criminal Standard)
 
-- **SF1:** Bantjies Debt (R18.685M conflict of interest)
+- **SF1:** Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT))
 - **SF2:** Rynette Control (system access and email control)
 - **SF3:** Stock Fraud (R5.4M concealment)
 - **SF4:** Tax Fraud (SARS audit coordination)

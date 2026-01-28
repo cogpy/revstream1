@@ -81,7 +81,7 @@ Successfully scanned and integrated evidence from ad-res-j7 repository:
 - **SF4_SARS_Audit_Email.md** - SARS audit dismissal (tax fraud)
 - **SF6_Kayla_Pretorius_Estate_Documentation.md** - Trigger event for appropriation
 - **SF7_Court_Order_Kayla_Email_Seizure.md** - Court order violation
-- **SF1_Bantjies_Debt_Documentation.md** - R18.685M conflict of interest
+- **SF1_Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT)
 
 ### 2.2 Evidence Strength Assessment
 **Overall Evidence Strength:** 95%+ (exceeds all burden of proof standards)
@@ -164,7 +164,7 @@ Successfully refined all legal filings:
 **Key Evidence:**
 - RegimaSA financial statements showing R0 revenue
 - Actual revenue hijacked: R10,269,727.90
-- Danie Bantjies R18.685M conflict of interest
+- Danie Bantjies R18.75M (Ketoni debt to FFT) conflict of interest
 - Domain registration fraud (regima.zone)
 
 ### 4.4 POPIA Complaint Highlights
@@ -252,7 +252,7 @@ Total timeline entries: 103
 **Strongest Evidence:**
 1. **SF2_Sage_Screenshots_Rynette_Control.md** - Proves unauthorized email access
 2. **SF4_SARS_Audit_Email.md** - Proves tax fraud intent
-3. **SF1_Bantjies_Debt_Documentation.md** - Proves massive conflict of interest
+3. **SF1_Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT)
 4. **JF01 Shopify Plus email** - Forensic time capsule of business structure
 5. **JF03 Financial records** - Comprehensive financial analysis
 

@@ -35,7 +35,7 @@ Completed comprehensive refinement of all case documentation, data models, legal
 - **Documented:** 1 entity (PERSON_006 - Linda)
 
 **Key Enhancements:**
-- PERSON_007 (Bantjies): Added R18.685M debt documentation, stock fraud concealment evidence, SARS audit coordination
+- PERSON_007 (Bantjies): Added R18.75M (Ketoni debt to FFT) debt documentation, stock fraud concealment evidence, SARS audit coordination
 - PERSON_008 (Kayla): Added SF6 estate documentation, SF7 court order for email seizure
 - All antagonists now have criminal threshold (95%+) evidence strength
 
@@ -87,7 +87,7 @@ Completed comprehensive refinement of all case documentation, data models, legal
 2. **EVENT_058: Bantjies Audit Dismissal**
    - Legal significance: `consciousness_of_guilt_fraud_concealment`
    - Burden of proof: `95%_criminal_standard_met`
-   - Evidence: SF1 (R18.685M conflict), SF3 (stock fraud)
+   - Evidence: SF1 (R18.75M (Ketoni debt to FFT) conflict), SF3 (stock fraud)
 
 3. **EVENT_067: Kayla Pretorius Death**
    - Legal significance: `trigger_event_for_estate_exploitation`
@@ -290,7 +290,7 @@ Both files are now accessible via GitHub Pages with proper formatting and eviden
 
 5. **Bantjies Fraud Concealment (EVENT_058)**
    - Audit dismissal 4 days after fraud exposure
-   - R18.685M conflict of interest
+   - R18.75M (Ketoni debt to FFT) conflict of interest
    - Consciousness of guilt
 
 6. **Evidence Destruction (EVENT_065, EVENT_066)**

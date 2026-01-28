@@ -28,7 +28,7 @@ This document summarizes the comprehensive refinement and improvement process co
 - **Before**: 22 relations
 - **After**: 26 relations
 - **New Relations**: 4
-  - REL_023: Bantjies → Faucitt Family Trust (DEBT - R18.685M)
+  - REL_023: Ketoni R18.75M debt to FFT (Bantjies conflict as George Group CFO)M)
   - REL_024: Rynette → RegimA (SYSTEM_CONTROL)
   - REL_025: SARS → RegimA (TAX_AUDIT)
   - REL_026: Adderory → RegimA (STOCK_SUPPLY)
@@ -40,14 +40,14 @@ This document summarizes the comprehensive refinement and improvement process co
   - EVENT_086: Kayla Pretorius Estate Documentation (2021-09-10)
   - EVENT_087: Court Order for Kayla Email Seizure (2021-10-05)
   - EVENT_088: SARS Tax Audit Notification (2021-03-15)
-  - EVENT_089: Bantjies R18.685M Debt (2020-02-28)
+  - EVENT_089: Bantjies R18.75M (Ketoni debt to FFT) Debt (2020-02-28)
   - EVENT_090: Rynette Sage System Control (2020-08-15)
   - EVENT_091: Adderory Registration (2019-11-20)
 
 ### 2. Evidence Analysis
 
 #### SF Evidence Files Analyzed
-- SF1: Bantjies Debt Documentation (R18.685M)
+- SF1 - Ketoni R18.75M Payout Documentation Documentation (R18.75M (Ketoni debt to FFT))
 - SF2: Sage Screenshots - Rynette Control
 - SF3: Strategic Logistics Stock Adjustment
 - SF4: SARS Audit Email
@@ -58,7 +58,7 @@ This document summarizes the comprehensive refinement and improvement process co
 
 #### Financial Amounts Identified
 - **Total amounts found**: 82
-- **Top amount**: R18,685,000 (Bantjies debt)
+- **Top amount**: R18.75M Ketoni debt to FFT (Bantjies conflict as George Group CFO))
 - **Second**: R5,400,000 (Strategic Logistics stock adjustment)
 
 ### 3. Legal Filings Updated
@@ -94,7 +94,7 @@ This document summarizes the comprehensive refinement and improvement process co
 ### Civil Standard (50% - Balance of Probabilities)
 
 **Evidence Meeting Standard**: 7 items
-- SF1: Bantjies debt documentation (HIGH)
+- SF1 - Ketoni R18.75M Payout Documentation documentation (HIGH)
 - SF2: Rynette system control (HIGH)
 - SF4: SARS audit (HIGH)
 - SF7: Court order for email seizure (HIGH)
@@ -114,7 +114,7 @@ This document summarizes the comprehensive refinement and improvement process co
 
 ## Critical Evidence Highlights
 
-### 1. SF1: Bantjies R18.685M Debt
+### 1. SF1 - Ketoni R18.75M Payout Documentation
 
 **Significance**: CRITICAL
 
@@ -163,7 +163,7 @@ This evidence provides:
 ### Application 1 (Civil Action)
 
 **New Evidence Added**:
-- SF1: Bantjies debt (motive)
+- SF1 - Ketoni R18.75M Payout Documentation (motive)
 - SF2: Rynette system control (capability)
 - SF4: SARS audit (verification)
 - SF5: Adderory registration (structure)
@@ -174,7 +174,7 @@ This evidence provides:
 ### Application 2 (Criminal Complaint)
 
 **New Evidence Added**:
-- SF1: Criminal motive (R18.685M debt)
+- SF1: Criminal motive (R18.75M (Ketoni debt to FFT) debt)
 - SF2: Criminal capability (system control)
 - SF7: Judicial recognition (court order)
 

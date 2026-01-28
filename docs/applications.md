@@ -51,7 +51,7 @@ MARCH 15 ──────────────────── AUGUST 20,
                                              │
                                              ▼
                             ANTICIPATED: CURATORSHIP APPLICATION
-                            (R18,685,000 debt elimination motive)
+                            (R18.75M (Ketoni debt to FFT) debt elimination motive)
 ```
 
 ---
@@ -235,7 +235,7 @@ The three applications follow the **textbook curatorship conspiracy pattern:**
 - "Delinquent and dangerous" (Application 3)
 
 **Actual Motive:**
-- Eliminate R18,685,000 debt to Bantjies
+- Eliminate R18.75M (Ketoni debt to FFT) debt to Bantjies
 - Seize control of Faucitt Family Trust
 - Consolidate revenue stream hijacking
 
@@ -404,7 +404,7 @@ All three applications built on foundation of **158-day revenue hijacking campai
 
 **Evidence:** [Curatorship Conspiracy Analysis Report](CURATORSHIP_CONSPIRACY_ANALYSIS_REPORT.md)
 
-**Motive:** Eliminate R18,685,000 debt to Bantjies
+**Motive:** Eliminate R18.75M (Ketoni debt to FFT) debt to Bantjies
 
 ---
 

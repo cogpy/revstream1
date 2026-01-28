@@ -13,9 +13,9 @@
 **Source Entity:** PERSON_007 (Danie Bantjies)  
 **Target Entity:** TRUST_001 (Faucitt Family Trust)  
 **Relation Type:** DEBTOR  
-**Amount:** R18,685,000
+**Amount:** R18.75M (Ketoni debt to FFT)
 
-**Evidence:** SF1 - Bantjies Debt Documentation
+**Evidence:** SF1 - Ketoni R18.75M Payout to FFT Documentation
 
 **Burden of Proof Assessment:**
 - **Civil Standard:** HIGH
@@ -30,7 +30,7 @@ This debt creates a fundamental conflict of interest. Bantjies simultaneously he
 2. **As Debtor:** Personal interest in avoiding debt collection
 3. **As Accountant:** Control over financial systems and records
 
-The R18,685,000 debt provides clear motive for Bantjies to:
+The R18.75M (Ketoni debt to FFT) debt provides clear motive for Bantjies to:
 - Dismiss Daniel's audit request (June 10, 2025)
 - Support Peter's interdict application
 - Certify Peter's affidavit despite material omissions
@@ -49,7 +49,7 @@ The R18,685,000 debt provides clear motive for Bantjies to:
 **Target Entity:** TRUST_001 (Faucitt Family Trust)  
 **Relation Type:** UNDISCLOSED_TRUSTEE  
 
-**Evidence:** SF1 - Bantjies Debt Documentation, Trust deed amendments
+**Evidence:** SF1 - Ketoni R18.75M Payout to FFT Documentation, Trust deed amendments
 
 **Burden of Proof Assessment:**
 - **Civil Standard:** HIGH
@@ -120,7 +120,7 @@ This demonstrates multiple independent parties identifying irregularities simult
 
 All three relations meet or exceed the civil burden of proof:
 
-1. **Bantjies Debt:** Documentary evidence of R18.685M debt
+1. **Ketoni R18.75M debt to FFT (Bantjies conflict as George Group CFO)M debt
 2. **Undisclosed Trustee:** Trust deed and Master's Office records
 3. **SARS Audit:** Official government correspondence
 
@@ -158,7 +158,7 @@ All three relations support regulatory complaints:
 
 ### SF File Cross-References
 
-- **SF1:** Bantjies Debt Documentation → Relations 1 & 2
+- **SF1 - Ketoni R18.75M Payout Documentation Documentation → Relations 1 & 2
 - **SF4:** SARS Audit Email → Relation 3
 - **SF2:** Sage Screenshots → Supporting evidence for control structure
 - **SF3:** Stock Adjustments → Fraud Bantjies had motive to conceal

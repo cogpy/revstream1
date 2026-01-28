@@ -152,7 +152,7 @@ This report documents a comprehensive analysis and refinement of the RevStream1 
 | Stock Fraud | R5,400,000 | PERSON_003, ORG_009 |
 | Trust Violations | R2,851,247.35 | PERSON_001, TRUST_001 |
 | Villa Via Extraction | R22,800,000 | PERSON_001, ORG_005 |
-| Bantjies Debt Motive | R18,685,000 | PERSON_007, TRUST_001 |
+| Ketoni R18.75M debt to FFT (Bantjies conflict as George Group CFO),000 | PERSON_007, TRUST_001 |
 | **Total Financial Impact** | **R64,282,808.10+** | Multiple entities |
 
 ---

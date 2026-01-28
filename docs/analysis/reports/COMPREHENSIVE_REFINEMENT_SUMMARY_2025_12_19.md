@@ -9,20 +9,20 @@
 
 ## Executive Summary
 
-This document summarizes the comprehensive refinement and improvement process conducted on December 19, 2025. The analysis focused on SF1 (Bantjies Debt Documentation) which revealed a critical R18,685,000 conflict of interest that explains the entire obstruction pattern. All changes have been implemented and are ready for commit and push to the repository.
+This document summarizes the comprehensive refinement and improvement process conducted on December 19, 2025. The analysis focused on SF1 (Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT) that explains the entire obstruction pattern. All changes have been implemented and are ready for commit and push to the repository.
 
 ---
 
-## Key Discovery: Bantjies R18.685M Conflict of Interest
+## Key Discovery: Bantjies R18.75M (Ketoni debt to FFT) Conflict of Interest
 
 ### The Missing Piece
 
-Through analysis of SF1 (Bantjies Debt Documentation), we identified the fundamental conflict of interest that drove all obstruction:
+Through analysis of SF1 (Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT) that drove all obstruction:
 
-**Danie Bantjies owes R18,685,000 to the Faucitt Family Trust**
+**Danie Ketoni owes R18.75M to FFT (Bantjies has conflict as George Group CFO) to the Faucitt Family Trust**
 
 This debt creates a triple conflict:
-1. **As Trustee:** Duty to collect debts (including his own R18.685M)
+1. **As Trustee:** Duty to collect debts (including his own R18.75M (Ketoni debt to FFT))
 2. **As Debtor:** Interest in avoiding debt collection
 3. **As Accountant:** Control over financial systems
 
@@ -33,7 +33,7 @@ This debt creates a triple conflict:
 - **August 1, 2025:** Bantjies certifies Peter's affidavit as Commissioner of Oaths
 - **August 13, 2025:** Interdict granted against Jacqui and Daniel
 
-**Motive:** Bantjies had R18,685,000 reasons to prevent audit discovery
+**Motive:** Bantjies had R18.75M (Ketoni debt to FFT) reasons to prevent audit discovery
 
 ---
 
@@ -53,7 +53,7 @@ This debt creates a triple conflict:
 ### 2. New Relations Documented
 
 #### Relation 1: Bantjies → Faucitt Family Trust (DEBTOR)
-- **Amount:** R18,685,000
+- **Amount:** R18.75M (Ketoni debt to FFT)
 - **Evidence:** SF1
 - **Civil Burden:** HIGH
 - **Criminal Burden:** MEDIUM
@@ -84,10 +84,10 @@ This debt creates a triple conflict:
 
 #### EVENT_087: Bantjies dismisses audit request (2025-06-10)
 - **Category:** obstruction
-- **Financial Impact:** R18,685,000
+- **Financial Impact:** R18.75M (Ketoni debt to FFT)
 - **Evidence:** SF1
 - **Burden of Proof:** Civil HIGH, Criminal HIGH
-- **Significance:** Breach of fiduciary duty, R18.685M motive
+- **Significance:** Breach of fiduciary duty, R18.75M (Ketoni debt to FFT) motive
 - **File Created:** `docs/events/EVENT_087.md`
 
 #### EVENT_088: Bantjies certifies Peter's affidavit (2025-08-01)
@@ -114,7 +114,7 @@ This debt creates a triple conflict:
 #### Civil Filings Updated:
 - **ANSWERING_AFFIDAVIT_EVIDENCE_ENHANCED_20251217.md**
   - Added comprehensive addendum on Bantjies conflict of interest
-  - Documented R18.685M debt and triple conflict
+  - Documented R18.75M (Ketoni debt to FFT) debt and triple conflict
   - Timeline of obstruction (EVENT_086, 087, 088)
   - Legal implications for voidability of interdict
   - Burden of proof: Civil HIGH
@@ -131,7 +131,7 @@ This debt creates a triple conflict:
 #### Regulatory Filings Updated:
 - **CIPC_COMPLAINT_EVIDENCE_ENHANCED_20251217.md**
   - Added addendum on undisclosed trustee status
-  - R18.685M conflict of interest
+  - R18.75M (Ketoni debt to FFT) conflict of interest
   - Breach of fiduciary duty
   
 - **POPIA_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12.md**
@@ -146,7 +146,7 @@ This debt creates a triple conflict:
 ### Civil Standard (Balance of Probabilities - 50%)
 
 **Evidence Exceeding Standard:**
-- Bantjies R18.685M debt: Documentary evidence (HIGH)
+- Bantjies R18.75M (Ketoni debt to FFT) debt: Documentary evidence (HIGH)
 - Undisclosed trustee status: Official trust documents (HIGH)
 - Audit dismissal: Email correspondence (HIGH)
 - Commissioner certification: Court records (HIGH)
@@ -171,13 +171,13 @@ This debt creates a triple conflict:
 - SF1 evidence existed but wasn't fully integrated
 - Bantjies's conflict of interest not explicitly documented
 - Missing timeline events for June-August 2025 obstruction
-- Legal filings lacked R18.685M motive analysis
+- Legal filings lacked R18.75M (Ketoni debt to FFT) motive analysis
 
 ### After Refinement:
-- **Complete SF1 Integration:** All key findings from Bantjies Debt Documentation integrated
-- **Explicit Conflict Documentation:** R18.685M debt and triple conflict clearly documented
+- **Complete SF1 - Ketoni R18.75M Payout Documentation Documentation integrated
+- **Explicit Conflict Documentation:** R18.75M (Ketoni debt to FFT) debt and triple conflict clearly documented
 - **Timeline Completion:** Three critical events added (EVENT_086, 087, 088)
-- **Motive Analysis:** All legal filings now include R18.685M motive explanation
+- **Motive Analysis:** All legal filings now include R18.75M (Ketoni debt to FFT) motive explanation
 - **Cross-Referencing:** Clear links between SF1, events, relations, and legal filings
 
 ---
@@ -187,7 +187,7 @@ This debt creates a triple conflict:
 ### Application 1 (Civil Action - Answering Affidavit)
 
 **New Evidence Added:**
-- SF1: Bantjies R18.685M debt and undisclosed trustee status
+- SF1 - Ketoni R18.75M Payout Documentation and undisclosed trustee status
 - EVENT_086: Daniel's good faith fraud report
 - EVENT_087: Bantjies's dismissal of audit (breach of duty)
 - EVENT_088: Commissioner certification misconduct
@@ -202,7 +202,7 @@ This debt creates a triple conflict:
 
 **New Evidence Added:**
 - Bantjies undisclosed trustee status
-- R18.685M debt creating conflict of interest
+- R18.75M (Ketoni debt to FFT) debt creating conflict of interest
 - Breach of fiduciary duty documentation
 
 **Impact:**
@@ -214,7 +214,7 @@ This debt creates a triple conflict:
 
 **New Evidence Added:**
 - Bantjies system control while conflicted
-- R18.685M motive for data manipulation
+- R18.75M (Ketoni debt to FFT) motive for data manipulation
 - SARS audit (SF4) independent verification
 
 **Impact:**
@@ -289,9 +289,9 @@ This debt creates a triple conflict:
 
 ### SF Files Analyzed: 8
 
-**SF1 - Bantjies Debt Documentation:**
+**SF1 - Ketoni R18.75M Payout to FFT Documentation:**
 - Entity mentions: 6 organizations, Bantjies (38 mentions)
-- Financial amounts: R18,685,000 (primary), R5.4M, others
+- Financial amounts: R18.75M (Ketoni debt to FFT) (primary), R5.4M, others
 - Legal implications: Breach of fiduciary duty, conflict of interest, fraud, professional misconduct
 - Burden of proof: Civil HIGH, Criminal MEDIUM-HIGH
 - **Status:** FULLY INTEGRATED
@@ -332,9 +332,9 @@ This debt creates a triple conflict:
 ## Commit Message Recommendation
 
 ```
-feat: Add Bantjies R18.685M conflict of interest evidence (SF1)
+feat: Add Bantjies R18.75M (Ketoni debt to FFT) conflict of interest evidence (SF1)
 
-Major refinements based on SF1 (Bantjies Debt Documentation):
+Major refinements based on SF1 - Ketoni R18.75M Payout Documentation Documentation):
 
 Entities:
 - Add PERSON_015 (Chantal - estate correspondent)
@@ -345,7 +345,7 @@ Events:
 - Add EVENT_088: Bantjies certifies Peter's affidavit (2025-08-01)
 
 Relations:
-- Document Bantjies → Trust (DEBTOR, R18.685M)
+- Document Ketoni R18.75M debt to FFT (Bantjies conflict as George Group CFO)M)
 - Document Bantjies → Trust (UNDISCLOSED_TRUSTEE)
 - Document SARS → RegimA (TAX_AUDIT)
 
@@ -362,7 +362,7 @@ Legal Filings:
 Evidence Analysis:
 - Burden of proof: Civil HIGH (all elements)
 - Burden of proof: Criminal MEDIUM-HIGH to HIGH
-- Motive established: R18.685M debt explains obstruction pattern
+- Motive established: R18.75M (Ketoni debt to FFT) debt explains obstruction pattern
 
 Files: 11 created, 9 modified
 ```
@@ -383,7 +383,7 @@ Files: 11 created, 9 modified
 - Multiple charges supported: fraud, breach of duty, obstruction, professional misconduct
 - Evidence approaching criminal burden of proof
 - Clear timeline of criminal conduct
-- Established motive (R18.685M)
+- Established motive (R18.75M (Ketoni debt to FFT))
 
 **Regulatory Proceedings:**
 - CIPC: Undisclosed trustee status, breach of fiduciary duty
@@ -392,7 +392,7 @@ Files: 11 created, 9 modified
 
 ### Strategic Impact
 
-The R18.685M discovery provides:
+The R18.75M (Ketoni debt to FFT) discovery provides:
 1. **The Missing Motive:** Explains why Bantjies obstructed investigation
 2. **The Hidden Conflict:** Reveals triple conflict (trustee/debtor/accountant)
 3. **The Pattern Explanation:** Shows systematic nature of obstruction
@@ -402,7 +402,7 @@ The R18.685M discovery provides:
 
 ## Conclusion
 
-The December 19, 2025 refinement successfully integrated the critical SF1 evidence (Bantjies R18.685M debt) into all aspects of the revstream1 repository. This evidence provides the missing piece that explains the entire obstruction pattern and significantly strengthens all legal applications.
+The December 19, 2025 refinement successfully integrated the critical SF1 - Ketoni R18.75M Payout Documentation) into all aspects of the revstream1 repository. This evidence provides the missing piece that explains the entire obstruction pattern and significantly strengthens all legal applications.
 
 **Key Achievement:** Transformed scattered evidence into a coherent narrative with clear motive, timeline, and legal implications.
 

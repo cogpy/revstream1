@@ -214,7 +214,7 @@ Comprehensive mapping created for all 9 entities lacking evidence references, in
 
 **Cross-Application Evidence:**
 - Shopify platform ownership (central revelation)
-- Bantjies' conflict of interest (R18.685M debt)
+- Bantjies' conflict of interest (R18.75M (Ketoni debt to FFT) debt)
 - Fabricated accounts & R5.4M stock fraud
 
 #### 2. Data Model Updates Notice (`DATA_MODEL_UPDATES_2025_11_19.md`)
@@ -292,7 +292,7 @@ Comprehensive mapping created for all 9 entities lacking evidence references, in
 
 1. **Accounting Fraud & Financial Manipulation**
    - Entity: PERSON_007 (Danie Bantjies)
-   - Evidence: Trial balances, R18.685M debt, conflict of interest
+   - Evidence: Trial balances, R18.75M (Ketoni debt to FFT) debt, conflict of interest
    - Events: EVENT_H018, EVENT_058, EVENT_061
    - Key Finding: Triple conflict (trustee/debtor/accountant)
    - Repository: `ad-res-j7/evidence/accounting/trial_balances/`
@@ -336,7 +336,7 @@ Comprehensive mapping created for all 9 entities lacking evidence references, in
    - Repository: `ad-res-j7/ANNEXURES/shopify/platform_ownership/`
 
 2. **Bantjies' Conflict of Interest**
-   - Triple conflict: Trustee + R18.685M debtor + accountant
+   - Triple conflict: Trustee + R18.75M (Ketoni debt to FFT) debtor + accountant
    - Massive financial motive to conceal fraud
    - Repository: `ad-res-j7/evidence/conflict_of_interest/R18_685M_debt/`
 
@@ -594,7 +594,7 @@ Issues Resolved:
 - Financial Manipulation: R4,276,832.85
 
 **Additional Financial Findings:**
-- Bantjies debt to trust: R18,685,000
+- Ketoni R18.75M debt to FFT (Bantjies conflict as George Group CFO),000
 - Stock fraud scheme: R5,400,000
 - Kayla estate debt: R1,035,000
 - Shopify platform investment: R140,000 - R280,000

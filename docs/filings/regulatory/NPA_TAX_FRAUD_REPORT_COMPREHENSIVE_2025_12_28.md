@@ -24,7 +24,7 @@ All tax fraud must be understood within the context of the R18.75M Ketoni Invest
 
 **Central Motive Evidence:**
 - [JF10 - Trust Documents](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF10)
-- [SF1 - Bantjies Appointment](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)
+- [SF1 - Ketoni R18.75M Payout Documentation_FFT_Documentation.md)
 
 ## 2. Key Areas of Tax Fraud
 
@@ -210,7 +210,7 @@ All tax fraud must be understood within the context of the R18.75M Ketoni Invest
 ### 3.3. Daniel Jacobus Bantjies
 - **Role:** Accountant, unknown trustee, co-conspirator
 - **Conflict of Interest:**
-  - Owes R18,685,000 to Faucitt Family Trust
+  - Ketoni owes R18.75M payout to FFT
   - Colleague of Kevin Derrick (Ketoni director)
   - Appointed trustee July 2024
 - **Actions:**

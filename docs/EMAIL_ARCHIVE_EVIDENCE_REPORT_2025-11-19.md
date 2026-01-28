@@ -209,7 +209,7 @@ The analysis of 423 email text files from multiple email accounts has revealed e
 - Acknowledges receipt but takes no action
 - Leaves for 2 weeks immediately after receiving detailed fraud evidence
 - Suggests parties "work it out" rather than investigating
-- **Consistent with conflict of interest** (R18.685M debt to trust)
+- **Consistent with conflict of interest** (R18.75M (Ketoni debt to FFT) debt to trust)
 
 ---
 
@@ -499,14 +499,14 @@ The analysis of 423 email text files from multiple email accounts has revealed e
 
 **Key Evidence**:
 1. 30-year involvement with Faucitt family business
-2. R18.685M debt to trust (from previous analysis)
+2. R18.75M (Ketoni debt to FFT) debt to trust (from previous analysis)
 3. Dismissive response to Daniel's 26-point evidence
 4. Away for 2 weeks immediately after receiving fraud evidence
 5. Drafted Rynette's employment contract
 6. Involved in Rynette's employment from start (2020)
 
 **Implications**:
-- Massive conflict of interest (R18.685M debt)
+- Massive conflict of interest (R18.75M (Ketoni debt to FFT) debt)
 - Cannot provide independent accounting
 - Protects Pete/Rynette to protect debt
 - Long-term relationship creates bias

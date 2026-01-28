@@ -19,7 +19,7 @@
       "source": "PERSON_007",
       "target": "TRUST_001",
       "type": "DEBTOR",
-      "amount": "R18,685,000",
+      "amount": "R18.75M (Ketoni debt to FFT)",
       "evidence": "SF1",
       "civil_burden": "HIGH",
       "criminal_burden": "MEDIUM"
@@ -52,7 +52,7 @@
         "PERSON_003",
         "PERSON_007"
       ],
-      "significance": "Daniel unknowingly reported fraud to conflicted party with R18.685M debt",
+      "significance": "Daniel unknowingly reported fraud to conflicted party with R18.75M (Ketoni debt to FFT) debt",
       "civil_burden": "HIGH",
       "criminal_burden": "MEDIUM"
     },
@@ -66,8 +66,8 @@
         "PERSON_007",
         "PERSON_003"
       ],
-      "financial_impact": "R18,685,000.00",
-      "significance": "Bantjies had R18.685M reasons to prevent audit discovery",
+      "financial_impact": "R18.75M (Ketoni debt to FFT).00",
+      "significance": "Bantjies had R18.75M (Ketoni debt to FFT) reasons to prevent audit discovery",
       "civil_burden": "HIGH",
       "criminal_burden": "HIGH"
     },
@@ -87,9 +87,9 @@
     }
   ],
   "evidence_strength_assessment": {
-    "SF1_Bantjies_Debt_Documentation": {
-      "file": "SF1_Bantjies_Debt_Documentation",
-      "path": "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+    "SF1_Ketoni_Debt_FFT_Documentation": {
+      "file": "SF1_Ketoni_Debt_FFT_Documentation",
+      "path": "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
       "entities_mentioned": [
         {
           "name": "Bantjies",
@@ -125,7 +125,7 @@
       "financial_amounts": [
         "R5",
         "R18.68",
-        "R18,685,000"
+        "R18.75M (Ketoni debt to FFT)"
       ],
       "dates_mentioned": [
         "August 2025",

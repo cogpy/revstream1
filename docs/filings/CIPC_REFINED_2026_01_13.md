@@ -43,7 +43,7 @@ Peter Faucitt, as director of RWD ZA (Pty) Ltd and trustee of Faucitt Family Tru
 **Unauthorized Trust Distributions**
 - Diverted R5,992,895.05 from trust to personal benefit
 - Excluded legitimate beneficiaries (Daniel and Jacqueline Faucitt)
-- Evidence: ANNEXURES/JF03, SF1_Bantjies_Debt_Documentation.md
+- Evidence: ANNEXURES/JF03, SF1_Ketoni_Debt_FFT_Documentation.md
 
 **Revenue Stream Hijacking**
 - Redirected R4,276,832.85 in legitimate business revenue
@@ -82,10 +82,10 @@ The respondents engaged in fraudulent conduct through:
 Multiple conflicts of interest not disclosed:
 
 **Danie Bantjies Triple Conflict**
-- R18,685,000 debt to Faucitt Family Trust
+- R18.75M Ketoni payout owed to FFT
 - Accountant for trust and companies
 - Unknown trustee of Faucitt Family Trust
-- Evidence: SF1_Bantjies_Debt_Documentation.md (CRITICAL)
+- Evidence: SF1_Ketoni_Debt_FFT_Documentation.md (CRITICAL)
 
 **Peter Faucitt Conflict**
 - Trustee and beneficiary of Faucitt Family Trust
@@ -147,7 +147,7 @@ The respondents provided false information to CIPC:
 - **JF10:** Trust documents
 
 ### 3.2 Critical Supporting Files
-- **SF1:** Bantjies debt documentation (R18.685M conflict)
+- **SF1 - Ketoni R18.75M Payout Documentation documentation (R18.75M (Ketoni debt to FFT) conflict)
 - **SF2:** Sage screenshots showing Rynette's control (CRITICAL)
 - **SF4:** SARS audit email (audit dismissal)
 - **SF6:** Kayla Pretorius estate documentation (trigger event)

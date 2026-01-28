@@ -24,7 +24,7 @@
 | **Events Involved** | 7 |
 | **Outgoing Relations** | 0 |
 | **Incoming Relations** | 0 |
-| **Total Financial Impact** | R18,685,000.00 |
+| **Total Financial Impact** | R18.75M (Ketoni debt to FFT).00 |
 
 ---
 
@@ -90,7 +90,7 @@ This entity is involved in **7 events** across the case timeline.
 #### EVENT_026: Untitled Event
 
 **Date:** Unknown  
-**Financial Impact:** R18,685,000  
+**Financial Impact:** R18.75M (Ketoni debt to FFT)  
 
 
 
@@ -161,8 +161,8 @@ This entity is involved in **7 events** across the case timeline.
 
 | Category | Amount |
 |----------|--------|
-| Unknown | R18,685,000.00 |
-| **TOTAL** | **R18,685,000.00** |
+| Unknown | R18.75M (Ketoni debt to FFT).00 |
+| **TOTAL** | **R18.75M (Ketoni debt to FFT).00** |
 
 ---
 

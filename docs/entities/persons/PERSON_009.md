@@ -14,9 +14,9 @@
 - email_sender_for_customer_diversion
 
 ## Evidence
-- SF1 - Bantjies debt documentation
+- SF1 - Ketoni R18.75M Payout to FFT Documentation
 - JF10 - Accounting records
 
 ## Ad-Res-J7 References
-- `ANNEXURES/SF1_Bantjies_Debt_Documentation.md - Professional correspondence`
+- `ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md - Professional correspondence`
 - `ANNEXURES/JF10 - Accounting records`

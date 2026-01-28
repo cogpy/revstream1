@@ -76,7 +76,7 @@ Completed comprehensive analysis and refinement of the revstream1 repository, en
 ### 2. Evidence Repository Cross-Reference ✅
 
 #### SF Files (Smoking Gun Evidence) - 8 files
-- **SF1:** Bantjies Debt Documentation (R18.685M) - 7,005 bytes
+- **SF1 - Ketoni R18.75M Payout Documentation Documentation (R18.75M (Ketoni debt to FFT)) - 7,005 bytes
 - **SF2:** Sage Screenshots - Rynette Control ⚡ CRITICAL - 10,114 bytes
 - **SF3:** Strategic Logistics Stock Adjustment (R5.4M) - 10,633 bytes
 - **SF4:** SARS Audit Email - 10,935 bytes
@@ -216,7 +216,7 @@ All claims in all applications exceed the civil burden of proof.
 | Category | Amount | Evidence Strength |
 |----------|--------|-------------------|
 | Total Revenue Theft | R10,269,727.90 | Conclusive |
-| Bantjies Debt to Trust | R18,685,000.00 | Documented |
+| Ketoni R18.75M debt to FFT (Bantjies conflict as George Group CFO),000.00 | Documented |
 | Stock Adjustment Fraud | R5,400,000.00 | Strong |
 | Kayla Estate Debt | R1,035,000.00 | Documented |
 | **Total Documented Impact** | **R35,389,727.90** | **Strong to Conclusive** |

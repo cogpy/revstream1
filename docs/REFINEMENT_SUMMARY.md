@@ -22,7 +22,7 @@ This document summarizes the comprehensive refinement of the data models for the
 3. **Added New Entities**: 
    - ORG_008: ReZonance (Pty) Ltd - IT services provider and creditor
 4. **Enhanced Existing Entities**:
-   - PERSON_007 (Bantjies): Added R18.685M debt to trust, triple conflict of interest analysis, Commissioner of Oaths role
+   - PERSON_007 (Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT) analysis, Commissioner of Oaths role
    - PERSON_009 (Gee): Added domain switch instruction details, witness to customer diversion
    - PERSON_010 (Bernadine Wright): Added trial balance email evidence, witness to financial system control
 
@@ -30,14 +30,14 @@ This document summarizes the comprehensive refinement of the data models for the
 
 **Danie Bantjies (PERSON_007) - Triple Conflict of Interest**:
 - **Role 1**: Trustee of Faucitt Family Trust (fiduciary duty)
-- **Role 2**: Debtor to Trust (R18,685,000 - personal interest)
+- **Role 2**: Debtor to Trust (R18.75M (Ketoni debt to FFT) - personal interest)
 - **Role 3**: Accountant for RegimA Group (professional duty)
 - **Role 4**: Commissioner of Oaths (certified Peter's affidavit)
 
 **Conflict Analysis**:
 - Fiduciary duty to maximize trust assets vs. personal interest in avoiding debt collection
 - Professional duty to provide accurate information vs. ability to manipulate records
-- Motive: Prevent discovery of R18.685M debt through audit dismissal and fraud concealment
+- Motive: Prevent discovery of R18.75M (Ketoni debt to FFT) debt through audit dismissal and fraud concealment
 
 **ReZonance (ORG_008) - Trigger Entity**:
 - IT services provider since 2017
@@ -92,7 +92,7 @@ This document summarizes the comprehensive refinement of the data models for the
 - 2025-03-15: Conceals R5.4M stock adjustment fraud
 - 2025-06-06: Receives fraud report from Daniel
 - 2025-06-10: Dismisses audit request (4 days later)
-- Motive: R18,685,000 debt to trust
+- Motive: R18.75M Ketoni payout owed to FFT
 
 ### Relations Model (relations.json)
 
@@ -102,7 +102,7 @@ This document summarizes the comprehensive refinement of the data models for the
 #### New Relations Added
 
 **Debt Relations** (2 relations):
-- REL_DEBT_001: Bantjies to Trust (R18,685,000) - Massive conflict of interest
+- REL_DEBT_001: Bantjies to Trust (R18.75M (Ketoni debt to FFT)) - Massive conflict of interest
 - REL_DEBT_002: RegimA to ReZonance (R1,035,361.34) - Trigger for confrontation
 
 **Estate Relations** (1 relation):
@@ -160,7 +160,7 @@ This document summarizes the comprehensive refinement of the data models for the
 
 **Phase 4: Consolidation (Updated)**
 - Added events: EVENT_026 (Bantjies audit dismissal), EVENT_027 (domain switch email)
-- Enhanced pattern analysis: Bantjies R18.685M debt conflict, active customer diversion
+- Enhanced pattern analysis: Bantjies R18.75M (Ketoni debt to FFT) debt conflict, active customer diversion
 
 #### New Analytical Components
 
@@ -168,7 +168,7 @@ This document summarizes the comprehensive refinement of the data models for the
 - Total events involving Bantjies: 7 events (17.1% of total)
 - Critical implication: Triple conflict drives fraud concealment
 - Event timeline: 2020-2025 (5+ years of involvement)
-- Motive: Prevent discovery of R18,685,000 debt
+- Motive: Prevent discovery of R18.75M (Ketoni debt to FFT) debt
 
 **ReZonance Debt Trigger Analysis**:
 - Debt amount: R1,035,361.34 (part of Kayla's estate)
@@ -208,14 +208,14 @@ This pattern demonstrates a shift from non-payment to active fraud, setting the 
 
 ### 3. Bantjies Triple Conflict of Interest
 
-The most critical discovery is Bantjies' R18,685,000 debt to the Faucitt Family Trust, creating a massive conflict of interest:
+The most critical discovery is Ketoni's R18.75M debt to FFT to the Faucitt Family Trust, creating a massive conflict of interest:
 
 **As Trustee**: Fiduciary duty to maximize trust assets and collect debts  
-**As Debtor**: Personal interest in avoiding debt collection (R18.685M)  
+**As Debtor**: Personal interest in avoiding debt collection (R18.75M (Ketoni debt to FFT))  
 **As Accountant**: Control over financial systems and ability to manipulate records  
 **As Commissioner of Oaths**: Certified Peter's affidavit with material omissions
 
-**Motive for Fraud Concealment**: The June 10, 2025 audit dismissal (4 days after Daniel exposed fraud) makes perfect sense when understood as Bantjies protecting his R18.685M debt from discovery. An audit would reveal the debt, the conflicts, and the control structure.
+**Motive for Fraud Concealment**: The June 10, 2025 audit dismissal (4 days after Daniel exposed fraud) makes perfect sense when understood as Bantjies protecting his R18.75M (Ketoni debt to FFT) debt from discovery. An audit would reveal the debt, the conflicts, and the control structure.
 
 ### 4. ReZonance Debt as Retaliation Trigger
 
@@ -267,13 +267,13 @@ The refined data models should be implemented in both Supabase and Neon database
 ### 3. Legal Document Integration
 
 **Affidavit Enhancement**: Integrate refined data models into answering affidavits with specific references to:
-- Bantjies R18.685M debt and triple conflict
+- Bantjies R18.75M (Ketoni debt to FFT) debt and triple conflict
 - ReZonance debt as retaliation trigger
 - Villa Via profit extraction pattern
 - Historical foundation evidence (2017-2021)
 
 **Evidence Annexures**: Create structured annexures for:
-- SF1: Bantjies Debt Documentation (R18.685M)
+- SF1 - Ketoni R18.75M Payout Documentation Documentation (R18.75M (Ketoni debt to FFT))
 - SF2: ReZonance Debt Timeline (2017-2025)
 - SF3: Villa Via Profit Extraction Analysis
 - SF4: Inter-Company Manipulation Evidence (2020)
@@ -300,7 +300,7 @@ Validate all new entities, events, and relations against source evidence:
 The data model refinement has transformed the case analysis from a 6-month fraud investigation (March-September 2025) into an 8+ year systematic fraud pattern (2017-2025). The addition of historical foundation events, debt accumulation patterns, and Bantjies' triple conflict of interest provides critical context for understanding the 2025 retaliation sequence.
 
 **Key Discoveries**:
-1. **Bantjies R18.685M debt** creates massive conflict of interest and motive for fraud concealment
+1. **Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT) and motive for fraud concealment
 2. **ReZonance debt** (R1.035M, part of Kayla's estate) triggered systematic retaliation
 3. **Villa Via profit extraction** (R22.8M members loan) established in 2020
 4. **False payment claims** (R1.235M) show escalation from debt to fraud

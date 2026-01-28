@@ -72,7 +72,7 @@ All `.html` references updated to proper `.md` format for GitHub Pages navigatio
 5. **TRUST_001** (trusts)
    - Added 6 evidence_files
    - Added 6 ad_res_j7_references
-   - R18.685M debt conflict documentation
+   - R18.75M (Ketoni debt to FFT) debt conflict documentation
 
 6. **BANK_001** (bank_accounts)
    - Added 5 evidence_files

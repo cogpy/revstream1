@@ -25,7 +25,7 @@ The Faucitt Family Trust holds 5,000 A-Ordinary shares in Ketoni Investment Hold
 
 **Evidence:**
 - [JF10 - Trust Documents](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF10)
-- [SF1 - Bantjies Debt Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)
+- [SF1 - Ketoni R18.75M Payout to FFT Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md)
 - [JF06 - Court Documents](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF06)
 
 ### 1.2. Timeline of the Scheme
@@ -90,7 +90,7 @@ Peter's actions as director were subordinated to his personal interest in captur
 
 **Evidence:**
 - [JF10 - Trust Documents](https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES/JF10)
-- [SF1 - Bantjies Appointment](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)
+- [SF1 - Ketoni R18.75M Payout Documentation_FFT_Documentation.md)
 
 ### 2.2. Section 22: Reckless Trading
 
@@ -212,7 +212,7 @@ ReZonance, owned by Daniel and Kayla, was deliberately targeted for debt creatio
 **Role:** Accountant and unknown trustee
 
 **Conflict of Interest:**
-- Owes R18,685,000 to Faucitt Family Trust
+- Ketoni owes R18.75M payout to FFT
 - Appointed as trustee July 2024 (creates majority for Peter)
 - Colleague of Kevin Derrick (Ketoni Investment Holdings director)
 - Dismissed audit request June 10, 2025 (4 days after fraud exposure)
@@ -224,7 +224,7 @@ ReZonance, owned by Daniel and Kayla, was deliberately targeted for debt creatio
 4. Suppressed criminal information from court (via ENS Africa, August 29, 2025)
 
 **Evidence:**
-- [SF1 - Bantjies Debt Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)
+- [SF1 - Ketoni R18.75M Payout to FFT Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md)
 - [SF3 - Stock Adjustment](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md)
 - [SF4 - SARS Audit Email](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF4_SARS_Audit_Email.md)
 
@@ -336,7 +336,7 @@ Date: 2025-12-28
 
 | Evidence ID | Description | Significance | Burden of Proof |
 | :--- | :--- | :--- | :--- |
-| **SF1_Bantjies_Debt_Documentation.md** | Establishes Danie Bantjies' R18.685M debt and conflict of interest | civil_50_criminal_95 |
+| **SF1_Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT) | civil_50_criminal_95 |
 | **SF2_Sage_Screenshots_Rynette_Control.md** | Proves Rynette's control of accounting system and Pete's email | criminal_95 |
 | **SF5_Adderory_Company_Registration_Stock_Supply.md** | Documents Adderory's company and stock supply arrangement | civil_50 |
 | **SF6_Kayla_Pretorius_Estate_Documentation.md** | CRITICAL: Death of Kayla triggered estate exploitation | civil_50_criminal_95 |

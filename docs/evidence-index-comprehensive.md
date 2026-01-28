@@ -12,9 +12,9 @@ This index provides a complete catalogue of all evidence in the case, organized 
 ## SF Evidence Files (Smoking Gun)
 
 
-### SF1: SF1_Bantjies_Debt_Documentation.md
+### SF1: SF1_Ketoni_Debt_FFT_Documentation.md
 
-- **File:** `SF1_Bantjies_Debt_Documentation.md`
+- **File:** `SF1_Ketoni_Debt_FFT_Documentation.md`
 - **Entities Mentioned:** 3
 - **Financial Amounts:** 13
 - **Burden of Proof:** INSUFFICIENT

@@ -51,8 +51,8 @@ This report documents the comprehensive refinement and improvement process condu
 #### Relations Added (4)
 
 **REL_023: Bantjies → Faucitt Family Trust (DEBT)**
-- **Amount**: R18,685,000.00
-- **Evidence**: SF1_Bantjies_Debt_Documentation.md
+- **Amount**: R18.75M (Ketoni debt to FFT).00
+- **Evidence**: SF1_Ketoni_Debt_FFT_Documentation.md
 - **Evidence Type**: Documentary, financial records
 - **Burden of Proof**: Civil (HIGH), Criminal (MEDIUM)
 - **Legal Significance**: **CRITICAL**
@@ -60,7 +60,7 @@ This report documents the comprehensive refinement and improvement process condu
   - Bantjies simultaneously: trustee + debtor + accountant
   - Provides clear motive to prevent fraud discovery
   - Explains audit dismissal (June 10, 2025, 4 days after fraud exposure)
-- **Motive Analysis**: R18.685M debt provides financial incentive to:
+- **Motive Analysis**: R18.75M (Ketoni debt to FFT) debt provides financial incentive to:
   - Dismiss Daniel's audit request
   - Support Peter's interdict application
   - Certify affidavit with material omissions
@@ -128,10 +128,10 @@ This report documents the comprehensive refinement and improvement process condu
   - Regulatory scrutiny supports fraud allegations
   - Official government audit
 
-**EVENT_089: Bantjies R18.685M Debt to Faucitt Family Trust (2020-02-28)**
+**EVENT_089: Bantjies R18.75M (Ketoni debt to FFT) Debt to Faucitt Family Trust (2020-02-28)**
 - **Category**: Accounting fraud / Conflict of interest
 - **Participants**: PERSON_007, TRUST_001
-- **Financial Impact**: R18,685,000.00
+- **Financial Impact**: R18.75M (Ketoni debt to FFT).00
 - **Evidence**: SF1
 - **Burden of Proof**: Civil (HIGH), Criminal (MEDIUM)
 - **Significance**: **CRITICAL**
@@ -171,7 +171,7 @@ This report documents the comprehensive refinement and improvement process condu
 **Addendum Added**: "New Evidence - Bantjies Conflict of Interest (2025-12-19)"
 
 **Key Additions**:
-1. **Bantjies R18.685M Debt**: Documentary evidence establishing motive
+1. **Bantjies R18.75M (Ketoni debt to FFT) Debt**: Documentary evidence establishing motive
 2. **Undisclosed Trustee Status**: Official trust documents proving concealment
 3. **Triple Conflict of Interest**: Analysis of trustee + debtor + accountant roles
 4. **Timeline of Obstruction**: June 6-August 13, 2025 events
@@ -286,8 +286,8 @@ This report documents the comprehensive refinement and improvement process condu
 
 ### SF Evidence Files Analyzed (8)
 
-**SF1: Bantjies Debt Documentation**
-- **Financial Amount**: R18,685,000
+**SF1 - Ketoni R18.75M Payout Documentation Documentation**
+- **Financial Amount**: R18.75M (Ketoni debt to FFT)
 - **Entity Mentions**: 27
 - **Relations Found**: 5
 - **Significance**: CRITICAL - Establishes motive
@@ -329,7 +329,7 @@ This report documents the comprehensive refinement and improvement process condu
 **Total Amounts Found**: 82
 
 **Top 10 Financial Amounts**:
-1. R18,685,000 - Bantjies debt (SF1)
+1. R18.75M Ketoni debt to FFT (Bantjies conflict as George Group CFO) (SF1)
 2. R5,400,000 - Strategic Logistics stock adjustment (SF3)
 3. R1,035,000 - Multiple instances across SF2, SF3, SF5, SF6
 
@@ -341,7 +341,7 @@ This report documents the comprehensive refinement and improvement process condu
 
 **Evidence Meeting Standard**: 7 items
 
-1. **SF1: Bantjies Debt** - HIGH
+1. **SF1 - Ketoni R18.75M Payout Documentation** - HIGH
    - Documentary evidence
    - Financial records
    - Trust documentation
@@ -401,10 +401,10 @@ This report documents the comprehensive refinement and improvement process condu
 
 ## Critical Evidence Highlights
 
-### 1. SF1: Bantjies R18.685M Debt - CRITICAL
+### 1. SF1 - Ketoni R18.75M Payout Documentation - CRITICAL
 
 **What It Proves**:
-- Bantjies owes R18,685,000 to Faucitt Family Trust
+- Ketoni owes R18.75M to FFT (Bantjies has conflict as George Group CFO) to Faucitt Family Trust
 - Triple conflict of interest: trustee + debtor + accountant
 - Clear financial motive to prevent fraud discovery
 - Reason for dismissing audit request (June 10, 2025)
@@ -420,7 +420,7 @@ This report documents the comprehensive refinement and improvement process condu
 - August 2025: Bantjies certifies Peter's affidavit
 
 **Why It Matters**:
-This evidence provides the missing piece explaining the entire obstruction pattern. The R18.685M debt gives Bantjies overwhelming personal interest in:
+This evidence provides the missing piece explaining the entire obstruction pattern. The R18.75M (Ketoni debt to FFT) debt gives Bantjies overwhelming personal interest in:
 - Preventing fraud discovery
 - Dismissing audit requests
 - Supporting Peter's interdict application
@@ -487,7 +487,7 @@ A court doesn't order email seizure without serious concerns. This demonstrates 
 ### Application 1: Civil Action
 
 **Evidence Added**:
-- SF1: Bantjies debt (motive and conflict)
+- SF1 - Ketoni R18.75M Payout Documentation (motive and conflict)
 - SF2: Rynette system control (capability)
 - SF4: SARS audit (independent verification)
 - SF5: Adderory registration (structure)
@@ -506,7 +506,7 @@ A court doesn't order email seizure without serious concerns. This demonstrates 
 ### Application 2: Criminal Complaint
 
 **Evidence Added**:
-- SF1: Criminal motive (R18.685M debt)
+- SF1: Criminal motive (R18.75M (Ketoni debt to FFT) debt)
 - SF2: Criminal capability (system control)
 - SF7: Judicial recognition (court order)
 
@@ -643,14 +643,14 @@ A court doesn't order email seizure without serious concerns. This demonstrates 
 
 The comprehensive refinement process has successfully:
 
-1. **Identified Critical Evidence**: SF1 (Bantjies debt) and SF2 (Rynette system control) provide motive and capability
+1. **Identified Critical Evidence**: SF1 - Ketoni R18.75M Payout Documentation) and SF2 (Rynette system control) provide motive and capability
 2. **Strengthened Legal Filings**: All three applications now have stronger evidentiary foundation
 3. **Organized Evidence**: Clear, well-referenced evidence index created
 4. **Met Burden of Proof**: 7 items meet civil standard, 4 provide strong criminal indicators
 5. **Synchronized Repository**: All changes committed and pushed successfully
 
 The evidence now clearly establishes:
-- **Motive**: R18.685M debt gives Bantjies overwhelming reason to obstruct
+- **Motive**: R18.75M (Ketoni debt to FFT) debt gives Bantjies overwhelming reason to obstruct
 - **Capability**: Rynette's system control proves technical ability to commit fraud
 - **Verification**: SARS audit provides independent third-party corroboration
 - **Recognition**: Court-ordered email seizure shows judicial acknowledgment

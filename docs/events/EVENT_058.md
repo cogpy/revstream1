@@ -31,7 +31,7 @@
   "timeline_phase": "PHASE_004",
   "ad_res_j7_evidence": [
     "ANNEXURES/JF08",
-    "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - R18.685M conflict of interest",
+    "ANNEXURES/SF1_Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT)",
     "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md - Bantjies conduct"
   ],
   "evidence_enhanced": "2025-12-22T05:40:58.380394",
@@ -39,7 +39,7 @@
   "phase": "PHASE_3",
   "ad_res_j7_references": [
     "SF6_Kayla_Pretorius_Estate_Documentation.md",
-    "SF1_Bantjies_Debt_Documentation.md"
+    "SF1_Ketoni_Debt_FFT_Documentation.md"
   ]
 }
 ```

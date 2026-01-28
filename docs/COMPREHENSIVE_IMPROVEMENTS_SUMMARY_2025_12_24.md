@@ -35,7 +35,7 @@ Completed comprehensive refinement of all case documentation, data models, legal
 **Key Entities:**
 - **PERSON_001 (Peter Faucitt):** Primary perpetrator, 11 events, R10.2M+ direct involvement
 - **PERSON_002 (Rynette Farrar):** Co-conspirator, 8 events, R4.2M+ direct involvement
-- **PERSON_007 (Danie Bantjies):** Professional facilitator, R18.685M conflict of interest
+- **PERSON_007 (Danie Bantjies):** Professional facilitator, R18.75M (Ketoni debt to FFT) conflict of interest
 - **PERSON_008 (Kayla Pretorius):** Trigger event for estate exploitation (SF6)
 
 ### 1.2 Relations (v14.0_REFINED_2025_12_23)
@@ -89,7 +89,7 @@ Completed comprehensive refinement of all case documentation, data models, legal
 2. **EVENT_024:** R5.4M stock theft (SF3, SF5)
 3. **EVENT_008:** R850K+ revenue theft
 4. **EVENT_010 & EVENT_027:** Domain fraud & customer hijacking
-5. **EVENT_058:** Bantjies fraud concealment (R18.685M conflict)
+5. **EVENT_058:** Bantjies fraud concealment (R18.75M (Ketoni debt to FFT) conflict)
 6. **EVENT_065 & EVENT_066:** Evidence destruction (Sage access blocked)
 
 ### 1.4 Timeline (v15.0_REFINED_2025_12_24)

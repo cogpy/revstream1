@@ -119,7 +119,7 @@
         "SF1"
       ],
       "description": "Bantjies documented debt relationships for Strategic Logistics",
-      "amount": "R18,685,000"
+      "amount": "R18.75M (Ketoni debt to FFT)"
     },
     {
       "from": "PERSON_002",
@@ -158,7 +158,7 @@
       "evidence": [
         "SF1"
       ],
-      "description": "Bantjies documented complex debt relationships totaling R18,685,000",
+      "description": "Ketoni R18.75M debt to FFT (Bantjies conflict as George Group CFO),000",
       "entities": [
         "ORG_008",
         "ORG_003",
@@ -267,7 +267,7 @@
     "SF1": [
       "R18.68",
       "R18.68",
-      "R18,685,000",
+      "R18.75M (Ketoni debt to FFT)",
       "R18.68",
       "R18.68",
       "R18.68",

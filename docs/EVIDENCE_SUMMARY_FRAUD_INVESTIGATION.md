@@ -155,7 +155,7 @@
 **How Fraud Evidence Supports:**
 - Rynette, as trustee, has access to company financial systems
 - She used this access to fabricate accounts and destroy evidence
-- This is a breach of trust and conflict of interest (R18.685M debt motive)
+- This is a breach of trust and conflict of interest (R18.75M (Ketoni debt to FFT) debt motive)
 
 ---
 

@@ -70,7 +70,7 @@ graph TD
 
 ### **The Core Conspiracy: Bantjies → Rynette → Peter**
 
--   **Bantjies** is the mastermind, motivated by his R18.685M debt.
+-   **Bantjies** is the mastermind, motivated by his R18.75M (Ketoni debt to FFT) debt.
 -   He gives instructions to **Rynette**, his enforcer.
 -   **Rynette** executes these instructions, using her administrative access and impersonating **Peter** to create a false paper trail.
 -   **Peter**, who does not use a computer, is the unwitting pawn, acting as the face of the litigation.

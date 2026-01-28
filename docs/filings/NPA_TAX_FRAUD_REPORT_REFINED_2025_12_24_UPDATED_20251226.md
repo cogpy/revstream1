@@ -26,7 +26,7 @@
 ### Professional Suspect
 - **Name:** Danie Bantjies
 - **Role:** Accountant
-- **Conflict:** R18.685M debt to Peter Faucitt
+- **Conflict:** R18.75M (Ketoni debt to FFT) debt to Peter Faucitt
 - **Violations:** Professional misconduct; tax fraud facilitation
 
 ## 3. Nature of Tax Fraud
@@ -47,7 +47,7 @@ Significant inter-company cost reallocations:
 **Tax Implications:** Artificial profit shifting between entities to minimize tax liability.
 
 #### EVENT_H006: R1.948M Year-End Adjustments (2020-02-28)
-**Evidence:** ANNEXURES/JF03, SF1_Bantjies_Debt_Documentation.md
+**Evidence:** ANNEXURES/JF03, SF1_Ketoni_Debt_FFT_Documentation.md
 **Amount:** R1,948,334.09
 **Burden of Proof:** ✅ 85%+ (Strong case; criminal investigation warranted)
 
@@ -96,7 +96,7 @@ R850K+ unauthorized transfers including revenue from platform paid by UK company
 
 Bantjies coordinated with perpetrators during SARS audit, concealing:
 - R5.4M stock theft
-- R18.685M personal conflict of interest
+- R18.75M (Ketoni debt to FFT) personal conflict of interest
 - Inter-company manipulation
 
 **Tax Implications:** Obstruction of SARS audit; false representations to tax authorities.
@@ -114,7 +114,7 @@ Bantjies coordinated with perpetrators during SARS audit, concealing:
 ## 5. Aggravating Factors
 
 1. **Systematic Nature:** Pattern spanning 2020-2025
-2. **Professional Facilitation:** Bantjies as accountant with R18.685M conflict
+2. **Professional Facilitation:** Bantjies as accountant with R18.75M (Ketoni debt to FFT) conflict
 3. **SARS Obstruction:** Coordination during audit (SF4)
 4. **Premeditation:** Adderory registration 4 years before fraud escalation
 5. **Large Amounts:** R9.8M+ in fraudulent transactions

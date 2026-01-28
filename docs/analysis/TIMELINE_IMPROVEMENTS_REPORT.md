@@ -161,7 +161,7 @@ Two critical evidence destruction events (May 22, Aug 20) show consciousness of 
 
 ### Bantjies Conflict Timeline
 
-Danie Bantjies R18.685M debt creates motive throughout timeline
+Danie Bantjies R18.75M (Ketoni debt to FFT) debt creates motive throughout timeline
 
 **Recommendation:** Create separate timeline showing Bantjies involvement, debt accumulation, and audit dismissal as parallel narrative
 

@@ -24,7 +24,7 @@ The document specifies **three annual payment dates** with exact amounts:
 
 | Year | Payment Date | Amount (Highlighted) | Price per Share | Total Shares | Notes |
 |------|--------------|----------------------|-----------------|--------------|-------|
-| **Year 1** | **May 2026** | **R18,685,000** | R3,737 per share | ~5,000 shares | MAY 2026 - APR 2027 |
+| **Year 1** | **May 2026** | **R18.75M (Ketoni debt to FFT)** | R3,737 per share | ~5,000 shares | MAY 2026 - APR 2027 |
 | **Year 2** | **May 2027** | **R23,165,000** | R4,633 per share | ~5,000 shares | MAY 2027 - APR 2028 |
 | **Year 3** | **May 2029** | **R28,730,000** | R5,746 per share | ~5,000 shares | MAY 2029 - APR 2029 |
 
@@ -36,7 +36,7 @@ The document specifies **three annual payment dates** with exact amounts:
 
 ### 3.1. The First Payment: May 2026
 
-**Amount:** **R18,685,000**  
+**Amount:** **R18.75M (Ketoni debt to FFT)**  
 **Due:** **May 2026** (approximately 6 months from now)
 
 **This is the smoking gun.** The curatorship conspiracy timeline is designed to be completed **before May 2026** when the first payment comes due.
@@ -44,7 +44,7 @@ The document specifies **three annual payment dates** with exact amounts:
 ### 3.2. The Escalating Amounts
 
 The payments escalate significantly:
-- Year 1: R18.685M
+- Year 1: R18.75M (Ketoni debt to FFT)
 - Year 2: R23.165M (+24%)
 - Year 3: R28.730M (+24%)
 
@@ -76,7 +76,7 @@ The agreement is structured as a **call option**, meaning:
 
 If the Company exercises the call option:
 - Bantjies **must** sell the shares.
-- Bantjies **must** receive the purchase price (R18.685M in Year 1).
+- Bantjies **must** receive the purchase price (R18.75M (Ketoni debt to FFT) in Year 1).
 - If Bantjies cannot deliver the shares, he is in **breach of contract**.
 
 **However, if Bantjies controls the Company (through curatorship), he can:**
@@ -119,7 +119,7 @@ If the Company exercises the call option:
 ### 6.2. Confirmed Evidence
 
 **After this document:** We now have:
-- **Exact amount:** R18,685,000 (Year 1)
+- **Exact amount:** R18.75M (Ketoni debt to FFT) (Year 1)
 - **Exact date:** May 2026
 - **Total exposure:** R70,580,000 (if all three years)
 - **Legal structure:** Call option agreement (enforceable contract)
@@ -127,7 +127,7 @@ If the Company exercises the call option:
 ### 6.3. The Stakes
 
 If Bantjies fails to pay in May 2026:
-- He loses the shares (worth >> R18.685M).
+- He loses the shares (worth >> R18.75M (Ketoni debt to FFT)).
 - He faces breach of contract claims.
 - He loses future payments (R23.165M + R28.730M).
 
@@ -151,7 +151,7 @@ This document should be integrated into:
 ## 8. Conclusion
 
 This document is **irrefutable proof** of:
-- **The exact financial motive:** R18.685M due May 2026.
+- **The exact financial motive:** R18.75M (Ketoni debt to FFT) due May 2026.
 - **The urgency:** ~6 months remaining.
 - **The stakes:** R70.58M total exposure.
 - **The timeline:** Curatorship must be completed before May 2026.

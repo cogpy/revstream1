@@ -65,7 +65,7 @@ Significant inter-company cost reallocations demonstrating systematic financial 
 **Legal Significance:** Establishes pattern of inter-company manipulation for personal benefit.
 
 #### EVENT_H006: Year-End Adjustments (2020-02-28)
-**Evidence:** ANNEXURES/JF03, SF1_Bantjies_Debt_Documentation.md
+**Evidence:** ANNEXURES/JF03, SF1_Ketoni_Debt_FFT_Documentation.md
 **Amount:** R1,948,334.09
 **Burden of Proof:** 95%+ (Criminal threshold exceeded)
 
@@ -147,16 +147,16 @@ Gee instructed to send email: "don't use regima.zone only use regimaskin.co.za e
 ### 4.5 Fraud Concealment and Consciousness of Guilt
 
 #### EVENT_058/EVENT_026/EVENT_047: Bantjies Dismisses Audit Request (2025-06-10)
-**Evidence:** ANNEXURES/SF1_Bantjies_Debt_Documentation.md, SF3_Strategic_Logistics_Stock_Adjustment.md
+**Evidence:** ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md, SF3_Strategic_Logistics_Stock_Adjustment.md
 **Burden of Proof:** 95%+ (Criminal threshold exceeded)
 
 **CRITICAL EVENT:** Bantjies dismisses Daniel's audit request **4 days after Daniel exposed Villa Via fraud** (June 6, 2025).
 
 **Context:**
-- Bantjies owes R18,685,000 to Faucitt Family Trust (massive conflict of interest)
+- Ketoni owes R18.75M to FFT (Bantjies has conflict as George Group CFO) to Faucitt Family Trust (massive conflict of interest)
 - Audit would have discovered R5.4M stock adjustment fraud
 - Audit would have exposed systematic inter-company manipulation
-- Bantjies is unknown trustee of trust he owes R18.685M to
+- Bantjies is trustee of FFT with conflict of interest (CFO of George Group whose CEO owns Ketoni which owes R18.75M to FFT)
 
 **Legal Significance:** 
 - Consciousness of guilt
@@ -229,7 +229,7 @@ Kayla Pretorius death serves as trigger event for estate exploitation and fraud 
 4. **Professional Misconduct:** Bantjies as accountant and trustee
 5. **Evidence Destruction:** Systematic denial of access to records
 6. **Consciousness of Guilt:** Audit dismissal 4 days after fraud exposure
-7. **Conflict of Interest:** Bantjies R18.685M debt to trust while serving as trustee
+7. **Conflict of Interest:** Bantjies conflict as George Group CFO (whose CEO owns Ketoni which owes R18.75M to FFT) while serving as FFT trustee
 
 ## 8. Relief Sought
 
@@ -255,7 +255,7 @@ Kayla Pretorius death serves as trigger event for estate exploitation and fraud 
 - **2-CRIMINAL-CASE:** Criminal case materials
 
 ### Key Forensic Evidence
-- **SF1:** Bantjies R18.685M debt documentation
+- **SF1 - Ketoni R18.75M Payout Documentation documentation
 - **SF2:** Sage screenshots showing Rynette's control
 - **SF3:** R5.4M stock adjustment fraud
 - **SF4:** SARS audit email coordination

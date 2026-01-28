@@ -22,7 +22,7 @@
     "affidavit_analysis"
   ],
   "timeline_phase": "PHASE_006",
-  "additional_notes": "Bantjies certifies Peter's affidavit despite being unknown trustee with R18.685M debt to trust, demonstrating active participation in fraud concealment",
+  "additional_notes": "Bantjies certifies Peter's affidavit despite being unknown trustee with R18.75M (Ketoni debt to FFT) debt to trust, demonstrating active participation in fraud concealment",
   "perpetrators": [
     "PERSON_001",
     "PERSON_002"
@@ -34,13 +34,13 @@
   "evidence_enhanced": "2025-12-22T05:40:58.380408",
   "ad_res_j7_evidence": [
     "ANNEXURES/JF06",
-    "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
+    "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md"
   ],
   "phase": "PHASE_3",
   "ad_res_j7_references": [
     "ANNEXURES/JF08 - Evidence packages",
     "ANNEXURES/JF03 - Financial records and analysis",
-    "SF1_Bantjies_Debt_Documentation.md",
+    "SF1_Ketoni_Debt_FFT_Documentation.md",
     "ANNEXURES/JF10 - Trust documents",
     "ANNEXURES/JF06 - Court documents and filings"
   ],

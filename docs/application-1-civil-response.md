@@ -26,7 +26,7 @@ All JF annexures are located in the [ad-res-j7/ANNEXURES](https://github.com/cog
 
 ### Special Findings (SF Series)
 
-- **SF1:** Bantjies Debt Documentation
+- **SF1 - Ketoni R18.75M Payout Documentation Documentation
 - **SF2:** Rynette Sage Control
 - **SF3:** Strategic Logistics Stock Adjustment
 - **SF4:** SARS Audit Email

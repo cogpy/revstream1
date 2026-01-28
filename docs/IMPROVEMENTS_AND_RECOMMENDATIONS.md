@@ -17,7 +17,7 @@ The current data models omit the most critical facilitator of the fraud scheme. 
 
 **Evidence Pattern:**
 
-The timeline reveals a clear pattern where Bantjies occupied multiple positions of power and used each to facilitate fraud while blocking detection. As accountant, he controlled the financial reporting systems with Rynette. As unknown trustee, he participated in trust violations alongside Peter. As creditor with R18.685M debt, he had overwhelming motive to conceal fraud that would expose his own financial misconduct.
+The timeline reveals a clear pattern where Bantjies occupied multiple positions of power and used each to facilitate fraud while blocking detection. As accountant, he controlled the financial reporting systems with Rynette. As unknown trustee, he participated in trust violations alongside Peter. As creditor with R18.75M (Ketoni debt to FFT) debt, he had overwhelming motive to conceal fraud that would expose his own financial misconduct.
 
 **Critical Timeline Event Missing from Current Model:**
 
@@ -328,7 +328,7 @@ For each primary perpetrator, document:
 - Means: Payment redirection, bank account changes, email impersonation, coordinated conspiracy
 
 **Danie Bantjies:**
-- Motive: R18.685M debt concealment, protection of prior fraud
+- Motive: R18.75M (Ketoni debt to FFT) debt concealment, protection of prior fraud
 - Opportunity: Unknown trustee, accountant, professional authority
 - Means: Audit blocking, accounting manipulation, fraud concealment, coordinated conspiracy
 

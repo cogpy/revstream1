@@ -162,7 +162,7 @@ This comprehensive refinement session successfully analyzed, refined, and organi
   - JF13: Recent Legal Correspondence
 
 - **Supplementary Files**: SF1-SF8 fully documented
-  - SF1: Bantjies Debt (R18.685M)
+  - SF1 - Ketoni R18.75M Payout Documentation (R18.75M (Ketoni debt to FFT))
   - SF2: Sage Screenshots (Rynette Control)
   - SF3: Stock Adjustment (R5.4M)
   - SF4: SARS Audit Email
@@ -403,7 +403,7 @@ revstream1/
 - JF10: Accounting records
 
 **Supplementary Evidence**:
-- SF1: Bantjies Debt Documentation
+- SF1 - Ketoni R18.75M Payout Documentation Documentation
 - SF3: Stock Adjustment
 - SF5: Adderory Company Registration
 

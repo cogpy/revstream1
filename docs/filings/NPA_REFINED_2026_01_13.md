@@ -77,7 +77,7 @@ Danie Bantjies dismissed SARS audit request:
 
 **Evidence:**
 - Trust distribution records
-- SF1_Bantjies_Debt_Documentation.md
+- SF1_Ketoni_Debt_FFT_Documentation.md
 
 #### 2.2.3 Total Tax Evasion
 - Corporate tax: R2,875,523.81
@@ -107,7 +107,7 @@ Danie Bantjies dismissed SARS audit request:
 ### 3.1 Critical Evidence
 - **SF4_SARS_Audit_Email.md** - SARS audit dismissal (CRITICAL)
 - **RegimaSA Financial Statements** - False reporting
-- **SF1_Bantjies_Debt_Documentation.md** - Accountant conflict of interest
+- **SF1_Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT)
 
 ### 3.2 Supporting Evidence
 - **JF03:** Financial records and analysis
@@ -154,7 +154,7 @@ All evidence is available in the [ad-res-j7 repository](https://github.com/cogpy
 - **SF4_SARS_Audit_Email.md** - CRITICAL EVIDENCE
 - **ANNEXURES/JF03** - Financial analysis
 - **RegimaSA Financial Statements** - False reporting
-- **SF1_Bantjies_Debt_Documentation.md** - Accountant conflict
+- **SF1_Ketoni_Debt_FFT_Documentation.md** - Accountant conflict
 
 ## 8. Declaration
 

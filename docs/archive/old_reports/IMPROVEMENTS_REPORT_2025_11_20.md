@@ -64,7 +64,7 @@ The GitHub Pages should be restructured to follow the 8 phases of the timeline. 
 - **2025-06-20**: R3.1M+ losses enabled by email control. Pattern of impersonation supporting criminal conspiracy charges. Email control facilitated fraud related to platform paid by Dan's UK company since July 2023. Email from Gee in Aug explained to Jax that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email'.
 - **2025-06-30**: Complex financial flow manipulation. Evidence of sophisticated financial crime coordination. Fund diversions targeted revenue from infrastructure continuously funded by RegimA Zone Ltd
 - **2025-01-15**: Chantal delivered letter mentioning Kayla estate finalization, indicating ongoing exploitation of deceased victim's estate.
-- **2025-06-10**: Bantjies dismisses Daniel's audit request 4 days after fraud exposure (June 6), demonstrating consciousness of guilt and conflict of interest given R18.685M debt to trust
+- **2025-06-10**: Bantjies dismisses Daniel's audit request 4 days after fraud exposure (June 6), demonstrating consciousness of guilt and conflict of interest given R18.75M (Ketoni debt to FFT) debt to trust
 - **2025-06-20**: Gee instructed to send email: 'don't use regima.zone only use regimaskin.co.za email', active customer diversion to fraudulent domain owned by Adderory
 - **2025-06-10**: Bantjies dismisses Daniel's audit request 4 days after fraud exposure
 - **2025-06-06**: Daniel sends comprehensive documentation to Bantjies including listing of all companies, Shopify store operations, and preliminary reports, demonstrating full transparency
@@ -96,7 +96,7 @@ The GitHub Pages should be restructured to follow the 8 phases of the timeline. 
 - **2025-08-10**: Complete compromise of trust integrity. Systematic evidence of ongoing trust law violations
 - **2025-08-20**: Cover-up operations demonstrating guilt. Consciousness of guilt through evidence destruction attempts. Cover-up attempt to conceal fact that RWD ZA has no independent revenue stream - all revenue from Dan's UK-funded Shopify platform
 - **2025-09-11**: Accounts emptied, potentially because Daniel was still managing to pay creditors despite 6 months of sabotage
-- **2025-06-10**: Bantjies dismisses Daniel's audit request 4 days after fraud exposure (June 6), demonstrating consciousness of guilt and conflict of interest given R18.685M debt to trust
+- **2025-06-10**: Bantjies dismisses Daniel's audit request 4 days after fraud exposure (June 6), demonstrating consciousness of guilt and conflict of interest given R18.75M (Ketoni debt to FFT) debt to trust
 - **2025-08-13**: Bantjies certifies Peter's affidavit as Commissioner of Oaths despite material omissions
 - **2025-08-11**: Settlement agreement signed 2 days before interdict filing, demonstrating strategic coordination and timing to create leverage
 - **2025-08-13**: Peter files founding affidavit containing material non-disclosures and perjury regarding email control, filed 2 days after settlement agreement

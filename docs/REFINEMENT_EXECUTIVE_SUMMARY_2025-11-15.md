@@ -69,7 +69,7 @@ Comprehensive analysis and refinement of entities, relations, events, and timeli
    - Legal Status: Disputed
 
 3. **REL_TRUSTEE_001**: Bantjies as unknown trustee
-   - Conflict: R18.685M debt to trust
+   - Conflict: R18.75M (Ketoni debt to FFT) debt to trust
    - Triple conflict: Trustee + Debtor + Accountant + Commissioner of Oaths
 
 4. **REL_BENEF_001**: Daniel as legitimate beneficiary
@@ -141,11 +141,11 @@ Comprehensive analysis and refinement of entities, relations, events, and timeli
 
 **Triple Conflict:**
 - **Role 1:** Unknown trustee of Faucitt Family Trust
-- **Role 2:** Debtor to trust (R18.685M)
+- **Role 2:** Debtor to trust (R18.75M (Ketoni debt to FFT))
 - **Role 3:** Accountant for RegimA Group
 - **Role 4:** Commissioner of Oaths
 
-**Motive:** Prevent discovery of R18.685M debt
+**Motive:** Prevent discovery of R18.75M (Ketoni debt to FFT) debt
 
 **Actions:**
 - Dismissed audit request 2025-06-10 (4 days after fraud exposure)

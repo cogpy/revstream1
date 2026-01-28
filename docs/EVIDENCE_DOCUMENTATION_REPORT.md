@@ -120,7 +120,7 @@ The following 14 relations were also updated with evidence. While they do not ca
 | **REL_TEMP_005** | Temporal | EVENT_011 | EVENT_012 | `["timeline_analysis"]` - Connects fraud discovery to the immediate sabotage of payment capabilities. |
 | **REL_TEMP_006** | Temporal | EVENT_025 | EVENT_026 | `["timeline_analysis"]` - Links Bantjies' knowledge of criminal matters to his dismissal of a forensic audit. |
 | **REL_DEBT_001** | Debt | ORG_002 | ORG_008 | `["documented_evidence"]` - Establishes the R1.035M debt to ReZonance, a key motive. |
-| **REL_DEBT_002** | Debt | PERSON_007 | TRUST_001 | `["documented_evidence"]` - Proves Bantjies' R18.685M debt to the trust, a massive conflict of interest. |
+| **REL_DEBT_002** | Debt | PERSON_007 | TRUST_001 | `["documented_evidence"]` - Proves Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT). |
 
 ---
 

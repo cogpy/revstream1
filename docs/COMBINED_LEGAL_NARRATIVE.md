@@ -19,7 +19,7 @@ This document integrates the Trust Capture Map and the Curatorship Setup Pattern
 ### **Stage 1: Trust Control (July 7, 2024)**
 
 -   **The Act:** Rynette Farrar Bantjies, a bookkeeper, orchestrates the appointment of her associate, Bantjies, as a Trustee of the Faucitt Family Trust.
--   **The Motive:** Bantjies owes the Trust beneficiaries **R18,685,000**, due in May 2026. By controlling the Trust, he can control its assets and eliminate his debt.
+-   **The Motive:** Ketoni owes R18.75M to FFT (Bantjies has conflict as George Group CFO)**, due in May 2026. By controlling the Trust, he can control its assets and eliminate his debt.
 
 ### **Stage 2: Financial Sabotage & Data Destruction (April-May 2025)**
 
@@ -49,7 +49,7 @@ This document integrates the Trust Capture Map and the Curatorship Setup Pattern
 ### **Stage 7: The Endgame - Curatorship (Predicted Jan-Mar 2026)**
 
 -   **The Act:** A High Court application will be filed to appoint a curator over Daniel and/or Jacqueline's estate, using the manufactured evidence of mismanagement, instability, and incapacity.
--   **The Purpose:** To seize control of the Trust assets, eliminate the R18.685M debt, and complete the hostile takeover before the May 2026 deadline.
+-   **The Purpose:** To seize control of the Trust assets, eliminate the R18.75M (Ketoni debt to FFT) debt, and complete the hostile takeover before the May 2026 deadline.
 
 ---
 
@@ -64,7 +64,7 @@ This narrative establishes multiple grounds for the rescission of the ex parte i
 
 ### **Ground 2: Material Non-Disclosure**
 
--   **Bantjies' Conflict of Interest:** The applicants failed to disclose that their key supporting witness (Bantjies) was a Trustee who owed the beneficiaries R18.685M.
+-   **Bantjies' Conflict of Interest:** The applicants failed to disclose that their key supporting witness (Bantjies) was a Trustee who owed the beneficiaries R18.75M (Ketoni debt to FFT).
 -   **The Curatorship Plan:** The applicants failed to disclose that the interdict was merely one step in a larger plan to seize control of the Trust through curatorship.
 -   **The Financial Sabotage:** The applicants failed to disclose that the "crisis" they were seeking to prevent was one they had manufactured themselves through bank account diversion and card cancellation.
 

@@ -55,7 +55,7 @@ This complaint details systematic violations of the Companies Act 71 of 2008 by 
 | Date | Event | Amount | Evidence |
 |------|-------|--------|----------|
 | 2020-02-20 | Inter-company cost reallocations | R1,642,000 | JF08, JF09 |
-| 2020-02-28 | Bantjies debt documented | R18,685,000 | SF1 |
+| 2020-02-28 | Ketoni R18.75M debt to FFT (Bantjies conflict as George Group CFO),000 | SF1 |
 | 2020-04-30 | Villa Via capital extraction | R22.8M members loan | VV Trial Balance |
 | 2021-04-01 | Adderory registered (competing business) | - | SF5 |
 
@@ -82,8 +82,8 @@ This complaint details systematic violations of the Companies Act 71 of 2008 by 
 
 1. **Trust Structure Manipulation**
    - Date: 2020-02-28
-   - Description: Documentation of Bantjies's R18,685,000 debt to Faucitt Family Trust, creating massive conflict of interest
-   - Evidence: SF1_Bantjies_Debt_Documentation.md, JF10
+   - Description: Documentation of Ketoni's R18.75M debt to FFT to Faucitt Family Trust, creating massive conflict of interest
+   - Evidence: SF1_Ketoni_Debt_FFT_Documentation.md, JF10
    - Burden of Proof: 95%+ (Criminal threshold)
 
 2. **Revenue Diversion**
@@ -120,8 +120,8 @@ This complaint details systematic violations of the Companies Act 71 of 2008 by 
 
 1. **Bantjies Conflict**
    - Date: 2020-02-28
-   - Description: Accountant owes R18.685M to Trust while preparing financial statements
-   - Evidence: SF1_Bantjies_Debt_Documentation.md
+   - Description: Accountant owes R18.75M (Ketoni debt to FFT) to Trust while preparing financial statements
+   - Evidence: SF1_Ketoni_Debt_FFT_Documentation.md
    - Burden of Proof: 95%+ (Criminal threshold)
 
 2. **Audit Dismissal**
@@ -139,7 +139,7 @@ This complaint details systematic violations of the Companies Act 71 of 2008 by 
 | Peter Faucitt | Gross negligence | R10,269,727.90 | JF01-JF09 |
 | Peter Faucitt | Willful misconduct | R5,400,000 | SF3, SF5 |
 | Rynette Farrar | Fraud participation | R4,276,832.85 | SF2, JF07 |
-| Danie Bantjies | Professional misconduct | R18,685,000 | SF1 |
+| Danie Bantjies | Professional misconduct | R18.75M (Ketoni debt to FFT) | SF1 |
 
 ### 4.3 Section 162: Declaration of Delinquency
 
@@ -160,7 +160,7 @@ This complaint details systematic violations of the Companies Act 71 of 2008 by 
 
 | # | Date | Event | Category | Evidence |
 |---|------|-------|----------|----------|
-| 1 | 2020-02-28 | Bantjies debt documentation | Conflict of interest | SF1 |
+| 1 | 2020-02-28 | Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT) | SF1 |
 | 2 | 2021-04-01 | Adderory registration | Competing business | SF5 |
 | 3 | 2025-02-25 | R5.2M stock fraud | Asset stripping | SF3, JF03 |
 | 4 | 2025-03-01 | R5.4M stock disappearance | Asset stripping | Warehouse records |
@@ -213,7 +213,7 @@ All evidence is cataloged in [cogpy/ad-res-j7](https://github.com/cogpy/ad-res-j
 
 | File | Description | Relevance |
 |------|-------------|-----------|
-| SF1 | Bantjies Debt Documentation | Conflict of interest |
+| SF1 | Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT) |
 | SF2 | Sage Screenshots Rynette Control | Email access fraud |
 | SF3 | Strategic Logistics Stock Adjustment | Stock fraud |
 | SF4 | SARS Audit Email | Tax manipulation |

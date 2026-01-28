@@ -16,9 +16,9 @@ This document records new relationships identified through comprehensive cross-r
 **Type:** DEBT_DOCUMENTATION  
 **Evidence:** SF1
 
-**Description:** Bantjies documented debt relationships for Strategic Logistics totaling R18,685,000. This documentation reveals the complex inter-company debt structure that was used to extract capital and manipulate financial statements.
+**Description:** Ketoni R18.75M debt to FFT (Bantjies conflict as George Group CFO),000. This documentation reveals the complex inter-company debt structure that was used to extract capital and manipulate financial statements.
 
-**Amount:** R18,685,000
+**Amount:** R18.75M (Ketoni debt to FFT)
 
 **Significance:** This relationship demonstrates Bantjies' role as the accounting firm that created and documented the fraudulent debt structures. The large amount involved indicates systematic capital extraction.
 

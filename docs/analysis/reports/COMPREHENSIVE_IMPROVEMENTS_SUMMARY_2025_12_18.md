@@ -66,7 +66,7 @@ The comprehensive cross-reference analysis examined eight key evidence files fro
 - TRUST_001 (Faucitt Family Trust): 5 mentions in SF1, SF3
 
 **Financial Amounts Identified:**
-- SF1: 14 amounts found (including R18,685,000)
+- SF1: 14 amounts found (including R18.75M (Ketoni debt to FFT))
 - SF2: 6 amounts found
 - SF3: 28 amounts found
 - SF4: 20 amounts found
@@ -102,7 +102,7 @@ The comprehensive cross-reference analysis examined eight key evidence files fro
 ### 2. New Relations Documented (4)
 
 #### Relation 1: Bantjies → Strategic Logistics (DEBT_DOCUMENTATION)
-- **Amount:** R18,685,000
+- **Amount:** R18.75M (Ketoni debt to FFT)
 - **Evidence:** SF1
 - **Civil Burden of Proof:** HIGH
 - **Criminal Burden of Proof:** MEDIUM
@@ -134,7 +134,7 @@ The comprehensive cross-reference analysis examined eight key evidence files fro
 
 #### EVENT_078: Bantjies documents R18.68M debt structure (2020-02-28)
 - **Category:** accounting_fraud
-- **Financial Impact:** R18,685,000.00
+- **Financial Impact:** R18.75M (Ketoni debt to FFT).00
 - **Evidence:** SF1
 - **Burden of Proof:** Civil HIGH, Criminal MEDIUM
 
@@ -259,7 +259,7 @@ The comprehensive cross-reference analysis examined eight key evidence files fro
 
 ### Application 1 (Civil Action)
 **New Evidence Added:**
-- SF1: Bantjies Debt Documentation (R18.68M fraudulent debt structure)
+- SF1 - Ketoni R18.75M Payout Documentation structure)
 - SF2: Rynette Sage Control (system manipulation capability)
 - SF4: SARS Audit (regulatory scrutiny)
 - SF5: Adderory Registration (entity creation for manipulation)

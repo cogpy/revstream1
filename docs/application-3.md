@@ -332,7 +332,7 @@ This application represents the **final preparatory step** before curatorship ap
 #### Phase 4: Curatorship Application (Anticipated)
 - Use manufactured evidence from Phases 1-3
 - Claim: Jacqueline "incapacitated" and "dangerous"
-- Goal: Eliminate R18,685,000 debt to Bantjies via trust seizure
+- Goal: Eliminate R18.75M (Ketoni debt to FFT) debt to Bantjies via trust seizure
 
 **Analysis:** [Curatorship Conspiracy Analysis Report](CURATORSHIP_CONSPIRACY_ANALYSIS_REPORT.md)
 
@@ -487,7 +487,7 @@ For comprehensive supporting documentation, see the [ad-res-j7 repository](https
 
 The following new evidence has been identified and cross-referenced, strengthening the application:
 
-- **SF1: Bantjies Debt Documentation:** Documents the fraudulent R18.68M debt structure.
+- **SF1 - Ketoni R18.75M Payout Documentation structure.
 - **SF2: Rynette Sage Control:** Shows Rynette Farrar's administrative control over the accounting system.
 - **SF4: SARS Audit Email:** Indicates official regulatory scrutiny of the companies' tax affairs.
 - **SF5: Adderory Registration:** Shows the creation of a new entity for potential revenue manipulation.
@@ -506,7 +506,7 @@ These new evidence points significantly strengthen the case for financial fraud,
 
 1. **Undisclosed Trustee:** Bantjies had trustee-level access without disclosure
 2. **Accountant Access:** Bantjies controlled financial systems as "accountant"
-3. **Conflict of Interest:** R18,685,000 debt creating motive for data manipulation
+3. **Conflict of Interest:** R18.75M (Ketoni debt to FFT) debt creating motive for data manipulation
 4. **SARS Audit:** Independent verification of irregularities (SF4)
 
 **Data Protection Implications:**
@@ -517,12 +517,12 @@ These new evidence points significantly strengthen the case for financial fraud,
 - Obstruction of legitimate data access requests
 
 **Supporting Evidence:**
-- SF1: Bantjies Debt Documentation
+- SF1 - Ketoni R18.75M Payout Documentation Documentation
 - SF2: Sage Screenshots (Rynette Control)
 - SF4: SARS Audit Email
 
 **Cross-References:**
-- [SF1 Full Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)
+- [SF1 Full Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md)
 - [SF4 SARS Audit](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF4_SARS_Audit_Email.md)
 - [Relations Update 2025-12-19](RELATIONS_UPDATE_2025_12_19.html)
 

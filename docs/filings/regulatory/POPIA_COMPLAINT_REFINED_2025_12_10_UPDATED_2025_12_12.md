@@ -365,11 +365,11 @@ Our investigation has identified multiple events directly related to POPIA viola
 
 ### POPIA Violation: Unauthorized Access by Conflicted Party
 
-**Violation:** System access and control by party with undisclosed R18.685M conflict of interest
+**Violation:** System access and control by party with undisclosed R18.75M (Ketoni debt to FFT) conflict of interest
 
 **Evidence:**
 - Bantjies controlled financial systems as "accountant"
-- Bantjies was undisclosed trustee with R18.685M debt
+- Bantjies was undisclosed trustee with R18.75M (Ketoni debt to FFT) debt
 - System access enabled potential data manipulation
 - Obstruction of legitimate data access requests
 

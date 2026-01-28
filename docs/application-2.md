@@ -329,7 +329,7 @@ This application fits the **textbook curatorship setup pattern:**
 
 ### Phase 4: Curatorship Application (Anticipated)
 - Final step: Use manufactured evidence of "incapacity" and "delinquency" to apply for curatorship
-- Motive: Eliminate R18,685,000 debt to Bantjies
+- Motive: Eliminate R18.75M (Ketoni debt to FFT) debt to Bantjies
 - See: [Curatorship Conspiracy Analysis Report](CURATORSHIP_CONSPIRACY_ANALYSIS_REPORT.md)
 
 ---
@@ -405,7 +405,7 @@ For comprehensive supporting documentation, see the [ad-res-j7 repository](https
 
 The following new evidence has been identified and cross-referenced, strengthening the application:
 
-- **SF1: Bantjies Debt Documentation:** Documents the fraudulent R18.68M debt structure.
+- **SF1 - Ketoni R18.75M Payout Documentation structure.
 - **SF2: Rynette Sage Control:** Shows Rynette Farrar's administrative control over the accounting system.
 - **SF4: SARS Audit Email:** Indicates official regulatory scrutiny of the companies' tax affairs.
 - **SF5: Adderory Registration:** Shows the creation of a new entity for potential revenue manipulation.
@@ -416,7 +416,7 @@ These new evidence points significantly strengthen the case for financial fraud,
 
 ## New Evidence - Bantjies Undisclosed Trustee Status (2025-12-19)
 
-### SF1: Bantjies Debt Documentation
+### SF1 - Ketoni R18.75M Payout Documentation Documentation
 
 **Regulatory Violation:** Undisclosed trustee status in court proceedings
 
@@ -425,7 +425,7 @@ These new evidence points significantly strengthen the case for financial fraud,
 1. **Trustee Appointment:** Bantjies appointed as trustee in July 2024
 2. **Non-Disclosure:** Status not disclosed in Peter's founding affidavit
 3. **Commissioner Misconduct:** Bantjies certified affidavit omitting own status
-4. **Debt Concealment:** R18,685,000 debt to trust not disclosed
+4. **Debt Concealment:** R18.75M Ketoni payout owed to FFT not disclosed
 
 **CIPC Implications:**
 
@@ -438,10 +438,10 @@ These new evidence points significantly strengthen the case for financial fraud,
 - Trust deed amendments
 - Master's Office records
 - Court affidavit with Bantjies's certification
-- Financial records showing R18.685M debt
+- Financial records showing R18.75M (Ketoni debt to FFT) debt
 
 **Cross-References:**
-- [SF1 Full Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)
+- [SF1 Full Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md)
 - [Relations Update 2025-12-19](RELATIONS_UPDATE_2025_12_19.html)
 
 
@@ -456,7 +456,7 @@ These new evidence points significantly strengthen the case for financial fraud,
 #### SF1: Bantjies Conflict of Interest
 - **Relevance**: Criminal motive for obstruction and fraud
 - **Burden of Proof**: Criminal (MEDIUM)
-- **Impact**: R18.685M debt establishes clear criminal motive
+- **Impact**: R18.75M (Ketoni debt to FFT) debt establishes clear criminal motive
 
 #### SF2: Rynette System Control
 - **Relevance**: Criminal capability for fraud

@@ -20,7 +20,7 @@ This document summarizes the comprehensive analysis, refinement, and enhancement
    - Role: Accountant and Unknown Trustee
    - Agent Type: Antagonist (Fraud Architect)
    - Significance: Central facilitator who enabled, concealed, and protected systematic fraud
-   - Financial Impact: R18.685M debt (motive), R5.4M stock fraud concealment
+   - Financial Impact: R18.75M (Ketoni debt to FFT) debt (motive), R5.4M stock fraud concealment
    - Critical Actions: Dismissed audit request June 10, 2025 (4 days after fraud exposure), controlled accounting system with Rynette
 
 2. **PERSON_008: Kayla**
@@ -120,7 +120,7 @@ This document summarizes the comprehensive analysis, refinement, and enhancement
 
 ### Finding 1: Bantjies as Fraud Architect
 
-The analysis revealed that **Danie Bantjies** is not a peripheral actor but the central architect who enabled, concealed, and protected the systematic fraud. As accountant, he controlled financial reporting with Rynette. As unknown trustee, he participated in trust violations with Peter. As creditor with R18.685M debt, he had overwhelming motive to conceal fraud.
+The analysis revealed that **Danie Bantjies** is not a peripheral actor but the central architect who enabled, concealed, and protected the systematic fraud. As accountant, he controlled financial reporting with Rynette. As unknown trustee, he participated in trust violations with Peter. As creditor with R18.75M (Ketoni debt to FFT) debt, he had overwhelming motive to conceal fraud.
 
 **Critical Timeline Event:** June 10, 2025 - Bantjies dismissed Daniel's audit request exactly 4 days after Daniel exposed the Villa Via fraud. The audit would have discovered the R5.4M stock adjustment fraud and systematic inter-company manipulation. This demonstrates consciousness of guilt and protection of the fraud scheme.
 

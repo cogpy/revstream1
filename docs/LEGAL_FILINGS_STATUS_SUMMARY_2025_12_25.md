@@ -188,7 +188,7 @@ This document provides a comprehensive summary of all legal filings, their curre
 #### Danie Bantjies (PERSON_007)
 - **Evidence Count:** 4 primary sources
 - **Evidence Strength:** Strong
-- **Conflict of Interest:** R18,685,000 debt to trust
+- **Conflict of Interest:** R18.75M Ketoni payout owed to FFT
 
 ### Victims
 

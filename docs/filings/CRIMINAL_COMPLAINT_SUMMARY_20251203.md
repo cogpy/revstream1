@@ -85,7 +85,7 @@ This document summarizes key events with evidence meeting the 'Beyond a Reasonab
 
 ### 2024-01-01 - Debt Accumulation Pattern Begins
 - **Strength Score:** 75%
-- **Financial Impact:** R18,685,000.00
+- **Financial Impact:** R18.75M (Ketoni debt to FFT).00
 - **Evidence Summary:** 1 primary evidence files have been cataloged for this event.
 - **Significance:** This event is a critical component in demonstrating a pattern of coordinated criminal activity.
 - **[View Full Event Details](events/EVENT_073.md)**
@@ -204,7 +204,7 @@ This document summarizes key events with evidence meeting the 'Beyond a Reasonab
 
 ### 2025-06-10 - Bantjies Dismisses Audit Request
 - **Strength Score:** 100%
-- **Financial Impact:** R18,685,000
+- **Financial Impact:** R18.75M (Ketoni debt to FFT)
 - **Evidence Summary:** 664 primary evidence files have been cataloged for this event.
 - **Significance:** This event is a critical component in demonstrating a pattern of coordinated criminal activity.
 - **[View Full Event Details](events/EVENT_026.md)**

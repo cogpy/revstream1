@@ -92,7 +92,7 @@ Fixed 17 events with missing or empty perpetrator fields:
 - REL_EMAIL_002: Court order seizure of Kayla's email (interference with law enforcement)
 
 **Trustee Relations (1 new):**
-- REL_TRUSTEE_001: Bantjies as unknown trustee with R18.685M debt conflict of interest
+- REL_TRUSTEE_001: Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT)
 
 **Beneficiary Relations (2 new):**
 - REL_BENEF_001: Daniel as legitimate beneficiary of Family Trust

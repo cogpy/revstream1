@@ -70,7 +70,7 @@
 ### 4. Legal Filings Refined ✅
 
 **Answering Affidavit V8 (Evidence Enhanced):**
-- ✅ Added direct links to Bantjies debt evidence (R18.685M)
+- ✅ Added direct links to Ketoni R18.75M debt to FFT (Bantjies conflict as George Group CFO)M)
 - ✅ Added direct links to fabricated accounts and CIPC records
 - ✅ Added direct links to R500k "birthday gift" refutation evidence
 - ✅ Strengthened all claims with hyperlinked documentary proof

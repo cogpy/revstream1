@@ -15,7 +15,7 @@ The conspiracy network graph visualizes the complex web of relationships, contro
 **Tier 1: Control Center (Apex)**
 - **Danie Bantjies** - Fraud Architect
   - Accountant & Unknown Trustee
-  - R18.685M debt (motive)
+  - R18.75M (Ketoni debt to FFT) debt (motive)
   - Central position coordinating all fraud activities
 
 **Tier 2: Primary Conspirators**

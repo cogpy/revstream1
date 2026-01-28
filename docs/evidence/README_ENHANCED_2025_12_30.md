@@ -270,8 +270,8 @@ DOCUMENTED LOSS: R 3,141,647.70 (3 months)
 
 ## 📋 Supplementary Filings (SF1-SF8)
 
-### **SF1: Bantjies Debt Documentation**
-**File:** [SF1_Bantjies_Debt_Documentation.md](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)  
+### **SF1 - Ketoni R18.75M Payout Documentation Documentation**
+**File:** [SF1_Ketoni_Debt_FFT_Documentation.md](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md)  
 **Size:** 7,005 bytes | **Priority:** **HIGH**
 
 **Proves:**

@@ -200,7 +200,7 @@ Created three new application-specific pages:
 
 | ID | Description | Location | Status |
 | :--- | :--- | :--- | :--- |
-| SF1 | Bantjies Debt Documentation | ANNEXURES/SF1_Bantjies_Debt_Documentation.md | ✓ Found |
+| SF1 - Ketoni R18.75M Payout Documentation_FFT_Documentation.md | ✓ Found |
 | SF2 | Rynette Sage Control | ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md | ✓ Found |
 | SF3 | Strategic Logistics Stock Adjustment | ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md | ✓ Found |
 | SF4 | SARS Audit Email | ANNEXURES/SF4_SARS_Audit_Email.md | ✓ Found |
@@ -235,7 +235,7 @@ All three legal filings have been refined based on the latest evidence analysis 
 **Key Evidence Referenced:**
 - JF07 (186 items of payment redirection)
 - JF08 (Comprehensive fraud timeline)
-- SF1 (Bantjies R18.685M conflict of interest)
+- SF1 (Bantjies R18.75M (Ketoni debt to FFT) conflict of interest)
 - SF3 (R5.4M stock fraud)
 - SF4 (SARS audit coordination)
 
@@ -276,7 +276,7 @@ All three legal filings have been refined based on the latest evidence analysis 
 **Key Evidence Referenced:**
 - SF3 (R5.4M stock fraud to reduce tax liability)
 - SF4 (SARS audit coordination emails)
-- SF1 (Bantjies debt as motive)
+- SF1 - Ketoni R18.75M Payout Documentation as motive)
 - Manipulated trial balances
 
 ---

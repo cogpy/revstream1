@@ -27,7 +27,7 @@ This analysis reviews the current data models in the revstream1 repository (enti
    - **Significance:** Critical actor who:
      - Controlled accounting system with Rynette
      - Dismissed audit request on June 10, 2025 (4 days after Daniel exposed fraud)
-     - Had R18.685M debt providing motive to conceal fraud
+     - Had R18.75M (Ketoni debt to FFT) debt providing motive to conceal fraud
      - Allegedly instructed Rynette to make payments per SARS audit email
      - Failed to investigate R5.4M stock adjustment (46% of sales)
    - **Evidence:** SF1, SF3, SF4 annexures in ad-res-j7
@@ -273,7 +273,7 @@ This analysis reviews the current data models in the revstream1 repository (enti
        "creditor_with_motive"
      ],
      "financial_impact": {
-       "debt_motive": "R18,685,000",
+       "debt_motive": "Ketoni R18.75M payout to FFT",
        "stock_fraud_concealment": "R5,400,000",
        "primary_categories": [
          "fraud_concealment",
@@ -419,7 +419,7 @@ This analysis reviews the current data models in the revstream1 repository (enti
 ## Cross-Reference Validation
 
 All refinements cross-referenced against:
-- ad-res-j7/ANNEXURES/SF1_Bantjies_Debt_Documentation.md
+- ad-res-j7/ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md
 - ad-res-j7/ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md
 - ad-res-j7/ANNEXURES/SF4_SARS_Audit_Email.md
 - ad-res-j7/ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md

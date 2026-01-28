@@ -78,7 +78,7 @@ All evidence is cross-referenced with the [ad-res-j7 repository](https://github.
 
 - **[Peter Andrew Faucitt](entity-profiles/PERSON_001.md)** - Primary perpetrator, trustee misconduct
 - **[Rynette Farrar](entity-profiles/PERSON_002.md)** - Co-conspirator, financial controller
-- **[Danie Bantjies](entity-profiles/PERSON_007.md)** - Accountant, conflict of interest (R18.685M debt)
+- **[Danie Bantjies](entity-profiles/PERSON_007.md)** - Accountant, conflict of interest (R18.75M (Ketoni debt to FFT) debt)
 
 ### Victims
 

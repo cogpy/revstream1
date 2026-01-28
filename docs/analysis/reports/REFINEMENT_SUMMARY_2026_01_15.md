@@ -41,7 +41,7 @@ This comprehensive refinement focused on enhancing the GitHub Pages organization
   - evidence: 218 MD, 181 PDF, 34 JSON
 
 **Supporting Files Coverage:**
-- ✅ SF1_Bantjies_Debt_Documentation.md - Referenced
+- ✅ SF1_Ketoni_Debt_FFT_Documentation.md - Referenced
 - ✅ SF2_Sage_Screenshots_Rynette_Control.md - Referenced
 - ✅ SF3_Strategic_Logistics_Stock_Adjustment.md - Referenced
 - ✅ SF4_SARS_Audit_Email.md - Referenced
@@ -90,7 +90,7 @@ This comprehensive refinement focused on enhancing the GitHub Pages organization
 
 **Key Evidence Highlighted:**
 - JF04, JF14, JF15 - CIPC records
-- SF1 - Bantjies Debt Documentation
+- SF1 - Ketoni R18.75M Payout to FFT Documentation
 - SF2 - Sage Screenshots Rynette Control
 - SF6 - Kayla Pretorius Estate Documentation
 - SF7 - Court Order Kayla Email Seizure
@@ -109,7 +109,7 @@ This comprehensive refinement focused on enhancing the GitHub Pages organization
 
 **Key Evidence Highlighted:**
 - JF03 - Financial records
-- SF1 - Bantjies Debt Documentation
+- SF1 - Ketoni R18.75M Payout to FFT Documentation
 - SF3 - Strategic Logistics Stock Adjustment
 - SF4 - SARS Audit Email
 - JF08 - Comprehensive fraud evidence

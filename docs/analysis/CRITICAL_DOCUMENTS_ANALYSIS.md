@@ -335,7 +335,7 @@ The five critical documents provide **devastating evidence** that completely val
 | Element | Dan's AD Notes | Our V6 Affidavit | Assessment |
 |---------|----------------|------------------|------------|
 | **Structure** | 12 sections, 100 AD paragraphs | 8 parts, 38 paragraphs | Dan's more comprehensive |
-| **Bantjies Conflict** | Trustee + Debtor + Accountant | Trustee + Debtor (R18.685M) | **Ours adds debt amount** |
+| **Ketoni R18.75M debt to FFT (Bantjies conflict as George Group CFO)M) | **Ours adds debt amount** |
 | **Timeline Manipulation** | June 6-7 (1 day) | Multiple sequences (1, 2, 5, 7 days) | **Ours more comprehensive** |
 | **R500k Fabrication** | Bank statements refute | R1.06M expenditures, card sabotage | **Ours more detailed** |
 | **Curatorship Conspiracy** | Not mentioned | **7-stage plan, May 2026 deadline** | **Ours adds critical insight** |
@@ -495,6 +495,6 @@ The case is no longer about defending against interdicts. It's about **exposing 
 - **Exact dates** of financial sabotage (April 14, May 22-23)
 - **Exact amounts** of unauthorized transfers (R900,000)
 - **Exact timeline** of retaliation (1 day, 14 days, 7-14 days)
-- **Exact debt** driving the conspiracy (R18.685M due May 2026)
+- **Exact debt** driving the conspiracy (R18.75M (Ketoni debt to FFT) due May 2026)
 
 **This is the smoking gun evidence that destroys Peter, Rynette, and Bantjies' entire case.**

@@ -20,9 +20,9 @@ No specific evidence linked.
   "event_id": "EVENT_073",
   "event_date": "2026-05",
   "event_title": "Bantjies First Payment Due",
-  "event_description": "First payment of R18.685M due to Bantjies under call option agreement. This establishes financial motive for curatorship conspiracy and revenue hijacking.",
+  "event_description": "First payment of R18.75M (Ketoni debt to FFT) due to Bantjies under call option agreement. This establishes financial motive for curatorship conspiracy and revenue hijacking.",
   "event_category": "Debt Obligation",
-  "financial_impact": "R18,685,000.00",
+  "financial_impact": "R18.75M (Ketoni debt to FFT).00",
   "entities_involved": [
     "PERSON_001",
     "PERSON_003"

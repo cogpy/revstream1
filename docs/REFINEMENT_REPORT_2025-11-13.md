@@ -87,7 +87,7 @@ This report documents the comprehensive analysis and refinement of the entities,
   - Unusual trustee powers
   - Absence of beneficiary powers
   - Used for attacking beneficiaries
-- **Financial Impact**: R18,685,000 debt owed by trustee (Bantjies)
+- **Financial Impact**: R18.75M (Ketoni debt to FFT) debt owed by trustee (Bantjies)
 - **Legal Significance**: Trust structure manipulation and beneficiary attack
 
 **BANK_001: ABSA Account**
@@ -114,7 +114,7 @@ This report documents the comprehensive analysis and refinement of the entities,
 - **Category**: Trust violations
 - **Description**: Bantjies certifies Peter's affidavit despite material omissions
 - **Legal Significance**: Professional misconduct and conflict of interest
-- **Context**: Bantjies is unknown trustee with R18.685M debt to trust
+- **Context**: Bantjies is unknown trustee with R18.75M (Ketoni debt to FFT) debt to trust
 
 #### EVENT_050: Jax Confrontation (2025-05-15)
 - **Category**: Fraud discovery
@@ -178,7 +178,7 @@ This report documents the comprehensive analysis and refinement of the entities,
 - **Role**: Unknown trustee
 - **Legal Status**: Undisclosed conflict
 - **Conflict of Interest**:
-  - Debt to trust: R18,685,000
+  - Debt to trust: R18.75M (Ketoni debt to FFT)
   - Multiple roles: Trustee, debtor, accountant, commissioner of oaths
 
 #### Beneficiary Relations
@@ -247,7 +247,7 @@ This report documents the comprehensive analysis and refinement of the entities,
    - Document each instance of evidence destruction
 
 3. **Enhance Bantjies Conflict of Interest Documentation**
-   - Add detailed breakdown of R18.685M debt structure
+   - Add detailed breakdown of R18.75M (Ketoni debt to FFT) debt structure
    - Document timeline of debt accumulation
    - Link to stock adjustment fraud (R5.4M)
 
@@ -382,7 +382,7 @@ This report documents the comprehensive analysis and refinement of the entities,
 
 **Improved Financial Impact Tracking:**
 - Villa Via members loan: R22,800,000 (capital extraction)
-- Bantjies debt to trust: R18,685,000 (conflict of interest)
+- Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT))
 - AJE transactions: R1,642,000 (financial manipulation)
 - ReZonance debt: R1,035,000 (trigger event)
 

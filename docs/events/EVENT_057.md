@@ -36,7 +36,7 @@
   "phase": "PHASE_3",
   "ad_res_j7_references": [
     "ANNEXURES/JF01 - Shopify Plus email evidence",
-    "SF1_Bantjies_Debt_Documentation.md"
+    "SF1_Ketoni_Debt_FFT_Documentation.md"
   ],
   "burden_of_proof": "civil_50%"
 }

@@ -41,7 +41,7 @@ The plan is as follows:
 
 ### Para 4: The Financial Motive
 
-Bantjies owes the Applicant and myself **R18,685,000.00**, due in **May 2026** under a call option agreement. This is the first of three annual payments totaling **R70,580,000** (R18.685M in May 2026, R23.165M in May 2027, and R28.730M in May 2029).
+Ketoni owes R18.75M to FFT (Bantjies has conflict as George Group CFO).00**, due in **May 2026** under a call option agreement. This is the first of three annual payments totaling **R70,580,000** (R18.75M (Ketoni debt to FFT) in May 2026, R23.165M in May 2027, and R28.730M in May 2029).
 
 Bantjies cannot pay this debt. With only **~6 months remaining** until the first payment deadline, his solution is to seize control of the Faucitt Family Trust assets (which include RegimA Worldwide Distribution and Villa Via Arcadia) through a curatorship application, and then eliminate the debt through his control as curator.
 

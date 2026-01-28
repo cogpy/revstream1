@@ -26,8 +26,8 @@
 - **Status:** Report prepared for NPA
 
 ### Inter-Company Loan Fraud
-- **Evidence:** SF1 - Bantjies debt documentation
-- **Amount:** R18,685,000 conflict of interest
+- **Evidence:** SF1 - Ketoni R18.75M Payout to FFT Documentation
+- **Amount:** R18.75M (Ketoni debt to FFT) conflict of interest
 - **Status:** Under investigation
 
 ---

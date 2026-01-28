@@ -46,7 +46,7 @@ This document consolidates the complaints filed with regulatory bodies, includin
 ### Professional Respondent
 - **Name:** Danie Bantjies
 - **Role:** Accountant; Trustee of Faucitt Family Trust
-- **Conflict:** R18.685M debt to Peter Faucitt
+- **Conflict:** R18.75M (Ketoni debt to FFT) debt to Peter Faucitt
 - **Violations:** Sections 76, 77 of Companies Act No. 71 of 2008; Fraud concealment
 
 ## 3. Nature of Complaint
@@ -115,13 +115,13 @@ Domain regimaskin.co.za registered by Adderory following Shopify shutdown to imp
 
 #### EVENT_058: Bantjies Fraud Concealment (2025-06-10)
 **Evidence:** 
-- ANNEXURES/SF1_Bantjies_Debt_Documentation.md (R18.685M conflict)
+- ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md (R18.75M (Ketoni debt to FFT) conflict)
 - ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md
 - ANNEXURES/SF4_SARS_Audit_Email.md
 **Burden of Proof:** ✅ 95%+ (Criminal threshold exceeded)
 
 Bantjies dismissed Daniel's audit request despite:
-- R18.685M personal debt to Peter (undisclosed conflict of interest)
+- R18.75M (Ketoni debt to FFT) personal debt to Peter (undisclosed conflict of interest)
 - R5.4M stock theft requiring investigation
 - SARS audit coordination with perpetrators
 
@@ -155,7 +155,7 @@ Rynette's son registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establi
 Significant inter-company cost reallocations demonstrating systematic financial manipulation.
 
 #### EVENT_H006: Year-End Adjustments (2020-02-28)
-**Evidence:** ANNEXURES/JF03, SF1_Bantjies_Debt_Documentation.md
+**Evidence:** ANNEXURES/JF03, SF1_Ketoni_Debt_FFT_Documentation.md
 **Amount:** R1,948,334.09
 **Burden of Proof:** ✅ 85%+ (Strong civil case; criminal investigation warranted)
 
@@ -178,7 +178,7 @@ Demonstrates control over inter-company financial flows and self-dealing.
 
 1. **Premeditation:** Adderory registration 4 years before fraud escalation (EVENT_H009)
 2. **Breach of Trust:** Peter as trustee and director
-3. **Professional Misconduct:** Bantjies' R18.685M conflict of interest
+3. **Professional Misconduct:** Bantjies' R18.75M (Ketoni debt to FFT) conflict of interest
 4. **Evidence Destruction:** Sage subscription expiry during investigation (EVENT_065, EVENT_066)
 5. **Consciousness of Guilt:** Bantjies dismissal of audit request (EVENT_058)
 6. **Systematic Nature:** Pattern spanning 2020-2025
@@ -256,7 +256,7 @@ This document has been updated based on the latest evidence and data model refin
 ### Professional Suspect
 - **Name:** Danie Bantjies
 - **Role:** Accountant
-- **Conflict:** R18.685M debt to Peter Faucitt
+- **Conflict:** R18.75M (Ketoni debt to FFT) debt to Peter Faucitt
 - **Violations:** Professional misconduct; tax fraud facilitation
 
 ## 3. Nature of Tax Fraud
@@ -277,7 +277,7 @@ Significant inter-company cost reallocations:
 **Tax Implications:** Artificial profit shifting between entities to minimize tax liability.
 
 #### EVENT_H006: R1.948M Year-End Adjustments (2020-02-28)
-**Evidence:** ANNEXURES/JF03, SF1_Bantjies_Debt_Documentation.md
+**Evidence:** ANNEXURES/JF03, SF1_Ketoni_Debt_FFT_Documentation.md
 **Amount:** R1,948,334.09
 **Burden of Proof:** ✅ 85%+ (Strong case; criminal investigation warranted)
 
@@ -326,7 +326,7 @@ R850K+ unauthorized transfers including revenue from platform paid by UK company
 
 Bantjies coordinated with perpetrators during SARS audit, concealing:
 - R5.4M stock theft
-- R18.685M personal conflict of interest
+- R18.75M (Ketoni debt to FFT) personal conflict of interest
 - Inter-company manipulation
 
 **Tax Implications:** Obstruction of SARS audit; false representations to tax authorities.
@@ -344,7 +344,7 @@ Bantjies coordinated with perpetrators during SARS audit, concealing:
 ## 5. Aggravating Factors
 
 1. **Systematic Nature:** Pattern spanning 2020-2025
-2. **Professional Facilitation:** Bantjies as accountant with R18.685M conflict
+2. **Professional Facilitation:** Bantjies as accountant with R18.75M (Ketoni debt to FFT) conflict
 3. **SARS Obstruction:** Coordination during audit (SF4)
 4. **Premeditation:** Adderory registration 4 years before fraud escalation
 5. **Large Amounts:** R9.8M+ in fraudulent transactions

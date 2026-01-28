@@ -165,7 +165,7 @@ All filings maintain:
 
 | File | Description | Evidence Strength |
 |------|-------------|-------------------|
-| SF1 | Bantjies Debt (R18.685M) | Conclusive |
+| SF1 - Ketoni R18.75M Payout Documentation (R18.75M (Ketoni debt to FFT)) | Conclusive |
 | SF2 | Sage Screenshots (Rynette Control) | Conclusive |
 | SF3 | Stock Adjustment (R5.4M) | Strong |
 | SF4 | SARS Audit Email | Strong |

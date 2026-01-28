@@ -102,7 +102,7 @@ The analysis has identified **11 critical pieces of evidence** that form the fou
 
 | Evidence ID | Entities | Events | Significance | Burden of Proof |
 | :--- | :--- | :--- | :--- | :--- |
-| **SF1** | PERSON_007 | EVENT_H012, EVENT_089 | Establishes Danie Bantjies' R18.685M debt and conflict of interest | Civil (50%) & Criminal (95%) |
+| **SF1** | PERSON_007 | EVENT_H012, EVENT_089 | Establishes Danie Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT) | Civil (50%) & Criminal (95%) |
 | **SF2** | PERSON_002 | EVENT_090 | Proves Rynette's control of accounting system and Pete's email | Criminal (95%) |
 | **SF5** | PERSON_003, ORG_010 | EVENT_091 | Documents Adderory's company and stock supply arrangement | Civil (50%) |
 | **SF6** | PERSON_013 | EVENT_022 | CRITICAL: Death of Kayla triggered estate exploitation | Civil (50%) & Criminal (95%) |

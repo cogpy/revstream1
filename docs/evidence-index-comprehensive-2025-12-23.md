@@ -111,8 +111,8 @@
 
 ## Special Forensic Files (SF1-SF8)
 
-### SF1: Bantjies Debt Documentation
-**Amount:** R18,685,000
+### SF1 - Ketoni R18.75M Payout Documentation Documentation
+**Amount:** R18.75M (Ketoni debt to FFT)
 **Type:** Financial records
 **Significance:** Conflict of interest - trustee-debtor-accountant
 **Key Evidence:**
@@ -268,7 +268,7 @@
 - JF05: POPIA violation notice
 
 **Fraud Concealment (EVENT_058):**
-- SF1: R18.685M conflict of interest
+- SF1: R18.75M (Ketoni debt to FFT) conflict of interest
 - SF3: Stock fraud concealment
 - JF08: Timeline evidence
 

@@ -361,7 +361,7 @@ Coordinated actions across multiple family members:
 - **Peter Faucitt:** Primary perpetrator (11 events)
 - **Rynette Farrar:** Co-conspirator (8 events)
 - **Addarory:** Domain registration identity fraud
-- **Danie Bantjies:** Accountant with R18.685M conflict of interest (3 events)
+- **Danie Bantjies:** Accountant with R18.75M (Ketoni debt to FFT) conflict of interest (3 events)
 
 **Legal Significance:** Supports conspiracy charges under POCA
 

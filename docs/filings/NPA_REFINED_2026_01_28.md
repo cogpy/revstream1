@@ -112,9 +112,9 @@ This report details evidence of significant tax fraud and related financial crim
 - `ANNEXURES/JF03 - Financial records and analysis`
 - `ANNEXURES/JF08 - Evidence packages`
 
-### 3.5 Bantjies Conflict of Interest (R18,685,000)
+### 3.5 Bantjies Conflict of Interest (R18.75M (Ketoni debt to FFT))
 
-**Description:** Danie Bantjies owes R18,685,000 to the Faucitt Family Trust, creating a massive conflict of interest that motivated his participation in the fraud scheme.
+**Description:** Danie Ketoni owes R18.75M to FFT (Bantjies has conflict as George Group CFO) to the Faucitt Family Trust, creating a massive conflict of interest that motivated his participation in the fraud scheme.
 
 | Date | Event | Significance |
 |------|-------|--------------|
@@ -122,7 +122,7 @@ This report details evidence of significant tax fraud and related financial crim
 | 2025-06-10 | Bantjies dismisses audit request | Concealment of fraud |
 
 **Ad-Res-J7 Evidence:**
-- `SF1_Bantjies_Debt_Documentation.md`
+- `SF1_Ketoni_Debt_FFT_Documentation.md`
 - `ANNEXURES/JF03 - Financial records and analysis`
 
 ---
@@ -181,7 +181,7 @@ This report details evidence of significant tax fraud and related financial crim
 | JF03 | Financial records and analysis | Manipulation evidence |
 | JF04 | Personal bank records | Fund diversion |
 | JF08 | Evidence packages | Comprehensive fraud |
-| SF1 | Bantjies Debt Documentation | Conflict of interest |
+| SF1 | Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT) |
 | SF3 | Strategic Logistics Stock Adjustment | Stock fraud |
 | SF4 | SARS Audit Email | Tax manipulation |
 | SF5 | Adderory Company Registration | Transfer pricing |

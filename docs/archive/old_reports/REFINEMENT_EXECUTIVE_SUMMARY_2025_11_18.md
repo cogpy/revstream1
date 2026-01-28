@@ -61,7 +61,7 @@ This comprehensive refinement represents a systematic enhancement of the data mo
   - Revenue Theft: R3,141,647.70
   - Trust Violations: R2,851,247.35
   - Financial Manipulation: R4,276,832.85
-- **Additional Findings:** Villa Via capital extraction R22.8M, Bantjies debt conflict R18.685M
+- **Additional Findings:** Villa Via capital extraction R22.8M, Ketoni R18.75M debt to FFT (Bantjies conflict as George Group CFO)M
 
 ---
 
@@ -121,7 +121,7 @@ This comprehensive refinement represents a systematic enhancement of the data mo
 **Conspiracy Network:**
 - **Primary Conspiracy:** PERSON_001 (Peter) ↔ PERSON_002 (Rynette) - 8 shared events
 - **Family Conspiracy:** PERSON_002 (Rynette) ↔ PERSON_003 (Adderory) - mother-son collusion
-- **Professional Conspiracy:** PERSON_007 (Bantjies) ↔ PERSON_001 (Peter) - fraud concealment, R18.685M debt motive
+- **Professional Conspiracy:** PERSON_007 (Bantjies) ↔ PERSON_001 (Peter) - fraud concealment, R18.75M (Ketoni debt to FFT) debt motive
 - **Broader Network:** Coordinated with associates for fund diversions
 
 **Control Relations:**

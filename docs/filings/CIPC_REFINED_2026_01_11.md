@@ -36,7 +36,7 @@ Based on the latest data model refinements, the following entities have been upg
 | 2020-02-20 | Multiple adjusting journal entries across entities for inter-company cost reallocations | establishes_pattern_of_financial_manipulation | `JF08 - Evidence packages`, `JF09 - Timeline analysis` |
 | 2020-02-28 | SLG pays R414,334.09 interest to RST per loan agreement, RST advances R750K loan to RWW for production costs, Directors' fee adjustment R784K in RST | profit_concentration_in_director_controlled_entity | `REG-TRIALBALANCE.xlsx`, `SL-TRIALBALANCE2020.xlsx` |
 | 2020-02-28 | SLG pays R414,334.09 interest to RST per loan agreement | establishes_inter_company_financial_relationships | `JF08 - Evidence packages`, `JF09 - Timeline analysis` |
-| 2020-02-28 | Documentation of Bantjies's R18,685,000 debt to Faucitt Family Trust, creating massive conflict of interest | CRITICAL | `SF1_Bantjies_Debt_Documentation.md` |
+| 2020-02-28 | Documentation of Ketoni's R18.75M debt to FFT to Faucitt Family Trust, creating massive conflict of interest | CRITICAL | `SF1_Ketoni_Debt_FFT_Documentation.md` |
 | 2020-04-30 | Villa Via generates R4.4M monthly rental income with R3.7M profit, Members loan account R22.8M indicating systematic capital extraction | evidence_of_capital_extraction_mechanism | `VV-TRIALBALANCEAPR20202.xlsx` |
 | 2020-04-30 | Villa Via financial year-end showing R3.7M profit and R22.8M members loan | evidence_of_capital_extraction_through_members_loan | `JF08 - Evidence packages`, `JF09 - Timeline analysis` |  |
 
@@ -49,7 +49,7 @@ Based on the latest data model refinements, the following entities have been upg
 #### Acting in Bad Faith
 - **Violation Summary:** Details from events.json would be inserted here.
   - **Evidence:** trust_documentation, beneficiary_records
-  - **Ad-Res-J7:** `ANNEXURES/JF03 - Financial records and analysis, SF1_Bantjies_Debt_Documentation.md, ANNEXURES/JF10 - Trust documents`
+  - **Ad-Res-J7:** `ANNEXURES/JF03 - Financial records and analysis, SF1_Ketoni_Debt_FFT_Documentation.md, ANNEXURES/JF10 - Trust documents`
 - **Violation Summary:** Details from events.json would be inserted here.
   - **Evidence:** email_records, accounting_records, SARS_submissions
   - **Ad-Res-J7:** `SF8_Linda_Employment_Records.md, ANNEXURES/JF07 - Screenshots and visual evidence, SF2_Sage_Screenshots_Rynette_Control.md, SF4_SARS_Audit_Email.md, ANNEXURES/JF03 - Financial records and analysis`
@@ -77,7 +77,7 @@ Based on the latest data model refinements, the following entities have been upg
 #### Conflict of Interest
 - **Violation Summary:** Details from events.json would be inserted here.
   - **Evidence:** trust_transaction_records, conflict_of_interest_documentation
-  - **Ad-Res-J7:** `ANNEXURES/JF03 - Financial records and analysis, SF1_Bantjies_Debt_Documentation.md, ANNEXURES/JF10 - Trust documents`
+  - **Ad-Res-J7:** `ANNEXURES/JF03 - Financial records and analysis, SF1_Ketoni_Debt_FFT_Documentation.md, ANNEXURES/JF10 - Trust documents`
 - **Violation Summary:** Details from events.json would be inserted here.
   - **Evidence:** email_records, customer_communications, gee_email_to_jax, SF2A - Sage Control User Access screenshot
   - **Ad-Res-J7:** `ANNEXURES/JF01 - Shopify Plus email evidence, ANNEXURES/JF07 - Screenshots and visual evidence, ANNEXURES/JF03 - Financial records and analysis`

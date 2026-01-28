@@ -156,7 +156,7 @@ Multiple family members involved in coordinated criminal activity:
 - **Peter Faucitt:** Primary perpetrator (11 events)
 - **Rynette Farrar:** Co-conspirator (8 events)
 - **Addarory (Rynette's son):** Domain registration for identity fraud
-- **Danie Bantjies:** Accountant with R18.685M conflict of interest (3 events)
+- **Danie Bantjies:** Accountant with R18.75M (Ketoni debt to FFT) conflict of interest (3 events)
 
 ---
 

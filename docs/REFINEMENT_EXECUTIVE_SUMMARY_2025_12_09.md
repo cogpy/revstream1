@@ -41,7 +41,7 @@ This comprehensive refinement successfully analyzed and enhanced all data models
 
 - Verified **SF1A evidence** for PERSON_007 (Bantjies)
   - Call option payment schedule documented
-  - R18.685M debt to trust at Year 1 (May 2026)
+  - R18.75M (Ketoni debt to FFT) debt to trust at Year 1 (May 2026)
   - Conflict of interest as trustee/debtor/accountant
 
 #### Relations (v22 → v23)
@@ -172,7 +172,7 @@ This comprehensive refinement successfully analyzed and enhanced all data models
 - **SF9:** Attorney Letter (23 October 2025) - R63M quantum - CRITICAL
 - **SF2A:** Sage User Access - Rynette dual accounts (20 June 2025) - CRITICAL
 - **SF2B:** Sage Subscription Expiry - Rynette owner (23 July 2025) - CRITICAL
-- **SF1A:** Bantjies Call Option Agreement - R18.685M debt (MEDIUM)
+- **SF1 - Ketoni R18.75M Payout Documentation (MEDIUM)
 - **SF10:** Sales Workflow Presentation - Professional operations (MEDIUM)
 
 ---

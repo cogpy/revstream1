@@ -30,8 +30,8 @@
     "colleague_of_PERSON_014"
   ],
   "financial_impact": {
-    "debt_motive": "R18,685,000",
-    "debt_to_trust": "R18,685,000",
+    "debt_motive": "Ketoni R18.75M payout to FFT",
+    "ketoni_payout_to_fft": "R18.75M",
     "stock_fraud_concealment": "R5,400,000",
     "primary_categories": [
       "fraud_concealment",
@@ -41,7 +41,7 @@
     ]
   },
   "legal_status": "co_conspirator_and_fiduciary_violator",
-  "additional_notes": "Unknown trustee status, dismissed audit request June 10, 2025 (4 days after fraud exposure), controlled accounting system with Rynette using Peter's email, owes R18.685M to trust creating massive conflict of interest, certified Peter's affidavit as Commissioner of Oaths despite material omissions, sent trial balance email Aug 13, 2020; Sent trial balance email Aug 13, 2020 to Bernadine Wright; learned of criminal matters June 10, 2025; ENS Africa suppressed criminal information from Court Aug 29, 2025",
+  "additional_notes": "Unknown trustee status, dismissed audit request June 10, 2025 (4 days after fraud exposure), controlled accounting system with Rynette using Peter's email, owes R18.75M (Ketoni debt to FFT) to trust creating massive conflict of interest, certified Peter's affidavit as Commissioner of Oaths despite material omissions, sent trial balance email Aug 13, 2020; Sent trial balance email Aug 13, 2020 to Bernadine Wright; learned of criminal matters June 10, 2025; ENS Africa suppressed criminal information from Court Aug 29, 2025",
   "conflict_of_interest": {
     "triple_conflict": "trustee_debtor_accountant",
     "roles": [
@@ -71,7 +71,7 @@
   "evidence": [
     "JF03 - Trial balance email August 13, 2020",
     "JF04 - Trust documentation showing unknown trustee status",
-    "JF07 - Financial records showing R18.685M debt",
+    "JF07 - Financial records showing R18.75M (Ketoni debt to FFT) debt",
     "JF08 - June 10, 2025 audit dismissal email",
     "Ketoni connection analysis"
   ],
@@ -80,11 +80,11 @@
     "ANNEXURES/JF04 - Trust and company documentation",
     "ANNEXURES/JF07 - Debt and financial conflict evidence",
     "ANNEXURES/JF08/evidence_package_20250606 - Email evidence extraction",
-    "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - R18.685M debt to trust",
+    "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md - R18.75M (Ketoni debt to FFT) debt to trust",
     "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md - Stock fraud concealment",
     "ANNEXURES/SF4_SARS_Audit_Email.md - SARS audit coordination",
     "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md - Medical testing proposal",
-    "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - Debt and conflict of interest",
+    "ANNEXURES/SF1_Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT)",
     "ANNEXURES/JF08/evidence_package_20251012/README.md - Accounting fraud evidence",
     "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md"
   ],

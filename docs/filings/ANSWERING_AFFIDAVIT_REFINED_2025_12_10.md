@@ -60,7 +60,7 @@ This affidavit serves three purposes:
 
 1.  **Opposition to the Third Urgent Application:** To demonstrate that the relief sought is unjustified, based on fabricated evidence, and part of a pattern of abuse of process.
 2.  **Rule 42 Rescission:** To establish grounds for the rescission of the original ex parte interdict on the basis of fraud, material non-disclosure, and abuse of process.
-3.  **Exposure of a Criminal Conspiracy:** To reveal that all three interdict applications are not isolated legal disputes, but coordinated steps in a curatorship conspiracy orchestrated by Bantjies to seize control of the Faucitt Family Trust and eliminate his R18,685,000 debt.
+3.  **Exposure of a Criminal Conspiracy:** To reveal that all three interdict applications are not isolated legal disputes, but coordinated steps in a curatorship conspiracy orchestrated by Bantjies to seize control of the Faucitt Family Trust and eliminate his R18.75M (Ketoni debt to FFT) debt.
 
 This affidavit is structured in eight parts (A-H), each addressing a distinct legal theory or aspect of the conspiracy.
 
@@ -80,10 +80,10 @@ Every action taken by the Applicant and his associates aligns with this pattern,
 
 ### Para 4: The Mastermind and the Motive
 
-The true orchestrator of this conspiracy is not the Applicant, but **Bantjies**, who was irregularly appointed as a Trustee of the Faucitt Family Trust on 7 July 2024. Bantjies owes me and the Applicant **R18,685,000**, due in May 2026, as part of a call option agreement with total exposure of **R70,580,000** over three years. This debt is the driving force behind the entire conspiracy.
+The true orchestrator of this conspiracy is not the Applicant, but **Ketoni owes R18.75M to FFT (Bantjies has conflict as George Group CFO)**, due in May 2026, as part of a call option agreement with total exposure of **R70,580,000** over three years. This debt is the driving force behind the entire conspiracy.
 
 By seizing control of the Trust through curatorship, Bantjies can:
-- Eliminate his R18.685M debt by "forgiving" it as the curator or through a proxy.
+- Eliminate his R18.75M (Ketoni debt to FFT) debt by "forgiving" it as the curator or through a proxy.
 - Transfer Trust assets (RegimA Worldwide Distribution, Villa Via Arcadia) to himself in a sham settlement.
 - Liquidate the companies and acquire the assets at a fraction of their value.
 
@@ -102,7 +102,7 @@ The conspiracy unfolds in seven coordinated stages:
 | **4. Business Isolation** | 13 Aug 2025 | 1st interdict + bank freezes + CEO removal | Isolate whistleblowers from business | JF_INTERDICT_1 |
 | **5. Dependency** | Aug-Oct 2025 | Forced medical testing, financial control | Create dependency, medical evidence | JF_MEDICAL |
 | **6. Delinquency** | 4 Nov 2025 | 3rd interdict (contact ban) | Complete isolation, prove "incapacity" | JF_INTERDICT_3 |
-| **7. Curatorship** | Jan-Mar 2026 (predicted) | High Court application | Seize assets, eliminate R18.685M debt | All of the above |
+| **7. Curatorship** | Jan-Mar 2026 (predicted) | High Court application | Seize assets, eliminate R18.75M (Ketoni debt to FFT) debt | All of the above |
 
 This is not speculation. This is a **known legal pattern** in South African trust litigation, and our facts align with it perfectly.
 
@@ -129,7 +129,7 @@ The conspiracy operates through a **parallel chain of command** that bypasses th
 
 The original ex parte interdict was obtained through systematic material non-disclosure. The Applicant failed to disclose:
 
-1.  **Bantjies' Conflict of Interest:** That his key supporting witness (Bantjies) was a Trustee who owed the beneficiaries R18.685M.
+1.  **Bantjies' Conflict of Interest:** That his key supporting witness (Bantjies) was a Trustee who owed the beneficiaries R18.75M (Ketoni debt to FFT).
 2.  **The Curatorship Plan:** That the interdict was merely one step in a larger plan to seize control of the Trust through curatorship.
 3.  **The Financial Sabotage:** That the "crisis" he was seeking to prevent was one he and his associates had manufactured themselves through bank account diversion (April 14) and card cancellation (June 7).
 4.  **The Fabricated Accounts:** That the 2019 financial statements he relied on were fraudulent, created in June 2025 for a company that didn't exist under that name until 2021.
@@ -267,7 +267,7 @@ The actions taken against me constitute **torture** under the Prevention and Com
 I have demonstrated that:
 
 1. The three interdict applications are part of a **textbook curatorship conspiracy** to seize control of the Faucitt Family Trust.
-2. The conspiracy is driven by Bantjies' **R18,685,000 debt** due in May 2026.
+2. The conspiracy is driven by Bantjies' **R18.75M (Ketoni debt to FFT) debt** due in May 2026.
 3. The original ex parte interdict was obtained through **systematic material non-disclosure and fraud**.
 4. The Applicant's claims are based on **fabricated evidence** (2019 accounts, R500k "birthday gift").
 5. RegimA Worldwide Distribution is a **shell company** with no independent revenue stream.

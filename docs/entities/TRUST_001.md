@@ -29,11 +29,11 @@
     "used_for_attacking_beneficiaries"
   ],
   "financial_impact": {
-    "debt_owed_by_trustee": "R18,685,000",
+    "ketoni_debt_to_fft": "R18.75M (Bantjies conflict as George Group CFO)",
     "debtor": "PERSON_007"
   },
   "legal_significance": "trust_structure_manipulation_and_beneficiary_attack",
-  "additional_notes": "Bantjies is unknown trustee with R18.685M debt to trust, creating massive conflict of interest",
+  "additional_notes": "Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT)",
   "relationships": [
     "trustee_PERSON_001",
     "beneficiary_PERSON_004",
@@ -47,7 +47,7 @@
   ],
   "ad_res_j7_references": [
     "ANNEXURES/JF10 - Trust documents",
-    "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+    "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
     "ANNEXURES/JF06 - Court documents and filings",
     "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md"
   ],

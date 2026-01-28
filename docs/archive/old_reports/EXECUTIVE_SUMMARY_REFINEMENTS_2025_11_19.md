@@ -270,7 +270,7 @@ Enhanced with new events:
 - Coordinated fund diversions
 - Email impersonation patterns
 
-**Legal Significance:** Bantjies' R18.685M debt conflict of interest exposed, audit dismissal 4 days after fraud exposure.
+**Legal Significance:** Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT) exposed, audit dismissal 4 days after fraud exposure.
 
 ---
 

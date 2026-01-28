@@ -42,10 +42,10 @@ This report outlines evidence of a coordinated scheme to defraud the South Afric
 
 ### 4.3. Motive and Conflict of Interest
 
-**Allegation:** Danie Bantjies, the accountant responsible for the financial records, had a significant conflict of interest. His R18.685M debt to the Faucitt Family Trust provided a strong motive to collude with Peter Faucitt and Rynette Farrar to conceal the fraud in exchange for favorable treatment of his debt.
+**Allegation:** Danie Bantjies, the accountant responsible for the financial records, had a significant conflict of interest. His R18.75M (Ketoni debt to FFT) debt to the Faucitt Family Trust provided a strong motive to collude with Peter Faucitt and Rynette Farrar to conceal the fraud in exchange for favorable treatment of his debt.
 
 **Evidence:**
-- **SF1 - Bantjies Debt Documentation:** Establishes the debt and the conflict of interest.
+- **SF1 - Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT).
 
 ## 5. Conclusion
 

@@ -52,7 +52,7 @@ This complaint details serious violations of the Companies Act 71 of 2008 by dir
 
 **Evidence:**
 - **Trial Balance Documents:** Distributed by Danie Bantjies, showing manipulated figures.
-- **SF1 - Bantjies Debt Documentation:** Establishes his R18.685M conflict of interest, providing a motive for concealing the fraud.
+- **SF1 - Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT), providing a motive for concealing the fraud.
 - **SF4 - SARS Audit Email:** Evidence of coordination to mislead tax authorities.
 
 ## 5. Conclusion

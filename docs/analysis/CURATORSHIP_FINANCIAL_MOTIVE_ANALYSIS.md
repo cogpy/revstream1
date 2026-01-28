@@ -12,14 +12,14 @@
 
 | Year | Due Date | Amount | Status |
 |------|----------|--------|--------|
-| **Year 1** | **May 2026** | **R18,685,000** | **~6 months remaining** |
+| **Year 1** | **May 2026** | **R18.75M (Ketoni debt to FFT)** | **~6 months remaining** |
 | Year 2 | May 2027 | R23,165,000 | ~18 months |
 | Year 3 | May 2029 | R28,730,000 | ~42 months |
 | **TOTAL** | | **R70,580,000** | **Total exposure** |
 
 **Creditors:** Peter Faucitt & Jacqueline Faucitt
 
-**Problem:** Bantjies cannot pay the first installment (R18.685M) due in May 2026.
+**Problem:** Bantjies cannot pay the first installment (R18.75M (Ketoni debt to FFT)) due in May 2026.
 
 **Deadline:** **~6 months remaining** (as of November 2025)
 

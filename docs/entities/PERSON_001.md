@@ -64,7 +64,7 @@
     "SF6_Kayla_Pretorius_Estate_Documentation.md - Trigger event for appropriation",
     "SF9_Ian_Levitt_Demand_Letter.md - R63M formal demand (ignored)",
     "ANNEXURES/JF08/evidence_package_20251012/README.md - Comprehensive fraud documentation",
-    "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - Financial manipulation evidence",
+    "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md - Financial manipulation evidence",
     "jax-response/ANSWERING_AFFIDAVIT_JACQUI.md - Court testimony"
   ],
   "evidence_enhanced": "2025-12-28T05:36:36.077423",

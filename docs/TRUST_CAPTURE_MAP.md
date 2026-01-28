@@ -26,13 +26,13 @@ This document maps the systematic capture of the Faucitt Family Trust by Bantjie
 Bantjies holds three conflicting roles, creating an **impermissible conflict of interest** that breaches the fundamental fiduciary duty of loyalty:
 
 1.  **Trustee:** Fiduciary duty to act in the best interests of the beneficiaries (Dan & Jax).
-2.  **Debtor:** Owes the Trust beneficiaries **R18,685,000** (due May 2026).
+2.  **Debtor:** Owes the Trust beneficiaries **R18.75M (Ketoni debt to FFT)** (due May 2026).
 3.  **Accountant:** Professional duty to the companies, but taking instructions from Rynette/Bantjies.
 
 **Legal Implications:**
 
 -   **Breach of Trust Property Control Act, 57 of 1988:** A trustee cannot act in a way that benefits themselves at the expense of the beneficiaries.
--   **Material Non-Disclosure:** Bantjies signing a supporting affidavit for an interdict against the very people he owes R18.685M to, without disclosing this conflict, is a catastrophic non-disclosure in ex parte proceedings.
+-   **Material Non-Disclosure:** Bantjies signing a supporting affidavit for an interdict against the very people he owes R18.75M (Ketoni debt to FFT) to, without disclosing this conflict, is a catastrophic non-disclosure in ex parte proceedings.
 
 ---
 
@@ -72,6 +72,6 @@ The evidence reveals a **parallel chain of command** where trustee-level actors 
     1.  Neutralize the directors (Dan, Jax).
     2.  Restructure the companies.
     3.  Sell, move, or securitize assets.
-    4.  Eliminate his R18.685M debt.
+    4.  Eliminate his R18.75M (Ketoni debt to FFT) debt.
 
 **The entire conspiracy revolves around capturing the Trust.** The interdicts, the fabricated accounts, the medical testing—it's all a means to an end: **total control of the Faucitt Family Trust.**

@@ -149,7 +149,7 @@ Two distinct legal document structures have been developed for Case 2025-137857,
 |--------|---------|---------|
 | **Coverage** | 4 paragraphs (Para 26-29) | Brief mention in Section 4.4 |
 | **Depth** | Detailed fiduciary duty analysis | Mentioned as "POPIA, Trust, Fiduciary" |
-| **Conflict of Interest** | R18.685M Bantjies debt emphasized | Not detailed |
+| **Conflict of Interest** | R18.75M (Ketoni debt to FFT) Bantjies debt emphasized | Not detailed |
 | **Legal Foundation** | Trust Property Control Act + common law | Mentioned |
 | **Strength** | Strong | Weak |
 
@@ -166,7 +166,7 @@ Two distinct legal document structures have been developed for Case 2025-137857,
 **Examples:**
 - "Event EVENT_007 (confrontation, 15 May 2025)"
 - "Event EVENT_009 (data destruction, 22 May 2025)"
-- "REL_DEBT_002 (Bantjies debt R18.685M)"
+- "REL_DEBT_002 (Ketoni R18.75M debt to FFT (Bantjies conflict as George Group CFO)M)"
 - "Annexure AF: RegimA Zone UK Bank Statements"
 
 **Strengths:**

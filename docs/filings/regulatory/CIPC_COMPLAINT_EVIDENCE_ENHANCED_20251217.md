@@ -28,7 +28,7 @@ Peter Andrew Faucitt should be declared a delinquent director based on:
 #### A. Gross Abuse of Position (Section 162(5)(c)(i))
 
 **Evidence:**
-- SF1: Bantjies debt of R18.685M creating conflict of interest
+- SF1: Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT)
 - SF2: System control by Rynette using Peter's email
 - JF08: Systematic revenue theft exceeding R10.2M
 
@@ -59,7 +59,7 @@ Danie Bantjies should be declared a delinquent director based on:
 #### A. Conflict of Interest (Section 162(5)(c)(i))
 
 **Evidence:**
-- SF1: R18.685M debt to Faucitt Family Trust
+- SF1: R18.75M (Ketoni debt to FFT) debt to Faucitt Family Trust
 - Triple role: Trustee + Debtor + Accountant
 - SF1: Dismissed audit request 4 days after fraud exposure (10 June 2025)
 
@@ -109,7 +109,7 @@ The following conduct constitutes oppression under Section 163:
 | Violation | Amount | Evidence | Burden Met |
 |-----------|--------|----------|------------|
 | Revenue Theft | R10,269,727.90 | JF07, JF08 | ✓ |
-| Bantjies Debt | R18,685,000.00 | SF1 | ✓ |
+| Ketoni R18.75M debt to FFT (Bantjies conflict as George Group CFO),000.00 | SF1 | ✓ |
 | Stock Fraud | R5,400,000.00 | SF3 | ✓ |
 | Kayla Estate Debt | R1,035,000.00 | SF6 | ✓ |
 | **TOTAL IMPACT** | **R35,389,727.90** | Multiple | ✓ |
@@ -163,20 +163,20 @@ The complainants respectfully request that CIPC:
 
 ## ADDENDUM: Bantjies Undisclosed Trustee Status (2025-12-19)
 
-### Regulatory Violation: Undisclosed Trustee with R18.685M Conflict
+### Regulatory Violation: Undisclosed Trustee with R18.75M (Ketoni debt to FFT) Conflict
 
 **Complaint Against:** Danie Bantjies
 
 **Violations:**
 1. Undisclosed trustee appointment (July 2024)
-2. R18,685,000 debt to trust while serving as trustee
+2. R18.75M Ketoni payout owed to FFT while serving as trustee
 3. Breach of fiduciary duty
 4. Conflict of interest in multiple roles
 
 **Evidence:**
 - Trust deed amendments
 - Master's Office records
-- Financial records showing R18.685M debt
+- Financial records showing R18.75M (Ketoni debt to FFT) debt
 - Court affidavit with material omissions
 
 **Timeline:**
@@ -190,7 +190,7 @@ The complainants respectfully request that CIPC:
 - Review of trust governance
 - Sanctions for breach of fiduciary duty
 
-**Source:** SF1 - Bantjies Debt Documentation
+**Source:** SF1 - Ketoni R18.75M Payout to FFT Documentation
 
 ---
 

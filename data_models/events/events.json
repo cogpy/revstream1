@@ -475,7 +475,7 @@
       "event_id": "EVENT_089",
       "date": "2020-02-28",
       "title": "Bantjies R18.685M Debt to Faucitt Family Trust",
-      "description": "Documentation of Bantjies's R18,685,000 debt to Faucitt Family Trust, creating massive conflict of interest",
+      "description": "Documentation of Ketoni's R18.75M debt to FFT to Faucitt Family Trust, creating massive conflict of interest",
       "category": "accounting_fraud",
       "participants": [
         "PERSON_007",
@@ -483,12 +483,12 @@
       ],
       "financial_impact": "R18,685,000.00",
       "evidence": [
-        "SF1_Bantjies_Debt_Documentation.md",
+        "SF1_Ketoni_Debt_FFT_Documentation.md",
         "Bank transaction records",
         "Email correspondence evidence"
       ],
       "ad_res_j7_references": [
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
@@ -629,7 +629,7 @@
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF08 - Evidence packages",
-        "SF1_Bantjies_Debt_Documentation.md"
+        "SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "burden_of_proof": "civil_50%_exceeded",
       "refinement_date": "2026-01-28T05:45:17.386844"
@@ -670,7 +670,7 @@
       ],
       "phase": "PHASE_1",
       "ad_res_j7_references": [
-        "SF1_Bantjies_Debt_Documentation.md",
+        "SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF08 - Evidence packages"
       ],
@@ -709,7 +709,7 @@
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md"
+        "SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
@@ -1502,13 +1502,13 @@
       "crime_type": "Fraudulent trust establishment, fiduciary duty violations",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293409",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
+        "SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/JF10 - Trust documents"
       ],
       "burden_of_proof": "criminal_95",
@@ -1551,7 +1551,7 @@
       "ad_res_j7_references": [
         "SF3_Strategic_Logistics_Stock_Adjustment.md",
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md"
+        "SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
@@ -1852,14 +1852,14 @@
       "crime_type": "Trust deed violations, unauthorized beneficiary amendments",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293425",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF05 - Correspondence evidence",
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
+        "SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/JF10 - Trust documents"
       ],
       "burden_of_proof": "criminal_95",
@@ -2182,7 +2182,7 @@
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF01 - Shopify Plus email evidence",
-        "SF1_Bantjies_Debt_Documentation.md"
+        "SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "burden_of_proof": "civil_50%",
       "refinement_date": "2026-01-28T05:45:17.386844"
@@ -2261,7 +2261,7 @@
       "temporal_significance": "4_days_after_fraud_exposure",
       "timeline_phase": "PHASE_004",
       "ad_res_j7_evidence": [
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293441",
@@ -2270,7 +2270,7 @@
         "SF3_Strategic_Logistics_Stock_Adjustment.md",
         "ANNEXURES/JF05 - Correspondence evidence",
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md"
+        "SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
@@ -2306,14 +2306,14 @@
       "additional_notes": "Bantjies had R18.685M reasons to prevent audit, which would discover debt and conflicts",
       "timeline_phase": "PHASE_004",
       "ad_res_j7_evidence": [
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293442",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md"
+        "SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
@@ -2347,7 +2347,7 @@
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293444",
       "ad_res_j7_evidence": [
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
       ],
       "phase": "PHASE_3",
@@ -2355,7 +2355,7 @@
         "ANNEXURES/JF05 - Correspondence evidence",
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF08 - Evidence packages",
-        "SF1_Bantjies_Debt_Documentation.md"
+        "SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
@@ -2389,7 +2389,7 @@
       "timeline_phase": "PHASE_004",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - R18.685M conflict of interest",
+        "ANNEXURES/SF1_Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT)",
         "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md - Bantjies conduct"
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293446",
@@ -2397,7 +2397,7 @@
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF6_Kayla_Pretorius_Estate_Documentation.md",
-        "SF1_Bantjies_Debt_Documentation.md"
+        "SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "refinement_date": "2026-01-28T05:45:17.386844"
     },
@@ -2477,13 +2477,13 @@
       "crime_type": "Fiduciary duty breach, trust asset mismanagement",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293449",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
+        "SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/JF10 - Trust documents"
       ],
       "burden_of_proof": "criminal_95",
@@ -2958,13 +2958,13 @@
       "crime_type": "Trust asset theft, breach of fiduciary duty",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293466",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
+        "SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/JF10 - Trust documents"
       ],
       "criminal_significance": true,
@@ -3000,13 +3000,13 @@
       "crime_type": "Continuing trust violations, evidence concealment",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "evidence_enhanced": "2026-01-18T05:36:58.293468",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
+        "SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/JF10 - Trust documents"
       ],
       "burden_of_proof": "civil_50%_exceeded",
@@ -3081,13 +3081,13 @@
       "evidence_enhanced": "2026-01-18T05:36:58.293471",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF08 - Evidence packages",
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
+        "SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/JF10 - Trust documents",
         "ANNEXURES/JF06 - Court documents and filings"
       ],

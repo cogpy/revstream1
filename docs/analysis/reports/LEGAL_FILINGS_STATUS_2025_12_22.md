@@ -8,7 +8,7 @@
 - **Size:** 10,140 bytes
 - **Last Modified:** 2025-12-22T05:34:25.706160
 - **Evidence Coverage:**
-  - SF1 (Bantjies Debt): ❌
+  - SF1 - Ketoni R18.75M Payout Documentation): ❌
   - SF2 (Rynette Control): ✅
   - SF3 (Stock Adjustment): ❌
   - SF6 (Kayla Estate): ✅

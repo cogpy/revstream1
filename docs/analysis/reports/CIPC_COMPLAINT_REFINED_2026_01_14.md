@@ -29,7 +29,7 @@ A comprehensive timeline of 103 events documents the progression of the scheme. 
 | :--- | :--- | :--- | :--- |
 | 2017-02-24 | RegimaSA (Pty) Ltd incorporated | s22 (Reckless Trading - shell co.) | `ad-res-j7/ANNEXURES/JF04` |
 | 2020-02-20 | Inter-company cost reallocations | s76 (Conflict of Interest) | `ad-res-j7/ANNEXURES/JF03` |
-| 2020-02-28 | Bantjies R18.6M debt to Trust | s76 (Conflict of Interest) | `ad-res-j7/ANNEXURES/SF1` |
+| 2020-02-28 | Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT)) | `ad-res-j7/ANNEXURES/SF1` |
 | 2025-04-01 | Payment redirection scheme initiated | s22 (Reckless Trading), s76 (Bad Faith) | `ad-res-j7/ANNEXURES/JF07` |
 | 2025-06-20 | Rynette Farrar's system control proven | s76 (Aiding & Abetting) | `ad-res-j7/ANNEXURES/SF2` |
 

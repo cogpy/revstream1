@@ -127,7 +127,7 @@ The narrative supports four major juridical categories, each with distinct legal
 
 **Misconduct Types Documented:**
 - Trustee deception (hidden trustee roles - Bantjies)
-- Debts owed to trust (R18.685M - Bantjies conflict of interest)
+- Debts owed to trust (R18.75M (Ketoni debt to FFT) - Bantjies conflict of interest)
 - Actions harming trust beneficiaries
 - Retaliation against beneficiaries demanding accountability
 
@@ -245,7 +245,7 @@ The matrix reveals four critical event sequences that demonstrate the retaliator
 **Sequence 3: Villa Via Exposure → Audit Blocking**
 - June 2025: Daniel exposes Villa Via profit extraction (R22.8M capital extraction)
 - June 2025: Bantjies blocks forensic audit (5 days later)
-- **Legal Significance:** Concealment of fraud, conflict of interest (Bantjies owes R18.685M to trust)
+- **Legal Significance:** Concealment of fraud, conflict of interest (Bantjies owes R18.75M (Ketoni debt to FFT) to trust)
 
 **Sequence 4: Trustee Document → Interdict Launch**
 - August 11, 2025: Jacqui signs document backdating Peter's "Main Trustee" designation
@@ -324,7 +324,7 @@ The narrative aligns with the recognised bases for rescission under Rule 42(1)(a
 **Misrepresentations Identified:**
 - Misrepresented payment flows (claimed SA → UK, actually UK → SA)
 - Omitted control structures (Bantjies financial control, Rynette system control)
-- Omitted motives (R18.685M debt, R1.035M estate debt)
+- Omitted motives (R18.75M (Ketoni debt to FFT) debt, R1.035M estate debt)
 - Omitted trustee/financial conflicts
 - Omitted retaliatory chronology (4 documented sequences)
 - Omitted context of IT expenses (revenues exceeded expenses)

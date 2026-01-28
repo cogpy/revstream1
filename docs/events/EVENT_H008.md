@@ -36,7 +36,7 @@
   "ad_res_j7_references": [
     "ANNEXURES/JF03 - Financial records and analysis",
     "ANNEXURES/JF08 - Evidence packages",
-    "SF1_Bantjies_Debt_Documentation.md"
+    "SF1_Ketoni_Debt_FFT_Documentation.md"
   ],
   "burden_of_proof": "civil_50%_exceeded"
 }

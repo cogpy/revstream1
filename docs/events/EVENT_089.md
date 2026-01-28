@@ -1,28 +1,28 @@
-# Bantjies R18.685M Debt to Faucitt Family Trust (EVENT_089)
+# Bantjies R18.75M (Ketoni debt to FFT) Debt to Faucitt Family Trust (EVENT_089)
 
 **Date:** 2020-02-28
 
-**Description:** Documentation of Bantjies's R18,685,000 debt to Faucitt Family Trust, creating massive conflict of interest
+**Description:** Documentation of Ketoni's R18.75M debt to FFT to Faucitt Family Trust, creating massive conflict of interest
 
 ```json
 {
   "event_id": "EVENT_089",
   "date": "2020-02-28",
-  "title": "Bantjies R18.685M Debt to Faucitt Family Trust",
-  "description": "Documentation of Bantjies's R18,685,000 debt to Faucitt Family Trust, creating massive conflict of interest",
+  "title": "Bantjies R18.75M (Ketoni debt to FFT) Debt to Faucitt Family Trust",
+  "description": "Documentation of Ketoni's R18.75M debt to FFT to Faucitt Family Trust, creating massive conflict of interest",
   "category": "accounting_fraud",
   "participants": [
     "PERSON_007",
     "TRUST_001"
   ],
-  "financial_impact": "R18,685,000.00",
+  "financial_impact": "R18.75M (Ketoni debt to FFT).00",
   "evidence": [
-    "SF1_Bantjies_Debt_Documentation.md",
+    "SF1_Ketoni_Debt_FFT_Documentation.md",
     "JF03 - Financial Records (historical)",
     "JF14/JF15 - CIPC historical records"
   ],
   "ad_res_j7_references": [
-    "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
+    "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md"
   ],
   "burden_of_proof": "criminal_95",
   "legal_significance": "CRITICAL",

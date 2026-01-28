@@ -324,7 +324,7 @@ The data model contains **25 entities** across five categories:
 **Primary Conspirators**: 3 persons
 - PERSON_001 (Peter Andrew Faucitt): Primary perpetrator
 - PERSON_002 (Rynette Farrar): Co-conspirator and financial controller
-- PERSON_007 (Danie Bantjies): Accountant with R18.685M conflict of interest
+- PERSON_007 (Danie Bantjies): Accountant with R18.75M (Ketoni debt to FFT) conflict of interest
 
 **Conspiracy Relations**: 4 documented
 - Peter ↔ Rynette: 8 shared events
@@ -345,11 +345,11 @@ The data model contains **25 entities** across five categories:
 
 **Triple Conflict Documented**:
 1. **Trustee** of TRUST_001 (unknown/undisclosed status)
-2. **Debtor** to TRUST_001 (R18,685,000)
+2. **Debtor** to TRUST_001 (R18.75M (Ketoni debt to FFT))
 3. **Accountant** for Regima Group
 4. **Commissioner of Oaths** (certified Peter's affidavit with material omissions)
 
-**Motive**: Prevent discovery of R18.685M debt to trust
+**Motive**: Prevent discovery of R18.75M (Ketoni debt to FFT) debt to trust
 
 **Actions**:
 - Dismissed audit request June 10, 2025 (4 days after fraud exposure)
@@ -447,7 +447,7 @@ This comprehensive analysis has successfully:
 ✅ **Added 6 new relations** (email control, trustee, beneficiary)  
 ✅ **Fixed all timeline phase** event count discrepancies  
 ✅ **Documented critical patterns** (escalation trigger, retaliation sequence)  
-✅ **Identified Bantjies triple conflict** (R18.685M motive)
+✅ **Identified Bantjies triple conflict** (R18.75M (Ketoni debt to FFT) motive)
 
 The data models are now more complete, consistent, and cross-referenced with extended evidence from the ad-res-j7 repository. All improvements have been applied and are ready for commit to the repository.
 

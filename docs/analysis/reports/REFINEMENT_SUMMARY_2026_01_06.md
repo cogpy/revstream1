@@ -156,7 +156,7 @@ This comprehensive refinement operation successfully enhanced the `revstream1` r
 **Evidence Referenced:**
 - EVENT_018, EVENT_022 (stock fraud and SARS audit)
 - SF3, SF4 (stock adjustment and SARS email)
-- JF03, SF1 (financial analysis and Bantjies debt)
+- JF03, SF1 - Ketoni R18.75M Payout Documentation)
 
 ---
 

@@ -166,7 +166,7 @@ The document shows a "Call Option" mechanism where the Company can acquire "Opti
 
 1. **Three-Year Payout Schedule** (per user knowledge):
    - The amounts are **NOT cumulative** but represent the total outstanding amount at each date
-   - **May 2026:** R18,685,000 (if called in year 1)
+   - **May 2026:** R18.75M (Ketoni debt to FFT) (if called in year 1)
    - **May 2027:** R23,165,000 (if called in year 2)
    - **May 2029:** R28,730,000 (if called in year 3)
 
@@ -176,7 +176,7 @@ The document shows a "Call Option" mechanism where the Company can acquire "Opti
    - Payment increases over time (incentive to delay)
 
 3. **Timeline Correlation:**
-   - This document relates to **SF1 (Bantjies Debt Documentation)**
+   - This document relates to **SF1 - Ketoni R18.75M Payout Documentation Documentation)**
    - Explains the payment schedule for Bantjies' exit from the investment
    - May be relevant to financial manipulation claims
 
@@ -192,7 +192,7 @@ The document shows a "Call Option" mechanism where the Company can acquire "Opti
   - Legitimate business obligations
   - Financial pressure on entities
   - Context for fund movements
-- Corroborates SF1 (Bantjies Debt Documentation)
+- Corroborates SF1 - Ketoni R18.75M Payout Documentation Documentation)
 
 **Proposed Annexure:** **SF1A** (Bantjies Investment - Call Option Agreement Excerpt)
 

@@ -244,7 +244,7 @@ This report documents the comprehensive analysis and refinement of the revstream
 1. **Bantjies Debt Evidence**
    - Added direct link to call option agreement
    - Established clear financial motive for curatorship conspiracy
-   - R18.685M debt obligation documented
+   - R18.75M (Ketoni debt to FFT) debt obligation documented
 
 2. **Fabricated Accounts Evidence**
    - Direct link to fabricated 2019 financial statements

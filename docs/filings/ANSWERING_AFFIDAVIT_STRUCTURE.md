@@ -101,7 +101,7 @@ On 6 June 2025, Daniel Faucitt submitted a comprehensive fraud report to Danie B
 
 **Para 13: Sequence 3 - Villa Via Exposure and Audit Blocking**
 
-In early June 2025, Daniel Faucitt exposed evidence of systematic profit extraction by Villa Via (Pty) Ltd from the group of companies. The evidence revealed that Villa Via had extracted R22,800,000 in capital over the relevant period, primarily through inflated rent charges (86% profit margin on rent). Daniel proposed a forensic audit to investigate these irregularities. Five days after this proposal, Danie Bantjies dismissed the need for a forensic audit and blocked any further investigation. This temporal proximity, combined with Bantjies' undisclosed conflict of interest (he owed R18,685,000 to the Faucitt Family Trust), demonstrates that the blocking of the audit was motivated by a desire to conceal misconduct, not by legitimate business considerations.
+In early June 2025, Daniel Faucitt exposed evidence of systematic profit extraction by Villa Via (Pty) Ltd from the group of companies. The evidence revealed that Villa Via had extracted R22,800,000 in capital over the relevant period, primarily through inflated rent charges (86% profit margin on rent). Daniel proposed a forensic audit to investigate these irregularities. Five days after this proposal, Danie Bantjies dismissed the need for a forensic audit and blocked any further investigation. This temporal proximity, combined with Bantjies' undisclosed conflict of interest (he owed R18.75M (Ketoni debt to FFT) to the Faucitt Family Trust), demonstrates that the blocking of the audit was motivated by a desire to conceal misconduct, not by legitimate business considerations.
 
 **Evidence Reference:** Villa Via financial analysis; Rent profit margin calculations; Event EVENT_025 (audit proposal); Event EVENT_026 (audit blocking); Bantjies debt documentation (REL_DEBT_002)
 
@@ -207,13 +207,13 @@ Section 162 of the Companies Act provides for a declaration of delinquency where
 
 **Para 26: Breach of Utmost Good Faith**
 
-The Trust Property Control Act and common law impose on trustees a duty of utmost good faith (*uberrima fides*). This duty requires trustees to act with complete honesty and transparency in all dealings affecting the trust. The evidence demonstrates systematic breaches of this duty. Danie Bantjies concealed his trustee status from beneficiaries and co-directors. The Applicant and Bantjies concealed the R18,685,000 debt owed by Bantjies to the trust, creating a massive conflict of interest. The trustees failed to disclose the profit extraction scheme operated through Villa Via. These omissions and concealments constitute breaches of the duty of utmost good faith.
+The Trust Property Control Act and common law impose on trustees a duty of utmost good faith (*uberrima fides*). This duty requires trustees to act with complete honesty and transparency in all dealings affecting the trust. The evidence demonstrates systematic breaches of this duty. Danie Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT). The trustees failed to disclose the profit extraction scheme operated through Villa Via. These omissions and concealments constitute breaches of the duty of utmost good faith.
 
 **Evidence Reference:** Trust Property Control Act; Common law fiduciary duties; Bantjies debt documentation (REL_DEBT_002); Villa Via profit extraction analysis
 
 **Para 27: Conflict of Interest**
 
-Trustees have a duty to avoid conflicts of interest, or where conflicts are unavoidable, to disclose them fully and recuse themselves from affected decisions. Danie Bantjies owed R18,685,000 to the Faucitt Family Trust. This debt created a direct financial incentive for Bantjies to block investigations, conceal misconduct, and prevent beneficiaries from demanding accountability. Despite this obvious conflict, Bantjies did not disclose the debt, did not recuse himself from decisions affecting the trust, and actively participated in blocking the forensic audit that would have revealed the debt. This conduct constitutes a clear breach of the duty to avoid conflicts of interest.
+Trustees have a duty to avoid conflicts of interest, or where conflicts are unavoidable, to disclose them fully and recuse themselves from affected decisions. Danie Bantjies owed R18.75M Ketoni debt to FFT (Bantjies conflict as George Group CFO). This conduct constitutes a clear breach of the duty to avoid conflicts of interest.
 
 **Evidence Reference:** Conflict of interest documentation; Bantjies debt records; Audit blocking correspondence
 
@@ -302,7 +302,7 @@ The Respondents respectfully pray for the following relief:
 **Annexure AE:** Shopify Platform Ownership Evidence  
 **Annexure AF:** RegimA Zone UK Bank Statements (Shopify Payments)  
 **Annexure AG:** Retaliatory Sequence Documentation (4 Sequences)  
-**Annexure AH:** Bantjies Debt Documentation (R18,685,000)  
+**Annexure AH:** Ketoni R18.75M debt to FFT (Bantjies conflict as George Group CFO),000)  
 **Annexure AI:** Villa Via Profit Extraction Analysis (R22,800,000)  
 **Annexure AJ:** Email Correspondence (Rynette/Bantjies Control)  
 **Annexure AK:** Sage Screenshots (Email Control Evidence)  

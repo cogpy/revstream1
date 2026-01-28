@@ -156,7 +156,7 @@ The relations model (v31) contains **70 relations** across multiple categories:
 | JF16-DISTRIBUTORS | 28 | CIPC records for distributor network |
 
 **Supplementary Filings:**
-- SF1: Bantjies Debt Documentation
+- SF1 - Ketoni R18.75M Payout Documentation Documentation
 - SF2: Sage Screenshots - Rynette Control
 - SF3: Strategic Logistics Stock Adjustment
 - SF4: SARS Audit Email

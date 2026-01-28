@@ -370,7 +370,7 @@
           "audit_dismissal_2025_06_10"
         ],
         "pattern": "systematic_coordination",
-        "motive": "R18,685,000_debt_concealment",
+        "motive": "R18.75M (Ketoni debt to FFT)_debt_concealment",
         "evidence_verified": "2025-12-14T05:36:53.168390",
         "ad_res_j7_evidence": [
           "SF2_Sage_Screenshots_Rynette_Control.md",
@@ -869,7 +869,7 @@
         "relation_type": "debtor_to_trust",
         "source_entity": "PERSON_007",
         "target_entity": "TRUST_001",
-        "debt_amount": "R18,685,000",
+        "debt_amount": "R18.75M (Ketoni debt to FFT)",
         "legal_status": "massive_conflict_of_interest",
         "evidence": [
           "trust_financial_statements",
@@ -1093,7 +1093,7 @@
           "financial_documents"
         ],
         "conflict_of_interest": {
-          "debt_to_trust": "R18,685,000",
+          "ketoni_payout_to_fft": "R18.75M",
           "roles": [
             "trustee",
             "debtor",

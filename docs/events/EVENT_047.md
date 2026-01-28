@@ -32,7 +32,7 @@
   ],
   "evidence_enhanced": "2025-12-22T05:40:58.380392",
   "ad_res_j7_evidence": [
-    "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+    "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
     "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
   ],
   "phase": "PHASE_3",
@@ -40,7 +40,7 @@
     "ANNEXURES/JF05 - Correspondence evidence",
     "ANNEXURES/JF03 - Financial records and analysis",
     "ANNEXURES/JF08 - Evidence packages",
-    "SF1_Bantjies_Debt_Documentation.md"
+    "SF1_Ketoni_Debt_FFT_Documentation.md"
   ],
   "criminal_significance": true,
   "burden_of_proof": "criminal_95",

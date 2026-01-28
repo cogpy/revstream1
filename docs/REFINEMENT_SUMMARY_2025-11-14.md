@@ -105,7 +105,7 @@ This document summarizes the comprehensive analysis and refinement of the revstr
 - Primary: PERSON_001 ↔ PERSON_002 (8 shared events)
 - Family: PERSON_002 ↔ PERSON_003 (mother-son collusion)
 - Professional: PERSON_007 ↔ PERSON_001 (accounting fraud concealment)
-- Motive: PERSON_007 debt to TRUST_001 (R18.685M conflict of interest)
+- Motive: PERSON_007 debt to TRUST_001 (R18.75M (Ketoni debt to FFT) conflict of interest)
 
 ### Relation Analysis
 

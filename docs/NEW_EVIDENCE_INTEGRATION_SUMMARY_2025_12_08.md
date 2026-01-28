@@ -96,7 +96,7 @@ This integration adds **four critical new evidence files** to the revstream1 rep
 #### What It Shows
 - Call Option agreement for Danie Bantjies' investment
 - Three-year payout schedule with escalating amounts:
-  - **Year 1 (May 2026):** R18,685,000 (R3,737 per share)
+  - **Year 1 (May 2026):** R18.75M (Ketoni debt to FFT) (R3,737 per share)
   - **Year 2 (May 2027):** R23,165,000 (R4,633 per share)
   - **Year 3 (May 2029):** R28,730,000 (R5,746 per share)
 
@@ -111,7 +111,7 @@ This integration adds **four critical new evidence files** to the revstream1 rep
 - Explains payment schedule for Bantjies
 - May explain fund movements related to Bantjies payments
 - Provides defense against claims of misappropriation (legitimate obligations)
-- Corroborates SF1 (Bantjies Debt Documentation)
+- Corroborates SF1 - Ketoni R18.75M Payout Documentation Documentation)
 
 ---
 
@@ -212,7 +212,7 @@ This integration adds **four critical new evidence files** to the revstream1 rep
 | **2025-07-23** | Sage Subscription Expired | SF2B | Rynette identified as subscription owner |
 | **2025-08-25** | Sage Expiry Screenshot | SF2B | Over 1 month without access |
 | **2025-10-23** | Attorney Letter to KEIRO | SF9 | Legal correspondence re payment |
-| **2026-05 to 2027-04** | Bantjies Call Option Year 1 | SF1A | R18,685,000 payment window |
+| **2026-05 to 2027-04** | Bantjies Call Option Year 1 | SF1A | R18.75M (Ketoni debt to FFT) payment window |
 | **2027-05 to 2029-04** | Bantjies Call Option Year 2 | SF1A | R23,165,000 payment window |
 | **2029-05 to 2029-04** | Bantjies Call Option Year 3 | SF1A | R28,730,000 payment window |
 

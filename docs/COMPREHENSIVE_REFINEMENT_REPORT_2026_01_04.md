@@ -147,7 +147,7 @@ Based on comprehensive evidence review:
    - Multiple coordinated fund diversions
 
 2. **Danie Bantjies** upgraded to "conclusive" based on:
-   - SF1 debt documentation (R18.685M)
+   - SF1 debt documentation (R18.75M (Ketoni debt to FFT))
    - Trial balance distribution evidence
    - SARS audit payment instructions (SF4)
    - Commissioner of oaths misconduct

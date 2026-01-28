@@ -322,7 +322,7 @@ For comprehensive supporting documentation, see the [ad-res-j7 repository](https
 
 The following new evidence has been identified and cross-referenced, strengthening the application:
 
-- **SF1: Bantjies Debt Documentation:** Documents the fraudulent R18.68M debt structure.
+- **SF1 - Ketoni R18.75M Payout Documentation structure.
 - **SF2: Rynette Sage Control:** Shows Rynette Farrar's administrative control over the accounting system.
 - **SF4: SARS Audit Email:** Indicates official regulatory scrutiny of the companies' tax affairs.
 - **SF5: Adderory Registration:** Shows the creation of a new entity for potential revenue manipulation.
@@ -333,14 +333,14 @@ These new evidence points significantly strengthen the case for financial fraud,
 
 ## New Evidence - Bantjies Conflict of Interest (2025-12-19)
 
-### SF1: Bantjies Debt Documentation (R18.685M)
+### SF1 - Ketoni R18.75M Payout Documentation Documentation (R18.75M (Ketoni debt to FFT))
 
 **Evidence Type:** Documentary, financial records  
 **Burden of Proof:** Civil HIGH, Criminal MEDIUM
 
 **Key Findings:**
 
-1. **R18,685,000 Debt:** Bantjies owes R18,685,000 to the Faucitt Family Trust
+1. **R18.75M (Ketoni debt to FFT) Debt:** Ketoni owes R18.75M to FFT (Bantjies has conflict as George Group CFO) to the Faucitt Family Trust
 2. **Undisclosed Trustee:** Bantjies was appointed trustee in July 2024 but never disclosed this status
 3. **Triple Conflict:** Bantjies simultaneously held three incompatible positions:
    - Trustee (fiduciary duty to trust)
@@ -364,7 +364,7 @@ These new evidence points significantly strengthen the case for financial fraud,
 
 **Impact on Civil Application:**
 
-This evidence demonstrates clear motive for the entire obstruction pattern. Bantjies had R18,685,000 reasons to:
+This evidence demonstrates clear motive for the entire obstruction pattern. Bantjies had R18.75M (Ketoni debt to FFT) reasons to:
 - Dismiss Daniel's legitimate audit request
 - Support Peter's interdict application
 - Certify affidavit with material omissions
@@ -373,7 +373,7 @@ This evidence demonstrates clear motive for the entire obstruction pattern. Bant
 The interdict application may be voidable due to material non-disclosure of Bantjies's trustee status and debt.
 
 **Cross-References:**
-- [SF1 Full Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Bantjies_Debt_Documentation.md)
+- [SF1 Full Documentation](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md)
 - [EVENT_086: Daniel reports to Bantjies](events/EVENT_086.html)
 - [EVENT_087: Bantjies dismisses audit](events/EVENT_087.html)
 - [EVENT_088: Bantjies certifies affidavit](events/EVENT_088.html)
@@ -388,7 +388,7 @@ The interdict application may be voidable due to material non-disclosure of Bant
 ### Evidence Strengthening Civil Action
 
 
-#### SF1: Bantjies R18.685M Debt
+#### SF1 - Ketoni R18.75M Payout Documentation
 - **Relevance**: Establishes motive and conflict of interest
 - **Burden of Proof**: Civil (HIGH)
 - **Impact**: Strengthens claims of conspiracy and obstruction

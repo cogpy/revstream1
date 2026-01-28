@@ -185,7 +185,7 @@ Coordinated actions across multiple family members:
 - Peter Faucitt (primary perpetrator)
 - Rynette Farrar (co-conspirator)
 - Addarory (domain registration fraud)
-- Danie Bantjies (accountant with R18.685M conflict)
+- Danie Bantjies (accountant with R18.75M (Ketoni debt to FFT) conflict)
 
 ---
 

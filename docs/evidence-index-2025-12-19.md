@@ -12,14 +12,14 @@ This index provides direct links to all evidence files analyzed in the 2025-12-1
 
 ## SF Evidence Files (ad-res-j7/ANNEXURES)
 
-### SF1: Bantjies Debt Documentation (R18.685M)
+### SF1 - Ketoni R18.75M Payout Documentation Documentation (R18.75M (Ketoni debt to FFT))
 
-**File**: `ANNEXURES/SF1_Bantjies_Debt_Documentation.md`  
-**Subject**: Bantjies's R18,685,000 debt to Faucitt Family Trust  
+**File**: `ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md`  
+**Subject**: Ketoni's R18.75M debt to FFT to Faucitt Family Trust  
 **Burden of Proof**: Civil (HIGH), Criminal (MEDIUM)
 
 **Key Points**:
-- Documents R18.685M debt creating massive conflict of interest
+- Documents R18.75M (Ketoni debt to FFT) debt creating massive conflict of interest
 - Bantjies simultaneously: trustee + debtor + accountant
 - Provides motive to dismiss audit requests and prevent fraud discovery
 - Explains obstruction pattern (June 10, 2025 audit dismissal)
@@ -186,7 +186,7 @@ This index provides direct links to all evidence files analyzed in the 2025-12-1
 ## New Relations (2025-12-19)
 
 ### REL_023: Bantjies → Faucitt Family Trust (DEBT)
-- **Amount**: R18,685,000.00
+- **Amount**: R18.75M (Ketoni debt to FFT).00
 - **Evidence**: SF1
 - **Type**: Documentary
 - **Burden of Proof**: Civil (HIGH), Criminal (MEDIUM)
@@ -228,9 +228,9 @@ This index provides direct links to all evidence files analyzed in the 2025-12-1
 - **Burden of Proof**: Civil (HIGH), Criminal (N/A)
 - **Significance**: HIGH - Independent verification
 
-### EVENT_089: Bantjies R18.685M Debt (2020-02-28)
+### EVENT_089: Bantjies R18.75M (Ketoni debt to FFT) Debt (2020-02-28)
 - **Category**: Accounting fraud / Conflict of interest
-- **Financial Impact**: R18,685,000.00
+- **Financial Impact**: R18.75M (Ketoni debt to FFT).00
 - **Burden of Proof**: Civil (HIGH), Criminal (MEDIUM)
 - **Significance**: CRITICAL - Motive established
 
@@ -250,7 +250,7 @@ This index provides direct links to all evidence files analyzed in the 2025-12-1
 ### Civil Standard (50% - Balance of Probabilities)
 
 **Evidence Meeting Standard**: 7 items
-- SF1: Bantjies debt (HIGH)
+- SF1 - Ketoni R18.75M Payout Documentation (HIGH)
 - SF2: Rynette system control (HIGH)
 - SF4: SARS audit (HIGH)
 - SF7: Court order (HIGH)

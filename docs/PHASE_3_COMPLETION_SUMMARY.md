@@ -114,7 +114,7 @@ Phase 3 has successfully implemented a comprehensive structured financial impact
 |------|----------|--------|-------|
 | 1 | EVENT_H007 | R22,800,000.00 | Villa Via Year-End Profit Extraction |
 | 2 | EVENT_H014 | R22,800,000.00 | Villa Via Capital Extraction |
-| 3 | EVENT_026 | R18,685,000.00 | Bantjies Dismisses Audit Request |
+| 3 | EVENT_026 | R18.75M (Ketoni debt to FFT).00 | Bantjies Dismisses Audit Request |
 | 4 | EVENT_024 | R5,400,000.00 | R5.4M Stock Disappears from Strategic Logistics |
 | 5 | EVENT_025 | R5,400,000.00 | R5.4M Stock Adjustment Processed Without Evidence |
 | 6 | EVENT_028 | R5,200,000.00 | R5.2M SLG Stock Missing & Large Invoice |

@@ -11,7 +11,7 @@
 - **2020-02-20**: [EVENT_051](./EVENT_051.md)
 - **2020-02-28**: [Year-End Adjustments and Interest Payment](./EVENT_H006.md)
 - **2020-02-28**: [EVENT_052](./EVENT_052.md)
-- **2020-02-28**: [Bantjies R18.685M Debt to Faucitt Family Trust](./EVENT_089.md)
+- **2020-02-28**: [Bantjies R18.75M (Ketoni debt to FFT) Debt to Faucitt Family Trust](./EVENT_089.md)
 - **2020-04-30**: [Villa Via Year-End Profit Extraction](./EVENT_H007.md)
 - **2020-04-30**: [EVENT_053](./EVENT_053.md)
 - **2020-08-13**: [Bantjies Trial Balance Email Distribution](./EVENT_H008.md)
