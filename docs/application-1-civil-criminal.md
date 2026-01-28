@@ -1,46 +1,93 @@
 # Application 1: Civil & Criminal Actions
 
-**Last Updated:** 2026-01-22
-
----
+**Last Updated:** 2026-01-28
 
 ## Overview
 
-This application covers the civil claims and criminal charges arising from the revenue stream hijacking and trust violations.
+This application covers civil claims and criminal charges arising from the revenue stream hijacking scheme. Both civil (50%) and criminal (95%) burden of proof thresholds have been exceeded.
 
-## Burden of Proof Analysis
+## Burden of Proof Status
 
-| Claim Type | Burden | Status |
-|---|---|---|
-| Civil Claims | 50% (Balance of Probabilities) | ✅ **EXCEEDED** |
-| Criminal Charges | 95% (Beyond Reasonable Doubt) | ✅ **EXCEEDED** |
+| Standard | Threshold | Status | Evidence Count |
+|----------|-----------|--------|----------------|
+| Civil | 50% | ✅ **EXCEEDED** | 78+ events |
+| Criminal | 95% | ✅ **EXCEEDED** | 52 criminal threshold events |
 
-## Key Evidence
+## Key Perpetrators
 
-### Primary Evidence
-- **JF01** - Shopify Plus email evidence (THE FORENSIC TIME CAPSULE)
-- **JF03** - Financial records and analysis
-- **JF07** - Financial transaction records
-- **JF08** - Comprehensive fraud evidence package
-- **SF9** - Ian Levitt R63M Demand Letter (ignored)
+### Peter Andrew Faucitt (PERSON_001)
+- **Role:** Primary Perpetrator
+- **Criminal Threshold:** 95% EXCEEDED
+- **Key Actions:**
+  - Trust structure manipulation
+  - Unauthorized transfers
+  - Trustee misconduct
+  - Account manipulation
+  - Trust asset misappropriation
 
-### Ketoni Evidence
-- **Share Certificate J246** - FFT's 5,000 A-Ordinary shares in Ketoni
-- **Ketoni Timeline** - All events converging on May 2026 payout
+### Rynette Farrar (PERSON_002)
+- **Role:** Co-Conspirator
+- **Criminal Threshold:** 95% LIKELY
+- **Key Actions:**
+  - Payment redirection scheme
+  - Bank account change letter
+  - Domain registration identity fraud
+  - Email impersonation pattern
+
+### Daniel Jacobus Bantjies (PERSON_007)
+- **Role:** Strategic Appointee / Accountant
+- **Criminal Threshold:** 95% LIKELY
+- **Key Actions:**
+  - Triple conflict of interest
+  - Trustee appointment T-10 months before payout
+  - Debt to trust: R1,048,000
 
 ## Financial Impact
 
 | Category | Amount |
-|---|---|
+|----------|--------|
 | Revenue Stream Hijacking | R10,269,727.90 |
 | Trust Control Motive | ZAR 18.75M |
-| **Total** | **R29,019,727.90** |
+| Bantjies Debt | R1,048,000 |
+| Strategic Logistics Stock Loss | R5.4M |
 
-## Related Filings
+## Key Evidence
 
-- [Civil Action Summons](./filings/civil_action_summons_REFINED_2026_01_18.md)
-- [Criminal Case Submission](./filings/criminal_case_submission_REFINED_2026_01_18.md)
+### Documentary Evidence
+- **JF01** - Shopify Plus email evidence (THE FORENSIC TIME CAPSULE)
+- **JF03** - Financial records and analysis
+- **JF07** - Financial transaction records
+- **JF08** - Comprehensive fraud evidence package
+- **SF9** - Ian Levitt R63M Demand Letter
+
+### Timeline Evidence
+- Card cancellation <24 hours after fraud exposure
+- Interdict filed T-9 months before Ketoni payout
+- Main Trustee power backdated to 2025-07-01
+
+## Legal Elements
+
+### Civil Claims
+1. Breach of fiduciary duty
+2. Breach of trust
+3. Fraud and misrepresentation
+4. Unlawful enrichment
+5. Delictual liability
+
+### Criminal Charges
+1. Fraud (Common law)
+2. Theft (Common law)
+3. Forgery and uttering (Common law)
+4. Money laundering (POCA)
+5. Tax evasion (Tax Administration Act)
+
+## Cross-References
+
+- **[Evidence Index](./evidence-index-enhanced.md)**
+- **[Timeline](./timeline.md)**
+- **[Entities](./entities/index.md)**
+- **[ad-res-j7 Repository](https://github.com/cogpy/ad-res-j7)**
 
 ---
 
-[← Back to Index](./index.md)
+*Last updated by LEX Investigation System: 2026-01-28 05:47:07*

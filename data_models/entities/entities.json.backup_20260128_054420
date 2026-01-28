@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "36.0_COMPREHENSIVE_REFINED_2026_01_28",
+    "version": "34.0_FINAL_REFINED_2026_01_22",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-28T05:45:17.386844",
-    "changes": "Comprehensive LEX refinement - burden of proof analysis added",
+    "last_updated": "2026-01-22T02:13:52.476368",
+    "changes": "Audit-based refinement: fixed duplicates, added missing entities, normalized references",
     "total_entities": 86,
     "total_persons": 36,
     "total_organizations": 50
@@ -106,7 +106,7 @@
             "medical_testing_rushed_for_curatorship"
           ]
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-01-22T00:05:42.130025",
         "burden_of_proof_analysis": {
           "civil_50%": "EXCEEDED - Multiple documentary evidence",
           "criminal_95%": "EXCEEDED - Pattern of coordinated fraud",
@@ -217,7 +217,7 @@
           "significance": "Establishes financial access 5 years before 2025 fraud",
           "continuity_to_2025": "Same person led May 2025 cover-up - VERIFIED"
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-01-22T00:05:42.130025",
         "burden_of_proof_analysis": {
           "civil_50%": "EXCEEDED - Sage control evidence, email access",
           "criminal_95%": "EXCEEDED - Payment redirection, identity fraud",
@@ -275,14 +275,7 @@
           },
           "result": "Cannot oppose Peter's payout decisions as neutralized trustee",
           "threat_to_peter": "Could protect beneficiaries' interests including Dan's share"
-        },
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844",
-        "timeline_events": []
+        }
       },
       {
         "entity_id": "PERSON_005",
@@ -342,14 +335,7 @@
             "no_medical_basis_for_testing",
             "competence_demonstrated_by_fraud_analysis"
           ]
-        },
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844",
-        "timeline_events": []
+        }
       },
       {
         "entity_id": "PERSON_006",
@@ -374,14 +360,7 @@
           "SF8 - Linda Employment Records",
           "Employment documentation"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285099",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844",
-        "timeline_events": []
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285099"
       },
       {
         "entity_id": "PERSON_007",
@@ -486,7 +465,7 @@
           "george_group_connection": "CFO at The George Group where Kevin Derrick (Ketoni Director) is also director",
           "trustee_conflict": "Controls distribution of ZAR 18.75M payout as Trustee while connected to Ketoni Director"
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-01-22T00:05:42.130025",
         "burden_of_proof_analysis": {
           "civil_50%": "EXCEEDED - Trustee appointment, debt to trust",
           "criminal_95%": "LIKELY - Conflict of interest, false affidavit",
@@ -534,13 +513,7 @@
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077463",
         "evidence_strength": "strong",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285103",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285103"
       },
       {
         "entity_id": "PERSON_009",
@@ -571,13 +544,7 @@
         ],
         "evidence_enhanced": "2026-01-09T05:36:07.294947",
         "evidence_strength": "strong",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285109",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285109"
       },
       {
         "entity_id": "PERSON_010",
@@ -623,13 +590,7 @@
             "Subpoena for testimony regarding financial structures"
           ]
         },
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285111",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285111"
       },
       {
         "entity_id": "PERSON_003",
@@ -678,13 +639,7 @@
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077477",
         "evidence_strength": "strong",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285113",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285113"
       },
       {
         "entity_id": "PERSON_011",
@@ -716,13 +671,7 @@
         ],
         "evidence_enhanced": "2026-01-09T05:36:07.294960",
         "evidence_strength": "strong",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285115",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285115"
       },
       {
         "entity_id": "PERSON_012",
@@ -755,13 +704,7 @@
         ],
         "evidence_enhanced": "2026-01-09T05:36:07.294964",
         "evidence_strength": "strong",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285117",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285117"
       },
       {
         "entity_id": "PERSON_039",
@@ -789,14 +732,7 @@
         "evidence_enhanced": "2026-01-09T05:36:07.294990",
         "evidence_strength": "strong",
         "involvement_events": 0,
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285118",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844",
-        "timeline_events": []
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285118"
       },
       {
         "entity_id": "PERSON_013",
@@ -834,13 +770,7 @@
           "civil": "HIGH",
           "criminal": "MEDIUM"
         },
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285120",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285120"
       },
       {
         "entity_id": "PERSON_015",
@@ -876,14 +806,7 @@
           "marital_status": "UNMARRIED"
         },
         "added_date": "2026-01-09T06:56:17.171814",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285121",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844",
-        "timeline_events": []
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285121"
       },
       {
         "entity_id": "PERSON_016",
@@ -911,14 +834,7 @@
         "evidence_strength": "moderate",
         "source_document": "CIPC WinDeed 2021-11-19",
         "added_date": "2026-01-09T06:56:17.171814",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285123",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844",
-        "timeline_events": []
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285123"
       },
       {
         "entity_id": "PERSON_017",
@@ -943,14 +859,7 @@
         "evidence_strength": "moderate",
         "source_document": "CIPC WinDeed 2021-11-19",
         "added_date": "2026-01-09T06:56:17.171814",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285125",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844",
-        "timeline_events": []
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285125"
       },
       {
         "entity_id": "PERSON_018",
@@ -970,14 +879,7 @@
         "source_document": "CIPC WinDeed 2021-11-19",
         "added_date": "2026-01-09T06:56:17.171814",
         "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285128",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844",
-        "timeline_events": []
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285128"
       },
       {
         "entity_id": "PERSON_019",
@@ -997,14 +899,7 @@
         "source_document": "CIPC WinDeed 2021-11-19",
         "added_date": "2026-01-09T06:56:17.171814",
         "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285129",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844",
-        "timeline_events": []
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285129"
       },
       {
         "entity_id": "PERSON_020",
@@ -1024,14 +919,7 @@
         "source_document": "CIPC WinDeed 2021-11-19",
         "added_date": "2026-01-09T06:56:17.171814",
         "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285131",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844",
-        "timeline_events": []
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285131"
       },
       {
         "entity_id": "PERSON_021",
@@ -1053,14 +941,7 @@
         "source_document": "CIPC WinDeed 2021-11-19",
         "added_date": "2026-01-09T06:56:17.171814",
         "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285133",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844",
-        "timeline_events": []
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285133"
       },
       {
         "entity_id": "PERSON_022",
@@ -1082,14 +963,7 @@
         "source_document": "CIPC WinDeed 2021-11-19",
         "added_date": "2026-01-09T06:56:17.171814",
         "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285135",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844",
-        "timeline_events": []
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285135"
       },
       {
         "entity_id": "PERSON_023",
@@ -1109,14 +983,7 @@
         "notes": "Shelf company director - initial director of Rezonance and RegimA Medic before transfer to Faucitts",
         "evidence": [],
         "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285137",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "refinement_date": "2026-01-28T05:45:17.386844",
-        "timeline_events": []
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285137"
       },
       {
         "entity_id": "PERSON_025",
@@ -1135,14 +1002,7 @@
         "notes": "Director of RegimA Medic",
         "evidence": [],
         "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285141",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285141"
       },
       {
         "entity_id": "PERSON_026",
@@ -1159,14 +1019,7 @@
         "notes": "Spouse of Martin Carlo Rizzotto, married out of community of property",
         "evidence": [],
         "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285143",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285143"
       },
       {
         "entity_id": "PERSON_027",
@@ -1185,14 +1038,7 @@
         "notes": "Accounting Officer for multiple Louw companies - profession number 947660",
         "evidence": [],
         "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285147",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285147"
       },
       {
         "entity_id": "PERSON_29",
@@ -1220,14 +1066,7 @@
         ],
         "involvement_events": 0,
         "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285153",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285153"
       },
       {
         "entity_id": "PERSON_30",
@@ -1251,14 +1090,7 @@
         ],
         "involvement_events": 0,
         "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285155",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285155"
       },
       {
         "entity_id": "PERSON_31",
@@ -1292,14 +1124,7 @@
         ],
         "involvement_events": 0,
         "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285156",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285156"
       },
       {
         "entity_id": "PERSON_32",
@@ -1323,14 +1148,7 @@
         ],
         "involvement_events": 0,
         "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285158",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285158"
       },
       {
         "entity_id": "PERSON_33",
@@ -1353,14 +1171,7 @@
         ],
         "involvement_events": 0,
         "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285160",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285160"
       },
       {
         "entity_id": "PERSON_34",
@@ -1384,14 +1195,7 @@
         ],
         "involvement_events": 0,
         "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285162",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285162"
       },
       {
         "entity_id": "PERSON_35",
@@ -1413,14 +1217,7 @@
         ],
         "involvement_events": 0,
         "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285163",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285163"
       },
       {
         "entity_id": "PERSON_36",
@@ -1444,14 +1241,7 @@
         ],
         "involvement_events": 0,
         "ad_res_j7_references": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285165",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285165"
       },
       {
         "entity_id": "PERSON_DERRICK_001",
@@ -1475,14 +1265,7 @@
           "lex/agent_based_model_v48_ketoni_integrated.scm"
         ],
         "evidence": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285167",
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285167"
       },
       {
         "entity_id": "PERSON_TB_002",
@@ -1531,14 +1314,7 @@
         },
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285168",
         "involvement_events": 1,
-        "ad_res_j7_references": [],
-        "burden_of_proof_analysis": {
-          "civil_50%": "PENDING_REVIEW",
-          "criminal_95%": "PENDING_REVIEW",
-          "key_evidence": []
-        },
-        "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "ad_res_j7_references": []
       }
     ],
     "organizations": [
@@ -1581,9 +1357,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF08/evidence_package_20251012"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285170",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285170"
       },
       {
         "entity_id": "ORG_002",
@@ -1613,9 +1387,7 @@
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077491",
         "evidence_strength": "strong",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285172",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285172"
       },
       {
         "entity_id": "ORG_003",
@@ -1661,9 +1433,7 @@
         "evidence_enhanced": "2025-12-28T05:36:36.077493",
         "evidence_strength": "strong",
         "financial_impact_detail": "R140,000-R280,000 (28 months Shopify payments)",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285174",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285174"
       },
       {
         "entity_id": "ORG_004",
@@ -1707,9 +1477,7 @@
           "ANNEXURES/JF02 - Shopify sales reports"
         ],
         "evidence_strength": "strong",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285178",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285178"
       },
       {
         "entity_id": "ORG_005",
@@ -1753,9 +1521,7 @@
           "ANNEXURES/JF04 - CIPC registration documents"
         ],
         "evidence_strength": "strong",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285179",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285179"
       },
       {
         "entity_id": "ORG_006",
@@ -1781,9 +1547,7 @@
           "SF2 - Sage system evidence"
         ],
         "evidence_strength": "strong",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285181",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285181"
       },
       {
         "entity_id": "ORG_008",
@@ -1869,9 +1633,7 @@
           "ANNEXURES/JF03 - Financial transaction records",
           "ANNEXURES/JF08/evidence_package_20251012"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285182",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285182"
       },
       {
         "entity_id": "ORG_009",
@@ -1929,9 +1691,7 @@
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
         "evidence_strength": "strong",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285184",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285184"
       },
       {
         "entity_id": "ORG_010",
@@ -1978,9 +1738,7 @@
           "ANNEXURES/JF04 - CIPC registration documents"
         ],
         "evidence_strength": "moderate",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285185",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285185"
       },
       {
         "entity_id": "ORG_012",
@@ -2030,8 +1788,7 @@
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
         "evidence_strength": "moderate",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285187",
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285187"
       },
       {
         "entity_id": "ORG_013",
@@ -2067,9 +1824,7 @@
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
         "evidence_strength": "moderate",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285188",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285188"
       },
       {
         "entity_id": "ORG_014",
@@ -2094,9 +1849,7 @@
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
         "evidence_strength": "moderate",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285189",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285189"
       },
       {
         "entity_id": "ORG_015",
@@ -2129,9 +1882,7 @@
           "criminal": "N/A"
         },
         "additional_notes": "Official regulatory scrutiny provides independent third-party verification of financial irregularities; tax fraud carries criminal penalties",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285191",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285191"
       },
       {
         "entity_id": "ORG_007",
@@ -2166,9 +1917,7 @@
         "evidence_strength": "moderate",
         "significance": "Establishes quantum and demonstrates ignored formal demand",
         "evidence_enhanced": "2025-12-28T05:36:36.077520",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285193",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285193"
       },
       {
         "entity_id": "ORG_042",
@@ -2197,8 +1946,7 @@
         "source_document": "CIPC WinDeed 2021-11-19",
         "connection_to_case": "Directors use PO Box 9477 Edenglen - same as Faucitt companies",
         "added_date": "2026-01-09T06:56:17.171814",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285194",
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285194"
       },
       {
         "entity_id": "ORG_016",
@@ -2223,8 +1971,7 @@
         "evidence_strength": "moderate",
         "source_document": "CIPC WinDeed 2021-11-19",
         "added_date": "2026-01-09T06:56:17.171814",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285196",
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285196"
       },
       {
         "entity_id": "ORG_017",
@@ -2253,8 +2000,7 @@
         "evidence_strength": "moderate",
         "source_document": "CIPC WinDeed 2021-11-19",
         "added_date": "2026-01-09T06:56:17.171814",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285197",
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285197"
       },
       {
         "entity_id": "ORG_018",
@@ -2289,9 +2035,7 @@
         "evidence_strength": "moderate",
         "source_document": "CIPC WinDeed 2021-11-19",
         "added_date": "2026-01-09T06:56:17.171814",
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285199",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285199"
       },
       {
         "entity_id": "ORG_019",
@@ -2309,10 +2053,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285201",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285201"
       },
       {
         "entity_id": "ORG_020",
@@ -2330,10 +2071,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285203",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285203"
       },
       {
         "entity_id": "ORG_021",
@@ -2351,10 +2089,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285204",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285204"
       },
       {
         "entity_id": "ORG_022",
@@ -2372,10 +2107,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285206",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285206"
       },
       {
         "entity_id": "ORG_023",
@@ -2393,10 +2125,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285207",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285207"
       },
       {
         "entity_id": "ORG_024",
@@ -2414,10 +2143,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285209",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285209"
       },
       {
         "entity_id": "ORG_025",
@@ -2435,10 +2161,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285211",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285211"
       },
       {
         "entity_id": "ORG_026",
@@ -2456,10 +2179,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285212",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285212"
       },
       {
         "entity_id": "ORG_027",
@@ -2477,10 +2197,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285215",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285215"
       },
       {
         "entity_id": "ORG_028",
@@ -2498,10 +2215,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285217",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285217"
       },
       {
         "entity_id": "ORG_029",
@@ -2519,10 +2233,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285218",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285218"
       },
       {
         "entity_id": "ORG_030",
@@ -2540,10 +2251,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285220",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285220"
       },
       {
         "entity_id": "ORG_031",
@@ -2561,10 +2269,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285221",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285221"
       },
       {
         "entity_id": "ORG_32",
@@ -2603,9 +2308,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285223",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285223"
       },
       {
         "entity_id": "ORG_33",
@@ -2640,9 +2343,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285225",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285225"
       },
       {
         "entity_id": "ORG_34",
@@ -2678,8 +2379,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285226",
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285226"
       },
       {
         "entity_id": "ORG_35",
@@ -2711,8 +2411,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285228",
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285228"
       },
       {
         "entity_id": "ORG_36",
@@ -2751,9 +2450,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285229",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285229"
       },
       {
         "entity_id": "ORG_37",
@@ -2797,8 +2494,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285231",
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285231"
       },
       {
         "entity_id": "ORG_KETONI_001",
@@ -2830,9 +2526,7 @@
         "evidence_strength": "conclusive",
         "criminal_threshold": "95%_exceeded",
         "evidence": [],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285233",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285233"
       },
       {
         "entity_id": "ORG_TB_001",
@@ -2850,10 +2544,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285234",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285234"
       },
       {
         "entity_id": "ORG_TB_002",
@@ -2869,10 +2560,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285236",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285236"
       },
       {
         "entity_id": "ORG_TB_003",
@@ -2888,10 +2576,7 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285237",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285237"
       },
       {
         "entity_id": "PLATFORM_001",
@@ -2901,20 +2586,14 @@
         "role": "sales_platform",
         "evidence": [
           "JF01 - Shopify Plus email evidence"
-        ],
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        ]
       },
       {
         "entity_id": "DOMAIN_001",
         "name": "regima.zone Domain",
         "type": "domain",
         "description": "Legitimate RegimA domain",
-        "role": "legitimate_domain",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "role": "legitimate_domain"
       },
       {
         "entity_id": "DOMAIN_002",
@@ -2922,10 +2601,7 @@
         "type": "domain",
         "description": "Fraudulent domain registered by Adderory",
         "role": "fraudulent_domain",
-        "registration_date": "2025-05-29",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "registration_date": "2025-05-29"
       },
       {
         "entity_id": "TRUST_001",
@@ -2936,55 +2612,37 @@
         "ketoni_investment": {
           "amount": "ZAR 18.75M",
           "payout_date": "2026-05"
-        },
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        }
       },
       {
         "entity_id": "SYS_BANK_ACCOUNTS",
         "name": "Bank Accounts",
         "type": "system",
-        "description": "Banking system accounts",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "description": "Banking system accounts"
       },
       {
         "entity_id": "SYS_ACCOUNTS",
         "name": "Accounting System",
         "type": "system",
-        "description": "Financial accounting records",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "description": "Financial accounting records"
       },
       {
         "entity_id": "SYS_STOCK",
         "name": "Stock/Inventory",
         "type": "system",
-        "description": "Physical inventory and stock",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "description": "Physical inventory and stock"
       },
       {
         "entity_id": "SYS_REGIMA_GROUP",
         "name": "RegimA Group",
         "type": "system",
-        "description": "Collective RegimA company group",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "description": "Collective RegimA company group"
       },
       {
         "entity_id": "SYS_FINANCIAL_RECORDS",
         "name": "Financial Records",
         "type": "system",
-        "description": "Financial documentation",
-        "evidence_strength": "moderate",
-        "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "description": "Financial documentation"
       }
     ],
     "platforms": [

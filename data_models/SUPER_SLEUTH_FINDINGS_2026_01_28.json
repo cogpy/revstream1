@@ -1,0 +1,3332 @@
+{
+  "timestamp": "2026-01-28 05:44:20",
+  "mode": "intro_spect",
+  "pattern_discoveries": [
+    {
+      "pattern": "ketoni_timing_convergence",
+      "description": "Found 8 events related to Ketoni payout motive",
+      "significance": "high",
+      "events": [
+        "EVENT_KETONI_CERT",
+        "EVENT_KAYLA_DEATH",
+        "EVENT_BANTJIES_GEORGE",
+        "EVENT_KETONI_INCORPORATION",
+        "EVENT_FFT_KETONI_INVESTMENT",
+        "EVENT_BANTJIES_TRUSTEE_APPOINTMENT",
+        "EVENT_SETTLEMENT_SIGNED",
+        "EVENT_INTERDICT_FILED"
+      ]
+    },
+    {
+      "pattern": "card_cancellation_retaliation",
+      "description": "Found 2 card cancellation events - potential retaliation pattern",
+      "significance": "high",
+      "events": [
+        "EVENT_012",
+        "EVENT_SECRET_CARD_CANCELLATION"
+      ]
+    },
+    {
+      "pattern": "trust_manipulation_scheme",
+      "description": "Found 4 trust manipulation events",
+      "significance": "high",
+      "events": [
+        "EVENT_002",
+        "EVENT_006",
+        "EVENT_019",
+        "EVENT_SETTLEMENT_SIGNED"
+      ]
+    }
+  ],
+  "evidence_gaps": [],
+  "new_connections": [],
+  "timeline_anomalies": [
+    {
+      "date": "1982-03-26",
+      "event": "ALOECO (SA) original company registered",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "1986-03-21",
+      "event": "L'IMAGE CC registered",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "1991-11-28",
+      "event": "S A Logistic Services CC registered by Louw",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "1992-02-26",
+      "event": "RegimA Skin Treatments CC Registration",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "1992-12-15",
+      "event": "Shaneprop CC registered by Louw",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "1993-02-13",
+      "event": "Louw becomes director of ALOECO (SA) original",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "1996-10-15",
+      "event": "UFO Express CC registered",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "1997-09-02",
+      "event": "Rizzotto becomes 100% member of UFO Express",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "1998-05-20",
+      "event": "East Coast Logistics CC registered",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "1999-03-26",
+      "event": "LMS Logistic Services registered",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "1999-05-25",
+      "event": "S A Logistic Services enters liquidation",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "1999-05-25",
+      "event": "EVENT_097",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "1999-11-03",
+      "event": "AYMAC International CC Registration",
+      "issues": [
+        "missing_event_ref"
+      ]
+    },
+    {
+      "date": "2000-05-31",
+      "event": "George Endermologie Clinic CC registered in Western Cape",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2000-05-31",
+      "event": "EVENT_104",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2001-09-18",
+      "event": "Nanini 262 CC registered by Louw",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "2005-09-29",
+      "event": "Kachan Marketing and Distribution CC registered - Karen Avni",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2005-09-29",
+      "event": "EVENT_101",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2006-02-14",
+      "event": "ALOECO (SA) CC registered - Louw 51%",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "2006-02-24",
+      "event": "Jacqueline Faucitt Appointed to RegimA Skin Treatments",
+      "issues": [
+        "missing_event_ref"
+      ]
+    },
+    {
+      "date": "2006-03-16",
+      "event": "Dermal Skin Treatments Cape Town CC registered - Nortje 50%/",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2006-03-16",
+      "event": "EVENT_100",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2006-06-05",
+      "event": "Karen Avnit purchases SS Forest Lodge 173, Unit 4 for R1,100",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2007-07-17",
+      "event": "Barend Nortje appointed director of De Fay Fund Management",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2008-06-18",
+      "event": "RegimA International Skin Treatments CC established",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "2008-06-27",
+      "event": "Strategic Logistics CC Registration",
+      "issues": [
+        "missing_event_ref"
+      ]
+    },
+    {
+      "date": "2011-03-11",
+      "event": "RegimA Worldwide Distribution Registration",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2015-07-08",
+      "event": "K Rae Enterprises (later Dandelion SA) registered",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2015-07-08",
+      "event": "EVENT_102",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2016-07-05",
+      "event": "Chan\u00e9 Todd becomes director of Dandelion SA; Kirby Van Der S",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2016-07-19",
+      "event": "Jacqueline and Peter Faucitt Added to Strategic Logistics",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2017-02-22",
+      "event": "Rezonance registered (shelf company)",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "2017-02-22",
+      "event": "EVENT_092",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2017-02-24",
+      "event": "EVENT_H011",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2017-02-27",
+      "event": "RegimA Medic registered (shelf company)",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "2017-02-27",
+      "event": "EVENT_093",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2017-04-04",
+      "event": "Daniel's 2017 Company Formation Spree",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2017-04-04",
+      "event": "Daniel Faucitt & Kayla Pretorius take over Rezonance from De",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "2017-04-04",
+      "event": "EVENT_094",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2017-04-10",
+      "event": "RegimA Medic and RegimA Zone Academy Registration",
+      "issues": [
+        "missing_event_ref"
+      ]
+    },
+    {
+      "date": "2017-04-10",
+      "event": "Faucitts take over RegimA Medic from Dennis Bishop",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "2017-04-10",
+      "event": "EVENT_095",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2017-04-12",
+      "event": "RegimA SA and RegimA Zone Registration",
+      "issues": [
+        "missing_event_ref"
+      ]
+    },
+    {
+      "date": "2017-05-02",
+      "event": "RegimA SpaZone Registration",
+      "issues": [
+        "missing_event_ref"
+      ]
+    },
+    {
+      "date": "2017-06-30",
+      "event": "First ReZonance Invoice to RST",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2017-09-27",
+      "event": "Bertani International Global registered - Dante Bertani dire",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2017-09-27",
+      "event": "EVENT_103",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2017-09-30",
+      "event": "ReZonance Service Expansion",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2017-11-14",
+      "event": "Who Owns Whom Cosmetics Industry report published listing Re",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "2017-11-14",
+      "event": "EVENT_096",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2018-08-01",
+      "event": "Rizzotto joins ALOECO (SA) CC as 49% member",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "2018-08-01",
+      "event": "EVENT_098",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2019-02-28",
+      "event": "EVENT_H012",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2019-03-01",
+      "event": "Financial Year Commencement RST/SLG",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2019-05-01",
+      "event": "Financial Year Commencement Villa Via",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2019-10-22",
+      "event": "ALOECO Registration with Shared Address",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2019-10-22",
+      "event": "ALOECO (SA) CC converts to company K2019531306",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "2019-11-20",
+      "event": "Adderory Company Registration and Stock Supply Arrangement",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2019-11-22",
+      "event": "RegimA Skin Treatments CC registers R3,110,000 bond on Karen",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2019-11-22",
+      "event": "EVENT_99",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2019-12-04",
+      "event": "Marlouw Group Registration",
+      "issues": [
+        "missing_event_ref"
+      ]
+    },
+    {
+      "date": "2020-02-20",
+      "event": "Coordinated Inter-Company Cost Reallocations",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2020-02-28",
+      "event": "Year-End Inter-Company Interest and Loan Transactions",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2020-04-30",
+      "event": "Villa Via Year-End - Capital Extraction Evidence",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2020-05-07",
+      "event": "Daniel James Faucitt Added as Director to RWD",
+      "issues": [
+        "missing_event_ref"
+      ]
+    },
+    {
+      "date": "2020-07-07",
+      "event": "Peter and Jacqueline Faucitt appointed as directors of Regim",
+      "issues": [
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "2020-08-13",
+      "event": "Bantjies Sends Trial Balance Email to Bernadine Wright",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2020-08-15",
+      "event": "Rynette Farrar Demonstrates Sage System Control",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2021-03-15",
+      "event": "CIPC Annual Return Filing - Regima Worldwide Distribution",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2021-03-25",
+      "event": "Pandamania Registration",
+      "issues": [
+        "missing_event_ref"
+      ]
+    },
+    {
+      "date": "2021-04-01",
+      "event": "Adderory Companies Registration - Pre-Planning Phase",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2021-11-19",
+      "event": "CIPC WinDeed Reports Generated",
+      "issues": [
+        "missing_event_ref",
+        "missing_actors"
+      ]
+    },
+    {
+      "date": "2022-03-01",
+      "event": "ReZonance Opening Balance Debt",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2022-07-11",
+      "event": "First Structured Payment to ReZonance",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2022-07-30",
+      "event": "EVENT_067",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2023-02-20",
+      "event": "Ketoni Investment Holdings Incorporation",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2023-02-28",
+      "event": "ReZonance Final Balance Persistent Debt",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2023-03-15",
+      "event": "False Payment Claim #1 to ReZonance",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2023-04-24",
+      "event": "FFT Investment in Ketoni - ZAR 18.75M Entitlement Establishe",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2023-05-01",
+      "event": "Bantjies Joins The George Group as CFO",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2023-07-13",
+      "event": "Kayla Pretorius Murder",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2023-07-13",
+      "event": "Kayla Pretorius Death - Creditor Elimination Phase",
+      "issues": [
+        "missing_event_ref"
+      ]
+    },
+    {
+      "date": "2023-07-13",
+      "event": "Kayla Pretorius Death - 80 Days After Ketoni Investment",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2023-09-10",
+      "event": "Kayla Pretorius Estate Documentation",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2023-09-20",
+      "event": "False Payment Claim #2 to ReZonance",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2023-10-05",
+      "event": "Court Order for Kayla Pretorius Email Account Seizure",
+      "issues": [
+        "missing_actors",
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2024-02-14",
+      "event": "ReZonance Dissolution Pressure - Debt Obstacle Elimination",
+      "issues": [
+        "missing_event_ref"
+      ]
+    },
+    {
+      "date": "2024-07",
+      "event": "Bantjies Appointed FFT Trustee - Control Consolidation Phase",
+      "issues": [
+        "missing_event_ref"
+      ]
+    },
+    {
+      "date": "2024-07-01",
+      "event": "Bantjies Appointed FFT Trustee by Rynette",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-01-15",
+      "event": "Chantal Delivers Letter About Kayla Estate Finalization",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-02-14",
+      "event": "R900,000 Unauthorized Transfers from RegimA SA",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-02-25",
+      "event": "R5.2M SLG Stock Missing & Large Invoice",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-03-01",
+      "event": "R5.4M Stock Disappears from Strategic Logistics",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-03-15",
+      "event": "R5.4M Stock Adjustment Processed Without Investigation",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-03-30",
+      "event": "Two Years Unallocated Expenses Dumped",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-04-01",
+      "event": "Payment Redirection Scheme",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-04-14",
+      "event": "Rynette Bank Letter for RegimA Worldwide Diversion",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-04-22",
+      "event": "Peter Orders Cloud IT Systems Removal",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-04-30",
+      "event": "Server Missing from Office",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-05-02",
+      "event": "Unauthorized Beneficiary Changes",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-05-15",
+      "event": "Jacqui Confronts Rynette About R1,035,000 Debt",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-05-22",
+      "event": "Shopify Audit Trail Hijacking",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-05-23",
+      "event": "Orders Removed from Shopify Platform",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-05-29",
+      "event": "Adderory Registers regimaskin.co.za Domain",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-06-06",
+      "event": "Daniel Sends Comprehensive Reports to Bantjies",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-06-07",
+      "event": "Cards Cancelled <24 Hours After Fraud Exposure",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-06-10",
+      "event": "Bantjies Learns of Criminal Matters",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-06-18",
+      "event": "Systematic Trust Violations",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-06-20",
+      "event": "Email Impersonation Pattern and Domain Switch Instruction",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-06-25",
+      "event": "EVENT_064",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-06-30",
+      "event": "Coordinated Fund Diversions",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-07-08",
+      "event": "Warehouse POPI Violations",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-07-12",
+      "event": "Account Manipulation",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-07-23",
+      "event": "Sage Subscription Expired - Access Obstruction",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-07-25",
+      "event": "Trust Asset Misappropriation",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-08-10",
+      "event": "Trust Breach Evidence",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-08-11",
+      "event": "Settlement Agreement Signed - Main Trustee Power Backdated",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-08-13",
+      "event": "Peter Files Founding Affidavit with Material Non-Disclosures",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-08-15",
+      "event": "Gee Email Explaining Domain Switch Instruction",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-08-20",
+      "event": "Financial Evidence Concealment",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-08-29",
+      "event": "ENS Africa Acknowledges Criminal Matters Then Suppresses",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-09-11",
+      "event": "Company Accounts Emptied",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2025-10-23",
+      "event": "R63M Formal Demand by Ian Levitt Attorneys",
+      "issues": [
+        "missing_entities"
+      ]
+    },
+    {
+      "date": "2026-05",
+      "event": "Ketoni ZAR 18.75M Payout Due - ALL EVENTS CONVERGE",
+      "issues": [
+        "missing_event_ref"
+      ]
+    }
+  ],
+  "entity_refinements": [
+    {
+      "entity_id": "PERSON_004",
+      "name": "Jacqueline Faucitt",
+      "type": "person",
+      "issues": [
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_005",
+      "name": "Daniel James Faucitt",
+      "type": "person",
+      "issues": [
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_006",
+      "name": "Linda",
+      "type": "person",
+      "issues": [
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_008",
+      "name": "Kayla",
+      "type": "person",
+      "issues": [
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_009",
+      "name": "Gee",
+      "type": "person",
+      "issues": [
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_010",
+      "name": "Bernadine Wright",
+      "type": "person",
+      "issues": [
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_003",
+      "name": "Adderory (Rynette's Son)",
+      "type": "person",
+      "issues": [
+        "missing_burden_analysis"
+      ],
+      "priority": "high"
+    },
+    {
+      "entity_id": "PERSON_011",
+      "name": "Chantal",
+      "type": "person",
+      "issues": [
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_012",
+      "name": "Jax",
+      "type": "person",
+      "issues": [
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_039",
+      "name": "Marisca Meyer",
+      "type": "person",
+      "issues": [
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_013",
+      "name": "Kayla Pretorius",
+      "type": "person",
+      "issues": [
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_015",
+      "name": "Alan Peter Louw",
+      "type": "person",
+      "issues": [
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_016",
+      "name": "Martin Carlo Rizzotto",
+      "type": "person",
+      "issues": [
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_017",
+      "name": "Christian Gouws",
+      "type": "person",
+      "issues": [
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_018",
+      "name": "Lisa Clare Frost",
+      "type": "person",
+      "issues": [
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_019",
+      "name": "Trevor David Stidston",
+      "type": "person",
+      "issues": [
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_020",
+      "name": "Kerry-Anne Zwicky",
+      "type": "person",
+      "issues": [
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_021",
+      "name": "Guillaume Jordaan",
+      "type": "person",
+      "issues": [
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_022",
+      "name": "Gary Ian Cay",
+      "type": "person",
+      "issues": [
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_023",
+      "name": "Dennis Jacobus Bishop",
+      "type": "person",
+      "issues": [
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_025",
+      "name": "John Leslie Knowlton",
+      "type": "person",
+      "issues": [
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_026",
+      "name": "Vanessa Claire Rizzotto",
+      "type": "person",
+      "issues": [
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_027",
+      "name": "Andrew J Fraser",
+      "type": "person",
+      "issues": [
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_29",
+      "name": "Barend Thomas Nortje",
+      "type": "person",
+      "issues": [
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_30",
+      "name": "Sharon Nortje",
+      "type": "person",
+      "issues": [
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_31",
+      "name": "Karen Patricia Avnit",
+      "type": "person",
+      "issues": [
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_32",
+      "name": "Chan\u00e9 Auriele Todd",
+      "type": "person",
+      "issues": [
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_33",
+      "name": "Kirby Rae Van Der Stelt",
+      "type": "person",
+      "issues": [
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_34",
+      "name": "Dante Bertani",
+      "type": "person",
+      "issues": [
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_35",
+      "name": "Anna Gertruida Johanna du Toit",
+      "type": "person",
+      "issues": [
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_36",
+      "name": "Adrian Dominic De Fay",
+      "type": "person",
+      "issues": [
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_DERRICK_001",
+      "name": "Kevin Michael Derrick",
+      "type": "person",
+      "issues": [
+        "missing_evidence",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PERSON_TB_002",
+      "name": "Danie Bantjes",
+      "type": "person",
+      "issues": [
+        "missing_ad_res_j7_refs",
+        "missing_timeline_events",
+        "missing_burden_analysis"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_001",
+      "name": "Regima Worldwide Distribution (PTY) LTD",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_002",
+      "name": "Regima Skin Treatments CC",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_003",
+      "name": "RegimA Zone Ltd",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_004",
+      "name": "Strategic Logistics Group",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_005",
+      "name": "Villa Via",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_006",
+      "name": "RegimA SA",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_008",
+      "name": "ReZonance (Pty) Ltd",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_009",
+      "name": "Adderory (Pty) Ltd",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_010",
+      "name": "Adderory Skin (Pty) Ltd",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_012",
+      "name": "RegimaSA (Pty) Ltd",
+      "type": "organization",
+      "issues": [
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_013",
+      "name": "Unicorn Dynamics (Pty) Ltd",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_014",
+      "name": "RegimA SA (Pty) Ltd",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_015",
+      "name": "SARS (South African Revenue Service)",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_007",
+      "name": "Ian Levitt Attorneys",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_042",
+      "name": "ALOECO (SA)",
+      "type": "organization",
+      "issues": [
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_016",
+      "name": "Marlouw Group",
+      "type": "organization",
+      "issues": [
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_017",
+      "name": "Big Business 301",
+      "type": "organization",
+      "issues": [
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_018",
+      "name": "Art of Buzztec (SA)",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_019",
+      "name": "Rezonance",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_020",
+      "name": "RegimA Medic",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_021",
+      "name": "S A Logistic Services",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_022",
+      "name": "ALOECO (SA) - Original 1982",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_023",
+      "name": "ALOECO (SA) - CC 2006",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_024",
+      "name": "LMS Logistic Services",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_025",
+      "name": "UFO Express",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_026",
+      "name": "Nanini 262",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_027",
+      "name": "East Coast Logistics",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_028",
+      "name": "L'IMAGE",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_029",
+      "name": "Shaneprop",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_030",
+      "name": "RegimA International Skin Treatments CC",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_031",
+      "name": "Glendower Golf Estate Home Owners Association",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_32",
+      "name": "Dermal Skin Treatments Cape Town",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_33",
+      "name": "Kachan Marketing and Distribution",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_34",
+      "name": "Dandelion SA",
+      "type": "organization",
+      "issues": [
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_35",
+      "name": "Bertani International Global",
+      "type": "organization",
+      "issues": [
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_36",
+      "name": "George Endermologie Clinic",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_37",
+      "name": "De Fay Fund Management",
+      "type": "organization",
+      "issues": [
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_KETONI_001",
+      "name": "Ketoni Investment Holdings",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_TB_001",
+      "name": "DERM",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_TB_002",
+      "name": "RSA",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "ORG_TB_003",
+      "name": "REU",
+      "type": "organization",
+      "issues": [
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "PLATFORM_001",
+      "name": "Shopify Plus Platform",
+      "type": "organization",
+      "issues": [
+        "missing_ad_res_j7_refs",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "DOMAIN_001",
+      "name": "regima.zone Domain",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "DOMAIN_002",
+      "name": "regimaskin.co.za Domain",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "TRUST_001",
+      "name": "Faucitt Family Trust",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "SYS_BANK_ACCOUNTS",
+      "name": "Bank Accounts",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "SYS_ACCOUNTS",
+      "name": "Accounting System",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "SYS_STOCK",
+      "name": "Stock/Inventory",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "SYS_REGIMA_GROUP",
+      "name": "RegimA Group",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    },
+    {
+      "entity_id": "SYS_FINANCIAL_RECORDS",
+      "name": "Financial Records",
+      "type": "organization",
+      "issues": [
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_directors",
+        "missing_cipc_registration"
+      ],
+      "priority": "medium"
+    }
+  ],
+  "relation_refinements": [
+    {
+      "relation_id": "REL_OWN_001",
+      "type": "owns",
+      "source": "PERSON_005",
+      "target": "ORG_003",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_OWN_002",
+      "type": "owns",
+      "source": "ORG_003",
+      "target": "PLATFORM_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_OWN_003",
+      "type": "owns",
+      "source": "ORG_003",
+      "target": "DOMAIN_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_OWN_004",
+      "type": "owns",
+      "source": "PERSON_003",
+      "target": "DOMAIN_002",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_OWN_005",
+      "type": "partial_ownership",
+      "source": "PERSON_001",
+      "target": "ORG_002",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_OWN_006",
+      "type": "partial_ownership",
+      "source": "PERSON_001",
+      "target": "ORG_005",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_OWN_007",
+      "type": "owns",
+      "source": "PERSON_001,PERSON_005",
+      "target": "ORG_012",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_CTRL_003",
+      "type": "operates",
+      "source": "PERSON_005",
+      "target": "PLATFORM_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_CTRL_004",
+      "type": "operates",
+      "source": "PERSON_004",
+      "target": "PLATFORM_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_CTRL_005",
+      "type": "trustee_of",
+      "source": "PERSON_001",
+      "target": "TRUST_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_CTRL_006",
+      "type": "controls_as_director",
+      "source": "PERSON_001",
+      "target": "ORG_012",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_CTRL_007",
+      "type": "controls_as_director",
+      "source": "PERSON_005",
+      "target": "ORG_012",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_CTRL_008",
+      "type": "controls_sage_accounting",
+      "source": "PERSON_002",
+      "target": "ORG_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_CONSP_002",
+      "type": "family_conspiracy",
+      "source": "PERSON_002",
+      "target": "PERSON_003",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_DEP_001",
+      "type": "depends_on",
+      "source": "ORG_001",
+      "target": "ORG_003",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_FIN_001",
+      "type": "payment_redirection",
+      "source": "PERSON_002",
+      "target": "SYS_BANK_ACCOUNTS",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_FIN_002",
+      "type": "unauthorized_transfers",
+      "source": "PERSON_001",
+      "target": "SYS_ACCOUNTS",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_FIN_004",
+      "type": "investment",
+      "source": "PERSON_005",
+      "target": "PLATFORM_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_FIN_006",
+      "type": "stock_loss",
+      "source": "ORG_004",
+      "target": "SYS_STOCK",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_FIN_007",
+      "type": "loan_receivable",
+      "source": "ORG_012",
+      "target": "ORG_008",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_FIN_008",
+      "type": "loan_payable_shareholder",
+      "source": "ORG_012",
+      "target": "PERSON_005",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_FIN_009",
+      "type": "loan_payable",
+      "source": "ORG_012",
+      "target": "ORG_013",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_FIN_010",
+      "type": "debt_payment",
+      "source": "ORG_001",
+      "target": "ORG_008",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_FIN_011",
+      "type": "supplier_payment",
+      "source": "ORG_001",
+      "target": "ORG_013",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_VP_003",
+      "type": "perpetrator_victim",
+      "source": "PERSON_001",
+      "target": "TRUST_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_EMP_001",
+      "type": "employed_by",
+      "source": "PERSON_006",
+      "target": "SYS_REGIMA_GROUP",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_EMP_002",
+      "type": "sibling_of",
+      "source": "PERSON_006",
+      "target": "PERSON_002",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_EVID_001",
+      "type": "destroyed_evidence",
+      "source": "PERSON_001",
+      "target": "PLATFORM_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_EVID_002",
+      "type": "concealed_evidence",
+      "source": "PERSON_002",
+      "target": "SYS_FINANCIAL_RECORDS",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_TEMP_001",
+      "type": "preceded_by",
+      "source": "PERSON_002",
+      "target": "TRUST_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_TEMP_002",
+      "type": "escalation_pattern",
+      "source": "SYS_BANK_ACCOUNTS",
+      "target": "audit_trail_destruction",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_TEMP_003",
+      "type": "followed_by",
+      "source": "audit_trail_destruction",
+      "target": "financial_evidence_concealment",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_TEMP_004",
+      "type": "trigger_response",
+      "source": "EVENT_007",
+      "target": "EVENT_026",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_TEMP_005",
+      "type": "escalation_sequence",
+      "source": "EVENT_026",
+      "target": "EVENT_027",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_TEMP_006",
+      "type": "historical_foundation",
+      "source": "EVENT_H007",
+      "target": "EVENT_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_DEBT_002",
+      "type": "creditor_relationship",
+      "source": "ORG_008",
+      "target": "SYS_REGIMA_GROUP",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_ESTATE_001",
+      "type": "estate_ownership",
+      "source": "ORG_008",
+      "target": "PERSON_008",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_CONFLICT_001",
+      "type": "triple_conflict_of_interest",
+      "source": "PERSON_007",
+      "target": "",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_EMAIL_002",
+      "type": "email_seizure",
+      "source": "PERSON_001",
+      "target": "PERSON_008",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_EMAIL_002",
+      "type": "email_access",
+      "source": "PERSON_002",
+      "target": "PERSON_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_TRUSTEE_001",
+      "type": "trustee_of",
+      "source": "PERSON_001",
+      "target": "TRUST_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_BENEF_001",
+      "type": "beneficiary_of",
+      "source": "PERSON_004",
+      "target": "TRUST_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_BENEF_002",
+      "type": "beneficiary_of",
+      "source": "PERSON_005",
+      "target": "TRUST_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_BENEF_001",
+      "type": "legitimate_beneficiary",
+      "source": "PERSON_005",
+      "target": "TRUST_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_BENEF_002",
+      "type": "excluded_beneficiary",
+      "source": "PERSON_005",
+      "target": "TRUST_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_EXTRACT_001",
+      "type": "capital_extraction",
+      "source": "ORG_005",
+      "target": "members",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_LOAN_001",
+      "type": "inter_company_loan",
+      "source": "",
+      "target": "",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_LOAN_002",
+      "type": "inter_company_loan",
+      "source": "",
+      "target": "",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_KNOWLEDGE_001",
+      "type": "knowledge_acquisition",
+      "source": "PERSON_007",
+      "target": "criminal_matters",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_LEGAL_001",
+      "type": "strategic_coordination",
+      "source": "PERSON_001",
+      "target": "settlement_and_interdict",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_PROF_003",
+      "type": "prepared_financial_statements",
+      "source": "PERSON_012",
+      "target": "ORG_012",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_023",
+      "type": "DEBT",
+      "source": "PERSON_007",
+      "target": "TRUST_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_024",
+      "type": "SYSTEM_CONTROL",
+      "source": "PERSON_002",
+      "target": "ORG_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_025",
+      "type": "TAX_AUDIT",
+      "source": "ORG_015",
+      "target": "ORG_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_026",
+      "type": "STOCK_SUPPLY",
+      "source": "ORG_014",
+      "target": "ORG_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_ORG007_PERSON001",
+      "type": "legal_representation",
+      "source": "ORG_007",
+      "target": "PERSON_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_ADDR_001",
+      "type": "shares_postal_address",
+      "source": "PERSON_015",
+      "target": "ORG_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_DIR_015",
+      "type": "director_of",
+      "source": "PERSON_015",
+      "target": "ORG_015",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_DIR_016",
+      "type": "director_of",
+      "source": "PERSON_016",
+      "target": "ORG_015",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_DIR_017",
+      "type": "director_of",
+      "source": "PERSON_015",
+      "target": "ORG_016",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_DIR_018",
+      "type": "director_of",
+      "source": "PERSON_016",
+      "target": "ORG_016",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_DIR_019",
+      "type": "director_of",
+      "source": "PERSON_015",
+      "target": "ORG_017",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_DIR_020",
+      "type": "director_of",
+      "source": "PERSON_016",
+      "target": "ORG_017",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_027",
+      "type": "unknown",
+      "source": "Dennis Jacobus Bishop",
+      "target": "Rezonance",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_028",
+      "type": "unknown",
+      "source": "Dennis Jacobus Bishop",
+      "target": "RegimA Medic",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_029",
+      "type": "unknown",
+      "source": "Daniel James Faucitt",
+      "target": "Rezonance",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_030",
+      "type": "unknown",
+      "source": "Kayla Pretorius",
+      "target": "Rezonance",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_031",
+      "type": "unknown",
+      "source": "Daniel James Faucitt",
+      "target": "RegimA Medic",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_032",
+      "type": "unknown",
+      "source": "Jacqueline Faucitt",
+      "target": "RegimA Medic",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_033",
+      "type": "unknown",
+      "source": "Peter Andrew Faucitt",
+      "target": "RegimA Medic",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_034",
+      "type": "unknown",
+      "source": "John Leslie Knowlton",
+      "target": "RegimA Medic",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_DIR_46",
+      "type": "unknown",
+      "source": "",
+      "target": "",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_MEM_001",
+      "type": "member_of",
+      "source": "PERSON_015",
+      "target": "ORG_018",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_MEM_002",
+      "type": "member_of",
+      "source": "PERSON_016",
+      "target": "ORG_018",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_035",
+      "type": "unknown",
+      "source": "Martin Carlo Rizzotto",
+      "target": "UFO Express",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_036",
+      "type": "unknown",
+      "source": "Alan Peter Louw",
+      "target": "S A Logistic Services",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_037",
+      "type": "unknown",
+      "source": "Alan Peter Louw",
+      "target": "ALOECO (SA) - CC 2006",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_038",
+      "type": "unknown",
+      "source": "Martin Carlo Rizzotto",
+      "target": "ALOECO (SA) - CC 2006",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_MEM_47",
+      "type": "unknown",
+      "source": "",
+      "target": "",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_MEM_48",
+      "type": "unknown",
+      "source": "",
+      "target": "",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_FORMER_001",
+      "type": "former_director_of",
+      "source": "PERSON_017",
+      "target": "ORG_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_039",
+      "type": "unknown",
+      "source": "Martin Carlo Rizzotto",
+      "target": "Vanessa Claire Rizzotto",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_040",
+      "type": "unknown",
+      "source": "Bernadine Wright",
+      "target": "RegimA International Skin Treatments CC",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_SPOUSE_49",
+      "type": "unknown",
+      "source": "",
+      "target": "",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_DIST_41",
+      "type": "unknown",
+      "source": "",
+      "target": "",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_DIST_42",
+      "type": "unknown",
+      "source": "",
+      "target": "",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_DIST_43",
+      "type": "unknown",
+      "source": "",
+      "target": "",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_BOND_44",
+      "type": "unknown",
+      "source": "",
+      "target": "",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_PROP_45",
+      "type": "unknown",
+      "source": "",
+      "target": "",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_KETONI_001",
+      "type": "financial_obligation",
+      "source": "ORG_KETONI_001",
+      "target": "ORG_FFT_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_KETONI_002",
+      "type": "beneficiary_entitlement",
+      "source": "PERSON_001",
+      "target": "ORG_FFT_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_KETONI_003",
+      "type": "beneficiary_entitlement",
+      "source": "PERSON_004",
+      "target": "ORG_FFT_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_KETONI_004",
+      "type": "beneficiary_entitlement",
+      "source": "PERSON_005",
+      "target": "ORG_FFT_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_KETONI_005",
+      "type": "professional_connection",
+      "source": "PERSON_007",
+      "target": "PERSON_DERRICK_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_KETONI_006",
+      "type": "director",
+      "source": "PERSON_DERRICK_001",
+      "target": "ORG_KETONI_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_KETONI_007",
+      "type": "shareholder",
+      "source": "ORG_FFT_001",
+      "target": "ORG_KETONI_001",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_TB_001",
+      "type": "unknown",
+      "source": "PERSON_TB_001",
+      "target": "ORG_002",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_TB_002",
+      "type": "unknown",
+      "source": "ORG_003",
+      "target": "ORG_002",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_TB_004",
+      "type": "unknown",
+      "source": "ORG_003",
+      "target": "ORG_002",
+      "issues": [
+        "no_related_events"
+      ]
+    },
+    {
+      "relation_id": "REL_TB_006",
+      "type": "unknown",
+      "source": "PERSON_002",
+      "target": "PERSON_TB_002",
+      "issues": [
+        "no_related_events"
+      ]
+    }
+  ],
+  "event_refinements": [
+    {
+      "event_id": "EVENT_088",
+      "title": "SARS Tax Audit Notification",
+      "date": "2021-03-15",
+      "issues": [
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "medium"
+    },
+    {
+      "event_id": "EVENT_061",
+      "title": "ENS Africa Acknowledges Criminal Matters Then Suppresses",
+      "date": "2025-08-29",
+      "issues": [
+        "no_entities_linked"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_CIPC_001",
+      "title": "RegimA Skin Treatments CC Formation",
+      "date": "1992-02-26",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_CIPC_002",
+      "title": "RWD Shelf Company Acquisition",
+      "date": "2011-03-11",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_CIPC_003",
+      "title": "Strategic Logistics Ownership Restructure",
+      "date": "2016-07-19",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_CIPC_004",
+      "title": "Daniel's 2017 Company Formation Spree",
+      "date": "2017-04-04",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_CIPC_005",
+      "title": "ALOECO Registration with Shared Address",
+      "date": "2019-10-22",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_092",
+      "title": "Rezonance registered as shelf company by Dennis Bi",
+      "date": "2017-02-22",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_093",
+      "title": "RegimA Medic registered as shelf company by Dennis",
+      "date": "2017-02-27",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_094",
+      "title": "Rezonance transferred from Dennis Bishop to Daniel",
+      "date": "2017-04-04",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_095",
+      "title": "RegimA Medic transferred from Dennis Bishop to Fau",
+      "date": "2017-04-10",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_096",
+      "title": "Who Owns Whom Cosmetics Industry report published ",
+      "date": "2017-11-14",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_097",
+      "title": "S A Logistic Services enters liquidation",
+      "date": "1999-05-25",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_098",
+      "title": "Rizzotto joins Louw's ALOECO (SA) CC as 49% member",
+      "date": "2018-08-01",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_99",
+      "title": "RegimA Skin Treatments CC registers R3,110,000 bon",
+      "date": "2019-11-22",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_100",
+      "title": "Dermal Skin Treatments Cape Town CC registered",
+      "date": "2006-03-16",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_101",
+      "title": "Kachan Marketing and Distribution CC registered",
+      "date": "2005-09-29",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_102",
+      "title": "Dandelion SA (formerly K Rae Enterprises) register",
+      "date": "2015-07-08",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_103",
+      "title": "Bertani International Global registered",
+      "date": "2017-09-27",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_104",
+      "title": "George Endermologie Clinic CC registered",
+      "date": "2000-05-31",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_KETONI_CERT",
+      "title": "FFT Receives Ketoni Share Certificate #3",
+      "date": "2023-04-24",
+      "issues": [
+        "no_perpetrators_or_victims",
+        "missing_ad_res_j7_refs"
+      ],
+      "priority": "medium"
+    },
+    {
+      "event_id": "EVENT_KAYLA_DEATH",
+      "title": "Kayla Pretorius Death - 80 Days After Ketoni Investment",
+      "date": "2023-07-13",
+      "issues": [
+        "missing_ad_res_j7_refs"
+      ],
+      "priority": "medium"
+    },
+    {
+      "event_id": "EVENT_BANTJIES_GEORGE",
+      "title": "Bantjies Joins The George Group as CFO",
+      "date": "2023-05-01",
+      "issues": [
+        "no_perpetrators_or_victims",
+        "missing_ad_res_j7_refs"
+      ],
+      "priority": "medium"
+    },
+    {
+      "event_id": "EVENT_REGIMA_SA_DIVERSION",
+      "title": "RegimA SA Revenue Diversion Begins",
+      "date": "2025-03-01",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_ad_res_j7_refs"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_RYNETTE_BANK_LETTER",
+      "title": "Rynette Bank Letter for RegimA Worldwide Diversion",
+      "date": "2025-04-14",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_ad_res_j7_refs"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_SHOPIFY_ORDERS_REMOVED",
+      "title": "Orders Removed from Shopify Platform",
+      "date": "2025-05-23",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_ad_res_j7_refs"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_SECRET_CARD_CANCELLATION",
+      "title": "Secret Card Cancellations",
+      "date": "2025-06-07",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_ad_res_j7_refs"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_JAX_CONFRONTS_RYNETTE",
+      "title": "Jacqui Confronts Rynette About R1,035,000 Debt",
+      "date": "2025-05-15",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_ad_res_j7_refs"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_ADDERORY_DOMAIN_REG",
+      "title": "Adderory Registers regimaskin.co.za Domain",
+      "date": "2025-05-29",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_ad_res_j7_refs"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_ACCOUNTS_EMPTIED",
+      "title": "Company Accounts Emptied",
+      "date": "2025-09-11",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_ad_res_j7_refs"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_KETONI_INCORPORATION",
+      "title": "Ketoni Investment Holdings Incorporation",
+      "date": "2023-02-20",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_ad_res_j7_refs"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_FFT_KETONI_INVESTMENT",
+      "title": "FFT Invests in Ketoni - ZAR 18.75M Entitlement Established",
+      "date": "2023-04-24",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_ad_res_j7_refs"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_BANTJIES_TRUSTEE_APPOINTMENT",
+      "title": "Bantjies Appointed FFT Trustee by Rynette",
+      "date": "2024-07-01",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_ad_res_j7_refs"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_SETTLEMENT_SIGNED",
+      "title": "Settlement Agreement Signed - Main Trustee Power Backdated",
+      "date": "2025-08-11",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_ad_res_j7_refs"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_INTERDICT_FILED",
+      "title": "Peter Files Interdict - Jax & Dan Betrayal",
+      "date": "2025-08-13",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_ad_res_j7_refs"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_R63M_DEMAND",
+      "title": "Ian Levitt R63M Formal Demand Letter",
+      "date": "2025-10-23",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_ad_res_j7_refs"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_H020",
+      "title": "Jax Confronts Rynette About Debt",
+      "date": "2025-05-15",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_H021",
+      "title": "Jax Discovers Payment Discrepancies",
+      "date": "2025-05-16",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_BANTJIES_DISMISSES_AUDIT",
+      "title": "Bantjies Dismisses Audit Request",
+      "date": "2025-06-10",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_REG_20000531",
+      "title": "Company Registration 2000-05-31",
+      "date": "2000-05-31",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_REG_20050929",
+      "title": "Company Registration 2005-09-29",
+      "date": "2005-09-29",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_REG_20060316",
+      "title": "Company Registration 2006-03-16",
+      "date": "2006-03-16",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_PROP_20060605",
+      "title": "Property Transaction 2006-06-05",
+      "date": "2006-06-05",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_DIR_20070717",
+      "title": "Directorship Change 2007-07-17",
+      "date": "2007-07-17",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_REG_20150708",
+      "title": "Company Registration 2015-07-08",
+      "date": "2015-07-08",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_DIR_20160705",
+      "title": "Directorship Change 2016-07-05",
+      "date": "2016-07-05",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_REG_20170927",
+      "title": "Company Registration 2017-09-27",
+      "date": "2017-09-27",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_BOND_20191122",
+      "title": "Bond Registration 2019-11-22",
+      "date": "2019-11-22",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "EVENT_GEE_DOMAIN_SWITCH_EMAIL",
+      "title": "Gee Email Domain Switch Instruction",
+      "date": "2025-08-15",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "diversion_started_2025_03_01",
+      "title": "RegimA SA Revenue Diversion Started",
+      "date": "2025-03-01",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "first_invoice_2017_06_30",
+      "title": "First ReZonance Invoice",
+      "date": "2017-06-30",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "service_expansion_2017_09_30",
+      "title": "ReZonance Service Expansion",
+      "date": "2017-09-30",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "debt_accumulation_2022_03_01",
+      "title": "ReZonance Debt Accumulation",
+      "date": "2022-03-01",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "false_payment_claims_2023",
+      "title": "False Payment Claims to ReZonance",
+      "date": "2023-04-01",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    },
+    {
+      "event_id": "jax_confrontation_2025_05_15",
+      "title": "Jax Confronts Rynette About Debt",
+      "date": "2025-05-15",
+      "issues": [
+        "no_entities_linked",
+        "no_perpetrators_or_victims",
+        "missing_evidence",
+        "missing_ad_res_j7_refs",
+        "missing_burden_of_proof"
+      ],
+      "priority": "high"
+    }
+  ]
+}

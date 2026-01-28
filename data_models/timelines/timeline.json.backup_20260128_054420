@@ -1,46 +1,16 @@
 {
   "metadata": {
-    "version": "31.0_COMPREHENSIVE_REFINED_2026_01_28",
+    "version": "29.0_FINAL_REFINED_2026_01_22",
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-01-28T05:45:17.386844",
-    "changes": "Comprehensive LEX refinement - timeline completeness",
+    "last_updated": "2026-01-22T02:13:52.476368",
+    "changes": "Audit-based refinement: normalized actor names",
     "criminal_threshold_entries": 6,
     "high_significance_entries": 7,
     "total_entries": 125,
     "civil_threshold_entries": 0,
-    "completeness_audit": "2026-01-22 00:57:20",
-    "by_year": {
-      "1982": 1,
-      "1986": 1,
-      "1991": 1,
-      "1992": 2,
-      "1993": 1,
-      "1996": 1,
-      "1997": 1,
-      "1998": 1,
-      "1999": 4,
-      "2000": 2,
-      "2001": 1,
-      "2005": 2,
-      "2006": 5,
-      "2007": 1,
-      "2008": 2,
-      "2011": 1,
-      "2015": 2,
-      "2016": 2,
-      "2017": 19,
-      "2018": 2,
-      "2019": 9,
-      "2020": 7,
-      "2021": 5,
-      "2022": 3,
-      "2023": 11,
-      "2024": 3,
-      "2025": 34,
-      "2026": 1
-    }
+    "completeness_audit": "2026-01-22 00:57:20"
   },
   "timeline": [
     {
@@ -109,9 +79,7 @@
       "merged_from": [
         "TL_CIPC_001",
         "EVENT_CIPC_001"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "1992-12-15",
@@ -237,9 +205,7 @@
         "transaction_documentation"
       ],
       "actors": [],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "entry_id": "TL_CIPC_002",
@@ -273,12 +239,7 @@
         "Jacqueline Faucitt",
         "Daniel James Faucitt"
       ],
-      "actors": [
-        "Peter Andrew Faucitt",
-        "Jacqueline Faucitt",
-        "Daniel James Faucitt"
-      ],
-      "event_ref": "EVENT_GEN_19991103"
+      "actors": []
     },
     {
       "date": "2000-05-31",
@@ -297,8 +258,7 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297659",
       "key_actor_names": [],
       "event_ref": "EVENT_REG_20000531",
-      "actors": [],
-      "entities_involved": []
+      "actors": []
     },
     {
       "date": "2000-05-31",
@@ -311,9 +271,7 @@
         "293332765-Company-GeorgeEndermologieClinic.Pdf"
       ],
       "actors": [],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "date": "2001-09-18",
@@ -349,8 +307,7 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297665",
       "key_actor_names": [],
       "event_ref": "EVENT_REG_20050929",
-      "actors": [],
-      "entities_involved": []
+      "actors": []
     },
     {
       "date": "2005-09-29",
@@ -363,9 +320,7 @@
         "293340322-Company-KachanMarketingandDistribution.Pdf"
       ],
       "actors": [],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "date": "2006-02-14",
@@ -410,10 +365,7 @@
       "key_actor_names": [
         "Jacqueline Faucitt"
       ],
-      "actors": [
-        "Jacqueline Faucitt"
-      ],
-      "event_ref": "EVENT_GEN_20060224"
+      "actors": []
     },
     {
       "date": "2006-03-16",
@@ -434,8 +386,7 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297675",
       "key_actor_names": [],
       "event_ref": "EVENT_REG_20060316",
-      "actors": [],
-      "entities_involved": []
+      "actors": []
     },
     {
       "date": "2006-03-16",
@@ -448,9 +399,7 @@
         "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
       ],
       "actors": [],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "date": "2006-06-05",
@@ -468,8 +417,7 @@
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297678",
       "event_ref": "EVENT_PROP_20060605",
-      "actors": [],
-      "entities_involved": []
+      "actors": []
     },
     {
       "date": "2007-07-17",
@@ -488,8 +436,7 @@
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297680",
       "event_ref": "EVENT_DIR_20070717",
-      "actors": [],
-      "entities_involved": []
+      "actors": []
     },
     {
       "date": "2008-06-18",
@@ -534,10 +481,7 @@
       "key_actor_names": [
         "Daniel James Faucitt"
       ],
-      "actors": [
-        "Daniel James Faucitt"
-      ],
-      "event_ref": "EVENT_GEN_20080627"
+      "actors": []
     },
     {
       "date": "2011-03-11",
@@ -563,9 +507,7 @@
       "merged_from": [
         "TL_CIPC_005",
         "EVENT_CIPC_002"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2015-07-08",
@@ -585,8 +527,7 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297693",
       "key_actor_names": [],
       "event_ref": "EVENT_REG_20150708",
-      "actors": [],
-      "entities_involved": []
+      "actors": []
     },
     {
       "date": "2015-07-08",
@@ -599,9 +540,7 @@
         "293342245-Company-DandelionSA.Pdf"
       ],
       "actors": [],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "date": "2016-07-05",
@@ -621,8 +560,7 @@
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297695",
       "event_ref": "EVENT_DIR_20160705",
-      "actors": [],
-      "entities_involved": []
+      "actors": []
     },
     {
       "date": "2016-07-19",
@@ -644,9 +582,7 @@
       "merged_from": [
         "TL_CIPC_006",
         "EVENT_CIPC_003"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2017-02-22",
@@ -676,9 +612,7 @@
         "transaction_documentation"
       ],
       "actors": [],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "date": "2017-02-24",
@@ -699,9 +633,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2017_02_24_0224",
         "EVENT_H011"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2017-02-27",
@@ -731,9 +663,7 @@
         "transaction_documentation"
       ],
       "actors": [],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "date": "2017-04-04",
@@ -753,9 +683,7 @@
       "merged_from": [
         "TL_CIPC_007",
         "EVENT_CIPC_004"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2017-04-04",
@@ -785,9 +713,7 @@
         "transaction_documentation"
       ],
       "actors": [],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "entry_id": "TL_CIPC_008",
@@ -815,10 +741,7 @@
       "key_actor_names": [
         "Daniel James Faucitt"
       ],
-      "actors": [
-        "Daniel James Faucitt"
-      ],
-      "event_ref": "EVENT_GEN_20170410"
+      "actors": []
     },
     {
       "date": "2017-04-10",
@@ -848,9 +771,7 @@
         "transaction_documentation"
       ],
       "actors": [],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "entry_id": "TL_CIPC_009",
@@ -878,10 +799,7 @@
       "key_actor_names": [
         "Daniel James Faucitt"
       ],
-      "actors": [
-        "Daniel James Faucitt"
-      ],
-      "event_ref": "EVENT_GEN_20170412"
+      "actors": []
     },
     {
       "entry_id": "TL_CIPC_010",
@@ -909,10 +827,7 @@
       "key_actor_names": [
         "Daniel James Faucitt"
       ],
-      "actors": [
-        "Daniel James Faucitt"
-      ],
-      "event_ref": "EVENT_GEN_20170502"
+      "actors": []
     },
     {
       "date": "2017-06-30",
@@ -932,9 +847,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2017_06_30_0630",
         "EVENT_H001"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2017-09-27",
@@ -954,8 +867,7 @@
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297736",
       "key_actor_names": [],
       "event_ref": "EVENT_REG_20170927",
-      "actors": [],
-      "entities_involved": []
+      "actors": []
     },
     {
       "date": "2017-09-27",
@@ -968,9 +880,7 @@
         "293342878-Company-BertaniInternationalGlobal.Pdf"
       ],
       "actors": [],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "date": "2017-09-30",
@@ -990,9 +900,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2017_09_30_0930",
         "EVENT_H002"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2017-11-14",
@@ -1022,9 +930,7 @@
         "transaction_documentation"
       ],
       "actors": [],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "date": "2018-08-01",
@@ -1054,9 +960,7 @@
         "transaction_documentation"
       ],
       "actors": [],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "date": "2019-02-28",
@@ -1078,9 +982,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2019_02_28_0228",
         "EVENT_H012"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2019-03-01",
@@ -1105,9 +1007,7 @@
         "EVENT_GEN_1_EVENTS_ON_2019_03_01_0301",
         "TL_TB_001",
         "EVENT_H003"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2019-05-01",
@@ -1131,9 +1031,7 @@
         "EVENT_GEN_1_EVENTS_ON_2019_05_01_0501",
         "TL_TB_002",
         "EVENT_H004"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2019-10-22",
@@ -1156,9 +1054,7 @@
       "merged_from": [
         "TL_CIPC_011",
         "EVENT_CIPC_005"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2019-10-22",
@@ -1199,9 +1095,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2019_11_20_1120",
         "EVENT_091"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2019-11-22",
@@ -1223,8 +1117,7 @@
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297780",
       "event_ref": "EVENT_BOND_20191122",
-      "actors": [],
-      "entities_involved": []
+      "actors": []
     },
     {
       "date": "2019-11-22",
@@ -1238,9 +1131,7 @@
         "293347244-List-Deeds-SB48685-2019.Pdf"
       ],
       "actors": [],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "entry_id": "TL_CIPC_012",
@@ -1272,11 +1163,7 @@
         "Alan Peter Louw",
         "Martin Carlo Rizzotto"
       ],
-      "actors": [
-        "Alan Peter Louw",
-        "Martin Carlo Rizzotto"
-      ],
-      "event_ref": "EVENT_GEN_20191204"
+      "actors": []
     },
     {
       "date": "2020-02-20",
@@ -1305,9 +1192,7 @@
         "TL_TB_003",
         "EVENT_H005",
         "EVENT_051"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2020-02-28",
@@ -1348,9 +1233,7 @@
         "EVENT_H006",
         "EVENT_052",
         "EVENT_089"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2020-04-30",
@@ -1380,9 +1263,7 @@
         "TL_TB_005",
         "EVENT_H007",
         "EVENT_053"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "entry_id": "TL_CIPC_013",
@@ -1410,10 +1291,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297802",
-      "actors": [
-        "Daniel James Faucitt"
-      ],
-      "event_ref": "EVENT_GEN_20200507"
+      "actors": []
     },
     {
       "date": "2020-07-07",
@@ -1463,9 +1341,7 @@
         "EVENT_H008",
         "EVENT_048",
         "EVENT_H018"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2020-08-15",
@@ -1489,9 +1365,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2020_08_15_0815",
         "EVENT_090"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2021-03-15",
@@ -1520,9 +1394,7 @@
         "TL_CIPC_BATCH2_001",
         "TL_CIPC_BATCH2_002",
         "EVENT_088"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "entry_id": "TL_CIPC_014",
@@ -1550,10 +1422,7 @@
       "key_actor_names": [
         "Daniel James Faucitt"
       ],
-      "actors": [
-        "Daniel James Faucitt"
-      ],
-      "event_ref": "EVENT_GEN_20210325"
+      "actors": []
     },
     {
       "date": "2021-04-01",
@@ -1574,9 +1443,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2021_04_01_0401",
         "EVENT_H009"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2021-10-05",
@@ -1625,11 +1492,7 @@
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297830",
       "event_ref": "EVENT_GEN_1_EVENTS_ON_2021_10_05_1005",
-      "actors": [
-        "Bernadine Wright",
-        "Daniel James Faucitt",
-        "Peter Andrew Faucitt"
-      ]
+      "actors": []
     },
     {
       "entry_id": "TL_CIPC_015",
@@ -1654,8 +1517,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297831",
-      "actors": [],
-      "event_ref": "EVENT_GEN_20211119"
+      "actors": []
     },
     {
       "date": "2022-03-01",
@@ -1678,9 +1540,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2022_03_01_0301",
         "EVENT_D001"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2022-07-11",
@@ -1700,9 +1560,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2022_07_11_0711",
         "EVENT_D002"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2022-07-30",
@@ -1724,9 +1582,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2022_07_30_0730",
         "EVENT_067"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2023-02-20",
@@ -1741,9 +1597,7 @@
       "actors": [
         "Kevin Derrick"
       ],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "date": "2023-02-28",
@@ -1766,9 +1620,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2023_02_28_0228",
         "EVENT_D003"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2023-03-15",
@@ -1791,9 +1643,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2023_03_15_0315",
         "EVENT_D004"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2023-04-24",
@@ -1819,9 +1669,7 @@
         "TL_KETONI_001",
         "EVENT_KETONI_CERT",
         "EVENT_FFT_KETONI_INVESTMENT"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2023-05-01",
@@ -1836,9 +1684,7 @@
         "B2BHint company records"
       ],
       "actors": [],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "date": "2023-07-13",
@@ -1859,9 +1705,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2023_07_13_0713",
         "EVENT_H010"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "entry_id": "TL_KETONI_002",
@@ -1904,12 +1748,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297848",
-      "actors": [
-        "Kayla Pretorius",
-        "Daniel James Faucitt",
-        "ReZonance"
-      ],
-      "event_ref": "EVENT_GEN_20230713"
+      "actors": []
     },
     {
       "date": "2023-07-13",
@@ -1923,9 +1762,7 @@
         "SF7 - Court Order Kayla Email Seizure"
       ],
       "actors": [],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "date": "2023-09-10",
@@ -1946,9 +1783,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2021_09_10_0910",
         "EVENT_086"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2023-09-20",
@@ -1972,9 +1807,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2023_09_20_0920",
         "EVENT_D005"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2023-10-05",
@@ -1989,9 +1822,7 @@
         "Cross-referenced evidence files"
       ],
       "actors": [],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "entry_id": "TL_KETONI_003",
@@ -2029,11 +1860,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297851",
-      "actors": [
-        "Peter Andrew Faucitt",
-        "Daniel James Faucitt"
-      ],
-      "event_ref": "EVENT_GEN_20240214"
+      "actors": []
     },
     {
       "entry_id": "TL_KETONI_004",
@@ -2081,12 +1908,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297853",
-      "actors": [
-        "Daniel Jacobus Bantjies",
-        "Rynette Farrar",
-        "Kevin Michael Derrick"
-      ],
-      "event_ref": "EVENT_GEN_202407"
+      "actors": []
     },
     {
       "date": "2024-07-01",
@@ -2102,9 +1924,7 @@
         "PERSON_002",
         "Peter Andrew Faucitt"
       ],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "date": "2025-01-15",
@@ -2133,9 +1953,7 @@
         "EVENT_GEN_2_EVENTS_ON_2025_01_15_0115",
         "EVENT_023",
         "EVENT_054"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-02-14",
@@ -2156,9 +1974,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2025_02_14_0214",
         "EVENT_022"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-02-25",
@@ -2184,9 +2000,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2025_02_25_0225",
         "EVENT_028"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-03-01",
@@ -2225,9 +2039,7 @@
         "EVENT_001",
         "EVENT_024",
         "EVENT_REGIMA_SA_DIVERSION"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-03-15",
@@ -2259,9 +2071,7 @@
         "EVENT_GEN_2_EVENTS_ON_2025_03_15_0315",
         "EVENT_002",
         "EVENT_025"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-03-30",
@@ -2285,9 +2095,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2025_03_30_0330",
         "EVENT_003"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-04-01",
@@ -2310,9 +2118,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2025_04_01_0401",
         "EVENT_004"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-04-14",
@@ -2342,9 +2148,7 @@
         "EVENT_GEN_1_EVENTS_ON_2025_04_14_0414",
         "EVENT_005",
         "EVENT_RYNETTE_BANK_LETTER"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-04-22",
@@ -2370,9 +2174,7 @@
         "EVENT_GEN_2_EVENTS_ON_2025_04_22_0422",
         "EVENT_029",
         "EVENT_055"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-04-30",
@@ -2394,9 +2196,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2025_04_30_0430",
         "EVENT_056"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-05-02",
@@ -2419,9 +2219,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2025_05_02_0502",
         "EVENT_006"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-05-15",
@@ -2461,9 +2259,7 @@
         "EVENT_008",
         "EVENT_050",
         "EVENT_JAX_CONFRONTS_RYNETTE"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-05-22",
@@ -2489,9 +2285,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2025_05_22_0522",
         "EVENT_009"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-05-23",
@@ -2507,9 +2301,7 @@
       "actors": [
         "PERSON_002"
       ],
-      "added_date": "2026-01-22",
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      "added_date": "2026-01-22"
     },
     {
       "date": "2025-05-29",
@@ -2537,9 +2329,7 @@
         "EVENT_GEN_1_EVENTS_ON_2025_05_29_0529",
         "EVENT_010",
         "EVENT_ADDERORY_DOMAIN_REG"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-06-06",
@@ -2571,9 +2361,7 @@
         "TL_KETONI_005",
         "EVENT_011",
         "EVENT_057"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-06-07",
@@ -2606,9 +2394,7 @@
         "TL_KETONI_006",
         "EVENT_012",
         "EVENT_SECRET_CARD_CANCELLATION"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-06-10",
@@ -2649,9 +2435,7 @@
         "EVENT_047",
         "EVENT_058",
         "EVENT_066"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-06-18",
@@ -2673,9 +2457,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2025_06_18_0618",
         "EVENT_013"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-06-20",
@@ -2709,9 +2491,7 @@
         "EVENT_014",
         "EVENT_027",
         "EVENT_SF2A"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-06-25",
@@ -2734,9 +2514,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2025_06_25_0625",
         "EVENT_064"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-06-30",
@@ -2760,9 +2538,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2025_06_30_0630",
         "EVENT_015"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-07-08",
@@ -2785,9 +2561,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2025_07_08_0708",
         "EVENT_016"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-07-12",
@@ -2809,9 +2583,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2025_07_12_0712",
         "EVENT_017"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-07-23",
@@ -2839,9 +2611,7 @@
         "EVENT_GEN_2_EVENTS_ON_2025_07_23_0723",
         "EVENT_065",
         "EVENT_SF2B"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-07-25",
@@ -2863,9 +2633,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2025_07_25_0725",
         "EVENT_018"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-08-10",
@@ -2887,9 +2655,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2025_08_10_0810",
         "EVENT_019"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-08-11",
@@ -2921,9 +2687,7 @@
         "TL_KETONI_007",
         "EVENT_059",
         "EVENT_SETTLEMENT_SIGNED"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-08-13",
@@ -2961,9 +2725,7 @@
         "EVENT_049",
         "EVENT_060",
         "EVENT_INTERDICT_FILED"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-08-15",
@@ -2984,9 +2746,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2025_08_15_0815",
         "EVENT_GEE_DOMAIN_SWITCH_EMAIL"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-08-20",
@@ -3008,9 +2768,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2025_08_20_0820",
         "EVENT_020"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-08-29",
@@ -3033,9 +2791,7 @@
       "merged_from": [
         "EVENT_GEN_1_EVENTS_ON_2025_08_29_0829",
         "EVENT_061"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-09-11",
@@ -3067,9 +2823,7 @@
         "EVENT_GEN_1_EVENTS_ON_2025_09_11_0911",
         "EVENT_021",
         "EVENT_ACCOUNTS_EMPTIED"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "date": "2025-10-23",
@@ -3101,9 +2855,7 @@
         "EVENT_GEN_1_EVENTS_ON_2025_10_23_1023",
         "EVENT_SF9",
         "EVENT_R63M_DEMAND"
-      ],
-      "entities_involved": [],
-      "ad_res_j7_evidence_enhanced": []
+      ]
     },
     {
       "entry_id": "TL_KETONI_009",
@@ -3154,13 +2906,7 @@
         "ANNEXURES/JF04 - CIPC registration documents"
       ],
       "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297929",
-      "actors": [
-        "Ketoni Investment Holdings",
-        "Faucitt Family Trust",
-        "Peter Andrew Faucitt",
-        "Daniel Jacobus Bantjies"
-      ],
-      "event_ref": "EVENT_GEN_202605"
+      "actors": []
     }
   ],
   "strategic_implications": {

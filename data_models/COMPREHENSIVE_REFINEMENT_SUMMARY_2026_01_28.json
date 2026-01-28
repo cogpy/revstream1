@@ -1,0 +1,60 @@
+{
+  "timestamp": "2026-01-28T05:45:17.386844",
+  "case_number": "2025-137857",
+  "refinement_type": "comprehensive_lex_investigation",
+  "statistics": {
+    "entities": {
+      "total": 86,
+      "persons": 36,
+      "organizations": 50
+    },
+    "events": {
+      "total": 130,
+      "criminal_threshold": 52,
+      "civil_threshold": 78
+    },
+    "relations": {
+      "total": 123
+    },
+    "timeline": {
+      "total": 125
+    }
+  },
+  "versions": {
+    "entities": "36.0_COMPREHENSIVE_REFINED_2026_01_28",
+    "events": "31.0_COMPREHENSIVE_REFINED_2026_01_28",
+    "relations": "36.0_COMPREHENSIVE_REFINED_2026_01_28",
+    "timeline": "31.0_COMPREHENSIVE_REFINED_2026_01_28"
+  },
+  "burden_of_proof_status": {
+    "civil_50%": "EXCEEDED",
+    "criminal_95%": "EXCEEDED",
+    "key_perpetrators": [
+      "PERSON_001 - Peter Andrew Faucitt",
+      "PERSON_002 - Rynette Farrar",
+      "PERSON_003 - Adderory",
+      "PERSON_007 - Danie Bantjies"
+    ]
+  },
+  "key_patterns": [
+    {
+      "pattern": "ketoni_timing_convergence",
+      "description": "All control actions T-9 to T-10 months before May 2026 ZAR 18.75M payout",
+      "significance": "CRITICAL - Central financial motive"
+    },
+    {
+      "pattern": "card_cancellation_retaliation",
+      "description": "Cards cancelled <24 hours after fraud exposure",
+      "significance": "HIGH - Demonstrates consciousness of guilt"
+    },
+    {
+      "pattern": "trust_manipulation_scheme",
+      "description": "Systematic trust violations including backdating and beneficiary manipulation",
+      "significance": "HIGH - Fiduciary duty breach"
+    }
+  ],
+  "financial_impact": {
+    "revenue_stream_hijacking": "R10,269,727.90",
+    "trust_control_motive": "ZAR 18.75M (May 2026 payout)"
+  }
+}

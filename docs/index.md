@@ -1,6 +1,6 @@
 # Revenue Stream Hijacking Case 2025-137857
 
-**Last Updated:** 2026-01-25
+**Last Updated:** 2026-01-28
 
 This site provides comprehensive evidence, analysis, and legal documentation for case 2025-137857 involving revenue stream hijacking, trust violations, and financial fraud totaling **R10,269,727.90**.
 
@@ -27,24 +27,35 @@ This financial motive explains:
 ### Application 1: Civil & Criminal Actions
 **[View Full Application →](./application-1-civil-criminal.md)**
 
-- **Civil Claims** (50% burden) - ✅ EXCEEDED
-- **Criminal Charges** (95% burden) - ✅ EXCEEDED
-- **Financial Impact:** R10,269,727.90 + ZAR 18.75M trust control motive
-- **Key Evidence:** JF01, JF03, JF07, JF08, SF9, Ketoni Timeline
+| Category | Status | Evidence Strength |
+|----------|--------|-------------------|
+| Civil Claims (50% burden) | ✅ EXCEEDED | Conclusive |
+| Criminal Charges (95% burden) | ✅ EXCEEDED | 52 criminal threshold events |
+| Financial Impact | R10,269,727.90 | + ZAR 18.75M trust control motive |
+
+**Key Evidence:** JF01, JF03, JF07, JF08, SF9, Ketoni Timeline
 
 ### Application 2: CIPC & POPIA Complaints
 **[View Full Application →](./application-2-cipc-popia.md)**
 
-- **Companies Act Violations** - Director misconduct, financial fraud, fiduciary duty breach
-- **POPIA Violations** - Data breaches, identity fraud
-- **Key Evidence:** JF04, JF14, JF15, SF1, SF2, SF6, SF7
+| Violation Type | Status | Key Sections |
+|----------------|--------|--------------|
+| Companies Act Violations | ✅ DOCUMENTED | s76(3), s77, s214 |
+| POPIA Violations | ✅ DOCUMENTED | s14, s19, s20, s105 |
+| Director Misconduct | ✅ EXCEEDED | Fiduciary duty breach |
+
+**Key Evidence:** JF04, JF14, JF15, SF1, SF2, SF6, SF7
 
 ### Application 3: Commercial Crime & Tax Fraud
 **[View Full Application →](./application-3-commercial-crime-tax-fraud.md)**
 
-- **Commercial Crimes** - Fraud, theft, forgery, money laundering
-- **Tax Fraud** - Income tax evasion, VAT fraud, SARS obstruction
-- **Key Evidence:** JF03, SF1, SF3, SF4
+| Crime Category | Status | Evidence |
+|----------------|--------|----------|
+| Commercial Crimes | ✅ DOCUMENTED | Fraud, theft, forgery |
+| Tax Fraud | ✅ DOCUMENTED | Income tax evasion, VAT fraud |
+| Money Laundering | ✅ INDICATORS | Fund flow analysis |
+
+**Key Evidence:** JF03, SF1, SF3, SF4
 
 ---
 
@@ -53,45 +64,54 @@ This financial motive explains:
 ### Core Documentation
 - **[Ketoni Payout Timeline](./ketoni-timeline.md)** - Central financial motive (ZAR 18.75M May 2026)
 - **[Comprehensive Evidence Index](./evidence-index-enhanced.md)** - All evidence categorized and cross-referenced
-- **[Master Timeline](./timeline.md)** - Complete chronological event sequence (118 entries)
-- **[Entities Directory](./entities/index.md)** - All persons and organizations (79 entities)
-- **[Events Directory](./events/)** - Detailed event documentation (98 events)
+- **[Master Timeline](./timeline.md)** - Complete chronological event sequence (125 entries)
+- **[Entities Directory](./entities/index.md)** - All persons and organizations (86 entities)
+- **[Events Directory](./events/)** - Detailed event documentation (130 events)
 - **[Relations Analysis](./relations/index.md)** - Entity relationship mapping (123 relations)
 - **[LEX Skills Framework](./skills/index.md)** - 128 legal reasoning skills across 7 domains
 
 ### Evidence Packages (JF Series)
-- **JF01** - Shopify Plus email evidence (THE FORENSIC TIME CAPSULE)
-- **JF02** - Business operations documentation
-- **JF03** - Financial records and analysis
-- **JF04** - CIPC company records
-- **JF05** - Correspondence evidence
-- **JF06** - Court documents and filings
-- **JF07** - Financial transaction records
-- **JF08** - Comprehensive fraud evidence package
-- **JF09** - Timeline analysis and cross-reference
-- **JF14/JF15** - CIPC historical records (2021)
-- **JF16** - Distributor evidence
+
+| Package | Description | Significance |
+|---------|-------------|--------------|
+| **JF01** | Shopify Plus email evidence | THE FORENSIC TIME CAPSULE |
+| **JF02** | Business operations documentation | Operational context |
+| **JF03** | Financial records and analysis | Financial fraud evidence |
+| **JF04** | CIPC company records | Corporate structure |
+| **JF05** | Correspondence evidence | Communication patterns |
+| **JF06** | Court documents and filings | Legal proceedings |
+| **JF07** | Financial transaction records | Fund flow evidence |
+| **JF08** | Comprehensive fraud evidence package | Master evidence collection |
+| **JF09** | Timeline analysis and cross-reference | Temporal patterns |
+| **JF14/JF15** | CIPC historical records (2021) | Historical context |
+| **JF16** | Distributor evidence | Third-party verification |
 
 ### Supporting Files (SF Series)
-- **SF1** - Bantjies Debt Documentation (R1,048,000)
-- **SF2** - Sage Screenshots - Rynette Control (2020-08-15)
-- **SF3** - Strategic Logistics Stock Adjustment (R5.4M loss)
-- **SF4** - SARS Audit Email (2021-03-15)
-- **SF5** - Adderory Company Registration & Stock Supply
-- **SF6** - Kayla Pretorius Estate Documentation (CRITICAL: Death 80 days after Ketoni investment)
-- **SF7** - Court Order - Kayla Email Seizure
-- **SF8** - Linda Employment Records
-- **SF9** - Ian Levitt R63M Demand Letter (ignored)
+
+| File | Description | Impact |
+|------|-------------|--------|
+| **SF1** | Bantjies Debt Documentation | R1,048,000 debt |
+| **SF2** | Sage Screenshots - Rynette Control | System control proof |
+| **SF3** | Strategic Logistics Stock Adjustment | R5.4M loss |
+| **SF4** | SARS Audit Email | Tax fraud indicator |
+| **SF5** | Adderory Company Registration | Shell company evidence |
+| **SF6** | Kayla Pretorius Estate | CRITICAL: Death 80 days after Ketoni |
+| **SF7** | Court Order - Kayla Email Seizure | Evidence preservation |
+| **SF8** | Linda Employment Records | Witness documentation |
+| **SF9** | Ian Levitt R63M Demand Letter | Ignored demand |
 
 ---
 
 ## 📁 Legal Filings
 
-### Latest Filings (2026-01-22) - Comprehensive Update
-- **[CIPC Complaint (Refined)](./filings/CIPC_REFINED_2026_01_22.md)**
-- **[POPIA Complaint (Refined)](./filings/POPIA_REFINED_2026_01_22.md)**
-- **[NPA Tax Fraud Report (Refined)](./filings/NPA_REFINED_2026_01_22.md)**
-- **[Commercial Crime Submission (Refined)](./filings/COMMERCIAL_CRIME_REFINED_2026_01_22.md)**
+### Latest Filings (2026-01-28) - LEX Investigation Update
+
+| Filing | Type | Status |
+|--------|------|--------|
+| [CIPC Complaint](./filings/CIPC_REFINED_2026_01_28.md) | Regulatory | Refined |
+| [POPIA Complaint](./filings/POPIA_REFINED_2026_01_28.md) | Criminal | Refined |
+| [NPA Tax Fraud Report](./filings/NPA_REFINED_2026_01_28.md) | Criminal | Refined |
+| [Commercial Crime Submission](./filings/COMMERCIAL_CRIME_REFINED_2026_01_28.md) | Criminal | Refined |
 
 ### All Filings
 - **[Filings Index](./filings/index.md)** - All legal filings organized by type and date
@@ -151,11 +171,14 @@ This financial motive explains:
 
 ## 🔑 Key Statistics
 
-- **Entities:** 79 (persons, organizations, trusts, domains)
-- **Events:** 98 documented events
-- **Relations:** 123 mapped relationships
-- **Timeline Entries:** 118
-- **Evidence Files:** 1,151+ unique references in ad-res-j7
+| Metric | Count |
+|--------|-------|
+| **Entities** | 86 (persons, organizations, trusts, domains) |
+| **Events** | 130 documented events |
+| **Relations** | 123 mapped relationships |
+| **Timeline Entries** | 125 |
+| **Criminal Threshold Events** | 52 |
+| **Evidence Files** | 1,151+ unique references in ad-res-j7 |
 
 **Evidence Strength:**
 - Civil threshold (50%): ✅ **EXCEEDED**
@@ -190,23 +213,26 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 **Case Type:** Civil, Criminal, Regulatory  
 
 **Key Dates:**
-- **2023-04-24:** FFT invests in Ketoni - ZAR 18.75M entitlement established (T-37 months)
-- **2023-07-13:** Kayla Pretorius death - 80 days after Ketoni investment (T-34 months)
-- **2024-07:** Bantjies appointed FFT Trustee (T-10 months before payout)
-- **2025-06-06:** Dan exposes Villa Via fraud to Bantjies (T-11 months)
-- **2025-06-07:** Cards cancelled <24 hours after fraud exposure (T-11 months)
-- **2025-08-11:** Main Trustee power backdated - Jax cooperation (T-9 months)
-- **2025-08-13:** Interdict filed - Jax & Dan betrayal (T-9 months)
-- **2026-05:** **Ketoni ZAR 18.75M payout due - ALL EVENTS CONVERGE HERE (T-0)**
+
+| Date | Event | T-Months |
+|------|-------|----------|
+| 2023-04-24 | FFT invests in Ketoni - ZAR 18.75M entitlement | T-37 |
+| 2023-07-13 | Kayla Pretorius death - 80 days after Ketoni | T-34 |
+| 2024-07 | Bantjies appointed FFT Trustee | T-10 |
+| 2025-06-06 | Dan exposes Villa Via fraud to Bantjies | T-11 |
+| 2025-06-07 | Cards cancelled <24 hours after fraud exposure | T-11 |
+| 2025-08-11 | Main Trustee power backdated - Jax cooperation | T-9 |
+| 2025-08-13 | Interdict filed - Jax & Dan betrayal | T-9 |
+| **2026-05** | **Ketoni ZAR 18.75M payout due** | **T-0** |
 
 ---
 
 *This documentation is continuously updated as new evidence is analyzed and legal filings are refined. All evidence references are cross-linked to the ad-res-j7 repository for verification and detailed examination.*
 
 **Data Model Versions:**
-- Entities: v32.0_COMPREHENSIVE_REFINEMENT_2026_01_22
-- Events: v27.0_COMPREHENSIVE_REFINEMENT_2026_01_22
-- Relations: v32.0_COMPREHENSIVE_REFINEMENT_2026_01_22
-- Timeline: v26.0_COMPREHENSIVE_REFINEMENT_2026_01_22
+- Entities: v36.0_COMPREHENSIVE_REFINED_2026_01_28
+- Events: v31.0_COMPREHENSIVE_REFINED_2026_01_28
+- Relations: v36.0_COMPREHENSIVE_REFINED_2026_01_28
+- Timeline: v31.0_COMPREHENSIVE_REFINED_2026_01_28
 
-**Last Refinement:** 2026-01-22 00:10:25
+**Last Refinement:** 2026-01-28 05:47:07 (LEX Investigation System)
