@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-12-17T05:39:06.949291",
+  "filings_refined": [
+    {
+      "type": "Civil",
+      "name": "Answering Affidavit",
+      "burden_of_proof": "50%",
+      "status": "EXCEEDED",
+      "file": "civil/ANSWERING_AFFIDAVIT_EVIDENCE_ENHANCED_20251217.md"
+    },
+    {
+      "type": "Regulatory",
+      "name": "CIPC Companies Act Complaint",
+      "burden_of_proof": "50%",
+      "status": "EXCEEDED",
+      "file": "regulatory/CIPC_COMPLAINT_EVIDENCE_ENHANCED_20251217.md"
+    },
+    {
+      "type": "Criminal",
+      "name": "POPIA Criminal Complaint",
+      "burden_of_proof": "95%",
+      "status": "EXCEEDED",
+      "file": "criminal/POPIA_COMPLAINT_EVIDENCE_ENHANCED_20251217.md"
+    }
+  ],
+  "key_improvements": [
+    "Added burden of proof assessments for all claims",
+    "Cross-referenced all claims with specific evidence (SF/JF files)",
+    "Structured evidence by strength (irrefutable, conclusive, strong)",
+    "Added evidence type classification (third-party, system-generated, documentary)",
+    "Included temporal correlation analysis",
+    "Added comprehensive evidence cross-reference tables"
+  ],
+  "evidence_sources": {
+    "sf_files": 8,
+    "jf_directories": 13,
+    "total_documents": "200+"
+  }
+}

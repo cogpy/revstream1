@@ -1,0 +1,488 @@
+{
+  "by_category": {
+    "business_relationship": [
+      "EVENT_H001",
+      "EVENT_H002"
+    ],
+    "financial_structure": [
+      "EVENT_H003",
+      "EVENT_H004",
+      "EVENT_052"
+    ],
+    "financial_manipulation": [
+      "EVENT_H005",
+      "EVENT_051",
+      "EVENT_H006",
+      "EVENT_022",
+      "EVENT_003",
+      "EVENT_004",
+      "EVENT_008",
+      "EVENT_012",
+      "EVENT_015",
+      "EVENT_017",
+      "EVENT_020",
+      "EVENT_021"
+    ],
+    "profit_extraction": [
+      "EVENT_H007",
+      "EVENT_053"
+    ],
+    "evidence_documentation": [
+      "EVENT_H008",
+      "EVT-064"
+    ],
+    "accounting_fraud": [
+      "EVENT_048",
+      "EVENT_H018",
+      "EVENT_025"
+    ],
+    "conspiracy_preparation": [
+      "EVENT_H009"
+    ],
+    "debt_accumulation": [
+      "EVENT_D001",
+      "EVENT_D003"
+    ],
+    "debt_management": [
+      "EVENT_D002"
+    ],
+    "criminal_event": [
+      "EVENT_H010"
+    ],
+    "fraud": [
+      "EVENT_D004",
+      "EVENT_D005"
+    ],
+    "estate_exploitation": [
+      "EVENT_023"
+    ],
+    "estate_fraud": [
+      "EVENT_054"
+    ],
+    "transfer_pricing_fraud": [
+      "EVENT_028",
+      "EVENT_024"
+    ],
+    "revenue_theft": [
+      "EVENT_001",
+      "EVENT_005",
+      "EVENT_009",
+      "EVENT_010",
+      "EVENT_014",
+      "EVENT_016",
+      "EVENT_063"
+    ],
+    "trust_violations": [
+      "EVENT_002",
+      "EVENT_006",
+      "EVENT_013",
+      "EVENT_018",
+      "EVENT_019",
+      "EVENT_049"
+    ],
+    "infrastructure_seizure": [
+      "EVENT_029"
+    ],
+    "evidence_tampering": [
+      "EVENT_055",
+      "EVENT_056"
+    ],
+    "financial_dispute": [
+      "EVENT_007"
+    ],
+    "fraud_discovery": [
+      "EVENT_050",
+      "EVENT_011"
+    ],
+    "transparency": [
+      "EVENT_057"
+    ],
+    "fraud_concealment": [
+      "EVENT_058",
+      "EVENT_026",
+      "EVENT_047"
+    ],
+    "knowledge_acquisition": [
+      "EVENT_062"
+    ],
+    "customer_hijacking": [
+      "EVENT_027"
+    ],
+    "legal_manipulation": [
+      "EVENT_059"
+    ],
+    "perjury": [
+      "EVENT_060"
+    ],
+    "legal_misconduct": [
+      "EVENT_061"
+    ],
+    "financial_fraud": [
+      "EVT-063",
+      "EVT-068",
+      "EVT-069"
+    ],
+    "legal_action": [
+      "EVT-065",
+      "EVT-067"
+    ],
+    "system_control": [
+      "EVT-066"
+    ]
+  },
+  "by_phase": {
+    "PHASE_000": [
+      "EVENT_H001",
+      "EVENT_H002",
+      "EVENT_H003",
+      "EVENT_H004",
+      "EVENT_H005",
+      "EVENT_051",
+      "EVENT_H006",
+      "EVENT_052",
+      "EVENT_H007",
+      "EVENT_053",
+      "EVENT_H008",
+      "EVENT_048",
+      "EVENT_H018",
+      "EVENT_H009"
+    ],
+    "PHASE_005": [
+      "EVENT_D001",
+      "EVENT_D002",
+      "EVENT_H010",
+      "EVENT_D003",
+      "EVENT_D004",
+      "EVENT_D005",
+      "EVENT_016",
+      "EVENT_017",
+      "EVENT_018"
+    ],
+    "UNKNOWN": [
+      "EVENT_023",
+      "EVENT_054",
+      "EVENT_022",
+      "EVENT_028",
+      "EVT-063",
+      "EVT-064",
+      "EVT-065",
+      "EVT-066",
+      "EVT-067",
+      "EVT-068",
+      "EVT-069"
+    ],
+    "PHASE_001": [
+      "EVENT_001",
+      "EVENT_024",
+      "EVENT_002",
+      "EVENT_025",
+      "EVENT_003"
+    ],
+    "PHASE_002": [
+      "EVENT_004",
+      "EVENT_005",
+      "EVENT_029",
+      "EVENT_055",
+      "EVENT_056"
+    ],
+    "PHASE_003": [
+      "EVENT_006",
+      "EVENT_007",
+      "EVENT_008",
+      "EVENT_050",
+      "EVENT_009",
+      "EVENT_010"
+    ],
+    "PHASE_004": [
+      "EVENT_011",
+      "EVENT_057",
+      "EVENT_012",
+      "EVENT_058",
+      "EVENT_026",
+      "EVENT_047",
+      "EVENT_062",
+      "EVENT_013",
+      "EVENT_014",
+      "EVENT_027",
+      "EVENT_015"
+    ],
+    "PHASE_006": [
+      "EVENT_019",
+      "EVENT_059",
+      "EVENT_049",
+      "EVENT_060",
+      "EVENT_063",
+      "EVENT_020",
+      "EVENT_061",
+      "EVENT_021"
+    ]
+  },
+  "by_application": {
+    "APPLICATION_1": [
+      "EVENT_H001",
+      "EVENT_H002",
+      "EVENT_H003",
+      "EVENT_H004",
+      "EVENT_H005",
+      "EVENT_051",
+      "EVENT_H006",
+      "EVENT_052",
+      "EVENT_H007",
+      "EVENT_053",
+      "EVENT_H008",
+      "EVENT_048",
+      "EVENT_H018",
+      "EVENT_H009",
+      "EVENT_023",
+      "EVENT_054",
+      "EVENT_022",
+      "EVENT_028",
+      "EVENT_001",
+      "EVENT_024",
+      "EVENT_002",
+      "EVENT_025",
+      "EVENT_003",
+      "EVENT_004",
+      "EVENT_005",
+      "EVENT_029",
+      "EVENT_055",
+      "EVENT_056",
+      "EVENT_006",
+      "EVENT_007",
+      "EVENT_008",
+      "EVENT_050",
+      "EVENT_009",
+      "EVENT_010",
+      "EVENT_011",
+      "EVENT_057",
+      "EVENT_012",
+      "EVENT_058",
+      "EVENT_026",
+      "EVENT_047",
+      "EVENT_062",
+      "EVENT_013",
+      "EVENT_014",
+      "EVENT_027",
+      "EVENT_015"
+    ],
+    "APPLICATION_2": [
+      "EVENT_H001",
+      "EVENT_H002",
+      "EVENT_H003",
+      "EVENT_H004",
+      "EVENT_H005",
+      "EVENT_051",
+      "EVENT_H006",
+      "EVENT_052",
+      "EVENT_H007",
+      "EVENT_053",
+      "EVENT_H008",
+      "EVENT_048",
+      "EVENT_H018",
+      "EVENT_H009",
+      "EVENT_D001",
+      "EVENT_D002",
+      "EVENT_H010",
+      "EVENT_D003",
+      "EVENT_D004",
+      "EVENT_D005",
+      "EVENT_023",
+      "EVENT_054",
+      "EVENT_011",
+      "EVENT_057",
+      "EVENT_012",
+      "EVENT_058",
+      "EVENT_026",
+      "EVENT_047",
+      "EVENT_062",
+      "EVENT_013",
+      "EVENT_014",
+      "EVENT_027",
+      "EVENT_015",
+      "EVENT_016",
+      "EVENT_017",
+      "EVENT_018",
+      "EVENT_019",
+      "EVENT_059",
+      "EVENT_049",
+      "EVENT_060",
+      "EVENT_063",
+      "EVENT_020",
+      "EVENT_061",
+      "EVENT_021",
+      "EVT-063",
+      "EVT-064",
+      "EVT-065",
+      "EVT-066",
+      "EVT-067",
+      "EVT-068"
+    ],
+    "APPLICATION_3": [
+      "EVENT_D001",
+      "EVENT_D002",
+      "EVENT_H010",
+      "EVENT_D003",
+      "EVENT_D004",
+      "EVENT_D005",
+      "EVENT_016",
+      "EVENT_017",
+      "EVENT_018",
+      "EVENT_019",
+      "EVENT_059",
+      "EVENT_049",
+      "EVENT_060",
+      "EVENT_063",
+      "EVENT_020",
+      "EVENT_061",
+      "EVENT_021",
+      "EVT-067",
+      "EVT-068",
+      "EVT-069"
+    ]
+  },
+  "financial_events": [
+    "EVENT_H001",
+    "EVENT_H002",
+    "EVENT_H003",
+    "EVENT_H004",
+    "EVENT_H005",
+    "EVENT_051",
+    "EVENT_H006",
+    "EVENT_052",
+    "EVENT_H007",
+    "EVENT_053",
+    "EVENT_H008",
+    "EVENT_048",
+    "EVENT_H009",
+    "EVENT_D001",
+    "EVENT_D002",
+    "EVENT_H010",
+    "EVENT_D003",
+    "EVENT_D004",
+    "EVENT_D005",
+    "EVENT_023",
+    "EVENT_022",
+    "EVENT_028",
+    "EVENT_001",
+    "EVENT_024",
+    "EVENT_002",
+    "EVENT_025",
+    "EVENT_003",
+    "EVENT_004",
+    "EVENT_005",
+    "EVENT_029",
+    "EVENT_055",
+    "EVENT_006",
+    "EVENT_007",
+    "EVENT_008",
+    "EVENT_050",
+    "EVENT_009",
+    "EVENT_010",
+    "EVENT_011",
+    "EVENT_012",
+    "EVENT_058",
+    "EVENT_026",
+    "EVENT_047",
+    "EVENT_013",
+    "EVENT_014",
+    "EVENT_027",
+    "EVENT_015",
+    "EVENT_016",
+    "EVENT_017",
+    "EVENT_018",
+    "EVENT_019",
+    "EVENT_049",
+    "EVENT_063",
+    "EVENT_020",
+    "EVENT_021"
+  ],
+  "non_financial_events": [
+    "EVENT_H018",
+    "EVENT_054",
+    "EVENT_056",
+    "EVENT_057",
+    "EVENT_062",
+    "EVENT_059",
+    "EVENT_060",
+    "EVENT_061",
+    "EVT-063",
+    "EVT-064",
+    "EVT-065",
+    "EVT-066",
+    "EVT-067",
+    "EVT-068",
+    "EVT-069"
+  ],
+  "evidence_rich_events": [
+    "EVENT_H001",
+    "EVENT_H002",
+    "EVENT_H003",
+    "EVENT_H004",
+    "EVENT_H005",
+    "EVENT_051",
+    "EVENT_H006",
+    "EVENT_052",
+    "EVENT_H007",
+    "EVENT_053",
+    "EVENT_H008",
+    "EVENT_048",
+    "EVENT_H018",
+    "EVENT_H009",
+    "EVENT_D001",
+    "EVENT_D002",
+    "EVENT_H010",
+    "EVENT_D003",
+    "EVENT_D004",
+    "EVENT_D005",
+    "EVENT_023",
+    "EVENT_054",
+    "EVENT_022",
+    "EVENT_028",
+    "EVENT_001",
+    "EVENT_024",
+    "EVENT_002",
+    "EVENT_025",
+    "EVENT_003",
+    "EVENT_004",
+    "EVENT_005",
+    "EVENT_029",
+    "EVENT_055",
+    "EVENT_056",
+    "EVENT_006",
+    "EVENT_007",
+    "EVENT_008",
+    "EVENT_050",
+    "EVENT_009",
+    "EVENT_010",
+    "EVENT_011",
+    "EVENT_057",
+    "EVENT_012",
+    "EVENT_058",
+    "EVENT_026",
+    "EVENT_047",
+    "EVENT_062",
+    "EVENT_013",
+    "EVENT_014",
+    "EVENT_027",
+    "EVENT_015",
+    "EVENT_016",
+    "EVENT_017",
+    "EVENT_018",
+    "EVENT_019",
+    "EVENT_059",
+    "EVENT_049",
+    "EVENT_060",
+    "EVENT_063",
+    "EVENT_020",
+    "EVENT_061",
+    "EVENT_021",
+    "EVT-063",
+    "EVT-064",
+    "EVT-065",
+    "EVT-066",
+    "EVT-067",
+    "EVT-068",
+    "EVT-069"
+  ],
+  "evidence_sparse_events": []
+}

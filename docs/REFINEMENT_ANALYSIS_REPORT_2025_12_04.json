@@ -1,0 +1,28 @@
+{
+  "analysis_date": "2025-12-04T05:36:25.682639",
+  "case_number": "2025-137857",
+  "summary": {
+    "total_entities": 23,
+    "total_persons": 12,
+    "total_organizations": 11,
+    "total_events": 77,
+    "total_relations": 70,
+    "events_with_financial_impact": 62,
+    "incomplete_entities": 0,
+    "events_missing_evidence": 0,
+    "relations_missing_refs": 0,
+    "orphaned_events": 5
+  },
+  "recommendations": [
+    "Link 5 orphaned events to entities"
+  ],
+  "incomplete_entities": [],
+  "events_missing_evidence": [],
+  "orphaned_events": [
+    "EVENT_074",
+    "EVENT_071",
+    "EVENT_073",
+    "EVENT_070",
+    "EVENT_072"
+  ]
+}
