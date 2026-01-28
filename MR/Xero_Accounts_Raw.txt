@@ -1,0 +1,700 @@
+Found 122 accounts: Account: FNB 62896474972 - RSA SAV ZAR
+Code: No code
+ID: 9b95970c-c927-4851-8b07-05b4da958ed6
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 55270035642 - RST CUR ZAR
+Code: No code
+ID: d924c9b2-dc5e-4aaf-ae22-0898a59d61eb
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62060760404 - COR CUR ZAR
+Code: No code
+ID: 1daa4099-fc88-4db2-9d2a-1978f4bd0264
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62839603827 - RST CFC GBP
+Code: No code
+ID: 1a00140e-bcaa-4dde-9965-1aebdcf70e0b
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62826022577 - REZ SAV ZAR
+Code: No code
+ID: 512bd846-a499-487e-8cd0-1fcda1f488f9
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62423540807 - VVA CUR ZAR
+Code: No code
+ID: 9046b9f3-b000-40c9-be19-2d1e40ddb97d
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62027933606 - JF PER ZAR
+Code: No code
+ID: 413c43db-99cb-4b88-b012-32dd54763298
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62839603819 - RST CFC EUR
+Code: No code
+ID: 5b055674-3da2-4d02-8641-358ad41d8e39
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62593375829 - SLG SAV ZAR
+Code: No code
+ID: 7467b111-2aa6-40fb-a4a2-3ede56054b29
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62707308252 - RSA CUR ZAR
+Code: No code
+ID: 09ebe390-47e3-4ac5-8d9e-422fc726054d
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62089474309 - DF SAV ZAR
+Code: No code
+ID: 50c4a4b7-bec3-4c1c-9466-474faa74abdd
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62839612323 - RWD CFC GBP
+Code: No code
+ID: 24e32b4e-10ff-44ec-ba05-4cf0f0feba95
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62839612349 - RWD CFC EUR
+Code: No code
+ID: 241bd453-38e3-4370-9945-5d7b2bfa903e
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62707290003 - RZI CUR ZAR
+Code: No code
+ID: f0f993b5-a1a9-43f8-b571-6f29984b0ec0
+Type: BANK
+Status: ACTIVE
+Description: Regima Zone Impact (Pty) Ltd - Platinum Business Account
+Tax Type: NONE Account: FNB 62836164880 - RWD SAV ZAR
+Code: No code
+ID: af47193a-7cea-4e5d-ada8-6cd36f2b38d5
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62432501494 - SLG CUR ZAR
+Code: No code
+ID: d3b750a0-32e7-43ec-b26c-765e02c9d5a7
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62839612323 - SLG CFC EUR
+Code: No code
+ID: edc5db29-71ea-4273-8aa7-a548363db95e
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62839612331 - RWD CFC USD
+Code: No code
+ID: 7038ddef-af1c-4cab-b32b-a6da6ede7959
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62323196362 - RWD CUR ZAR
+Code: No code
+ID: f6b492cc-9dc9-4ff2-9b87-ae9d68a1aae9
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62707304606 - RZA CUR ZAR
+Code: No code
+ID: 4da9a89b-2630-46fd-a019-bedfac4bc44b
+Type: BANK
+Status: ACTIVE
+Description: Regima Zone Academy (Pty) Ltd - Platinum Business Account
+Tax Type: NONE Account: FNB 62707312310 - REZ CUR ZAR
+Code: No code
+ID: 4e92f47f-24d2-4b46-9718-c86be80b2886
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62742245617 - PF SAV ZAR
+Code: No code
+ID: d7cb2f8b-0f02-4dbc-b408-cc1d33d0e37a
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62471764946 - DF PER ZAR
+Code: No code
+ID: a1d935f5-4801-453a-b7b3-cc99e1999f98
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62839612331 - SLG CFC GBP
+Code: No code
+ID: d46d875a-e019-428b-8cef-e3ea6319de9e
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62462808290 - DF INV ZAR
+Code: No code
+ID: 7170f107-c51f-44e2-9f86-ecc0b6ddec78
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 55270018789 - PF PER ZAR
+Code: No code
+ID: f44bca18-d9dc-4d9e-a5ce-ecd9acbed667
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62012990132 - AYM CUR ZAR
+Code: No code
+ID: b2b303b2-7ca4-4aa3-bdce-edfc5fdc264c
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62896473974 - RSA TRU ZAR
+Code: No code
+ID: c3001c76-8365-452c-938f-f1ab418bb73c
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62839612349 - SLG CFC USD
+Code: No code
+ID: a34a9ef9-8beb-408e-aef0-f3d4046263c3
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62839603835 - RST CFC USD
+Code: No code
+ID: bb38d47f-ab79-4e71-8a12-fac9d8d51659
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62839603819 - Regima CFC EUR
+Code: No code
+ID: 740a9977-7369-41f2-ae23-fb3f59f6901a
+Type: BANK
+Status: ARCHIVED
+Tax Type: NONE Account: FNB 62839612331 - Strategic CFC GBP
+Code: No code
+ID: 2b1865a8-1d3c-40b4-8a09-8ec44d8c3d0c
+Type: BANK
+Status: ARCHIVED
+Tax Type: NONE Account: FNB 62839612349 - Strategic CFC USD
+Code: No code
+ID: c59cde66-6870-44d6-ae46-9e16e19d0f90
+Type: BANK
+Status: ARCHIVED
+Tax Type: NONE Account: FNB 62812835744 - VVA SAV ZAR
+Code: No code
+ID: be99b055-d83e-4cdd-80de-31c7286272c6
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: FNB 62134839127 - RST SAV ZAR
+Code: No code
+ID: b81ab56c-6bce-43b7-ab80-1ba390703286
+Type: BANK
+Status: ACTIVE
+Tax Type: NONE Account: Sales
+Code: 200
+ID: 41e509de-b35f-4f03-a2c1-57e6d71cb7c1
+Type: REVENUE
+Status: ACTIVE
+Description: Income from any normal business activity
+Tax Type: OUTPUT2 Account: Other Revenue
+Code: 260
+ID: cc66fc7d-3cc7-4721-be9f-f4dfbfcee2e0
+Type: REVENUE
+Status: ACTIVE
+Description: Any other income that does not relate to  normal business activity and is not recurring
+Tax Type: OUTPUT2 Account: Interest Income
+Code: 270
+ID: e77aae02-4c64-41ec-93a3-021185002b5f
+Type: REVENUE
+Status: ACTIVE
+Description: Gross interest income
+Tax Type: NONE Account: Cost of Goods Sold
+Code: 310
+ID: c6643b48-c1cd-4b2b-9fd1-06b832065bab
+Type: DIRECTCOSTS
+Status: ACTIVE
+Description: Cost of goods sold by the business
+Tax Type: INPUT2 Account: Direct Wages
+Code: 320
+ID: 992a88fc-a7bd-4feb-b322-fbf58eebe793
+Type: DIRECTCOSTS
+Status: ACTIVE
+Description: Payment of wages/salary to an employee whose work can be directly linked to the product or service
+Tax Type: NONE Account: Direct Expenses
+Code: 325
+ID: 0f2b026b-6cb5-4455-b0be-bcc83fa26f82
+Type: DIRECTCOSTS
+Status: ACTIVE
+Description: Expenses incurred that relate directly to earning revenue
+Tax Type: INPUT2 Account: Advertising & Marketing
+Code: 400
+ID: 7579debe-993f-4f6d-a3a5-2cde5ddbbaff
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred for advertising and marketing
+Tax Type: INPUT2 Account: Audit & Accountancy fees
+Code: 401
+ID: 7f7e12e2-175f-4767-98b2-6779eb8455fc
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred relating to accounting and audit fees
+Tax Type: INPUT2 Account: Bank Fees
+Code: 404
+ID: 33c3cdf3-0c7a-4d42-8c41-f599ac90d858
+Type: OVERHEADS
+Status: ACTIVE
+Description: Fees charged by your bank for transactions regarding your bank account(s)
+Tax Type: NONE Account: Cleaning
+Code: 408
+ID: b11f01a8-5a7a-423b-8273-bee97986a497
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred for cleaning business property
+Tax Type: INPUT2 Account: Consulting
+Code: 412
+ID: 0692ee18-6179-490a-88be-c93ff58c071c
+Type: OVERHEADS
+Status: ACTIVE
+Description: Payments made to consultants
+Tax Type: INPUT2 Account: Depreciation Expense
+Code: 416
+ID: ccd4857b-5e4a-46a8-b5ab-f132a20ef342
+Type: OVERHEADS
+Status: ACTIVE
+Description: The amount of the asset's cost (based on the useful life) that was consumed during the period
+Tax Type: NONE Account: Charitable and Political Donations
+Code: 418
+ID: f0092162-f10a-4046-9964-2c1469c411a1
+Type: OVERHEADS
+Status: ACTIVE
+Description: Payments made to charities or political organisations or events
+Tax Type: NONE Account: Entertainment-100% business
+Code: 420
+ID: 289cb645-a551-41fe-9f9d-b25ce299ef41
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred on entertainment by the business that for income tax purposes are fully deductable
+Tax Type: INPUT2 Account: Entertainment - 0%
+Code: 424
+ID: 8bd53c15-975a-4735-bc75-f3caaad0e076
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred on entertainment by the business that for income tax purposes are not fully deductable
+Tax Type: NONE Account: Postage, Freight & Courier
+Code: 425
+ID: 4a416ee5-bda0-48a2-8ef3-3d3e19cf898e
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred by the entity on postage, freight & courier costs
+Tax Type: EXEMPTINPUT Account: General Expenses
+Code: 429
+ID: b9515574-0737-4acb-9afc-56c1341701b3
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred that relate to the general running of the business
+Tax Type: INPUT2 Account: Insurance
+Code: 433
+ID: 7f864ebf-52d4-4189-b71e-1ded1fba19f3
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred for insuring the business' assets
+Tax Type: EXEMPTINPUT Account: Interest Paid
+Code: 437
+ID: 8cd6b125-d6ee-4868-b9ca-d61348f2f8ec
+Type: OVERHEADS
+Status: ACTIVE
+Description: Interest paid on a business bank account or credit card account
+Tax Type: NONE Account: Legal Expenses
+Code: 441
+ID: 7e43ec11-2256-4efe-87a1-ee3cd96eb2c8
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred on any legal matters
+Tax Type: INPUT2 Account: Light, Power, Heating
+Code: 445
+ID: 7f103a92-818d-4af5-8601-d3d1ae722c30
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred for lighting, power or heating the business premises
+Tax Type: RRINPUT Account: Motor Vehicle Expenses
+Code: 449
+ID: 73565d97-e610-4eb4-9ea3-71fddb6cfd6f
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred on the running of business motor vehicles
+Tax Type: INPUT2 Account: Operating Lease Payments
+Code: 457
+ID: 780d33f8-0a2d-4c57-bd33-7b5a9ae635d1
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred on operating expenses such as office rental and vehicle leases (excludes hire purchase agreements)
+Tax Type: INPUT2 Account: Printing & Stationery
+Code: 461
+ID: ee423093-806b-4e9c-9e9c-109da7c60f19
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred on printing and stationery
+Tax Type: INPUT2 Account: IT Software and Consumables
+Code: 463
+ID: 59b7cedf-711c-45e6-b3dd-61903ac177f6
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred  on  software or computer consumables
+Tax Type: INPUT2 Account: Rates
+Code: 465
+ID: 4573e872-8262-4bce-be9e-22bbec56cafe
+Type: OVERHEADS
+Status: ACTIVE
+Description: Payments made to local council for rates
+Tax Type: INPUT2 Account: Rent
+Code: 469
+ID: 44952ec8-f699-40e3-8e6f-81d945d92e73
+Type: OVERHEADS
+Status: ACTIVE
+Description: Payments  made to lease a building or area
+Tax Type: INPUT2 Account: Repairs & Maintenance
+Code: 473
+ID: f825df81-46db-4a16-b169-2231cb2e1224
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred on a damaged or run down asset that will bring the asset back to its original condition
+Tax Type: INPUT2 Account: Salaries
+Code: 477
+ID: 32824692-2c1e-4a3d-9a63-c9398a231c4c
+Type: OVERHEADS
+Status: ACTIVE
+Description: Payment to employees in exchange for their resources
+Tax Type: NONE Account: Directors' Remuneration
+Code: 478
+ID: f7025168-f80c-4d16-b56d-592d883fd637
+Type: OVERHEADS
+Status: ACTIVE
+Description: Payments to company directors in exchange for their resources
+Tax Type: NONE Account: Employers National Insurance
+Code: 479
+ID: 303a104b-29f8-4b05-bc56-0553897ab72a
+Type: OVERHEADS
+Status: ACTIVE
+Description: Payment made for National Insurance contributions - business contribution only
+Tax Type: NONE Account: Staff Training
+Code: 480
+ID: c4a351d7-bf46-4b2f-952d-81d0c354ab72
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred in relation to training staff
+Tax Type: INPUT2 Account: Pensions Costs
+Code: 482
+ID: 55b1f26c-3df7-4d38-be68-167dea52583a
+Type: OVERHEADS
+Status: ACTIVE
+Description: Payments made to pension schemes
+Tax Type: NONE Account: Medical Insurance
+Code: 483
+ID: 85f271a3-05eb-4587-a01f-fae9af132c54
+Type: OVERHEADS
+Status: ACTIVE
+Description: Payments made to medical insurance schemes
+Tax Type: EXEMPTINPUT Account: Subscriptions
+Code: 485
+ID: f12d8ea7-5def-4eae-bca5-b3e3cc5bea5c
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred by the business in relation to subscriptions, such as magazines and professional bodies
+Tax Type: EXEMPTINPUT Account: Telephone & Internet
+Code: 489
+ID: d5779393-09e8-4f7d-864d-3baf00757a10
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred from any business-related phone calls, phone lines, or internet connections
+Tax Type: INPUT2 Account: Travel - National
+Code: 493
+ID: 9aa964d5-6f4a-486f-99a9-496726cc7c75
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred from any domestic business travel
+Tax Type: INPUT2 Account: Travel - International
+Code: 494
+ID: 2d851bed-8e0b-46f1-9ba6-247506d5e1b1
+Type: OVERHEADS
+Status: ACTIVE
+Description: Expenses incurred from any international business travel
+Tax Type: NONE Account: Bank Revaluations
+Code: 497
+ID: 761250fb-48c9-4799-9157-16c0fe67f105
+Type: EXPENSE
+Status: ACTIVE
+Description: Bank account revaluations due for foreign exchange rate changes
+Tax Type: NONE Account: Unrealised Currency Gains
+Code: 498
+ID: 76dd3afb-18f9-4047-9620-447990848e2b
+Type: EXPENSE
+Status: ACTIVE
+Description: Unrealised currency gains on outstanding items
+Tax Type: NONE Account: Realised Currency Gains
+Code: 499
+ID: df17c983-76a9-4bb8-bf46-1e981ceff3f8
+Type: EXPENSE
+Status: ACTIVE
+Description: Gains or losses made due to currency exchange rate changes
+Tax Type: NONE Account: Corporation Tax
+Code: 500
+ID: e9698f11-f849-4fdc-a939-6b40856051e7
+Type: OVERHEADS
+Status: ACTIVE
+Description: Tax payable on business profits
+Tax Type: NONE Account: Accounts Receivable
+Code: 610
+ID: 96e21c06-a85b-47d0-b7fe-0b2273610ef4
+Type: CURRENT
+Status: ACTIVE
+Description: Invoices the business has issued but has not yet collected payment on
+Tax Type: NONE Account: Less Provision for Doubtful Debts
+Code: 611
+ID: 30942fe1-00d6-481c-859d-f235cd56d582
+Type: CURRENT
+Status: ACTIVE
+Description: A provision anticipating that a portion of accounts receivable will never be collected
+Tax Type: NONE Account: Prepayments
+Code: 620
+ID: 2fc113c1-a7cd-4d76-933e-e1aa27d8fcf5
+Type: CURRENT
+Status: ACTIVE
+Description: An expenditure that has been paid for in advance
+Tax Type: NONE Account: Inventory
+Code: 630
+ID: b53346b4-d655-4aa5-a9b0-90e75f68a103
+Type: INVENTORY
+Status: ACTIVE
+Description: Value of tracked items for resale.
+Tax Type: NONE Account: Office Equipment
+Code: 710
+ID: 5d49ee11-d53d-41c4-bfdd-df2b4910f45c
+Type: FIXED
+Status: ACTIVE
+Description: Office equipment that is owned and controlled by the business
+Tax Type: INPUT2 Account: Less Accumulated Depreciation on Office Equipment
+Code: 711
+ID: 4f126151-ef20-43bb-a3dd-3212a7783cbd
+Type: FIXED
+Status: ACTIVE
+Description: The total amount of office equipment costs that has been consumed by the business (based on the useful life)
+Tax Type: NONE Account: Computer Equipment
+Code: 720
+ID: 96f92ed8-5661-47ff-aeb8-3ad987e9d6da
+Type: FIXED
+Status: ACTIVE
+Description: Computer equipment that is owned and controlled by the business
+Tax Type: INPUT2 Account: Less Accumulated Depreciation on Computer Equipment
+Code: 721
+ID: 7b9d373d-5ccb-4b9c-96c4-be930507d9a0
+Type: FIXED
+Status: ACTIVE
+Description: The total amount of computer equipment costs that has been consumed by the business (based on the useful life)
+Tax Type: NONE Account: Buildings
+Code: 740
+ID: 9455c3bd-66d9-4ed4-97b7-76e0a908cd21
+Type: FIXED
+Status: ACTIVE
+Description: Buildings that are owned and controlled by the business
+Tax Type: INPUT2 Account: Less Accumulated Depreciation on Buildings
+Code: 741
+ID: 4fd35d85-57ca-4303-b688-c9e38dc82618
+Type: FIXED
+Status: ACTIVE
+Description: The total amount of buildings costs that have been consumed by the business (based on the useful life)
+Tax Type: NONE Account: Leasehold Improvements
+Code: 750
+ID: 08e98fb3-4f56-4213-b1a4-c424215f6a53
+Type: FIXED
+Status: ACTIVE
+Description: The value added to the leased premises via improvements
+Tax Type: INPUT2 Account: Less Accumulated Depreciation on Leasehold Improvements
+Code: 751
+ID: e5eef8fc-b52d-42a6-b649-c3f064a2958e
+Type: FIXED
+Status: ACTIVE
+Description: The total amount of leasehold improvement costs that has been consumed by the business (based on the useful life)
+Tax Type: NONE Account: Motor Vehicles
+Code: 760
+ID: dd6f788d-dd59-419d-adde-bfb8b7285c94
+Type: FIXED
+Status: ACTIVE
+Description: Motor vehicles that are owned and controlled by the business
+Tax Type: INPUT2 Account: Less Accumulated Depreciation on Motor Vehicles
+Code: 761
+ID: e5e33c41-2528-4614-9bef-29c8c0e838d0
+Type: FIXED
+Status: ACTIVE
+Description: The total amount of motor vehicle costs that has been consumed by the business (based on the useful life)
+Tax Type: NONE Account: Plant and Machinery
+Code: 764
+ID: 3a761351-dde4-4d0a-94a2-da382442aad2
+Type: FIXED
+Status: ACTIVE
+Description: Plant and machinery that are owned and controlled by the business
+Tax Type: INPUT2 Account: Less Accumulated Depreciation on Plant and Machinery
+Code: 765
+ID: 00854ef3-a4ca-4f40-aff7-43ca014987d3
+Type: FIXED
+Status: ACTIVE
+Description: The total amount of plant and machinery cost that has been consumed by the business (based on the useful life)
+Tax Type: NONE Account: Intangibles
+Code: 770
+ID: 2723756a-ba9d-4468-a5fe-e7a047c99f73
+Type: FIXED
+Status: ACTIVE
+Description: Assets with no physical presence e.g. goodwill or patents
+Tax Type: INPUT2 Account: Less Accumulated Amortisation on Intangibles
+Code: 771
+ID: 51c46374-ee42-4ed1-9d6f-6dbe23046f82
+Type: FIXED
+Status: ACTIVE
+Description: The total amount of intangibles that have been consumed by the business
+Tax Type: NONE Account: Accounts Payable
+Code: 800
+ID: 7440d452-1c0c-4af7-b02a-5f7631795c81
+Type: CURRLIAB
+Status: ACTIVE
+Description: Invoices the company has received from suppliers but have not made payment on
+Tax Type: NONE Account: Unpaid Expense Claims
+Code: 801
+ID: 86981e82-6e1f-4f75-9d6e-7a44f3898c97
+Type: CURRLIAB
+Status: ACTIVE
+Description: Expense claims typically made by employees/shareholder employees which the business has not made payment on
+Tax Type: NONE Account: Wages Payable
+Code: 803
+ID: 1c83a3a1-9281-4620-aae2-72c8e9aa245d
+Type: CURRLIAB
+Status: ARCHIVED
+Description: Xero automatically updates this account for payroll entries created using Payroll and will store the payroll amount to be paid to the employee for the pay run. This account enables you to maintain separate accounts for employee Wages Payable amounts and Accounts Payable amounts
+Tax Type: NONE Account: Accruals
+Code: 805
+ID: b0c3b5c8-49ec-4ee2-b287-a7ebb981eb5d
+Type: CURRLIAB
+Status: ACTIVE
+Description: Any services the business has received but have not yet been invoiced for e.g. Accountancy Fees
+Tax Type: NONE Account: Income in Advance
+Code: 810
+ID: 9bf786b6-23de-4000-887a-eaa542b29b8f
+Type: CURRLIAB
+Status: ACTIVE
+Description: Any income the business has received but have not provided the goods or services for
+Tax Type: OUTPUT2 Account: Credit Card Control Account
+Code: 811
+ID: 212f44b4-dff7-4cd8-83a8-0cbb62e8b0cd
+Type: CURRLIAB
+Status: ACTIVE
+Description: The amount owing on the company's credit cards
+Tax Type: NONE Account: Wages Payable - Payroll
+Code: 814
+ID: 98a670a3-0c2b-4039-bac9-4bf48493d635
+Type: CURRLIAB
+Status: ACTIVE
+Description: Where this account is set as the nominated Wages Payable account within Payroll Settings, Xero allocates the net wage amount of each pay run created using Payroll to this account
+Tax Type: NONE Account: Employee contribution to benefits
+Code: 815
+ID: 4b817f76-e9b6-4fe3-969c-84542dd1c0eb
+Type: CURRLIAB
+Status: ACTIVE
+Description: Payroll deductions for employee contributions towards payrolled benefits in kind
+Tax Type: NONE Account: VAT
+Code: 820
+ID: 35b3f9b1-103a-412f-8475-fa57fd5b8432
+Type: CURRLIAB
+Status: ACTIVE
+Description: The balance in this account represents VAT owing to or from the HMRC. At the end of the VAT period, it is this account that should be used to code against either the ‘refunds from’ or ‘payments to’ the HMRC that will appear on the bank statement. Xero has been designed to use only one VAT account to track VAT on income and expenses, so there is no need to add any new VAT accounts to Xero
+Tax Type: NONE Account: PAYE Payable
+Code: 825
+ID: db64bcdc-f4cc-4bd3-a19e-80fbb1ea8625
+Type: CURRLIAB
+Status: ACTIVE
+Description: The Amount of PAYE tax due to be paid to the HMRC
+Tax Type: NONE Account: NIC Payable
+Code: 826
+ID: e5dc2fa9-9c1b-45a6-9af5-85006b0612ae
+Type: CURRLIAB
+Status: ACTIVE
+Description: The amount of a business' portion of National Insurance Contribution that is due to be paid to the HMRC
+Tax Type: NONE Account: Provision for Corporation Tax
+Code: 830
+ID: 8f2570a0-45d2-4855-97f4-4d18d0560d7c
+Type: CURRLIAB
+Status: ACTIVE
+Description: Corporation tax payable to the HMRC
+Tax Type: NONE Account: Directors' Loan Account
+Code: 835
+ID: 06675292-b2f9-4354-9c73-27b6361dc75e
+Type: CURRLIAB
+Status: ACTIVE
+Description: Monies owed to or from company directors
+Tax Type: NONE Account: Historical Adjustment
+Code: 840
+ID: 0e873053-91a7-4b9f-a7cf-a1c6a6cb5d83
+Type: CURRLIAB
+Status: ACTIVE
+Description: For any accounting and starting balance adjustments
+Tax Type: NONE Account: Suspense
+Code: 850
+ID: fe3958d4-b30b-4e3a-8337-63c081113ca4
+Type: CURRLIAB
+Status: ACTIVE
+Description: A clearing account
+Tax Type: NONE Account: Pensions Payable
+Code: 858
+ID: d0d75279-1cca-4a85-b54f-a0bd50a899fc
+Type: CURRLIAB
+Status: ACTIVE
+Description: Payroll pension payable account
+Tax Type: NONE Account: Rounding
+Code: 860
+ID: aca4562c-84fd-4b28-ae90-14aff7907a49
+Type: CURRLIAB
+Status: ACTIVE
+Description: An adjustment entry to allow for rounding
+Tax Type: NONE Account: Earnings Orders Payable
+Code: 868
+ID: a1de257e-0e94-4c23-bc77-60d924943186
+Type: CURRLIAB
+Status: ACTIVE
+Description: Payroll earnings order account
+Tax Type: NONE Account: Tracking Transfers
+Code: 877
+ID: ddb5af44-9839-470b-8384-57118f1754aa
+Type: CURRLIAB
+Status: ACTIVE
+Description: Transfers between tracking categories
+Tax Type: NONE Account: Loan
+Code: 900
+ID: c7bd6f3c-255a-455b-892e-2f9e860bcb8a
+Type: TERMLIAB
+Status: ACTIVE
+Description: Any money that has been borrowed from a creditor
+Tax Type: NONE Account: Hire Purchase Loan
+Code: 910
+ID: 8611ad4a-cdbb-47c9-b63f-75ee417288ff
+Type: TERMLIAB
+Status: ACTIVE
+Description: Any goods bought through hire purchase agreements
+Tax Type: NONE Account: Deferred Tax
+Code: 920
+ID: 82efe941-8ca5-43fd-aeb7-8f69345d37d5
+Type: TERMLIAB
+Status: ACTIVE
+Description: Used if there is a timing difference between taxable profits and accounting profits
+Tax Type: NONE Account: Student Loan Deductions Payable
+Code: 947
+ID: d0714a56-6b79-40d5-b593-8bb1b035e69f
+Type: CURRLIAB
+Status: ACTIVE
+Description: Payroll student loan deductions payable account
+Tax Type: NONE Account: Capital - x,xxx Ordinary Shares
+Code: 950
+ID: 24a09223-149d-49b5-9945-c6ebe3a88075
+Type: EQUITY
+Status: ACTIVE
+Description: Paid up capital
+Tax Type: NONE Account: Retained Earnings
+Code: 960
+ID: c2b13489-49f1-424d-8c4b-7a3f6181ee5c
+Type: EQUITY
+Status: ACTIVE
+Description: Do not Use
+Tax Type: NONE Account: Owner A Funds Introduced
+Code: 970
+ID: 2a20f32a-4986-4367-a7a7-09da00cc40fb
+Type: EQUITY
+Status: ACTIVE
+Description: Funds contributed by the owner
+Tax Type: NONE Account: Owner A Drawings
+Code: 980
+ID: d9783fdf-1522-461e-9b87-664c9b8ea3e3
+Type: EQUITY
+Status: ACTIVE
+Description: Withdrawals by the owners
+Tax Type: NONE
