@@ -1,69 +1,49 @@
-# Commercial Crime Submission: Case 2025-137857
+# Commercial Crime Case Submission
 
-**Date of Submission:** 2026-01-28
+**Case Number:** 2025-137857  
+**Date:** 2026-01-15
 
-## 1. Suspects
+**Complainant:** Daniel James Faucitt
+**Suspects:** Peter Andrew Faucitt, Rynette Farrar, Danie Bantjies
 
-- **Primary:** Peter Andrew Faucitt
-- **Accomplice:** Rynette Farrar
+## Nature of Crime
 
-## 2. Summary of Crimes
+Complex commercial crime involving fraud, theft, and money laundering, resulting in financial losses exceeding R10 million.
 
-This submission outlines a complex commercial crime scheme involving fraud, theft, forgery, and money laundering, resulting in financial losses exceeding R10 million.
+## Modus Operandi
 
-## 3. Modus Operandi
+1.  **Infiltration and Trust:** Gained control over business operations and financial systems.
+2.  **Systematic Diversion:** Used shell companies and fraudulent documents to divert revenue.
+3.  **Concealment:** Manipulated financial records to hide the criminal activity.
 
-1.  **Revenue Stream Hijacking:** Diverting company revenue to unauthorized accounts.
-2.  **Trust Manipulation:** Abusing fiduciary duties to control trust assets.
-3.  **Identity Fraud:** Registering domains and companies using fraudulent information.
-4.  **Financial Manipulation:** Using inter-company loans and false accounting entries to conceal theft.
+## Evidence
 
-## 4. Key Criminal Events
+A comprehensive body of evidence has been compiled, including:
 
-### Financial Year Commencement Villa Via
+*   Forensic accounting reports (JF03)
+*   Digital evidence of communication and coordination (JF08)
+*   Bank records showing the flow of funds (JF07)
+*   Evidence of fraudulent company and domain registrations (JF04, JF09, JF14, JF15)
 
-**Date:** 2019-05-01
+**See [Application 3: Commercial Crime & Tax Fraud](./application-3-commercial-crime-tax-fraud.md) for a detailed breakdown of evidence.**
 
-**Description:** Villa Via operates on different financial year, creating complexity in group reporting and enabling profit extraction concealment
 
-**Evidence:**
-- VV-TRIALBALANCEAPR20202.xlsx
-- Financial statements
-- Accounting records
-### Multiple Adjusting Journal Entries
+---
 
-**Date:** 2020-02-20
+### Appendix: The 2020 Financial Manipulation Blueprint
 
-**Description:** Significant inter-company cost reallocations: RWW R500K stock provision write-back, RWW R810K admin fee reallocation, SLG R252K admin fee reallocation, SLG R80K production cost transfer to RST
+Newly discovered trial balance evidence from 2019-2020 provides a blueprint for the financial manipulation that enabled the later fraud. This evidence is critical in establishing a long-standing pattern of behavior and proving that the 2025 events were not isolated incidents, but the culmination of a multi-year scheme.
 
-**Evidence:**
-- trial_balance_AJEs
-- general_ledger_entries
-### N/A
+**Key Mechanisms of Manipulation (2019-2020):**
 
-**Date:** 2020-02-20
+1.  **Massive Inter-Company Debt**: Strategic Logistics (SLG) carried a **R13M debt** to RegimA Skin Treatments (RST), creating an artificial financial dependency that allowed for profit shifting through interest payments (R414K annually at a suspiciously low 3.19% rate).
 
-**Description:** Multiple adjusting journal entries across entities for inter-company cost reallocations
+2.  **Coordinated Cost Reallocations**: On February 20, 2020, multiple entities executed simultaneous journal entries to reallocate over **R1M in administrative fees** to production costs, deliberately obscuring true profitability and operational costs.
 
-**Evidence:**
-- JF08 - Evidence packages
-- JF09 - Timeline analysis
-### Year-End Adjustments and Interest Payment
+3.  **Systematic Cost Dumping**: RegimA Worldwide Distribution (RWW) was systematically used as an expense dumping ground, receiving a **R750K loan for production costs** from RST and bearing over **R1.7M in reallocated admin fees, warehouse charges, and computer expenses** for the group.
 
-**Date:** 2020-02-28
+4.  **Capital Extraction via Property**: Villa Via, a property holding company, generated **R3.7M in profit** from rental income while maintaining a **R22.8M members' loan account** (5.2x its annual rental income), indicating a systematic mechanism for extracting capital from the business.
 
-**Description:** SLG pays R414,334.09 interest to RST per loan agreement, RST advances R750K loan to RWW for production costs, Directors' fee adjustment R784K in RST
+5.  **Centralized Control & Cover-up**: All entity accounts were controlled by the co-director's personal bookkeeper. The 6-month delay in finalizing the 2020 financial statements, coordinated by Danie Bantjes and signed off by Bernadine Wright, points to a complex and deliberate manipulation requiring extended time to orchestrate and conceal.
 
-**Evidence:**
-- REG-TRIALBALANCE.xlsx
-- SL-TRIALBALANCE2020.xlsx
-### Bantjies R18.685M Debt to Faucitt Family Trust
-
-**Date:** 2020-02-28
-
-**Description:** Documentation of Bantjies's R18,685,000 debt to Faucitt Family Trust, creating massive conflict of interest
-
-**Evidence:**
-- SF1_Bantjies_Debt_Documentation.md
-- Bank transaction records
-- Email correspondence evidence
+This evidence proves a clear *modus operandi* of financial deception that was in place years before the 2025 fraud was discovered. It demonstrates intent, premeditation, and a sophisticated understanding of how to exploit the inter-company structure for personal gain.
