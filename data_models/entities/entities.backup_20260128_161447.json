@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "version": "38.0_ORGANOGRAM_INTEGRATION_2026_01_28",
+    "version": "37.0_KETONI_CORRECTION_2026_01_28",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-28T16:14:47.310760",
-    "changes": "Added Kent (PERSON_037), EL (PERSON_038), and Courier Guy (PLATFORM_002) from Rynette Organogram 2025-04-12",
-    "total_entities": 89,
-    "total_persons": 38,
+    "last_updated": "2026-01-28T06:41:36.738227",
+    "changes": "Critical correction: R18.75M is Ketoni debt to FFT, not Bantjies personal debt. Added George Group entity.",
+    "total_entities": 86,
+    "total_persons": 36,
     "total_organizations": 51
   },
   "entities": {
@@ -1541,78 +1541,6 @@
         },
         "timeline_events": [],
         "refinement_date": "2026-01-28T05:45:17.386844"
-      },
-      {
-        "entity_id": "PERSON_037",
-        "name": "Kent (Unknown Surname)",
-        "email": "kent@regima.zone",
-        "role": "sales_order_processor",
-        "agent_type": "operational_staff",
-        "involvement_events": 1,
-        "primary_actions": [
-          "order_receipt_phone_email",
-          "proforma_invoice_creation",
-          "pop_receipt_processing",
-          "order_fulfillment_marking"
-        ],
-        "relationships": [
-          "employee_of_regima_group",
-          "sage_user_rwd",
-          "works_with_PERSON_038"
-        ],
-        "evidence": [
-          "Rynette Organogram 2025-04-12 - How Sales Work",
-          "Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md - kent@regima.zone user",
-          "POPIA violation letters sent to Kent"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md",
-          "ANNEXURES/JF09/APR-SEP-2025.md - POPIA letters to Kent",
-          "evidence_analysis/rynette_organogram_2025-04-12.md"
-        ],
-        "significance": "Key sales personnel handling customer orders, proforma invoices, and POP processing. Named in sales process flow diagram.",
-        "evidence_enhanced": "2026-01-28T16:14:47.310720",
-        "evidence_strength": "moderate",
-        "organogram_source": {
-          "document": "Powerpoint-howsaleswork.pdf",
-          "date": "2025-04-12",
-          "role_in_flow": "Order receipt (phone/email), Proforma invoice creation in Shopify, POP receipt, Order fulfillment marking"
-        }
-      },
-      {
-        "entity_id": "PERSON_038",
-        "name": "EL (Unknown Surname)",
-        "email": "el@regimazone",
-        "role": "sales_order_processor",
-        "agent_type": "operational_staff",
-        "involvement_events": 1,
-        "primary_actions": [
-          "order_receipt_phone_email",
-          "proforma_invoice_creation",
-          "pop_receipt_processing",
-          "order_fulfillment_marking"
-        ],
-        "relationships": [
-          "employee_of_regima_group",
-          "sage_user_rwd",
-          "works_with_PERSON_037"
-        ],
-        "evidence": [
-          "Rynette Organogram 2025-04-12 - How Sales Work",
-          "Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json - el@regimazone user"
-        ],
-        "ad_res_j7_references": [
-          "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json",
-          "evidence_analysis/rynette_organogram_2025-04-12.md"
-        ],
-        "significance": "Key sales personnel handling customer orders alongside Kent. Named in sales process flow diagram.",
-        "evidence_enhanced": "2026-01-28T16:14:47.310753",
-        "evidence_strength": "moderate",
-        "organogram_source": {
-          "document": "Powerpoint-howsaleswork.pdf",
-          "date": "2025-04-12",
-          "role_in_flow": "Order receipt (phone/email), Proforma invoice creation in Shopify, POP receipt, Order fulfillment marking"
-        }
       }
     ],
     "organizations": [
@@ -3153,33 +3081,6 @@
         ],
         "evidence_enhanced": "2025-12-31T05:34:39.187399",
         "evidence_strength": "strong"
-      },
-      {
-        "entity_id": "PLATFORM_002",
-        "name": "Courier Guy",
-        "type": "logistics_platform",
-        "role": "delivery_service",
-        "services": [
-          "shipment_loading_portal",
-          "tracking_number_generation",
-          "parcel_collection",
-          "delivery_notification",
-          "return_handling"
-        ],
-        "evidence": [
-          "Rynette Organogram 2025-04-12 - How Sales Work"
-        ],
-        "ad_res_j7_references": [
-          "evidence_analysis/rynette_organogram_2025-04-12.md"
-        ],
-        "significance": "Third-party logistics provider used for order fulfillment. Provides tracking and delivery verification.",
-        "evidence_enhanced": "2026-01-28T16:14:47.310756",
-        "evidence_strength": "moderate",
-        "organogram_source": {
-          "document": "Powerpoint-howsaleswork.pdf",
-          "date": "2025-04-12",
-          "role_in_flow": "Shipment loading, tracking, collection, delivery, return handling"
-        }
       }
     ],
     "domains": [

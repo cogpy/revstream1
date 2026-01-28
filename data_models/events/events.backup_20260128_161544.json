@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "32.0_ORGANOGRAM_INTEGRATION_2026_01_28",
+    "version": "31.0_COMPREHENSIVE_REFINED_2026_01_28",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "total_events": 131,
+    "total_events": 130,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-01-28T16:15:44.971567",
-    "changes": "Added EVENT_ORG_001 from Rynette Organogram 2025-04-12 documenting sales process flow",
+    "last_updated": "2026-01-28T05:45:17.386844",
+    "changes": "Comprehensive LEX refinement - burden of proof classification",
     "phase_statistics": {
       "PHASE_1": 25,
       "PHASE_2": 4,
@@ -4623,53 +4623,6 @@
       "victims": [],
       "ad_res_j7_references": [],
       "refinement_date": "2026-01-28T05:45:17.386844"
-    },
-    {
-      "event_id": "EVENT_ORG_001",
-      "date": "2025-04-12",
-      "title": "Rynette Organogram - Sales Process Documentation",
-      "event_type": "operational_documentation",
-      "category": "business_operations",
-      "description": "Rynette creates/distributes 'How Sales Work' organogram documenting the complete sales process flow from customer order through delivery. Document reveals Kent and EL as key sales personnel, Shopify-to-Sage automation, and Courier Guy logistics integration.",
-      "entities_involved": [
-        "PERSON_002",
-        "PERSON_037",
-        "PERSON_038",
-        "ORG_001",
-        "PLATFORM_001",
-        "PLATFORM_002"
-      ],
-      "perpetrators": [],
-      "victims": [],
-      "location": "South Africa",
-      "financial_impact": 0,
-      "significance": "Documents operational structure showing dual personnel control (Kent/EL), system automation (Shopify\u2192Sage), and third-party verification (Courier Guy). Reveals paper trail: Proforma Invoice \u2192 POP \u2192 Tax Invoice.",
-      "evidence": [
-        "Powerpoint-howsaleswork.pdf",
-        "rynette_organogram_2025-04-12.md"
-      ],
-      "ad_res_j7_references": [
-        "evidence_analysis/rynette_organogram_2025-04-12.md",
-        "evidence_analysis/images/rynette_organogram_howsaleswork_2025-04-12.webp"
-      ],
-      "timeline_phase": "PHASE_3",
-      "phase": "PHASE_3",
-      "burden_of_proof": "civil_50%_exceeded",
-      "evidence_enhanced": "2026-01-28T16:15:44.971527",
-      "refinement_date": "2026-01-28T16:15:44.971560",
-      "legal_relevance": {
-        "companies_act": "Demonstrates operational structure and personnel roles",
-        "popia": "Shows customer data handling through email, phone, delivery addresses",
-        "tax_fraud": "Documents tax invoice generation process via Sage automation",
-        "commercial_crime": "Establishes revenue flow documentation and paper trail"
-      },
-      "key_findings": [
-        "Kent and EL handle all customer orders via phone/email",
-        "Proforma invoices created in Shopify before payment",
-        "POP (Proof of Payment) required before order fulfillment",
-        "Shopify automatically syncs to Sage for tax invoice generation",
-        "Courier Guy provides independent tracking and delivery verification"
-      ]
     }
   ]
 }

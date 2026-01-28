@@ -134,6 +134,9 @@ This financial motive explains:
 - [Fabricated Accounts Fraud Proof](./fabricated_accounts_fraud_proof.png)
 - [Causal Chain Torture](./causal_chain_torture.png)
 
+### Operational Documentation
+- **[Rynette Organogram - Sales Process Flow (2025-04-12)](./evidence/organograms/rynette-organogram-2025-04-12.md)** - NEW: Complete sales process documentation revealing Kent, EL, Shopify-Sage automation, and Courier Guy logistics
+
 ---
 
 ## 📋 Case Summary
@@ -173,9 +176,9 @@ This financial motive explains:
 
 | Metric | Count |
 |--------|-------|
-| **Entities** | 86 (persons, organizations, trusts, domains) |
-| **Events** | 130 documented events |
-| **Relations** | 123 mapped relationships |
+| **Entities** | 89 (persons, organizations, trusts, domains, platforms) |
+| **Events** | 131 documented events |
+| **Relations** | 129 mapped relationships |
 | **Timeline Entries** | 125 |
 | **Criminal Threshold Events** | 52 |
 | **Evidence Files** | 1,151+ unique references in ad-res-j7 |
@@ -230,9 +233,9 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 *This documentation is continuously updated as new evidence is analyzed and legal filings are refined. All evidence references are cross-linked to the ad-res-j7 repository for verification and detailed examination.*
 
 **Data Model Versions:**
-- Entities: v36.0_COMPREHENSIVE_REFINED_2026_01_28
-- Events: v31.0_COMPREHENSIVE_REFINED_2026_01_28
-- Relations: v36.0_COMPREHENSIVE_REFINED_2026_01_28
-- Timeline: v31.0_COMPREHENSIVE_REFINED_2026_01_28
+- Entities: v38.0_ORGANOGRAM_INTEGRATION_2026_01_28
+- Events: v32.0_ORGANOGRAM_INTEGRATION_2026_01_28
+- Relations: v16.0_ORGANOGRAM_INTEGRATION_2026_01_28
+- Timeline: v32.0_ORGANOGRAM_INTEGRATION_2026_01_28
 
-**Last Refinement:** 2026-01-28 05:47:07 (LEX Investigation System)
+**Last Refinement:** 2026-01-28 16:16:00 (Rynette Organogram Integration)
