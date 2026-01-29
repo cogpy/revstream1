@@ -1,0 +1,52 @@
+{
+  "title": "FNB Response Email Evidence Chain",
+  "date_created": "2026-01-29 03:23:12",
+  "evidence_id": "FNB_RESPONSE_EMAIL_2025_06_18",
+  "timeline_sequence": [
+    {
+      "date": "2025-06-06",
+      "event": "Daniel exposes fraud to Bantjies",
+      "days_offset": 0
+    },
+    {
+      "date": "2025-06-07",
+      "event": "Secret card cancellations",
+      "days_offset": 1
+    },
+    {
+      "date": "2025-06-17",
+      "event": "Peter writes FNB fraud letter",
+      "days_offset": 11
+    },
+    {
+      "date": "2025-06-17",
+      "event": "FNB schedules meeting (1:42 PM)",
+      "days_offset": 11
+    },
+    {
+      "date": "2025-06-18",
+      "event": "Pete requests meeting time change (08:17)",
+      "days_offset": 12
+    },
+    {
+      "date": "2025-06-18",
+      "event": "FNB declines meeting - cites mandate (4:51 PM)",
+      "days_offset": 12
+    }
+  ],
+  "key_revelation": {
+    "quote": "The current mandate states that any of the directors of the company may act independently of each other.",
+    "source": "Mpumi Netshipale, FNB Business Relationship Manager",
+    "implications": [
+      "Each director has independent authority to act on the account",
+      "No co-signature required for transactions",
+      "FNB cannot be held liable for following the mandate",
+      "Directors must pass a resolution to change this arrangement"
+    ]
+  },
+  "legal_significance": {
+    "civil_threshold": "EXCEEDED",
+    "criminal_threshold": "STRENGTHENED",
+    "corporate_governance": "DOCUMENTED"
+  }
+}

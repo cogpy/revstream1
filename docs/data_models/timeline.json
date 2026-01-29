@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "version": "25.0_FNB_FRAUD_LETTER_2026_01_29",
+    "version": "v26.0_FNB_RESPONSE_2026_01_29",
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-01-29T03:13:35.860916",
+    "last_updated": "2026-01-29 03:22:35",
     "changes": "Added FNB Fraud Letter timeline entry (2025-06-17)"
   },
   "timeline": [
@@ -1046,6 +1046,27 @@
       "evidence": [
         "JF08 - Recent Evidence",
         "JF06 - Court Documents"
+      ]
+    },
+    {
+      "date": "2025-06-18",
+      "event_count": 1,
+      "events": [
+        "EVENT_FNB_002"
+      ],
+      "primary_category": "Banking Mandate",
+      "description": "FNB's legal department confirms bank mandate allows any director to act independently. Meeting declined as FNB protected by validly signed mandate.",
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_003",
+        "ORG_FNB"
+      ],
+      "legal_significance": "high",
+      "evidence_references": [
+        "FNB_RESPONSE_EMAIL_2025_06_18"
+      ],
+      "evidence": [
+        "SF10 - FNB Response Email"
       ]
     },
     {

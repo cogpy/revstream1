@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "24.0_FNB_FRAUD_LETTER_2026_01_29",
+    "version": "v25.0_FNB_RESPONSE_2026_01_29",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-01-29T03:13:56.418341",
+    "last_updated": "2026-01-29 03:23:12",
     "changes": "Added REL_FNB_001: Peter-FNB fraud acknowledgment relation",
-    "total_relations": 78
+    "total_relations": 79
   },
   "relations": {
     "ownership_relations": [
@@ -1827,6 +1827,27 @@
         ],
         "legal_significance": "Director's written admission of suspected fraud",
         "created": "2026-01-29T03:13:56.418327"
+      }
+    ],
+    "banking_relations": [
+      {
+        "relation_id": "REL_FNB_002",
+        "relation_type": "bank_mandate_confirmation",
+        "source_entity": "ORG_FNB",
+        "target_entity": "ORG_RWD",
+        "description": "FNB confirms bank mandate allows any director of RWD to act independently",
+        "date": "2025-06-18",
+        "evidence": [
+          "FNB_RESPONSE_EMAIL_2025_06_18"
+        ],
+        "strength": "conclusive",
+        "legal_status": "documented",
+        "legal_implications": [
+          "Directors have independent authority on bank account",
+          "No co-signature required for transactions",
+          "FNB protected by validly signed mandate"
+        ],
+        "confidence": 1.0
       }
     ]
   }

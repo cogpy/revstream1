@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "27.0_FNB_FRAUD_LETTER_2026_01_29",
+    "version": "v28.0_FNB_RESPONSE_2026_01_29",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "total_events": 79,
+    "total_events": 80,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-01-29T03:14:56.432260",
+    "last_updated": "2026-01-29 03:22:18",
     "changes": "Added FNB letter cross-references to June 2025 events",
     "phase_statistics": {
       "PHASE_1": 25,
@@ -3365,6 +3365,46 @@
         "days_after_fraud_exposure": 11,
         "days_after_card_cancellation": 10,
         "t_minus_ketoni_payout": "T-11 months"
+      }
+    },
+    {
+      "event_id": "EVENT_FNB_002",
+      "date": "2025-06-18",
+      "title": "FNB Declines Meeting - Bank Mandate Allows Independent Director Action",
+      "description": "FNB's Business Relationship Manager Mpumi Netshipale responds to Peter and Jacqui, stating that following engagement with FNB's legal department, no meeting is necessary as FNB cannot be held liable for acting in accordance with a validly signed mandate. The email reveals that 'the current mandate states that any of the directors of the company may act independently of each other.'",
+      "category": "BANKING_MANDATE",
+      "severity": "HIGH",
+      "evidence_strength": "CONCLUSIVE",
+      "actors": [
+        "PERSON_001",
+        "PERSON_003",
+        "ORG_FNB"
+      ],
+      "evidence_refs": [
+        "FNB_RESPONSE_EMAIL_2025_06_18"
+      ],
+      "related_events": [
+        "EVENT_FNB_001",
+        "EVENT_012"
+      ],
+      "legal_implications": [
+        "Bank mandate confirms independent director authority",
+        "FNB legal department reviewed and approved their position",
+        "Directors must pass resolution to change mandate",
+        "Corporate governance structure documented"
+      ],
+      "cross_references": {
+        "entities": [
+          "PERSON_001",
+          "PERSON_003",
+          "ORG_FNB",
+          "ORG_RWD"
+        ],
+        "relations": [
+          "REL_FNB_001",
+          "REL_FNB_002"
+        ],
+        "timeline": "2025-06-18"
       }
     }
   ]

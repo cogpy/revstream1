@@ -22,8 +22,22 @@ This letter was written **11 days after** Daniel exposed fraud to Bantjies (2025
 | 2025-06-06 | Daniel exposes fraud to Bantjies | T-0 |
 | 2025-06-07 | Secret card cancellations | T+1 |
 | **2025-06-17** | **Peter writes FNB fraud letter** | **T+11** |
+| **2025-06-18** | **FNB responds - Mandate allows independent action** | **T+12** |
 
 **[→ View FNB Fraud Letter Analysis](./evidence/FNB_FRAUD_LETTER_2025_06_17/PAF_FNB_FRAUD_LETTER_2025_06_17_OCR.md)**
+**[→ View FNB Response Email Analysis](./evidence/FNB_RESPONSE_EMAIL_2025_06_18/FNB_RESPONSE_EMAIL_2025_06_18_OCR.md)**
+
+### FNB Response Reveals Bank Mandate Structure (2025-06-18)
+
+FNB's Business Relationship Manager **Mpumi Netshipale** responded on 18 June 2025, revealing:
+
+> "The current mandate states that **any of the directors of the company may act independently of each other**."
+
+This confirms:
+- Each director has **independent authority** on the bank account
+- **No co-signature required** for transactions
+- FNB's legal department reviewed and approved their position
+- Directors must pass a **resolution** to change the mandate
 
 ---
 
@@ -125,6 +139,7 @@ This financial motive explains:
 | **SF8** | Linda Employment Records | Witness documentation |
 | **SF9** | Ian Levitt R63M Demand Letter | Ignored demand |
 | **SF10** | 🆕 **FNB Fraud Letter (2025-06-17)** | **Director's fraud acknowledgment** |
+| **SF11** | 🆕 **FNB Response Email (2025-06-18)** | **Bank mandate confirms independent director authority** |
 
 ---
 
@@ -224,6 +239,7 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 
 ### Critical New Evidence
 - **[FNB Fraud Letter (2025-06-17)](https://github.com/cogpy/ad-res-j7/tree/main/evidence/FNB_FRAUD_LETTER_2025_06_17)** - 🆕 Peter's fraud acknowledgment letter
+- **[FNB Response Email (2025-06-18)](https://github.com/cogpy/ad-res-j7/tree/main/evidence/FNB_RESPONSE_EMAIL_2025_06_18)** - 🆕 Bank mandate confirms independent director authority
 
 ### Critical Ketoni Evidence
 - **[KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md](https://github.com/cogpy/ad-res-j7/blob/main/KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md)** - Comprehensive Ketoni analysis
@@ -257,6 +273,7 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 | 2025-06-06 | Dan exposes Villa Via fraud to Bantjies | T-11 |
 | 2025-06-07 | Cards cancelled <24 hours after fraud exposure | T-11 |
 | **2025-06-17** | **Peter writes FNB fraud letter** | **T-11** |
+| **2025-06-18** | **FNB responds - Mandate allows independent action** | **T-11** |
 | 2025-08-11 | Main Trustee power backdated - Jax cooperation | T-9 |
 | 2025-08-13 | Interdict filed - Jax & Dan betrayal | T-9 |
 | **2026-05** | **Ketoni ZAR 18.75M payout due** | **T-0** |
@@ -271,4 +288,4 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 - Relations: v24.0_FNB_FRAUD_LETTER_2026_01_29
 - Timeline: v25.0_FNB_FRAUD_LETTER_2026_01_29
 
-**Last Refinement:** 2026-01-29 (FNB Fraud Letter Integration)
+**Last Refinement:** 2026-01-29 (FNB Fraud Letter + FNB Response Email Integration)

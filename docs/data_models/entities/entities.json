@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "29.0_FNB_FRAUD_LETTER_2026_01_29",
+    "version": "v30.0_FNB_RESPONSE_2026_01_29",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-29T03:13:56.415974",
+    "last_updated": "2026-01-29 03:23:12",
     "changes": "Added FNB Fraud Letter evidence to PERSON_001",
-    "total_entities": 31
+    "total_entities": 32
   },
   "entities": {
     "persons": [
@@ -1282,6 +1282,39 @@
         ],
         "evidence_enhanced": "2026-01-16T05:34:42.470751",
         "evidence_strength": "conclusive"
+      },
+      {
+        "entity_id": "ORG_FNB",
+        "name": "First National Bank (FNB)",
+        "description": "Commercial bank providing banking services to RegimA Worldwide Distribution",
+        "role": "banking_institution",
+        "agent_type": "neutral",
+        "key_contacts": [
+          {
+            "name": "Mpumi Netshipale",
+            "role": "Business Relationship Manager",
+            "email": "Mpumi.Netshipale@fnb.co.za",
+            "phone": [
+              "+27 87 030 0801",
+              "+27 64 523 1839"
+            ]
+          },
+          {
+            "name": "Michelle Habig",
+            "role": "Relationship Analyst",
+            "email": "mhabig@fnb.co.za",
+            "phone": "+27 87 335 6829"
+          },
+          {
+            "name": "Nondu Motlhala",
+            "role": "FNB Staff",
+            "email": "NMotlhala@fnb.co.za"
+          }
+        ],
+        "evidence_refs": [
+          "FNB_RESPONSE_EMAIL_2025_06_18",
+          "PAF_FNB_FRAUD_LETTER_2025_06_17"
+        ]
       }
     ],
     "platforms": [
