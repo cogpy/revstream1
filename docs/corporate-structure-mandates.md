@@ -14,7 +14,7 @@ This page provides a comprehensive overview of the corporate structure, bank acc
 |-------|-------|
 | **Account Number** | 62323196362 |
 | **Bank** | First National Bank (FNB) |
-| **Mandate Type** | INDEPENDENT DIRECTOR AUTHORITY |
+| **Mandate Type** | **SOLE INDEPENDENT AUTHORITY** |
 | **Co-signature Required** | No |
 | **Confirmation Date** | 2025-06-18 |
 | **Confirmed By** | Mpumi Netshipale (Business Relationship Manager) |
@@ -22,20 +22,30 @@ This page provides a comprehensive overview of the corporate structure, bank acc
 > "The current mandate states that **any of the directors of the company may act independently of each other**."
 > — FNB Response Email, 18 June 2025
 
-### Directors with Bank Authority
+### Directors with SOLE Bank Authority
 
-| Person | Entity ID | Authority Level |
-|--------|-----------|------------------|
-| Peter Andrew Faucitt | PERSON_001 | Independent Director Authority |
-| Jacqueline Faucitt | PERSON_004 | Independent Director Authority |
-| **Daniel James Faucitt** | **PERSON_005** | **Independent Director Authority** |
+**Key Distinction:** Each director has **SOLE** authority - meaning they can INDEPENDENTLY authorize ANY transaction without co-signature.
 
-### Operational Control (Non-Director)
+| Person | Entity ID | Authority Level | Can Act Alone |
+|--------|-----------|------------------|---------------|
+| Peter Andrew Faucitt | PERSON_001 | **SOLE** Independent Authority | ✅ Yes |
+| Jacqueline Faucitt | PERSON_004 | **SOLE** Independent Authority | ✅ Yes |
+| Daniel James Faucitt | PERSON_005 | **SOLE** Independent Authority | ✅ Yes |
+
+> **Note:** This is NOT percentage-based authority. Each director has full SOLE authority regardless of shareholding.
+
+### Operational Control (Non-Director, Non-Employee)
+
+**Critical Note from Daniel's June 10, 2025 email to Bantjies:**
+> "Rynette is neither a director nor employee of Worldwide Distribution but has complete control without any liability."
 
 | Person | Entity ID | Control Type | Evidence |
 |--------|-----------|--------------|----------|
 | Rynette Farrar | PERSON_002 | Sage Accounting System | SF2_Sage_Screenshots |
 | Rynette Farrar | PERSON_002 | Email Access (pete@regima.com) | Sage screenshot 2025-06-20 |
+| Rynette Farrar | PERSON_002 | Accounts exist solely on her computer | June 10, 2025 email |
+
+**No Fiduciary or Statutory Roles:** Rynette has NO director duties, NO trustee duties, and NO statutory responsibilities despite having complete operational control.
 
 ---
 
@@ -106,16 +116,30 @@ This page provides a comprehensive overview of the corporate structure, bank acc
 
 **Fiduciary Duties:**
 
-| Entity | Duty Type | Status |
-|--------|-----------|--------|
-| Faucitt Family Trust | Trustee fiduciary duty | **BREACHED** |
-| RWD (Pty) Ltd | Director fiduciary duty (s76) | **BREACHED** |
+| Entity | Role | Duty | Status | Evidence |
+|--------|------|------|--------|----------|
+| Faucitt Family Trust | Main Trustee/Founder | Trust Property Control Act | **BREACHED** | Backdated appointment, attack on beneficiary |
+| RWD (Pty) Ltd | Director | Companies Act s76 | **BREACHED** | FNB fraud letter, expense dumping |
+| RST CC | Member (50%) | Close Corporations Act | **BREACHED** | |
+| SLG CC | Member (33%) | Close Corporations Act | **BREACHED** | |
+
+**Statutory Roles:**
+
+| Entity | Role | Statute | Sections |
+|--------|------|---------|----------|
+| RWD (Pty) Ltd | Director | Companies Act 71 of 2008 | s76 - Standards of conduct, s77 - Liability |
 
 ---
 
 ### PERSON_002: Rynette Farrar
 
-**Note:** Rynette is **NOT** a Trustee or Director. She has operational control only.
+**Critical Note:** Rynette is **NOT** a Trustee, Director, or Employee of RWD. She has operational control only with **NO fiduciary or statutory duties**.
+
+**From Daniel's June 10, 2025 email:**
+> "Rynette is neither a director nor employee of Worldwide Distribution but has complete control without any liability."
+
+**Fiduciary Roles:** NONE
+**Statutory Roles:** NONE
 
 **System Access:**
 
@@ -159,11 +183,21 @@ This page provides a comprehensive overview of the corporate structure, bank acc
 |-------|------|--------|
 | Faucitt Family Trust | Trustee | Active |
 
+**Fiduciary Duties:**
+
+| Entity | Role | Duty | Status |
+|--------|------|------|--------|
+| Faucitt Family Trust | Trustee | Trust Property Control Act | **BREACHED** |
+| RWD (Pty) Ltd | Director | Companies Act s76 | **BREACHED** |
+| RST CC | Member/CEO (50%) | Close Corporations Act | **BREACHED** |
+| SLG CC | Member (33%) | Close Corporations Act | Active |
+
 **Statutory Roles:**
 
-| Entity | Role | Status |
-|--------|------|--------|
-| Regima Skin Treatments CC | Information Officer (POPIA) | Active |
+| Entity | Role | Statute | Responsibilities |
+|--------|------|---------|------------------|
+| RST CC | **Information Officer** | **POPIA (Act 4 of 2013)** | s55 - Ensure POPIA compliance, handle data subject requests, report to Information Regulator |
+| RWD (Pty) Ltd | Director | Companies Act 71 of 2008 | s76 - Standards of conduct |
 
 ---
 
@@ -193,11 +227,34 @@ This page provides a comprehensive overview of the corporate structure, bank acc
 
 **Account Mandates:**
 
-| Entity | Bank | Account | Authority | Evidence |
-|--------|------|---------|-----------|----------|
-| **RWD (Pty) Ltd** | **FNB** | **62323196362** | **Independent Director Authority** | **FNB_RESPONSE_EMAIL_2025_06_18** |
-| Strategic Logistics Group CC | FNB | TBD | Member Authority (66% vote for director loans) | JF-STRATEGIC-LOGISTICS-ANALYSIS.md |
-| RegimA Zone Ltd | UK Bank | - | Sole Signatory | UK company records |
+| Entity | Bank | Account | Authority | Can Act Alone |
+|--------|------|---------|-----------|---------------|
+| **RWD (Pty) Ltd** | **FNB** | **62323196362** | **SOLE Independent Authority** | ✅ Yes |
+| Strategic Logistics Group CC | FNB | TBD | Member Authority | ✅ Yes |
+| RegimA Zone Ltd | UK Bank | - | **SOLE** Signatory (100% owner) | ✅ Yes |
+
+**NOT a Member of:**
+
+| Entity | Note |
+|--------|------|
+| RegimA Skin Treatments CC | Daniel explicitly stated: "I am not a member of RegimA Skin Treatments" (June 10, 2025 email) |
+
+**Fiduciary Duties:**
+
+| Entity | Role | Duty | Status |
+|--------|------|------|--------|
+| RWD (Pty) Ltd | Director | Companies Act s76 | **ACTIVE - COMPLIANT** |
+| RegimA Zone Ltd | Managing Director | UK Companies Act 2006 | **ACTIVE - COMPLIANT** |
+| RegimA SA (Pty) Ltd | Co-Director | Companies Act s76 | ACTIVE |
+| SLG CC | Founding Member | Close Corporations Act | **ACTIVE - COMPLIANT** |
+| ReZonance (Pty) Ltd | Director | Companies Act s76 | **ACTIVE - COMPLIANT** |
+
+**Statutory Roles:**
+
+| Entity | Role | Statute |
+|--------|------|----------|
+| RWD (Pty) Ltd | Director | Companies Act 71 of 2008 (s76, s77) |
+| RegimA Zone Ltd | Director | UK Companies Act 2006 (s171-177) |
 
 **Beneficiary Positions:**
 
@@ -215,18 +272,26 @@ This page provides a comprehensive overview of the corporate structure, bank acc
 
 ### PERSON_007: Danie Bantjies
 
-**Trustee Positions:**
+**Fiduciary Duties:**
 
-| Trust | Role | Status | Notes |
-|-------|------|--------|-------|
-| Faucitt Family Trust | Trustee | Active | **Unlawfully appointed** by Rynette (July 2024) |
+| Entity | Role | Duty | Status | Conflict |
+|--------|------|------|--------|----------|
+| Faucitt Family Trust | Trustee (Unlawfully Appointed) | Trust Property Control Act | **BREACHED - CONFLICTED** | Owes R18,685,000 to Trust via Ketoni |
+
+**Statutory Roles:**
+
+| Entity | Role | Statute | Duration |
+|--------|------|---------|----------|
+| RST CC | Accounting Officer | Close Corporations Act s59 | 30+ years |
+| SLG CC | Accounting Officer | Close Corporations Act s59 | Since 2008 |
 
 **Professional Roles:**
 
-| Role | Clients | Duration |
-|------|---------|----------|
-| Accountant | All RegimA Group companies | 30+ years |
-| Commissioner of Oaths | - | Active |
+| Role | Entity/Clients | Duration | Note |
+|------|----------------|----------|------|
+| Accountant | All RegimA Group companies | 30+ years | Daniel contacted him June 6 & 10, 2025 in this capacity |
+| Commissioner of Oaths | - | Active | Certified Peter's affidavit despite conflict |
+| CFO | George Group | Active | Kevin Derrick (Ketoni Director) is CEO |
 
 **Conflict of Interest:**
 

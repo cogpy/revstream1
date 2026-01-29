@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "v32.0_COMPLETE_CIPC_MANDATES_2026_01_29",
+    "version": "v33.0_FIDUCIARY_STATUTORY_ROLES_2026_01_29",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-29 03:36:16",
-    "changes": "Added Daniel as RWD Director with FNB mandate, completed SLG mandates, updated all juristic entities with CIPC/Windeed data",
+    "last_updated": "2026-01-29 03:45:07",
+    "changes": "Added fiduciary/statutory roles, corrected FNB mandate to SOLE INDEPENDENT AUTHORITY, added June 2025 email structure notes",
     "total_entities": 32,
     "account_mandates_summary": {
       "fnb_rwd_mandate": {
@@ -303,14 +303,22 @@
             "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
             "bank": "FNB",
             "account_number": "62323196362",
-            "authority_type": "INDEPENDENT_DIRECTOR_AUTHORITY",
-            "description": "Any director may act independently of each other",
+            "authority_type": "SOLE_INDEPENDENT_AUTHORITY",
+            "description": "SOLE authority to act independently - no co-signature required",
             "co_signature_required": false,
             "evidence": [
               "FNB_RESPONSE_EMAIL_2025_06_18"
             ],
             "fnb_confirmation_date": "2025-06-18",
-            "fnb_contact": "Mpumi Netshipale (Business Relationship Manager)"
+            "fnb_contact": "Mpumi Netshipale (Business Relationship Manager)",
+            "can_act_alone": true,
+            "NOT_percentage_based": true,
+            "fnb_confirmation": {
+              "date": "2025-06-18",
+              "source": "FNB Response Email",
+              "contact": "Mpumi Netshipale (Business Relationship Manager)",
+              "quote": "The current mandate states that any of the directors of the company may act independently of each other"
+            }
           },
           {
             "entity_id": "ORG_004",
@@ -374,6 +382,58 @@
             "status": "active",
             "evidence": [
               "JF14-CIPC-2021"
+            ]
+          }
+        ],
+        "fiduciary_roles": [
+          {
+            "entity_id": "ORG_001",
+            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
+            "role": "Director",
+            "duty": "Companies Act s76 - Fiduciary duty to act in good faith and in best interests of company",
+            "status": "BREACHED",
+            "breach_evidence": [
+              "FNB_FRAUD_LETTER_2025_06_17",
+              "Secret card cancellations",
+              "Expense dumping"
+            ]
+          },
+          {
+            "entity_id": "ORG_002",
+            "entity_name": "Regima Skin Treatments CC",
+            "role": "Member (50%)",
+            "duty": "Close Corporations Act - Fiduciary duty as member",
+            "status": "BREACHED"
+          },
+          {
+            "entity_id": "ORG_004",
+            "entity_name": "Strategic Logistics Group CC",
+            "role": "Member (33%)",
+            "duty": "Close Corporations Act - Fiduciary duty as member",
+            "status": "BREACHED"
+          },
+          {
+            "entity_id": "TRUST_001",
+            "entity_name": "Faucitt Family Trust",
+            "role": "Main Trustee / Founder",
+            "duty": "Trust Property Control Act - Fiduciary duty to beneficiaries",
+            "status": "BREACHED",
+            "breach_evidence": [
+              "Backdated appointment",
+              "Attack on beneficiary Daniel",
+              "Ketoni payout motive"
+            ]
+          }
+        ],
+        "statutory_roles": [
+          {
+            "entity_id": "ORG_001",
+            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
+            "role": "Director",
+            "statute": "Companies Act 71 of 2008",
+            "sections": [
+              "s76 - Standards of directors' conduct",
+              "s77 - Liability of directors"
             ]
           }
         ]
@@ -509,6 +569,18 @@
             "own_email": "rynette@regima.zone",
             "evidence": "Sage screenshot 2025-06-20 shows Rynette with user account Pete@regima.com"
           }
+        },
+        "fiduciary_roles": [],
+        "statutory_roles": [],
+        "operational_control": {
+          "note": "Neither director nor employee of Worldwide Distribution but has complete control without liability",
+          "evidence": "Daniel's June 10, 2025 email to Bantjies",
+          "control_mechanisms": [
+            "Sage Accounting System - Full Control",
+            "Email Access (pete@regima.com)",
+            "Bank account access (suspected unauthorized)",
+            "Accounts exist solely on Rynette's computer"
+          ]
         }
       },
       {
@@ -556,13 +628,21 @@
             "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
             "bank": "FNB",
             "account_number": "62323196362",
-            "authority_type": "INDEPENDENT_DIRECTOR_AUTHORITY",
-            "description": "Any director may act independently of each other",
+            "authority_type": "SOLE_INDEPENDENT_AUTHORITY",
+            "description": "SOLE authority to act independently - no co-signature required",
             "co_signature_required": false,
             "evidence": [
               "FNB_RESPONSE_EMAIL_2025_06_18"
             ],
-            "fnb_confirmation_date": "2025-06-18"
+            "fnb_confirmation_date": "2025-06-18",
+            "can_act_alone": true,
+            "NOT_percentage_based": true,
+            "fnb_confirmation": {
+              "date": "2025-06-18",
+              "source": "FNB Response Email",
+              "contact": "Mpumi Netshipale (Business Relationship Manager)",
+              "quote": "The current mandate states that any of the directors of the company may act independently of each other"
+            }
           },
           {
             "entity_id": "ORG_004",
@@ -591,10 +671,29 @@
           {
             "entity_id": "ORG_002",
             "entity_name": "Regima Skin Treatments CC",
-            "role": "Information Officer (POPIA)",
-            "status": "active",
-            "evidence": [
-              "POPIA compliance records"
+            "role": "Information Officer",
+            "statute": "POPIA (Protection of Personal Information Act 4 of 2013)",
+            "sections": [
+              "s55 - Information Officer responsibilities",
+              "s56 - Deputy Information Officers"
+            ],
+            "responsibilities": [
+              "Ensure POPIA compliance",
+              "Handle data subject requests",
+              "Report to Information Regulator",
+              "Maintain processing records"
+            ],
+            "registration": "Registered with Information Regulator",
+            "evidence": "Registration Certificate - Information Regulator"
+          },
+          {
+            "entity_id": "ORG_001",
+            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
+            "role": "Director",
+            "statute": "Companies Act 71 of 2008",
+            "sections": [
+              "s76",
+              "s77"
             ]
           }
         ],
@@ -627,6 +726,36 @@
             "evidence": [
               "JF14-CIPC-2021"
             ]
+          }
+        ],
+        "fiduciary_roles": [
+          {
+            "entity_id": "ORG_001",
+            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
+            "role": "Director",
+            "duty": "Companies Act s76 - Fiduciary duty to act in good faith",
+            "status": "BREACHED"
+          },
+          {
+            "entity_id": "ORG_002",
+            "entity_name": "Regima Skin Treatments CC",
+            "role": "Member (50%) / CEO",
+            "duty": "Close Corporations Act - Fiduciary duty as member and CEO",
+            "status": "BREACHED"
+          },
+          {
+            "entity_id": "ORG_004",
+            "entity_name": "Strategic Logistics Group CC",
+            "role": "Member (33%)",
+            "duty": "Close Corporations Act - Fiduciary duty as member",
+            "status": "ACTIVE"
+          },
+          {
+            "entity_id": "TRUST_001",
+            "entity_name": "Faucitt Family Trust",
+            "role": "Trustee",
+            "duty": "Trust Property Control Act - Fiduciary duty to beneficiaries",
+            "status": "BREACHED"
           }
         ]
       },
@@ -740,14 +869,22 @@
             "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
             "bank": "FNB",
             "account_number": "62323196362",
-            "authority_type": "INDEPENDENT_DIRECTOR_AUTHORITY",
-            "description": "Any director may act independently of each other",
+            "authority_type": "SOLE_INDEPENDENT_AUTHORITY",
+            "description": "SOLE authority to act independently - no co-signature required",
             "co_signature_required": false,
             "evidence": [
               "FNB_RESPONSE_EMAIL_2025_06_18"
             ],
             "fnb_confirmation_date": "2025-06-18",
-            "fnb_contact": "Mpumi Netshipale (Business Relationship Manager)"
+            "fnb_contact": "Mpumi Netshipale (Business Relationship Manager)",
+            "can_act_alone": true,
+            "NOT_percentage_based": true,
+            "fnb_confirmation": {
+              "date": "2025-06-18",
+              "source": "FNB Response Email",
+              "contact": "Mpumi Netshipale (Business Relationship Manager)",
+              "quote": "The current mandate states that any of the directors of the company may act independently of each other"
+            }
           },
           {
             "entity_id": "ORG_004",
@@ -811,6 +948,71 @@
               "JF-DAN-WITNESS.md",
               "JF14-CIPC-2021"
             ]
+          }
+        ],
+        "fiduciary_roles": [
+          {
+            "entity_id": "ORG_001",
+            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
+            "role": "Director",
+            "duty": "Companies Act s76 - Fiduciary duty to act in good faith",
+            "status": "ACTIVE - COMPLIANT"
+          },
+          {
+            "entity_id": "ORG_003",
+            "entity_name": "RegimA Zone Ltd",
+            "role": "Managing Director (100%)",
+            "duty": "UK Companies Act 2006 - Director duties",
+            "status": "ACTIVE - COMPLIANT"
+          },
+          {
+            "entity_id": "ORG_006",
+            "entity_name": "RegimA SA (Pty) Ltd",
+            "role": "Co-Director",
+            "duty": "Companies Act s76 - Fiduciary duty",
+            "status": "ACTIVE"
+          },
+          {
+            "entity_id": "ORG_004",
+            "entity_name": "Strategic Logistics Group CC",
+            "role": "Founding Member (33%)",
+            "duty": "Close Corporations Act - Fiduciary duty as founding member",
+            "status": "ACTIVE - COMPLIANT"
+          },
+          {
+            "entity_id": "ORG_008",
+            "entity_name": "ReZonance (Pty) Ltd",
+            "role": "Director (50%)",
+            "duty": "Companies Act s76 - Fiduciary duty",
+            "status": "ACTIVE - COMPLIANT"
+          }
+        ],
+        "statutory_roles": [
+          {
+            "entity_id": "ORG_001",
+            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
+            "role": "Director",
+            "statute": "Companies Act 71 of 2008",
+            "sections": [
+              "s76",
+              "s77"
+            ]
+          },
+          {
+            "entity_id": "ORG_003",
+            "entity_name": "RegimA Zone Ltd",
+            "role": "Director",
+            "statute": "UK Companies Act 2006",
+            "sections": [
+              "s171-177 - General duties of directors"
+            ]
+          }
+        ],
+        "NOT_a_member_of": [
+          {
+            "entity_id": "ORG_002",
+            "entity_name": "Regima Skin Treatments CC",
+            "note": "Daniel explicitly stated in June 10, 2025 email: 'I am not a member of RegimA Skin Treatments'"
           }
         ]
       },
@@ -958,25 +1160,20 @@
           {
             "role": "Accountant",
             "clients": [
-              "ORG_001",
-              "ORG_002",
-              "ORG_004",
-              "ORG_005",
-              "ORG_006"
+              "All RegimA Group companies",
+              "Faucitt Family Trust"
             ],
-            "duration": "30+ years with Faucitt family business",
-            "evidence": [
-              "JF03",
-              "JF08"
-            ]
+            "duration": "30+ years",
+            "note": "Daniel contacted Bantjies on June 6 & 10, 2025 in his capacity as Accountant, unaware of Trustee appointment"
           },
           {
             "role": "Commissioner of Oaths",
-            "status": "active",
-            "misconduct": "Certified Peter's affidavit despite material omissions",
-            "evidence": [
-              "Court documents"
-            ]
+            "conflict": "Certified Peter's affidavit despite conflict of interest"
+          },
+          {
+            "role": "CFO",
+            "entity": "George Group",
+            "connection": "Kevin Derrick (Ketoni Director) is CEO of George Group"
           }
         ],
         "debts": [
@@ -990,6 +1187,38 @@
               "SF1_Bantjies_Debt_Documentation",
               "Ketoni analysis"
             ]
+          }
+        ],
+        "fiduciary_roles": [
+          {
+            "entity_id": "TRUST_001",
+            "entity_name": "Faucitt Family Trust",
+            "role": "Trustee (Unlawfully Appointed)",
+            "duty": "Trust Property Control Act - Fiduciary duty to beneficiaries",
+            "status": "BREACHED - CONFLICTED",
+            "conflict": "Owes R18,685,000 to Trust via Ketoni connection"
+          }
+        ],
+        "statutory_roles": [
+          {
+            "entity_id": "ORG_002",
+            "entity_name": "Regima Skin Treatments CC",
+            "role": "Accounting Officer",
+            "statute": "Close Corporations Act 69 of 1984",
+            "sections": [
+              "s59 - Accounting officer duties"
+            ],
+            "duration": "30+ years"
+          },
+          {
+            "entity_id": "ORG_004",
+            "entity_name": "Strategic Logistics Group CC",
+            "role": "Accounting Officer",
+            "statute": "Close Corporations Act 69 of 1984",
+            "sections": [
+              "s59"
+            ],
+            "duration": "Since 2008"
           }
         ]
       },
@@ -1484,17 +1713,33 @@
           {
             "bank": "FNB",
             "account_number": "62323196362",
-            "mandate_type": "INDEPENDENT_DIRECTOR_AUTHORITY",
-            "description": "Any director may act independently of each other",
+            "mandate_type": "SOLE_INDEPENDENT_AUTHORITY",
+            "description": "Each director has SOLE authority to act independently",
             "co_signature_required": false,
             "signatories": [
-              "PERSON_001",
-              "PERSON_004",
-              "PERSON_005"
+              {
+                "person_id": "PERSON_001",
+                "name": "Peter Andrew Faucitt",
+                "authority": "SOLE_INDEPENDENT_AUTHORITY",
+                "can_act_alone": true
+              },
+              {
+                "person_id": "PERSON_004",
+                "name": "Jacqueline Faucitt",
+                "authority": "SOLE_INDEPENDENT_AUTHORITY",
+                "can_act_alone": true
+              },
+              {
+                "person_id": "PERSON_005",
+                "name": "Daniel James Faucitt",
+                "authority": "SOLE_INDEPENDENT_AUTHORITY",
+                "can_act_alone": true
+              }
             ],
             "confirmation_date": "2025-06-18",
             "confirmed_by": "Mpumi Netshipale (FNB Business Relationship Manager)",
-            "evidence": "FNB_RESPONSE_EMAIL_2025_06_18"
+            "evidence": "FNB_RESPONSE_EMAIL_2025_06_18",
+            "NOT_percentage_based": true
           }
         ],
         "registered_address": "50 Van Buuren Road, Bedfordview, 2008",
@@ -2539,5 +2784,23 @@
         "evidence_strength": "moderate"
       }
     ]
+  },
+  "company_structure_notes": {
+    "source": "Daniel Faucitt email to Danie Bantjies, 10 June 2025",
+    "key_facts": [
+      "Daniel is NOT a member of RegimA Skin Treatments (RST)",
+      "Companies are NOT subsidiaries - no fixed 'group' or intercompany",
+      "Moving assets from company where Daniel is director to one where he is not = theft/fraud",
+      "Pete does not use computer, never seen actual accounts",
+      "Jacqui has not seen actual accounts",
+      "Daniel has not seen actual accounts",
+      "Accounts exist solely on Rynette's computer - nobody else can see them",
+      "RegimA SA - Pete and Daniel as directors (operated with Dermal/Barend)",
+      "RegimA Zone - Only Daniel as director (aggregation of 3 smaller distributions)",
+      "Rynette is neither director nor employee of Worldwide Distribution",
+      "Rynette has complete control without any liability",
+      "Bank contacted Daniel multiple times re: Pete/Rynette attempts to change mandates, close accounts, cancel cards"
+    ],
+    "bantjies_involvement": "30-odd year involvement with Faucitt family business"
   }
 }
