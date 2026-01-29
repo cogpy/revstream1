@@ -6,8 +6,8 @@
     "case_number": "2025-137857",
     "total_events": 79,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-01-29T03:14:56.432260",
-    "changes": "Added FNB letter cross-references to June 2025 events",
+    "last_updated": "2026-01-29T03:13:35.856343",
+    "changes": "Added EVENT_FNB_001: Peter Faucitt FNB Fraud Letter (2025-06-17)",
     "phase_statistics": {
       "PHASE_1": 25,
       "PHASE_2": 4,
@@ -2115,11 +2115,7 @@
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes",
-      "related_events": [
-        "EVENT_FNB_001"
-      ],
-      "fnb_letter_context": "Peter's FNB letter (2025-06-17) written after this event confirms awareness of suspected fraud"
+      "criminal_threshold": "yes"
     },
     {
       "event_id": "EVENT_057",
@@ -2154,11 +2150,7 @@
         "ANNEXURES/JF01 - Shopify Plus email evidence",
         "SF1_Bantjies_Debt_Documentation.md"
       ],
-      "burden_of_proof": "civil_50%",
-      "related_events": [
-        "EVENT_FNB_001"
-      ],
-      "fnb_letter_context": "Peter's FNB letter (2025-06-17) written after this event confirms awareness of suspected fraud"
+      "burden_of_proof": "civil_50%"
     },
     {
       "event_id": "EVENT_012",
@@ -2199,11 +2191,7 @@
         "ANNEXURES/JF04 - Personal bank records"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes",
-      "related_events": [
-        "EVENT_FNB_001"
-      ],
-      "fnb_letter_context": "Peter's FNB letter (2025-06-17) written after this event confirms awareness of suspected fraud"
+      "criminal_threshold": "yes"
     },
     {
       "event_id": "EVENT_023",

@@ -1,0 +1,60 @@
+{
+  "title": "FNB Fraud Letter Evidence Chain",
+  "evidence_id": "PAF_FNB_FRAUD_LETTER_2025_06_17",
+  "date": "2025-06-17",
+  "author": "Peter Andrew Faucitt",
+  "recipient": "Nondu Motlhala (FNB)",
+  "account": "62323196362",
+  "company": "RegimA Worldwide Distribution (Pty) Ltd",
+  "chain_links": [
+    {
+      "link_type": "precursor_event",
+      "event_id": "EVENT_011",
+      "date": "2025-06-06",
+      "description": "Daniel finalizes fraud reports",
+      "days_before": 11
+    },
+    {
+      "link_type": "precursor_event",
+      "event_id": "EVENT_057",
+      "date": "2025-06-06",
+      "description": "Daniel sends reports to Bantjies",
+      "days_before": 11
+    },
+    {
+      "link_type": "immediate_response",
+      "event_id": "EVENT_012",
+      "date": "2025-06-07",
+      "description": "Secret card cancellations",
+      "days_before": 10
+    },
+    {
+      "link_type": "corroborating_evidence",
+      "evidence_id": "SF2",
+      "description": "Sage Screenshots showing Rynette's system control",
+      "relevance": "Confirms Rynette controlled accounting systems"
+    },
+    {
+      "link_type": "corroborating_evidence",
+      "evidence_id": "JF08",
+      "description": "Comprehensive fraud evidence package",
+      "relevance": "Documents the fraud Peter acknowledges"
+    },
+    {
+      "link_type": "contradicting_document",
+      "document": "Peter's Court Affidavit",
+      "contradiction": "Claims Daniel and Jax are perpetrators, but FNB letter shows Peter was aware of fraud on RWD account"
+    }
+  ],
+  "legal_weight": {
+    "civil_burden_50": "EXCEEDED - Director's own admission",
+    "criminal_burden_95": "STRENGTHENED - Written acknowledgment of suspected fraud",
+    "exchange_control": "NEW DIMENSION - Potential SARB violations acknowledged"
+  },
+  "filing_relevance": {
+    "CIPC_Complaint": "HIGH - Director's knowledge of fraud",
+    "POPIA_Complaint": "MEDIUM - Data processing under fraudulent circumstances",
+    "Commercial_Crime": "HIGH - Director's admission of suspected fraud",
+    "NPA_Tax_Fraud": "HIGH - Exchange Control violations acknowledged"
+  }
+}

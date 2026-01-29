@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "29.0_FNB_FRAUD_LETTER_2026_01_29",
+    "version": "28.0_KETONI_INTEGRATED_2026_01_16",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-29T03:13:56.415974",
-    "changes": "Added FNB Fraud Letter evidence to PERSON_001",
+    "last_updated": "2026-01-16T05:34:42.470763",
+    "changes": "CRITICAL: Ketoni Integration - Added ORG_015, PERSON_014, ZAR 18.75M payout asset",
     "total_entities": 31
   },
   "entities": {
@@ -52,8 +52,7 @@
           "EVENT_017",
           "EVENT_018",
           "EVENT_019",
-          "EVENT_020",
-          "EVENT_FNB_001"
+          "EVENT_020"
         ],
         "evidence": [
           "JF01 - Shopify Plus email evidence",
@@ -61,8 +60,7 @@
           "JF07 - Financial transaction records",
           "JF08 - Email correspondence and fraud evidence",
           "JF09 - Court order timeline cross-reference",
-          "SF9 - Ian Levitt R63M demand letter",
-          "PAF_FNB_FRAUD_LETTER_2025_06_17 - Director's letter acknowledging suspected fraud"
+          "SF9 - Ian Levitt R63M demand letter"
         ],
         "ad_res_j7_references": [
           "ANNEXURES/JF01 - Shopify Plus email showing business structure",
@@ -77,19 +75,9 @@
           "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - Financial manipulation evidence",
           "jax-response/ANSWERING_AFFIDAVIT_JACQUI.md - Court testimony"
         ],
-        "evidence_enhanced": "2026-01-29T03:13:56.415951",
+        "evidence_enhanced": "2025-12-28T05:36:36.077423",
         "evidence_strength": "conclusive",
-        "criminal_threshold": "95%_exceeded",
-        "fnb_fraud_letter_admission": {
-          "date": "2025-06-17",
-          "key_admissions": [
-            "Suspected fraud on RWD account",
-            "Prior request to cancel 3 debit cards",
-            "FNB could be accessory after the fact",
-            "Potential Exchange Control violations"
-          ],
-          "contradicts_court_position": true
-        }
+        "criminal_threshold": "95%_exceeded"
       },
       {
         "entity_id": "PERSON_002",

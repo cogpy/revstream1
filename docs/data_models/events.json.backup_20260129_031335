@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "27.0_FNB_FRAUD_LETTER_2026_01_29",
+    "version": "26.0_KETONI_INTEGRATED_2026_01_16",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "total_events": 79,
+    "total_events": 78,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-01-29T03:14:56.432260",
-    "changes": "Added FNB letter cross-references to June 2025 events",
+    "last_updated": "2026-01-16T05:34:42.470851",
+    "changes": "CRITICAL: Ketoni Integration - Added EVENT_K001, enhanced Kayla timing context",
     "phase_statistics": {
       "PHASE_1": 25,
       "PHASE_2": 4,
@@ -2115,11 +2115,7 @@
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes",
-      "related_events": [
-        "EVENT_FNB_001"
-      ],
-      "fnb_letter_context": "Peter's FNB letter (2025-06-17) written after this event confirms awareness of suspected fraud"
+      "criminal_threshold": "yes"
     },
     {
       "event_id": "EVENT_057",
@@ -2154,11 +2150,7 @@
         "ANNEXURES/JF01 - Shopify Plus email evidence",
         "SF1_Bantjies_Debt_Documentation.md"
       ],
-      "burden_of_proof": "civil_50%",
-      "related_events": [
-        "EVENT_FNB_001"
-      ],
-      "fnb_letter_context": "Peter's FNB letter (2025-06-17) written after this event confirms awareness of suspected fraud"
+      "burden_of_proof": "civil_50%"
     },
     {
       "event_id": "EVENT_012",
@@ -2199,11 +2191,7 @@
         "ANNEXURES/JF04 - Personal bank records"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes",
-      "related_events": [
-        "EVENT_FNB_001"
-      ],
-      "fnb_letter_context": "Peter's FNB letter (2025-06-17) written after this event confirms awareness of suspected fraud"
+      "criminal_threshold": "yes"
     },
     {
       "event_id": "EVENT_023",
@@ -3299,73 +3287,6 @@
         "PERSON_005",
         "PERSON_004"
       ]
-    },
-    {
-      "event_id": "EVENT_FNB_001",
-      "date": "2025-06-17",
-      "title": "Peter Faucitt Writes FNB Fraud Letter - Acknowledges Suspected Fraud",
-      "category": "fraud_acknowledgment",
-      "event_type": "director_admission",
-      "perpetrators": [],
-      "victims": [],
-      "entities_involved": [
-        "PERSON_001",
-        "ORG_001",
-        "BANK_001"
-      ],
-      "description": "Peter Faucitt writes formal letter to FNB (Nondu Motlhala) regarding suspected fraud on RWD account 62323196362. Letter confirms: (1) Prior written request to cancel 3 debit cards due to suspected fraud, (2) Concern about 'perpetuation of suspected fraud', (3) Warning to FNB about being 'accessory after the fact', (4) Acknowledgment of potential Exchange Control Regulations violations due to 'dollar-based subscription expense'. This letter was written 11 days after Dan exposed fraud to Bantjies (2025-06-06) and 10 days after secret card cancellations (2025-06-07).",
-      "financial_impact": "unknown_amount",
-      "legal_significance": "CRITICAL: Director's written acknowledgment of suspected fraud on company account",
-      "significance": "CRITICAL: Peter's own letter admits suspected fraud, contradicting his court filings where he claims Dan and Jax are perpetrators. Also acknowledges potential Exchange Control violations.",
-      "evidence": [
-        "PAF_FNB_FRAUD_LETTER_2025_06_17.jpg",
-        "PAF_FNB_FRAUD_LETTER_2025_06_17_OCR.md"
-      ],
-      "evidence_location": "evidence/FNB_FRAUD_LETTER_2025_06_17/",
-      "pattern": "fraud_acknowledgment_by_perpetrator",
-      "timeline_phase": "PHASE_3",
-      "phase": "PHASE_3",
-      "ad_res_j7_evidence": [],
-      "evidence_enhanced": "2026-01-29T03:13:35.855285",
-      "burden_of_proof": "civil_50%_exceeded",
-      "criminal_threshold": "95%_strengthened",
-      "related_events": [
-        "EVENT_011",
-        "EVENT_057",
-        "EVENT_012"
-      ],
-      "key_admissions": [
-        "Suspected fraud on RWD account",
-        "Prior request to cancel 3 debit cards",
-        "Concern about fraud perpetuation",
-        "FNB could be accessory after the fact",
-        "Potential Exchange Control violations",
-        "Dollar-based subscription expenses"
-      ],
-      "contradictions_with_court_filings": [
-        "Peter claims Dan and Jax are perpetrators in court",
-        "This letter shows Peter was aware of fraud on RWD account",
-        "Peter was taking action to stop fraud",
-        "Peter acknowledged company may be transgressing Exchange Control"
-      ],
-      "letterhead_details": {
-        "company": "RegimA Worldwide Distribution (Pty) Ltd",
-        "co_reg": "2011/005722/07",
-        "vat_no": "4320262621",
-        "email": "rynette@regima.zone",
-        "head_office": "50 Van Buuren Road, Bedfordview, 2008",
-        "physical_address": "20 River Road, Morninghill, Bedfordview, 2007, RSA"
-      },
-      "recipient": {
-        "name": "Nondu Motlhala",
-        "organization": "FNB"
-      },
-      "account_number": "62323196362",
-      "timing_analysis": {
-        "days_after_fraud_exposure": 11,
-        "days_after_card_cancellation": 10,
-        "t_minus_ketoni_payout": "T-11 months"
-      }
     }
   ]
 }

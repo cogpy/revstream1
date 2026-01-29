@@ -1,0 +1,37 @@
+{
+  "refinement_date": "2026-01-29T03:14:56.436078",
+  "new_evidence": {
+    "id": "PAF_FNB_FRAUD_LETTER_2025_06_17",
+    "type": "Director's Letter to FNB",
+    "date": "2025-06-17",
+    "significance": "CRITICAL - Director's written acknowledgment of suspected fraud"
+  },
+  "models_updated": [
+    "events.json - Added EVENT_FNB_001",
+    "timeline.json - Added 2025-06-17 entry",
+    "entities.json - Updated PERSON_001 with FNB letter evidence",
+    "relations.json - Added REL_FNB_001"
+  ],
+  "new_analysis_files": [
+    "JUNE_2025_TIMELINE_ANALYSIS.json",
+    "FNB_FRAUD_LETTER_EVIDENCE_CHAIN.json"
+  ],
+  "key_findings": [
+    "Peter Faucitt acknowledged suspected fraud on RWD account in writing",
+    "Letter written 11 days after Daniel exposed fraud to Bantjies",
+    "Peter warned FNB about being 'accessory after the fact'",
+    "Peter acknowledged potential Exchange Control violations",
+    "This contradicts Peter's court position blaming Daniel and Jax"
+  ],
+  "legal_implications": {
+    "civil_case": "Burden of proof strengthened by director's admission",
+    "criminal_case": "Written acknowledgment supports fraud charges",
+    "regulatory": "Exchange Control violations add SARB dimension",
+    "CIPC": "Director misconduct evidence strengthened"
+  },
+  "burden_of_proof_assessment": {
+    "civil_50_percent": "EXCEEDED",
+    "criminal_95_percent": "STRENGTHENED",
+    "exchange_control": "NEW EVIDENCE"
+  }
+}

@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "24.0_FNB_FRAUD_LETTER_2026_01_29",
+    "version": "23.0_KETONI_INTEGRATED_2026_01_16",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-01-29T03:13:56.418341",
-    "changes": "Added REL_FNB_001: Peter-FNB fraud acknowledgment relation",
+    "last_updated": "2026-01-16T05:34:42.470775",
+    "changes": "CRITICAL: Ketoni Integration - Added FFT-Ketoni, Derrick-Ketoni, Bantjies-Derrick relations",
     "total_relations": 78
   },
   "relations": {
@@ -1811,22 +1811,6 @@
         "evidence_verified": "2025-12-25T05:38:52.461167",
         "confidence": 0.75,
         "evidence_strength": "moderate"
-      }
-    ],
-    "fraud_acknowledgment_relations": [
-      {
-        "relation_id": "REL_FNB_001",
-        "source_entity": "PERSON_001",
-        "target_entity": "BANK_001",
-        "relation_type": "fraud_acknowledgment_communication",
-        "description": "Peter Faucitt wrote formal letter to FNB acknowledging suspected fraud on RWD account 62323196362",
-        "date": "2025-06-17",
-        "evidence": [
-          "PAF_FNB_FRAUD_LETTER_2025_06_17.jpg",
-          "PAF_FNB_FRAUD_LETTER_2025_06_17_OCR.md"
-        ],
-        "legal_significance": "Director's written admission of suspected fraud",
-        "created": "2026-01-29T03:13:56.418327"
       }
     ]
   }

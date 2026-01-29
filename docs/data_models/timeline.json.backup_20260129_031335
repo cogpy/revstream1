@@ -1,13 +1,41 @@
 {
   "metadata": {
-    "version": "25.0_FNB_FRAUD_LETTER_2026_01_29",
+    "version": "24.0_KETONI_INTEGRATED_2026_01_16",
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-01-29T03:13:35.860916",
-    "changes": "Added FNB Fraud Letter timeline entry (2025-06-17)"
+    "last_updated": "2026-01-16T05:34:42.470857",
+    "changes": "CRITICAL: Ketoni Integration - Added EVENT_K001, phase structure with May 2026 convergence"
   },
   "timeline": [
+    {
+      "date": "2023-04-24",
+      "event_count": 1,
+      "events": [
+        "EVENT_K001"
+      ],
+      "primary_category": "financial_investment",
+      "description": "FFT Ketoni Investment - ZAR 18.75M payout option established",
+      "key_actors": [
+        "PERSON_001",
+        "PERSON_014",
+        "TRUST_001",
+        "ORG_015"
+      ],
+      "legal_significance": "establishment_of_central_financial_motive",
+      "evidence_references": [
+        "Ketoni shareholder agreement",
+        "FFT investment records",
+        "Payout option documentation"
+      ],
+      "evidence": [
+        "Ketoni Investment Records",
+        "FFT Financial Documentation"
+      ],
+      "phase": "PHASE_0_INVESTMENT",
+      "timing": "T-37 months before May 2026 payout",
+      "financial_impact": "ZAR 18,750,000"
+    },
     {
       "date": "2017-02-24",
       "event_count": 1,
@@ -513,34 +541,6 @@
       ]
     },
     {
-      "date": "2023-04-24",
-      "event_count": 1,
-      "events": [
-        "EVENT_K001"
-      ],
-      "primary_category": "financial_investment",
-      "description": "FFT Ketoni Investment - ZAR 18.75M payout option established",
-      "key_actors": [
-        "PERSON_001",
-        "PERSON_014",
-        "TRUST_001",
-        "ORG_015"
-      ],
-      "legal_significance": "establishment_of_central_financial_motive",
-      "evidence_references": [
-        "Ketoni shareholder agreement",
-        "FFT investment records",
-        "Payout option documentation"
-      ],
-      "evidence": [
-        "Ketoni Investment Records",
-        "FFT Financial Documentation"
-      ],
-      "phase": "PHASE_0_INVESTMENT",
-      "timing": "T-37 months before May 2026 payout",
-      "financial_impact": "ZAR 18,750,000"
-    },
-    {
       "date": "2023-09-20",
       "event_count": 1,
       "events": [
@@ -999,30 +999,6 @@
         "JF08 - Recent Evidence",
         "JF06 - Court Documents"
       ]
-    },
-    {
-      "date": "2025-06-17",
-      "event_count": 1,
-      "events": [
-        "EVENT_FNB_001"
-      ],
-      "primary_category": "fraud_acknowledgment",
-      "description": "Peter Faucitt writes FNB letter acknowledging suspected fraud on RWD account",
-      "key_actors": [
-        "PERSON_001"
-      ],
-      "legal_significance": "CRITICAL: Director's written admission of suspected fraud",
-      "evidence_references": [
-        "PAF_FNB_FRAUD_LETTER_2025_06_17.jpg",
-        "PAF_FNB_FRAUD_LETTER_2025_06_17_OCR.md"
-      ],
-      "evidence": [
-        "FNB Fraud Letter",
-        "OCR Extraction"
-      ],
-      "phase": "PHASE_3",
-      "timing": "T+11 days after fraud exposure to Bantjies",
-      "financial_impact": "Acknowledges potential Exchange Control violations"
     },
     {
       "date": "2025-06-18",

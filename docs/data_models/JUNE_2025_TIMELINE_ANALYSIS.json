@@ -1,0 +1,52 @@
+{
+  "title": "June 2025 Critical Timeline - Fraud Exposure and Response",
+  "description": "Timeline showing the sequence of events from fraud exposure to FNB letter",
+  "events": [
+    {
+      "date": "2025-06-06",
+      "event": "Daniel Finalizes Fraud Reports",
+      "event_id": "EVENT_011",
+      "description": "Daniel finalizes comprehensive fraud reports after using time from March 30 deadline extension",
+      "significance": "Fraud formally documented"
+    },
+    {
+      "date": "2025-06-06",
+      "event": "Daniel Sends Reports to Bantjies",
+      "event_id": "EVENT_057",
+      "description": "Daniel sends comprehensive documentation to Bantjies (accountant) including listing of all companies, Shopify store operations, and preliminary reports",
+      "significance": "Full transparency demonstrated"
+    },
+    {
+      "date": "2025-06-07",
+      "event": "Secret Card Cancellations",
+      "event_id": "EVENT_012",
+      "description": "Secret cancellation of cards to sabotage Daniel's ability to pay creditors - less than 24 hours after fraud exposure",
+      "significance": "Immediate retaliation for fraud exposure",
+      "days_after_exposure": 1
+    },
+    {
+      "date": "2025-06-17",
+      "event": "Peter Writes FNB Fraud Letter",
+      "event_id": "EVENT_FNB_001",
+      "description": "Peter Faucitt writes formal letter to FNB acknowledging suspected fraud on RWD account 62323196362",
+      "significance": "Director's written admission of suspected fraud",
+      "days_after_exposure": 11,
+      "key_admissions": [
+        "Suspected fraud on RWD account",
+        "Prior request to cancel 3 debit cards",
+        "FNB could be accessory after the fact",
+        "Potential Exchange Control violations"
+      ]
+    }
+  ],
+  "analysis": {
+    "pattern": "fraud_exposure_retaliation_acknowledgment",
+    "timeline_significance": "Peter's FNB letter written 11 days after Daniel exposed fraud to Bantjies confirms Peter was aware of suspected fraud, yet his court filings blame Daniel and Jax",
+    "contradiction": "Peter's court position claims Daniel and Jax are perpetrators, but his FNB letter shows he was aware of fraud on the RWD account and was taking action to stop it",
+    "legal_implications": [
+      "Director's admission of suspected fraud strengthens criminal case",
+      "Exchange Control acknowledgment adds SARB regulatory dimension",
+      "FNB accessory warning standard applies equally to Peter"
+    ]
+  }
+}
