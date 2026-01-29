@@ -1,139 +1,13 @@
 {
   "metadata": {
-    "version": "v31.0_MANDATES_ROLES_HOLDINGS_2026_01_29",
+    "version": "v30.0_FNB_RESPONSE_2026_01_29",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-29 03:30:55",
-    "changes": "Added comprehensive shareholdings, directorships, account mandates, trustee positions, and fiduciary duties to all natural person entities",
-    "total_entities": 32,
-    "account_mandates_summary": {
-      "fnb_rwd_mandate": {
-        "entity": "Regima Worldwide Distribution (Pty) Ltd",
-        "account": "62323196362",
-        "bank": "FNB",
-        "mandate_type": "INDEPENDENT_DIRECTOR_AUTHORITY",
-        "description": "Any director may act independently of each other",
-        "co_signature_required": false,
-        "directors_with_authority": [
-          "PERSON_001",
-          "PERSON_004"
-        ],
-        "confirmation_date": "2025-06-18",
-        "confirmed_by": "Mpumi Netshipale (FNB Business Relationship Manager)",
-        "evidence": "FNB_RESPONSE_EMAIL_2025_06_18"
-      }
-    },
-    "corporate_structure_summary": {
-      "trust": {
-        "TRUST_001": {
-          "name": "Faucitt Family Trust",
-          "trustees": [
-            {
-              "id": "PERSON_001",
-              "name": "Peter Andrew Faucitt",
-              "role": "Main Trustee",
-              "status": "active"
-            },
-            {
-              "id": "PERSON_004",
-              "name": "Jacqueline Faucitt",
-              "role": "Trustee",
-              "status": "active"
-            },
-            {
-              "id": "PERSON_007",
-              "name": "Danie Bantjies",
-              "role": "Trustee",
-              "status": "active",
-              "appointment": "unlawful"
-            }
-          ],
-          "beneficiaries": [
-            {
-              "id": "PERSON_001",
-              "name": "Peter Andrew Faucitt",
-              "share": "1/3"
-            },
-            {
-              "id": "PERSON_004",
-              "name": "Jacqueline Faucitt",
-              "share": "1/3"
-            },
-            {
-              "id": "PERSON_005",
-              "name": "Daniel James Faucitt",
-              "share": "1/3"
-            }
-          ],
-          "assets": [
-            "ORG_001",
-            "ORG_005"
-          ],
-          "pending_payout": {
-            "source": "Ketoni Investment Holdings",
-            "amount": "ZAR 18,750,000",
-            "due_date": "May 2026"
-          }
-        }
-      },
-      "companies": {
-        "ORG_001": {
-          "name": "Regima Worldwide Distribution (Pty) Ltd",
-          "directors": [
-            "PERSON_001",
-            "PERSON_004"
-          ],
-          "bank_mandate": "Independent director authority (FNB)"
-        },
-        "ORG_002": {
-          "name": "Regima Skin Treatments CC",
-          "members": [
-            {
-              "id": "PERSON_001",
-              "share": "50%"
-            },
-            {
-              "id": "PERSON_004",
-              "share": "50%",
-              "role": "CEO"
-            }
-          ]
-        },
-        "ORG_003": {
-          "name": "RegimA Zone Ltd",
-          "jurisdiction": "United Kingdom",
-          "owner": "PERSON_005",
-          "role": "Infrastructure owner (Shopify)"
-        },
-        "ORG_004": {
-          "name": "Strategic Logistics Group",
-          "directors": [
-            "PERSON_001"
-          ],
-          "shareholding": [
-            {
-              "id": "PERSON_001",
-              "share": "33%"
-            }
-          ]
-        },
-        "ORG_005": {
-          "name": "Villa Via",
-          "directors": [
-            "PERSON_001"
-          ],
-          "shareholding": [
-            {
-              "id": "PERSON_001",
-              "share": "50%"
-            }
-          ],
-          "role": "Rental property / wealth extraction"
-        }
-      }
-    }
+    "last_updated": "2026-01-29 03:23:12",
+    "changes": "Added FNB Fraud Letter evidence to PERSON_001",
+    "total_entities": 32
   },
   "entities": {
     "persons": [
@@ -215,146 +89,7 @@
             "Potential Exchange Control violations"
           ],
           "contradicts_court_position": true
-        },
-        "shareholdings": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "percentage": "unknown",
-            "status": "active",
-            "evidence": [
-              "CIPC records",
-              "JF04"
-            ]
-          },
-          {
-            "entity_id": "ORG_002",
-            "entity_name": "Regima Skin Treatments CC",
-            "percentage": "50%",
-            "status": "active",
-            "evidence": [
-              "CIPC records",
-              "JF04"
-            ]
-          },
-          {
-            "entity_id": "ORG_004",
-            "entity_name": "Strategic Logistics Group",
-            "percentage": "33%",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          },
-          {
-            "entity_id": "ORG_005",
-            "entity_name": "Villa Via",
-            "percentage": "50%",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          }
-        ],
-        "directorships": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "role": "Director",
-            "status": "active",
-            "appointment_date": "unknown",
-            "evidence": [
-              "CIPC records",
-              "JF04",
-              "FNB_RESPONSE_EMAIL_2025_06_18"
-            ]
-          },
-          {
-            "entity_id": "ORG_002",
-            "entity_name": "Regima Skin Treatments CC",
-            "role": "Member",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          },
-          {
-            "entity_id": "ORG_004",
-            "entity_name": "Strategic Logistics Group",
-            "role": "Director",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          },
-          {
-            "entity_id": "ORG_005",
-            "entity_name": "Villa Via",
-            "role": "Director",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          }
-        ],
-        "account_mandates": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "bank": "FNB",
-            "account_number": "62323196362",
-            "authority_type": "INDEPENDENT_DIRECTOR_AUTHORITY",
-            "description": "Any director may act independently of each other",
-            "co_signature_required": false,
-            "evidence": [
-              "FNB_RESPONSE_EMAIL_2025_06_18"
-            ],
-            "fnb_confirmation_date": "2025-06-18",
-            "fnb_contact": "Mpumi Netshipale (Business Relationship Manager)"
-          }
-        ],
-        "trustee_positions": [
-          {
-            "trust_id": "TRUST_001",
-            "trust_name": "Faucitt Family Trust",
-            "role": "Main Trustee",
-            "status": "active",
-            "appointment_date": "2025-07-01",
-            "backdated": true,
-            "backdating_evidence": "Document signed 2025-08-11, backdated to 2025-07-01",
-            "evidence": [
-              "Trust documents",
-              "JF06"
-            ]
-          }
-        ],
-        "fiduciary_duties": [
-          {
-            "entity_id": "TRUST_001",
-            "entity_name": "Faucitt Family Trust",
-            "duty_type": "Trustee fiduciary duty",
-            "beneficiaries": [
-              "PERSON_001",
-              "PERSON_004",
-              "PERSON_005"
-            ],
-            "status": "BREACHED",
-            "breach_evidence": [
-              "Interdict against beneficiaries",
-              "Asset control actions"
-            ]
-          },
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "duty_type": "Director fiduciary duty (Companies Act s76)",
-            "status": "BREACHED",
-            "breach_evidence": [
-              "FNB fraud letter admission",
-              "Revenue diversion"
-            ]
-          }
-        ]
+        }
       },
       {
         "entity_id": "PERSON_002",
@@ -424,70 +159,7 @@
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077448",
         "evidence_strength": "strong",
-        "criminal_threshold": "95%_likely",
-        "shareholdings": [],
-        "directorships": [],
-        "account_mandates": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "bank": "FNB",
-            "account_number": "62323196362",
-            "authority_type": "OPERATIONAL_CONTROL",
-            "description": "Controls accounting system (Sage) and email access",
-            "co_signature_required": false,
-            "evidence": [
-              "SF2_Sage_Screenshots",
-              "Email access evidence"
-            ],
-            "sage_user_accounts": [
-              "Pete@regima.com",
-              "rynette@regima.zone"
-            ]
-          },
-          {
-            "entity_id": "ABSA_ACCOUNTS",
-            "entity_name": "Multiple ABSA Accounts",
-            "bank": "ABSA",
-            "account_number": "multiple",
-            "authority_type": "SUSPECTED_UNAUTHORIZED",
-            "description": "Potentially opened 8 ABSA accounts using stolen card",
-            "evidence": [
-              "Investigation pending"
-            ]
-          }
-        ],
-        "trustee_positions": [],
-        "employment_roles": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "role": "Financial Controller / Operations Manager",
-            "status": "active",
-            "evidence": [
-              "SF2_Sage_Screenshots",
-              "Email correspondence"
-            ]
-          }
-        ],
-        "system_access": {
-          "sage_accounting": {
-            "subscription_owner": "RegimA Worldwide Distribution (Pty) Ltd",
-            "user_accounts": [
-              "Pete@regima.com",
-              "rynette@regima.zone"
-            ],
-            "expiry_date": "2025-07-23",
-            "evidence": [
-              "SF2_Sage_Screenshots"
-            ]
-          },
-          "email_access": {
-            "pete_email": "Pete@regima.com",
-            "own_email": "rynette@regima.zone",
-            "evidence": "Sage screenshot 2025-06-20 shows Rynette with user account Pete@regima.com"
-          }
-        }
+        "criminal_threshold": "95%_likely"
       },
       {
         "entity_id": "PERSON_004",
@@ -515,75 +187,7 @@
           "1-CIVIL-RESPONSE - Answering affidavit"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077452",
-        "evidence_strength": "strong",
-        "shareholdings": [],
-        "directorships": [
-          {
-            "entity_id": "ORG_002",
-            "entity_name": "Regima Skin Treatments CC",
-            "role": "CEO",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          }
-        ],
-        "account_mandates": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "bank": "FNB",
-            "account_number": "62323196362",
-            "authority_type": "INDEPENDENT_DIRECTOR_AUTHORITY",
-            "description": "Any director may act independently of each other",
-            "co_signature_required": false,
-            "evidence": [
-              "FNB_RESPONSE_EMAIL_2025_06_18"
-            ],
-            "fnb_confirmation_date": "2025-06-18"
-          }
-        ],
-        "trustee_positions": [
-          {
-            "trust_id": "TRUST_001",
-            "trust_name": "Faucitt Family Trust",
-            "role": "Trustee",
-            "status": "active",
-            "evidence": [
-              "Trust documents"
-            ]
-          }
-        ],
-        "statutory_roles": [
-          {
-            "entity_id": "ORG_002",
-            "entity_name": "Regima Skin Treatments CC",
-            "role": "Information Officer (POPIA)",
-            "status": "active",
-            "evidence": [
-              "POPIA compliance records"
-            ]
-          }
-        ],
-        "fiduciary_duties": [
-          {
-            "entity_id": "TRUST_001",
-            "entity_name": "Faucitt Family Trust",
-            "duty_type": "Trustee fiduciary duty",
-            "beneficiaries": [
-              "PERSON_001",
-              "PERSON_004",
-              "PERSON_005"
-            ],
-            "status": "ACTIVE"
-          },
-          {
-            "entity_id": "ORG_002",
-            "entity_name": "Regima Skin Treatments CC",
-            "duty_type": "CEO fiduciary duty",
-            "status": "ACTIVE"
-          }
-        ]
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_005",
@@ -618,91 +222,7 @@
           "ANNEXURES/JF02 - Shopify sales reports under her management"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077454",
-        "evidence_strength": "strong",
-        "shareholdings": [
-          {
-            "entity_id": "ORG_003",
-            "entity_name": "RegimA Zone Ltd",
-            "percentage": "100%",
-            "status": "active",
-            "jurisdiction": "United Kingdom",
-            "evidence": [
-              "UK company records",
-              "JF01",
-              "JF02"
-            ]
-          },
-          {
-            "entity_id": "ORG_008",
-            "entity_name": "ReZonance (Pty) Ltd",
-            "percentage": "50%",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          }
-        ],
-        "directorships": [
-          {
-            "entity_id": "ORG_003",
-            "entity_name": "RegimA Zone Ltd",
-            "role": "Managing Director",
-            "status": "active",
-            "jurisdiction": "United Kingdom",
-            "evidence": [
-              "UK company records"
-            ]
-          },
-          {
-            "entity_id": "ORG_008",
-            "entity_name": "ReZonance (Pty) Ltd",
-            "role": "Director",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          }
-        ],
-        "account_mandates": [
-          {
-            "entity_id": "ORG_003",
-            "entity_name": "RegimA Zone Ltd",
-            "bank": "UK Bank",
-            "authority_type": "SOLE_SIGNATORY",
-            "description": "Full control as sole owner and director",
-            "evidence": [
-              "UK company records"
-            ]
-          }
-        ],
-        "trustee_positions": [],
-        "beneficiary_positions": [
-          {
-            "trust_id": "TRUST_001",
-            "trust_name": "Faucitt Family Trust",
-            "role": "Beneficiary",
-            "share": "1/3",
-            "estimated_value": "ZAR 6,250,000 (from Ketoni payout)",
-            "status": "UNDER_ATTACK",
-            "attack_evidence": [
-              "Interdict",
-              "Curatorship fraud attempt"
-            ]
-          }
-        ],
-        "platform_ownership": [
-          {
-            "platform": "Shopify Plus",
-            "entity_id": "ORG_003",
-            "role": "Owner and Payer",
-            "monthly_cost": "$1,000 - $2,000 USD",
-            "duration": "28 months",
-            "total_investment": "R140,000 - R280,000",
-            "evidence": [
-              "JF01 - Shopify Plus email"
-            ]
-          }
-        ]
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_006",
@@ -769,18 +289,14 @@
         "legal_status": "co_conspirator_and_fiduciary_violator",
         "additional_notes": "Unknown trustee status, dismissed audit request June 10, 2025 (4 days after fraud exposure), controlled accounting system with Rynette using Peter's email, owes R18.685M to trust creating massive conflict of interest, certified Peter's affidavit as Commissioner of Oaths despite material omissions, sent trial balance email Aug 13, 2020; Sent trial balance email Aug 13, 2020 to Bernadine Wright; learned of criminal matters June 10, 2025; ENS Africa suppressed criminal information from Court Aug 29, 2025",
         "conflict_of_interest": {
-          "triple_conflict": true,
+          "triple_conflict": "trustee_debtor_accountant",
           "roles": [
-            "Trustee of Faucitt Family Trust",
-            "Debtor to Trust (R18,685,000)",
-            "Accountant for all RegimA companies",
-            "Commissioner of Oaths"
+            "trustee_of_TRUST_001",
+            "debtor_to_TRUST_001_R18685000",
+            "accountant_for_regima_group",
+            "commissioner_of_oaths"
           ],
-          "motive": "Prevent discovery of R18,685,000 debt to trust",
-          "ketoni_connection": {
-            "colleague": "Kevin Michael Derrick (Ketoni Director)",
-            "significance": "Links Bantjies appointment to ZAR 18.75M payout"
-          }
+          "motive": "prevent_discovery_of_R18685000_debt"
         },
         "timeline_events": [
           "EVENT_H018",
@@ -825,63 +341,7 @@
           "colleague": "Kevin Michael Derrick (Ketoni Director)",
           "appointment_timing": "T-10 months before ZAR 18.75M payout (May 2026)",
           "significance": "Strategic appointment to consolidate trust control before payout"
-        },
-        "shareholdings": [],
-        "directorships": [],
-        "account_mandates": [],
-        "trustee_positions": [
-          {
-            "trust_id": "TRUST_001",
-            "trust_name": "Faucitt Family Trust",
-            "role": "Trustee",
-            "status": "active",
-            "appointment_date": "2024-07",
-            "appointed_by": "Rynette Farrar (unlawfully)",
-            "appointment_timing": "T-10 months before ZAR 18.75M Ketoni payout",
-            "evidence": [
-              "Trust documents",
-              "SF1_Bantjies_Debt_Documentation"
-            ]
-          }
-        ],
-        "professional_roles": [
-          {
-            "role": "Accountant",
-            "clients": [
-              "ORG_001",
-              "ORG_002",
-              "ORG_004",
-              "ORG_005",
-              "ORG_006"
-            ],
-            "duration": "30+ years with Faucitt family business",
-            "evidence": [
-              "JF03",
-              "JF08"
-            ]
-          },
-          {
-            "role": "Commissioner of Oaths",
-            "status": "active",
-            "misconduct": "Certified Peter's affidavit despite material omissions",
-            "evidence": [
-              "Court documents"
-            ]
-          }
-        ],
-        "debts": [
-          {
-            "creditor_id": "TRUST_001",
-            "creditor_name": "Faucitt Family Trust",
-            "amount": "R18,685,000",
-            "status": "outstanding",
-            "significance": "Creates massive conflict of interest as Trustee",
-            "evidence": [
-              "SF1_Bantjies_Debt_Documentation",
-              "Ketoni analysis"
-            ]
-          }
-        ]
+        }
       },
       {
         "entity_id": "PERSON_008",
@@ -1025,75 +485,7 @@
           "ANNEXURES/JF08 - Evidence of independent business operations"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077477",
-        "evidence_strength": "strong",
-        "shareholdings": [
-          {
-            "entity_id": "ORG_009",
-            "entity_name": "Adderory (Pty) Ltd",
-            "percentage": "100%",
-            "status": "active",
-            "incorporation_date": "2021-04-30",
-            "evidence": [
-              "CIPC records",
-              "SF5"
-            ]
-          },
-          {
-            "entity_id": "ORG_010",
-            "entity_name": "Luxury Products Online",
-            "percentage": "100%",
-            "status": "active",
-            "incorporation_date": "2021-04-14",
-            "evidence": [
-              "CIPC records"
-            ]
-          },
-          {
-            "entity_id": "ORG_011",
-            "entity_name": "Luxur\u00e9",
-            "percentage": "100%",
-            "status": "active",
-            "incorporation_date": "2021-04-29",
-            "note": "Competitor to R\u00e9gimA",
-            "evidence": [
-              "CIPC records"
-            ]
-          }
-        ],
-        "directorships": [
-          {
-            "entity_id": "ORG_009",
-            "entity_name": "Adderory (Pty) Ltd",
-            "role": "Director",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          }
-        ],
-        "domain_ownership": [
-          {
-            "domain": "regimaskin.co.za",
-            "registration_date": "2025-05-29",
-            "purpose": "Customer hijacking infrastructure",
-            "identity_fraud": "Registered using Daniel's identity",
-            "evidence": [
-              "Domain registration records",
-              "JF08"
-            ]
-          }
-        ],
-        "supply_relationships": [
-          {
-            "supplier_entity": "ORG_009",
-            "customer_entity": "ORG_004",
-            "product": "Stock (same type that disappeared)",
-            "connection_to_fraud": "R5,400,000 stock adjustment",
-            "evidence": [
-              "SF3_Strategic_Logistics_Stock_Adjustment"
-            ]
-          }
-        ]
+        "evidence_strength": "strong"
       },
       {
         "entity_id": "PERSON_011",
@@ -1255,58 +647,7 @@
           "lex/agent_based_model_v48_ketoni_integrated.scm"
         ],
         "evidence_enhanced": "2026-01-16T05:34:42.470728",
-        "evidence_strength": "strong",
-        "shareholdings": [
-          {
-            "entity_id": "ORG_015",
-            "entity_name": "Ketoni Investment Holdings",
-            "percentage": "unknown",
-            "status": "active",
-            "evidence": [
-              "Ketoni company records"
-            ]
-          }
-        ],
-        "directorships": [
-          {
-            "entity_id": "ORG_015",
-            "entity_name": "Ketoni Investment Holdings",
-            "role": "Director",
-            "status": "active",
-            "evidence": [
-              "Ketoni company records"
-            ]
-          },
-          {
-            "entity_id": "ORG_GEORGE_GROUP",
-            "entity_name": "George Group",
-            "role": "CEO",
-            "status": "active",
-            "evidence": [
-              "Company records"
-            ]
-          }
-        ],
-        "professional_connections": [
-          {
-            "person_id": "PERSON_007",
-            "person_name": "Danie Bantjies",
-            "relationship": "Colleague at George Group",
-            "significance": "Links Bantjies appointment to Ketoni payout"
-          }
-        ],
-        "financial_obligations": [
-          {
-            "creditor_id": "TRUST_001",
-            "creditor_name": "Faucitt Family Trust",
-            "amount": "ZAR 18,750,000",
-            "due_date": "May 2026",
-            "type": "Ketoni payout obligation",
-            "evidence": [
-              "Ketoni investment documents"
-            ]
-          }
-        ]
+        "evidence_strength": "strong"
       }
     ],
     "organizations": [

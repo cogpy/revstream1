@@ -100,8 +100,10 @@ This financial motive explains:
 ## 📈 Evidence & Analysis
 
 ### Core Documentation
+- **[Corporate Structure & Mandates](./corporate-structure-mandates.md)** - 🆕 NEW: Shareholdings, directorships, bank mandates, trustee positions
 - **[Ketoni Payout Timeline](./ketoni-timeline.md)** - Central financial motive (ZAR 18.75M May 2026)
-- **[FNB Fraud Letter Analysis](./evidence/FNB_FRAUD_LETTER_2025_06_17/PAF_FNB_FRAUD_LETTER_2025_06_17_OCR.md)** - 🆕 NEW: Peter's fraud acknowledgment
+- **[FNB Fraud Letter Analysis](./evidence/FNB_FRAUD_LETTER_2025_06_17/PAF_FNB_FRAUD_LETTER_2025_06_17_OCR.md)** - Peter's fraud acknowledgment
+- **[FNB Response Email Analysis](./evidence/FNB_RESPONSE_EMAIL_2025_06_18/FNB_RESPONSE_EMAIL_2025_06_18_OCR.md)** - Bank mandate confirmation
 - **[Comprehensive Evidence Index](./evidence-index-enhanced.md)** - All evidence categorized and cross-referenced
 - **[Master Timeline](./timeline.md)** - Complete chronological event sequence (126 entries)
 - **[Entities Directory](./entities/index.md)** - All persons and organizations (87 entities)
