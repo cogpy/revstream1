@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "v33.0_FIDUCIARY_STATUTORY_ROLES_2026_01_29",
+    "version": "v33.1_JACQUI_STATUS_CORRECTED_2026_01_29",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-29 03:45:07",
-    "changes": "Added fiduciary/statutory roles, corrected FNB mandate to SOLE INDEPENDENT AUTHORITY, added June 2025 email structure notes",
+    "last_updated": "2026-01-29 05:07:11",
+    "changes": "Corrected Jacqui's fiduciary status - she was kept uninformed by Rynette's secret operations, not a breacher",
     "total_entities": 32,
     "account_mandates_summary": {
       "fnb_rwd_mandate": {
@@ -734,14 +734,16 @@
             "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
             "role": "Director",
             "duty": "Companies Act s76 - Fiduciary duty to act in good faith",
-            "status": "BREACHED"
+            "status": "ACTIVE - UNINFORMED VICTIM",
+            "status_note": "Jacqui was kept uninformed by Rynette's secret operations - no breach"
           },
           {
             "entity_id": "ORG_002",
             "entity_name": "Regima Skin Treatments CC",
             "role": "Member (50%) / CEO",
             "duty": "Close Corporations Act - Fiduciary duty as member and CEO",
-            "status": "BREACHED"
+            "status": "ACTIVE - UNINFORMED VICTIM",
+            "status_note": "Jacqui was kept uninformed by Rynette's secret operations - no breach"
           },
           {
             "entity_id": "ORG_004",
@@ -755,9 +757,36 @@
             "entity_name": "Faucitt Family Trust",
             "role": "Trustee",
             "duty": "Trust Property Control Act - Fiduciary duty to beneficiaries",
-            "status": "BREACHED"
+            "status": "ACTIVE - UNINFORMED VICTIM",
+            "status_note": "Jacqui was kept uninformed by Rynette's secret operations - no breach"
           }
-        ]
+        ],
+        "victim_status": {
+          "description": "Kept uninformed by Rynette's secret operations allegedly on Peter's behalf",
+          "evidence": [
+            "Confronted Rynette on 15 May 2025 about R1,035,000 debt",
+            "Not informed of card cancellations (7 June 2025)",
+            "Not informed of mandate change attempts",
+            "Accounts existed solely on Rynette's computer - no visibility",
+            "Also a beneficiary of FFT under attack alongside Daniel"
+          ],
+          "key_event": {
+            "date": "2025-05-15",
+            "description": "Jacqui confronted Rynette about ZAR 1,035,000 owed by RST to Rezonance since Feb 2023",
+            "jacqui_statement": "These funds were part of Kayla's estate and keeping them would be profiting from the proceeds of murder"
+          }
+        },
+        "fiduciary_status_clarification": {
+          "has_breached": false,
+          "reason": "Everything was carried out in secret by Rynette allegedly acting on behalf of Peter without Jacqui's knowledge or consent",
+          "same_position_as_daniel": true,
+          "evidence_of_good_faith": [
+            "Confronted Rynette about unpaid debt (15 May 2025)",
+            "Stated keeping funds would be 'profiting from proceeds of murder'",
+            "Was not informed of secret card cancellations",
+            "Had no access to accounts (existed only on Rynette's computer)"
+          ]
+        }
       },
       {
         "entity_id": "PERSON_005",

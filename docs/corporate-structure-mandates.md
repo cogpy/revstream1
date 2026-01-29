@@ -165,6 +165,16 @@ This page provides a comprehensive overview of the corporate structure, bank acc
 
 ### PERSON_004: Jacqueline Faucitt
 
+**Status:** ✅ **VICTIM - UNINFORMED** (NOT a breacher)
+
+> **Critical Note:** Jacqui has NOT breached her fiduciary duties. Everything was carried out in secret by Rynette allegedly acting on behalf of Peter without Jacqui's knowledge or consent. She is a victim of the same information asymmetry as Daniel.
+
+**Evidence of Good Faith:**
+- Confronted Rynette on 15 May 2025 about R1,035,000 debt to Rezonance
+- Stated keeping funds would be "profiting from the proceeds of murder"
+- Was not informed of secret card cancellations (7 June 2025)
+- Had no access to accounts (existed solely on Rynette's computer)
+
 **Directorships:**
 
 | Entity | Role | Status |
@@ -173,9 +183,9 @@ This page provides a comprehensive overview of the corporate structure, bank acc
 
 **Account Mandates:**
 
-| Entity | Bank | Authority |
-|--------|------|-----------|
-| RWD (Pty) Ltd | FNB (62323196362) | Independent Director Authority |
+| Entity | Bank | Authority | Can Act Alone |
+|--------|------|-----------|---------------|
+| RWD (Pty) Ltd | FNB (62323196362) | **SOLE** Independent Authority | ✅ Yes |
 
 **Trustee Positions:**
 
@@ -187,9 +197,9 @@ This page provides a comprehensive overview of the corporate structure, bank acc
 
 | Entity | Role | Duty | Status |
 |--------|------|------|--------|
-| Faucitt Family Trust | Trustee | Trust Property Control Act | **BREACHED** |
-| RWD (Pty) Ltd | Director | Companies Act s76 | **BREACHED** |
-| RST CC | Member/CEO (50%) | Close Corporations Act | **BREACHED** |
+| Faucitt Family Trust | Trustee | Trust Property Control Act | **ACTIVE - UNINFORMED VICTIM** |
+| RWD (Pty) Ltd | Director | Companies Act s76 | **ACTIVE - UNINFORMED VICTIM** |
+| RST CC | Member/CEO (50%) | Close Corporations Act | **ACTIVE - UNINFORMED VICTIM** |
 | SLG CC | Member (33%) | Close Corporations Act | Active |
 
 **Statutory Roles:**
