@@ -25,9 +25,10 @@ This page provides a comprehensive overview of the corporate structure, bank acc
 ### Directors with Bank Authority
 
 | Person | Entity ID | Authority Level |
-|--------|-----------|-----------------|
+|--------|-----------|------------------|
 | Peter Andrew Faucitt | PERSON_001 | Independent Director Authority |
 | Jacqueline Faucitt | PERSON_004 | Independent Director Authority |
+| **Daniel James Faucitt** | **PERSON_005** | **Independent Director Authority** |
 
 ### Operational Control (Non-Director)
 
@@ -171,22 +172,32 @@ This page provides a comprehensive overview of the corporate structure, bank acc
 **Shareholdings:**
 
 | Entity | Percentage | Jurisdiction |
-|--------|------------|--------------|
+|--------|------------|---------------|
 | RegimA Zone Ltd | 100% | United Kingdom |
 | ReZonance (Pty) Ltd | 50% | South Africa |
 
 **Directorships:**
 
-| Entity | Role | Jurisdiction |
-|--------|------|--------------|
-| RegimA Zone Ltd | Managing Director | United Kingdom |
-| ReZonance (Pty) Ltd | Director | South Africa |
+| Entity | Role | Jurisdiction | Evidence |
+|--------|------|--------------|----------|
+| **Regima Worldwide Distribution (Pty) Ltd** | **Director** | **South Africa** | **JF-DAN-WITNESS.md, JF14-CIPC-2021** |
+| RegimA Zone Ltd | Managing Director | United Kingdom | UK company records |
+| RegimA SA (Pty) Ltd | Co-Director | South Africa | CIPC 2017/087935/07 |
+| ReZonance (Pty) Ltd | Director | South Africa | CIPC records |
+
+**Memberships (Close Corporations):**
+
+| Entity | Role | Percentage | Status |
+|--------|------|------------|--------|
+| Strategic Logistics Group CC | Founding Member | 33% | Active |
 
 **Account Mandates:**
 
-| Entity | Bank | Authority |
-|--------|------|-----------|
-| RegimA Zone Ltd | UK Bank | Sole Signatory |
+| Entity | Bank | Account | Authority | Evidence |
+|--------|------|---------|-----------|----------|
+| **RWD (Pty) Ltd** | **FNB** | **62323196362** | **Independent Director Authority** | **FNB_RESPONSE_EMAIL_2025_06_18** |
+| Strategic Logistics Group CC | FNB | TBD | Member Authority (66% vote for director loans) | JF-STRATEGIC-LOGISTICS-ANALYSIS.md |
+| RegimA Zone Ltd | UK Bank | - | Sole Signatory | UK company records |
 
 **Beneficiary Positions:**
 

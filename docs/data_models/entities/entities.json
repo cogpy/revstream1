@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "v31.0_MANDATES_ROLES_HOLDINGS_2026_01_29",
+    "version": "v32.0_COMPLETE_CIPC_MANDATES_2026_01_29",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-29 03:30:55",
-    "changes": "Added comprehensive shareholdings, directorships, account mandates, trustee positions, and fiduciary duties to all natural person entities",
+    "last_updated": "2026-01-29 03:36:16",
+    "changes": "Added Daniel as RWD Director with FNB mandate, completed SLG mandates, updated all juristic entities with CIPC/Windeed data",
     "total_entities": 32,
     "account_mandates_summary": {
       "fnb_rwd_mandate": {
@@ -311,6 +311,16 @@
             ],
             "fnb_confirmation_date": "2025-06-18",
             "fnb_contact": "Mpumi Netshipale (Business Relationship Manager)"
+          },
+          {
+            "entity_id": "ORG_004",
+            "entity_name": "Strategic Logistics Group CC",
+            "bank": "FNB",
+            "authority_type": "MEMBER_AUTHORITY",
+            "description": "Member authority based on CC agreement",
+            "evidence": [
+              "CC agreement"
+            ]
           }
         ],
         "trustee_positions": [
@@ -352,6 +362,18 @@
             "breach_evidence": [
               "FNB fraud letter admission",
               "Revenue diversion"
+            ]
+          }
+        ],
+        "memberships": [
+          {
+            "entity_id": "ORG_004",
+            "entity_name": "Strategic Logistics Group CC",
+            "role": "Member",
+            "percentage": "33%",
+            "status": "active",
+            "evidence": [
+              "JF14-CIPC-2021"
             ]
           }
         ]
@@ -541,6 +563,17 @@
               "FNB_RESPONSE_EMAIL_2025_06_18"
             ],
             "fnb_confirmation_date": "2025-06-18"
+          },
+          {
+            "entity_id": "ORG_004",
+            "entity_name": "Strategic Logistics Group CC",
+            "bank": "FNB",
+            "authority_type": "MEMBER_AUTHORITY",
+            "description": "Member authority based on CC agreement - 66% vote for director loans",
+            "director_loan_authority": true,
+            "evidence": [
+              "JF-STRATEGIC-LOGISTICS-ANALYSIS.md"
+            ]
           }
         ],
         "trustee_positions": [
@@ -583,6 +616,18 @@
             "duty_type": "CEO fiduciary duty",
             "status": "ACTIVE"
           }
+        ],
+        "memberships": [
+          {
+            "entity_id": "ORG_004",
+            "entity_name": "Strategic Logistics Group CC",
+            "role": "Member",
+            "percentage": "33%",
+            "status": "active",
+            "evidence": [
+              "JF14-CIPC-2021"
+            ]
+          }
         ]
       },
       {
@@ -596,8 +641,13 @@
         "relationships": [
           "second_respondent_in_case",
           "owner_regima_zone_ltd",
+          "director_of_RWD_ZA",
+          "director_of_RSA_ZA",
+          "director_of_ReZonance",
+          "founding_member_of_SLG",
           "shopify_platform_owner",
-          "shopify_platform_operator"
+          "shopify_platform_operator",
+          "beneficiary_of_TRUST_001"
         ],
         "financial_impact": {
           "victim_of_theft": "R10,269,727.90",
@@ -644,6 +694,17 @@
         ],
         "directorships": [
           {
+            "entity_id": "ORG_001",
+            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
+            "role": "Director",
+            "status": "active",
+            "evidence": [
+              "JF-DAN-WITNESS.md",
+              "JF14-CIPC-2021",
+              "FNB_RESPONSE_EMAIL_2025_06_18"
+            ]
+          },
+          {
             "entity_id": "ORG_003",
             "entity_name": "RegimA Zone Ltd",
             "role": "Managing Director",
@@ -651,6 +712,16 @@
             "jurisdiction": "United Kingdom",
             "evidence": [
               "UK company records"
+            ]
+          },
+          {
+            "entity_id": "ORG_006",
+            "entity_name": "RegimA SA (Pty) Ltd",
+            "role": "Co-Director",
+            "status": "active",
+            "evidence": [
+              "CIPC records",
+              "2017/087935/07"
             ]
           },
           {
@@ -664,6 +735,31 @@
           }
         ],
         "account_mandates": [
+          {
+            "entity_id": "ORG_001",
+            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
+            "bank": "FNB",
+            "account_number": "62323196362",
+            "authority_type": "INDEPENDENT_DIRECTOR_AUTHORITY",
+            "description": "Any director may act independently of each other",
+            "co_signature_required": false,
+            "evidence": [
+              "FNB_RESPONSE_EMAIL_2025_06_18"
+            ],
+            "fnb_confirmation_date": "2025-06-18",
+            "fnb_contact": "Mpumi Netshipale (Business Relationship Manager)"
+          },
+          {
+            "entity_id": "ORG_004",
+            "entity_name": "Strategic Logistics Group CC",
+            "bank": "FNB",
+            "authority_type": "MEMBER_AUTHORITY",
+            "description": "Member authority based on CC agreement - 66% vote for director loans",
+            "director_loan_authority": true,
+            "evidence": [
+              "JF-STRATEGIC-LOGISTICS-ANALYSIS.md"
+            ]
+          },
           {
             "entity_id": "ORG_003",
             "entity_name": "RegimA Zone Ltd",
@@ -700,6 +796,20 @@
             "total_investment": "R140,000 - R280,000",
             "evidence": [
               "JF01 - Shopify Plus email"
+            ]
+          }
+        ],
+        "memberships": [
+          {
+            "entity_id": "ORG_004",
+            "entity_name": "Strategic Logistics Group CC",
+            "role": "Founding Member",
+            "percentage": "33%",
+            "status": "active",
+            "founded": "2008",
+            "evidence": [
+              "JF-DAN-WITNESS.md",
+              "JF14-CIPC-2021"
             ]
           }
         ]
@@ -1315,7 +1425,7 @@
         "name": "Regima Worldwide Distribution (PTY) LTD",
         "abbreviation": "RWD ZA",
         "registration_number": "2011/005722/07",
-        "entity_type": "company",
+        "entity_type": "private_company",
         "agent_type": "instrument_of_fraud",
         "role": "third_respondent",
         "key_characteristics": [
@@ -1344,7 +1454,51 @@
           "1-CIVIL-RESPONSE/financial-flows - Revenue hijacking documentation"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077489",
-        "evidence_strength": "strong"
+        "evidence_strength": "strong",
+        "incorporation_date": "2011-03-11",
+        "directors": [
+          {
+            "person_id": "PERSON_001",
+            "name": "Peter Andrew Faucitt",
+            "role": "Director",
+            "status": "active"
+          },
+          {
+            "person_id": "PERSON_004",
+            "name": "Jacqueline Faucitt",
+            "role": "Director",
+            "status": "active"
+          },
+          {
+            "person_id": "PERSON_005",
+            "name": "Daniel James Faucitt",
+            "role": "Director",
+            "status": "active"
+          }
+        ],
+        "accounting_officer": {
+          "person_id": "PERSON_007",
+          "name": "Danie Bantjies"
+        },
+        "bank_accounts": [
+          {
+            "bank": "FNB",
+            "account_number": "62323196362",
+            "mandate_type": "INDEPENDENT_DIRECTOR_AUTHORITY",
+            "description": "Any director may act independently of each other",
+            "co_signature_required": false,
+            "signatories": [
+              "PERSON_001",
+              "PERSON_004",
+              "PERSON_005"
+            ],
+            "confirmation_date": "2025-06-18",
+            "confirmed_by": "Mpumi Netshipale (FNB Business Relationship Manager)",
+            "evidence": "FNB_RESPONSE_EMAIL_2025_06_18"
+          }
+        ],
+        "registered_address": "50 Van Buuren Road, Bedfordview, 2008",
+        "postal_address": "PO Box 9523, Edenglen, 1613"
       },
       {
         "entity_id": "ORG_002",
@@ -1373,13 +1527,38 @@
           "1-CIVIL-RESPONSE/financial-flows - Beneficiary of hijacked revenue"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077491",
-        "evidence_strength": "strong"
+        "evidence_strength": "strong",
+        "incorporation_date": "1992-02-26",
+        "members": [
+          {
+            "person_id": "PERSON_001",
+            "name": "Peter Andrew Faucitt",
+            "percentage": "50%",
+            "role": "Member"
+          },
+          {
+            "person_id": "PERSON_004",
+            "name": "Jacqueline Faucitt",
+            "percentage": "50%",
+            "role": "Member/CEO"
+          }
+        ],
+        "accounting_officer": {
+          "person_id": "PERSON_007",
+          "name": "Danie Bantjies"
+        },
+        "registered_address": "50 Van Buuren Road, Bedfordview, 2008",
+        "postal_address": "PO Box 9523, Edenglen, 1613",
+        "popia_information_officer": {
+          "person_id": "PERSON_004",
+          "name": "Jacqueline Faucitt"
+        }
       },
       {
         "entity_id": "ORG_003",
         "name": "RegimA Zone Ltd",
         "jurisdiction": "United Kingdom",
-        "entity_type": "uk_company",
+        "entity_type": "uk_private_company",
         "agent_type": "legitimate_business",
         "role": "infrastructure_owner",
         "key_characteristics": [
@@ -1418,13 +1597,22 @@
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077493",
         "evidence_strength": "strong",
-        "financial_impact_detail": "R140,000-R280,000 (28 months Shopify payments)"
+        "financial_impact_detail": "R140,000-R280,000 (28 months Shopify payments)",
+        "registration_number": "UK Company",
+        "directors": [
+          {
+            "person_id": "PERSON_005",
+            "name": "Daniel James Faucitt",
+            "role": "Managing Director",
+            "percentage": "100%"
+          }
+        ]
       },
       {
         "entity_id": "ORG_004",
         "name": "Strategic Logistics Group",
         "abbreviation": "SLG",
-        "entity_type": "company",
+        "entity_type": "close_corporation",
         "agent_type": "victim_entity",
         "ownership_structure": {
           "director_1": "33%",
@@ -1461,12 +1649,65 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF02 - Shopify sales reports"
         ],
-        "evidence_strength": "strong"
+        "evidence_strength": "strong",
+        "registration_number": "2008/136496/23",
+        "incorporation_date": "2008-06-27",
+        "members": [
+          {
+            "person_id": "PERSON_001",
+            "name": "Peter Andrew Faucitt",
+            "percentage": "33%",
+            "role": "Member"
+          },
+          {
+            "person_id": "PERSON_004",
+            "name": "Jacqueline Faucitt",
+            "percentage": "33%",
+            "role": "Member"
+          },
+          {
+            "person_id": "PERSON_005",
+            "name": "Daniel James Faucitt",
+            "percentage": "33%",
+            "role": "Founding Member"
+          }
+        ],
+        "accounting_officer": {
+          "person_id": "PERSON_007",
+          "name": "Danie Bantjies"
+        },
+        "bank_accounts": [
+          {
+            "bank": "FNB",
+            "account_number": "TBD",
+            "mandate_type": "MEMBER_AUTHORITY",
+            "description": "Members have authority based on CC agreement",
+            "signatories": [
+              "PERSON_001",
+              "PERSON_004",
+              "PERSON_005"
+            ],
+            "director_loan_authority": true,
+            "evidence": "JF-STRATEGIC-LOGISTICS-ANALYSIS.md"
+          }
+        ],
+        "registered_address": "50 Van Buuren Road, Bedfordview, 2008",
+        "financial_notes": {
+          "stock_loss": "R5,400,000",
+          "stock_loss_type": "stock_adjustment_disappeared",
+          "debt_to_RST": "R13,000,000",
+          "interest_paid_to_RST": "R414,334.09",
+          "interest_payment_date": "2020-02-28"
+        },
+        "founding_member": {
+          "person_id": "PERSON_005",
+          "name": "Daniel James Faucitt"
+        }
       },
       {
         "entity_id": "ORG_005",
         "name": "Villa Via",
-        "entity_type": "property_entity",
+        "entity_type": "company",
         "agent_type": "instrument_of_wealth_transfer",
         "ownership_structure": {
           "director_ownership": "50%",
@@ -1504,12 +1745,35 @@
           "ANNEXURES/JF03 - Financial records and analysis",
           "ANNEXURES/JF04 - CIPC registration documents"
         ],
-        "evidence_strength": "strong"
+        "evidence_strength": "strong",
+        "registration_number": "TBD",
+        "members": [
+          {
+            "person_id": "PERSON_001",
+            "name": "Peter Andrew Faucitt",
+            "percentage": "50%",
+            "role": "Director"
+          },
+          {
+            "person_id": "OTHER",
+            "name": "Other",
+            "percentage": "50%",
+            "role": "Director"
+          }
+        ],
+        "financial_notes": {
+          "monthly_rental_income": "R4,400,000",
+          "net_profit": "R3,700,000",
+          "profit_margin": "86%",
+          "members_loan_account": "R22,800,000",
+          "financial_year": "May 1 - April 30",
+          "role": "Rental property / wealth extraction vehicle"
+        }
       },
       {
         "entity_id": "ORG_006",
         "name": "RegimA SA",
-        "entity_type": "company",
+        "entity_type": "private_company",
         "agent_type": "victim_entity",
         "relationships": [
           "related_to_ORG_001"
@@ -1529,14 +1793,28 @@
           "CIPC company records",
           "SF2 - Sage system evidence"
         ],
-        "evidence_strength": "strong"
+        "evidence_strength": "strong",
+        "registration_number": "2017/087935/07",
+        "incorporation_date": "2017",
+        "directors": [
+          {
+            "person_id": "PERSON_001",
+            "name": "Peter Andrew Faucitt",
+            "role": "Co-Director"
+          },
+          {
+            "person_id": "PERSON_005",
+            "name": "Daniel James Faucitt",
+            "role": "Co-Director"
+          }
+        ]
       },
       {
         "entity_id": "ORG_008",
         "name": "ReZonance (Pty) Ltd",
         "registration": "2017/081396/07",
         "incorporation_date": "2017",
-        "entity_type": "company",
+        "entity_type": "private_company",
         "agent_type": "victim",
         "role": "it_services_provider_and_creditor",
         "involvement_events": 8,
@@ -1612,13 +1890,22 @@
           "JF15 - CIPC batch 2 documents (shelf company acquisition)",
           "JF04 - Company structure evidence"
         ],
-        "evidence_strength": "strong"
+        "evidence_strength": "strong",
+        "registration_number": "2017/081396/07",
+        "directors": [
+          {
+            "person_id": "PERSON_005",
+            "name": "Daniel James Faucitt",
+            "role": "Director",
+            "percentage": "50%"
+          }
+        ]
       },
       {
         "entity_id": "ORG_009",
         "name": "Adderory (Pty) Ltd",
         "registration_date": "2021-04",
-        "entity_type": "company",
+        "entity_type": "private_company",
         "agent_type": "accomplice",
         "role": "competing_business_fraud_vehicle",
         "ownership": {
@@ -1669,7 +1956,17 @@
           "ANNEXURES/JF04 - CIPC registration documents",
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_strength": "strong"
+        "evidence_strength": "strong",
+        "registration_number": "2021/TBD",
+        "incorporation_date": "2021-04-30",
+        "directors": [
+          {
+            "person_id": "PERSON_003",
+            "name": "Adderory (Rynette's Son)",
+            "role": "Director",
+            "percentage": "100%"
+          }
+        ]
       },
       {
         "entity_id": "ORG_010",
@@ -1868,7 +2165,16 @@
           "civil": "HIGH",
           "criminal": "N/A"
         },
-        "additional_notes": "Official regulatory scrutiny provides independent third-party verification of financial irregularities; tax fraud carries criminal penalties"
+        "additional_notes": "Official regulatory scrutiny provides independent third-party verification of financial irregularities; tax fraud carries criminal penalties",
+        "registration_number": "TBD",
+        "entity_type": "investment_company",
+        "directors": [
+          {
+            "person_id": "PERSON_014",
+            "name": "Kevin Michael Derrick",
+            "role": "Director"
+          }
+        ]
       },
       {
         "entity_id": "ORG_007",
@@ -1940,7 +2246,15 @@
           "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md"
         ],
         "evidence_enhanced": "2026-01-16T05:34:42.470751",
-        "evidence_strength": "conclusive"
+        "evidence_strength": "conclusive",
+        "entity_type": "investment_company",
+        "directors": [
+          {
+            "person_id": "PERSON_014",
+            "name": "Kevin Michael Derrick",
+            "role": "Director"
+          }
+        ]
       },
       {
         "entity_id": "ORG_FNB",
