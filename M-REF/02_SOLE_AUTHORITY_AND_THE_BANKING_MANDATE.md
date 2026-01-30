@@ -66,6 +66,30 @@ The interdict was not obtained to prevent "unauthorized extraction." It was obta
 
 This action represents a profound abuse of the court process: using a court order to override a valid contract (the banking mandate) and to steal the legal rights of a co-director.
 
+---
+
+## 5. Critical Contrast: RégimA SA's "ANY TWO TOGETHER" Mandate
+
+While SLG, RST, and RWD operate under **SOLE** authority mandates, **RégimA SA (Pty) Ltd** has a different mandate: **"ANY TWO TOGETHER"**.
+
+This means:
+
+| Entity | Mandate | Requirement |
+|--------|---------|-------------|
+| Strategic Logistics CC | SOLE | Any one director can act alone |
+| RégimA SA (Pty) Ltd | ANY TWO TOGETHER | Requires two signatures |
+
+For RégimA SA, **Daniel's consent was legally required** for any transaction. The March 2025 diversion of RSA revenue to an ABSA account controlled by Rynette was done **without Daniel's knowledge or consent**, making it an unauthorized transaction.
+
+This creates a paradox:
+- On SOLE accounts, Peter claims Daniel acted "without authorization" — but authorization wasn't required
+- On ANY TWO TOGETHER accounts, Peter/Rynette acted without Daniel's authorization — which WAS required
+
+**See [M-REF 06: RégimA SA Mandate and Impersonation Fraud](./06_REGIMA_SA_MANDATE_AND_IMPERSONATION_FRAUD.md) for full analysis.**
+
+---
+
 ### Evidence Cross-Reference:
 *   `evidence/bank_records/SLG_FNB_FICA_MANDATE_2021.pdf`
 *   `evidence/emails/FNB_LEGAL_RESPONSE_18_JUNE_2025.jpg` (Image of the email)
+*   `evidence/rsa_documents/FNB-RSA-210317-Changeofname.pdf` (RSA mandate showing ANY TWO TOGETHER)
