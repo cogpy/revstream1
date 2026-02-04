@@ -180,7 +180,8 @@ Peter's letter to FNB provides critical evidence for both CIPC and POPIA complai
 
 | Resource | Description |
 |----------|-------------|
-| **[CIPC Complaint Filing](./filings/cipc_complaint_REFINED_2026_01_29.md)** | Latest CIPC complaint |
+| **[M-REF Analysis](./m-ref.md)** | 🆕 Impersonation fraud, "ANY TWO TOGETHER" mandate violations |
+| **[CIPC Complaint Filing](./filings/CIPC_REFINED_2026_02_04.md)** | Latest CIPC complaint |
 | **[POPIA Complaint Filing](./filings/popia_complaint_REFINED_2026_01_29.md)** | Latest POPIA complaint |
 | **[Evidence Index](./evidence-index-enhanced.md)** | Comprehensive evidence catalog |
 | **[Timeline](./timeline.md)** | Chronological event sequence |

@@ -17,6 +17,7 @@ This application covers civil claims and criminal charges arising from the reven
 |----------|-----------|--------|----------------|--------------|
 | **Civil** | 50% | ✅ **EXCEEDED** | 78+ events | JF01, JF03, JF07, JF08, SF9 |
 | **Criminal** | 95% | ✅ **EXCEEDED** | 53 criminal threshold events | SF10 (FNB Letter), SF11 (FNB Response) |
+| **Perjury** | 95% | 🆕 **EXCEEDED** | M-REF Analysis | R500K "birthday gift" fabrication |
 
 ---
 
@@ -107,6 +108,20 @@ Peter's letter to FNB provides **direct admissions** that strengthen both civil 
 
 **Total Financial Exposure:** R10,269,727.90 + ZAR 18.75M trust control motive
 
+### R10.6M Extraction (M-REF Analysis) 🆕
+
+After obtaining the ex parte interdict based on perjury, Peter extracted:
+
+| Date | Entity | Amount |
+|------|--------|--------|
+| 3 Sep 2025 | RWD | R 5,164,131.18 |
+| 11 Sep 2025 | RST | R 3,090,000.00 |
+| 11 Sep 2025 | VVA | R 1,730,000.00 |
+| 11 Sep 2025 | SLG | R 640,000.00 |
+| **Total** | | **R 10,624,131.18** |
+
+**Daniel's alleged "extraction" of R500,000 over one month was used to justify Peter's actual extraction of R10.6M+ in eight days.**
+
 ---
 
 ## Evidence Index
@@ -180,6 +195,7 @@ Peter's letter to FNB provides **direct admissions** that strengthen both civil 
 
 | Resource | Description |
 |----------|-------------|
+| **[M-REF Analysis](./m-ref.md)** | 🆕 Master legal reference - perjury, SOLE authority, R10.6M extraction |
 | **[Evidence Index](./evidence-index-enhanced.md)** | Comprehensive evidence catalog |
 | **[Timeline](./timeline.md)** | Chronological event sequence |
 | **[Ketoni Timeline](./ketoni-timeline.md)** | Central financial motive |

@@ -33,6 +33,22 @@ This letter **directly contradicts** Peter's court position where he claims Dani
 
 ---
 
+## 📚 M-REF: Master Legal Reference
+
+Comprehensive legal analysis proving the ex parte interdict was obtained through **perjury** and used to facilitate a **R10.6M+ extraction scheme**.
+
+| Document | Key Finding |
+|----------|-------------|
+| **SOLE Authority Analysis** | Daniel's actions were pre-authorized by the banking mandate |
+| **R500K Perjury Analysis** | Peter's "birthday gift" claim proven false under oath |
+| **Financial Sabotage Timeline** | R10.6M extracted in 8 days using fraudulent interdict |
+| **Impersonation Fraud** | Rynette impersonating Peter on "ANY TWO TOGETHER" accounts |
+| **Oversight Chain Conspiracy** | Four layers of oversight "failed" due to conflicts of interest |
+
+**[→ View Complete M-REF Analysis](./m-ref.md)**
+
+---
+
 ## 🎯 CENTRAL MOTIVE: Ketoni ZAR 18.75M Payout (May 2026)
 
 A **ZAR 18.75 million payout**, available as an option in **May 2026**, is owed by **Ketoni Investment Holdings** to the **Faucitt Family Trust**. This financial motive explains all events since April 2023.

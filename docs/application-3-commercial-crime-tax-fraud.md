@@ -207,6 +207,7 @@ Peter's FNB Letter explicitly acknowledges potential Exchange Control violations
 
 | Resource | Description |
 |----------|-------------|
+| **[M-REF Analysis](./m-ref.md)** | 🆕 Financial sabotage timeline, oversight chain conspiracy |
 | **[Commercial Crime Filing](./filings/commercial_crime_submission_REFINED_2026_01_29.md)** | Latest commercial crime submission |
 | **[NPA Tax Fraud Filing](./filings/npa_tax_fraud_report_REFINED_2026_01_29.md)** | Latest NPA tax fraud report |
 | **[Evidence Index](./evidence-index-enhanced.md)** | Comprehensive evidence catalog |
