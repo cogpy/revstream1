@@ -1,6 +1,6 @@
 # Revenue Stream Hijacking Case 2025-137857
 
-**Last Updated:** 2026-01-29
+**Last Updated:** 2026-02-04
 
 This site provides comprehensive evidence, analysis, and legal documentation for case 2025-137857 involving revenue stream hijacking, trust violations, and financial fraud totaling **R10,269,727.90**.
 
