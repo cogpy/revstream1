@@ -39,15 +39,15 @@ Peter made false fraud allegations to FNB regarding account 62323196362, claimin
 
 ---
 
-### REL_014: FNB → RegimA Worldwide Distribution (INVESTIGATION_REFUSAL)
+### REL_014: FNB → RegimA Worldwide Distribution (PROPER_REFUSAL_OF_MANIPULATION)
 
 **From:** BANK_001 (FNB)  
 **To:** ORG_002 (RegimA Worldwide Distribution)  
-**Type:** INVESTIGATION_REFUSAL  
+**Type:** PROPER_REFUSAL_OF_MANIPULATION  
 **Date:** June 18, 2025
 
 #### Description
-FNB refused to investigate Peter's fraud allegations, cancelled a scheduled meeting with directors, and hid behind "validly signed mandate" defense. FNB stated they cannot be held liable for acting per mandate that allows any director to act independently.
+FNB correctly refused Peter's attempt to weaponize the bank against Jax & Dan. After Peter's fraud letter attempting to get FNB to block other directors from the account, FNB consulted their legal department and properly upheld the mandate allowing all directors independent access. This demonstrates Peter's willingness to manipulate external institutions, but also shows his obstruction attempt was so egregious even the bank refused to comply.
 
 #### Evidence
 - Inbox-250618-RE_REGIMAWORLDWIDEDISTRIBUTION(PTY)LTD-[ExternalEmail]-Outlook.pdf
@@ -59,13 +59,13 @@ FNB refused to investigate Peter's fraud allegations, cancelled a scheduled meet
 > "The current mandate states that any of the directors of the company may act independently of each other."
 
 #### Legal Implications
-- **Bank Negligence:** Failure to investigate formal fraud allegations
-- **Institutional Obstruction:** Cancelling meeting to avoid accountability
-- **Regulatory Violations:** Potential FICA violations
+- **FNB Acted Properly:** Refused to act on unsubstantiated allegations
+- **Peter's Attempted Manipulation:** Tried to weaponize bank against other directors
+- **Significance:** Even external institutions recognized Peter's manipulation
 
 #### Burden of Proof
-- **Civil:** HIGH (official correspondence, meeting cancellation)
-- **Criminal:** N/A (regulatory/civil matter)
+- **Civil:** HIGH (Peter's attempted manipulation of external institution)
+- **Criminal:** MEDIUM-HIGH (false fraud allegations to external institution)
 
 ---
 
@@ -126,12 +126,12 @@ Peter exploited this structure to:
 - Obstruct legitimate oversight
 - Create false narrative to justify obstruction
 
-#### FNB's Position
-FNB refused to address the structural vulnerability:
+#### FNB's Proper Response
+FNB correctly upheld the mandate structure:
 - "Cannot be held liable for acting per validly signed mandate"
-- Suggested directors "change mandate themselves"
-- Cancelled meeting to avoid accountability
-- Enabled continued abuse
+- Properly protected all directors' independent access rights
+- Cancelled meeting after recognizing Peter's manipulation attempt
+- Prevented Peter from weaponizing bank against Jax & Dan
 
 ---
 
@@ -151,12 +151,12 @@ The Peter FNB fraud letter pattern (June 2025) occurred in the context of:
 - **June 17, 2025:** Peter writes fraud letter to FNB (EVENT_093)
 - **June 18, 2025:** FNB refuses investigation (EVENT_094)
 
-#### Coordinated Obstruction
-The timeline reveals coordinated obstruction across multiple actors:
+#### Coordinated Obstruction Pattern
+The timeline reveals Peter's obstruction attempts across multiple fronts:
 1. **Bantjies:** Dismisses audit (June 10) - R18.75M motive
 2. **Peter:** Blocks Jacqui's card (June 12) - prevents oversight
-3. **Peter:** False fraud letter (June 17) - creates false narrative
-4. **FNB:** Refuses investigation (June 18) - institutional obstruction
+3. **Peter:** False fraud letter (June 17) - attempts to weaponize bank
+4. **FNB:** Correctly refuses manipulation (June 18) - protects all directors' rights
 
 ---
 
@@ -165,7 +165,7 @@ The timeline reveals coordinated obstruction across multiple actors:
 | Relation | Type | Civil | Criminal |
 |----------|------|-------|----------|
 | REL_013: Peter → FNB | False Fraud Allegation | **HIGH** | **MEDIUM-HIGH** |
-| REL_014: FNB → RWD | Investigation Refusal | **HIGH** | N/A |
+| REL_014: FNB → RWD | Proper Refusal of Manipulation | **HIGH** | **MEDIUM-HIGH** |
 | REL_015: Peter → Jacqui | Financial Obstruction | **HIGH** | **MEDIUM-HIGH** |
 
 ### Civil Standard (50% - Balance of Probabilities)

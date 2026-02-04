@@ -12,10 +12,10 @@
 Through analysis of Peter Faucitt's letter to FNB dated June 17, 2025, and related correspondence, we have identified a coordinated obstruction pattern that demonstrates Peter's systematic abuse of director authority to obstruct legitimate oversight. This pattern includes:
 
 1. **Peter blocks Jacqui's card** (June 12, 2025)
-2. **Peter writes false fraud letter to FNB** (June 17, 2025 - 5 days later)
-3. **FNB refuses investigation** (June 18, 2025)
+2. **Peter writes false fraud letter attempting to get FNB to block Jax & Dan** (June 17, 2025 - 5 days later)
+3. **FNB correctly refuses Peter's manipulation attempt** (June 18, 2025)
 
-This evidence strengthens all civil and criminal claims by demonstrating Peter's pattern of false allegations, abuse of director authority, and institutional obstruction.
+This evidence strengthens all civil and criminal claims by demonstrating Peter's pattern of false allegations, abuse of director authority, and willingness to weaponize external institutions. Significantly, FNB's refusal shows Peter's obstruction attempt was so egregious even the bank recognized it as manipulation.
 
 ---
 
@@ -72,9 +72,9 @@ Five days after blocking Jacqui's card, Peter sent a formal letter to FNB allegi
 
 ---
 
-### 1.3 FNB Refuses Investigation (June 18, 2025)
+### 1.3 FNB Correctly Refuses Peter's Manipulation Attempt (June 18, 2025)
 
-One day after Peter's letter, FNB Business Relationship Manager Mpumi Netshipale responded by refusing to meet with directors and cancelling a scheduled meeting.
+One day after Peter's letter attempting to get FNB to block Jax & Dan from the account, FNB Business Relationship Manager Mpumi Netshipale correctly refused Peter's obstruction attempt. FNB consulted their legal department and properly upheld the mandate allowing all directors independent access, effectively preventing Peter from weaponizing the bank against other directors.
 
 **Email Details:**
 - **From:** Mpumi Netshipale (FNB Business Relationship Manager)
@@ -117,7 +117,7 @@ One day after Peter's letter, FNB Business Relationship Manager Mpumi Netshipale
 | June 10, 2025 | Bantjies dismisses audit request | T+0 | EVENT_087 |
 | **June 12, 2025** | **Peter blocks Jacqui's card** | **T+2** | **EVENT_092** |
 | **June 17, 2025** | **Peter writes fraud letter** | **T+7** | **EVENT_093** |
-| **June 18, 2025** | **FNB refuses investigation** | **T+8** | **EVENT_094** |
+| **June 18, 2025** | **FNB correctly refuses Peter's manipulation** | **T+8** | **EVENT_094** |
 | August 1, 2025 | Bantjies certifies Peter's affidavit | T+52 | EVENT_088 |
 | August 13, 2025 | Interdict filed against Jax & Dan | T+64 | - |
 
@@ -141,9 +141,9 @@ The timeline reveals coordinated obstruction across multiple actors:
 - **Motive:** Create false narrative to justify obstruction
 - **Burden:** Civil HIGH, Criminal MEDIUM-HIGH
 
-**4. FNB (June 18):** Refuses investigation
-- **Motive:** Avoid accountability, hide behind mandate defense
-- **Burden:** Civil HIGH (bank negligence)
+**4. FNB (June 18):** Correctly refuses Peter's manipulation attempt
+- **Motive:** Uphold mandate, protect all directors' rights
+- **Burden:** Civil HIGH (Peter's attempted manipulation), Criminal MEDIUM-HIGH
 
 ### 3.2 False Fraud Narrative Construction
 
@@ -160,10 +160,10 @@ Peter's actions demonstrate a deliberate construction of a false fraud narrative
 - Letter written after Peter blocked cards himself
 - Preemptive obstruction of investigation
 
-**Step 3 (June 18):** FNB refuses investigation
-- Bank hides behind "validly signed mandate" defense
-- Meeting cancelled to avoid accountability
-- Enables continued obstruction
+**Step 3 (June 18):** FNB correctly refuses manipulation
+- Bank properly upholds "validly signed mandate" protecting all directors
+- Meeting cancelled after recognizing Peter's manipulation attempt
+- Prevents Peter from weaponizing bank against Jax & Dan
 
 ### 3.3 Independent Director Mandate Abuse
 
@@ -211,17 +211,18 @@ Peter abused his director authority by:
 - **Civil:** Breach of fiduciary duty, abuse of authority
 - **Criminal:** Obstruction of justice, abuse of authority
 
-### 4.3 Institutional Obstruction by FNB
+### 4.3 FNB's Proper Response to Peter's Manipulation
 
-FNB's refusal to investigate demonstrates:
-- Bank negligence in face of formal fraud allegations
-- Institutional obstruction via "validly signed mandate" defense
-- Enablement of systematic financial abuse
-- Failure of duty of care
+FNB's refusal to act on Peter's false fraud allegations demonstrates:
+- Proper banking practice in face of unsubstantiated allegations
+- Correct application of "validly signed mandate" protecting all directors
+- Prevention of Peter's attempt to weaponize bank against Jax & Dan
+- Recognition that Peter was attempting institutional manipulation
 
-**Legal Consequences:**
-- **Civil:** Bank negligence, failure of duty of care
-- **Regulatory:** Potential FICA violations
+**Legal Significance:**
+- **Peter's Attempted Manipulation:** Shows willingness to weaponize external institutions
+- **FNB's Proper Response:** Even the bank recognized Peter's obstruction attempt as egregious
+- **Strengthens Case:** Demonstrates lack of merit in Peter's fraud allegations
 
 ### 4.4 Exchange Control Regulations Allegation
 

@@ -1,4 +1,4 @@
-# EVENT_094: FNB refuses fraud investigation and cancels meeting
+# EVENT_094: FNB correctly refuses Peter's attempt to weaponize bank against directors
 
 **Date:** June 18, 2025  
 **Category:** institutional_obstruction  
@@ -6,7 +6,7 @@
 
 ## Overview
 
-On June 18, 2025, FNB Business Relationship Manager Mpumi Netshipale responded to Peter Faucitt's fraud allegations by refusing to meet with directors and cancelling a scheduled meeting. FNB stated they cannot be held liable for acting per "validly signed mandate" and suggested directors change the mandate if it doesn't suit their needs.
+On June 18, 2025, FNB Business Relationship Manager Mpumi Netshipale correctly refused Peter Faucitt's attempt to weaponize the bank against other directors. After Peter's fraud letter attempting to get FNB to block Jax & Dan from the account, FNB consulted their legal department and properly upheld the mandate allowing all directors independent access. This demonstrates Peter's willingness to manipulate external institutions, but also shows his obstruction attempt was so egregious even the bank refused to comply.
 
 ## Email Content
 
@@ -40,33 +40,33 @@ Location: 21 Van Der Linde, Bedfordview
 
 ## Analysis
 
-### Bank Negligence
-FNB's response demonstrates institutional negligence:
-- Refused to investigate formal fraud allegations
-- Cancelled meeting after legal consultation
-- Hid behind "validly signed mandate" defense
-- Enabled continued financial abuse
+### FNB Acted Properly
+FNB's response demonstrates proper banking practice:
+- Refused to act on unsubstantiated fraud allegations
+- Consulted legal department before excluding directors
+- Upheld "validly signed mandate" protecting all directors
+- Prevented Peter from weaponizing bank against Jax & Dan
 
-### "Validly Signed Mandate" Defense
-FNB's defense is problematic:
-- Mandate allows any director to act independently
-- No requirement for director consensus
-- Enables abuse by single director
-- Bank refuses accountability
+### Peter's Attempted Manipulation
+Peter's fraud letter was an attempt to:
+- Get FNB to block Jax & Dan from account access
+- Use false fraud allegations as justification
+- Weaponize external institution against other directors
+- Circumvent mandate that protects all directors' rights
 
-### Institutional Obstruction
-FNB's actions constitute institutional obstruction:
-- Formal fraud allegations ignored
-- Meeting cancelled to avoid accountability
-- Legal department consulted to find excuse
-- Directors told to "change mandate" themselves
+### Meeting Cancellation Was Appropriate
+FNB cancelled the meeting because:
+- Peter was attempting to manipulate them
+- No legitimate basis for excluding other directors
+- Mandate clearly allows all directors independent access
+- Meeting would enable Peter's obstruction attempt
 
-### Enablement of Fraud
-The independent director mandate enabled:
-- Peter to block Jacqui's card without consent
-- Peter to make false fraud allegations
-- Continued obstruction without bank intervention
-- Systematic financial abuse
+### Significance of FNB's Refusal
+FNB's refusal demonstrates:
+- Peter's obstruction attempt was egregious
+- Even external institutions recognized manipulation
+- False fraud allegations had no merit
+- Peter willing to weaponize any available institution
 
 ## Evidence
 
@@ -79,22 +79,23 @@ The independent director mandate enabled:
 
 ## Legal Implications
 
-### Bank Negligence
-- Failure to investigate fraud allegations
-- Cancellation of meeting to avoid accountability
-- Hiding behind mandate defense
-- Enabling financial abuse
+### Peter's Attempted Manipulation
+- False fraud allegations to external institution
+- Attempt to weaponize bank against other directors
+- Abuse of director authority
+- Demonstrates pattern of false allegations
 
-### Mandate Structure Issues
-- "Any director may act independently" enables abuse
-- No safeguards against single director obstruction
-- Bank refuses to address structural vulnerability
-- Systematic obstruction facilitated
+### FNB's Proper Response
+- Correctly upheld mandate protecting all directors
+- Refused to act on unsubstantiated allegations
+- Consulted legal department appropriately
+- Prevented institutional manipulation
 
-### Regulatory Violations
-- Potential FICA violations (failure to investigate)
-- Bank duty of care breached
-- Enabling of financial crimes
+### Significance for Case
+- Shows Peter's obstruction attempts extend to external institutions
+- Demonstrates false fraud allegations had no merit
+- FNB's refusal proves allegations were egregious
+- Pattern of attempted manipulation of institutions
 
 ## Burden of Proof
 
@@ -109,11 +110,11 @@ The independent director mandate enabled:
 
 ## Significance
 
-FNB's refusal to investigate demonstrates how institutional obstruction enabled Peter's false fraud allegations and systematic financial abuse. The "validly signed mandate" defense allowed the bank to avoid accountability while facilitating continued obstruction.
+FNB's proper refusal to act on Peter's false fraud allegations demonstrates that Peter's obstruction attempt was so egregious even the bank recognized it as manipulation. By upholding the mandate that protects all directors' independent access, FNB prevented Peter from weaponizing the bank against Jax & Dan. This strengthens the case by showing Peter's willingness to manipulate external institutions and the lack of merit in his fraud allegations.
 
 ---
 
 **Event ID:** EVENT_094  
 **Created:** 2025-12-19  
 **Last Updated:** 2025-12-19  
-**Burden of Proof:** Civil HIGH
+**Burden of Proof:** Civil HIGH (Peter's attempted manipulation), Criminal MEDIUM-HIGH (false fraud allegations to external institution)
