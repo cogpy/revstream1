@@ -12,8 +12,8 @@ This index organizes all legal filings by application type and provides direct l
 | Application | Type | Latest Filing | Status |
 |-------------|------|---------------|--------|
 | **Application 1** | Civil & Criminal | [Civil Action Summons](./civil_action_summons_REFINED_2026_01_18.md) | ✅ Ready |
-| **Application 2** | CIPC & POPIA | [CIPC](./cipc_complaint_REFINED_2026_01_29.md) / [POPIA](./popia_complaint_REFINED_2026_01_29.md) | ✅ Ready |
-| **Application 3** | Commercial Crime & Tax | [Commercial Crime](./commercial_crime_submission_REFINED_2026_01_29.md) / [NPA](./npa_tax_fraud_report_REFINED_2026_01_29.md) | ✅ Ready |
+| **Application 2** | CIPC & POPIA | [CIPC](./CIPC_REFINED_2026_02_04.md) / [POPIA](./popia_complaint_REFINED_2026_01_29.md) | 🆕 Updated |
+| **Application 3** | Commercial Crime & Tax | [Commercial Crime](./commercial_crime_submission_REFINED_2026_01_29.md) / [NPA](./NPA_TAX_FRAUD_REPORT_REFINED_2026_02_04.md) | 🆕 Updated |
 
 ---
 
@@ -48,7 +48,7 @@ This index organizes all legal filings by application type and provides direct l
 
 | Filing | Type | Date | Link |
 |--------|------|------|------|
-| CIPC Complaint | Regulatory | 2026-01-29 | [View](./cipc_complaint_REFINED_2026_01_29.md) |
+| **CIPC Complaint** | Regulatory | **2026-02-04** | 🆕 [View](./CIPC_REFINED_2026_02_04.md) |
 | POPIA Complaint | Criminal | 2026-01-29 | [View](./popia_complaint_REFINED_2026_01_29.md) |
 
 ### CIPC Violations
@@ -83,7 +83,7 @@ This index organizes all legal filings by application type and provides direct l
 | Filing | Type | Date | Link |
 |--------|------|------|------|
 | Commercial Crime Submission | SAPS | 2026-01-29 | [View](./commercial_crime_submission_REFINED_2026_01_29.md) |
-| NPA Tax Fraud Report | NPA/SARS | 2026-01-29 | [View](./npa_tax_fraud_report_REFINED_2026_01_29.md) |
+| **NPA Tax Fraud Report** | NPA/SARS | **2026-02-04** | 🆕 [View](./NPA_TAX_FRAUD_REPORT_REFINED_2026_02_04.md) |
 
 ### Criminal Charges
 - Fraud (Common Law)

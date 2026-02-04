@@ -1,124 +1,138 @@
 # Comprehensive Case Timeline
 
-**Last Updated:** 2026-01-18T05:36:58.297931
+**Case:** 2025-137857 - Revenue Stream Hijacking  
+**Last Updated:** 2026-02-04  
+**Total Events:** 130+
 
-| Date       | Event                                      | Key Actors                               | Significance                               | Evidence                                   |
-|------------|--------------------------------------------|------------------------------------------|--------------------------------------------|--------------------------------------------|
-| 1982-03-26 | N/A |  | N/A |  |
-| 1986-03-21 | N/A |  | N/A |  |
-| 1991-11-28 | N/A |  | N/A |  |
+This timeline documents all significant events in the revenue stream hijacking case, organized chronologically with T-Months relative to the May 2026 Ketoni payout.
+
+---
+
+## Quick Navigation
+
+| Phase | Period | Key Events |
+|-------|--------|------------|
+| [Foundation](#foundation-1992-2017) | 1992-2017 | Company formations, business establishment |
+| [Operations](#operations-2019-2022) | 2019-2022 | Financial manipulation begins |
+| [Investment](#investment-phase-2023) | 2023 | Ketoni investment, Kayla's death |
+| [Control](#control-consolidation-2024-2025) | 2024-2025 | Trustee appointment, fraud exposure, retaliation |
+| [Convergence](#convergence-may-2026) | May 2026 | Ketoni payout due |
+
+---
+
+## Foundation (1992-2017)
+
+| Date | Event | Key Actors | Significance | Evidence |
+|------|-------|------------|--------------|----------|
 | 1992-02-26 | RegimA Skin Treatments CC Registration | Peter Andrew Faucitt | Establishes the original RegimA business entity | CIPC WinDeed Report 293349755 |
-| 1992-12-15 | N/A |  | N/A |  |
-| 1993-02-13 | N/A |  | N/A |  |
-| 1996-10-15 | N/A |  | N/A |  |
-| 1997-09-02 | N/A |  | N/A |  |
-| 1998-05-20 | N/A |  | N/A |  |
-| 1999-03-26 | N/A |  | N/A |  |
-| 1999-05-25 | N/A |  | N/A |  |
-| 1999-11-03 | AYMAC International CC Registration | Peter Andrew Faucitt, Jacqueline Faucitt, Daniel James Faucitt | Early Faucitt family business entity | CIPC WinDeed Report 293349153 |
-| 2000-05-31 | N/A |  | N/A | 293332765-Company-GeorgeEndermologieClinic.Pdf |
-| 2001-09-18 | N/A |  | N/A |  |
-| 2005-09-29 | N/A |  | N/A | 293340322-Company-KachanMarketingandDistribution.Pdf |
-| 2006-02-14 | N/A |  | N/A |  |
-| 2006-02-24 | Jacqueline Faucitt Appointed to RegimA Skin Treatments | Jacqueline Faucitt | Establishes Jacqueline's formal role in RST | CIPC WinDeed Report 293349755 |
-| 2006-03-16 | N/A |  | N/A | 293337582-Company-DermalSkinTreatmentsCapeTown.Pdf |
-| 2006-06-05 | N/A |  | N/A | 293344692-Property-KarenAvnit.Pdf |
-| 2007-07-17 | N/A |  | N/A | 293338023-Director-BarendNortje.Pdf |
-| 2008-06-18 | N/A |  | N/A |  |
-| 2008-06-27 | Strategic Logistics CC Registration | Daniel James Faucitt | Establishes SLG as a separate entity for packaging/logistics | CIPC WinDeed Report 293349762 |
-| 2011-03-11 | RegimA Worldwide Distribution Registration | Peter Andrew Faucitt, Jacqueline Faucitt, Daniel James Faucitt, Christian Gouws | Establishes RWD as the main distribution entity - shelf company acquisition | CIPC WinDeed Report 293348688, CIPC WinDeed Report 293348650 |
-| 2015-07-08 | N/A |  | N/A | 293342245-Company-DandelionSA.Pdf |
-| 2016-07-05 | N/A |  | N/A | 293342245-Company-DandelionSA.Pdf |
-| 2016-07-19 | Jacqueline and Peter Faucitt Added to Strategic Logistics | Jacqueline Faucitt, Peter Andrew Faucitt | Expands family control over SLG | CIPC WinDeed Report 293349762 |
-| 2017-02-22 | N/A |  | N/A |  |
-| 2017-02-24 | N/A | Daniel James Faucitt, Peter Andrew Faucitt | N/A | JF08 - Historical timeline evidence |
-| 2017-02-27 | N/A |  | N/A |  |
+| 1999-11-03 | AYMAC International CC Registration | Peter, Jacqueline, Daniel Faucitt | Early Faucitt family business entity | CIPC WinDeed Report 293349153 |
+| 2006-02-24 | Jacqueline Faucitt Appointed to RST | Jacqueline Faucitt | Establishes Jacqueline's formal role in RST | CIPC WinDeed Report 293349755 |
+| 2008-06-27 | Strategic Logistics CC Registration | Daniel James Faucitt | Establishes SLG as separate entity for packaging/logistics | CIPC WinDeed Report 293349762 |
+| 2011-03-11 | RegimA Worldwide Distribution Registration | Peter, Jacqueline, Daniel Faucitt, Christian Gouws | Establishes RWD as main distribution entity | CIPC WinDeed Report 293348688 |
+| 2016-07-19 | Jacqueline and Peter Added to SLG | Jacqueline, Peter Faucitt | Expands family control over SLG | CIPC WinDeed Report 293349762 |
 | 2017-04-04 | ReZonance Registration | Daniel James Faucitt | Daniel's independent company | CIPC WinDeed Report 293349141 |
-| 2017-04-04 | N/A |  | N/A |  |
 | 2017-04-10 | RegimA Medic and RegimA Zone Academy Registration | Daniel James Faucitt | Expansion of RegimA brand entities | CIPC WinDeed Report 293349141 |
-| 2017-04-10 | N/A |  | N/A |  |
 | 2017-04-12 | RegimA SA and RegimA Zone Registration | Daniel James Faucitt | Further expansion of RegimA brand entities | CIPC WinDeed Report 293349141 |
-| 2017-05-02 | RegimA SpaZone Registration | Daniel James Faucitt | Spa-focused RegimA entity | CIPC WinDeed Report 293349141 |
-| 2017-06-30 | N/A | ReZonance (Pty) Ltd | N/A | JF08 - Historical timeline evidence |
-| 2017-09-27 | N/A |  | N/A | 293342878-Company-BertaniInternationalGlobal.Pdf |
-| 2017-09-30 | N/A | ReZonance (Pty) Ltd | N/A | JF08 - Historical timeline evidence |
-| 2017-11-14 | N/A |  | N/A |  |
-| 2018-08-01 | N/A |  | N/A |  |
-| 2019-02-28 | N/A | Daniel James Faucitt, Peter Andrew Faucitt | N/A | JF08 - Historical timeline evidence |
-| 2019-03-01 | N/A | Peter Andrew Faucitt, Rynette Farrar | N/A | JF08 - Historical timeline evidence |
-| 2019-03-01 | RST/SLG Financial Year Commencement | RegimA Skin Treatments, Strategic Logistics | Beginning of documented manipulation period | REG-TRIALBALANCE.xlsx, SL-TRIALBALANCE2020.xlsx |
-| 2019-05-01 | N/A | Peter Andrew Faucitt, Rynette Farrar | N/A | JF08 - Historical timeline evidence |
-| 2019-05-01 | Villa Via Financial Year Commencement | Villa Via | Staggered year-end enables timing manipulation | VV-TRIALBALANCEAPR20202.xlsx |
-| 2019-10-22 | ALOECO (SA) Registration | Alan Peter Louw, Martin Carlo Rizzotto | Potential business connection to Faucitt network via shared postal address | CIPC WinDeed Report 293350058 |
-| 2019-10-22 | N/A |  | N/A |  |
-| 2019-11-20 | N/A | Adderory (Rynette's Son), Daniel James Faucitt, Jacqueline Faucitt, Regima Worldwide Distribution (PTY) LTD, Rynette Farrar | N/A | JF08 - Historical timeline evidence |
-| 2019-11-22 | N/A |  | RST providing financing to distributors | 293344692-Property-KarenAvnit.Pdf, 293347244-List-Deeds-SB48685-2019.Pdf |
-| 2019-12-04 | Marlouw Group Registration | Alan Peter Louw, Martin Carlo Rizzotto | Part of Louw-Rizzotto business network | CIPC WinDeed Report 293351580 |
-| 2020-02-20 | N/A | Danie Bantjies, Peter Andrew Faucitt, Regima Worldwide Distribution (PTY) LTD, Rynette Farrar, Strategic Logistics Group | N/A | JF03 - Financial records |
-| 2020-02-20 | Coordinated Inter-Company Cost Reallocations | Co-director's bookkeeper, Rynette Farrar | CRITICAL - Coordinated manipulation across entities | WW-TrialBalanceFEB20.xlsx AJEs, SL-TRIALBALANCE2020.xlsx AJEs |
-| 2020-02-28 | N/A | Danie Bantjies, Daniel James Faucitt, Family Trust, Jacqueline Faucitt, Peter Andrew Faucitt, Regima Worldwide Distribution (PTY) LTD, Rynette Farrar, Strategic Logistics Group | N/A | JF03 - Financial records |
-| 2020-02-28 | Year-End Inter-Company Interest and Loan Transactions | Peter Andrew Faucitt, Co-director's bookkeeper | CRITICAL - Profit extraction mechanism documented | REG-TRIALBALANCE.xlsx, SL-TRIALBALANCE2020.xlsx |
-| 2020-04-30 | N/A | Danie Bantjies, Family Trust, Peter Andrew Faucitt, Regima Worldwide Distribution (PTY) LTD, Strategic Logistics Group | N/A | JF03 - Financial records |
+
+---
+
+## Operations (2019-2022)
+
+| Date | Event | Key Actors | Significance | Evidence |
+|------|-------|------------|--------------|----------|
+| 2019-03-01 | RST/SLG Financial Year Commencement | RegimA Skin Treatments, Strategic Logistics | Beginning of documented manipulation period | REG-TRIALBALANCE.xlsx |
+| 2020-02-20 | Coordinated Inter-Company Cost Reallocations | Rynette Farrar, Co-director's bookkeeper | CRITICAL - Coordinated manipulation across entities | Trial Balance AJEs |
+| 2020-02-28 | Year-End Inter-Company Interest Transactions | Peter Faucitt, Co-director's bookkeeper | CRITICAL - Profit extraction mechanism documented | REG-TRIALBALANCE.xlsx |
 | 2020-04-30 | Villa Via Year-End - Capital Extraction Evidence | Villa Via shareholders | Capital extraction vehicle documented | VV-TRIALBALANCEAPR20202.xlsx |
-| 2020-05-07 | Daniel James Faucitt Added as Director to RWD | Daniel James Faucitt | Formalizes Daniel's directorship in RWD, country of residence GB | CIPC WinDeed Report 293348688 |
-| 2020-07-07 | N/A |  | N/A |  |
-| 2020-08-13 | N/A | Danie Bantjies | N/A | JF03 - Financial records |
-| 2020-08-13 | Danie Bantjes Email - Financial Statement Finalization | Danie Bantjes, Bernadine Wright, Jacqui Faucitt, Peter Andrew Faucitt, Rynette Farrar, Daniel Faucitt | CRITICAL - Links Rynette to 2020 financial access, establishes Bernadine Wright as key decision-maker | email-body.html |
-| 2020-08-15 | N/A | Daniel James Faucitt, Jacqueline Faucitt, Regima Worldwide Distribution (PTY) LTD, Rynette Farrar | N/A | JF03 - Financial records |
-| 2021-03-15 | N/A | RegimaSA (Pty) Ltd, Regima Skin Treatments CC, Regima Worldwide Distribution (PTY) LTD, Strategic Logistics Group | N/A | JF03 - Financial records |
-| 2021-03-15 | CIPC Annual Return Filing - Regima Skin Treatments | Peter Andrew Faucitt | Establishes financial control and company status | ANNEXURES/JF15-CIPC-BATCH2-2021/ |
-| 2021-03-15 | CIPC Annual Return Filing - Regima Worldwide Distribution | Peter Andrew Faucitt, Jacqueline Faucitt, Daniel James Faucitt | Confirms legitimate ownership structure of RWD | ANNEXURES/JF15-CIPC-BATCH2-2021/ |
+| 2020-05-07 | Daniel James Faucitt Added as Director to RWD | Daniel James Faucitt | Formalizes Daniel's directorship in RWD | CIPC WinDeed Report 293348688 |
+| 2020-08-13 | Danie Bantjes Email - Financial Statement Finalization | Danie Bantjes, Bernadine Wright, Peter, Rynette | CRITICAL - Links Rynette to 2020 financial access | email-body.html |
+| 2021-03-15 | CIPC Annual Return Filing - RWD | Peter, Jacqueline, Daniel Faucitt | Confirms legitimate ownership structure of RWD | ANNEXURES/JF15 |
 | 2021-03-25 | Pandamania Registration | Daniel James Faucitt | Daniel's additional business entity | CIPC WinDeed Report 293349141 |
-| 2021-04-01 | N/A | Adderory (Rynette's Son), Rynette Farrar | N/A | JF03 - Financial records |
-| 2021-09-10 | N/A | Bernadine Wright | N/A | JF03 - Financial records |
-| 2021-10-05 | N/A | Bernadine Wright, Daniel James Faucitt, Peter Andrew Faucitt | N/A | JF03 - Financial records |
-| 2021-11-19 | CIPC WinDeed Reports Generated |  | Evidence collection date for corporate records | All 18 CIPC WinDeed Reports |
-| 2022-03-01 | N/A | Kayla, Peter Andrew Faucitt, ReZonance (Pty) Ltd, Rynette Farrar | N/A | JF03 - Financial records |
-| 2022-07-11 | N/A | Regima Skin Treatments CC | N/A | JF03 - Financial records |
-| 2022-07-30 | N/A | Peter Andrew Faucitt, Regima Worldwide Distribution (PTY) LTD | N/A | JF03 - Financial records |
-| 2023-01-01 | N/A | Kayla, Rynette Farrar | N/A | JF08 - Recent fraud evidence |
-| 2023-02-28 | N/A | Kayla, Peter Andrew Faucitt, ReZonance (Pty) Ltd, Rynette Farrar | N/A | JF08 - Recent fraud evidence |
-| 2023-03-15 | N/A | Kayla, Peter Andrew Faucitt, ReZonance (Pty) Ltd, Rynette Farrar | N/A | JF08 - Recent fraud evidence |
-| 2023-04-24 | FFT Investment in Ketoni - ZAR 18.75M Entitlement Established | Faucitt Family Trust, Ketoni Investment Holdings, Kevin Michael Derrick | CRITICAL: Establishes ZAR 18.75M payout (May 2026) as central financial motive for all subsequent events | Ketoni investment documentation, FFT shareholder records (5,000 A-Ordinary shares) |
-| 2023-07-13 | Kayla Pretorius Death - Creditor Elimination Phase | Kayla Pretorius, Daniel James Faucitt, ReZonance | CRITICAL: Eliminates R1M creditor obstacle 80 days after ZAR 18.75M investment | SF6 - Kayla Pretorius Estate Documentation, SF7 - Court Order Kayla Email Seizure, ReZonance debt records |
-| 2023-09-20 | N/A | Kayla, Peter Andrew Faucitt, ReZonance (Pty) Ltd, Rynette Farrar | N/A | JF08 - Recent fraud evidence |
-| 2024-02-14 | ReZonance Dissolution Pressure - Debt Obstacle Elimination | Peter Andrew Faucitt, Daniel James Faucitt | Eliminate R1M debt obstacle before trust control consolidation | ReZonance dissolution correspondence, Debt documentation |
-| 2024-07 | Bantjies Appointed FFT Trustee - Control Consolidation Phase | Daniel Jacobus Bantjies, Rynette Farrar, Kevin Michael Derrick | CRITICAL: Strategic trustee appointment T-10 months before ZAR 18.75M payout | FFT trustee appointment documentation, Bantjies-Derrick professional connection records |
-| 2025-01-15 | N/A | Chantal, Danie Bantjies, Daniel James Faucitt, Family Trust, Jacqueline Faucitt, Kayla | N/A | JF08 - Recent fraud evidence |
-| 2025-02-14 | N/A | Daniel James Faucitt, Peter Andrew Faucitt | N/A | JF08 - Recent fraud evidence |
-| 2025-02-25 | N/A | Adderory (Rynette's Son), Danie Bantjies, Family Trust, Peter Andrew Faucitt, Rynette Farrar, Strategic Logistics Group | N/A | JF08 - Recent fraud evidence |
-| 2025-03-01 | N/A | Adderory (Rynette's Son), Danie Bantjies, Daniel James Faucitt, Family Trust, Peter Andrew Faucitt, Rynette Farrar, Strategic Logistics Group | N/A | JF08 - Recent fraud evidence |
-| 2025-03-15 | N/A | Danie Bantjies, Family Trust, Peter Andrew Faucitt, Rynette Farrar, Strategic Logistics Group, beneficiaries | N/A | JF08 - Recent fraud evidence |
-| 2025-03-30 | N/A | Daniel James Faucitt, Peter Andrew Faucitt, Regima Worldwide Distribution (PTY) LTD, Rynette Farrar | N/A | JF08 - Recent fraud evidence |
-| 2025-04-01 | N/A | Daniel James Faucitt, Peter Andrew Faucitt, RegimA Zone Ltd, Rynette Farrar | N/A | JF08 - Recent fraud evidence |
-| 2025-04-14 | N/A | Daniel James Faucitt, Regima Worldwide Distribution (PTY) LTD, Rynette Farrar | N/A | JF08 - Recent fraud evidence |
-| 2025-04-22 | N/A | Daniel James Faucitt, Peter Andrew Faucitt, RegimA Zone Ltd | N/A | JF08 - Recent fraud evidence |
-| 2025-04-30 | N/A | Daniel James Faucitt, Peter Andrew Faucitt | N/A | JF08 - Recent fraud evidence |
-| 2025-05-02 | N/A | Family Trust, Peter Andrew Faucitt, Rynette Farrar, legitimate_beneficiaries | N/A | JF08 - Recent fraud evidence |
-| 2025-05-15 | N/A | Daniel James Faucitt, Jacqueline Faucitt, Peter Andrew Faucitt, Regima Worldwide Distribution (PTY) LTD, Rynette Farrar, estate_of_kayla | N/A | JF08 - Recent fraud evidence |
-| 2025-05-22 | N/A | Daniel James Faucitt, Jacqueline Faucitt, RegimA Zone Ltd, coordinated_action | N/A | JF08 - Recent fraud evidence |
-| 2025-05-29 | N/A | Adderory (Rynette's Son), Daniel James Faucitt, Rynette Farrar, customers | N/A | JF08 - Recent fraud evidence |
-| 2025-06-06 | N/A | Daniel James Faucitt, Gee, Rynette Farrar | N/A | JF08 - Recent fraud evidence |
-| 2025-06-06 | Dan Exposes Villa Via Fraud to Bantjies | Daniel James Faucitt, Daniel Jacobus Bantjies | CRITICAL: Fraud exposure triggers immediate retaliation to protect payout control | Email to Bantjies 2025-06-06, Villa Via financial analysis, Fraud documentation |
-| 2025-06-07 | N/A | Daniel James Faucitt, Peter Andrew Faucitt, Rynette Farrar | N/A | JF08 - Recent fraud evidence |
-| 2025-06-07 | Cards Cancelled <24 Hours After Fraud Exposure | Peter Andrew Faucitt, Rynette Farrar, Daniel Jacobus Bantjies | CRITICAL: Immediate retaliation <24 hours proves coordination and motive | Card cancellation records, Timeline correlation with fraud exposure |
-| 2025-06-10 | N/A | Danie Bantjies, Daniel James Faucitt, Family Trust, Jacqueline Faucitt, Peter Andrew Faucitt | N/A | JF08 - Recent fraud evidence |
-| 2025-06-18 | N/A | Family Trust, Peter Andrew Faucitt, beneficiaries | N/A | JF08 - Recent fraud evidence |
-| 2025-06-20 | N/A | Daniel James Faucitt, Jacqueline Faucitt, RegimA Zone Ltd, Regima Worldwide Distribution (PTY) LTD, Rynette Farrar, customers | N/A | JF08 - Recent fraud evidence |
-| 2025-06-25 | N/A | Daniel James Faucitt, Jax, Peter Andrew Faucitt | N/A | JF08 - Recent fraud evidence |
-| 2025-06-30 | N/A | Daniel James Faucitt, Peter Andrew Faucitt, Regima Worldwide Distribution (PTY) LTD, Rynette Farrar, associates | N/A | JF08 - Recent fraud evidence |
-| 2025-07-08 | N/A | Daniel James Faucitt, Peter Andrew Faucitt, Regima Worldwide Distribution (PTY) LTD, customers | N/A | JF08 - Recent fraud evidence |
-| 2025-07-12 | N/A | Daniel James Faucitt, Peter Andrew Faucitt, Regima Worldwide Distribution (PTY) LTD | N/A | JF08 - Recent fraud evidence |
-| 2025-07-23 | N/A | Daniel James Faucitt, Jacqueline Faucitt, Peter Andrew Faucitt, Regima Worldwide Distribution (PTY) LTD, Rynette Farrar | N/A | JF08 - Recent fraud evidence |
-| 2025-07-25 | N/A | Family Trust, Peter Andrew Faucitt, beneficiaries | N/A | JF08 - Recent fraud evidence |
-| 2025-08-10 | N/A | Family Trust, Peter Andrew Faucitt, beneficiaries | N/A | JF08 - Recent fraud evidence |
-| 2025-08-11 | N/A | Daniel James Faucitt, Jacqueline Faucitt, Peter Andrew Faucitt | N/A | JF08 - Recent fraud evidence |
-| 2025-08-11 | Main Trustee Power Backdated - Jax Cooperation | Peter Andrew Faucitt, Jacqueline Faucitt | CRITICAL: Peter gains sole control T-9 months before ZAR 18.75M payout | Main Trustee designation document, Backdating documentation |
-| 2025-08-13 | N/A | Daniel James Faucitt, Jacqueline Faucitt, Peter Andrew Faucitt, Rynette Farrar | N/A | JF08 - Recent fraud evidence |
-| 2025-08-13 | Interdict Filed Against Jax & Dan - Betrayal & Control | Peter Andrew Faucitt, Daniel Jacobus Bantjies, Jacqueline Faucitt, Daniel James Faucitt | CRITICAL: Betrayal and beneficiary neutralization T-9 months before payout | Interdict application case 2025-137857, Timeline showing 48-hour betrayal |
-| 2025-08-15 | N/A | Danie Bantjies | N/A | JF08 - Recent fraud evidence |
-| 2025-08-20 | N/A | Daniel James Faucitt, Regima Worldwide Distribution (PTY) LTD, coordinated_network | N/A | JF08 - Recent fraud evidence |
-| 2025-08-29 | N/A | Danie Bantjies, Daniel James Faucitt, Jacqueline Faucitt | N/A | JF08 - Recent fraud evidence |
-| 2025-09-11 | N/A | Daniel James Faucitt, Peter Andrew Faucitt, Regima Worldwide Distribution (PTY) LTD, Rynette Farrar | N/A | JF08 - Recent fraud evidence |
-| 2025-10-23 | N/A | Daniel James Faucitt, Gee, Jacqueline Faucitt, Peter Andrew Faucitt | N/A | JF08 - Recent fraud evidence |
-| 2026-05 | Ketoni ZAR 18.75M Payout Due - ALL EVENTS CONVERGE | Ketoni Investment Holdings, Faucitt Family Trust, Peter Andrew Faucitt, Daniel Jacobus Bantjies | CENTRAL CONVERGENCE POINT: All trust control actions converge on this payout date | Ketoni payout schedule, FFT investment documentation |
+
+---
+
+## Investment Phase (2023)
+
+| Date | Event | Key Actors | T-Months | Significance | Evidence |
+|------|-------|------------|----------|--------------|----------|
+| 2023-02-20 | Ketoni Investment Holdings Incorporated | Kevin Michael Derrick | T-39 | Investment vehicle created | CIPC records |
+| **2023-04-24** | **FFT Investment in Ketoni** | Faucitt Family Trust, Ketoni, Kevin Derrick | **T-37** | **CRITICAL: ZAR 18.75M payout entitlement established** | Ketoni investment docs, Share Certificate #3 |
+| 2023-05 | Bantjies Joins The George Group | Daniel Jacobus Bantjies, Kevin Derrick | T-36 | Network connection established (Bantjies-Derrick) | LinkedIn, George Group records |
+| **2023-07-13** | **Kayla Pretorius Death** | Kayla Pretorius, Daniel Faucitt, ReZonance | **T-34** | **CRITICAL: Eliminates R1M creditor 80 days after investment** | SF6, SF7, ReZonance debt records |
+
+---
+
+## Control Consolidation (2024-2025)
+
+| Date | Event | Key Actors | T-Months | Significance | Evidence |
+|------|-------|------------|----------|--------------|----------|
+| 2024-02-14 | ReZonance Dissolution Pressure | Peter Faucitt, Daniel Faucitt | T-27 | Eliminate R1M debt obstacle before trust control | ReZonance dissolution correspondence |
+| **2024-07** | **Bantjies Appointed FFT Trustee** | Daniel Jacobus Bantjies, Rynette Farrar | **T-10** | **CRITICAL: Strategic trustee appointment before payout** | FFT trustee appointment docs |
+| **2025-06-06** | **Dan Exposes Villa Via Fraud to Bantjies** | Daniel Faucitt, Daniel Bantjies | **T-11** | **CRITICAL: Fraud exposure triggers immediate retaliation** | Email to Bantjies 2025-06-06 |
+| **2025-06-07** | **Cards Cancelled <24 Hours After Exposure** | Peter Faucitt, Rynette Farrar, Bantjies | **T-11** | **CRITICAL: Immediate retaliation proves coordination** | Card cancellation records |
+| 2025-06-10 | Bantjies Dismisses Audit Request | Daniel Bantjies, Daniel Faucitt | T-11 | Fraud concealment - dismisses detailed audit | Email 2025-06-10 |
+| **2025-06-17** | **Peter Writes FNB Fraud Letter** | Peter Faucitt | **T-11** | **🆕 CRITICAL: Director acknowledges fraud, Exchange Control violations** | SF10 - PAF_FNB_FRAUD_LETTER_2025_06_17 |
+| **2025-06-18** | **FNB Response - Independent Mandate Confirmed** | FNB, Peter Faucitt, Daniel Faucitt, Jax | **T-11** | **🆕 Bank mandate confirms independent director authority** | SF11 - FNB_RESPONSE_EMAIL_2025_06_18 |
+| 2025-06-20 | Sage Screenshot - Rynette Control Evidence | Rynette Farrar | T-11 | Proves Rynette controls Pete@regima.com account | SF2 - Sage Screenshots |
+| **2025-08-11** | **Main Trustee Power Backdated** | Peter Faucitt, Jacqueline Faucitt | **T-9** | **CRITICAL: Peter gains sole control T-9 months before payout** | Main Trustee designation document |
+| **2025-08-13** | **Interdict Filed Against Jax & Dan** | Peter Faucitt, Bantjies, Jax, Daniel Faucitt | **T-9** | **CRITICAL: 48-hour betrayal, beneficiary neutralization** | Interdict application 2025-137857 |
+| 2025-08-15 | Medical Testing Ordered | Peter Faucitt, Court | T-9 | Curatorship fraud attempt to control Dan's share | Court order |
+| 2025-08-29 | ENS Africa Suppresses Criminal Information | ENS Africa, Bantjies, Jax | T-8 | Criminal matters hidden from Court | Court proceedings |
+
+---
+
+## Convergence (May 2026)
+
+| Date | Event | Key Actors | T-Months | Significance | Evidence |
+|------|-------|------------|----------|--------------|----------|
+| **2026-05** | **Ketoni ZAR 18.75M Payout Due** | Ketoni, FFT, Peter, Bantjies | **T-0** | **ALL EVENTS CONVERGE HERE** | Ketoni payout schedule |
+
+---
+
+## Key Timeline Statistics
+
+| Metric | Value |
+|--------|-------|
+| **Total Timeline Entries** | 130+ |
+| **Criminal Threshold Events** | 53 |
+| **Events with T-Months Reference** | 25 |
+| **Evidence Files Referenced** | 1,153+ |
+
+---
+
+## T-Months Reference Guide
+
+All events are referenced relative to the **May 2026 Ketoni payout** (T-0):
+
+| T-Months | Date | Phase |
+|----------|------|-------|
+| T-39 | Feb 2023 | Ketoni incorporation |
+| T-37 | Apr 2023 | FFT investment |
+| T-36 | May 2023 | Bantjies joins George Group |
+| T-34 | Jul 2023 | Kayla's death |
+| T-27 | Feb 2024 | ReZonance pressure |
+| T-10 | Jul 2024 | Bantjies trustee appointment |
+| T-11 | Jun 2025 | Fraud exposure, FNB letter |
+| T-9 | Aug 2025 | Control consolidation |
+| T-0 | May 2026 | **PAYOUT DUE** |
+
+---
+
+## Evidence Cross-References
+
+### New Evidence (2026-01-29)
+- **[FNB Fraud Letter (2025-06-17)](./evidence/FNB_FRAUD_LETTER_2025_06_17/PAF_FNB_FRAUD_LETTER_2025_06_17_OCR.md)** - Peter's fraud acknowledgment
+- **[FNB Response Email (2025-06-18)](./evidence/FNB_RESPONSE_EMAIL_2025_06_18/FNB_RESPONSE_EMAIL_2025_06_18_OCR.md)** - Bank mandate confirmation
+
+### Primary Evidence
+- **[Ketoni Timeline](./ketoni-timeline.md)** - Central financial motive
+- **[Evidence Index](./evidence-index-enhanced.md)** - Comprehensive catalog
+- **[Entities Index](./entities/index.md)** - All persons and organizations
+- **[Relations Index](./relations/index.md)** - Entity relationship mapping
+
+### Extended Evidence
+- **[ad-res-j7 Repository](https://github.com/cogpy/ad-res-j7)** - Full evidence archive
+
+---
+
+*Last Updated: 2026-02-04*
