@@ -71,8 +71,9 @@ This timeline documents all significant events in the revenue stream hijacking c
 | **2025-06-06** | **Dan Exposes Villa Via Fraud to Bantjies** | Daniel Faucitt, Daniel Bantjies | **T-11** | **CRITICAL: Fraud exposure triggers immediate retaliation** | Email to Bantjies 2025-06-06 |
 | **2025-06-07** | **Cards Cancelled <24 Hours After Exposure** | Peter Faucitt, Rynette Farrar, Bantjies | **T-11** | **CRITICAL: Immediate retaliation proves coordination** | Card cancellation records |
 | 2025-06-10 | Bantjies Dismisses Audit Request | Daniel Bantjies, Daniel Faucitt | T-11 | Fraud concealment - dismisses detailed audit | Email 2025-06-10 |
-| **2025-06-17** | **Peter Writes FNB Fraud Letter** | Peter Faucitt | **T-11** | **🆕 CRITICAL: Director acknowledges fraud, Exchange Control violations** | SF10 - PAF_FNB_FRAUD_LETTER_2025_06_17 |
-| **2025-06-18** | **FNB Response - Independent Mandate Confirmed** | FNB, Peter Faucitt, Daniel Faucitt, Jax | **T-11** | **🆕 Bank mandate confirms independent director authority** | SF11 - FNB_RESPONSE_EMAIL_2025_06_18 |
+| **2025-06-12** | **Peter Blocks Jacqui's Card** | Peter Faucitt, Jacqui Faucitt | **T-11** | **🆕 CRITICAL: Card blocked on Peter's birthday, sets up fraud narrative** | EVENT_092, Card block notifications |
+| **2025-06-17** | **Peter Writes FNB Fraud Letter** | Peter Faucitt, Nondu Motlhala (FNB) | **T-11** | **🆕 CRITICAL: False fraud allegations 5 days after card block** | EVENT_093, PAF_FNB_FRAUD_LETTER_2025_06_17 |
+| **2025-06-18** | **FNB Refuses Investigation** | Mpumi Netshipale (FNB), Peter, Daniel, Jax | **T-11** | **🆕 CRITICAL: Bank cancels meeting, hides behind mandate defense** | EVENT_094, FNB_RESPONSE_EMAIL_2025_06_18 |
 | 2025-06-20 | Sage Screenshot - Rynette Control Evidence | Rynette Farrar | T-11 | Proves Rynette controls Pete@regima.com account | SF2 - Sage Screenshots |
 | **2025-08-11** | **Main Trustee Power Backdated** | Peter Faucitt, Jacqueline Faucitt | **T-9** | **CRITICAL: Peter gains sole control T-9 months before payout** | Main Trustee designation document |
 | **2025-08-13** | **Interdict Filed Against Jax & Dan** | Peter Faucitt, Bantjies, Jax, Daniel Faucitt | **T-9** | **CRITICAL: 48-hour betrayal, beneficiary neutralization** | Interdict application 2025-137857 |
@@ -93,7 +94,7 @@ This timeline documents all significant events in the revenue stream hijacking c
 
 | Metric | Value |
 |--------|-------|
-| **Total Timeline Entries** | 130+ |
+| **Total Timeline Entries** | 133+ |
 | **Criminal Threshold Events** | 53 |
 | **Events with T-Months Reference** | 25 |
 | **Evidence Files Referenced** | 1,153+ |

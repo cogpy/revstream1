@@ -19,17 +19,20 @@ A letter from **Peter Andrew Faucitt** to **FNB** dated **17 June 2025** contain
 
 ### Timeline Context
 
-| Date | Event | Days After Exposure |
-|------|-------|---------------------|
-| 2025-06-06 | Daniel exposes fraud to Bantjies | T-0 |
-| 2025-06-07 | Secret card cancellations | T+1 |
-| **2025-06-17** | **Peter writes FNB fraud letter** | **T+11** |
-| **2025-06-18** | **FNB confirms independent director mandate** | **T+12** |
+| Date | Event | Days After Exposure | Event ID |
+|------|-------|---------------------|----------|
+| 2025-06-06 | Daniel exposes fraud to Bantjies | T-0 | EVENT_086 |
+| 2025-06-07 | Secret card cancellations | T+1 | - |
+| 2025-06-10 | Bantjies dismisses audit request | T+4 | EVENT_087 |
+| **2025-06-12** | **Peter blocks Jacqui's card** | **T+6** | **EVENT_092** |
+| **2025-06-17** | **Peter writes FNB fraud letter** | **T+11** | **EVENT_093** |
+| **2025-06-18** | **FNB refuses investigation** | **T+12** | **EVENT_094** |
 
 This letter **directly contradicts** Peter's court position where he claims Daniel and Jax are the perpetrators.
 
 **[→ View FNB Fraud Letter Analysis](./evidence/FNB_FRAUD_LETTER_2025_06_17/PAF_FNB_FRAUD_LETTER_2025_06_17_OCR.md)**  
-**[→ View FNB Response Email Analysis](./evidence/FNB_RESPONSE_EMAIL_2025_06_18/FNB_RESPONSE_EMAIL_2025_06_18_OCR.md)**
+**[→ View FNB Response Email Analysis](./evidence/FNB_RESPONSE_EMAIL_2025_06_18/FNB_RESPONSE_EMAIL_2025_06_18_OCR.md)**  
+**[→ View Relations Update: Peter's FNB Fraud Pattern](./RELATIONS_UPDATE_2025_12_19_PETER_FNB_FRAUD.md)**
 
 ---
 
