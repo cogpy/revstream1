@@ -1,8 +1,43 @@
 # Revenue Stream Hijacking Case 2025-137857
 
-**Last Updated:** 2026-02-04
+**Last Updated:** 2026-02-05
 
 This site provides comprehensive evidence, analysis, and legal documentation for case 2025-137857 involving revenue stream hijacking, trust violations, and financial fraud totaling **R10,269,727.90**.
+
+---
+
+## 🆕 NEW EVIDENCE: February 2026 Update
+
+Critical new evidence added on 2026-02-05 significantly strengthens the case:
+
+| Evidence | Date | Significance |
+|----------|------|-------------|
+| **[Shopify Centrality Organogram](evidence-index-2026-02-05.md#1-shopify-centrality-organogram-11-apr-2025)** | 11 Apr 2025 | Premeditation - 40 days before sabotage |
+| **[CIPC Record - RegimA SA](evidence-index-2026-02-05.md#3-cipc-record---regima-sa-pty-ltd)** | 2017 | Peter & Dan directors, NOT Jacqui |
+| **[Bank Statements](evidence-index-2026-02-05.md#9-bank-statements---asset-stripping-pattern)** | Oct 24 - Mar 25 | R2.5M → R5K (99.8% stripped) |
+| **[De Novo Fraud Instructions](evidence-index-2026-02-05.md#5-fraudulent-records-instruction-17-18-jun-2025)** | 17-18 Jun 2025 | Rynette instructs fraudulent records |
+| **[Fabricated 2019 Financials](evidence-index-2026-02-05.md#6-fabricated-2019-financial-statements-issued-25-jun-2025)** | Issued 25 Jun 2025 | Backdated 6+ years - Tax fraud |
+| **[Shopify Sales Report](evidence-index-2026-02-05.md#7-shopify-sales-report---revenue-diversion)** | Jun 2025+ | R8.5M annual revenue → R0 |
+| **[9 Payment Failures](evidence-index-2026-02-05.md#10-shopify-invoice---payment-failures-sep-2025)** | Sep-Oct 2025 | Company financially crippled |
+
+**[→ View Complete Evidence Index (2026-02-05)](evidence-index-2026-02-05.md)**
+
+### New Entities Added
+
+| Entity | Role | Evidence |
+|--------|------|----------|
+| De Novo Business Services | Complicit Accountants | Created backdated financials |
+| Marisca Meyer | Professional Accountant | Prepared fraudulent statements |
+| Nadine Van Greunen | De Novo Staff | Received fraud instructions |
+
+### Latest Filings (2026-02-05)
+
+| Filing | Type | Link |
+|--------|------|------|
+| CIPC Director Disqualification | Regulatory | [View](./filings/CIPC_COMPLAINT_REFINED_2026_02_05.md) |
+| POPIA Criminal Complaint | Criminal | [View](./filings/POPIA_COMPLAINT_REFINED_2026_02_05.md) |
+| NPA Tax Fraud Report | Criminal | [View](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_05.md) |
+| Commercial Crime Submission | Criminal | [View](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_05.md) |
 
 ---
 
@@ -109,4 +144,4 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 
 ---
 
-*Last Updated: 2026-02-04*
+*Last Updated: 2026-02-05*

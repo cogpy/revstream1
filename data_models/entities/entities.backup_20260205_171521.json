@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "version": "39.0_NEW_EVIDENCE_2026_02_05",
+    "version": "38.0_ORGANOGRAM_INTEGRATION_2026_01_28",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-02-05T17:15:21.860974",
-    "changes": "Added De Novo Business Services, Marisca Meyer, Nadine Van Greunen; Updated Rynette and Peter with fiduciary breach and fraudulent records evidence",
-    "total_entities": 92,
-    "total_persons": 40,
-    "total_organizations": 52
+    "last_updated": "2026-01-28T16:14:47.310760",
+    "changes": "Added Kent (PERSON_037), EL (PERSON_038), and Courier Guy (PLATFORM_002) from Rynette Organogram 2025-04-12",
+    "total_entities": 89,
+    "total_persons": 38,
+    "total_organizations": 51
   },
   "entities": {
     "persons": [
@@ -27,10 +27,7 @@
           "warehouse_popi_violations",
           "account_manipulation",
           "trust_asset_misappropriation",
-          "trust_breach",
-          "fiduciary_breach_regima_sa",
-          "company_destruction_to_harm_co_director",
-          "shopify_revenue_diversion"
+          "trust_breach"
         ],
         "relationships": [
           "trustee_of_family_trust",
@@ -65,13 +62,7 @@
           "JF07 - Financial transaction records",
           "JF08 - Email correspondence and fraud evidence",
           "JF09 - Court order timeline cross-reference",
-          "SF9 - Ian Levitt R63M demand letter",
-          "347975701_REGIMA_SA_K201708793507.Pdf - CIPC record showing director status",
-          "FORMAL NOTICE - CESSATION OF CRIMINAL INSTRUCTIONS.pdf",
-          "POPIA_VIOLATION_NOTICE_&_RETALIATION_TIMELINE.pdf",
-          "62707308252 2024-10-07.pdf - Bank statement showing healthy business",
-          "62707308252 2025-03-06.pdf - Bank statement showing asset stripping",
-          "RegimA SA Shopify Plus - Total sales over time.pdf"
+          "SF9 - Ian Levitt R63M demand letter"
         ],
         "ad_res_j7_references": [
           "ANNEXURES/JF01 - Shopify Plus email showing business structure",
@@ -126,32 +117,6 @@
             "Card cancellation <24 hours after fraud exposure",
             "Forum shopping to Family Court"
           ]
-        },
-        "fiduciary_breach_evidence": {
-          "company": "RegimA SA (Pty) Ltd",
-          "registration": "2017/087935/07",
-          "director_since": "2021-03-08",
-          "co_director": "Daniel Faucitt",
-          "jacqui_status": "NOT a director or shareholder",
-          "breach_actions": [
-            "Allowed company bank account to be stripped from R2.5M to R5K",
-            "Diverted Shopify revenue stream (R8.5M annual)",
-            "Failed to fulfill orders causing 9 consecutive payment failures",
-            "Instructed staff to bypass Shopify systems",
-            "Cancelled co-director's bank cards"
-          ],
-          "companies_act_violations": [
-            "Section 76 - Duty to act in good faith",
-            "Section 77 - Liability for breach of fiduciary duties",
-            "Section 69 - Grounds for director disqualification"
-          ]
-        },
-        "shopify_diversion_evidence": {
-          "pre_diversion_revenue": "R800K-1.1M monthly",
-          "post_diversion_revenue": "R0 (June 2025 onwards)",
-          "diversion_date": "~22 May 2025",
-          "organogram_date": "11 April 2025",
-          "premeditation_gap": "40 days"
         }
       },
       {
@@ -166,18 +131,14 @@
           "unauthorized_beneficiary_changes",
           "domain_registration_identity_fraud",
           "email_impersonation_pattern",
-          "coordinated_fund_diversions",
-          "instructed_de_novo_fraudulent_records",
-          "created_shopify_centrality_organogram",
-          "coordinated_financial_statement_fabrication"
+          "coordinated_fund_diversions"
         ],
         "relationships": [
           "co_conspirator_with_PERSON_001",
           "mother_of_PERSON_003",
           "financial_controller",
           "controls_sage:ORG_001",
-          "email_access:PERSON_001",
-          "instructed_ORG_DE_NOVO"
+          "email_access:PERSON_001"
         ],
         "financial_impact": {
           "direct_involvement": "R4,276,832.85",
@@ -215,9 +176,7 @@
           "JF08 - Email impersonation evidence",
           "JF09 - Domain registration fraud evidence",
           "Trial Balance Email 2020-08-13 - Financial access evidence",
-          "Trial Balance Email 2020-08-13 - Financial access evidence",
-          "2025-06-18 - Rynette & De Novo - RegimA SA Payments.pdf",
-          "Power point - how sales work.pdf (11 Apr 2025)"
+          "Trial Balance Email 2020-08-13 - Financial access evidence"
         ],
         "ad_res_j7_references": [
           "SF2_Sage_Screenshots_Rynette_Control.md - Dual account access evidence",
@@ -268,19 +227,6 @@
             "Domain registration fraud evidence",
             "Bank account change letter"
           ]
-        },
-        "de_novo_fraud_evidence": {
-          "date": "2025-06-17 to 2025-06-18",
-          "instruction": "Create loan account within RegimA SA for other company expenses",
-          "purpose": "Hide expenses not belonging to RegimA SA",
-          "recipient": "Marisca Meyer at De Novo Business Services",
-          "dan_knowledge": "NOT copied - done without director knowledge"
-        },
-        "organogram_evidence": {
-          "date": "2025-04-11",
-          "document": "Power point - how sales work.pdf",
-          "purpose": "Created for Pete showing Shopify centrality",
-          "significance": "40 days before May 22 sabotage - proves premeditation"
         }
       },
       {
@@ -1667,62 +1613,6 @@
           "date": "2025-04-12",
           "role_in_flow": "Order receipt (phone/email), Proforma invoice creation in Shopify, POP receipt, Order fulfillment marking"
         }
-      },
-      {
-        "entity_id": "PERSON_039",
-        "name": "Marisca Meyer",
-        "role": "complicit_accountant",
-        "agent_type": "antagonist",
-        "title": "Professional Accountant (SA)",
-        "organization": "De Novo Business Services (Pty) Ltd",
-        "email": "mmeyer@denovobus.co.za",
-        "involvement_events": 2,
-        "primary_actions": [
-          "prepared_backdated_2019_financial_statements",
-          "received_fraudulent_allocation_instructions",
-          "created_false_loan_accounts"
-        ],
-        "relationships": [
-          "employee_of_ORG_DE_NOVO",
-          "instructed_by_PERSON_002",
-          "prepared_statements_for_ORG_REGIMA_SA"
-        ],
-        "evidence": [
-          "2025-06-18 - Rynette & De Novo - RegimA SA Payments.pdf - Email recipient",
-          "Regima SA (Pty) Ltd - 2019 - Financial statements - SME.pdf - Listed as Preparer"
-        ],
-        "evidence_strength": "conclusive",
-        "criminal_threshold": "95%_likely",
-        "key_evidence": {
-          "financial_statements_issued": "2025-06-25",
-          "period_covered": "15 months ended 28 February 2019",
-          "backdating_gap": "6+ years",
-          "fraud_indicator": "Created 2019 statements in June 2025"
-        },
-        "created_date": "2026-02-05",
-        "source": "New evidence package Feb 2026"
-      },
-      {
-        "entity_id": "PERSON_040",
-        "name": "Nadine Van Greunen",
-        "role": "complicit_accountant",
-        "agent_type": "antagonist",
-        "organization": "De Novo Business Services (Pty) Ltd",
-        "email": "nvangreunen@denovobus.co.za",
-        "phone": "(011) 452-0789",
-        "involvement_events": 1,
-        "primary_actions": [
-          "received_fraudulent_allocation_instructions"
-        ],
-        "relationships": [
-          "employee_of_ORG_DE_NOVO",
-          "colleague_of_PERSON_039"
-        ],
-        "evidence": [
-          "2025-06-18 - Rynette & De Novo - RegimA SA Payments.pdf - Email participant"
-        ],
-        "created_date": "2026-02-05",
-        "source": "New evidence package Feb 2026"
       }
     ],
     "organizations": [
@@ -3213,39 +3103,6 @@
         ],
         "evidence_strength": "conclusive",
         "refinement_date": "2026-01-28T06:40:55.405574"
-      },
-      {
-        "entity_id": "ORG_DE_NOVO",
-        "name": "De Novo Business Services (Pty) Ltd",
-        "type": "accounting_firm",
-        "role": "complicit_accountant",
-        "agent_type": "antagonist",
-        "address": "43 Allouette Road, Impala Park, Boksburg, 1459",
-        "phone": "(011) 452-0789 / 084 764 1045",
-        "website": "www.denovobus.co.za",
-        "involvement_events": 2,
-        "primary_actions": [
-          "fraudulent_record_creation",
-          "backdated_financial_statements",
-          "false_loan_account_creation"
-        ],
-        "relationships": [
-          "instructed_by_PERSON_002",
-          "prepared_fraudulent_statements_for_ORG_REGIMA_SA"
-        ],
-        "evidence": [
-          "2025-06-18 - Rynette & De Novo - RegimA SA Payments.pdf",
-          "Regima SA (Pty) Ltd - 2019 - Financial statements - SME.pdf"
-        ],
-        "evidence_strength": "conclusive",
-        "criminal_threshold": "95%_exceeded",
-        "legal_implications": [
-          "Professional misconduct",
-          "Assisting in fraud",
-          "Creating false financial records"
-        ],
-        "created_date": "2026-02-05",
-        "source": "New evidence package Feb 2026"
       }
     ],
     "platforms": [

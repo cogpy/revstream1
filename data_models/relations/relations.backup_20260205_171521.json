@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "17.0_NEW_EVIDENCE_2026_02_05",
+    "version": "16.0_ORGANOGRAM_INTEGRATION_2026_01_28",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-02-05T17:15:21.861314",
-    "changes": "Added 5 new fraud relations from February 2026 evidence package",
-    "total_relations": 133
+    "last_updated": "2026-01-28T16:15:12.178736",
+    "changes": "Added operational relations from Rynette Organogram 2025-04-12 showing sales process flow",
+    "total_relations": 128
   },
   "relations": {
     "ownership_relations": [
@@ -3121,76 +3121,7 @@
         "evidence_strength": "moderate"
       }
     ],
-    "investment_relations": [],
-    "fraud_relations": [
-      {
-        "relation_id": "REL_RYNETTE_DE_NOVO",
-        "type": "instructed",
-        "source_entity": "PERSON_002",
-        "target_entity": "ORG_DE_NOVO",
-        "description": "Rynette instructed De Novo to create fraudulent loan accounts",
-        "date": "2025-06-17",
-        "evidence": [
-          "2025-06-18 - Rynette & De Novo - RegimA SA Payments.pdf"
-        ],
-        "significance": "criminal_threshold"
-      },
-      {
-        "relation_id": "REL_DE_NOVO_REGIMA_SA",
-        "type": "prepared_fraudulent_statements",
-        "source_entity": "ORG_DE_NOVO",
-        "target_entity": "ORG_REGIMA_SA",
-        "description": "De Novo prepared backdated 2019 financial statements for RegimA SA",
-        "date": "2025-06-25",
-        "evidence": [
-          "Regima SA (Pty) Ltd - 2019 - Financial statements - SME.pdf"
-        ],
-        "significance": "criminal_threshold"
-      },
-      {
-        "relation_id": "REL_MARISCA_DE_NOVO",
-        "type": "employed_by",
-        "source_entity": "PERSON_039",
-        "target_entity": "ORG_DE_NOVO",
-        "description": "Marisca Meyer is Professional Accountant at De Novo Business Services",
-        "evidence": [
-          "Regima SA (Pty) Ltd - 2019 - Financial statements - SME.pdf"
-        ],
-        "significance": "high"
-      },
-      {
-        "relation_id": "REL_PETER_FIDUCIARY_BREACH",
-        "type": "fiduciary_breach",
-        "source_entity": "PERSON_001",
-        "target_entity": "ORG_REGIMA_SA",
-        "description": "Peter breached fiduciary duty as director by allowing company destruction",
-        "date_range": "2025-03 to 2025-10",
-        "evidence": [
-          "347975701_REGIMA_SA_K201708793507.Pdf",
-          "62707308252 2025-03-06.pdf",
-          "RegimA SA Shopify Plus - Total sales over time.pdf",
-          "RegimA_SA_423808676.pdf"
-        ],
-        "significance": "criminal_threshold",
-        "legal_basis": [
-          "Companies Act Section 76",
-          "Companies Act Section 77",
-          "Companies Act Section 69"
-        ]
-      },
-      {
-        "relation_id": "REL_RYNETTE_ORGANOGRAM",
-        "type": "created_premeditation_evidence",
-        "source_entity": "PERSON_002",
-        "target_entity": "PERSON_001",
-        "description": "Rynette created Shopify centrality organogram for Peter 40 days before sabotage",
-        "date": "2025-04-11",
-        "evidence": [
-          "Power point - how sales work.pdf"
-        ],
-        "significance": "criminal_threshold"
-      }
-    ]
+    "investment_relations": []
   },
   "financial_manipulation_patterns": {
     "year_end_manipulation": {

@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "version": "32.0_NEW_EVIDENCE_2026_02_05",
+    "version": "31.0_COMPREHENSIVE_REFINED_2026_01_28",
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-02-05T17:15:21.861169",
-    "changes": "Added 11 new timeline entries from February 2026 evidence package",
+    "last_updated": "2026-01-28T05:45:17.386844",
+    "changes": "Comprehensive LEX refinement - timeline completeness",
     "criminal_threshold_entries": 6,
     "high_significance_entries": 7,
-    "total_entries": 136,
+    "total_entries": 125,
     "civil_threshold_entries": 0,
     "completeness_audit": "2026-01-22 00:57:20",
     "by_year": {
@@ -37,8 +37,8 @@
       "2021": 5,
       "2022": 3,
       "2023": 11,
-      "2024": 4,
-      "2025": 44,
+      "2024": 3,
+      "2025": 34,
       "2026": 1
     }
   },
@@ -2107,24 +2107,6 @@
       "ad_res_j7_evidence_enhanced": []
     },
     {
-      "date": "2024-10-07",
-      "event": "RegimA SA bank account healthy - R2,554,860.93 closing balance",
-      "entity": "RegimA SA (Pty) Ltd",
-      "source": "62707308252 2024-10-07.pdf",
-      "significance_level": "high",
-      "category": "financial_baseline",
-      "event_ref": "EVENT_BANK_HEALTHY_2024_10",
-      "actors": [],
-      "entities_involved": [
-        "ORG_REGIMA_SA"
-      ],
-      "financial_data": {
-        "opening_balance": "R1,925,869.31",
-        "closing_balance": "R2,554,860.93",
-        "status": "HEALTHY"
-      }
-    },
-    {
       "date": "2025-01-15",
       "event_ref": "EVENT_054",
       "title": "Chantal Delivers Letter About Kayla Estate Finalization",
@@ -2248,27 +2230,6 @@
       "ad_res_j7_evidence_enhanced": []
     },
     {
-      "date": "2025-03-06",
-      "event": "RegimA SA bank account stripped - R5,284.08 closing balance (99.8% decline)",
-      "entity": "RegimA SA (Pty) Ltd",
-      "source": "62707308252 2025-03-06.pdf",
-      "significance_level": "criminal_threshold",
-      "category": "asset_stripping",
-      "event_ref": "EVENT_BANK_STRIPPED_2025_03",
-      "actors": [
-        "PERSON_001"
-      ],
-      "entities_involved": [
-        "ORG_REGIMA_SA"
-      ],
-      "financial_data": {
-        "opening_balance": "R997,597.94",
-        "closing_balance": "R5,284.08",
-        "decline_percentage": "99.8%",
-        "status": "STRIPPED"
-      }
-    },
-    {
       "date": "2025-03-15",
       "event_ref": "EVENT_002",
       "title": "R5.4M Stock Adjustment Processed Without Investigation",
@@ -2352,23 +2313,6 @@
       ],
       "entities_involved": [],
       "ad_res_j7_evidence_enhanced": []
-    },
-    {
-      "date": "2025-04-11",
-      "event": "Rynette creates Shopify centrality organogram for Peter - 40 days before sabotage",
-      "entity": "Rynette Farrar",
-      "source": "Power point - how sales work.pdf",
-      "significance_level": "criminal_threshold",
-      "category": "premeditation",
-      "event_ref": "EVENT_ORGANOGRAM_2025_04_11",
-      "actors": [
-        "PERSON_002",
-        "PERSON_001"
-      ],
-      "entities_involved": [
-        "ORG_REGIMA_SA",
-        "PLATFORM_SHOPIFY"
-      ]
     },
     {
       "date": "2025-04-14",
@@ -2550,23 +2494,6 @@
       "ad_res_j7_evidence_enhanced": []
     },
     {
-      "date": "2025-05-22",
-      "event": "Shopify revenue stream sabotage - R800K-1.1M monthly revenue drops to R0",
-      "entity": "RegimA SA (Pty) Ltd",
-      "source": "RegimA SA Shopify Plus - Total sales over time.pdf",
-      "significance_level": "criminal_threshold",
-      "category": "revenue_theft",
-      "event_ref": "EVENT_SHOPIFY_SABOTAGE_2025_05_22",
-      "actors": [
-        "PERSON_001",
-        "PERSON_002"
-      ],
-      "entities_involved": [
-        "ORG_REGIMA_SA",
-        "PLATFORM_SHOPIFY"
-      ]
-    },
-    {
       "date": "2025-05-23",
       "event_ref": "EVENT_SHOPIFY_ORDERS_REMOVED",
       "title": "Orders Removed from Shopify Platform",
@@ -2649,23 +2576,6 @@
       "ad_res_j7_evidence_enhanced": []
     },
     {
-      "date": "2025-06-06",
-      "event": "Daniel reports fraud to accountant Bantjies with full company structure breakdown",
-      "entity": "Daniel Faucitt",
-      "source": "Fw_ update - Some Initial Information & Operating Entity Lists.pdf",
-      "significance_level": "high",
-      "category": "whistleblowing",
-      "event_ref": "EVENT_DAN_FRAUD_REPORT_2025_06_06",
-      "actors": [
-        "PERSON_003",
-        "PERSON_004"
-      ],
-      "entities_involved": [
-        "ORG_REGIMA_SA",
-        "ORG_REGIMA_ZONE"
-      ]
-    },
-    {
       "date": "2025-06-07",
       "event_ref": "EVENT_SECRET_CARD_CANCELLATION",
       "title": "Cards Cancelled <24 Hours After Fraud Exposure",
@@ -2699,21 +2609,6 @@
       ],
       "entities_involved": [],
       "ad_res_j7_evidence_enhanced": []
-    },
-    {
-      "date": "2025-06-07",
-      "event": "Peter cancels ALL bank cards within 24 hours of fraud report - R1,062,446.04 forced onto Dan's personal account",
-      "entity": "Peter Faucitt",
-      "source": "POPIA_VIOLATION_NOTICE_&_RETALIATION_TIMELINE.pdf",
-      "significance_level": "criminal_threshold",
-      "category": "retaliation",
-      "event_ref": "EVENT_CARD_CANCELLATION_2025_06_07",
-      "actors": [
-        "PERSON_001"
-      ],
-      "entities_involved": [
-        "ORG_REGIMA_SA"
-      ]
     },
     {
       "date": "2025-06-10",
@@ -2757,24 +2652,6 @@
       ],
       "entities_involved": [],
       "ad_res_j7_evidence_enhanced": []
-    },
-    {
-      "date": "2025-06-17",
-      "event": "Rynette instructs De Novo to create fraudulent loan accounts - Dan NOT copied",
-      "entity": "Rynette Farrar",
-      "source": "2025-06-18 - Rynette & De Novo - RegimA SA Payments.pdf",
-      "significance_level": "criminal_threshold",
-      "category": "fraud",
-      "event_ref": "EVENT_DE_NOVO_FRAUD_INSTRUCTION_2025_06_17",
-      "actors": [
-        "PERSON_002",
-        "PERSON_039",
-        "PERSON_040"
-      ],
-      "entities_involved": [
-        "ORG_DE_NOVO",
-        "ORG_REGIMA_SA"
-      ]
     },
     {
       "date": "2025-06-18",
@@ -2862,22 +2739,6 @@
       "ad_res_j7_evidence_enhanced": []
     },
     {
-      "date": "2025-06-25",
-      "event": "De Novo creates backdated 2019 financial statements - 6+ years after period",
-      "entity": "De Novo Business Services",
-      "source": "Regima SA (Pty) Ltd - 2019 - Financial statements - SME.pdf",
-      "significance_level": "criminal_threshold",
-      "category": "fraud",
-      "event_ref": "EVENT_FABRICATED_FINANCIALS_2025_06_25",
-      "actors": [
-        "PERSON_039",
-        "ORG_DE_NOVO"
-      ],
-      "entities_involved": [
-        "ORG_REGIMA_SA"
-      ]
-    },
-    {
       "date": "2025-06-30",
       "event_ref": "EVENT_015",
       "title": "Coordinated Fund Diversions",
@@ -2927,38 +2788,6 @@
       ],
       "entities_involved": [],
       "ad_res_j7_evidence_enhanced": []
-    },
-    {
-      "date": "2025-07-08",
-      "event": "Daniel sends Formal Notice - Cessation of Criminal Instructions with 48-hour deadline",
-      "entity": "Daniel Faucitt",
-      "source": "FORMAL NOTICE - CESSATION OF CRIMINAL INSTRUCTIONS.pdf",
-      "significance_level": "high",
-      "category": "compliance_demand",
-      "event_ref": "EVENT_FORMAL_NOTICE_2025_07_08",
-      "actors": [
-        "PERSON_003",
-        "PERSON_001"
-      ],
-      "entities_involved": [
-        "ORG_REGIMA_SA"
-      ]
-    },
-    {
-      "date": "2025-07-08",
-      "event": "Daniel sends POPIA Violation Notice regarding customer data breach",
-      "entity": "Daniel Faucitt",
-      "source": "POPIA_VIOLATION_NOTICE_&_RETALIATION_TIMELINE.pdf",
-      "significance_level": "high",
-      "category": "compliance_demand",
-      "event_ref": "EVENT_POPIA_NOTICE_2025_07_08",
-      "actors": [
-        "PERSON_003",
-        "PERSON_001"
-      ],
-      "entities_involved": [
-        "ORG_REGIMA_SA"
-      ]
     },
     {
       "date": "2025-07-12",
@@ -3241,20 +3070,6 @@
       ],
       "entities_involved": [],
       "ad_res_j7_evidence_enhanced": []
-    },
-    {
-      "date": "2025-09-27",
-      "event": "RegimA SA Shopify payment failures begin - 9 consecutive failures through Oct 11",
-      "entity": "RegimA SA (Pty) Ltd",
-      "source": "RegimA_SA_423808676.pdf",
-      "significance_level": "high",
-      "category": "financial_collapse",
-      "event_ref": "EVENT_SHOPIFY_PAYMENT_FAILURES_2025_09",
-      "actors": [],
-      "entities_involved": [
-        "ORG_REGIMA_SA",
-        "PLATFORM_SHOPIFY"
-      ]
     },
     {
       "date": "2025-10-23",

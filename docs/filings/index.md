@@ -1,6 +1,6 @@
 # Legal Filings Index
 
-**Last Updated:** 2026-02-04  
+**Last Updated:** 2026-02-05  
 **Case Number:** 2025-137857
 
 This index organizes all legal filings by application type and provides direct links to the latest versions.
@@ -12,8 +12,8 @@ This index organizes all legal filings by application type and provides direct l
 | Application | Type | Latest Filing | Status |
 |-------------|------|---------------|--------|
 | **Application 1** | Civil & Criminal | [Civil Action Summons](./civil_action_summons_REFINED_2026_01_18.md) | ✅ Ready |
-| **Application 2** | CIPC & POPIA | [CIPC](./CIPC_REFINED_2026_02_04.md) / [POPIA](./POPIA_REFINED_2026_02_04.md) | 🆕 Updated |
-| **Application 3** | Commercial Crime & Tax | [Commercial Crime](./COMMERCIAL_CRIME_REFINED_2026_02_04.md) / [NPA](./NPA_TAX_FRAUD_REPORT_REFINED_2026_02_04.md) | 🆕 Updated |
+| **Application 2** | CIPC & POPIA | [CIPC](./CIPC_COMPLAINT_REFINED_2026_02_05.md) / [POPIA](./POPIA_COMPLAINT_REFINED_2026_02_05.md) | 🆕 Updated |
+| **Application 3** | Commercial Crime & Tax | [Commercial Crime](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_05.md) / [NPA](./NPA_TAX_FRAUD_REPORT_REFINED_2026_02_05.md) | 🆕 Updated |
 
 ---
 
@@ -48,8 +48,8 @@ This index organizes all legal filings by application type and provides direct l
 
 | Filing | Type | Date | Link |
 |--------|------|------|------|
-| **CIPC Complaint** | Regulatory | **2026-02-04** | 🆕 [View](./CIPC_REFINED_2026_02_04.md) |
-| **POPIA Complaint** | Criminal | **2026-02-04** | 🆕 [View](./POPIA_REFINED_2026_02_04.md) |
+| **CIPC Director Disqualification** | Regulatory | **2026-02-05** | 🆕 [View](./CIPC_COMPLAINT_REFINED_2026_02_05.md) |
+| **POPIA Criminal Complaint** | Criminal | **2026-02-05** | 🆕 [View](./POPIA_COMPLAINT_REFINED_2026_02_05.md) |
 
 ### CIPC Violations
 - Section 76: Director's Standard of Conduct
@@ -82,8 +82,8 @@ This index organizes all legal filings by application type and provides direct l
 
 | Filing | Type | Date | Link |
 |--------|------|------|------|
-| **Commercial Crime Submission** | SAPS | **2026-02-04** | 🆕 [View](./COMMERCIAL_CRIME_REFINED_2026_02_04.md) |
-| **NPA Tax Fraud Report** | NPA/SARS | **2026-02-04** | 🆕 [View](./NPA_TAX_FRAUD_REPORT_REFINED_2026_02_04.md) |
+| **Commercial Crime Submission** | SAPS | **2026-02-05** | 🆕 [View](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_05.md) |
+| **NPA Tax Fraud Report** | NPA/SARS | **2026-02-05** | 🆕 [View](./NPA_TAX_FRAUD_REPORT_REFINED_2026_02_05.md) |
 
 ### Criminal Charges
 - Fraud (Common Law)
@@ -127,6 +127,7 @@ This index organizes all legal filings by application type and provides direct l
 
 | Date | CIPC | POPIA | NPA | Commercial Crime |
 |------|------|-------|-----|------------------|
+| 2026-02-05 | [View](./CIPC_COMPLAINT_REFINED_2026_02_05.md) | [View](./POPIA_COMPLAINT_REFINED_2026_02_05.md) | [View](./NPA_TAX_FRAUD_REPORT_REFINED_2026_02_05.md) | [View](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_05.md) |
 | 2026-02-04 | [View](./CIPC_REFINED_2026_02_04.md) | [View](./POPIA_REFINED_2026_02_04.md) | [View](./NPA_TAX_FRAUD_REPORT_REFINED_2026_02_04.md) | [View](./COMMERCIAL_CRIME_REFINED_2026_02_04.md) |
 
 ### January 2026
@@ -179,4 +180,4 @@ All filings must include:
 
 ---
 
-*Last updated by LEX Investigation System: 2026-02-04*
+*Last updated by LEX Investigation System: 2026-02-05*
