@@ -1,6 +1,6 @@
 # Revenue Stream Hijacking Case 2025-137857
 
-**Last Updated:** 2026-02-05
+**Last Updated:** 2026-02-06
 
 This site provides comprehensive evidence, analysis, and legal documentation for case 2025-137857 involving revenue stream hijacking, trust violations, and financial fraud totaling **R10,269,727.90**.
 
@@ -30,14 +30,16 @@ Critical new evidence added on 2026-02-05 significantly strengthens the case:
 | Marisca Meyer | Professional Accountant | Prepared fraudulent statements |
 | Nadine Van Greunen | De Novo Staff | Received fraud instructions |
 
-### Latest Filings (2026-02-05)
+### 🆕 CONSOLIDATED Filings (2026-02-06)
 
-| Filing | Type | Link |
-|--------|------|------|
-| CIPC Director Disqualification | Regulatory | [View](./filings/CIPC_COMPLAINT_REFINED_2026_02_05.md) |
-| POPIA Criminal Complaint | Criminal | [View](./filings/POPIA_COMPLAINT_REFINED_2026_02_05.md) |
-| NPA Tax Fraud Report | Criminal | [View](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_05.md) |
-| Commercial Crime Submission | Criminal | [View](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_05.md) |
+All 116 historical filing versions have been analyzed and consolidated into comprehensive documents:
+
+| Filing | Type | Link | Versions Consolidated |
+|--------|------|------|----------------------|
+| **CIPC Director Disqualification** | Regulatory | **[CONSOLIDATED](./filings/CIPC_COMPLAINT_CONSOLIDATED_2026_02_06.md)** | 39 versions |
+| **POPIA Criminal Complaint** | Criminal | **[CONSOLIDATED](./filings/POPIA_COMPLAINT_CONSOLIDATED_2026_02_06.md)** | 30 versions |
+| **NPA Tax Fraud Report** | Criminal | **[CONSOLIDATED](./filings/NPA_TAX_FRAUD_REPORT_CONSOLIDATED_2026_02_06.md)** | 28 versions |
+| **Commercial Crime Submission** | Criminal | **[CONSOLIDATED](./filings/COMMERCIAL_CRIME_SUBMISSION_CONSOLIDATED_2026_02_06.md)** | 19 versions |
 
 ---
 
@@ -144,4 +146,4 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 
 ---
 
-*Last Updated: 2026-02-05*
+*Last Updated: 2026-02-06*

@@ -1,6 +1,6 @@
 # Legal Filings Index
 
-**Last Updated:** 2026-02-05  
+**Last Updated:** 2026-02-06  
 **Case Number:** 2025-137857
 
 This index organizes all legal filings by application type and provides direct links to the latest versions.
@@ -12,8 +12,8 @@ This index organizes all legal filings by application type and provides direct l
 | Application | Type | Latest Filing | Status |
 |-------------|------|---------------|--------|
 | **Application 1** | Civil & Criminal | [Civil Action Summons](./civil_action_summons_REFINED_2026_01_18.md) | ✅ Ready |
-| **Application 2** | CIPC & POPIA | [CIPC](./CIPC_COMPLAINT_REFINED_2026_02_05.md) / [POPIA](./POPIA_COMPLAINT_REFINED_2026_02_05.md) | 🆕 Updated |
-| **Application 3** | Commercial Crime & Tax | [Commercial Crime](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_05.md) / [NPA](./NPA_TAX_FRAUD_REPORT_REFINED_2026_02_05.md) | 🆕 Updated |
+| **Application 2** | CIPC & POPIA | **[CIPC CONSOLIDATED](./CIPC_COMPLAINT_CONSOLIDATED_2026_02_06.md)** / **[POPIA CONSOLIDATED](./POPIA_COMPLAINT_CONSOLIDATED_2026_02_06.md)** | 🆕 **CONSOLIDATED** |
+| **Application 3** | Commercial Crime & Tax | **[Commercial Crime CONSOLIDATED](./COMMERCIAL_CRIME_SUBMISSION_CONSOLIDATED_2026_02_06.md)** / **[NPA CONSOLIDATED](./NPA_TAX_FRAUD_REPORT_CONSOLIDATED_2026_02_06.md)** | 🆕 **CONSOLIDATED** |
 
 ---
 
@@ -127,6 +127,7 @@ This index organizes all legal filings by application type and provides direct l
 
 | Date | CIPC | POPIA | NPA | Commercial Crime |
 |------|------|-------|-----|------------------|
+| **2026-02-06** | **[CONSOLIDATED](./CIPC_COMPLAINT_CONSOLIDATED_2026_02_06.md)** | **[CONSOLIDATED](./POPIA_COMPLAINT_CONSOLIDATED_2026_02_06.md)** | **[CONSOLIDATED](./NPA_TAX_FRAUD_REPORT_CONSOLIDATED_2026_02_06.md)** | **[CONSOLIDATED](./COMMERCIAL_CRIME_SUBMISSION_CONSOLIDATED_2026_02_06.md)** |
 | 2026-02-05 | [View](./CIPC_COMPLAINT_REFINED_2026_02_05.md) | [View](./POPIA_COMPLAINT_REFINED_2026_02_05.md) | [View](./NPA_TAX_FRAUD_REPORT_REFINED_2026_02_05.md) | [View](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_05.md) |
 | 2026-02-04 | [View](./CIPC_REFINED_2026_02_04.md) | [View](./POPIA_REFINED_2026_02_04.md) | [View](./NPA_TAX_FRAUD_REPORT_REFINED_2026_02_04.md) | [View](./COMMERCIAL_CRIME_REFINED_2026_02_04.md) |
 
@@ -180,4 +181,4 @@ All filings must include:
 
 ---
 
-*Last updated by LEX Investigation System: 2026-02-05*
+*Last updated by LEX Investigation System: 2026-02-06*
