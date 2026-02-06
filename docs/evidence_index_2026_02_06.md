@@ -15,6 +15,7 @@ This index includes all evidence up to and including the critical findings of Fe
 | **SF11** | Sage Registration Expired | 2025-08-25 | Rynette, as subscription owner, let the system expire on 23/07/2025, just before the interdict, proving **evidence concealment**. |
 | **SF12** | Rezonance Supplier Ledger | 2023-02-28 | Shows **R1,035,361.34 owed to Kayla Pretorius's company** six months before her death, establishing **motive**. |
 | **SF13** | Elliott Attorneys Letter of Demand | 2025-11-26 | Peter Faucitt's attorneys sent a demand on behalf of Rynette Farrar (a non-party), proving **coordinated conspiracy**. |
+| **SF16** | Respondent's Answering Affidavit | 2025-11-19 | Source document for the perjury allegations, proving they were made under oath in a court filing. |
 | **SF15** | Perjury Defence Evidence Matrix | 2026-02-06 | Proves all 8 allegations against Rynette are TRUE, making her perjury complaint a **false criminal report**. |
 | **SF14** | CORRECTION R18.685M Debt Structure | 2026-02-06 | Corrects the central financial motive, proving Danie Bantjies has **insider access to both ends of the R18.685M transaction**. |
 
@@ -62,6 +63,7 @@ This index includes all evidence up to and including the critical findings of Fe
 
 | Code | Document | Date |
 |:---:|---|---|
+| **SF16** | Respondent's Answering Affidavit | 2025-11-19 |
 | **SF15** | Perjury Defence Evidence Matrix | 2026-02-06 |
 | **SF14** | CORRECTION R18.685M Debt Structure | 2026-02-06 |
 | **SF13** | Elliott Attorneys Letter of Demand | 2025-11-26 |
