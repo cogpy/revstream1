@@ -1352,3 +1352,64 @@
   }
 }
 ```
+,      {
+        "relation_id": "REL_DEBT_001",
+        "relation_type": "owes_debt_to",
+        "source_entity": "ORG_017",
+        "target_entity": "TRUST_001",
+        "debt_amount": 18685000,
+        "currency": "ZAR",
+        "due_date": "2026-05-01",
+        "evidence": ["SF14"],
+        "significance": "Corrected central financial motive for the entire conspiracy."
+      },
+      {
+        "relation_id": "REL_CTRL_007",
+        "relation_type": "has_insider_access_to",
+        "source_entity": "PERSON_007",
+        "target_entity": "ORG_017",
+        "via_entity": "PERSON_010",
+        "evidence": ["SF14"],
+        "significance": "Establishes Bantjies insider connection to the debtor, enabling insider trading."
+      },
+      {
+        "relation_id": "REL_CTRL_008",
+        "relation_type": "controls_as_trustee",
+        "source_entity": "PERSON_007",
+        "target_entity": "TRUST_001",
+        "evidence": ["trust_deed"],
+        "significance": "Bantjies controls the creditor, completing the dual-control loop."
+      },
+      {
+        "relation_id": "REL_EMP_001",
+        "relation_type": "is_employee_of",
+        "source_entity": "PERSON_007",
+        "target_entity": "ORG_018",
+        "role": "CFO",
+        "evidence": ["employment_records"],
+        "significance": "Bantjies professional relationship with Kevin Derrick."
+      },
+      {
+        "relation_id": "REL_EMP_002",
+        "relation_type": "is_director_of",
+        "source_entity": "PERSON_010",
+        "target_entity": "ORG_018",
+        "evidence": ["CIPC_records"],
+        "significance": "Derrick is Bantjies superior at The George Group."
+      },
+      {
+        "relation_id": "REL_EMP_003",
+        "relation_type": "is_director_of",
+        "source_entity": "PERSON_010",
+        "target_entity": "ORG_017",
+        "evidence": ["CIPC_records"],
+        "significance": "Derrick controls the debtor company, Ketoni."
+      },
+      {
+        "relation_id": "REL_LEGAL_001",
+        "relation_type": "represents",
+        "source_entity": "ORG_019",
+        "target_entity": "PERSON_002",
+        "evidence": ["SF13"],
+        "significance": "Pottas Attorneys, representing Rynette, received instructions from Peter Faucitt's attorneys, proving conspiracy."
+      }

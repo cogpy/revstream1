@@ -1,289 +1,112 @@
-# Ketoni ZAR 18.75M Payout Timeline
+# Ketoni ZAR 18.685M Payout Timeline & Bantjies' Conflicts
 
 **CENTRAL FINANCIAL MOTIVE FOR CASE 2025-137857**  
-**Last Updated:** 2026-02-04
+**Last Updated:** 2026-02-06
 
 ## Executive Summary
 
-A **ZAR 18.75 million payout**, available as an option in **May 2026**, is owed by **Ketoni Investment Holdings** to the **Faucitt Family Trust**. This revelation, discovered in December 2025, fundamentally transforms the legal interpretation of every action taken by Peter Faucitt, Daniel Bantjies, and other actors since April 2023.
+The central financial motive for the entire criminal enterprise has been corrected and is **more damning than previously understood**.
+
+> **Ketoni Investment Holdings owes R18.685M to the Faucitt Family Trust**, not a personal debt involving Bantjies.
+
+This places Trustee **Danie Bantjies** in a position of **controlling both ends of the transaction** through his connection to Ketoni's director (Kevin Derrick), creating **six distinct conflicts of interest** and enabling charges of **insider trading** and **self-dealing**. All events since April 2023 are strategic maneuvers to seize control of this impending payout.
 
 **ALL EVENTS CONVERGE ON MAY 2026 PAYOUT DATE**
 
 ---
 
-## 🆕 NEW EVIDENCE: FNB Fraud Letter (2025-06-17)
+## Bantjies' Dual Control Loop & Six Conflicts of Interest
 
-Peter's letter to FNB dated 17 June 2025 provides critical context for the timeline:
+This corrected debt structure places Trustee Danie Bantjies in a position of unprecedented control over both ends of the transaction, creating six irreconcilable conflicts of interest:
 
-| Date | Event | Days After Fraud Exposure |
-|------|-------|---------------------------|
-| 2025-06-06 | Daniel exposes fraud to Bantjies | T-0 |
-| 2025-06-07 | Secret card cancellations | T+1 |
-| **2025-06-17** | **Peter writes FNB fraud letter** | **T+11** |
-| **2025-06-18** | **FNB confirms independent director mandate** | **T+12** |
+```mermaid
+graph TD
+    A[KETONI INVESTMENT HOLDINGS] -- Owes R18.685M --> B(FAUCITT FAMILY TRUST);
+    C(Danie Bantjies) -- Insider Access via Kevin Derrick --> A;
+    C -- Controls as Trustee --> B;
+    B -- Controls Distribution --> D{Beneficiaries};
+    C -- Controls Distribution --> D;
+```
 
-**Key Admissions:**
-- Peter acknowledges "suspected fraud" on RWD account
-- Peter warns FNB about being "accessory after the fact"
-- Peter admits potential "Exchange Control Regulations" violations
-- FNB letterhead shows **rynette@regima.zone** as primary contact
+| # | Conflict | Description |
+|---|---|---|
+| **1** | **Commissioner of Oaths** | Swore his own false affidavit in support of the interdict. |
+| **2** | **Trustee of FFT** | Has a fiduciary duty to the very beneficiaries he helped neutralize. |
+| **3** | **Affidavit Witness** | Provided perjured supporting testimony against a beneficiary. |
+| **4** | **CFO of George Group** | Employer of Kevin Derrick, Director of Ketoni. |
+| **5** | **Insider Access to Ketoni** | Through his professional relationship with Kevin Derrick. |
+| **6** | **Controls Distribution** | As Trustee, he decides how the R18.685M is distributed. |
 
-**[→ View FNB Fraud Letter Analysis](./evidence/FNB_FRAUD_LETTER_2025_06_17/PAF_FNB_FRAUD_LETTER_2025_06_17_OCR.md)**
+**[→ Read the Full Super-Sleuth Analysis](./super_sleuth_report_2026_02_06.md)**
 
 ---
 
 ## Timeline Phases
 
-### Phase 1: Investment Phase (Feb-Apr 2023)
-**ZAR 18.75M entitlement established**
+### Phase 1: Investment & Network Setup (Feb-May 2023)
+**ZAR 18.685M entitlement and insider network established**
 
 | Date | Event | T-Minus | Significance |
-|------|-------|---------|--------------|
-| 2023-02-20 | Ketoni Investment Holdings incorporated | T-39 months | Investment vehicle created |
-| 2023-04-24 | FFT invests in Ketoni | T-37 months | ZAR 18.75M payout entitlement established |
-| 2023-05 | Bantjies joins The George Group | T-36 months | Network connection established |
-
-**Key Details:**
-- Faucitt Family Trust acquires 5,000 A-Ordinary shares in Ketoni Investment Holdings (Certificate #3)
-- Three-year payout schedule: May 2026, May 2027, May 2029
-- Each beneficiary (Peter, Jax, Dan) entitled to 1/3 share (ZAR 6.25M each)
-- Bantjies joins The George Group as CFO **one month after** FFT receives Ketoni shares
+|---|---|---|---|
+| 2023-02-20 | Ketoni Investment Holdings incorporated | T-39 months | Investment vehicle created. |
+| 2023-04-24 | FFT invests in Ketoni | T-37 months | ZAR 18.685M payout entitlement established. |
+| 2023-05 | Bantjies joins The George Group | T-36 months | **CRITICAL: Bantjies becomes colleague of Ketoni director Kevin Derrick.** |
 
 ---
 
-### Phase 2: Creditor Elimination Phase (Jul 2023 - Feb 2024)
-**R1M debt obstacle elimination**
+### Phase 2: Obstacle Elimination (Jul 2023 - Feb 2024)
+**R1M+ debt and creditor eliminated**
 
 | Date | Event | T-Minus | Significance |
-|------|-------|---------|--------------|
-| 2023-07-13 | Kayla Pretorius death | T-34 months | ReZonance creditor eliminated 80 days after investment |
-| 2024-02-14 | ReZonance dissolution pressure | T-27 months | Eliminate R1,035,000+ debt obstacle |
-
-**Key Details:**
-- Kayla Pretorius (Dan's partner, ReZonance director) dies 80 days after Ketoni investment
-- ReZonance owed R1,035,000+ by RegimA Skin Treatments
-- ZAR 18.75M payout dwarfs R1M debt - debt is obstacle to control
-- Pressure applied to dissolve ReZonance and eliminate debt claim
-
-**Red Flags:**
-- Timing: Death 80 days after ZAR 18.75M investment
-- Financial context: R1M debt obstacle to ZAR 18.75M control
-- Court order seized Kayla's email (interfered with law enforcement investigation)
+|---|---|---|---|
+| 2023-02-28 | Rezonance Debt at R1,035,361.34 | T-38 months | R1M+ debt owed to Kayla's company. |
+| 2023-07-13 | Kayla Pretorius death | T-34 months | R1M+ creditor eliminated 80 days after investment. |
+| 2024-02-14 | ReZonance dissolution pressure | T-27 months | Pressure to formally eliminate the R1M+ debt. |
 
 ---
 
-### Phase 3: Control Consolidation Phase (Jul 2024 - Aug 2025)
-**Peter consolidates control before May 2026**
+### Phase 3: Control Consolidation (Jul 2024 - Aug 2025)
+**Peter and Bantjies consolidate control before May 2026**
 
 | Date | Event | T-Minus | Significance |
-|------|-------|---------|--------------|
-| 2024-07 | Bantjies appointed FFT Trustee | T-10 months | Strategic appointee connected to Ketoni director |
-| 2025-06-06 | Dan exposes Villa Via fraud | T-11 months | Fraud threatens trust control mechanisms |
-| 2025-06-07 | Cards cancelled <24 hours | T-11 months | Immediate retaliation for fraud exposure |
-| **2025-06-17** | **Peter writes FNB fraud letter** | **T-11 months** | **Acknowledges fraud, Exchange Control violations** |
-| **2025-06-18** | **FNB confirms independent mandate** | **T-11 months** | **Bank mandate structure revealed** |
-| 2025-08-11 | Main Trustee power backdated | T-9 months | Peter gains sole control (backdated to T-10) |
-| 2025-08-13 | Interdict filed (Jax & Dan) | T-9 months | Neutralize beneficiaries before payout |
-| 2025-08 | Medical testing rushed | T-9 months | Curatorship fraud to control Dan's share |
-
-**Key Details:**
-
-#### Bantjies Appointment (July 2024, T-10 months)
-- Daniel Jacobus Bantjies appointed FFT Trustee by Rynette
-- **Ketoni Connection**: Bantjies is colleague of Kevin Derrick (Ketoni Director) at The George Group
-- **Dual Role Conflict**: Accountant for all Faucitt companies + FFT Trustee
-- **Timing**: Exactly T-10 months before first payout date
-
-#### Dan's Fraud Exposure (June 6, 2025, T-11 months)
-- Dan exposes Villa Via fraud (86% rent profit extraction) to Bantjies
-- Dan contacted Bantjies as accountant, unaware of trustee appointment
-- Fraud threatens to expose trust control mechanisms before payout
-
-#### Immediate Retaliation (June 7, 2025, T-11 months)
-- Dan's cards cancelled <24 hours after fraud exposure
-- Demonstrates coordination between Peter, Rynette, and Bantjies
-- Intent to punish fraud exposure and protect payout control
-
-#### FNB Fraud Letter (June 17, 2025, T-11 months) 🆕
-- Peter writes to FNB acknowledging "suspected fraud" on RWD account
-- Warns FNB about being "accessory after the fact"
-- Admits potential Exchange Control violations
-- **Contradicts** Peter's court position claiming Dan and Jax are perpetrators
-
-#### FNB Response (June 18, 2025, T-11 months) 🆕
-- FNB confirms: "any of the directors of the company may act independently"
-- No co-signature required for transactions
-- Directors must pass resolution to change mandate
-- Reveals corporate governance structure
-
-#### Main Trustee Power Backdating (August 11, 2025, T-9 months)
-- Jax signs document backdating Peter's "Main Trustee" designation to July 1, 2025
-- Peter gains sole control over FFT before May 2026 payout
-- Backdating to T-10 months (same timing as Bantjies appointment)
-
-#### 48-Hour Betrayal (August 13, 2025, T-9 months)
-- Peter and Bantjies file interdict against Jax and Dan
-- **48 hours after Jax signed Main Trustee document**
-- Neutralizes both beneficiaries before May 2026 payout
-- Jax cannot oppose Peter's payout decisions as neutralized trustee
-
-#### Medical Testing & Curatorship Fraud (August 2025, T-9 months)
-- Medical testing rushed for Dan
-- **Curatorship = Peter controls Dan's entire ZAR 6.25M share**
-- No medical basis for testing
-- Dan's competence demonstrated by fraud analysis
-
-**Red Flags:**
-- **Timing Convergence**: All control actions T-9 to T-11 months before payout
-- **Bantjies-Ketoni Connection**: Trustee connected to Ketoni director
-- **Immediate Retaliation**: <24 hours after fraud exposure
-- **FNB Letter Contradiction**: Peter acknowledges fraud while blaming Dan and Jax in court
-- **48-Hour Betrayal**: Cooperation → Betrayal in 48 hours
-- **Forum Shopping**: Family court instead of commercial court
-- **Curatorship Fraud**: Medical testing for financial control
+|---|---|---|---|
+| 2024-07 | Bantjies appointed FFT Trustee | T-22 months | **CRITICAL: Ketoni-connected trustee appointed.** |
+| 2025-06-06 | Dan exposes Villa Via fraud | T-11 months | Fraud exposure triggers immediate retaliation. |
+| 2025-06-07 | Cards cancelled <24 hours | T-11 months | Coordinated retaliation proves conspiracy. |
+| 2025-06-17 | Peter writes FNB fraud letter | T-11 months | Admits fraud awareness & Exchange Control violations. |
+| 2025-06-20 | Rynette Identity Fraud | T-11 months | Rynette uses `pete@regima.com` in Sage. |
+| 2025-07-23 | Sage System Lockout | T-10 months | Rynette conceals evidence before interdict. |
+| 2025-08-11 | Main Trustee power backdated | T-9 months | Peter gains sole control over the Trust. |
+| 2025-08-13 | Interdict filed (Jax & Dan) | T-9 months | Beneficiaries neutralized 48 hours after cooperation. |
 
 ---
 
-### Phase 4: Payout Phase (May 2026)
+### Phase 4: Payout & Seizure (May 2026)
 **ALL EVENTS CONVERGE HERE**
 
 | Date | Event | T-Minus | Significance |
-|------|-------|---------|--------------|
-| 2026-05 | Ketoni ZAR 18.75M payout due | T-0 | **EVERYTHING CONVERGES HERE** |
+|---|---|---|---|
+| 2026-05 | Ketoni ZAR 18.685M payout due | T-0 | **PAYOUT & SEIZURE** |
 
 **Control Structure Before Payout:**
-- **Peter**: Main Trustee with sole control
-- **Bantjies**: Co-trustee, Ketoni connection
-- **Jax**: Neutralized via interdict (cannot oppose payout decisions)
-- **Dan**: Targeted for curatorship (Peter controls his share)
+- **Peter**: Main Trustee with sole control.
+- **Bantjies**: Co-trustee with insider access to the debtor (Ketoni).
+- **Jax**: Neutralized via interdict.
+- **Dan**: Targeted for curatorship.
 
-**Beneficiary Entitlements:**
-- Peter: 1/3 share (ZAR 6.25M)
-- Jax: 1/3 share (ZAR 6.25M) - neutralized
-- Dan: 1/3 share (ZAR 6.25M) - targeted for control
-
-**Payout Distribution Control:**
-- Peter has sole control as Main Trustee
-- Jax neutralized, cannot oppose decisions
-- Dan targeted for curatorship (Peter controls his share)
-- Bantjies supports Peter (Ketoni connection)
-
----
-
-## Why This Matters
-
-### Forum Shopping Explained
-**Why family court instead of commercial court?**
-
-- **Commercial Court**: Appropriate forum for trust disputes, beneficiary protection
-- **Family Court**: Chosen by Peter - allows control over beneficiaries' shares
-- **Motive**: Family court enables medical testing, curatorship, beneficiary control
-- **Result**: Peter can control payout distribution through curatorship
-
-### Bantjies Appointment Timing
-**Why T-10 months before payout?**
-
-- **Appointment**: July 2024 (T-10 months before May 2026)
-- **Connection**: Bantjies colleague of Kevin Derrick (Ketoni Director)
-- **Motive**: Position Ketoni-connected trustee to control payout distribution
-- **Result**: Peter + Bantjies control trust before payout
-
-### FNB Fraud Letter Contradiction 🆕
-**Why does Peter acknowledge fraud while blaming Dan and Jax?**
-
-- **FNB Letter (2025-06-17)**: Peter acknowledges "suspected fraud" on RWD account
-- **Court Filing (2025-08-13)**: Peter claims Dan and Jax are the perpetrators
-- **Contradiction**: Peter cannot both acknowledge fraud AND blame Dan/Jax
-- **Implication**: Peter's court position is contradicted by his own letter
-
-### Jax's 48-Hour Betrayal
-**Why betray Jax 48 hours after cooperation?**
-
-- **Cooperation**: Aug 11, 2025 - Jax signs Main Trustee document
-- **Betrayal**: Aug 13, 2025 - Peter interdicts Jax 48 hours later
-- **Timing**: T-9 months before May 2026 payout
-- **Motive**: Neutralize Jax as trustee before payout distribution
-- **Result**: Jax cannot oppose Peter's payout decisions
-
-### Dan's Curatorship Fraud
-**Why target Dan for curatorship?**
-
-- **Fraud Exposure**: Jun 6, 2025 - Dan exposes Villa Via fraud
-- **Retaliation**: Jun 7, 2025 - Cards cancelled <24 hours
-- **Interdict**: Aug 13, 2025 - T-9 months before payout
-- **Medical Testing**: Aug 2025 - Rushed for curatorship
-- **Motive**: Curatorship = Peter controls Dan's entire ZAR 6.25M share
-- **Result**: Peter controls 2/3 of payout (his share + Dan's share)
+**Result:** Peter and Bantjies are positioned to control the distribution of the R18.685M payout, having neutralized all other beneficiaries.
 
 ---
 
 ## Legal Implications
 
-### Fiduciary Duty Breach
-- Peter's personal interest (maximize his share) vs beneficiaries' interests
-- Trustee using trust mechanisms to control beneficiaries' shares
-- Abuse of trustee powers for personal financial gain
-
-### Abuse of Process
-- Legal mechanisms weaponized for financial control
-- Forum shopping to enable beneficiary control
-- Medical testing as tool for curatorship fraud
-- Interdict to neutralize trustee and beneficiary
-
-### Exchange Control Violations 🆕
-- Peter acknowledges potential Exchange Control violations in FNB letter
-- "dollar-based subscription expense" passing through RWD account
-- SARB jurisdiction for international remittances
-
-### Criminal Threshold (95% Exceeded)
-- **Timing Convergence**: All events point to May 2026 (0.97 confidence)
-- **Beneficiary Targeting**: Systematic neutralization (0.96 confidence)
-- **Forum Shopping**: Family court for control (0.95 confidence)
-- **Trustee-Beneficiary Conflict**: Peter's dual role (0.97 confidence)
-- **Curatorship for Asset Control**: Medical testing fraud (0.96 confidence)
-- **FNB Letter Contradiction**: Director's own admission (0.98 confidence) 🆕
-
----
-
-## Evidence References
-
-### Primary Sources
-- **[FNB Fraud Letter (2025-06-17)](https://github.com/cogpy/ad-res-j7/tree/main/evidence/FNB_FRAUD_LETTER_2025_06_17)** 🆕
-- **[FNB Response Email (2025-06-18)](https://github.com/cogpy/ad-res-j7/tree/main/evidence/FNB_RESPONSE_EMAIL_2025_06_18)** 🆕
-- **[KETONI_TRUST_MAY2026_PAYOUT_ANALYSIS.md](https://github.com/cogpy/ad-res-j7/blob/main/evidence/KETONI_TRUST_MAY2026_PAYOUT_ANALYSIS.md)**
-- **[KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md](https://github.com/cogpy/ad-res-j7/blob/main/KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md)**
-- **evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md**
-
-### Supporting Evidence
-- Ketoni investment documentation
-- FFT shareholder records (5,000 A-Ordinary shares, Certificate #3)
-- Trustee appointment documentation
-- Interdict application (case 2025-137857)
-- Main Trustee designation document (backdated)
-- Medical testing documentation
-- Fraud exposure correspondence (2025-06-06)
-- Card cancellation records (2025-06-07)
-
----
-
-## Conclusion
-
-The Ketoni ZAR 18.75M payout (May 2026) is the **central financial motive** that explains all trust control actions since April 2023. The timing convergence is undeniable:
-
-- **T-39 months**: Ketoni Investment Holdings incorporated
-- **T-37 months**: Investment establishes ZAR 18.75M entitlement
-- **T-36 months**: Bantjies joins The George Group (Ketoni connection)
-- **T-34 months**: Creditor elimination (Kayla's death)
-- **T-10 months**: Strategic trustee appointment (Bantjies-Ketoni connection)
-- **T-11 months**: Fraud exposure, retaliation, FNB fraud letter 🆕
-- **T-9 months**: Power consolidation (Main Trustee, interdict, medical testing)
-- **T-0**: **ALL EVENTS CONVERGE ON MAY 2026 PAYOUT**
-
-This is not coincidence. This is systematic, coordinated control consolidation before a ZAR 18.75M payout distribution.
+*   **Insider Trading:** Bantjies' dual role as trustee and his connection to the debtor (Ketoni) constitutes insider trading.
+*   **Self-Dealing:** Bantjies is positioned to benefit himself by controlling both ends of the transaction.
+*   **Fiduciary Duty Breach:** Peter and Bantjies have acted in their own self-interest, not the beneficiaries'.
+*   **Abuse of Process:** The legal system has been weaponized to facilitate financial gain.
 
 **Criminal threshold (95%): EXCEEDED**
 
 ---
 
-*Last Updated: 2026-02-04*  
-*Data Model Version: v29.0 (FNB Fraud Letter Integrated)*
+*Last Updated: 2026-02-06*
