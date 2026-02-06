@@ -1,9 +1,20 @@
 # Entities Index
 
-**Last Updated:** 2026-02-04  
-**Total Entities:** 90+
+**Last Updated:** 2026-02-06  
+**Total Entities:** 95+
 
 This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hijacking.
+
+---
+
+## 🆕 NEW: February 2026 Update
+
+**Critical Correction:** The R18.685M debt structure has been corrected. Ketoni Investment Holdings owes the Faucitt Family Trust (NOT Bantjies owing Peter/Jacqui). See [Super-Sleuth Report 2026-02-06](../super_sleuth_report_2026_02_06.md) for details.
+
+**New Entities Added:**
+- [ORG_017](./ORG_017.md) - Ketoni Investment Holdings (Debtor to FFT)
+- [ORG_018](./ORG_018.md) - The George Group (Bantjies' Employer)
+- [ORG_019](./ORG_019.md) - Pottas Attorneys (Rynette's Legal Representation)
 
 ---
 
@@ -21,7 +32,7 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 | Entity ID | Name | Role | Evidence Strength |
 |-----------|------|------|-------------------|
 | [PERSON_003](./PERSON_003.md) | Adderory (Rynette's Son) | Co-Conspirator (Family) | Strong |
-| [PERSON_007](./PERSON_007.md) | Daniel Jacobus Bantjies | Strategic Appointee/Accountant | Strong |
+| [PERSON_007](./PERSON_007.md) | Daniel Jacobus Bantjies | Strategic Appointee/Accountant/CFO | **Conclusive (95%+)** 🆕 |
 
 ### Victims/Respondents
 
@@ -41,7 +52,7 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 | [PERSON_011](./PERSON_011.md) | Chantal | Kayla Estate Representative | Estate Matters |
 | [PERSON_012](./PERSON_012.md) | Jacqueline "Jax" Faucitt | FFT Trustee | Neutralized via Interdict |
 | [PERSON_013](./PERSON_013.md) | Kayla Pretorius | ReZonance Co-Director | Deceased (SF6) |
-| [PERSON_014](./PERSON_014.md) | Kevin Michael Derrick | Ketoni Director | Bantjies Connection |
+| [PERSON_014](./PERSON_014.md) | Kevin Michael Derrick | **Director: George Group + Ketoni** | **Key Connection** 🆕 |
 
 ---
 
@@ -80,7 +91,21 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 |-----------|------|------|-----------|
 | [ORG_007](./ORG_007.md) | Ian Levitt Attorneys | Legal | R63M Demand (SF9) |
 | [ORG_015](./ORG_015.md) | SARS | Revenue Service | Tax Audit |
-| [ORG_016](./ORG_016.md) | Ketoni Investment Holdings | Investment | ZAR 18.75M Payout |
+| [ORG_016](./ORG_016.md) | Ketoni Investment Holdings | Investment | **See ORG_017** |
+
+### 🆕 NEW: Ketoni Connection Entities
+
+| Entity ID | Name | Registration | Role |
+|-----------|------|--------------|------|
+| [ORG_017](./ORG_017.md) | **Ketoni Investment Holdings** | K2023562189 | **Debtor - Owes R18.685M to FFT** |
+| [ORG_018](./ORG_018.md) | **The George Group** | K2018619716 | **Bantjies' Employer** |
+
+### 🆕 NEW: Legal Practices
+
+| Entity ID | Name | Role | Client |
+|-----------|------|------|--------|
+| [ORG_007](./ORG_007.md) | Elliott Attorneys | Peter's Attorneys | Peter Faucitt |
+| [ORG_019](./ORG_019.md) | **Pottas Attorneys** | Rynette's Attorneys | Rynette Farrar |
 
 ---
 
@@ -88,7 +113,7 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 
 | Entity ID | Name | Trustees | Significance |
 |-----------|------|----------|--------------|
-| [TRUST_001](./TRUST_001.md) | Faucitt Family Trust (FFT) | Peter, Jax, Bantjies | Central to ZAR 18.75M motive |
+| [TRUST_001](./TRUST_001.md) | Faucitt Family Trust (FFT) | Peter, Jax, Bantjies | **Creditor of R18.685M from Ketoni** 🆕 |
 
 ---
 
@@ -120,20 +145,29 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 
 ## Key Entity Relationships
 
-### Ketoni Connection (Central Motive)
+### 🆕 Corrected Ketoni Connection (Central Motive)
 
 ```
-Ketoni Investment Holdings (ORG_016)
-    ├── Director: Kevin Michael Derrick (PERSON_014)
-    │       └── Colleague of: Daniel Jacobus Bantjies (PERSON_007)
+Ketoni Investment Holdings (ORG_017)
     │
-    └── Shareholder: Faucitt Family Trust (TRUST_001)
+    ├── Director: Kevin Michael Derrick (PERSON_014)
+    │       │
+    │       └── Also Director of: The George Group (ORG_018)
+    │               │
+    │               └── CFO: Danie Bantjies (PERSON_007)
+    │
+    └── OWES R18.685M TO: Faucitt Family Trust (TRUST_001)
+            │
             ├── Trustee: Peter Andrew Faucitt (PERSON_001)
             ├── Trustee: Jacqueline Faucitt (PERSON_012) - Neutralized
-            └── Trustee: Daniel Jacobus Bantjies (PERSON_007) - Appointed by Rynette
+            └── Trustee: Daniel Jacobus Bantjies (PERSON_007)
             
-    ZAR 18.75M Payout Due: May 2026
+    PAYOUT DUE: May 2026
 ```
+
+**Bantjies' Dual Control:**
+1. **Insider Access** to Ketoni via Kevin Derrick (knows when payment will occur)
+2. **Distribution Control** as FFT Trustee (decides how payment is distributed)
 
 ### Control Structure
 
@@ -145,8 +179,17 @@ Peter Andrew Faucitt (PERSON_001)
 
 Rynette Farrar (PERSON_002)
     ├── Financial Controller: All RegimA entities
-    ├── Sage System Control: pete@regima.com + rynette@regima.zone
+    ├── Sage System Owner: Subscription expired 23/07/2025
+    ├── Dual Email Access: pete@regima.com + rynette@regima.zone
     └── Appointed: Bantjies as Trustee (July 2024)
+
+Danie Bantjies (PERSON_007) - SIX CONFLICTS
+    ├── Commissioner of Oaths
+    ├── Trustee of FFT
+    ├── Affidavit Witness
+    ├── CFO of George Group
+    ├── Insider Access to Ketoni
+    └── Controls Distribution of R18.685M
 ```
 
 ---
@@ -156,8 +199,9 @@ Rynette Farrar (PERSON_002)
 - **[Evidence Index](../evidence-index-enhanced.md)** - Comprehensive evidence catalog
 - **[Timeline](../timeline.md)** - Chronological event sequence
 - **[Relations](../relations/index.md)** - Entity relationship mapping
+- **[Super-Sleuth Report 2026-02-06](../super_sleuth_report_2026_02_06.md)** - Latest analysis
 - **[ad-res-j7 Repository](https://github.com/cogpy/ad-res-j7)** - Extended evidence
 
 ---
 
-*Last updated by LEX Investigation System: 2026-02-04*
+*Last updated by LEX Investigation System: 2026-02-06*
